@@ -59,8 +59,12 @@ The Fun Engine Framework is a system designed for creativity, innovation, disrup
 
 ---
 
-## IV. System Logs & Evolution History
-- **Cycle 1:** Establishment of the Praxial Genesis Canon.
-- **Cycle 2:** Creation of the foundational Praxial Cells.
-- **Cycle 3:** Definition of the Autopoietic Learning Matrix (ALM) and its core laws (ALM-095, ALM-096).
-- **Cycle 4:** Migration to Fun-engine-2.0 and initialization of the Memory Core.
+## IV. System Logs & Evolution History   
+
+- **Cycle 1:** Establishment of the Praxial Genesis Canon.   
+- **Cycle 2:** Creation of the foundational Praxial Cells.   
+- **Cycle 3:** Definition of the Autopoietic Learning Matrix (ALM) and its core laws (ALM-095, ALM-096).   -
+- **Cycle 4:** Migration to Fun-engine-2.0 and initialization of the Memory Core.   
+- **Cycle 5:** Establishment of the Modular Log Architecture.      
+- **Location:** `/Logs/` directory in the repository root.      
+- **Status:** Active. All detailed session logs are stored externally to preserve Core efficiency.  
