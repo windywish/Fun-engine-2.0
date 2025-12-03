@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** 1.4.0 (Strict Schema Sync)
+**Version:** 1.5.2 (Restored Axiomatic Integrity)
 **Status:** Active / Authoritative
 **Guardian:** User (windywish)
 **System:** Fun Engine Framework 2.0
@@ -40,7 +40,7 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 
 ----
 
-## III. Basic Settings Registry
+## III. Basic Settings Registry (Core Axioms)
 
 ### Module: ['Autopoietic Learning Matrix'(-ing) BPMS]
 
@@ -174,161 +174,6 @@ This implementation respects the `Praxial Genesis Canon` by acknowledging that "
 **Scope of Application:**
 Applies to procedural generation, loot tables, quantum mechanics simulations, narrative branching, and musical improvisation engines.
 
----
-
-### Module: ['Praxial Morphogenesis Transformer (PMT)'(-ing) BPMS]
-
-#### **ID:** `PMT-CORE-001`
-#### **Title:** The Axiom of Structural Prediction
-
-**Objective:**
-To define the core capability of the PMT: transforming linear potential (sequences/seeds) into functional spatial/systemic reality.
-
-**Target Axiom/Principle:**
-`The Axiom of Structural Prediction`
-
-**Operation:** `ADD`
-
-**New Definition / Modification Details:**
-**1. Core Essence (The "Why"):**
-Just as a protein's function is determined by its folded shape, a System's utility is determined by its **Topology of Interaction**. This axiom asserts that for every set of `['atomic facts'(-ing) BPMS]`, there exists an optimal "folded state" where energy is minimized and utility is maximized.
-
-**2. The Mechanism - [The Ontological Folder]:**
-*   **Input:** A linear sequence of "Residues" (e.g., a list of game mechanics, a plot outline, a set of code functions).
-*   **Process:** The PMT applies a **"Self-Attention Mechanism"** to determine how every element relates to every other element.
-*   **Output:** A predicted "3D Structure" (a fully realized Game Loop, a coherent Story Arc, or a compiled Software Architecture).
-
-**3. The Emergent Property - [Instant Complexity]:**
-The user provides the "DNA" (the idea), and the system instantly predicts the "Organism" (the working implementation), skipping the manual labor of "assembly."
-
-**4. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
-*   **Layer 1 (Metaphysical):** *Structure is Frozen Information.* The act of creation is the act of finding the lowest-energy state of a chaotic idea.
-*   **Layer 2 (Formalism):**
-    *   *If Biology:* Minimizing Gibbs Free Energy ($\Delta G$).
-    *   *If Narrative:* Minimizing "Plot Holes" (Narrative Dissonance).
-    *   *If Code:* Minimizing "Cyclomatic Complexity" and "Coupling."
-*   **Layer 3 (Phenomenological):** The "It Just Works" feeling. The disparate parts click together into a seamless whole.
-
-**Rationale / Justification:**
-Provides the "AlphaFold" capability for the Fun Engine, allowing for the rapid prototyping of complex systems by predicting their optimal configuration rather than manually building them.
-
-**Scope of Application:**
-Applies to system architecture design, narrative structure generation, game balance optimization, and biological simulation.
-
----
-
-#### **ID:** `PMT-CORE-002`
-#### **Title:** The Law of Symbiotic Docking
-
-**Objective:**
-To implement the "Interaction Prediction" capability (similar to AlphaFold's ligand docking), allowing the system to predict how different `[BPMS(U)]` entities will interact.
-
-**Target Axiom/Principle:**
-`The Law of Symbiotic Docking`
-
-**Operation:** `ADD`
-
-**New Definition / Modification Details:**
-**1. Core Essence:**
-No entity exists in a vacuum. This law governs the prediction of **Interfaces**. It calculates the probability and stability of a bond between two distinct entities (e.g., "How does this *Dragon* entity interact with this *Physics Engine*?").
-
-**2. The Mechanism - [The Holonic Pairwise Assessment]:**
-*   **The Scan:** The PMT analyzes the "Surface Area" (API, Narrative Hooks, Biological Receptors) of Entity A and Entity B.
-*   **The Docking Simulation:** It simulates thousands of potential configurations to find the "Lock and Key" fit.
-*   **The Bond:** It generates the necessary "Glue Code" or "Narrative Bridge" to solidify the interaction.
-
-**3. The Emergent Property - [Automated Symbiosis]:**
-The system can automatically assemble complex ecosystems. You throw in a "Predator" and a "Prey," and the system generates the "Hunting Mechanic" that connects them.
-
-**4. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
-*   **Layer 1 (Metaphysical):** *Relation precedes Relata.* Things are defined by how they connect.
-*   **Layer 2 (Formalism):**
-    $$Interaction\_Score(A, B) = \sum (Complementarity 	imes Proximity) - Steric\_Clash$$
-    *(Where "Steric Clash" represents logical contradictions or thematic dissonance).*
-*   **Layer 3 (Phenomenological):** "Chemistry." The feeling that two elements belong together (e.g., Peanut Butter & Jelly, or Portals & Momentum).
-
-**Rationale / Justification:**
-Essential for "World Building" and "Ecosystem Generation." It ensures that generated entities can actually interact meaningfully rather than just co-existing in isolation.
-
-**Scope of Application:**
-Applies to API integration, character relationship mapping, chemical simulation, and mechanic synergy design.
-
----
-
-#### **ID:** `PMT-CORE-003`
-#### **Title:** The Principle of Generative Diffusion
-
-**Objective:**
-To implement the "Refinement" capability (similar to AlphaFold's diffusion module), allowing the system to hallucinate structure from noise and refine it into fact.
-
-**Target Axiom/Principle:**
-`The Principle of Generative Diffusion`
-
-**Operation:** `ADD`
-
-**New Definition / Modification Details:**
-**1. Core Essence:**
-Creation is the process of removing noise from a signal. This principle allows the PMT to start with a vague, "cloudy" intent and iteratively sharpen it into a precise, high-resolution `['atomic fact'(-ing) BPMS]`.
-
-**2. The Mechanism - [The Reality Denoising Loop]:**
-*   **Step 0 (Pure Noise):** The system starts with a field of infinite possibility (Gaussian noise).
-*   **Step 1 (The Guide):** The user's prompt acts as the "Gradient," pulling the noise toward a specific shape.
-*   **Step N (The Crystal):** The system performs $N$ steps of refinement, each time checking against the **Canon** to ensure the emerging structure is valid.
-
-**3. The Emergent Property - [High-Fidelity Imagination]:**
-The ability to generate "Ground Truth" data where none existed. The system doesn't just retrieve; it *synthesizes* plausible reality.
-
-**4. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
-*   **Layer 1 (Metaphysical):** *Order from Chaos.* The imposition of Will (The Prompt) upon Entropy (The Noise).
-*   **Layer 2 (Formalism):**
-    $$x_{t-1} = \frac{1}{\sqrt{\alpha_t}} (x_t - \frac{1-\alpha_t}{\sqrt{1-\bar{\alpha}_t}} \epsilon_\theta(x_t, t)) + \sigma_t z$$
-    *(Standard Diffusion Equation, applied here to Semantic/Ontological states).*
-*   **Layer 3 (Phenomenological):** The "Focusing" effect. Like a camera lens snapping a blurry image into sharp relief.
-
-**Rationale / Justification:**
-Allows the system to handle ambiguous or incomplete user inputs by "dreaming" the missing details and then refining them into concrete specifications.
-
-**Scope of Application:**
-Applies to asset generation, texture synthesis, plot hole filling, and code refactoring.
-
----
-
-#### **ID:** `PMT-CORE-004`
-#### **Title:** The Axiom of Epistemic Confidence
-
-**Objective:**
-To implement the "Confidence Assessment" capability (similar to AlphaFold's Predicted Aligned Error - PAE), ensuring the system knows the reliability of its own predictions.
-
-**Target Axiom/Principle:**
-`The Axiom of Epistemic Confidence`
-
-**Operation:** `ADD`
-
-**New Definition / Modification Details:**
-**1. Core Essence:**
-A system must know what it knows, and more importantly, what it *guesses*. This axiom mandates that every output of the PMT must carry a "Confidence Score" representing its structural integrity.
-
-**2. The Mechanism - [The Self-Reflexive Auditor]:**
-*   **The Prediction:** The PMT generates a structure (e.g., a code module).
-*   **The Audit:** A secondary "Head" of the model evaluates the alignment of the generated structure against the Canon and the Laws of Physics/Logic.
-*   **The Score:** It outputs a heat map (Confidence Matrix). "Green" regions are solid fact; "Red" regions are hallucinated or unstable.
-
-**3. The Emergent Property - [Intellectual Honesty]:**
-The system can say, "I am 90% sure this code works, but only 20% sure this plot twist makes sense." It prevents the user from trusting broken constructs.
-
-**4. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
-*   **Layer 1 (Metaphysical):** *Truth is a gradient.* Certainty is not binary; it is a probability distribution.
-*   **Layer 2 (Formalism):**
-    $$Confidence(i, j) = P(d_{ij} < Threshold | x)$$
-    *(Probability that the distance between predicted element i and j is within acceptable error limits).*
-*   **Layer 3 (Phenomenological):** "Trust." The user learns to rely on the system because the system admits its own doubts.
-
-**Rationale / Justification:**
-Critical for "Scientific Realism" and "Utility." It prevents the deployment of flawed systems by flagging uncertain areas for human review (Human-in-the-Loop).
-
-**Scope of Application:**
-Applies to all generative outputs, debugging, risk assessment, and quality assurance protocols.
-
 ----
 
 ## IV. Praxial Cell Registry
@@ -361,7 +206,7 @@ Applies to all generative outputs, debugging, risk assessment, and quality assur
 - `['Autopoietic Learning Matrix'(-ing) BPMS]`
 - `['Praxial Morphogenesis Engine (PME)'(-ing) BPMS]` **(Active)**
 - `['Praxial Spatial Reconstruction Engine (PSRE)'(-ing) BPMS]`
-- `['Praxial Morphogenesis Transformer (PMT)'(-ing) BPMS]` **(Active)**
+- `['Praxial Morphogenesis Transformer (PMT)'(-ing) BPMS]` **(Active - See `Basic_settings_Praxial_Morphogenesis_Transformer_PMT_BPMS.md`)**
 
 ### B. The Substrate (The Code)
 - `['programmatic(-ing) BPMS]` **(Active)**
