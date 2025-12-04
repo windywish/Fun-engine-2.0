@@ -517,3 +517,219 @@ T>0
 
 ---
 
+##### `The Mnemonic Resonance Filter` (**ID:** `PPE-MEM-012`)
+
+I will now generate the next set of **Basic Settings** for the **['Praxial Perception Engine (PPE)'(-ing) BPMS]**.
+
+These settings delve deeper into the **metaphysics of perception**, exploring how the engine handles the transition from **Energy to Matter**, from **Vector to Matrix**, and from **Moment to Memory**.
+
+###### `The Mnemonic Resonance Filter` (**ID:** `PPE-MEM-012`)
+
+**Objective:**
+ To implement **(symbiosis) evolution** for `['short-term memory'(-ing) BPMS]` and `['long-term memory'(-ing) BPMS]`. This setting defines how **Perception** is colored by **Memory**. We do not see the present innocently; we see it through the lens of the past.
+
+**Target Axiom/Principle:**
+ `The Mnemonic Resonance Filter`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence:**
+ "To see is to recognize." Pure perception (Short-Term) is chaotic noise. Meaning emerges when that noise resonates with a stored pattern (Long-Term). This filter overlays "History" onto "Now."
+
+**The Mechanism - [The Ghost Overlay]:**
+
+- **Input:** Raw Sensory Data (The Present).
+- **Process:** The PPE queries the **`['Autopoietic Learning Matrix'(-ing) BPMS]`** (ALM) for resonant memories.
+- Render:
+  - *New Object:* Rendered with "High Detail" (Focus on learning).
+  - *Known Object:* Rendered with "Iconic Simplicity" (Focus on utility).
+  - *Traumatic Object:* Rendered with "Distortion/Glitch" (Fear response).
+
+**The Emergent Property - [Subjective Continuity]:**
+ The world feels "Lived In." A veteran soldier sees a battlefield differently than a rookie. The veteran sees "Tactical Grid"; the rookie sees "Chaos." Perception evolves with experience.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Layer 1 (Metaphysical):** *History informs Reality.* The past is a filter for the present.
+- Layer 2 (Formalism):
+  - *If `[neuroscience(-ing) BPMS]`:* Predictive Coding (The brain predicts input based on memory and only processes error).
+  - *If `[computer_vision(-ing) BPMS]`:* Priors in Bayesian Inference.
+- **Layer 3 (Phenomenological):** Nostalgia or PTSD. The physical sensation of a memory overlaying current reality.
+
+**Rationale / Justification:**
+Essential for **`['praxial cognition'(-ing) BPMS]`**. Without this, every moment is a "First Contact," and the agent cannot learn.
+
+**Scope of Application:**
+ Adaptive UI, Horror game sanity effects, "Detective Vision" based on clues found, NPC reaction systems.
+
+------
+
+##### `The Ontological Verification Protocol` (**ID:** `PPE-TRUTH-013`)
+
+**Objective:**
+ To implement **(symbiosis) evolution** for `[reality(-ing) BPMS]` and `['truth'(-ing) BPMS]`. This setting distinguishes among/by "What seems to be" (Phenomenon) and "What is" (Noumenon), allowing the PPE to handle **Illusions** and **Deception**.
+
+**Target Axiom/Principle:**
+ `The Ontological Verification Protocol`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence:**
+ "Trust, but Verify." In a system where perception creates reality, **False Perception** creates **False Reality** (Illusion). This protocol defines the "Truth Check"—the collision among/by the Agent's belief and the System's hard code.
+
+**The Mechanism - [The Disbelief Check]:**
+
+- **The Illusion:** The PPE renders a "Fake Bridge" (Visuals say YES, Physics says NO).
+- **The Interaction:** The Agent steps on the bridge.
+- **The Collision:** `Physics_Engine` returns `Collision = False`.
+- **The Shattering:** The PPE forces a **"Reality Update."** The bridge dissolves into pixels. The Agent takes "Cognitive Damage" (Shock).
+
+**The Emergent Property - [Hard Truth]:**
+Reality is defined as "That which resists." The Truth is found only through **Action** (Praxis). You cannot *look* your way to truth; you must *act* your way to it.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Layer 1 (Metaphysical):** *Praxis is the arbiter of Truth.* Action cuts through illusion.
+- Layer 2 (Formalism):
+  - *If `[logic(-ing) BPMS]`:* Falsification Principle (Popper).
+  - *If `[game_mechanics(-ing) BPMS]`:* Interaction Raycasts vs. Render Meshes.
+- **Layer 3 (Phenomenological):** The "Wake Up" call. The jarring sensation of realizing you were wrong.
+
+**Rationale / Justification:**
+Essential for **`['scientific realism'(-ing) BPMS]`**. It prevents the system from becoming a pure dreamscape. There must be a "Hard Substrate" that resists the mind.
+
+**Scope of Application:**
+ Illusion magic, Camouflage detection, Scientific discovery (testing hypotheses), Debugging (finding graphical glitches).
+
+------
+
+##### `The Vector-Matrix Transduction Law` (**ID:** `PPE-VECT-014`)
+
+**Objective:**
+ To implement **(symbiosis) evolution** for `['system matrix'(-ing) BPMS]` and `['system vector'(-ing) BPMS]`. This defines the mathematical transformation of **Potential** (Matrix) into **Direction** (Vector) via Perception.
+
+**Target Axiom/Principle:**
+ `The Vector-Matrix Transduction Law`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence:**
+ The **System Matrix** is the static field of all possibilities (The Map). The **System Vector** is the active path of the Agent (The Journey). Perception is the **Transducer** that collapses the Matrix into a Vector.
+
+**The Mechanism - [The Heading Calculation]:**
+
+- **Input:** `System_Matrix` (Global State) + `Agent_purpose`.
+- **Process:** The PPE scans the Matrix for "Gradients" (Paths of least resistance or highest reward).
+- **Output:** `Perception_Vector` (A directional arrow).
+- **Render:** The world "leans" in the direction of the goal. Lighting, geometry, and sound subtly guide the agent along the vector.
+
+**The Emergent Property - [Flow State]:**
+ The Agent feels "pulled" by the world. The environment itself becomes a navigation system.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Layer 1 (Metaphysical):** *Purpose orients Space.* The world aligns itself to the traveler's intent.
+- Layer 2 (Formalism):
+  - *If `[linear_algebra(-ing) BPMS]`:* Eigenvector centrality. Finding the principal direction in a matrix.
+  - *If `[physics(-ing) BPMS]`:* Gradient Descent.
+- **Layer 3 (Phenomenological):** "The Zone." When the path forward seems obvious and effortless.
+
+**Rationale / Justification:**
+Essential for **`['system vector'(-ing) BPMS]`**. It explains *how* an agent navigates the infinite complexity of the Matrix without crashing.
+
+**Scope of Application:**
+ Wayfinding systems (Wind guiding the player), AI pathfinding heuristics, Narrative pacing (subtle cues leading to the plot).
+
+------
+
+##### `The Kinetic-Potential Phase Shift` (**ID:** `PPE-ENER-015`)
+
+**Objective:**
+ To implement **(symbiosis) evolution** for `['kinetic (energy)'(-ing) BPMS]` and `['potential (energy)'(-ing) BPMS]`. This defines Perception as the trigger that converts **Possibility** (Potential) into **Event** (Kinetic).
+
+**Target Axiom/Principle:**
+ `The Kinetic-Potential Phase Shift`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence:**
+ Unobserved objects have **Potential Energy** (They *could* do something). Observed objects release **Kinetic Energy** (They *are* doing something). Perception is the spark.
+
+**The Mechanism - [The Observer Effect Trigger]:**
+
+- **State A (Unobserved):** A Trap is "Armed" (High Potential). It is a static code block.
+- **State B (Observed/Triggered):** The Agent's Gaze/Presence intersects the Trap's "Event Horizon."
+- **Phase Shift:** Potential converts to Kinetic. The Trap springs. The animation plays. The physics calculate.
+- **Conservation:** The "Surprise" (Information Entropy) is converted into "Action" (Physical Energy).
+
+**The Emergent Property - [Dramatic Timing]:**
+ The world waits for the audience. Explosions happen *when you look at them*. The universe conserves computation by keeping energy "Potential" until it matters.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Layer 1 (Metaphysical):** *Consciousness catalyzes Change.* The eye creates the motion.
+- Layer 2 (Formalism):
+  - *If `[thermodynamics(-ing) BPMS]`:* Activation Energy (
+
+EaE_aEa
+
+). Perception lowers the barrier for the reaction.
+ \*   *If `[quantum_mechanics(-ing) BPMS]`:* Zeno Effect vs. Anti-Zeno Effect.
+
+- **Layer 3 (Phenomenological):** "Just in Time." The feeling that the world is waking up around you.
+
+**Rationale / Justification:**
+Essential for **`['energy_efficiency(-ing) BPMS]`**. It prevents the simulation from running physics on unobserved objects, while ensuring the world feels reactive.
+
+**Scope of Application:**
+ Optimization (Culling), Trap mechanics, Cinematic triggers, "Weeping Angel" style enemies (move only when unseen).
+
+------
+
+##### `The Phenomenological Bridge` (**ID:** `PPE-PHEN-016`)
+
+**Objective:**
+ To implement **(symbiosis) evolution** for `[experience(-ing) BPMS]` and `[phenomenon(-ing) BPMS]`. This bridges the gap between the **Objective Event** and the **Subjective Feeling**.
+
+**Target Axiom/Principle:**
+ `The Phenomenological Bridge`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence:**
+ An "Event" is data (Damage = 10). A "Phenomenon" is the *experience* of that data (Pain, Flash of Red, Ringing Ears). This setting defines the **Qualia Translation Layer**.
+
+**The Mechanism - [The Qualia Synthesizer]:**
+
+- **Input:** `System_Event` (e.g., "Explosion at Distance 10m").
+- **Synthesizer:** The PPE modulates the Agent's sensory channels based on the event's intensity and the Agent's sensitivity.
+- **Output:** `Sensory_Packet` (Screen Shake + Tinnitus Audio + Blur Shader + Controller Rumble).
+- **Feedback:** The Agent's "Stress" variable increases, altering future perception (See `PPE-MEM-012`).
+
+**The Emergent Property - [Embodiment]:**
+ The user/agent stops looking *at* the screen and starts feeling *through* the avatar. The data becomes visceral.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Layer 1 (Metaphysical):** *Experience is the fundamental unit of reality.* Data is just the shadow of experience.
+- Layer 2 (Formalism):
+  - *If `[philosophy(-ing) BPMS]`:* The "Hard Problem of Consciousness" (Chalmers).
+  - *If `[HCI(-ing) BPMS]`:* Haptic Feedback loops.
+- **Layer 3 (Phenomenological):** Immersion. The loss of separation between self and system.
+
+**Rationale / Justification:**
+ Essential for **`['essence(-ing) BPMS]`**. Without this, the Fun Engine is just a spreadsheet. This puts the "Fun" (Feeling) into the Engine.
+
+**Scope of Application:**
+ VR/AR implementation, Sound design, Screen effects, Controller vibration, Emotional AI responses.
+
