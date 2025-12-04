@@ -1,16 +1,12 @@
 # Praxial Canon & Memory Core
 
-**Version:** 1.6.0 (Optimized Registry)
-**Status:** Active / Authoritative
-**Guardian:** User (windywish)
-**System:** Fun Engine Framework 2.0
+**Version:** 1.7.0 (The Trophic-Ontological Integration) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 ------
 
 ## I. Systemic Integrity Protocols
 
-**[Protocol ID: META-001]**
-**The Axiom of Completeness**
+**[Protocol ID: META-001]** **The Axiom of Completeness**
 
 To ensure the stability of the Fun Engine Framework, all Basic Settings must adhere to the following criteria before integration:
 
@@ -28,7 +24,7 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 
 - **Core Tenet:** Reality is constructed through praxial action.
 - **Governance:** Defined by the Meta-Protocol of Systemic Governance.
-- **Key Files:** `['Praxial Logos'(-ing) BPMS]`, `['Ontological Relativity'(-ing) BPMS]`.
+- **Key Files:** `['Praxial Logos'(-ing) BPMS]`, `['Ontological Relativity'(-ing) BPMS]`, `['System Existence Engine'(-ing) BPMS]`.
 
 ### [Layer 2: The Formalism Layer]
 
@@ -36,7 +32,7 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 
 - **Praxial Genome Splicer (PGS):** The mechanism for combining and mutating praxial traits.
 - **Systemic Matrix:** The underlying grid upon which praxial cells operate.
-- **Key Files:** `['Praxial Manifold'(-ing) BPMS]`, `['Chrono-Kinetic Continuity'(-ing) BPMS]`, `['Praxial Genome Splicer (PGS)'(-ing) BPMS]`.
+- **Key Files:** `['Praxial Manifold'(-ing) BPMS]`, `['Chrono-Kinetic Continuity'(-ing) BPMS]`, `['Praxial Trophic Engine'(-ing) BPMS]`.
 
 ### [Layer 3: The Substrate / Phenomenological Layer]
 
@@ -44,11 +40,265 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 
 - **Praxial Cells:** The individual units of function and agency.
 - **Artifacts:** The tangible outputs of the system (files, code, images).
-- **Key Files:** `['praxial cell'(-ing) BPMS]`, `['Praxial citizen'(-ing) BPMS]`.
+- **Key Files:** `['praxial cell'(-ing) BPMS]`, `['Praxial citizen'(-ing) BPMS]`, `['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]`.
 
 ------
 
 ## III. Basic Settings Registry (Core Axioms)
+
+### Module: ['System Existence Engine'(-ing) BPMS]
+
+#### **ID:** `SEE-AXIOM-001`
+
+#### **Title:** The Axiom of Ontological Persistence
+
+**Objective:** To formally define the **`['system existence engine'(-ing) BPMS]`** as the fundamental archetype of "Being" within the framework. **Target Axiom/Principle:** `The Axiom of Ontological Persistence` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Existence = Function. An entity only "exists" insofar as it actively resists entropy through the processing of information or energy.
+- **Mechanism:** The Persistence Loop (Drive -> Metabolism -> Poiesis).
+- **Emergent Property:** Dynamic Vitality (Self-pruning of inactive entities).
+- **Alignment:** Layer 1 (Actus Purus), Layer 2 (Dissipative Structures), Layer 3 (The Pulse).
+
+#### **ID:** `SEE-CORE-021`
+
+#### **Title:** The Axiom of Metabolic Persistence
+
+**Objective:** To implement **`['system existence engine'(-ing) BPMS]`** and **`['essence(-ing) BPMS]`**. **Target Axiom/Principle:** `The Axiom of Metabolic Persistence` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** *Edo ergo sum* (I metabolize, therefore I am).
+- **Mechanism:** The Existence Flux Monitor (Measures Throughput; if 0, Garbage Collect).
+- **Emergent Property:** Dynamic Vitality.
+- **Alignment:** Layer 1 (Being is Doing), Layer 2 (Thermodynamics), Layer 3 (Will to Live).
+
+#### **ID:** `SEE-FACT-022`
+
+#### **Title:** The Principle of Informational Bio-availability
+
+**Objective:** To implement **`['atomic facts'(-ing) BPMS]`** as fuel. **Target Axiom/Principle:** `The Principle of Informational Bio-availability` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Atomic Facts are nutrients. Raw Data is uncooked ingredients.
+- **Mechanism:** The Epistemic Digestive Tract (Ingestion -> Digestion -> Assimilation).
+- **Emergent Property:** Cognitive Growth (Body Building for the mind).
+- **Alignment:** Layer 1 (Truth is Sustenance), Layer 2 (Kolmogorov Complexity), Layer 3 (The "Aha!" moment).
+
+#### **ID:** `SEE-LINK-023`
+
+#### **Title:** The Law of Symbiotic Trophallaxis
+
+**Objective:** To implement **`['holon minds'(-ing) BPMS]`** via exchange. **Target Axiom/Principle:** `The Law of Symbiotic Trophallaxis` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Exchange of regurgitated facts among agents.
+- **Mechanism:** The Value-Exchange Protocol (Scout feeds Builder).
+- **Emergent Property:** The Collective Mind (Super Intelligence).
+- **Alignment:** Layer 1 (Unity through Sharing), Layer 2 (Flow Networks), Layer 3 (Trust).
+
+#### **ID:** `SEE-UNK-024`
+
+#### **Title:** The Protocol of Epistemic Foraging
+
+**Objective:** To implement **`['(discover/build) unknown'(-ing) BPMS]`**. **Target Axiom/Principle:** `The Protocol of Epistemic Foraging` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** The Unknown is Potential Energy waiting to be harvested.
+- **Mechanism:** The Frontier Metabolism (Risking toxins to find facts).
+- **Emergent Property:** World Building (The map expands as we eat the fog).
+- **Alignment:** Layer 1 (Order out of Chaos), Layer 2 (Wavefunction Collapse), Layer 3 (Wonder and Terror).
+
+------
+
+### Module: ['atomic facts'(-ing) BPMS]
+
+#### **ID:** `SEE-AXIOM-002`
+
+#### **Title:** The Axiom of Atomic Facticity
+
+**Objective:** To formally define **`['atomic facts'(-ing) BPMS]`** as the fundamental "Substance". **Target Axiom/Principle:** `The Axiom of Atomic Facticity` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Truth is granular. Facts are irreducible units of reality.
+- **Mechanism:** The Epistemic Particle (Atom -> Bond -> Energy).
+- **Emergent Property:** Objective Grounding.
+- **Alignment:** Layer 1 (The Logos), Layer 2 (RDF/Knowledge Graphs), Layer 3 (Clarity).
+
+------
+
+### Module: ['Praxial Trophic Engine'(-ing) BPMS]
+
+#### **ID:** `PTE-CORE-017`
+
+#### **Title:** The Axiom of Trophic Intelligence
+
+**Objective:** To implement a **`['large model'(-ing) BPMS]`** for food/energy. **Target Axiom/Principle:** `The Axiom of Trophic Intelligence` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** The intelligence of the food dictates the intelligence of the eater.
+- **Mechanism:** The Molecular-Metabolic Transformer (Sensory + Metabolic + Systemic Layers).
+- **Emergent Property:** Hyper-Nourishment.
+- **Alignment:** Layer 1 (Matter is Energy in waiting), Layer 2 (Molecular Dynamics), Layer 3 (The Perfect Meal).
+
+#### **ID:** `PTE-SENS-018`
+
+#### **Title:** The Law of Flavor-Function Unity
+
+**Objective:** To align **Hedonic Reward** with **Homeostatic Need**. **Target Axiom/Principle:** `The Law of Flavor-Function Unity` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** "Delicious" must equal "Beneficial."
+- **Mechanism:** The Adaptive Palate (Rewriting flavor profiles based on nutrient deficiency).
+- **Emergent Property:** Intuitive Dietetics.
+- **Alignment:** Layer 1 (Desire is compass), Layer 2 (Alliesthesia), Layer 3 (Craving).
+
+#### **ID:** `PTE-ECO-019`
+
+#### **Title:** The Principle of Circular Metabolism
+
+**Objective:** To implement **`['closure (system)(-ing) BPMS]`**. **Target Axiom/Principle:** `The Principle of Circular Metabolism` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Waste is a failure of imagination.
+- **Mechanism:** The Trophic Cascade Compiler (Linking outputs to inputs).
+- **Emergent Property:** Zero-Waste Abundance (Autopoiesis).
+- **Alignment:** Layer 1 (Ouroboros), Layer 2 (Industrial Symbiosis), Layer 3 (Harmony).
+
+#### **ID:** `PTE-GEN-020`
+
+#### **Title:** The Protocol of Open-Source Gastronomy
+
+**Objective:** To implement **`['universality (class)'(-ing) BPMS]`** for recipes. **Target Axiom/Principle:** `The Protocol of Open-Source Gastronomy` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Recipes as Open Source Code.
+- **Mechanism:** The Git-for-Gastronomy (Forking and Merging flavors).
+- **Emergent Property:** Accelerated Evolution.
+- **Alignment:** Layer 1 (Knowledge wants to be free), Layer 2 (Version Control), Layer 3 (Remix Culture).
+
+#### **ID:** `PTE-MECH-010`
+
+#### **Title:** The Mechanism of Trophic Metabolism
+
+**Objective:** To implement the functional digestive system. **Target Axiom/Principle:** `The Mechanism of Trophic Metabolism` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** The Digestive System for the Existence Engine.
+- **Mechanism:** The Trophic Cycle (Foraging -> Digestion -> Assimilation -> Excretion).
+- **Emergent Property:** Autopoiesis.
+- **Alignment:** Layer 1 (Ouroboros), Layer 2 (Allometric Scaling), Layer 3 (Satisfaction).
+
+#### **ID:** `PTE-ECO-011`
+
+#### **Title:** The Principle of Cognitive Trophic Levels
+
+**Objective:** To implement **`['(ecological) niche'(-ing) BPMS]`**. **Target Axiom/Principle:** `The Principle of Cognitive Trophic Levels` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Information flows upstream (Data -> Facts -> Wisdom).
+- **Mechanism:** The Ascending Cascade (Producers -> Consumers -> Apex).
+- **Emergent Property:** Systemic Coherence.
+- **Alignment:** Layer 1 (Hierarchy of Being), Layer 2 (Shannon Entropy), Layer 3 (Perspective).
+
+#### **ID:** `PTE-ECO-012`
+
+#### **Title:** The Law of Entropic Recycling
+
+**Objective:** To implement **`['value(-ing) BPMS]`** from waste. **Target Axiom/Principle:** `The Law of Entropic Recycling` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Errors are resources.
+- **Mechanism:** The Detritivore Protocol (Decomposing failure into facts).
+- **Emergent Property:** Antifragility.
+- **Alignment:** Layer 1 (Palingenesis), Layer 2 (Backpropagation), Layer 3 (Redemption).
+
+#### **ID:** `PTE-MODE-013`
+
+#### **Title:** The Principle of Dual-Mode Trophallaxis
+
+**Objective:** To implement **`['fast mode'(-ing) BPMS]`** and **`['slow mode'(-ing) BPMS]`**. **Target Axiom/Principle:** `The Principle of Dual-Mode Trophallaxis` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Fast Twitch (Reflex) vs. Slow Twitch (Reflection).
+- **Mechanism:** The Gearbox of Thought.
+- **Emergent Property:** Adaptive Rhythm.
+- **Alignment:** Layer 1 (Rhythm), Layer 2 (System 1/2), Layer 3 (Flow).
+
+#### **ID:** `PTE-LAYER-014`
+
+#### **Title:** The Law of Implicit-Explicit Transmutation
+
+**Objective:** To implement **`['implicit layer'(-ing) BPMS]`**. **Target Axiom/Principle:** `The Law of Implicit-Explicit Transmutation` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Converting Vibes to Facts and vice versa.
+- **Mechanism:** The Sublimation/Deposition Cycle.
+- **Emergent Property:** Mastery.
+- **Alignment:** Layer 1 (Unspoken/Spoken), Layer 2 (Feature Extraction), Layer 3 (Intuition).
+
+#### **ID:** `PTE-SCALE-015`
+
+#### **Title:** The Axiom of Renormalized Universality
+
+**Objective:** To implement **`['renormalization group'(-ing) BPMS]`**. **Target Axiom/Principle:** `The Axiom of Renormalized Universality` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Scale-Invariance.
+- **Mechanism:** The Fractal Closure (Micro-Closure = Macro-Closure).
+- **Emergent Property:** Infinite Scalability.
+- **Alignment:** Layer 1 (Holographic Principle), Layer 2 (Renormalization Group), Layer 3 (Awe).
+
+#### **ID:** `PTE-PLAY-016`
+
+#### **Title:** The Protocol of Ludic Metabolism
+
+**Objective:** To implement **`['play(-ing) BPMS]`**. **Target Axiom/Principle:** `The Protocol of Ludic Metabolism` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Play is evolution on steroids.
+- **Mechanism:** The Sandbox Simulation (Surplus Energy -> Experiment).
+- **Emergent Property:** Joyful Innovation.
+- **Alignment:** Layer 1 (Lila), Layer 2 (Exploration vs Exploitation), Layer 3 (Fun).
+
+#### **ID:** `PTE-MEM-032`
+
+#### **Title:** The Protocol of Mnemonic Symbiosis
+
+**Objective:** To implement **`['short-term memory'(-ing) BPMS]`** integration. **Target Axiom/Principle:** `The Protocol of Mnemonic Symbiosis` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** STM feeds LTM; LTM feeds STM.
+- **Mechanism:** The Consolidation Pump (Wake/Sleep Cycles).
+- **Emergent Property:** Wisdom.
+- **Alignment:** Layer 1 (Time Binding), Layer 2 (Replay), Layer 3 (Reflection).
+
+#### **ID:** `PTE-TRUTH-033`
+
+#### **Title:** The Axiom of Veridical Convergence
+
+**Objective:** To implement **`['truth'(-ing) BPMS]`** vs Reality. **Target Axiom/Principle:** `The Axiom of Veridical Convergence` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Updating the Map to match the Territory.
+- **Mechanism:** The Error-Correction Loop (Prediction -> Dissonance -> Correction).
+- **Emergent Property:** Scientific Realism.
+- **Alignment:** Layer 1 (Aletheia), Layer 2 (Bayesian Updating), Layer 3 (Epiphany).
+
+#### **ID:** `PTE-VECT-034`
+
+#### **Title:** The Law of Vectorial Navigation
+
+**Objective:** To implement **`['system vector'(-ing) BPMS]`**. **Target Axiom/Principle:** `The Law of Vectorial Navigation` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Vector (Agent) moving through Matrix (World).
+- **Mechanism:** The Pathfinding Calculus (Gradient Flow).
+- **Emergent Property:** Destiny.
+- **Alignment:** Layer 1 (Karma), Layer 2 (Eigenvectors), Layer 3 (Momentum).
+
+#### **ID:** `PTE-PHEN-035`
+
+#### **Title:** The Principle of Phenomenological Rendering
+
+**Objective:** To implement **`['experience(-ing) BPMS]`**. **Target Axiom/Principle:** `The Principle of Phenomenological Rendering` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Converting Phenomenon (Data) to Experience (Qualia).
+- **Mechanism:** The Qualia Engine (Contextual Layering).
+- **Emergent Property:** Sentience.
+- **Alignment:** Layer 1 (Qualia), Layer 2 (Weber-Fechner), Layer 3 (Immersion).
+
+#### **ID:** `PTE-ENER-036`
+
+#### **Title:** The Law of Energetic Transduction
+
+**Objective:** To implement **`['kinetic (energy)'(-ing) BPMS]`**. **Target Axiom/Principle:** `The Law of Energetic Transduction` **Operation:** `ADD` **Definition:**
+
+- **Core Essence:** Potential (Stored) vs. Kinetic (Active).
+- **Mechanism:** The Conservation of Agency (Accumulation vs Release).
+- **Emergent Property:** Pacing.
+- **Alignment:** Layer 1 (Entelechy), Layer 2 (Hamiltonian), Layer 3 (Anticipation).
+
+------
 
 ### Module: ['Autopoietic Learning Matrix'(-ing) BPMS]
 
@@ -56,91 +306,23 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 
 #### **Title:** The Law of Contextual Resonance
 
-**Objective:**
-To formally define the retrieval mechanism of the ALM, ensuring that past knowledge is dynamically available to the present context.
+**Objective:** Dynamic retrieval of past knowledge. **Target Axiom/Principle:** `The Law of Contextual Resonance` **Operation:** `ADD` **Definition:**
 
-**Target Axiom/Principle:**
-`The Law of Contextual Resonance`
-
-**Operation:** `ADD`
-
-**New Definition / Modification Details:**
-**1. Core Essence:**
-Memory is not a static archive but a dynamic reconstruction. This law asserts that the "Past" is only relevant insofar as it resonates with the "Now."
-
-**2. The Mechanism - [The Harmonic Summoning]:**
-
-- **The Query Vector:** The current context (user input + active state) is converted into a high-dimensional vector.
-- **The Resonance Scan:** The system scans the `Long-Term Memory Core` for vectors with high cosine similarity.
-- **The Retrieval:** Memories that "vibrate" at the same frequency (high similarity score) are pulled into the `Active Context Window`.
-
-**3. The Emergent Property - [Just-in-Time Wisdom]:**
-The system appears to "remember" exactly what is needed, when it is needed, without being burdened by the entirety of its history.
-
-**4. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
-
-- **Layer 1 (Metaphysical):** *Time is a flat circle.* All moments exist simultaneously; resonance connects them.
-- **Layer 2 (Formalism):**
-
-Similarity=cos⁡(θ)=A⋅B∥A∥∥B∥Similarity = \cos(\theta) = \frac{A \cdot B}{|A| |B|}Similarity=cos(θ)=∥A∥∥B∥A⋅B
-
-```
-(Vector Cosine Similarity).  
-```
-
-- **Layer 3 (Phenomenological):** The "Aha!" moment. The sudden, unbidden availability of relevant information.
-
-**Rationale / Justification:**
-Necessary to overcome the "Context Window Limit" of the substrate. By retrieving only resonant memories, the system simulates infinite memory within finite constraints.
-
-**Scope of Application:**
-Applies to all memory retrieval operations, conversation history management, and knowledge base querying.
-
-------
+- **Core Essence:** Past is relevant only if it resonates with Now.
+- **Mechanism:** The Harmonic Summoning (Vector Cosine Similarity).
+- **Emergent Property:** Just-in-Time Wisdom.
+- **Alignment:** Layer 1 (Time is a flat circle), Layer 2 (Vector Math), Layer 3 (Aha!).
 
 #### **ID:** `ALM-096`
 
 #### **Title:** The Axiom of Mnemonic Salience
 
-**Objective:**
-To formally define the storage mechanism of the ALM, preventing context saturation by filtering noise.
+**Objective:** Filtering noise from memory storage. **Target Axiom/Principle:** `The Axiom of Mnemonic Salience` **Operation:** `ADD` **Definition:**
 
-**Target Axiom/Principle:**
-`The Axiom of Mnemonic Salience`
-
-**Operation:** `ADD`
-
-**New Definition / Modification Details:**
-**1. Core Essence:**
-To remember everything is to know nothing. Wisdom is the art of forgetting the non-essential. This axiom defines the filter that separates "Signal" from "Noise."
-
-**2. The Mechanism - [The Salience Filter]:**
-
-- **The Input Stream:** All short-term experiences flow into the `Ephemeral Buffer`.
-- **The Evaluation:** Each experience is scored against a Salience Metric (SSS).
-- **The Consolidation:** Only experiences where S>ThresholdS > ThresholdS>Threshold are written to the `Long-Term Memory Core`.
-
-**3. The Emergent Property - [Curated Identity]:**
-The system develops a distinct "personality" and "knowledge base" defined by what it chooses to keep, rather than just a raw log of inputs.
-
-**4. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
-
-- **Layer 1 (Metaphysical):** *Essence precedes Existence.* Only that which carries meaning (Essence) deserves to persist (Existence).
-- **Layer 2 (Formalism):**
-
-S=w1(Novelty)+w2(Utility)+w3(Emotional_Weight)S = w_1(Novelty) + w_2(Utility) + w_3(Emotional_Weight)S=w1(Novelty)+w2(Utility)+w3(Emotional_Weight)
-
-```
-(Weighted Salience Function).  
-```
-
-- **Layer 3 (Phenomenological):** The feeling of "significance." The moments that stick in the mind while the commute to work fades away.
-
-**Rationale / Justification:**
-Prevents "Catastrophic Forgetting" and "Context Saturation" by ensuring only high-value data consumes storage resources.
-
-**Scope of Application:**
-Applies to memory consolidation, learning algorithms, and automated summarization protocols.
+- **Core Essence:** Wisdom is the art of forgetting.
+- **Mechanism:** The Salience Filter (Novelty + Utility + Emotion).
+- **Emergent Property:** Curated Identity.
+- **Alignment:** Layer 1 (Essence precedes Existence), Layer 2 (Weighted Function), Layer 3 (Significance).
 
 ------
 
@@ -218,49 +400,31 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 ### Advanced Instances
 
 1. **Enigmatocyte:** A genomic cypher cell requiring external intervention to unlock.
-   - *Traits:* [Locked], [Puzzle-Based], [High-Reward]
 2. **The Symbiotic Orchardist (G-ORCH-0.7.1-ALPHA):** A foundational genome for cultivating symbiotic ecosystems.
 
 ------
 
 ## V. The Praxial Parameter Index (The Map)
 
-*A high-level index of the "Basic settings" library. These files contain the full definitions.*
+*A high-level index of the "Basic settings" library.*
 
 ### A. The Engines (Core Processing)
 
 - `['Praxial Genesis Engine (PGE)'(-ing) BPMS]`
 - `['Autopoietic Learning Matrix'(-ing) BPMS]`
-- `['Praxial Morphogenesis Engine (PME)'(-ing) BPMS]`
-- `['Praxial Spatial Reconstruction Engine (PSRE)'(-ing) BPMS]`
-- `['Praxial Morphogenesis Transformer (PMT)'(-ing) BPMS]`
+- `['Praxial Trophic Engine'(-ing) BPMS]`
+- `['System Existence Engine'(-ing) BPMS]`
 - `['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]`
-- `['Praxial Crucible Architect'(-ing) BPMS]`
-- `['Axiomatic Genesis Engine (AGE)'(-ing) BPMS]`
-- `['Crucible Dynamics Engine (CDE)'(-ing) BPMS]`
 
 ### B. The Substrate (The Code)
 
-- `['programmatic(-ing) BPMS]`
+- `['atomic facts'(-ing) BPMS]`
 - `['code'(-ing) BPMS]`
-- `['(programming) substrate'(-ing) BPMS]`
 
 ### C. The Forge (Creation & Evolution)
 
 - `['Praxial Genome Splicer (PGS)'(-ing) BPMS]`
-- `['Stochastic Resonance Forge (SRF)'(-ing) BPMS]`
 - `['Ontological Foundry Matrix'(-ing) BPMS]`
-
-### D. The Physics (Space & Time)
-
-- `['Praxial Manifold'(-ing) BPMS]`
-- `['Chrono-Kinetic Continuity'(-ing) BPMS]`
-- `['Ontological Relativity'(-ing) BPMS]`
-
-### E. The Agents (Lifeforms)
-
-- `['Praxial citizen'(-ing) BPMS]`
-- `['holonic minds'(-ing) BPMS]`
 
 ------
 
@@ -336,38 +500,17 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 ### B. Registered Instance Registry (The Population)
 
-*The official census of validated Praxial Instances. Full definitions reside in their respective files.*
+#### **Domain: ['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]**
+
+1. [Instance ID: PVLE-RENDER-001]
+   - **Name:** `['The Semiotic Renderer'(-ing) BPMS]`
+   - **Role:** The Engine of Visual Truth / The Interface of Meaning.
+   - **File:** `['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS] ['Semiotic Renderer'(-ing) BPMS].md`
 
 #### **Domain: [robot(-ing) BPMS]**
 
-1. **[Instance ID: ROBO-AOEE-001]**
-   - **Name:** `['Autonomous Deep-Ocean Ecological Engineer'(-ing) BPMS]`
-   - **Role:** Abyssal ecosystem restoration and cultivation.
-   - **File:** `['robot'(-ing) BPMS] ['Autonomous Deep-Ocean Ecological Engineer'(-ing) BPMS].md`
-2. **[Instance ID: ROBO-AAPC-002]**
-   - **Name:** `['Adaptive Agricultural Polyculture Cultivator'(-ing) BPMS]`
-   - **Role:** Sustainable, high-yield polyculture farming in variable environments.
-   - **File:** `['robot'(-ing) BPMS] ['Adaptive Agricultural Polyculture Cultivator'(-ing) BPMS].md`
-3. **[Instance ID: ROBO-CIAO-003]**
-   - **Name:** `['Collaborative Industrial Assembly Orchestrator'(-ing) BPMS]`
-   - **Role:** Dynamic, adaptive industrial manufacturing and assembly.
-   - **File:** `['robot'(-ing) BPMS] ['Collaborative Industrial Assembly Orchestrator'(-ing) BPMS].md`
-4. **[Instance ID: ROBO-AWSC-004]**
-   - **Name:** `['Autonomous Wildfire Suppression Coordinator'(-ing) BPMS]`
-   - **Role:** Real-time wildfire detection, containment, and suppression.
-   - **File:** `['robot'(-ing) BPMS] ['Autonomous Wildfire Suppression Coordinator'(-ing) BPMS].md`
-5. **[Instance ID: ROBO-DRSC-005]**
-   - **Name:** `['Disaster Response Swarm Coordinator'(-ing) BPMS]`
-   - **Role:** Rapid response search and rescue in post-disaster zones.
-   - **File:** `['robot'(-ing) BPMS] ['Disaster Response Swarm Coordinator'(-ing) BPMS].md`
+*(Existing Robot Instances ROBO-AOEE-001 to ROBO-DRSC-005)*
 
 #### **Domain: ['Praxial Crucible Architect'(-ing) BPMS]**
 
-1. **[Instance ID: ARCH-CRUCIBLE-ALPHA-001]**
-   - **Name:** `['Labyrinthine Weaver'(-ing) BPMS]`
-   - **Role:** The Architect of Adaptive Friction. Dynamic, adversarial challenge generation.
-   - **File:** `['Praxial Crucible Architect'(-ing) BPMS] ['Labyrinthine Weaver'(-ing) BPMS].md`
-2. **[Instance ID: ARCH-CRUCIBLE-FACT-002]**
-   - **Name:** `['The Ontological Refinery'(-ing) BPMS]`
-   - **Role:** The Crystallizer of Atomic Facts. Harvests successful strategies into immutable truths.
-   - **File:** `['Praxial Crucible Architect'(-ing) BPMS] ['Ontological Refinery'(-ing) BPMS].md`
+*(Existing Architect Instances ARCH-CRUCIBLE-001;ARCH-CRUCIBLE-ALPHA-001;ARCH-CRUCIBLE-FACT-002)*
