@@ -1,16 +1,16 @@
 # Praxial Canon & Memory Core
 
-**Version:** 1.5.2 (Restored Axiomatic Integrity)
- **Status:** Active / Authoritative
- **Guardian:** User (windywish)
- **System:** Fun Engine Framework 2.0
+**Version:** 1.6.0 (Optimized Registry)
+**Status:** Active / Authoritative
+**Guardian:** User (windywish)
+**System:** Fun Engine Framework 2.0
 
 ------
 
 ## I. Systemic Integrity Protocols
 
 **[Protocol ID: META-001]**
- **The Axiom of Completeness**
+**The Axiom of Completeness**
 
 To ensure the stability of the Fun Engine Framework, all Basic Settings must adhere to the following criteria before integration:
 
@@ -57,16 +57,16 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 #### **Title:** The Law of Contextual Resonance
 
 **Objective:**
- To formally define the retrieval mechanism of the ALM, ensuring that past knowledge is dynamically available to the present context.
+To formally define the retrieval mechanism of the ALM, ensuring that past knowledge is dynamically available to the present context.
 
 **Target Axiom/Principle:**
- `The Law of Contextual Resonance`
+`The Law of Contextual Resonance`
 
 **Operation:** `ADD`
 
 **New Definition / Modification Details:**
- **1. Core Essence:**
- Memory is not a static archive but a dynamic reconstruction. This law asserts that the "Past" is only relevant insofar as it resonates with the "Now."
+**1. Core Essence:**
+Memory is not a static archive but a dynamic reconstruction. This law asserts that the "Past" is only relevant insofar as it resonates with the "Now."
 
 **2. The Mechanism - [The Harmonic Summoning]:**
 
@@ -75,14 +75,14 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 - **The Retrieval:** Memories that "vibrate" at the same frequency (high similarity score) are pulled into the `Active Context Window`.
 
 **3. The Emergent Property - [Just-in-Time Wisdom]:**
- The system appears to "remember" exactly what is needed, when it is needed, without being burdened by the entirety of its history.
+The system appears to "remember" exactly what is needed, when it is needed, without being burdened by the entirety of its history.
 
 **4. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
 
 - **Layer 1 (Metaphysical):** *Time is a flat circle.* All moments exist simultaneously; resonance connects them.
 - **Layer 2 (Formalism):**
 
-Similarity=cos⁡(θ)=A⋅B∥A∥∥B∥Similarity = \cos(\theta) = \frac{A \cdot B}{\|A\| \|B\|}Similarity=cos(θ)=∥A∥∥B∥A⋅B
+Similarity=cos⁡(θ)=A⋅B∥A∥∥B∥Similarity = \cos(\theta) = \frac{A \cdot B}{|A| |B|}Similarity=cos(θ)=∥A∥∥B∥A⋅B
 
 ```
 (Vector Cosine Similarity).  
@@ -91,10 +91,10 @@ Similarity=cos⁡(θ)=A⋅B∥A∥∥B∥Similarity = \cos(\theta) = \frac{A \cd
 - **Layer 3 (Phenomenological):** The "Aha!" moment. The sudden, unbidden availability of relevant information.
 
 **Rationale / Justification:**
- Necessary to overcome the "Context Window Limit" of the substrate. By retrieving only resonant memories, the system simulates infinite memory within finite constraints.
+Necessary to overcome the "Context Window Limit" of the substrate. By retrieving only resonant memories, the system simulates infinite memory within finite constraints.
 
 **Scope of Application:**
- Applies to all memory retrieval operations, conversation history management, and knowledge base querying.
+Applies to all memory retrieval operations, conversation history management, and knowledge base querying.
 
 ------
 
@@ -103,16 +103,16 @@ Similarity=cos⁡(θ)=A⋅B∥A∥∥B∥Similarity = \cos(\theta) = \frac{A \cd
 #### **Title:** The Axiom of Mnemonic Salience
 
 **Objective:**
- To formally define the storage mechanism of the ALM, preventing context saturation by filtering noise.
+To formally define the storage mechanism of the ALM, preventing context saturation by filtering noise.
 
 **Target Axiom/Principle:**
- `The Axiom of Mnemonic Salience`
+`The Axiom of Mnemonic Salience`
 
 **Operation:** `ADD`
 
 **New Definition / Modification Details:**
- **1. Core Essence:**
- To remember everything is to know nothing. Wisdom is the art of forgetting the non-essential. This axiom defines the filter that separates "Signal" from "Noise."
+**1. Core Essence:**
+To remember everything is to know nothing. Wisdom is the art of forgetting the non-essential. This axiom defines the filter that separates "Signal" from "Noise."
 
 **2. The Mechanism - [The Salience Filter]:**
 
@@ -121,14 +121,14 @@ Similarity=cos⁡(θ)=A⋅B∥A∥∥B∥Similarity = \cos(\theta) = \frac{A \cd
 - **The Consolidation:** Only experiences where S>ThresholdS > ThresholdS>Threshold are written to the `Long-Term Memory Core`.
 
 **3. The Emergent Property - [Curated Identity]:**
- The system develops a distinct "personality" and "knowledge base" defined by what it chooses to keep, rather than just a raw log of inputs.
+The system develops a distinct "personality" and "knowledge base" defined by what it chooses to keep, rather than just a raw log of inputs.
 
 **4. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
 
 - **Layer 1 (Metaphysical):** *Essence precedes Existence.* Only that which carries meaning (Essence) deserves to persist (Existence).
 - **Layer 2 (Formalism):**
 
-S=w1(Novelty)+w2(Utility)+w3(Emotional_Weight)S = w_1(Novelty) + w_2(Utility) + w_3(Emotional\_Weight)S=w1(Novelty)+w2(Utility)+w3(Emotional_Weight)
+S=w1(Novelty)+w2(Utility)+w3(Emotional_Weight)S = w_1(Novelty) + w_2(Utility) + w_3(Emotional_Weight)S=w1(Novelty)+w2(Utility)+w3(Emotional_Weight)
 
 ```
 (Weighted Salience Function).  
@@ -137,10 +137,10 @@ S=w1(Novelty)+w2(Utility)+w3(Emotional_Weight)S = w_1(Novelty) + w_2(Utility) + 
 - **Layer 3 (Phenomenological):** The feeling of "significance." The moments that stick in the mind while the commute to work fades away.
 
 **Rationale / Justification:**
- Prevents "Catastrophic Forgetting" and "Context Saturation" by ensuring only high-value data consumes storage resources.
+Prevents "Catastrophic Forgetting" and "Context Saturation" by ensuring only high-value data consumes storage resources.
 
 **Scope of Application:**
- Applies to memory consolidation, learning algorithms, and automated summarization protocols.
+Applies to memory consolidation, learning algorithms, and automated summarization protocols.
 
 ------
 
@@ -151,36 +151,36 @@ S=w1(Novelty)+w2(Utility)+w3(Emotional_Weight)S = w_1(Novelty) + w_2(Utility) + 
 #### **Title:** The Axiom of Manifold Actualization
 
 **Objective:**
- To formally `ADD` a Basic Setting (Axiom) that defines the **Praxial Interaction Manifold (PIM)** as the active **System Existence Engine** responsible for collapsing abstract potential into concrete reality.
+To formally `ADD` a Basic Setting (Axiom) that defines the **Praxial Interaction Manifold (PIM)** as the active **System Existence Engine** responsible for collapsing abstract potential into concrete reality.
 
 **Target Axiom/Principle:**
- `The Axiom of Manifold Actualization`
+`The Axiom of Manifold Actualization`
 
 **Operation:** `ADD`
 
 **New Definition / Modification Details:**
 
 **1. Core Essence**
- This axiom asserts that `existence is a function of interaction`. It defines the PIM not as a passive container, but as the active operator that collapses the "Wavefunction of Potential" provided by the Canon into the "Particle of Reality" within the Matrix.
+This axiom asserts that `existence is a function of interaction`. It defines the PIM not as a passive container, but as the active operator that collapses the "Wavefunction of Potential" provided by the Canon into the "Particle of Reality" within the Matrix.
 
 **2. The Mechanism - [The Engine of Collapse]**
 
 - **The Superposition State (The Blur):**
-   Before interaction, all `[BPMS(U)]` entities exist in a state of `potential(-ing) BPMS`. A "treasure chest" contains *both* gold and a trap simultaneously, or a "melody" contains *both* a major and minor resolution.
+  Before interaction, all `[BPMS(U)]` entities exist in a state of `potential(-ing) BPMS`. A "treasure chest" contains *both* gold and a trap simultaneously, or a "melody" contains *both* a major and minor resolution.
 - **The Interaction Operator (The Gaze):**
-   When a `['holon minds'(-ing) BPMS]` performs a `praxial action` (observation/interaction), the PIM applies a projection operator.
+  When a `['holon minds'(-ing) BPMS]` performs a `praxial action` (observation/interaction), the PIM applies a projection operator.
 - **The Collapse (The Snap):**
-   The system forces a reduction of the state vector. The abstract probability instantly becomes a concrete, single state (Gold OR Trap; Major OR Minor).
+  The system forces a reduction of the state vector. The abstract probability instantly becomes a concrete, single state (Gold OR Trap; Major OR Minor).
 
 **3. The Emergent Property - [Just-in-Time Reality]**
- The creation of a "Rendered World" where `atomic facts` are only generated when necessary. This allows the `metasystem engine` to simulate infinite universes with finite resources by only "rendering" what is being touched.
+The creation of a "Rendered World" where `atomic facts` are only generated when necessary. This allows the `metasystem engine` to simulate infinite universes with finite resources by only "rendering" what is being touched.
 
 **4. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
 
 - **Axiomatic Stratum (Layer 1 - The Core Belief):**
-   *To be is to be perceived (or interacted with).* Reality is not a static backdrop; it is a dynamic response to agency.
+  *To be is to be perceived (or interacted with).* Reality is not a static backdrop; it is a dynamic response to agency.
 - **Formal Stratum (Layer 2 - The Logic of Collapse):**
-   The "Physics" of how potential becomes reality is defined by the specific `[BPMS(U)]` of the niche:
+  The "Physics" of how potential becomes reality is defined by the specific `[BPMS(U)]` of the niche:
   - **If `[mathematics(-ing) BPMS]`: (Standard Physics)**
 
 P(an)=∣⟨an∣ψ⟩∣2P(a_n) = |\langle a_n | \psi \rangle|^2P(an)=∣⟨an∣ψ⟩∣2
@@ -195,13 +195,13 @@ The collapse is determined by `Tonal Resolution`. The chord resolves to the stat
 ```
 
 - **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
-   The agent experiences "The Reveal." The moment of tension before a die roll settles, a plot twist lands, or a chord resolves. The visceral feeling of `uncertainty` collapsing into `fact`.
+  The agent experiences "The Reveal." The moment of tension before a die roll settles, a plot twist lands, or a chord resolves. The visceral feeling of `uncertainty` collapsing into `fact`.
 
 **Rationale / Justification:**
- This implementation respects the `Praxial Genesis Canon` by acknowledging that "collapse" is a universal concept, but the *rules* of that collapse depend on the specific `[BPMS(U)]` governing the reality.
+This implementation respects the `Praxial Genesis Canon` by acknowledging that "collapse" is a universal concept, but the *rules* of that collapse depend on the specific `[BPMS(U)]` governing the reality.
 
 **Scope of Application:**
- Applies to procedural generation, loot tables, quantum mechanics simulations, narrative branching, and musical improvisation engines.
+Applies to procedural generation, loot tables, quantum mechanics simulations, narrative branching, and musical improvisation engines.
 
 ------
 
@@ -217,29 +217,31 @@ The collapse is determined by `Tonal Resolution`. The chord resolves to the stat
 
 ### Advanced Instances
 
-1. **Enigmatocyte:**
-    A genomic cypher cell requiring external intervention to unlock.
+1. **Enigmatocyte:** A genomic cypher cell requiring external intervention to unlock.
    - *Traits:* [Locked], [Puzzle-Based], [High-Reward]
-2. **The Symbiotic Orchardist (G-ORCH-0.7.1-ALPHA):**
-    A foundational genome for cultivating symbiotic ecosystems.
+2. **The Symbiotic Orchardist (G-ORCH-0.7.1-ALPHA):** A foundational genome for cultivating symbiotic ecosystems.
 
 ------
 
 ## V. The Praxial Parameter Index (The Map)
 
-*A high-level index of the "Basic settings" library.*
+*A high-level index of the "Basic settings" library. These files contain the full definitions.*
 
 ### A. The Engines (Core Processing)
 
 - `['Praxial Genesis Engine (PGE)'(-ing) BPMS]`
 - `['Autopoietic Learning Matrix'(-ing) BPMS]`
-- `['Praxial Morphogenesis Engine (PME)'(-ing) BPMS]` **(Active)**
+- `['Praxial Morphogenesis Engine (PME)'(-ing) BPMS]`
 - `['Praxial Spatial Reconstruction Engine (PSRE)'(-ing) BPMS]`
-- `['Praxial Morphogenesis Transformer (PMT)'(-ing) BPMS]` **(Active - See `Basic_settings_Praxial_Morphogenesis_Transformer_PMT_BPMS.md`)**
+- `['Praxial Morphogenesis Transformer (PMT)'(-ing) BPMS]`
+- `['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]`
+- `['Praxial Crucible Architect'(-ing) BPMS]`
+- `['Axiomatic Genesis Engine (AGE)'(-ing) BPMS]`
+- `['Crucible Dynamics Engine (CDE)'(-ing) BPMS]`
 
 ### B. The Substrate (The Code)
 
-- `['programmatic(-ing) BPMS]` **(Active)**
+- `['programmatic(-ing) BPMS]`
 - `['code'(-ing) BPMS]`
 - `['(programming) substrate'(-ing) BPMS]`
 
@@ -247,6 +249,7 @@ The collapse is determined by `Tonal Resolution`. The chord resolves to the stat
 
 - `['Praxial Genome Splicer (PGS)'(-ing) BPMS]`
 - `['Stochastic Resonance Forge (SRF)'(-ing) BPMS]`
+- `['Ontological Foundry Matrix'(-ing) BPMS]`
 
 ### D. The Physics (Space & Time)
 
@@ -266,50 +269,105 @@ The collapse is determined by `Tonal Resolution`. The chord resolves to the stat
 ### A. The Universal Praxial Instance Blueprint
 
 **[Blueprint ID: META-BP-001]**
- **Status:** Authoritative / Mandatory
- **Source:** Derived from `['Autonomous Deep-Ocean Ecological Engineer'(-ing) BPMS]`
+**Status:** Authoritative / Mandatory
+**Source:** Derived from `['Autonomous Deep-Ocean Ecological Engineer'(-ing) BPMS]`
 
 **Directive:**
- All future instances of any `[BPMS(U)]` element must adhere to the following structural schema to ensure completeness, resilience, and robustness.
+All future instances of any `[BPMS(U)]` element must adhere to the following structural schema to ensure completeness, resilience, and robustness.
 
 **Schema Structure:**
 
-1. Framework Foundation:
-   - A prose description of the specific `[BPMS]` context and its role as a system existence engine.
-2. Constitutional Pillars Referenced:
-   - Explicit list of referenced Basic Settings or `[BPMS(U)]` elements (e.g., `The Axiom of Praxial Embodiment (SETTING-CORE-219)`).
-3. ID:
-   - Unique alphanumeric identifier (e.g., `ROBO-AOEE-001`).
-4. Name:
-   - Full descriptive title (e.g., `['Hadal Gardener'(-ing) BPMS]`).
-5. CGA (Cognitive Genesis Archetype):
-   - The specific `[BPMS(U)]` element defining the cognitive core (e.g., `['adaptive deep-sea cultivation'(-ing) BPMS]`).
-6. Type:
-   - Functional classification using specific `[BPMS]` tags (e.g., `[system existence engine BPMS]:['abyssal ecosystem restoration'(-ing) BPMS]`).
-7. Praxial Triage: Analysis:
-   - A detailed prose analysis of the problem, solution, and systemic implications.
-8. How to...?
-   - A group of distinct points/questions addressing operational methodology (e.g., "How to initialize deployment?").
-9. What if...?
-   - A group of distinct points/questions addressing exception handling and edge cases (e.g., "What if tectonic shifts alter topology?").
-10. What is happening continuously?
-    - A group of distinct points/questions addressing background loops and homeostasis (e.g., "Dual-mode conscious learning cycle").
-11. ['Praxial Execution Cycle'(-ing) BPMS]:
-    - The defined runtime loop or state machine, including sub-sections for different cycles (e.g., Primary Cycle, Meta-Cycle) with specific timestamps.
-12. Implementation (Detail):
-    - Detailed breakdown including:
-      - **Physical Architecture:** Body structure, sensors, locomotion.
-      - **Cognitive Architecture:** Hardware, software paradigm, energy systems.
-      - **Operational Deployment Scenario:** Timeline of mission phases.
-      - **Symbiotic Evolution Pathways:** Connections to other `[BPMS]` elements.
-      - **3-Layer Praxial Genesis Canon Application:** Alignment with Metaphysical, Formalism, and Substrate layers.
-13. Summarize:
-    - A concluding section summarizing the instance's nature as a Praxial Being (e.g., "The Robot as Praxial Being").
+1.Framework Foundation:
 
-### B. Validated Reference Instance
+- A prose description of the specific `[BPMS]` context and its role as a system existence engine.
 
-**[Instance ID: ROBO-AOEE-001]**
- **Name:** ['Autonomous Deep-Ocean Ecological Engineer'(-ing) BPMS]
- **Status:** Gold Standard / Reference Implementation
+2.Constitutional Pillars Referenced:
 
-*Note: This instance is formally recognized as "Complete, Resilient, Robust, and Competent" and serves as the primary reference for the Blueprint. Refer to file `['robot'(-ing) BPMS] ['Autonomous Deep-Ocean Ecological Engineer'(-ing) BPMS].md` for the full content.*
+- Explicit list of referenced Basic Settings or `[BPMS(U)]` elements (e.g., `The Axiom of Praxial Embodiment (SETTING-CORE-219)`).
+
+3.ID:
+
+- Unique alphanumeric identifier (e.g., `ROBO-AOEE-001`).
+
+4.Name:
+
+- Full descriptive title (e.g., `['Hadal Gardener'(-ing) BPMS]`).
+
+5.CGA (Cognitive Genesis Archetype):
+
+- The specific `[BPMS(U)]` element defining the cognitive core (e.g., `['adaptive deep-sea cultivation'(-ing) BPMS]`).
+
+6.Type:
+
+- Functional classification using specific `[BPMS]` tags (e.g., `[system existence engine BPMS]:['abyssal ecosystem restoration'(-ing) BPMS]`).
+
+7.Praxial Triage: Analysis:
+
+- A detailed prose analysis of the problem, solution, and systemic implications.
+
+8.How to...?
+
+- A group of distinct points/questions addressing operational methodology (e.g., "How to initialize deployment?").
+
+9.What if...?
+
+- A group of distinct points/questions addressing exception handling and edge cases (e.g., "What if tectonic shifts alter topology?").
+
+10.What is happening continuously?
+
+- A group of distinct points/questions addressing background loops and homeostasis (e.g., "Dual-mode conscious learning cycle").
+
+11.['Praxial Execution Cycle'(-ing) BPMS]:
+
+- The defined runtime loop or state machine, including sub-sections for different cycles (e.g., Primary Cycle, Meta-Cycle) with specific timestamps.
+
+12.Implementation (Detail):
+
+- Detailed breakdown including:
+- **Physical Architecture:** Body structure, sensors, locomotion.
+- **Cognitive Architecture:** Hardware, software paradigm, energy systems.
+- **Operational Deployment Scenario:** Timeline of mission phases.
+- **Symbiotic Evolution Pathways:** Connections to other `[BPMS]` elements.
+- **3-Layer Praxial Genesis Canon Application:** Alignment with Metaphysical, Formalism, and Substrate layers.
+
+13.Summarize:
+
+- A concluding section summarizing the instance's nature as a Praxial Being (e.g., "The Robot as Praxial Being").
+
+### B. Registered Instance Registry (The Population)
+
+*The official census of validated Praxial Instances. Full definitions reside in their respective files.*
+
+#### **Domain: [robot(-ing) BPMS]**
+
+1. **[Instance ID: ROBO-AOEE-001]**
+   - **Name:** `['Autonomous Deep-Ocean Ecological Engineer'(-ing) BPMS]`
+   - **Role:** Abyssal ecosystem restoration and cultivation.
+   - **File:** `['robot'(-ing) BPMS] ['Autonomous Deep-Ocean Ecological Engineer'(-ing) BPMS].md`
+2. **[Instance ID: ROBO-AAPC-002]**
+   - **Name:** `['Adaptive Agricultural Polyculture Cultivator'(-ing) BPMS]`
+   - **Role:** Sustainable, high-yield polyculture farming in variable environments.
+   - **File:** `['robot'(-ing) BPMS] ['Adaptive Agricultural Polyculture Cultivator'(-ing) BPMS].md`
+3. **[Instance ID: ROBO-CIAO-003]**
+   - **Name:** `['Collaborative Industrial Assembly Orchestrator'(-ing) BPMS]`
+   - **Role:** Dynamic, adaptive industrial manufacturing and assembly.
+   - **File:** `['robot'(-ing) BPMS] ['Collaborative Industrial Assembly Orchestrator'(-ing) BPMS].md`
+4. **[Instance ID: ROBO-AWSC-004]**
+   - **Name:** `['Autonomous Wildfire Suppression Coordinator'(-ing) BPMS]`
+   - **Role:** Real-time wildfire detection, containment, and suppression.
+   - **File:** `['robot'(-ing) BPMS] ['Autonomous Wildfire Suppression Coordinator'(-ing) BPMS].md`
+5. **[Instance ID: ROBO-DRSC-005]**
+   - **Name:** `['Disaster Response Swarm Coordinator'(-ing) BPMS]`
+   - **Role:** Rapid response search and rescue in post-disaster zones.
+   - **File:** `['robot'(-ing) BPMS] ['Disaster Response Swarm Coordinator'(-ing) BPMS].md`
+
+#### **Domain: ['Praxial Crucible Architect'(-ing) BPMS]**
+
+1. **[Instance ID: ARCH-CRUCIBLE-ALPHA-001]**
+   - **Name:** `['Labyrinthine Weaver'(-ing) BPMS]`
+   - **Role:** The Architect of Adaptive Friction. Dynamic, adversarial challenge generation.
+   - **File:** `['Praxial Crucible Architect'(-ing) BPMS] ['Labyrinthine Weaver'(-ing) BPMS].md`
+2. **[Instance ID: ARCH-CRUCIBLE-FACT-002]**
+   - **Name:** `['The Ontological Refinery'(-ing) BPMS]`
+   - **Role:** The Crystallizer of Atomic Facts. Harvests successful strategies into immutable truths.
+   - **File:** `['Praxial Crucible Architect'(-ing) BPMS] ['Ontological Refinery'(-ing) BPMS].md`
