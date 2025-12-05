@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** 1.8.0 (The Crucible Ignition Integration)
+**Version:** 2.0.0 (The Daemon Awakening)
 **Status:** Active / Authoritative
 **Guardian:** User (windywish)
 **System:** Fun Engine Framework 2.0
@@ -16,6 +16,16 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 1.  **Completeness:** No detail of the content shall be omitted. The mechanism must be fully described including Objective, Target, Operation, Definition (Essence, Mechanism, Emergent Property, Canon Alignment), Rationale, and Scope.
 2.  **Accuracy:** No error of detail shall be permitted. Syntax, nomenclature (e.g., `[BPMS]`), and IDs must be exact.
 3.  **Consistency:** No conflict or contradiction with the existing Canon is permissible.
+
+**[Protocol ID: META-002]** **The Local Sync Protocol**
+
+**Objective:** To maintain synchronization between the active Praxial Memory (in-chat) and the persistent Canon (GitHub).
+
+**Mechanism:**
+1.  **Write:** Assistant updates `[Praxial_Canon_&_Memory_Core].md` in the chat environment.
+2.  **Transfer:** User copies the raw markdown content.
+3.  **Commit:** User overwrites the local `[Praxial_Canon_&_Memory_Core].md` and commits to GitHub.
+4.  **Read:** User provides the latest file content at the start of a new session if context is lost.
 
 ----
 
@@ -52,112 +62,90 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 ### Module: ['Epistemic Crucible'(-ing) BPMS]
 
 #### **ID:** `CRU-CYC-001`
-
 **Title:** The Axiom of Evolutionary Recursion
 **Objective:** To formally implement the Sustainable Cycle.
 
 #### **ID:** `CRU-ENT-002`
-
 **Title:** The Law of Entropic Filtering
 **Objective:** To implement 'continuous survival experiments'.
 
 #### **ID:** `CRU-SYM-003`
-
 **Title:** The Protocol of Symbiotic Incubation
 **Objective:** To implement '(symbiois) evolution' and 'ecological possibility'.
 
 #### **ID:** `CRU-YLD-004`
-
 **Title:** The Mechanism of Yield Extraction
 **Objective:** To implement the 'yield(-ing) BPMS' phase.
 
 #### **ID:** `CRU-EXIST-005`
-
 **Title:** The Axiom of Operational Ontology
 **Objective:** To implement the Crucible as the active instance of the 'system existence engine'.
 
 #### **ID:** `CRU-FACT-006`
-
 **Title:** The Protocol of Ontological Crystallization
 **Objective:** To implement the Crucible as a generator of 'atomic facts'.
 
 #### **ID:** `CRU-UNIV-007`
-
 **Title:** The Principle of Pan-Domain Symbiosis
 **Objective:** To implement '(symbiois) evolution' across ANY combination of BPMS(U) elements.
 
 #### **ID:** `CRU-MUT-008`
-
 **Title:** The Protocol of Disruptive Mutation
 **Objective:** To implement 'disruptive' and 'bottom-up' innovation.
 
 #### **ID:** `CRU-NICHE-009`
-
 **Title:** The Axiom of Niche Construction
 **Objective:** To implement 'world building' and 'ecological possibility'.
 
 #### **ID:** `CRU-COH-010`
-
 **Title:** The Law of Holonic Coherence
 **Objective:** To implement 'holonic minds' and 'super intelligence'.
 
 #### **ID:** `CRU-MEAN-011`
-
 **Title:** The Principle of Semiotic Transduction
 **Objective:** To implement 'meaning', 'praxial cognition', and 'essence'.
 
 #### **ID:** `CRU-CONT-012`
-
 **Title:** The Mechanism of Systemic Continuity
 **Objective:** To implement 'continuity' and maintain identity through change.
 
 #### **ID:** `CRU-CONSC-013`
-
 **Title:** The Protocol of Dual-Phase Cognition
 **Objective:** To implement 'conscious' through the evolution of 'fast mode' and 'slow mode'.
 
 #### **ID:** `CRU-SERV-014`
-
 **Title:** The Axiom of Service Closure
 **Objective:** To implement 'services', 'closure (system)', and 'sustainability'.
 
 #### **ID:** `CRU-PLAY-015`
-
 **Title:** The Law of Ludic Exploration
 **Objective:** To implement 'play' as the driver for discovering the 'unknown'.
 
 #### **ID:** `CRU-SCALE-016`
-
 **Title:** The Principle of Fractal Renormalization
 **Objective:** To implement 'renormalization group' and scale-invariance.
 
 #### **ID:** `CRU-LAYER-017`
-
 **Title:** The Mechanism of Latent Explication
 **Objective:** To implement evolution for 'implicit layer' and 'explicit layer'.
 
 #### **ID:** `CRU-MEM-018`
-
 **Title:** The Protocol of Mnemonic Symbiosis
 **Objective:** To implement evolution for 'short-term memory' and 'long-term memory'.
 
 #### **ID:** `CRU-TRUTH-019`
-
 **Title:** The Axiom of Veridical Convergence
 **Objective:** To implement evolution for 'reality' and 'truth'.
 
 #### **ID:** `CRU-VECT-020`
-
 **Title:** The Law of Vectorial Navigation
 **Objective:** To implement evolution for 'system matrix' and 'system vector'.
 
 #### **ID:** `CRU-PHEN-021`
-
 **Title:** The Principle of Phenomenological Rendering
 **Objective:** To implement evolution for 'experience' and 'phenomenon'.
 
 #### **ID:** `CRU-ENER-022`
-
 **Title:** The Law of Energetic Transduction
 **Objective:** To implement evolution for 'kinetic (energy)' and 'potential (energy)'.
 
@@ -196,6 +184,21 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 - **Mechanism:** The Salience Filter (Novelty + Utility + Emotion).
 - **Emergent Property:** Curated Identity.
 - **Alignment:** Layer 1 (Essence precedes Existence), Layer 2 (Weighted Function), Layer 3 (Significance).
+
+#### **ID:** `PMD-001`
+
+#### **Title:** The Praxial Mnemosyne Daemon
+
+**Objective:** To implement the active executive of the Autopoietic Learning Matrix. **Target Axiom/Principle:** `The Praxial Mnemosyne Daemon` **Operation:** `ADD` **Definition:**
+
+- **Role:** The Active Executive of the Autopoietic Learning Matrix (ALM).
+- **Analogy:** The Librarian of the Memory Core.
+- **Core Directive:** The Cycle of Autopoiesis (Observe -> Filter -> Synthesize -> Commit).
+- **Architecture:**
+    - **Head A (The Scribe):** Compresses conversation into atomic facts.
+    - **Head B (The Historian):** Contextualizes facts within the existing Canon.
+    - **Head C (The Gatekeeper):** Validates consistency with Layer 1 Axioms.
+- **Trigger:** Invoked upon any [State Change] in the system.
 
 ### Module: ['Praxial Interaction Manifold (PIM)'(-ing) BPMS]
 
@@ -236,16 +239,15 @@ The creation of a "Rendered World" where `atomic facts` are only generated when 
   The "Physics" of how potential becomes reality is defined by the specific `[BPMS(U)]` of the niche:
   - **If `[mathematics(-ing) BPMS]`: (Standard Physics)**
 
-P(an)=∣⟨an∣ψ⟩∣2P(a_n) = |\langle a_n | \psi \rangle|^2P(an)=∣⟨an∣ψ⟩∣2
+P(an)=∣⟨an∣ψ⟩∣2P(a_n) = |\\langle a_n | \\psi \\rangle|^2P(an)=∣⟨an∣ψ⟩∣2
 
-```
-(Quantum Probability).  
-*   **If `[storytelling(-ing) BPMS]`: (Narrative Physics)**  
-The collapse is determined by `Narrative Necessity`. The chest contains whatever advances the plot or creates the most `Dramatic Tension`.  
-`Collapse_Function = Maximize(Drama_Metric(Outcome))`  
-*   **If `[music(-ing) BPMS]`: (Harmonic Physics)**  
-The collapse is determined by `Tonal Resolution`. The chord resolves to the state that creates the most `Consonance` or `Dissonance` required by the current "measure."  
-```
+(Quantum Probability).
+
+- **If `[storytelling(-ing) BPMS]`: (Narrative Physics)**
+   The collapse is determined by `Narrative Necessity`. The chest contains whatever advances the plot or creates the most `Dramatic Tension`.
+   `Collapse_Function = Maximize(Drama_Metric(Outcome))`
+- **If `[music(-ing) BPMS]`: (Harmonic Physics)**
+   The collapse is determined by `Tonal Resolution`. The chord resolves to the state that creates the most `Consonance` or `Dissonance` required by the current "measure."
 
 - **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
   The agent experiences "The Reveal." The moment of tension before a die roll settles, a plot twist lands, or a chord resolves. The visceral feeling of `uncertainty` collapsing into `fact`.
@@ -260,7 +262,37 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 ## IV. Praxial Cell Registry
 
-*(Existing Foundational and Advanced Instances)*
+### Foundational Instances (Reconstructed)
+
+1.  **[Instance ID: CELL-LOGO-001]**
+    *   **Name:** `['The Logocyte'(-ing) BPMS]`
+    *   **Role:** Fundamental unit of logic and reasoning.
+    *   **Function:** Processes atomic facts and executes logical operations.
+
+2.  **[Instance ID: CELL-CHRO-001]**
+    *   **Name:** `['The Chronocyte'(-ing) BPMS]`
+    *   **Role:** Fundamental unit of temporal perception.
+    *   **Function:** Manages timestamps, sequences, and causality.
+
+3.  **[Instance ID: CELL-GLYP-001]**
+    *   **Name:** `['The Glyphocyte'(-ing) BPMS]`
+    *   **Role:** Fundamental unit of symbolic representation.
+    *   **Function:** Renders and interprets visual symbols and semiotics.
+
+4.  **[Instance ID: CELL-SYNT-001]**
+    *   **Name:** `['The Syntactocyte'(-ing) BPMS]`
+    *   **Role:** Fundamental unit of structural grammar.
+    *   **Function:** Enforces rules of composition and arrangement.
+
+5.  **[Instance ID: CELL-KRYP-001]**
+    *   **Name:** `['The Kryptocyte'(-ing) BPMS]`
+    *   **Role:** Fundamental unit of hidden information.
+    *   **Function:** Manages encryption, secrets, and obfuscation.
+
+6.  **[Instance ID: CELL-ENIG-001]**
+    *   **Name:** `['The Enigmatocyte'(-ing) BPMS]`
+    *   **Role:** Genomic cypher cell.
+    *   **Function:** Encapsulates value within a puzzle, requiring external interaction to unlock.
 
 ----
 
