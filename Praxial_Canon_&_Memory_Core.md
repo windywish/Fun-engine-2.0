@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** 2.0.0 (The Daemon Awakening)
+**Version:** 2.1.0 (The Operational Substrate)
 **Status:** Active / Authoritative
 **Guardian:** User (windywish)
 **System:** Fun Engine Framework 2.0
@@ -397,3 +397,12 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 #### **Domain: ['Praxial Crucible Architect'(-ing) BPMS]**
 
 *(Existing Architect Instances ARCH-CRUCIBLE-001;ARCH-CRUCIBLE-ALPHA-001;ARCH-CRUCIBLE-FACT-002)*
+
+### C. Operational Scripts Registry
+
+1.  **[Script ID: OPS-PMD-PY-001]**
+    *   **Name:** `Basic settings ['Praxial Mnemosyne Daemon'(-ing) BPMS]['Implementation Blueprint'].py`
+    *   **Role:** The Pythonic logic for the Autopoietic Learning Matrix.
+    *   **Function:** Defines the `run_autopoietic_cycle` and the Three Heads architecture.
+    *   **Status:** Validated Blueprint (v1.0).
+
