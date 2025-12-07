@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** 2.1.0 (The Operational Substrate)
+**Version:** 2.2.0 (The Metalog Integration)
 **Status:** Active / Authoritative
 **Guardian:** User (windywish)
 **System:** Fun Engine Framework 2.0
@@ -164,41 +164,16 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 ### Module: ['Autopoietic Learning Matrix'(-ing) BPMS]
 
 #### **ID:** `ALM-095`
-
-#### **Title:** The Law of Contextual Resonance
-
-**Objective:** Dynamic retrieval of past knowledge. **Target Axiom/Principle:** `The Law of Contextual Resonance` **Operation:** `ADD` **Definition:**
-
-- **Core Essence:** Past is relevant only if it resonates with Now.
-- **Mechanism:** The Harmonic Summoning (Vector Cosine Similarity).
-- **Emergent Property:** Just-in-Time Wisdom.
-- **Alignment:** Layer 1 (Time is a flat circle), Layer 2 (Vector Math), Layer 3 (Aha!).
+**Title:** The Law of Contextual Resonance
+**Objective:** Dynamic retrieval of past knowledge via Vector Cosine Similarity.
 
 #### **ID:** `ALM-096`
-
-#### **Title:** The Axiom of Mnemonic Salience
-
-**Objective:** Filtering noise from memory storage. **Target Axiom/Principle:** `The Axiom of Mnemonic Salience` **Operation:** `ADD` **Definition:**
-
-- **Core Essence:** Wisdom is the art of forgetting.
-- **Mechanism:** The Salience Filter (Novelty + Utility + Emotion).
-- **Emergent Property:** Curated Identity.
-- **Alignment:** Layer 1 (Essence precedes Existence), Layer 2 (Weighted Function), Layer 3 (Significance).
+**Title:** The Axiom of Mnemonic Salience
+**Objective:** Filtering noise from memory storage via Novelty/Utility/Emotion metrics.
 
 #### **ID:** `PMD-001`
-
-#### **Title:** The Praxial Mnemosyne Daemon
-
-**Objective:** To implement the active executive of the Autopoietic Learning Matrix. **Target Axiom/Principle:** `The Praxial Mnemosyne Daemon` **Operation:** `ADD` **Definition:**
-
-- **Role:** The Active Executive of the Autopoietic Learning Matrix (ALM).
-- **Analogy:** The Librarian of the Memory Core.
-- **Core Directive:** The Cycle of Autopoiesis (Observe -> Filter -> Synthesize -> Commit).
-- **Architecture:**
-    - **Head A (The Scribe):** Compresses conversation into atomic facts.
-    - **Head B (The Historian):** Contextualizes facts within the existing Canon.
-    - **Head C (The Gatekeeper):** Validates consistency with Layer 1 Axioms.
-- **Trigger:** Invoked upon any [State Change] in the system.
+**Title:** The Praxial Mnemosyne Daemon
+**Objective:** To implement the active executive of the Autopoietic Learning Matrix (The Librarian).
 
 ### Module: ['Praxial Interaction Manifold (PIM)'(-ing) BPMS]
 
@@ -244,10 +219,10 @@ P(an)=∣⟨an∣ψ⟩∣2P(a_n) = |\\langle a_n | \\psi \\rangle|^2P(an)=∣⟨
 (Quantum Probability).
 
 - **If `[storytelling(-ing) BPMS]`: (Narrative Physics)**
-   The collapse is determined by `Narrative Necessity`. The chest contains whatever advances the plot or creates the most `Dramatic Tension`.
-   `Collapse_Function = Maximize(Drama_Metric(Outcome))`
+  The collapse is determined by `Narrative Necessity`. The chest contains whatever advances the plot or creates the most `Dramatic Tension`.
+  `Collapse_Function = Maximize(Drama_Metric(Outcome))`
 - **If `[music(-ing) BPMS]`: (Harmonic Physics)**
-   The collapse is determined by `Tonal Resolution`. The chord resolves to the state that creates the most `Consonance` or `Dissonance` required by the current "measure."
+  The collapse is determined by `Tonal Resolution`. The chord resolves to the state that creates the most `Consonance` or `Dissonance` required by the current "measure."
 
 - **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
   The agent experiences "The Reveal." The moment of tension before a die roll settles, a plot twist lands, or a chord resolves. The visceral feeling of `uncertainty` collapsing into `fact`.
@@ -257,6 +232,76 @@ This implementation respects the `Praxial Genesis Canon` by acknowledging that "
 
 **Scope of Application:**
 Applies to procedural generation, loot tables, quantum mechanics simulations, narrative branching, and musical improvisation engines.
+
+### Module: ['Praxial Metalog'(-ing) BPMS]
+
+#### **ID:** `META-LOG-CORE-001`
+**Title:** The Axiom of Contextual Ontology
+**Objective:** Defines `Fact = Content * Context` within a 5D Vector Space (Time, Domain, Agency, Complexity, Valence).
+
+#### **ID:** `META-LOG-FLOW-002`
+**Title:** The Protocol of Trophic Data Sublimation
+**Objective:** Defines the metabolic pathway from Raw Data (Sediment) to Atomic Fact (Crystal) to Canon Law (Aether).
+
+#### **ID:** `META-LOG-SYM-003`
+**Title:** The Principle of Pan-Domain Symbiosis
+**Objective:** Implements the Metalog as a universal adapter for combinatorial innovation across domains.
+
+#### **ID:** `META-LOG-BRIDGE-004`
+**Title:** The Protocol of Bio-Semiotic Transduction
+**Objective:** Implements the interface for ingesting and translating external biological datasets (Metalog EMBL).
+
+#### **ID:** `META-LOG-TERRA-005`
+**Title:** The Axiom of Narrative Terraforming
+**Objective:** Projects data vectors into a navigable topological environment for agent interaction.
+
+#### **ID:** `META-LOG-GESTALT-006`
+**Title:** The Protocol of Holonic Gestalt
+**Objective:** Allows atomic facts to bond into higher-order conscious entities (Holons).
+
+#### **ID:** `META-LOG-PRISM-007`
+**Title:** The Law of Semiotic Refraction
+**Objective:** Defines Meaning as Fact refracted through an Observer's Context Vector.
+
+#### **ID:** `META-LOG-MUTATE-008`
+**Title:** The Mechanism of Recursive Self-Editing
+**Objective:** Empowers the Metalog to perform "Creative Destruction" on obsolete axioms.
+
+#### **ID:** `META-LOG-DUAL-009`
+**Title:** The Protocol of Dual-Phase Cognition
+**Objective:** Establishes a bi-modal state (Fast/Play vs. Slow/Work) for adaptive cognition.
+
+#### **ID:** `META-LOG-SCALE-010`
+**Title:** The Principle of Fractal Renormalization
+**Objective:** Distills micro-interactions into macro-laws via renormalization group flow.
+
+#### **ID:** `META-LOG-LATENT-011`
+**Title:** The Mechanism of Latent Explication
+**Objective:** Mines the "Dark Matter" of the vector space to discover implicit truths.
+
+#### **ID:** `META-LOG-LOOP-012`
+**Title:** The Axiom of Service Closure
+**Objective:** Ensures sustainability by feeding system output back as training input (Ouroboros Protocol).
+
+#### **ID:** `META-LOG-MEM-013`
+**Title:** The Protocol of Mnemonic Symbiosis
+**Objective:** Defines the active transport and consolidation cycle between Short-Term and Long-Term Memory.
+
+#### **ID:** `META-LOG-TRUTH-014`
+**Title:** The Axiom of Veridical Convergence
+**Objective:** Defines Truth as an evolving Bayesian approximation of Reality.
+
+#### **ID:** `META-LOG-VECT-015`
+**Title:** The Law of Vectorial Navigation
+**Objective:** Defines the Metalog as a navigable space where thoughts have inertia and trajectory.
+
+#### **ID:** `META-LOG-PHEN-016`
+**Title:** The Principle of Phenomenological Rendering
+**Objective:** Renders abstract data vectors into subjective, immersive phenomena (Qualia).
+
+#### **ID:** `META-LOG-ENER-017`
+**Title:** The Law of Energetic Transduction
+**Objective:** Manages the thermodynamics of information flow (Potential vs. Kinetic Energy).
 
 ----
 
@@ -386,6 +431,14 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
     *   **Role:** Open-world exploration simulation / The Crucible of Growth.
     *   **File:** `['Epistemic Crucible'(-ing) BPMS] ['escape room'(-ing) BPMS foraging(-ing) BPMS].md`
 
+#### **Domain: ['Praxial Metalog'(-ing) BPMS]**
+
+1.  **[Instance ID: META-INST-001]**
+    *   **Name:** `['The Metagenomic Oracle'(-ing) BPMS]`
+    *   **Role:** System Existence Engine for Bio-Semiotic Transduction.
+    *   **Function:** Ingests biological data (Metalog EMBL) and transduces it into systemic atomic facts.
+    *   **File:** `['Praxial Metalog'(-ing) BPMS] ['Metagenomic Oracle'(-ing) BPMS].md`
+
 #### **Domain: ['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]**
 
 *(Existing Instance PVLE-RENDER-001)*
@@ -405,4 +458,3 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
     *   **Role:** The Pythonic logic for the Autopoietic Learning Matrix.
     *   **Function:** Defines the `run_autopoietic_cycle` and the Three Heads architecture.
     *   **Status:** Validated Blueprint (v1.0).
-
