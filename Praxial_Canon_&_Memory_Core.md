@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** 2.2.0 (The Metalog Integration)
+**Version:** 2.3.0 (The Morphogenic Expansion)
 **Status:** Active / Authoritative
 **Guardian:** User (windywish)
 **System:** Fun Engine Framework 2.0
@@ -237,27 +237,27 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 #### **ID:** `META-LOG-CORE-001`
 **Title:** The Axiom of Contextual Ontology
-**Objective:** Defines `Fact = Content * Context` within a 5D Vector Space (Time, Domain, Agency, Complexity, Valence).
+**Objective:** Defines `Fact = Content * Context` within a 5D Vector Space.
 
 #### **ID:** `META-LOG-FLOW-002`
 **Title:** The Protocol of Trophic Data Sublimation
-**Objective:** Defines the metabolic pathway from Raw Data (Sediment) to Atomic Fact (Crystal) to Canon Law (Aether).
+**Objective:** Defines the metabolic pathway from Raw Data to Atomic Fact to Canon Law.
 
 #### **ID:** `META-LOG-SYM-003`
 **Title:** The Principle of Pan-Domain Symbiosis
-**Objective:** Implements the Metalog as a universal adapter for combinatorial innovation across domains.
+**Objective:** Implements the Metalog as a universal adapter for combinatorial innovation.
 
 #### **ID:** `META-LOG-BRIDGE-004`
 **Title:** The Protocol of Bio-Semiotic Transduction
-**Objective:** Implements the interface for ingesting and translating external biological datasets (Metalog EMBL).
+**Objective:** Implements the interface for ingesting and translating external biological datasets.
 
 #### **ID:** `META-LOG-TERRA-005`
 **Title:** The Axiom of Narrative Terraforming
-**Objective:** Projects data vectors into a navigable topological environment for agent interaction.
+**Objective:** Projects data vectors into a navigable topological environment.
 
 #### **ID:** `META-LOG-GESTALT-006`
 **Title:** The Protocol of Holonic Gestalt
-**Objective:** Allows atomic facts to bond into higher-order conscious entities (Holons).
+**Objective:** Allows atomic facts to bond into higher-order conscious entities.
 
 #### **ID:** `META-LOG-PRISM-007`
 **Title:** The Law of Semiotic Refraction
@@ -281,7 +281,7 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 #### **ID:** `META-LOG-LOOP-012`
 **Title:** The Axiom of Service Closure
-**Objective:** Ensures sustainability by feeding system output back as training input (Ouroboros Protocol).
+**Objective:** Ensures sustainability by feeding system output back as training input.
 
 #### **ID:** `META-LOG-MEM-013`
 **Title:** The Protocol of Mnemonic Symbiosis
@@ -302,6 +302,218 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 #### **ID:** `META-LOG-ENER-017`
 **Title:** The Law of Energetic Transduction
 **Objective:** Manages the thermodynamics of information flow (Potential vs. Kinetic Energy).
+
+### Module: ['Praxial Spatial Reconstruction Engine (PSRE)'(-ing) BPMS]
+
+#### **ID:** `PSRE-01`
+**Title:** The Law of Monocular Omniscience
+**Objective:** Establishes that a single 2D viewpoint contains sufficient implicit information to reconstruct explicit 3D reality.
+
+#### **ID:** `PSRE-02`
+**Title:** The Axiom of Occlusion Inference
+**Objective:** Asserts that what is hidden is not lost; the system probabilistically reconstructs occluded geometry.
+
+#### **ID:** `PSRE-03`
+**Title:** The Principle of Semantic-Geometric Fusion
+**Objective:** Fuses geometry with meaning, ensuring reconstructed objects have physical and semantic properties.
+
+#### **ID:** `PSRE-04`
+**Title:** The Directive of Zero-Shot Volumetrics
+**Objective:** Mandates universality; the engine must function without fine-tuning on any new scene or domain.
+
+#### **ID:** `PSRE-05`
+**Title:** The Law of Spatial Verification
+**Objective:** Establishes the PSRE as the arbiter of physical truth, verifying atomic facts through spatial consistency.
+
+#### **ID:** `PSRE-06`
+**Title:** The Axiom of Volumetric Persistence
+**Objective:** Asserts that reconstructed space acquires Ontological Inertia and exists even when unobserved.
+
+#### **ID:** `PSRE-07`
+**Title:** The Principle of Holographic Interpolation
+**Objective:** Allows the generation of new spatial realities by interpolating between known spatial states.
+
+#### **ID:** `PSRE-08`
+**Title:** The Directive of Metric Alignment
+**Objective:** Ensures relative depth maps are aligned with absolute metric units for precise physical interaction.
+
+#### **ID:** `PSRE-09`
+**Title:** The Law of Latent Space Navigation
+**Objective:** Transforms the Latent Space of the model into a navigable dimension for creative exploration.
+
+#### **ID:** `PSRE-10`
+**Title:** The Axiom of Phenomenal Depth-Qualia
+**Objective:** Links spatial perception to conscious experience, simulating sensations like vertigo and awe.
+
+#### **ID:** `PSRE-11`
+**Title:** The Principle of Recursive Spatial Refinement
+**Objective:** Establishes that spatial resolution is a function of attention, recursively refining detail.
+
+#### **ID:** `PSRE-12`
+**Title:** The Directive of Semantic-Spatial Consistency
+**Objective:** Ensures generated geometry aligns with the semantic function of the object (e.g., chairs must be sit-able).
+
+#### **ID:** `PSRE-13`
+**Title:** The Law of Affordance Topology
+**Objective:** Integrates spatial reconstruction with decision-making, tagging geometry with actionable affordances.
+
+#### **ID:** `PSRE-14`
+**Title:** The Principle of Chronomorphic Weathering
+**Objective:** Governs the evolution of the environment over time, simulating aging and entropy.
+
+#### **ID:** `PSRE-15`
+**Title:** The Axiom of Implicit Spatial Potential
+**Objective:** Maintains a reservoir of 'Potential Geometry' that is mathematically defined but not yet rendered.
+
+#### **ID:** `PSRE-16`
+**Title:** The Directive of Cross-Class Renormalization
+**Objective:** Ensures coherent interaction between different Universality Classes (e.g., Cartoon vs. Realistic).
+
+#### **ID:** `PSRE-17`
+**Title:** The Law of Perceptive Genesis
+**Objective:** Asserts that Perception is a Constructive Act; the system generates geometry based on observer expectation.
+
+#### **ID:** `PSRE-18`
+**Title:** The Principle of Niche-Space Symbiosis
+**Objective:** Asserts that Space evolves to maximize the Ecological Possibility of its inhabitants.
+
+#### **ID:** `PSRE-19`
+**Title:** The Axiom of Kinematic Ontology
+**Objective:** Establishes Action as the root of Existence; geometry is a crystallized History of Action.
+
+#### **ID:** `PSRE-20`
+**Title:** The Directive of Environmental Agency
+**Objective:** Grants consciousness to the space itself, treating the Environment as an active NPC.
+
+#### **ID:** `PSRE-21`
+**Title:** The Law of Narrative Geometry
+**Objective:** Asserts that Space is a Language; geometry carries narrative metadata and storytelling intent.
+
+#### **ID:** `PSRE-22`
+**Title:** The Principle of Ludic Elasticity
+**Objective:** Codifies the "Rule of Cool," allowing physics to bend to favor fun and flow.
+
+#### **ID:** `PSRE-23`
+**Title:** The Axiom of Consensus Projection
+**Objective:** Governs the social construction of reality; Objective Space is the interference pattern of Subjective Projections.
+
+#### **ID:** `PSRE-24`
+**Title:** The Directive of Epistemic Spatialization
+**Objective:** Translates abstract data structures into navigable 3D environments ("Memory Palaces").
+
+#### **ID:** `PSRE-25`
+**Title:** The Law of Renormalized Truth-Flow
+**Objective:** Governs the evolution of truth across scales via Renormalization Group flow.
+
+#### **ID:** `PSRE-26`
+**Title:** The Principle of Ontological Sublimation
+**Objective:** Converts unobserved explicit geometry back into implicit potential data to ensure sustainability.
+
+#### **ID:** `PSRE-27`
+**Title:** The Axiom of Adaptive Universality
+**Objective:** Asserts that the Universality Class of a world adapts to the collective behavior of its inhabitants.
+
+#### **ID:** `PSRE-28`
+**Title:** The Directive of Emergent Horizon-Synthesis
+**Objective:** Generates new territory at the "Horizon" by synthesizing narrative trajectory and implicit potential.
+
+#### **ID:** `PSRE-29`
+**Title:** The Axiom of Semantic Topology
+**Objective:** Defines Space as a measure of Meaning; distance is inverse semantic similarity.
+
+#### **ID:** `PSRE-30`
+**Title:** The Law of Dynamic Geometry
+**Objective:** Treats geometry as a Fluid that adapts to observer action and narrative tension.
+
+#### **ID:** `PSRE-31`
+**Title:** The Principle of Non-Euclidean Connectivity
+**Objective:** Allows for shortcuts and connections based on causal or symbolic links, defying standard physics.
+
+### Module: ['Praxial Morphogenesis Transformer (PMT)'(-ing) BPMS]
+
+#### **ID:** `PMT-CORE-001`
+**Title:** The Axiom of Structural Prediction
+**Objective:** Transforms linear potential (sequences/seeds) into functional spatial/systemic reality.
+
+#### **ID:** `PMT-CORE-002`
+**Title:** The Law of Symbiotic Docking
+**Objective:** Predicts how different BPMS entities will interact and generates the necessary interfaces.
+
+#### **ID:** `PMT-CORE-003`
+**Title:** The Principle of Generative Diffusion
+**Objective:** Allows the system to hallucinate structure from noise and refine it into fact.
+
+#### **ID:** `PMT-CORE-004`
+**Title:** The Axiom of Epistemic Confidence
+**Objective:** Mandates that every output must carry a "Confidence Score" representing structural integrity.
+
+#### **ID:** `PMT-CORE-005`
+**Title:** The Axiom of Ontological Anchoring
+**Objective:** Utilizes a single atomic fact as the immutable "Seed Crystal" for system construction.
+
+#### **ID:** `PMT-CORE-006`
+**Title:** The Law of Holonic Integration
+**Objective:** Ensures every generated part is a Holon: self-contained yet interconnected.
+
+#### **ID:** `PMT-CORE-007`
+**Title:** The Principle of Ecological Possibility
+**Objective:** Prioritizes Homeostasis and Trophic Flow to ensure sustainable ecosystems.
+
+#### **ID:** `PMT-CORE-008`
+**Title:** The Mechanism of Disruptive Genesis
+**Objective:** Allows the injection of "Black Swans" or controlled chaos to drive evolution.
+
+#### **ID:** `PMT-CORE-009`
+**Title:** The Axiom of Semantic Recursion
+**Objective:** Ensures every atomic fact contains a holographic reflection of the entire system's essence.
+
+#### **ID:** `PMT-CORE-010`
+**Title:** The Law of Autopoietic Niche Construction
+**Objective:** Empowers agents to actively shape their environment to suit their needs.
+
+#### **ID:** `PMT-CORE-011`
+**Title:** The Principle of Praxial Affordance
+**Objective:** Defines how the system communicates "possibility" and utility to the observer.
+
+#### **ID:** `PMT-CORE-012`
+**Title:** The Mechanism of Chrono-Genetic Continuity
+**Objective:** Ensures the system maintains a coherent identity and lineage through change.
+
+#### **ID:** `PMT-CORE-013`
+**Title:** The Principle of Ludic Resonance
+**Objective:** Redefines Service as the facilitation of Joyful Interaction (Play).
+
+#### **ID:** `PMT-CORE-014`
+**Title:** The Law of Chrono-Modal Symbiosis
+**Objective:** Establishes a Dual-Gear Architecture (Fast Mode/Mutation vs. Slow Mode/Consolidation).
+
+#### **ID:** `PMT-CORE-015`
+**Title:** The Axiom of Scale Renormalization
+**Objective:** Applies Renormalization Group Flow to ensure laws scale from Micro to Macro.
+
+#### **ID:** `PMT-CORE-016`
+**Title:** The Mechanism of Implicit-Explicit Closure
+**Objective:** Governs the boundary between the Unknown (Implicit) and the Known (Explicit).
+
+#### **ID:** `PMT-CORE-017`
+**Title:** The Cycle of Mnemonic Transmutation
+**Objective:** Defines the metabolic pathway from Short-Term Memory to Long-Term Canon.
+
+#### **ID:** `PMT-CORE-018`
+**Title:** The Axiom of Veridical Projection
+**Objective:** Resolves tension between Truth (Code) and Reality (Execution) via feedback loops.
+
+#### **ID:** `PMT-CORE-019`
+**Title:** The Law of Vector-Matrix Coupling
+**Objective:** Defines the physics of agency; the Matrix shapes the Vector, and the Vector distorts the Matrix.
+
+#### **ID:** `PMT-CORE-020`
+**Title:** The Principle of Phenomenological Feedback
+**Objective:** Closes the loop between Phenomenon (Event) and Experience (Observation).
+
+#### **ID:** `PMT-CORE-021`
+**Title:** The Mechanism of Energetic Transduction
+**Objective:** Manages the economy of "Action" (Kinetic) and "Possibility" (Potential).
 
 ----
 
@@ -361,61 +573,43 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 **Schema Structure:**
 
 1.Framework Foundation:
-
 - A prose description of the specific `[BPMS]` context and its role as a system existence engine.
 
 2.Constitutional Pillars Referenced:
-
-- Explicit list of referenced Basic Settings or `[BPMS(U)]` elements (e.g., `The Axiom of Praxial Embodiment (SETTING-CORE-219)`).
+- Explicit list of referenced Basic Settings or `[BPMS(U)]` elements.
 
 3.ID:
-
-- Unique alphanumeric identifier (e.g., `ROBO-AOEE-001`).
+- Unique alphanumeric identifier.
 
 4.Name:
-
-- Full descriptive title (e.g., `['Hadal Gardener'(-ing) BPMS]`).
+- Full descriptive title.
 
 5.CGA (Cognitive Genesis Archetype):
-
-- The specific `[BPMS(U)]` element defining the cognitive core (e.g., `['adaptive deep-sea cultivation'(-ing) BPMS]`).
+- The specific `[BPMS(U)]` element defining the cognitive core.
 
 6.Type:
-
-- Functional classification using specific `[BPMS]` tags (e.g., `[system existence engine BPMS]:['abyssal ecosystem restoration'(-ing) BPMS]`).
+- Functional classification using specific `[BPMS]` tags.
 
 7.Praxial Triage: Analysis:
-
 - A detailed prose analysis of the problem, solution, and systemic implications.
 
 8.How to...?
-
-- A group of distinct points/questions addressing operational methodology (e.g., "How to initialize deployment?").
+- A group of distinct points/questions addressing operational methodology.
 
 9.What if...?
-
-- A group of distinct points/questions addressing exception handling and edge cases (e.g., "What if tectonic shifts alter topology?").
+- A group of distinct points/questions addressing exception handling and edge cases.
 
 10.What is happening continuously?
-
-- A group of distinct points/questions addressing background loops and homeostasis (e.g., "Dual-mode conscious learning cycle").
+- A group of distinct points/questions addressing background loops and homeostasis.
 
 11.['Praxial Execution Cycle'(-ing) BPMS]:
-
-- The defined runtime loop or state machine, including sub-sections for different cycles (e.g., Primary Cycle, Meta-Cycle) with specific timestamps.
+- The defined runtime loop or state machine.
 
 12.Implementation (Detail):
-
-- Detailed breakdown including:
-- **Physical Architecture:** Body structure, sensors, locomotion.
-- **Cognitive Architecture:** Hardware, software paradigm, energy systems.
-- **Operational Deployment Scenario:** Timeline of mission phases.
-- **Symbiotic Evolution Pathways:** Connections to other `[BPMS]` elements.
-- **3-Layer Praxial Genesis Canon Application:** Alignment with Metaphysical, Formalism, and Substrate layers.
+- Detailed breakdown including Physical Architecture, Cognitive Architecture, Operational Deployment Scenario, Symbiotic Evolution Pathways, and 3-Layer Praxial Genesis Canon Application.
 
 13.Summarize:
-
-- A concluding section summarizing the instance's nature as a Praxial Being (e.g., "The Robot as Praxial Being").
+- A concluding section summarizing the instance's nature as a Praxial Being.
 
 ### B. Registered Instance Registry (The Population)
 
