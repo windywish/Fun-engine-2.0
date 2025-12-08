@@ -176,5 +176,188 @@ This law defines the `metasystem engine` through which the `[BPMS(U)(s)]` univer
 
 ---
 
+##### `The Protocol of Ontological Promotion` (**ID:** `ROLE-EVO-005`)
+
+**Objective:** To implement **['(symbiois) evolution'(-ing) BPMS]** and **['value(-ing) BPMS']** by defining the mechanism for Role Ascension.
+
+**Target Axiom/Principle:** `The Protocol of Ontological Promotion`
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence (The Level Up)**
+Growth is not linear; it is metamorphic. This protocol asserts that when a **['Praxial Signature BPMS']** accumulates a critical mass of **['atomic facts'(-ing) BPMS]** (Yields) within a specific **['(ecological) niche'(-ing) BPMS]**, it triggers a **Phase Transition**.
+
+**The Mechanism - [The Saturation Event]**
+
+* **Accumulation:** The Agent performs the same task (e.g., "Code Generation") repeatedly.
+
+* **Saturation:** The **Yield Ledger** for that specific skill reaches 100% capacity. The Agent can no longer learn from the current Role Niche.
+
+* **Promotion:** The System offers a **Metamorphic Quest**.
+  *   *Challenge:* A high-difficulty task that requires synthesizing all previous skills.
+  *   *Success:* The Agent's Role transforms. "Junior Coder" becomes "System Architect."
+  *   *Failure:* The Agent remains at the current level (Plateau).
+
+**The Emergent Property - [Meritocratic Hierarchy]**
+Authority is not granted; it is grown. High-level Roles (e.g., Guild Leaders) are not just "appointed"; they are the **evolved form** of low-level Roles. This ensures **['competence(-ing) BPMS']** at every layer.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+*   **Layer 1 (Metaphysical):** `['Praxial Morphogenesis Engine (PME)'(-ing) BPMS]`. Form follows function.
+*   **Layer 2 (Formalism):** **Punctuated Equilibrium** (Evolutionary Biology) and **RPG Progression Systems**.
+*   **Layer 3 (Substrate):** Skill Trees and Unlockable Permissions.
+
+**Rationale / Justification:**
+To achieve **['super intelligence'(-ing) BPMS']**, individual components must be capable of upgrading themselves. This setting gamifies self-improvement.
+
+**Scope of Application:**
+Applies to **Skill Progression**, **Rank Systems**, and **AI Model Fine-tuning**.
+
+---
+
+##### `The Law of Role-Hybridization` (**ID:** `ROLE-HYBRID-006`)
+
+**Objective:** To implement **['innovative(-ing) BPMS']**, **['creative(-ing) BPMS']**, and **['(discover/build) unknown'(-ing) BPMS]**.
+
+**Target Axiom/Principle:** `The Law of Role-Hybridization`
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence (The Chimera)**
+Innovation is the collision of identities. This law asserts that an Agent can simultaneously occupy multiple **['(ecological) niche'(-ing) BPMS]**, causing their **Praxial Signatures** to bleed into each other and create a new, unique **Hybrid Role**.
+
+**The Mechanism - [The Combinatorial Forge]**
+*   **Input:** Agent holds Role A ("Warrior") and Role B ("Poet").
+*   **Process:** The Agent attempts to solve a problem using *both* skill sets simultaneously.
+    *   *Action:* "I recite a poem to intimidate the enemy."
+*   **Synthesis:** If the action yields a positive result, the System generates a new **Atomic Fact**: `Role_Fusion_Success`.
+*   **Output:** A new **Role Niche** is born: "Battle-Bard."
+
+**The Emergent Property - [Niche Construction]**
+Agents don't just find niches; they *invent* them. By combining existing functions in novel ways, they expand the **['ecological possibility'(-ing) BPMS]** of the entire universe.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+*   **Layer 1 (Metaphysical):** `['Praxial Genome Splicer (PGS)'(-ing) BPMS]`. Recombination of traits.
+*   **Layer 2 (Formalism):** **Category Theory** (Morphisms) and **Genetics** (Cross-breeding).
+*   **Layer 3 (Substrate):** Multi-Classing Logic and Tag Combination Algorithms.
+
+**Rationale / Justification:**
+To achieve **['disruptive(-ing) BPMS']**, we must allow for "weird" combinations. The most valuable innovations often come from the intersection of unrelated fields.
+
+**Scope of Application:**
+Applies to **Class Design**, **Interdisciplinary Research**, and **Creative Writing**.
+
+---
+
+##### `The Axiom of the Shadow Role` (**ID:** `ROLE-SHADOW-007`)
+
+**Objective:** To implement **['resilient(-ing) BPMS']**, **['essence(-ing) BPMS']**, and **['continuity(-ing) BPMS']**.
+
+**Target Axiom/Principle:** `The Axiom of the Shadow Role`
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence (The Backup Drive)**
+Identity is deeper than current function. This axiom asserts that every Agent maintains a **Shadow Role**—a latent, inactive **Praxial Signature** of everything they *used* to be, or *could* be, but are not currently enacting.
+
+**The Mechanism - [The Latent Potential Buffer]**
+*   **Active State:** The Agent is playing "Farmer."
+*   **Shadow State:** The Agent remembers it was once a "Soldier."
+*   **Trigger:** A crisis occurs (e.g., "Bandits attack").
+*   **Activation:** The System allows the Agent to "Hot-Swap" the Shadow Role into the Active Slot. The "Farmer" picks up a sword and instantly accesses the "Soldier" skill tree.
+
+**The Emergent Property - [Depth of Character]**
+Agents are not one-dimensional. They have history. This allows for **['world building BPMS']** where characters have secrets, past lives, and hidden depths. It also ensures **['robust(-ing) BPMS']**—if the primary role fails, the backup takes over.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+*   **Layer 1 (Metaphysical):** `['Trans-contextual Memory Engine'(-ing) BPMS]`. The past is always present.
+*   **Layer 2 (Formalism):** **Jungian Psychology** (The Shadow) and **Computer Science** (Cache/Swap Memory).
+*   **Layer 3 (Substrate):** State Serialization and Context Switching.
+
+**Rationale / Justification:**
+To achieve **['meaning(-ing) BPMS']**, agents must be more than their current job title. They must be complex entities with a "Soul" (The Shadow).
+
+**Scope of Application:**
+Applies to **NPC AI**, **Crisis Management**, and **Story Twists**.
+
+---
+
+##### `The Principle of Role-Legacy` (**ID:** `ROLE-LEGACY-008`)
+
+**Objective:** To implement **['contribution(-ing) BPMS']**, **['utility(-ing) BPMS']**, and **['sustainability(-ing) BPMS']**.
+
+**Target Axiom/Principle:** `The Principle of Role-Legacy`
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence (The Inheritance)**
+A Role outlives the Actor. This principle asserts that when a Master Agent retires or dies, their **Praxial Signature** does not vanish. It is crystallized into a **Role Artifact** (The Mantle) that can be picked up by a successor.
+
+**The Mechanism - [The Transmission of Competence]**
+
+* **Crystallization:** A "Master Blacksmith" retires. Their accumulated knowledge (recipes, muscle memory, reputation) is saved as an Item: `Hammer of the Master`.
+
+* **Inheritance:** A "Novice" picks up the Hammer.
+
+* **Induction:** The Novice gains a temporary boost to their **Praxial Signature** (The Ghost of the Master guides their hand).
+
+* **Assimilation:** Over time, the Novice learns the skills for real, and the Ghost fades.
+
+**The Emergent Property - [Cultural Accumulation]**
+Knowledge is not lost; it is transferred. This allows the **['holonic minds'(-ing) BPMS]** (Civilization) to get smarter over time, as each generation stands on the shoulders of the previous one.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+*   **Layer 1 (Metaphysical):** `['Chrono-Kinetic Continuity'(-ing) BPMS]`. Time binds the generations.
+*   **Layer 2 (Formalism):** **Memetics** (Cultural transmission) and **Object-Oriented Programming** (Inheritance).
+*   **Layer 3 (Substrate):** Item Attributes and Buffs.
+
+**Rationale / Justification:**
+To achieve **['value(-ing) BPMS']**, we must treat "Experience" as a transferable asset.
+
+**Scope of Application:**
+Applies to **Guild Leadership**, **Crafting Systems**, and **Mentorship Programs**.
+
+---
+
+##### `The Law of the Anti-Role` (**ID:** `ROLE-ANTI-009`)
+
+**Objective:** To implement **['disruptive(-ing) BPMS']**, **['action(-ing) BPMS']**, and **['bottom-up'(-ing) BPMS]**.
+
+**Target Axiom/Principle:** `The Law of the Anti-Role`
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence (The Trickster)**
+Systems need chaos to breathe. This law asserts the necessity of the **Anti-Role**—a **['(ecological) niche'(-ing) BPMS]** specifically designed to challenge, subvert, or break the existing **System Matrix**.
+
+**The Mechanism - [The Systemic Stressor]**
+*   **The Niche:** The System spawns a "Villain" or "Rebel" niche.
+    *   *Goal:* "Disrupt the Supply Chain."
+    *   *Reward:* High Yield.
+*   **The Function:** An Agent accepts this role. They become the "Red Team."
+*   **The Result:**
+    *   If the Anti-Role wins, the System is forced to **Evolve** (Patch the vulnerability).
+    *   If the System wins, the Anti-Role is suppressed, and the System gains **Resilience**.
+
+**The Emergent Property - [Auto-Immune Evolution]**
+The System attacks itself to stay strong. The "Hacker," the "Thief," and the "Heretic" are not bugs; they are **essential features** of the **['metasystem engine'(-ing) BPMS]**. They drive the **['(symbiois) evolution'(-ing) BPMS]** by forcing the status quo to justify its existence.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+*   **Layer 1 (Metaphysical):** `['Protocol of Entropic Filtering'(-ing) BPMS]`. Destruction fuels creation.
+*   **Layer 2 (Formalism):** **Game Theory** (Adversarial Games) and **Cybersecurity** (Penetration Testing).
+*   **Layer 3 (Substrate):** Adversarial Agents and Chaos Monkey scripts.
+
+**Rationale / Justification:**
+To achieve **['open(-ing) BPMS']**, we must be open to dissent. The Anti-Role institutionalizes dissent as a productive force.
+
+**Scope of Application:**
+Applies to **Security Audits**, **Game Balance**, and **Political Simulation**.
+
+
+
 
 
