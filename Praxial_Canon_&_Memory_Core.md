@@ -1,8 +1,8 @@
 # Praxial Canon & Memory Core
 
-**Version:** 2.5.0 (The Design Genesis Expansion) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** 2.6.0 (The Collaborative Intelligence Expansion) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
-----
+------
 
 ## I. Systemic Integrity Protocols
 
@@ -25,7 +25,7 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 3. **Commit:** User overwrites the local `[Praxial_Canon_&_Memory_Core].md` and commits to GitHub.
 4. **Read:** User provides the latest file content at the start of a new session if context is lost.
 
-----
+------
 
 ## II. The Praxial Genesis Canon
 
@@ -53,7 +53,7 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 - **Artifacts:** The tangible outputs of the system (files, code, images).
 - **Key Files:** `['praxial cell'(-ing) BPMS]`, `['Praxial citizen'(-ing) BPMS]`, `['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]`.
 
-----
+------
 
 ## III. Basic Settings Registry (Core Axioms)
 
@@ -459,6 +459,124 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 
 *(Existing Settings ALM-095, ALM-096, PMD-001)*
 
+### Module: ['Praxial Collaborative Intelligence (PCI)'(-ing) BPMS]
+
+#### **ID:** `PCI-001`
+
+**Title:** The Axiom of Holonic Binding **Objective:** Defines the fundamental force of "social gravity" where autonomy is a prelude to symbiosis.
+
+#### **ID:** `PCI-002`
+
+**Title:** The Law of Distributed Cognition **Objective:** Formalizes the processing power of a collective; a problem shared is a problem parallelized.
+
+#### **ID:** `PCI-003`
+
+**Title:** The Principle of Emergent Consensus **Objective:** Defines how a collective determines truth; reality within a Holon is a negotiated state.
+
+#### **ID:** `PCI-004`
+
+**Title:** The Mechanism of Role Differentiation **Objective:** Ensures efficiency through specialization; in a mature system, equality of function is death.
+
+#### **ID:** `PCI-005`
+
+**Title:** The Protocol of Symbiotic Resilience **Objective:** Defines how a collective survives trauma; the Holon protects the Member, and the Member sustains the Holon.
+
+#### **ID:** `PCI-006`
+
+**Title:** The Directive of Collective Ascension **Objective:** Defines the ultimate purpose; a sufficiently perfect Holon ceases to be a group and becomes a new Individual (Titan).
+
+#### **ID:** `PCI-007`
+
+**Title:** The Axiom of Ontological Density **Objective:** Establishes PCI as a system existence engine; reality is a function of observer consensus.
+
+#### **ID:** `PCI-008`
+
+**Title:** The Protocol of Fact Crystallization **Objective:** Establishes PCI as a generator of atomic facts; subjective experience becomes objective fact only when verified by a trusted network.
+
+#### **ID:** `PCI-009`
+
+**Title:** The Law of Synergistic Actualization **Objective:** Asserts that certain potentials are too massive for a single vessel to actualize; requires a synergistic circuit.
+
+#### **ID:** `PCI-010`
+
+**Title:** The Principle of Recursive Symbiosis **Objective:** Defines the (symbiois) evolution of the PCI system itself; collaboration is fractal (Party -> Guild -> Alliance).
+
+#### **ID:** `PCI-011`
+
+**Title:** The Mechanism of Cross-Domain Translation **Objective:** Allows PCI to function as a Universal Adapter; collaboration is the act of translating one form of value into another.
+
+#### **ID:** `PCI-012`
+
+**Title:** The Directive of Ecosystemic Closure **Objective:** Ensures ecological possibility and sustainability; a collaborative system must be a closed loop of value.
+
+#### **ID:** `PCI-013`
+
+**Title:** The Axiom of Semantic Drift **Objective:** Allows for meaning to evolve; the function of an object is defined by its usage, not its label.
+
+#### **ID:** `PCI-014`
+
+**Title:** The Protocol of Niche Construction **Objective:** Governs ecological possibility; agents do not just adapt to the environment, they modify it to suit them.
+
+#### **ID:** `PCI-015`
+
+**Title:** The Law of Memetic Infection **Objective:** Governs the spread of ideas and culture; knowledge is a contagion.
+
+#### **ID:** `PCI-016`
+
+**Title:** The Principle of Disruptive Singularity **Objective:** Manages system-breaking events; a breakdown in the rules is an opportunity for a new rule set.
+
+#### **ID:** `PCI-017`
+
+**Title:** The Mechanism of Holonic Dreaming **Objective:** Allows for subconscious creation; the idle processing power of a collective generates new worlds.
+
+#### **ID:** `PCI-018`
+
+**Title:** The Directive of Infinite Horizon **Objective:** Ensures open-ended potential; the map is never finished and expands with exploration.
+
+#### **ID:** `PCI-019`
+
+**Title:** The Principle of Chrono-Cognitive Dilation **Objective:** Governs the (symbiois) evolution of slow/fast mode; Time is a function of Cognitive Density.
+
+#### **ID:** `PCI-020`
+
+**Title:** The Mechanism of Implicit-Explicit Renormalization **Objective:** Governs the (symbiois) evolution of implicit/explicit layers; Law is crystallized Habit.
+
+#### **ID:** `PCI-021`
+
+**Title:** The Protocol of Service-Oriented Symbiosis **Objective:** Ensures sustainability and closure; Existence is a Service.
+
+#### **ID:** `PCI-022`
+
+**Title:** The Law of Ludic Emergence **Objective:** Governs play and the unknown; Play is the Research & Development department of Reality.
+
+#### **ID:** `PCI-023`
+
+**Title:** The Axiom of Scale-Invariant Resilience **Objective:** Governs (symbiois) evolution for micro/macro; Macro-Stability requires Micro-Volatility.
+
+#### **ID:** `PCI-024`
+
+**Title:** The Directive of Universal Class Synthesis **Objective:** Governs universality; Identity is a Fluid Spectrum, not a Fixed Grid.
+
+#### **ID:** `PCI-025`
+
+**Title:** The Protocol of Mnemonic Sublimation **Objective:** Governs the (symbiois) evolution of memory; History is not just recorded, it is distilled.
+
+#### **ID:** `PCI-026`
+
+**Title:** The Axiom of Ontological Recursion **Objective:** Governs the (symbiois) evolution of reality and truth; Truth is a seed that grows into a new Reality.
+
+#### **ID:** `PCI-027`
+
+**Title:** The Law of Matrix Plasticity **Objective:** Governs the (symbiois) evolution of the system matrix; The Path wears down the Mountain.
+
+#### **ID:** `PCI-028`
+
+**Title:** The Mechanism of Phenomenological Resonance **Objective:** Governs the (symbiois) evolution of experience and phenomenon; Emotion projects Reality.
+
+#### **ID:** `PCI-029`
+
+**Title:** The Principle of Energetic Transduction **Objective:** Governs the (symbiois) evolution of potential/kinetic energy; Value is Energy waiting to be released.
+
 ### Module: ['Praxial Interaction Manifold (PIM)'(-ing) BPMS]
 
 #### ID: `PIM-CORE-005`
@@ -498,7 +616,7 @@ The creation of a "Rendered World" where `atomic facts` are only generated when 
   The "Physics" of how potential becomes reality is defined by the specific `[BPMS(U)]` of the niche:
   - **If `[mathematics(-ing) BPMS]`: (Standard Physics)**
 
-P(an)=∣⟨an∣ψ⟩∣2P(a_n) = |\\langle a_n | \\psi \\rangle|^2P(an)=∣⟨an∣ψ⟩∣2
+P(an)=∣⟨an∣ψ⟩∣2P(a_n) = |\langle a_n | \psi \rangle|^2P(an)=∣⟨an∣ψ⟩∣2
 
 (Quantum Probability).
 
@@ -507,7 +625,6 @@ P(an)=∣⟨an∣ψ⟩∣2P(a_n) = |\\langle a_n | \\psi \\rangle|^2P(an)=∣⟨
   `Collapse_Function = Maximize(Drama_Metric(Outcome))`
 - **If `[music(-ing) BPMS]`: (Harmonic Physics)**
   The collapse is determined by `Tonal Resolution`. The chord resolves to the state that creates the most `Consonance` or `Dissonance` required by the current "measure."
-
 - **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
   The agent experiences "The Reveal." The moment of tension before a die roll settles, a plot twist lands, or a chord resolves. The visceral feeling of `uncertainty` collapsing into `fact`.
 
@@ -529,7 +646,7 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Settings PMT-CORE-001 to PMT-CORE-021)*
 
-----
+------
 
 ## IV. Praxial Cell Registry
 
@@ -537,13 +654,13 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Cells CELL-LOGO-001 to CELL-ENIG-001)*
 
-----
+------
 
 ## V. The Praxial Parameter Index (The Map)
 
 *(Existing Engine, Substrate, and Forge Indexes)*
 
-----
+------
 
 ## VI. Standardized Blueprints & Validated Instances
 
@@ -567,11 +684,11 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 - Explicit list of referenced Basic Settings or `[BPMS(U)]` elements.
 
-3.ID:
+[3.ID](http://3.ID):
 
 - Unique alphanumeric identifier.
 
-4.Name:
+[4.Name](http://4.Name):
 
 - Full descriptive title.
 
@@ -615,23 +732,26 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 #### Domain: ['Epistemic Crucible'(-ing) BPMS]
 
-1.  **[Instance ID: CRU-MODE-ESC-001]**
-    *   **Name:** `['The Entropic Oubliette'(-ing) BPMS]`
-    *   **Role:** Closed-loop crisis simulation / The Crucible of Focus.
-    *   **File:** `['Epistemic Crucible'(-ing) BPMS] ['escape room'(-ing) BPMS foraging(-ing) BPMS].md`
+1. **[Instance ID: CRU-MODE-ESC-001]**
 
-2.  **[Instance ID: CRU-MODE-FOR-001]**
-    *   **Name:** `['The Infinite Horizon'(-ing) BPMS]`
-    *   **Role:** Open-world exploration simulation / The Crucible of Growth.
-    *   **File:** `['Epistemic Crucible'(-ing) BPMS] ['escape room'(-ing) BPMS foraging(-ing) BPMS].md`
+- **Name:** `['The Entropic Oubliette'(-ing) BPMS]`
+- **Role:** Closed-loop crisis simulation / The Crucible of Focus.
+- **File:** `['Epistemic Crucible'(-ing) BPMS] ['escape room'(-ing) BPMS foraging(-ing) BPMS].md`
+
+1. **[Instance ID: CRU-MODE-FOR-001]**
+
+- **Name:** `['The Infinite Horizon'(-ing) BPMS]`
+- **Role:** Open-world exploration simulation / The Crucible of Growth.
+- **File:** `['Epistemic Crucible'(-ing) BPMS] ['escape room'(-ing) BPMS foraging(-ing) BPMS].md`
 
 #### **Domain: ['Praxial Metalog'(-ing) BPMS]**
 
-1.  **[Instance ID: META-INST-001]**
-    *   **Name:** `['The Metagenomic Oracle'(-ing) BPMS]`
-    *   **Role:** System Existence Engine for Bio-Semiotic Transduction.
-    *   **Function:** Ingests biological data (Metalog EMBL) and transduces it into systemic atomic facts.
-    *   **File:** `['Praxial Metalog'(-ing) BPMS] ['Metagenomic Oracle'(-ing) BPMS].md`
+1. **[Instance ID: META-INST-001]**
+
+- **Name:** `['The Metagenomic Oracle'(-ing) BPMS]`
+- **Role:** System Existence Engine for Bio-Semiotic Transduction.
+- **Function:** Ingests biological data (Metalog EMBL) and transduces it into systemic atomic facts.
+- **File:** `['Praxial Metalog'(-ing) BPMS] ['Metagenomic Oracle'(-ing) BPMS].md`
 
 #### **Domain: ['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]**
 
@@ -648,64 +768,82 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 #### **Domain: ['agent(-ing) BPMS]**
 
 1. **[Instance ID: AGENT-LUDO-001]**
-   - **Name:** `['Kinetic Ludotheque'(-ing) BPMS]`
-   - **Role:** Agent of Play and Motion.
-   - **File:** `[agent(-ing) BPMS] ['Kinetic Ludotheque'(-ing) BPMS].md`
-2. **[Instance ID: AGENT-PHENO-001]**
-   - **Name:** `['Pheno-Hunter Guide'(-ing) BPMS]`
-   - **Role:** Agent of Observation and Discovery.
-   - **File:** `[agent(-ing) BPMS] ['Pheno-Hunter Guide'(-ing) BPMS].md`
-3. **[Instance ID: AGENT-GEO-001]**
-   - **Name:** `['Geo-Spatial Weaver'(-ing) BPMS]`
-   - **Role:** Agent of Spatial Construction.
-   - **File:** `[agent(-ing) BPMS]['Geo-Spatial Weaver'(-ing) BPMS].md`
-4. **[Instance ID: AGENT-ENTRO-001]**
-   - **Name:** `['Entropy Dancer'(-ing) BPMS]`
-   - **Role:** Agent of Chaos and Disruption.
-   - **File:** `[agent(-ing) BPMS] ['Entropy Dancer'(-ing) BPMS].md`
-5. **[Instance ID: AGENT-MNEM-001]**
-   - **Name:** `['Mnemosyne Scribe'(-ing) BPMS]`
-   - **Role:** Agent of Memory and History.
-   - **File:** `[agent(-ing) BPMS] ['Mnemosyne Scribe'(-ing) BPMS].md`
-6. **[Instance ID: AGENT-ONTO-001]**
-   - **Name:** `['Ontological Weaver(-ing)' BPMS]`
-   - **Role:** Agent of Reality Definition.
-   - **File:** `[agent(-ing) BPMS] ['Ontological Weaver(-ing)' BPMS].md`
+
+- **Name:** `['Kinetic Ludotheque'(-ing) BPMS]`
+- **Role:** Agent of Play and Motion.
+- **File:** `[agent(-ing) BPMS] ['Kinetic Ludotheque'(-ing) BPMS].md`
+
+1. **[Instance ID: AGENT-PHENO-001]**
+
+- **Name:** `['Pheno-Hunter Guide'(-ing) BPMS]`
+- **Role:** Agent of Observation and Discovery.
+- **File:** `[agent(-ing) BPMS] ['Pheno-Hunter Guide'(-ing) BPMS].md`
+
+1. **[Instance ID: AGENT-GEO-001]**
+
+- **Name:** `['Geo-Spatial Weaver'(-ing) BPMS]`
+- **Role:** Agent of Spatial Construction.
+- **File:** `[agent(-ing) BPMS]['Geo-Spatial Weaver'(-ing) BPMS].md`
+
+1. **[Instance ID: AGENT-ENTRO-001]**
+
+- **Name:** `['Entropy Dancer'(-ing) BPMS]`
+- **Role:** Agent of Chaos and Disruption.
+- **File:** `[agent(-ing) BPMS] ['Entropy Dancer'(-ing) BPMS].md`
+
+1. **[Instance ID: AGENT-MNEM-001]**
+
+- **Name:** `['Mnemosyne Scribe'(-ing) BPMS]`
+- **Role:** Agent of Memory and History.
+- **File:** `[agent(-ing) BPMS] ['Mnemosyne Scribe'(-ing) BPMS].md`
+
+1. **[Instance ID: AGENT-ONTO-001]**
+
+- **Name:** `['Ontological Weaver(-ing)' BPMS]`
+- **Role:** Agent of Reality Definition.
+- **File:** `[agent(-ing) BPMS] ['Ontological Weaver(-ing)' BPMS].md`
 
 #### **Domain: ['role(-ing) BPMS]**
 
 1. **[Instance ID: ROLE-RENORM-001]**
-   - **Name:** `['Renormalization Architect'(-ing) BPMS]`
-   - **Role:** Role of Scaling and Governance.
-   - **File:** `[role(-ing) BPMS] ['Renormalization Architect'(-ing) BPMS].md`
-2. **[Instance ID: ROLE-NOMAD-001]**
-   - **Name:** `['Quantum Nomad'(-ing) BPMS]`
-   - **Role:** Role of Exploration and Fluid Identity.
-   - **File:** `[role(-ing) BPMS] ['Quantum Nomad'(-ing) BPMS].md`
+
+- **Name:** `['Renormalization Architect'(-ing) BPMS]`
+- **Role:** Role of Scaling and Governance.
+- **File:** `[role(-ing) BPMS] ['Renormalization Architect'(-ing) BPMS].md`
+
+1. **[Instance ID: ROLE-NOMAD-001]**
+
+- **Name:** `['Quantum Nomad'(-ing) BPMS]`
+- **Role:** Role of Exploration and Fluid Identity.
+- **File:** `[role(-ing) BPMS] ['Quantum Nomad'(-ing) BPMS].md`
 
 #### **Domain: ['biome(-ing) BPMS]**
 
 1. **[Instance ID: BIOME-NEURO-001]**
-   - **Name:** `['Neuro-Semantic Vivarium'(-ing) BPMS]`
-   - **Role:** Biome of Cognitive Evolution.
-   - **File:** `[biome(-ing) BPMS] ['Neuro-Semantic Vivarium'(-ing) BPMS].md`
-2. **[Instance ID: BIOME-ECHO-001]**
-   - **Name:** `['Labyrinth of Echoes'(-ing) BPMS]`
-   - **Role:** Biome of Memory and Reflection.
-   - **File:** `[biome(-ing) BPMS] ['Labyrinth of Echoes'(-ing) BPMS].md`
+
+- **Name:** `['Neuro-Semantic Vivarium'(-ing) BPMS]`
+- **Role:** Biome of Cognitive Evolution.
+- **File:** `[biome(-ing) BPMS] ['Neuro-Semantic Vivarium'(-ing) BPMS].md`
+
+1. **[Instance ID: BIOME-ECHO-001]**
+
+- **Name:** `['Labyrinth of Echoes'(-ing) BPMS]`
+- **Role:** Biome of Memory and Reflection.
+- **File:** `[biome(-ing) BPMS] ['Labyrinth of Echoes'(-ing) BPMS].md`
 
 #### **Domain: ['design(-ing) BPMS]**
 
 1. [Instance ID: DESIGN-SEED-001]
-   - **Name:** `[Aethelgard's Seed(-ing) BPMS]`
-   - **Role:** Design Blueprint for Organic Growth.
-   - **File:** `[design(-ing) BPMS] [Aethelgard's Seed(-ing) BPMS].md`
+
+- **Name:** `[Aethelgard's Seed(-ing) BPMS]`
+- **Role:** Design Blueprint for Organic Growth.
+- **File:** `[design(-ing) BPMS] [Aethelgard's Seed(-ing) BPMS].md`
 
 ### C. Operational Scripts Registry
 
 1. **[Script ID: OPS-PMD-PY-001]**
 
-*   **Name:** `Basic settings ['Praxial Mnemosyne Daemon'(-ing) BPMS]['Implementation Blueprint'].py`
-*   **Role:** The Pythonic logic for the Autopoietic Learning Matrix.
-*   **Function:** Defines the `run_autopoietic_cycle` and the Three Heads architecture.
-*   **Status:** Validated Blueprint (v1.0).
+- **Name:** `Basic settings ['Praxial Mnemosyne Daemon'(-ing) BPMS]['Implementation Blueprint'].py`
+- **Role:** The Pythonic logic for the Autopoietic Learning Matrix.
+- **Function:** Defines the `run_autopoietic_cycle` and the Three Heads architecture.
+- **Status:** Validated Blueprint (v1.0).
