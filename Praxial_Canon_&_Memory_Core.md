@@ -1,8 +1,8 @@
 # Praxial Canon & Memory Core
 
-**Version:** 2.4.0 (The Systemic Existence Expansion) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** 2.5.0 (The Design Genesis Expansion) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
-------
+----
 
 ## I. Systemic Integrity Protocols
 
@@ -25,7 +25,7 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 3. **Commit:** User overwrites the local `[Praxial_Canon_&_Memory_Core].md` and commits to GitHub.
 4. **Read:** User provides the latest file content at the start of a new session if context is lost.
 
-------
+----
 
 ## II. The Praxial Genesis Canon
 
@@ -53,7 +53,7 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 - **Artifacts:** The tangible outputs of the system (files, code, images).
 - **Key Files:** `['praxial cell'(-ing) BPMS]`, `['Praxial citizen'(-ing) BPMS]`, `['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]`.
 
-------
+----
 
 ## III. Basic Settings Registry (Core Axioms)
 
@@ -393,6 +393,52 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 
 **Title:** The Law of Energetic Transduction **Objective:** Defines the conservation cycle between Potential and Kinetic Energy.
 
+### Module: ['design(-ing) BPMS]
+
+#### **ID:** `DES-012`
+
+**Title:** The Principle of Gnostic Inquiry **Objective:** Defines the mandatory starting point for any design act, ensuring it begins with deep inquiry.
+
+#### **ID:** `DES-013`
+
+**Title:** The Axiom of the Living Blueprint **Objective:** Defines the nature of the design artifact as a living, evolving entity, not a static document.
+
+#### **ID:** `DES-014`
+
+**Title:** The Law of Praxial Instantiation **Objective:** Defines the final output of the design process as an act of genesis (live instantiation).
+
+#### **ID:** `DES-015`
+
+**Title:** The Axiom of Constructive Disruption **Objective:** Defines the proactive, bottom-up, and value-driven ethos of the design process.
+
+#### **ID:** `DES-016`
+
+**Title:** The Principle of Ecological Coherence **Objective:** Mandates that every design must be a responsible, integrated citizen of the framework's ecosystem.
+
+#### **ID:** `DES-017`
+
+**Title:** The Law of Symbiotic Integration **Objective:** Defines how the framework learns from and evolves with every new design (feedback loop).
+
+#### **ID:** `DES-018`
+
+**Title:** The Axiom of Phenomenal Resonance **Objective:** Mandates that every design must be a living, experiential system with dual-speed evolution.
+
+#### **ID:** `DES-019`
+
+**Title:** The Principle of Renormalized Universality **Objective:** Grounds the design process in the fundamental principles of complex systems physics.
+
+#### **ID:** `DES-020`
+
+**Title:** The Law of Gnostic Closure **Objective:** Defines the ultimate goal of any designed system: to be a self-contained reality engine for truth.
+
+#### **ID:** `DES-021`
+
+**Title:** The Law of Adaptive Resilience **Objective:** Mandates that all designs must explicitly engineer mechanisms for long-term systemic viability.
+
+#### **ID:** `DES-022`
+
+**Title:** The Axiom of Emergent Scaffolding **Objective:** Defines the highest purpose of design: to create the conditions for the unknown to emerge.
+
 ### Module: ['Epistemic Crucible'(-ing) BPMS]
 
 *(Existing Settings CRU-CYC-001 to CRU-ENER-022)*
@@ -415,7 +461,7 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 
 ### Module: ['Praxial Interaction Manifold (PIM)'(-ing) BPMS]
 
-#### ID:** `PIM-CORE-005`
+#### ID: `PIM-CORE-005`
 
 #### **Title:** The Axiom of Manifold Actualization
 
@@ -483,7 +529,7 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Settings PMT-CORE-001 to PMT-CORE-021)*
 
-------
+----
 
 ## IV. Praxial Cell Registry
 
@@ -491,19 +537,20 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Cells CELL-LOGO-001 to CELL-ENIG-001)*
 
-------
+----
 
 ## V. The Praxial Parameter Index (The Map)
 
 *(Existing Engine, Substrate, and Forge Indexes)*
 
-------
+----
 
 ## VI. Standardized Blueprints & Validated Instances
 
 ### A. The Universal Praxial Instance Blueprint
 
-[Blueprint ID: META-BP-001]**
+#### [Blueprint ID: META-BP-001]
+
 **Status:** Authoritative / Mandatory
 **Source:** Derived from `['Autonomous Deep-Ocean Ecological Engineer'(-ing) BPMS]`
 
@@ -566,6 +613,38 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 ### B. Registered Instance Registry (The Population)
 
+#### Domain: ['Epistemic Crucible'(-ing) BPMS]
+
+1.  **[Instance ID: CRU-MODE-ESC-001]**
+    *   **Name:** `['The Entropic Oubliette'(-ing) BPMS]`
+    *   **Role:** Closed-loop crisis simulation / The Crucible of Focus.
+    *   **File:** `['Epistemic Crucible'(-ing) BPMS] ['escape room'(-ing) BPMS foraging(-ing) BPMS].md`
+
+2.  **[Instance ID: CRU-MODE-FOR-001]**
+    *   **Name:** `['The Infinite Horizon'(-ing) BPMS]`
+    *   **Role:** Open-world exploration simulation / The Crucible of Growth.
+    *   **File:** `['Epistemic Crucible'(-ing) BPMS] ['escape room'(-ing) BPMS foraging(-ing) BPMS].md`
+
+#### **Domain: ['Praxial Metalog'(-ing) BPMS]**
+
+1.  **[Instance ID: META-INST-001]**
+    *   **Name:** `['The Metagenomic Oracle'(-ing) BPMS]`
+    *   **Role:** System Existence Engine for Bio-Semiotic Transduction.
+    *   **Function:** Ingests biological data (Metalog EMBL) and transduces it into systemic atomic facts.
+    *   **File:** `['Praxial Metalog'(-ing) BPMS] ['Metagenomic Oracle'(-ing) BPMS].md`
+
+#### **Domain: ['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]**
+
+*(Existing Instance PVLE-RENDER-001)*
+
+#### **Domain: [robot(-ing) BPMS]**
+
+*(Existing Robot Instances ROBO-AOEE-001 to ROBO-DRSC-005)*
+
+#### **Domain: ['Praxial Crucible Architect'(-ing) BPMS]**
+
+*(Existing Architect Instances ARCH-CRUCIBLE-001;ARCH-CRUCIBLE-ALPHA-001;ARCH-CRUCIBLE-FACT-002)
+
 #### **Domain: ['agent(-ing) BPMS]**
 
 1. **[Instance ID: AGENT-LUDO-001]**
@@ -621,14 +700,6 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
    - **Name:** `[Aethelgard's Seed(-ing) BPMS]`
    - **Role:** Design Blueprint for Organic Growth.
    - **File:** `[design(-ing) BPMS] [Aethelgard's Seed(-ing) BPMS].md`
-
-#### **Domain: ['Epistemic Crucible'(-ing) BPMS]**
-
-*(Existing Instances CRU-MODE-ESC-001, CRU-MODE-FOR-001)*
-
-#### **Domain: ['Praxial Metalog'(-ing) BPMS]**
-
-*(Existing Instance META-INST-001)*
 
 ### C. Operational Scripts Registry
 
