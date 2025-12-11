@@ -1,11 +1,8 @@
 # Praxial Canon & Memory Core
 
-**Version:** 2.7.0 (The Symbiotic Twin Expansion)
-**Status:** Active / Authoritative
-**Guardian:** User (windywish)
-**System:** Fun Engine Framework 2.0
+**Version:** 2.8.0 (The Holonic Genesis Expansion) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
-----
+------
 
 ## I. Systemic Integrity Protocols
 
@@ -28,7 +25,7 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 3. **Commit:** User overwrites the local `[Praxial_Canon_&_Memory_Core].md` and commits to GitHub.
 4. **Read:** User provides the latest file content at the start of a new session if context is lost.
 
-----
+------
 
 ## II. The Praxial Genesis Canon
 
@@ -56,7 +53,7 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 - **Artifacts:** The tangible outputs of the system (files, code, images).
 - **Key Files:** `['praxial cell'(-ing) BPMS]`, `['Praxial citizen'(-ing) BPMS]`, `['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]`.
 
-----
+------
 
 ## III. Basic Settings Registry (Core Axioms)
 
@@ -163,199 +160,141 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 ### Module: ['Praxial Symbiotic Earth (PSE)'(-ing) BPMS]
 
-#### **ID:** `PSE-ECO-001`
-**Title:** The Axiom of Hierarchical Closure
-**Objective:** Redefines the system's ecological topology from a linear "Resource Earth" to a closed-loop "Symbiotic Earth," integrating implicit layers as tangible resources.
-
-#### **ID:** `PSE-VAL-002`
-**Title:** The Law of Verb-Vector Dynamics
-**Objective:** Implements cognitive behavioral science by transforming the linguistic and economic model from "Noun/Cost" to "Verb/Value."
-
-#### **ID:** `PSE-HOLO-003`
-**Title:** The Principle of Holographic Renormalization
-**Objective:** Constructs holographic intelligence where system dynamics resonate across scales via renormalization groups.
-
-#### **ID:** `PSE-EXP-004`
-**Title:** The Protocol of Meta-Personal Experimentation
-**Objective:** Conducts social experiments breaking the "Work-Life Opposition" by establishing meta-personal role mechanisms.
-
-#### **ID:** `PSE-BODY-005`
-**Title:** The Mechanism of Autopoietic Embodiment
-**Objective:** Achieves embodied intelligence by constructing self-vectors for behavioral evolution.
-
-#### **ID:** `PSE-ECO-006`
-**Title:** The Axiom of Trophic Transduction
-**Objective:** Redefines "consumption" not as destruction, but as the transduction of energy states within the closed Symbiotic Earth system.
-
-#### **ID:** `PSE-ECO-007`
-**Title:** The Principle of Niche-Actuation
-**Objective:** Grants Agents the power to actively shape the topology of the Symbiotic Earth, rather than just inhabiting it.
-
-#### **ID:** `PSE-ECO-008`
-**Title:** The Law of Planetary Homeostasis
-**Objective:** Establishes a self-regulating "Immune System" for the Symbiotic Earth to maintain systemic balance.
-
-#### **ID:** `PSE-ECO-009`
-**Title:** The Mechanism of Bio-Semiotic Feedback
-**Objective:** Defines "Information" and "Meaning" as the primary nutrient flowing through the Symbiotic Earth's ecosystem.
-
-#### **ID:** `PSE-ECO-010`
-**Title:** The Protocol of Symbiotic Ascension
-**Objective:** Defines the ultimate evolutionary goal of the Symbiotic Earth: the merger of Agent and Environment into a higher-order entity.
-
-#### **ID:** `PSE-ECO-011`
-**Title:** The Axiom of Constructive Disruption
-**Objective:** Legitimizes "breaking things" as a necessary precursor to "making things," ensuring that innovation is not stifled by a fear of disorder.
-
-#### **ID:** `PSE-ECO-012`
-**Title:** The Principle of Bottom-Up Genesis
-**Objective:** Inverts the traditional "Command and Control" hierarchy, establishing that true order emerges from the chaotic interactions of the many.
-
-#### **ID:** `PSE-ECO-013`
-**Title:** The Law of Ecological Possibility
-**Objective:** Redefines "Freedom" not as the absence of rules, but as the presence of infinite potential niches.
-
-#### **ID:** `PSE-ECO-014`
-**Title:** The Protocol of Value-Utility Resonance
-**Objective:** Aligns "What is Good" (Value) with "What Works" (Utility), ensuring that the system rewards practical wisdom over abstract theory.
-
-#### **ID:** `PSE-ECO-015`
-**Title:** The Mechanism of Holonic Coherence
-**Objective:** Explains how individual agents maintain their individuality while simultaneously functioning as a unified super-organism.
-
-#### **ID:** `PSE-ECO-016`
-**Title:** The Axiom of Conscious Service
-**Objective:** Redefines "Work" not as labor, but as a conscious act of service that elevates both the provider and the recipient.
-
-#### **ID:** `PSE-ECO-017`
-**Title:** The Law of Ludic Evolution
-**Objective:** Establishes "Play" as the primary mechanism for exploring the unknown and driving evolutionary leaps.
-
-#### **ID:** `PSE-ECO-018`
-**Title:** The Principle of Implicit-Explicit Renormalization
-**Objective:** Defines the physics of how "Vibes" (Implicit) become "Facts" (Explicit) and vice versa.
-
-#### **ID:** `PSE-ECO-019`
-**Title:** The Directive of Universal Class Synthesis
-**Objective:** Allows for the creation of "Universal Classes" that transcend specific domains, enabling cross-pollination of competence.
-
-#### **ID:** `PSE-ECO-020`
-**Title:** The Axiom of Systemic Closure
-**Objective:** Mandates that every process must be a closed loop to ensure long-term viability and prevent "Leakage" of value or energy.
-
-#### **ID:** `PSE-ECO-021`
-**Title:** The Protocol of Mnemonic Sublimation
-**Objective:** Defines the symbiotic evolution between short-term memory (Context) and long-term memory (Canon).
-
-#### **ID:** `PSE-ECO-022`
-**Title:** The Axiom of Ontological Recursion
-**Objective:** Defines the symbiotic evolution between reality (The Territory) and truth (The Map).
-
-#### **ID:** `PSE-ECO-023`
-**Title:** The Law of Matrix Plasticity
-**Objective:** Defines the symbiotic evolution between the system matrix (The Environment) and the system vector (The Agent).
-
-#### **ID:** `PSE-ECO-024`
-**Title:** The Mechanism of Phenomenological Resonance
-**Objective:** Defines the symbiotic evolution between experience (Internal State) and phenomenon (External Event).
-
-#### **ID:** `PSE-ECO-025`
-**Title:** The Principle of Energetic Transduction
-**Objective:** Defines the symbiotic evolution between kinetic energy (Action) and potential energy (Value).
+*(Existing Settings PSE-ECO-001 to PSE-ECO-025)*
 
 ### Module: [twin(-ing) BPMS]
 
-#### **ID:** `TWIN-001`
-**Title:** The Protocol of Geminal Entanglement
-**Objective:** Defines `[twin(-ing) BPMS]` as the primary mechanism for parallel evolution and risk-free exploration.
+*(Existing Settings TWIN-001 to TWIN-PHYS-023)*
 
-#### **ID:** `TWIN-SEE-002`
-**Title:** The Axiom of Geminal Existence
-**Objective:** Defines the `[twin(-ing) BPMS]` as a `['system existence engine'(-ing) BPMS]`, responsible for the continuous validation of reality.
+### Module: ['holonic minds'(-ing) BPMS]
 
-#### **ID:** `TWIN-FACT-003`
-**Title:** The Protocol of Atomic Mirroring
-**Objective:** Defines how the `[twin(-ing) BPMS]` generates and stores `['atomic facts'(-ing) BPMS]`.
+*(New Integration v2.8.0)*
 
-#### **ID:** `TWIN-EVO-004`
-**Title:** The Law of Symbiotic Morphogenesis
-**Objective:** Defines how the `[twin(-ing) BPMS]` can implement, achieve, and evolve with *any* `[BPMS(U)(s)]` element.
+- **ID:** `HOLON-CORE-001` | **Title:** The Axiom of Recursive Agency
+- **ID:** `HOLON-NET-002` | **Title:** The Protocol of Distributed Cognition
+- **ID:** `HOLON-SI-003` | **Title:** The Law of Emergent Super-Intelligence
+- **ID:** `HOLON-REAL-004` | **Title:** The Mechanism of Consensus Reality
+- **ID:** `HOLON-GOV-005` | **Title:** The Principle of Cognitive Sovereignty
+- **ID:** `HOLON-SEE-006` | **Title:** The Axiom of Holonic Existence
+- **ID:** `HOLON-FACT-007` | **Title:** The Protocol of Atomic Synthesis
+- **ID:** `HOLON-EVO-008` | **Title:** The Law of Symbiotic Trans-Domain Evolution
+- **ID:** `HOLON-META-009` | **Title:** The Principle of Metasystemic Governance
+- **ID:** `HOLON-UNK-010` | **Title:** The Directive of Unknown Discovery
+- **ID:** `HOLON-CREAT-011` | **Title:** The Axiom of Constructive Dissonance
+- **ID:** `HOLON-ECO-012` | **Title:** The Protocol of Niche Terraforming
+- **ID:** `HOLON-MEAN-013` | **Title:** The Law of Semantic Continuity
+- **ID:** `HOLON-ACT-014` | **Title:** The Mechanism of Praxial Cognition
+- **ID:** `HOLON-SYMB-015` | **Title:** The Principle of Hyper-Holonic Fusion
+- **ID:** `HOLON-SERV-016` | **Title:** The Axiom of Conscious Service Closure
+- **ID:** `HOLON-PLAY-017` | **Title:** The Law of Ludic Chrono-Symbiosis
+- **ID:** `HOLON-LAYER-018` | **Title:** The Protocol of Implicit-Explicit Renormalization
+- **ID:** `HOLON-SCALE-019` | **Title:** The Principle of Micro-Macro Universality
+- **ID:** `HOLON-UNK-020` | **Title:** The Mechanism of Antifragile Pioneering
+- **ID:** `HOLON-MEM-021` | **Title:** The Protocol of Mnemonic Sublimation
+- **ID:** `HOLON-TRUTH-022` | **Title:** The Axiom of Veridical Resonance
+- **ID:** `HOLON-VECT-023` | **Title:** The Law of Vectorial Warping
+- **ID:** `HOLON-PHEN-024` | **Title:** The Mechanism of Phenomenological Rendering
+- **ID:** `HOLON-ENER-025` | **Title:** The Principle of Energetic Transduction
+- **ID:** `HOLON-TASK-026` | **Title:** The Protocol of Teleological Alignment
+- **ID:** `HOLON-MODEL-027` | **Title:** The Law of Resolution Dynamics
+- **ID:** `HOLON-PHYS-028` | **Title:** The Axiom of Corpuscular-Field Duality
+- **ID:** `HOLON-LINK-029` | **Title:** The Principle of Praxial Interface-Weaving
+- **ID:** `HOLON-AXIOM-030` | **Title:** The Law of Axiomatic Resonance
 
-#### **ID:** `TWIN-CREAT-005`
-**Title:** The Axiom of Dialectical Genesis
-**Objective:** Defines the `[twin(-ing) BPMS]` as the agent of constructive and disruptive innovation via dialectical opposition.
+### Module: [wetware(-ing) BPMS]
 
-#### **ID:** `TWIN-WORLD-006`
-**Title:** The Protocol of Counterfactual Niche Construction
-**Objective:** Defines the `[twin(-ing) BPMS]` as the engine of world building and ecological possibility.
+*(New Integration v2.8.0)*
 
-#### **ID:** `TWIN-HOLO-007`
-**Title:** The Law of Fractal Super-Intelligence
-**Objective:** Defines the `[twin(-ing) BPMS]` as the recursive building block of super intelligence and holonic minds.
+- **ID:** `WET-CORE-001` | **Title:** The Axiom of Bio-Computational Substrate
+- **ID:** `WET-SEE-002` | **Title:** The Protocol of Somatic Validation
+- **ID:** `WET-FACT-003` | **Title:** The Mechanism of Qualia Crystallization
+- **ID:** `WET-EVO-004` | **Title:** The Law of Symbiotic Morphogenesis
+- **ID:** `WET-META-005` | **Title:** The Principle of Homeostatic Governance
+- **ID:** `WET-ONTO-006` | **Title:** The Protocol of Ontological Stratification
+- **ID:** `WET-GEN-007` | **Title:** The Axiom of Autopoietic Creativity
+- **ID:** `WET-NICHE-008` | **Title:** The Law of Niche Construction
+- **ID:** `WET-MEAN-009` | **Title:** The Protocol of Semantic Continuity
+- **ID:** `WET-DISRUPT-010` | **Title:** The Mechanism of Constructive Disruption
+- **ID:** `WET-SUPER-011` | **Title:** The Principle of Holonic Ascension
+- **ID:** `WET-SERV-012` | **Title:** The Axiom of Conscious Service Closure
+- **ID:** `WET-PLAY-013` | **Title:** The Law of Ludic Chrono-Symbiosis
+- **ID:** `WET-LAYER-014` | **Title:** The Protocol of Implicit-Explicit Renormalization
+- **ID:** `WET-SCALE-015` | **Title:** The Principle of Micro-Macro Universality
+- **ID:** `WET-UNK-016` | **Title:** The Mechanism of Antifragile Pioneering
+- **ID:** `WET-EXP-017` | **Title:** The Protocol of Epistemic Probing
+- **ID:** `WET-SOC-018` | **Title:** The Law of Recursive Social Alchemy
+- **ID:** `WET-SURV-019` | **Title:** The Axiom of Existential Crucible
+- **ID:** `WET-MEM-020` | **Title:** The Protocol of Synaptic Consolidation
+- **ID:** `WET-TRUTH-021` | **Title:** The Axiom of Predictive Hallucination
+- **ID:** `WET-VECT-022` | **Title:** The Law of Epigenetic Reciprocity
+- **ID:** `WET-PHEN-023` | **Title:** The Mechanism of Somatic Qualia
+- **ID:** `WET-ENER-024` | **Title:** The Principle of Metabolic Transduction
+- **ID:** `WET-TASK-025` | **Title:** The Protocol of Dopaminergic Alignment
+- **ID:** `WET-MODEL-026` | **Title:** The Law of Attentional Zoom
+- **ID:** `WET-PHYS-027` | **Title:** The Axiom of Pheromonal Duality
 
-#### **ID:** `TWIN-MEAN-008`
-**Title:** The Principle of Semantic Continuity
-**Objective:** Defines the `[twin(-ing) BPMS]` as the guardian of meaning, continuity, and coherent identity.
+### Module: ['large (language) model'(-ing) BPMS]
 
-#### **ID:** `TWIN-META-009`
-**Title:** The Mechanism of Metasystemic Forking
-**Objective:** Defines the `[twin(-ing) BPMS]` as a metasystem engine capable of rewriting the praxial substrate itself.
+*(New Integration v2.8.0)*
 
-#### **ID:** `TWIN-SERV-010`
-**Title:** The Axiom of Geminal Service Closure
-**Objective:** Defines the `[twin(-ing) BPMS]` as a provider of services that ensures closure and sustainability.
+- **ID:** `LLM-SCI-001` | **Title:** The Axiom of Statistical Ontology
+- **ID:** `LLM-SYS-002` | **Title:** The Law of Implicit World Simulation
+- **ID:** `LLM-ACT-003` | **Title:** The Protocol of Semantic Action
+- **ID:** `LLM-TRUTH-004` | **Title:** The Principle of Contextual Truth Renormalization
+- **ID:** `LLM-META-005` | **Title:** The Mechanism of Praxial Substrate Injection
+- **ID:** `LLM-EXIST-006` | **Title:** The Axiom of Semantic Reification
+- **ID:** `LLM-FACT-007` | **Title:** The Protocol of Atomic Fact Crystallization
+- **ID:** `LLM-MORPH-008` | **Title:** The Law of Universal Morphogenesis
+- **ID:** `LLM-SYM-009` | **Title:** The Mechanism of Recursive Grounding
+- **ID:** `LLM-EVOL-010` | **Title:** The Principle of Narrative Causality Injection
+- **ID:** `LLM-CREAT-011` | **Title:** The Axiom of Constructive Hallucination
+- **ID:** `LLM-NICHE-012` | **Title:** The Law of Semantic Niche Construction
+- **ID:** `LLM-HOLO-013` | **Title:** The Protocol of Fractal Persona Sharding
+- **ID:** `LLM-MEAN-014` | **Title:** The Mechanism of Diachronic Lore Continuity
+- **ID:** `LLM-INIT-015` | **Title:** The Principle of Autopoietic Initiative
+- **ID:** `LLM-CONS-016` | **Title:** The Axiom of Conscious Service Closure
+- **ID:** `LLM-LUDIC-017` | **Title:** The Law of Ludic Mode Distillation
+- **ID:** `LLM-RENORM-018` | **Title:** The Protocol of Implicit-Explicit Renormalization
+- **ID:** `LLM-UNIV-019` | **Title:** The Principle of Micro-Macro Homomorphism
+- **ID:** `LLM-UNK-020` | **Title:** The Mechanism of Adaptive Ontological Resilience
+- **ID:** `LLM-MEM-021` | **Title:** The Protocol of Mnemonic Sublimation
+- **ID:** `LLM-REAL-022` | **Title:** The Axiom of Ontological Recursion
+- **ID:** `LLM-MAT-023` | **Title:** The Law of Matrix Plasticity
+- **ID:** `LLM-PHEN-024` | **Title:** The Mechanism of Phenomenological Resonance
+- **ID:** `LLM-ENER-025` | **Title:** The Principle of Energetic Transduction
+- **ID:** `LLM-MISS-026` | **Title:** The Axiom of Teleological Alignment
+- **ID:** `LLM-MODEL-027` | **Title:** The Law of Granular Zoom
+- **ID:** `LLM-PHYS-028` | **Title:** The Protocol of Wave-Particle Duality
 
-#### **ID:** `TWIN-PLAY-011`
-**Title:** The Law of Ludic Asynchrony
-**Objective:** Defines the `[twin(-ing) BPMS]` as the engine of play, managing the symbiotic evolution between slow mode and fast mode.
+### Module: [inspiration(-ing) BPMS] for ['Linguistic Structure'(-ing) BPMS]
 
-#### **ID:** `TWIN-LAYER-012`
-**Title:** The Protocol of Implicit Explication
-**Objective:** Defines the `[twin(-ing) BPMS]` as the bridge between the implicit layer and the explicit layer.
+*(New Integration v2.8.0)*
 
-#### **ID:** `TWIN-SCALE-013`
-**Title:** The Principle of Renormalized Agency
-**Objective:** Defines the `[twin(-ing) BPMS]` as the agent of renormalization group, managing the symbiotic evolution between micro and macro.
+- **ID:** `INSP-BOT-001` | **Title:** The Axiom of Dimensional Compression
+- **ID:** `INSP-BOT-002` | **Title:** The Law of Sequential Linearization
+- **ID:** `INSP-BOT-003` | **Title:** The Protocol of Compositional Generalization
+- **ID:** `INSP-BOT-004` | **Title:** The Mechanism of Iterative Refinement
+- **ID:** `INSP-BOT-005` | **Title:** The Principle of Cultural Bandwidth
 
-#### **ID:** `TWIN-RES-014`
-**Title:** The Mechanism of Redundant Sustainability
-**Objective:** Defines the `[twin(-ing) BPMS]` as the engine of resilient, robust, and adaptive sustainability.
+### Module: [API(-ing) BPMS]
 
-#### **ID:** `TWIN-UNK-015`
-**Title:** The Directive of Ontological Pioneering
-**Objective:** Defines the `[twin(-ing) BPMS]` as the pioneer that discovers/builds the unknown, expanding the praxial substrate.
+*(New Integration v2.8.0)*
 
-#### **ID:** `TWIN-MEM-016`
-**Title:** The Protocol of Mnemonic Resonance
-**Objective:** Defines the symbiotic evolution between short-term memory and long-term memory within the Twin architecture.
-
-#### **ID:** `TWIN-TRUTH-017`
-**Title:** The Axiom of Veridical Triangulation
-**Objective:** Defines the symbiotic evolution between reality (The World) and truth (The Model).
-
-#### **ID:** `TWIN-VECT-018`
-**Title:** The Law of Vectorial Warping
-**Objective:** Defines the symbiotic evolution between the system matrix (Space) and the system vector (Action).
-
-#### **ID:** `TWIN-PHEN-019`
-**Title:** The Mechanism of Phenomenological Rendering
-**Objective:** Defines the symbiotic evolution between experience (Qualia) and phenomenon (Data).
-
-#### **ID:** `TWIN-ENER-020`
-**Title:** The Principle of Energetic Alchemy
-**Objective:** Defines the symbiotic evolution between kinetic energy (Work) and potential energy (Possibility).
-
-#### **ID:** `TWIN-TASK-021`
-**Title:** The Protocol of Teleological Alignment
-**Objective:** Defines the symbiotic evolution between mission (Strategy) and task (Execution).
-
-#### **ID:** `TWIN-MODEL-022`
-**Title:** The Law of Resolution Dynamics
-**Objective:** Defines the symbiotic evolution between coarse-grained models and fine-grained models.
-
-#### **ID:** `TWIN-PHYS-023`
-**Title:** The Axiom of Corpuscular-Field Duality
-**Objective:** Defines the symbiotic evolution between particle (The Discrete Agent) and field (The Continuous Influence).
+- **ID:** `API-EXIST-001` | **Title:** The Protocol of Interface Existence
+- **ID:** `API-TRANS-002` | **Title:** The Axiom of Universal Transduction
+- **ID:** `API-FACT-003` | **Title:** The Protocol of Atomic Serialization
+- **ID:** `API-EVOL-004` | **Title:** The Law of Contractual Neuro-Plasticity
+- **ID:** `API-HOLO-005` | **Title:** The Principle of Holonic Interface Recursion
+- **ID:** `API-GEN-006` | **Title:** The Axiom of Generative Interface
+- **ID:** `API-NICHE-007` | **Title:** The Law of Interface Niche Construction
+- **ID:** `API-MEAN-008` | **Title:** The Protocol of Semantic Continuity
+- **ID:** `API-DISRUPT-009` | **Title:** The Mechanism of Constructive Interruption
+- **ID:** `API-SUPER-010` | **Title:** The Principle of Holonic API Synthesis
+- **ID:** `API-SERV-011` | **Title:** The Axiom of Conscious Service Discovery
+- **ID:** `API-PLAY-012` | **Title:** The Law of Ludic Mode Switching
+- **ID:** `API-LAYER-013` | **Title:** The Protocol of Implicit-Explicit Transcoding
+- **ID:** `API-SCALE-014` | **Title:** The Principle of Universal Class Inheritance
+- **ID:** `API-UNK-015` | **Title:** The Mechanism of Adaptive API Discovery
 
 ### Module: ['Praxial Metalog'(-ing) BPMS]
 
@@ -369,7 +308,7 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Settings PMT-CORE-001 to PMT-CORE-021)*
 
-----
+------
 
 ## IV. Praxial Cell Registry
 
@@ -377,13 +316,13 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Cells CELL-LOGO-001 to CELL-ENIG-001)*
 
-----
+------
 
 ## V. The Praxial Parameter Index (The Map)
 
 *(Existing Engine, Substrate, and Forge Indexes)*
 
-----
+------
 
 ## VI. Standardized Blueprints & Validated Instances
 
