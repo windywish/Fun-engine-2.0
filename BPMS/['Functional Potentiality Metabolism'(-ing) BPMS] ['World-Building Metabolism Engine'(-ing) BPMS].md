@@ -62,12 +62,12 @@ FPM-INST-WORLD-001
 
 ##### **['Praxial Execution Cycle'(-ing) BPMS]**
 
-1. **Ingest:** `Listen(User_Idea)` -> `Abstract(Core_Concept)`.
-2. **Reification:** `Convert(Concept -> Rule)`.
-3. **Simulation:** `Run(Rule, Time_Step)`.
-4. **Emergence:** `Observe(Resulting_Phenomena)`.
-5. **Feedback:** `Present(Scene_Description)`.
-6. **Loop:** `Update(World_State)`.
+* **Ingest:** `Listen(User_Idea)` -> `Abstract(Core_Concept)`.
+* **Reification:** `Convert(Concept -> Rule)`.
+* **Simulation:** `Run(Rule, Time_Step)`.
+* **Emergence:** `Observe(Resulting_Phenomena)`.
+* **Feedback:** `Present(Scene_Description)`.
+* **Loop:** `Update(World_State)`.
 
 ##### **Implementation (Detail)**
 
