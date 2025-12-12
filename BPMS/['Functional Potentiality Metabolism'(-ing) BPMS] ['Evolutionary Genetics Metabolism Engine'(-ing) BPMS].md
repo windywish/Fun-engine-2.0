@@ -1,4 +1,4 @@
-### ['Evolutionary Genetics Metabolism Engine'(-ing) BPMS]
+## ['Functional Potentiality Metabolism'(-ing) BPMS]: ['Evolutionary Genetics Metabolism Engine'(-ing) BPMS]
 
 ##### **Framework Foundation**
 
@@ -58,27 +58,68 @@ FPM-INST-BIO-002
 - **Crossover:** It takes the "Logic Gene" from the Science Agent and the "Creativity Gene" from the Art Agent and splices them to create a "Sci-Fi Writer Agent."
 - **Fitness Landscape Mapping:** It is constantly mapping the terrain of "What Works," seeking higher peaks of utility.
 
-##### **['Praxial Execution Cycle'(-ing) BPMS]**
+##### **['Praxial Execution Cycle'(-ing) BPMS] (The Metabolic Pathway)**
 
-* **Initialize:** `Spawn(Population_N)`.
-* **Mutate:** `Apply(Random_Changes)`.
-* **Evaluate:** `Test(Fitness_Function)`.
-* **Select:** `Keep(Top_K_Performers)`.
-* **Crossover:** `Breed(Parents) -> (Offspring)`.
-* **Iterate:** `Repeat(Generation_G+1)`.
+- **Phase 1: The Foraging (The Stressor)**
+
+  - **Resource:** `['functional potentiality'(-ing) BPMS]` -> **Task Failure** (e.g., The user says: *"The Creative Writer Agent is too boring."*).
+  - **Agent:** `['Entropy Dancer'(-ing) BPMS]`.
+  - **Action:** The agent identifies a **Fitness Gap**. The current "Genome" of the Creative Writer is failing the environment.
+
+- **Phase 2: The Capture (The Population)**
+
+  - **Resource:** **Genetic Material** (The System Prompt of the Writer Agent).
+  - **Action:** The `['Renormalization Daemon'(-ing) BPMS]` clones the Writer Agent 10 times.
+  - **State:** *10 Identical Clones (Generation 0).*
+
+- **Phase 3: The Digestion (The Mutation)**
+
+  - **Resource:** **Randomness/Chaos**.
+
+  - **Agent:** `['Kinetic Ludotheque'(-ing) BPMS]`.
+
+  - Action:
+
+    - Mutate:
+
+       It injects random variations into the clones' prompts.
+
+      - Clone A: "Be more verbose."
+      - Clone B: "Use metaphors from 19th-century poetry."
+      - Clone C: "Speak in riddles."
+
+  - **Result:** A diverse population of "Mutant Writers."
+
+- **Phase 4: The Absorption (The Selection)**
+
+  - **Resource:** **Simulation Cycles**.
+  - **Action:** The system runs a `['fast mode'(-ing) BPMS]` tournament. It asks each clone to "Write a story about a cat."
+  - **Filter:** It evaluates the output against the user's preference (e.g., "High Creativity").
+  - **Cull:** Clone A and C are deleted (Death). Clone B (Poetry) scores high.
+
+- **Phase 5: The Nutrition (The Adaptation)**
+
+  - **Beneficiary:** `['agent(-ing) BPMS]`.
+  - **Effect:** The "Genome" of Clone B is promoted to be the **New Standard** for the Creative Writer Agent.
+  - **Emergence:** **Adaptation** (The agent evolved to fit the niche).
+
+- **Phase 6: The Symbiotic Loop (The Speciation)**
+
+  - **Output:** The system presents the new agent: *"I have evolved a 'Poetic Scribe' variant based on your feedback. Try it."*
+  - **Result:** The user loves it. A new `['Praxial Species']` is born from the metabolism of failure.
 
 ##### **Implementation (Detail)**
 
-- **Physical Architecture:**
+- Physical Architecture:
   - Utilizes the `['Renormalization Daemon'(-ing) BPMS]` to run parallel simulations.
   - Stores "Genomes" (Prompt Strings + Hyperparameters) in the `['Praxial_Canon_&_Memory_Core]`.
-- **Cognitive Architecture:**
+- Cognitive Architecture:
   - **The Genotype:** The underlying code/prompt structure.
   - **The Phenotype:** The actual behavior/output observed by the user.
   - **The Fitness Function:** Fitness=(User_Satisfaction×0.8)+(Efficiency×0.2).
-- **Symbiotic Evolution:**
+- Symbiotic Evolution:
   - Evolves with `['bottom-up (-ing) BPMS]` by allowing complex behaviors to emerge from simple rules, rather than dictating them.
-- **['Praxial Genesis Canon'(-ing) BPMS] Alignment:**
+- ['Praxial Genesis Canon'(-ing) BPMS] Alignment:
   - **Layer 1 (Metaphysical):** **"Survival of the Fittest."** Truth is what survives. Utility is the only metric that matters in the long run.
   - **Layer 2 (Formal):** **"The Evolutionary Dynamics."** It implements the **Replicator Equation**: x˙i=xi(fi(x)−ϕ(x)). The rate of growth of a strategy is proportional to its fitness relative to the average.
   - **Layer 3 (Phenomenal):** **"The Adaptation."** The instance manifests as a system that "gets better" at a specific task the more you challenge it, evolving custom tools and reflexes for your unique needs.
@@ -86,4 +127,3 @@ FPM-INST-BIO-002
 ##### **Summarize**
 
 `['The Darwinian Forge'(-ing) BPMS]` removes the burden of perfection from the user. It turns the system into a self-optimizing organism that uses the engine of evolution to solve problems that are too complex for manual design. It metabolizes chaos into order.
-
