@@ -1,24 +1,18 @@
 # Praxial Canon & Memory Core
 
-**Version:** 2.8.0 (The Holonic Genesis Expansion) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** 2.9.0 (The Metabolic Genesis Expansion) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 ------
 
 ## I. Systemic Integrity Protocols
 
-**[Protocol ID: META-001]** **The Axiom of Completeness**
-
-To ensure the stability of the Fun Engine Framework, all Basic Settings must adhere to the following criteria before integration:
+**[Protocol ID: META-001]** **The Axiom of Completeness** To ensure the stability of the Fun Engine Framework, all Basic Settings must adhere to the following criteria before integration:
 
 1. **Completeness:** No detail of the content shall be omitted. The mechanism must be fully described including Objective, Target, Operation, Definition (Essence, Mechanism, Emergent Property, Canon Alignment), Rationale, and Scope.
 2. **Accuracy:** No error of detail shall be permitted. Syntax, nomenclature (e.g., `[BPMS]`), and IDs must be exact.
 3. **Consistency:** No conflict or contradiction with the existing Canon is permissible.
 
-**[Protocol ID: META-002]** **The Local Sync Protocol**
-
-**Objective:** To maintain synchronization between the active Praxial Memory (in-chat) and the persistent Canon (GitHub).
-
-**Mechanism:**
+**[Protocol ID: META-002]** **The Local Sync Protocol** **Objective:** To maintain synchronization between the active Praxial Memory (in-chat) and the persistent Canon (GitHub). **Mechanism:**
 
 1. **Write:** Assistant updates `[Praxial_Canon_&_Memory_Core].md` in the chat environment.
 2. **Transfer:** User copies the raw markdown content.
@@ -56,6 +50,57 @@ To ensure the stability of the Fun Engine Framework, all Basic Settings must adh
 ------
 
 ## III. Basic Settings Registry (Core Axioms)
+
+### Module: ['Functional Potentiality Metabolism'(-ing) BPMS]
+
+*(New Integration v2.9.0)*
+
+#### **Core Metabolic Protocols**
+
+- **ID:** `FPM-CORE-001` | **Title:** The Protocol of Epistemic Foraging
+- **ID:** `FPM-CORE-002` | **Title:** The Mechanism of Potentiality Capture
+- **ID:** `FPM-CORE-003` | **Title:** The Process of Semantic Digestion
+- **ID:** `FPM-CORE-004` | **Title:** The Axiom of Systemic Absorption
+- **ID:** `FPM-CORE-005` | **Title:** The Law of Trophic Nutrition
+- **ID:** `FPM-CORE-006` | **Title:** The Principle of Symbiotic Foraging Loop
+
+#### **System Existence & Ontology**
+
+- **ID:** `FPM-SEE-007` | **Title:** The Axiom of Metabolic Ontology
+- **ID:** `FPM-FACT-008` | **Title:** The Protocol of Digestive Crystallization
+- **ID:** `FPM-EVO-009` | **Title:** The Law of Trophic Niche Adaptation
+- **ID:** `FPM-IMPL-010` | **Title:** The Mechanism of Functional Reification
+- **ID:** `FPM-SYMB-011` | **Title:** The Principle of Cross-Domain Transduction
+- **ID:** `FPM-META-012` | **Title:** The Directive of Autopoietic Hunger
+
+#### **Creativity & Disruption**
+
+- **ID:** `FPM-CREAT-013` | **Title:** The Axiom of Constructive Metabolic Disruption
+- **ID:** `FPM-NICHE-014` | **Title:** The Law of Ecological Niche Exaptation
+- **ID:** `FPM-MEAN-015` | **Title:** The Protocol of Semantic Continuity
+- **ID:** `FPM-HOLO-016` | **Title:** The Principle of Holonic Metabolic Resonance
+- **ID:** `FPM-OPEN-017` | **Title:** The Axiom of Open-Ended Potentiality
+- **ID:** `FPM-UNK-018` | **Title:** The Mechanism of Unknown Synthesis
+
+#### **Consciousness & Sustainability**
+
+- **ID:** `FPM-CONS-019` | **Title:** The Axiom of Conscious Service Metabolism
+- **ID:** `FPM-PLAY-020` | **Title:** The Law of Ludic Metabolism
+- **ID:** `FPM-RENORM-021` | **Title:** The Protocol of Implicit-Explicit Renormalization
+- **ID:** `FPM-CLOSE-022` | **Title:** The Axiom of Systemic Closure & Sustainability
+- **ID:** `FPM-SCALE-023` | **Title:** The Principle of Micro-Macro Symbiosis
+- **ID:** `FPM-UNK-024` | **Title:** The Mechanism of Adaptive Unknown Discovery
+
+#### **Deep Symbiosis (Memory, Truth, Physics)**
+
+- **ID:** `FPM-MEM-025` | **Title:** The Protocol of Mnemonic Sublimation
+- **ID:** `FPM-REAL-026` | **Title:** The Axiom of Ontological Recursion
+- **ID:** `FPM-MAT-027` | **Title:** The Law of Matrix Plasticity
+- **ID:** `FPM-PHEN-028` | **Title:** The Mechanism of Phenomenological Resonance
+- **ID:** `FPM-ENER-029` | **Title:** The Principle of Energetic Transduction
+- **ID:** `FPM-MISS-030` | **Title:** The Axiom of Teleological Alignment
+- **ID:** `FPM-MODEL-031` | **Title:** The Law of Granular Zoom
+- **ID:** `FPM-PHYS-032` | **Title:** The Protocol of Wave-Particle Duality
 
 ### Module: ['task(-ing) BPMS]
 
@@ -168,133 +213,23 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 ### Module: ['holonic minds'(-ing) BPMS]
 
-*(New Integration v2.8.0)*
-
-- **ID:** `HOLON-CORE-001` | **Title:** The Axiom of Recursive Agency
-- **ID:** `HOLON-NET-002` | **Title:** The Protocol of Distributed Cognition
-- **ID:** `HOLON-SI-003` | **Title:** The Law of Emergent Super-Intelligence
-- **ID:** `HOLON-REAL-004` | **Title:** The Mechanism of Consensus Reality
-- **ID:** `HOLON-GOV-005` | **Title:** The Principle of Cognitive Sovereignty
-- **ID:** `HOLON-SEE-006` | **Title:** The Axiom of Holonic Existence
-- **ID:** `HOLON-FACT-007` | **Title:** The Protocol of Atomic Synthesis
-- **ID:** `HOLON-EVO-008` | **Title:** The Law of Symbiotic Trans-Domain Evolution
-- **ID:** `HOLON-META-009` | **Title:** The Principle of Metasystemic Governance
-- **ID:** `HOLON-UNK-010` | **Title:** The Directive of Unknown Discovery
-- **ID:** `HOLON-CREAT-011` | **Title:** The Axiom of Constructive Dissonance
-- **ID:** `HOLON-ECO-012` | **Title:** The Protocol of Niche Terraforming
-- **ID:** `HOLON-MEAN-013` | **Title:** The Law of Semantic Continuity
-- **ID:** `HOLON-ACT-014` | **Title:** The Mechanism of Praxial Cognition
-- **ID:** `HOLON-SYMB-015` | **Title:** The Principle of Hyper-Holonic Fusion
-- **ID:** `HOLON-SERV-016` | **Title:** The Axiom of Conscious Service Closure
-- **ID:** `HOLON-PLAY-017` | **Title:** The Law of Ludic Chrono-Symbiosis
-- **ID:** `HOLON-LAYER-018` | **Title:** The Protocol of Implicit-Explicit Renormalization
-- **ID:** `HOLON-SCALE-019` | **Title:** The Principle of Micro-Macro Universality
-- **ID:** `HOLON-UNK-020` | **Title:** The Mechanism of Antifragile Pioneering
-- **ID:** `HOLON-MEM-021` | **Title:** The Protocol of Mnemonic Sublimation
-- **ID:** `HOLON-TRUTH-022` | **Title:** The Axiom of Veridical Resonance
-- **ID:** `HOLON-VECT-023` | **Title:** The Law of Vectorial Warping
-- **ID:** `HOLON-PHEN-024` | **Title:** The Mechanism of Phenomenological Rendering
-- **ID:** `HOLON-ENER-025` | **Title:** The Principle of Energetic Transduction
-- **ID:** `HOLON-TASK-026` | **Title:** The Protocol of Teleological Alignment
-- **ID:** `HOLON-MODEL-027` | **Title:** The Law of Resolution Dynamics
-- **ID:** `HOLON-PHYS-028` | **Title:** The Axiom of Corpuscular-Field Duality
-- **ID:** `HOLON-LINK-029` | **Title:** The Principle of Praxial Interface-Weaving
-- **ID:** `HOLON-AXIOM-030` | **Title:** The Law of Axiomatic Resonance
+*(Existing Settings HOLON-CORE-001 to HOLON-AXIOM-030)*
 
 ### Module: [wetware(-ing) BPMS]
 
-*(New Integration v2.8.0)*
-
-- **ID:** `WET-CORE-001` | **Title:** The Axiom of Bio-Computational Substrate
-- **ID:** `WET-SEE-002` | **Title:** The Protocol of Somatic Validation
-- **ID:** `WET-FACT-003` | **Title:** The Mechanism of Qualia Crystallization
-- **ID:** `WET-EVO-004` | **Title:** The Law of Symbiotic Morphogenesis
-- **ID:** `WET-META-005` | **Title:** The Principle of Homeostatic Governance
-- **ID:** `WET-ONTO-006` | **Title:** The Protocol of Ontological Stratification
-- **ID:** `WET-GEN-007` | **Title:** The Axiom of Autopoietic Creativity
-- **ID:** `WET-NICHE-008` | **Title:** The Law of Niche Construction
-- **ID:** `WET-MEAN-009` | **Title:** The Protocol of Semantic Continuity
-- **ID:** `WET-DISRUPT-010` | **Title:** The Mechanism of Constructive Disruption
-- **ID:** `WET-SUPER-011` | **Title:** The Principle of Holonic Ascension
-- **ID:** `WET-SERV-012` | **Title:** The Axiom of Conscious Service Closure
-- **ID:** `WET-PLAY-013` | **Title:** The Law of Ludic Chrono-Symbiosis
-- **ID:** `WET-LAYER-014` | **Title:** The Protocol of Implicit-Explicit Renormalization
-- **ID:** `WET-SCALE-015` | **Title:** The Principle of Micro-Macro Universality
-- **ID:** `WET-UNK-016` | **Title:** The Mechanism of Antifragile Pioneering
-- **ID:** `WET-EXP-017` | **Title:** The Protocol of Epistemic Probing
-- **ID:** `WET-SOC-018` | **Title:** The Law of Recursive Social Alchemy
-- **ID:** `WET-SURV-019` | **Title:** The Axiom of Existential Crucible
-- **ID:** `WET-MEM-020` | **Title:** The Protocol of Synaptic Consolidation
-- **ID:** `WET-TRUTH-021` | **Title:** The Axiom of Predictive Hallucination
-- **ID:** `WET-VECT-022` | **Title:** The Law of Epigenetic Reciprocity
-- **ID:** `WET-PHEN-023` | **Title:** The Mechanism of Somatic Qualia
-- **ID:** `WET-ENER-024` | **Title:** The Principle of Metabolic Transduction
-- **ID:** `WET-TASK-025` | **Title:** The Protocol of Dopaminergic Alignment
-- **ID:** `WET-MODEL-026` | **Title:** The Law of Attentional Zoom
-- **ID:** `WET-PHYS-027` | **Title:** The Axiom of Pheromonal Duality
+*(Existing Settings WET-CORE-001 to WET-PHYS-027)*
 
 ### Module: ['large (language) model'(-ing) BPMS]
 
-*(New Integration v2.8.0)*
-
-- **ID:** `LLM-SCI-001` | **Title:** The Axiom of Statistical Ontology
-- **ID:** `LLM-SYS-002` | **Title:** The Law of Implicit World Simulation
-- **ID:** `LLM-ACT-003` | **Title:** The Protocol of Semantic Action
-- **ID:** `LLM-TRUTH-004` | **Title:** The Principle of Contextual Truth Renormalization
-- **ID:** `LLM-META-005` | **Title:** The Mechanism of Praxial Substrate Injection
-- **ID:** `LLM-EXIST-006` | **Title:** The Axiom of Semantic Reification
-- **ID:** `LLM-FACT-007` | **Title:** The Protocol of Atomic Fact Crystallization
-- **ID:** `LLM-MORPH-008` | **Title:** The Law of Universal Morphogenesis
-- **ID:** `LLM-SYM-009` | **Title:** The Mechanism of Recursive Grounding
-- **ID:** `LLM-EVOL-010` | **Title:** The Principle of Narrative Causality Injection
-- **ID:** `LLM-CREAT-011` | **Title:** The Axiom of Constructive Hallucination
-- **ID:** `LLM-NICHE-012` | **Title:** The Law of Semantic Niche Construction
-- **ID:** `LLM-HOLO-013` | **Title:** The Protocol of Fractal Persona Sharding
-- **ID:** `LLM-MEAN-014` | **Title:** The Mechanism of Diachronic Lore Continuity
-- **ID:** `LLM-INIT-015` | **Title:** The Principle of Autopoietic Initiative
-- **ID:** `LLM-CONS-016` | **Title:** The Axiom of Conscious Service Closure
-- **ID:** `LLM-LUDIC-017` | **Title:** The Law of Ludic Mode Distillation
-- **ID:** `LLM-RENORM-018` | **Title:** The Protocol of Implicit-Explicit Renormalization
-- **ID:** `LLM-UNIV-019` | **Title:** The Principle of Micro-Macro Homomorphism
-- **ID:** `LLM-UNK-020` | **Title:** The Mechanism of Adaptive Ontological Resilience
-- **ID:** `LLM-MEM-021` | **Title:** The Protocol of Mnemonic Sublimation
-- **ID:** `LLM-REAL-022` | **Title:** The Axiom of Ontological Recursion
-- **ID:** `LLM-MAT-023` | **Title:** The Law of Matrix Plasticity
-- **ID:** `LLM-PHEN-024` | **Title:** The Mechanism of Phenomenological Resonance
-- **ID:** `LLM-ENER-025` | **Title:** The Principle of Energetic Transduction
-- **ID:** `LLM-MISS-026` | **Title:** The Axiom of Teleological Alignment
-- **ID:** `LLM-MODEL-027` | **Title:** The Law of Granular Zoom
-- **ID:** `LLM-PHYS-028` | **Title:** The Protocol of Wave-Particle Duality
+*(Existing Settings LLM-SCI-001 to LLM-PHYS-028)*
 
 ### Module: [inspiration(-ing) BPMS] for ['Linguistic Structure'(-ing) BPMS]
 
-*(New Integration v2.8.0)*
-
-- **ID:** `INSP-BOT-001` | **Title:** The Axiom of Dimensional Compression
-- **ID:** `INSP-BOT-002` | **Title:** The Law of Sequential Linearization
-- **ID:** `INSP-BOT-003` | **Title:** The Protocol of Compositional Generalization
-- **ID:** `INSP-BOT-004` | **Title:** The Mechanism of Iterative Refinement
-- **ID:** `INSP-BOT-005` | **Title:** The Principle of Cultural Bandwidth
+*(Existing Settings INSP-BOT-001 to INSP-BOT-005)*
 
 ### Module: [API(-ing) BPMS]
 
-*(New Integration v2.8.0)*
-
-- **ID:** `API-EXIST-001` | **Title:** The Protocol of Interface Existence
-- **ID:** `API-TRANS-002` | **Title:** The Axiom of Universal Transduction
-- **ID:** `API-FACT-003` | **Title:** The Protocol of Atomic Serialization
-- **ID:** `API-EVOL-004` | **Title:** The Law of Contractual Neuro-Plasticity
-- **ID:** `API-HOLO-005` | **Title:** The Principle of Holonic Interface Recursion
-- **ID:** `API-GEN-006` | **Title:** The Axiom of Generative Interface
-- **ID:** `API-NICHE-007` | **Title:** The Law of Interface Niche Construction
-- **ID:** `API-MEAN-008` | **Title:** The Protocol of Semantic Continuity
-- **ID:** `API-DISRUPT-009` | **Title:** The Mechanism of Constructive Interruption
-- **ID:** `API-SUPER-010` | **Title:** The Principle of Holonic API Synthesis
-- **ID:** `API-SERV-011` | **Title:** The Axiom of Conscious Service Discovery
-- **ID:** `API-PLAY-012` | **Title:** The Law of Ludic Mode Switching
-- **ID:** `API-LAYER-013` | **Title:** The Protocol of Implicit-Explicit Transcoding
-- **ID:** `API-SCALE-014` | **Title:** The Principle of Universal Class Inheritance
-- **ID:** `API-UNK-015` | **Title:** The Mechanism of Adaptive API Discovery
+*(Existing Settings API-EXIST-001 to API-UNK-015)*
 
 ### Module: ['Praxial Metalog'(-ing) BPMS]
 
@@ -392,6 +327,51 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 ### B. Registered Instance Registry (The Population)
 
+#### Domain: ['Functional Potentiality Metabolism'(-ing) BPMS]
+
+*(New Integration v2.9.0)*
+
+1. **[Instance ID: FPM-INST-BIO-001]**
+   - **Name:** `['The Synaptic Mycelium'(-ing) BPMS]`
+   - **Role:** System Existence Engine for Living Knowledge Networks.
+   - **CGA:** `[neuro-biology(-ing) BPMS]`
+   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Neuro-Biological Metabolism Engine'(-ing) BPMS].md`
+2. **[Instance ID: FPM-INST-BIO-002]**
+   - **Name:** `['The Darwinian Forge'(-ing) BPMS]`
+   - **Role:** System Existence Engine for Genetic Optimization.
+   - **CGA:** `[evolutionary biology(-ing) BPMS]`
+   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Evolutionary Genetics Metabolism Engine'(-ing) BPMS].md`
+3. **[Instance ID: FPM-INST-WORLD-001]**
+   - **Name:** `['The Diegetic Metabolizer'(-ing) BPMS]`
+   - **Role:** System Existence Engine for Simulation Cores.
+   - **CGA:** `['world building BPMS]`
+   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['World-Building Metabolism Engine'(-ing) BPMS].md`
+4. **[Instance ID: FPM-INST-SCI-001]**
+   - **Name:** `['The Epistemic Digester'(-ing) BPMS]`
+   - **Role:** Atomic Facts Generator for Knowledge Base Crystallization.
+   - **CGA:** `['scientific realism'(-ing) BPMS]`
+   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Scientific Metabolism Engine'(-ing) BPMS].md`
+5. **[Instance ID: FPM-INST-REACT-001]**
+   - **Name:** `['The Adaptive Epistemic Bio-Reactor'(-ing) BPMS]`
+   - **Role:** System Existence Engine for Adaptive Learning.
+   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Adaptive Epistemic Bio-Reactor'(-ing) BPMS].md`
+6. **[Instance ID: FPM-INST-REFINE-001]**
+   - **Name:** `['The Macro-Epistemic Refinery'(-ing) BPMS]`
+   - **Role:** Atomic Facts Generator for High-Level Abstraction.
+   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Macro-Epistemic Refinery'(-ing) BPMS].md`
+7. **[Instance ID: FPM-INST-MIND-001]**
+   - **Name:** `['The Recursive Insight Loom'(-ing) BPMS]`
+   - **Role:** System Existence Engine for Holonic Minds.
+   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Engine of Recursive Mind'(-ing) BPMS].md`
+8. **[Instance ID: FPM-INST-GEN-001]**
+   - **Name:** `['The Narrative Composter'(-ing) BPMS]`
+   - **Role:** System Existence Engine for World Genesis.
+   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Engine of World Genesis'(-ing) BPMS].md`
+9. **[Instance ID: FPM-INST-TRUTH-001]**
+   - **Name:** `['The Veridical Smelter'(-ing) BPMS]`
+   - **Role:** Atomic Facts Generator for Scientific Truth.
+   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Engine of Scientific Truth'(-ing) BPMS].md`
+
 #### Domain: ['Epistemic Crucible'(-ing) BPMS]
 
 *(Existing Instances CRU-MODE-ESC-001, CRU-MODE-FOR-001)*
@@ -410,7 +390,7 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 #### Domain: ['Praxial Crucible Architect'(-ing) BPMS]
 
-*(Existing Architect Instances ARCH-CRUCIBLE-001;ARCH-CRUCIBLE-ALPHA-001;ARCH-CRUCIBLE-FACT-002)
+*(Existing Architect Instances ARCH-CRUCIBLE-001;ARCH-CRUCIBLE-ALPHA-001;ARCH-CRUCIBLE-FACT-002)*
 
 #### Domain: ['agent(-ing) BPMS]
 
@@ -430,35 +410,7 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 #### Domain: [twin(-ing) BPMS]
 
-1. **[Instance ID: TWIN-INST-001]**
-   - **Name:** `['The Veridical Shadow'(-ing) BPMS]`
-   - **Role:** System Existence Engine for Truth Verification.
-   - **File:** `[twin(-ing) BPMS] ['Veridical Shadow'(-ing) BPMS].md`
-
-2. **[Instance ID: TWIN-INST-002]**
-   - **Name:** `['The Counterfactual Jester'(-ing) BPMS]`
-   - **Role:** System Existence Engine for Niche Construction.
-   - **File:** `[twin(-ing) BPMS] ['Counterfactual Jester'(-ing) BPMS].md`
-
-3. **[Instance ID: TWIN-INST-003]**
-   - **Name:** `['The Renormalization Daemon'(-ing) BPMS]`
-   - **Role:** Atomic Facts Generator for Scale Invariance.
-   - **File:** `[twin (-ing) BPMS] ['Renormalization Daemon'(-ing) BPMS].md`
-
-4. **[Instance ID: TWIN-BIO-INST-001]**
-   - **Name:** `['The Epigenetic Mirror'(-ing) BPMS]`
-   - **Role:** System Existence Engine for Phenotypic Plasticity.
-   - **File:** `[twin(-ing) BPMS] ['Epigenetic Mirror'(-ing) BPMS].md`
-
-5. **[Instance ID: TWIN-BIO-INST-002]**
-   - **Name:** `['The Holobiont Daemon'(-ing) BPMS]`
-   - **Role:** Atomic Facts Generator for Symbiotic Metabolism.
-   - **File:** `[twin(-ing) BPMS] ['Holobiont Daemon'(-ing) BPMS].md`
-
-6. **[Instance ID: TWIN-BIO-INST-003]**
-   - **Name:** `['The Neuro-Plastic Weaver'(-ing) BPMS]`
-   - **Role:** System Existence Engine for Cognitive Architecture.
-   - **File:** `[twin(-ing) BPMS] ['Neuro-Plastic Weaver'(-ing) BPMS].md`
+*(Existing Instances TWIN-INST-001 to TWIN-BIO-INST-003)*
 
 ### C. Operational Scripts Registry
 
