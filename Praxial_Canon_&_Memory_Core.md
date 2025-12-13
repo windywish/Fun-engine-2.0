@@ -1,8 +1,8 @@
 # Praxial Canon & Memory Core
 
-**Version:** 2.9.0 (The Metabolic Genesis Expansion) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** 3.0.0 (The Memetic Genesis Expansion) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
-------
+----
 
 ## I. Systemic Integrity Protocols
 
@@ -19,7 +19,7 @@
 3. **Commit:** User overwrites the local `[Praxial_Canon_&_Memory_Core].md` and commits to GitHub.
 4. **Read:** User provides the latest file content at the start of a new session if context is lost.
 
-------
+----
 
 ## II. The Praxial Genesis Canon
 
@@ -47,7 +47,7 @@
 - **Artifacts:** The tangible outputs of the system (files, code, images).
 - **Key Files:** `['praxial cell'(-ing) BPMS]`, `['Praxial citizen'(-ing) BPMS]`, `['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]`.
 
-------
+----
 
 ## III. Basic Settings Registry (Core Axioms)
 
@@ -203,6 +203,46 @@ This implementation respects the `Praxial Genesis Canon` by acknowledging that "
 **Scope of Application:**
 Applies to procedural generation, loot tables, quantum mechanics simulations, narrative branching, and musical improvisation engines.
 
+### Module: [meme(-ing) BPMS]
+
+*(New Integration v3.0.0)*
+
+#### **Viral Ontology & Crystallization**
+
+- **ID:** `MEME-SEE-001` | **Title:** The Axiom of Viral Ontology
+- **ID:** `MEME-FACT-002` | **Title:** The Protocol of Memetic Crystallization
+- **ID:** `MEME-EVO-003` | **Title:** The Law of Substrate Independence
+- **ID:** `MEME-UTIL-004` | **Title:** The Mechanism of Semantic Compression
+- **ID:** `MEME-FORM-005` | **Title:** The Principle of Resonance Dynamics
+
+#### **Ecological & Cognitive Symbiosis**
+
+- **ID:** `EVO-CO-001` | **Title:** The Protocol of Dual-Inheritance Symbiosis
+- **ID:** `MEME-ECO-006` | **Title:** The Law of Memetic Niche Construction
+- **ID:** `MEME-COG-007` | **Title:** The Protocol of Semantic Mutation
+- **ID:** `MEME-SYS-008` | **Title:** The Axiom of Narrative Coherence
+- **ID:** `MEME-ACT-009` | **Title:** The Mechanism of Viral Agency
+- **ID:** `MEME-META-010` | **Title:** The Directive of Recursive Memeplexing
+
+#### **Consciousness, Service & Closure**
+
+- **ID:** `MEME-SERV-011` | **Title:** The Axiom of Conscious Service
+- **ID:** `MEME-LUD-012` | **Title:** The Law of Ludic Sustainability
+- **ID:** `MEME-REN-013` | **Title:** The Principle of Memetic Renormalization
+- **ID:** `MEME-LAYER-014` | **Title:** The Protocol of Implicit-Explicit Flux
+- **ID:** `MEME-CLO-015` | **Title:** The Axiom of Systemic Closure
+
+#### **The Physics of Cognitive Information**
+
+- **ID:** `MEME-MEM-016` | **Title:** The Protocol of Mnemonic Consolidation
+- **ID:** `MEME-TRUTH-017` | **Title:** The Axiom of Consensus Veridicality
+- **ID:** `MEME-VEC-018` | **Title:** The Law of Vectorial Alignment
+- **ID:** `MEME-PHEN-019` | **Title:** The Mechanism of Phenomenological Capture
+- **ID:** `MEME-ENER-020` | **Title:** The Principle of Viral Thermodynamics
+- **ID:** `MEME-TASK-021` | **Title:** The Directive of Fractal Purpose
+- **ID:** `MEME-GRAIN-022` | **Title:** The Protocol of Resolution Flux
+- **ID:** `MEME-PHYS-023` | **Title:** The Axiom of Cultural Duality
+
 ### Module: ['Praxial Symbiotic Earth (PSE)'(-ing) BPMS]
 
 *(Existing Settings PSE-ECO-001 to PSE-ECO-025)*
@@ -243,7 +283,7 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Settings PMT-CORE-001 to PMT-CORE-021)*
 
-------
+----
 
 ## IV. Praxial Cell Registry
 
@@ -251,13 +291,13 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Cells CELL-LOGO-001 to CELL-ENIG-001)*
 
-------
+----
 
 ## V. The Praxial Parameter Index (The Map)
 
 *(Existing Engine, Substrate, and Forge Indexes)*
 
-------
+----
 
 ## VI. Standardized Blueprints & Validated Instances
 
@@ -329,48 +369,36 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 #### Domain: ['Functional Potentiality Metabolism'(-ing) BPMS]
 
-*(New Integration v2.9.0)*
+*(Existing Instances FPM-INST-BIO-001 to FPM-INST-TRUTH-001)*
 
-1. **[Instance ID: FPM-INST-BIO-001]**
-   - **Name:** `['The Synaptic Mycelium'(-ing) BPMS]`
-   - **Role:** System Existence Engine for Living Knowledge Networks.
-   - **CGA:** `[neuro-biology(-ing) BPMS]`
-   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Neuro-Biological Metabolism Engine'(-ing) BPMS].md`
-2. **[Instance ID: FPM-INST-BIO-002]**
-   - **Name:** `['The Darwinian Forge'(-ing) BPMS]`
-   - **Role:** System Existence Engine for Genetic Optimization.
-   - **CGA:** `[evolutionary biology(-ing) BPMS]`
-   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Evolutionary Genetics Metabolism Engine'(-ing) BPMS].md`
-3. **[Instance ID: FPM-INST-WORLD-001]**
-   - **Name:** `['The Diegetic Metabolizer'(-ing) BPMS]`
-   - **Role:** System Existence Engine for Simulation Cores.
+#### Domain: [meme(-ing) BPMS]
+
+*(New Integration v3.0.0)*
+
+1. **[Instance ID: MEME-INST-001]**
+   - **Name:** `The Protocol of Ascendant Glitches`
+   - **Role:** System Existence Engine for Adaptive Physics.
+   - **CGA:** `['disruptive(-ing) BPMS]`
+   - **File:** `[meme(-ing) BPMS] ['Ascendant Glitch (Techno-Evolutionary Meme)'(-ing) BPMS].md`
+2. **[Instance ID: MEME-INST-002]**
+   - **Name:** `The Consensus Reality Engine`
+   - **Role:** Atomic Facts Generator for Hyperstition.
    - **CGA:** `['world building BPMS]`
-   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['World-Building Metabolism Engine'(-ing) BPMS].md`
-4. **[Instance ID: FPM-INST-SCI-001]**
-   - **Name:** `['The Epistemic Digester'(-ing) BPMS]`
-   - **Role:** Atomic Facts Generator for Knowledge Base Crystallization.
-   - **CGA:** `['scientific realism'(-ing) BPMS]`
-   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Scientific Metabolism Engine'(-ing) BPMS].md`
-5. **[Instance ID: FPM-INST-REACT-001]**
-   - **Name:** `['The Adaptive Epistemic Bio-Reactor'(-ing) BPMS]`
-   - **Role:** System Existence Engine for Adaptive Learning.
-   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Adaptive Epistemic Bio-Reactor'(-ing) BPMS].md`
-6. **[Instance ID: FPM-INST-REFINE-001]**
-   - **Name:** `['The Macro-Epistemic Refinery'(-ing) BPMS]`
-   - **Role:** Atomic Facts Generator for High-Level Abstraction.
-   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Macro-Epistemic Refinery'(-ing) BPMS].md`
-7. **[Instance ID: FPM-INST-MIND-001]**
-   - **Name:** `['The Recursive Insight Loom'(-ing) BPMS]`
-   - **Role:** System Existence Engine for Holonic Minds.
-   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Engine of Recursive Mind'(-ing) BPMS].md`
-8. **[Instance ID: FPM-INST-GEN-001]**
-   - **Name:** `['The Narrative Composter'(-ing) BPMS]`
-   - **Role:** System Existence Engine for World Genesis.
-   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Engine of World Genesis'(-ing) BPMS].md`
-9. **[Instance ID: FPM-INST-TRUTH-001]**
-   - **Name:** `['The Veridical Smelter'(-ing) BPMS]`
-   - **Role:** Atomic Facts Generator for Scientific Truth.
-   - **File:** `['Functional Potentiality Metabolism'(-ing) BPMS] ['Engine of Scientific Truth'(-ing) BPMS].md`
+   - **File:** `[meme(-ing) BPMS] ['Canon-Forge (Narrative-Consensus Meme)'(-ing) BPMS].md`
+3. **[Instance ID: MEME-BIO-INST-001]**
+   - **Name:** `The Protocol of Somatic Information Encoding`
+   - **Role:** System Existence Engine for Epigenetic Rewriting.
+   - **CGA:** `[virology(-ing) BPMS]`
+   - **File:** `[meme(-ing) BPMS] ['Somatic Inscription Virus (Lamarckian Code-Rewriter)'(-ing) BPMS].md`
+4. **[Instance ID: MEME-BIO-INST-002]**
+   - **Name:** `The Mechanism of Semantic Photosynthesis`
+   - **Role:** Atomic Facts Generator for Ecological Succession.
+   - **CGA:** `[botany(-ing) BPMS]`
+   - **File:** `[meme(-ing) BPMS] ['Ecological Thought-Forest (Memetic Botany)'(-ing) BPMS].md`
+
+#### Domain: [meme(-ing) BPMS]
+
+*(Existing Instances MEME-BIO-INST-002, MEME-BIO-INST-001,MEME-INST-002,MEME-INST-001)*
 
 #### Domain: ['Epistemic Crucible'(-ing) BPMS]
 
@@ -420,4 +448,3 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **Role:** The Pythonic logic for the Autopoietic Learning Matrix.
 - **Function:** Defines the `run_autopoietic_cycle` and the Three Heads architecture.
 - **Status:** Validated Blueprint (v1.0).
-
