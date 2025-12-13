@@ -249,7 +249,7 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 ### Module: [twin(-ing) BPMS]
 
-*(Existing Settings TWIN-001 to TWIN-PHYS-023)*
+*(Existing Settings TWIN-001 to TWIN-PHYS-023,TWIN-SEC-024,TWIN-ART-025)*
 
 ### Module: ['holonic minds'(-ing) BPMS]
 
@@ -448,3 +448,4 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **Role:** The Pythonic logic for the Autopoietic Learning Matrix.
 - **Function:** Defines the `run_autopoietic_cycle` and the Three Heads architecture.
 - **Status:** Validated Blueprint (v1.0).
+
