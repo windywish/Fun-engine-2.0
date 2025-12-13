@@ -806,7 +806,7 @@ Here are the additional Basic Settings for the **Praxial Symbiotic Earth (PSE)**
 
 ##### `The Principle of Energetic Transduction` (**ID:** `PSE-ECO-025`)
 
-**Objective:** To formally `ADD` a Basic Setting that defines the symbiotic evolution between **`['kinetic (energy)'(-ing) BPMS]`** (Action/Work) and **`['potential (energy)'(-ing) BPMS]`** (Value/Possibility), establishing the economic physics of the system.
+**Objective:** To formally `ADD` a Basic Setting that defines the symbiotic evolution among/by **`['kinetic (energy)'(-ing) BPMS]`** (Action/Work) and **`['potential (energy)'(-ing) BPMS]`** (Value/Possibility), establishing the economic physics of the system.
 
 **Target Axiom/Principle:** `The Principle of Energetic Transduction`
 
