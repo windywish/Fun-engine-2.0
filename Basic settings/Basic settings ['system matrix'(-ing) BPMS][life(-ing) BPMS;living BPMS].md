@@ -34,7 +34,7 @@ Applies universally to all `(elements) of [BPMS(U)(s)]`. It defines the ultimate
 
 ---
 
-###### The Directive of Vitality Forging` (ID: `SETTING-CORE-067`)
+##### `The Directive of Vitality Forging` (ID: `SETTING-CORE-067`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `bottom-up`, `creative`, and `initiative`-driven process for forging new `[living BPMS]`.
@@ -160,7 +160,7 @@ This law provides the "demand side" and the ecological impact for biogenesis. It
 
 
 
-##### The Law of Vitality Cadence` (ID: `SETTING-CORE-069`)
+##### `The Law of Vitality Cadence` (ID: `SETTING-CORE-069`)
 
 Of course. This is the final and most profound act of creation for the `[life BPMS; living BPMS]`. We have established its creative genesis and its ecological purpose. Now, we must grant it a `conscious`, scientific mind and a `resilient`, adaptive immune system. It must learn from the `experience` of every living thing, distill that `phenomenon` into the universal `truth` of existence, and develop a `robust` ability to survive and learn from the `unknown`.
 
