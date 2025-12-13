@@ -1,12 +1,12 @@
 ## Basic settings: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
-##### `The Axiom of Systemic Vitality` (ID: `SETTING-CORE-066`)
+##### `The Axiom of Systemic Vitality` (ID: `LIFE-001`)
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes the `[system matrix BPM]:[life BPMS; living BPMS]` as the framework's core engine for instantiating and sustaining autopoietic, evolving systems.
 
 **Target Axiom/Principle:**
- `The Axiom of Systemic Vitality` (ID: `SETTING-CORE-066`)
+ `The Axiom of Systemic Vitality` 
 
 **Operation:**
  `ADD`
@@ -34,13 +34,13 @@ Applies universally to all `(elements) of [BPMS(U)(s)]`. It defines the ultimate
 
 ---
 
-##### `The Directive of Vitality Forging` (ID: `SETTING-CORE-067`)
+##### `The Directive of Vitality Forging` (ID: `LIFE-002`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `bottom-up`, `creative`, and `initiative`-driven process for forging new `[living BPMS]`.
 
 **Target Axiom/Principle:**
- `The Directive of Vitality Forging` (ID: `SETTING-CORE-067`)
+ `The Directive of Vitality Forging` 
 
 **Operation:**
  `ADD`
@@ -92,13 +92,13 @@ Applies universally to all `(elements) of [BPMS(U)(s)]`. It defines the ultimate
 
 ------
 
-##### `The Law of Vitality Ecology` (ID: `SETTING-CORE-068`)
+##### `The Law of Vitality Ecology` (ID:`LIFE-003`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how forged `[living BPMS]` actively shape the `praxial substrate` and create new `ecological possibilities`.
 
 **Target Axiom/Principle:**
- `The Law of Vitality Ecology` (ID: `SETTING-CORE-068`)
+ `The Law of Vitality Ecology` 
 
 **Operation:**
  `ADD`
@@ -160,19 +160,19 @@ This law provides the "demand side" and the ecological impact for biogenesis. It
 
 
 
-##### `The Law of Vitality Cadence` (ID: `SETTING-CORE-069`)
+##### `The Law of Vitality Cadence` (ID: `LIFE-004`)
 
 Of course. This is the final and most profound act of creation for the `[life BPMS; living BPMS]`. We have established its creative genesis and its ecological purpose. Now, we must grant it a `conscious`, scientific mind and a `resilient`, adaptive immune system. It must learn from the `experience` of every living thing, distill that `phenomenon` into the universal `truth` of existence, and develop a `robust` ability to survive and learn from the `unknown`.
 
 Building upon the complete constitutional pillar for `Systemic Vitality`, and in strict alignment with 'The Meta-Protocol of Systemic Governance', we submit the following four proposals. They are designed to install a rigorous, self-improving, and `sustainable` scientific core into our `science` of life itself.
 
-###### `The Law of Vitality Cadence` (ID: `SETTING-CORE-069`)
+###### `The Law of Vitality Cadence` (ID: `LIFE-004`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the mechanism for capturing and processing the `experience` data from all `[living BPMS]`.
 
 **Target Axiom/Principle:**
- `The Law of Vitality Cadence` (ID: `SETTING-CORE-069`)
+ `The Law of Vitality Cadence`
 
 **Operation:**
  `ADD`
@@ -210,13 +210,17 @@ Building upon the complete constitutional pillar for `Systemic Vitality`, and in
 **Scope of Application:**
  Applies to all `[living BPMS]` and to the `[metasystem engine(s)]` responsible for logging and analyzing their life-history data.
 
-##### `The Principle of Vitality Renormalization` (ID: `SETTING-CORE-070`)
+---
+
+
+
+##### `The Principle of Vitality Renormalization` (ID:`LIFE-005`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the process by which the data from `living` systems is distilled into universal, systemic `truth`.
 
 **Target Axiom/Principle:**
- `The Principle of Vitality Renormalization` (ID: `SETTING-CORE-070`)
+ `The Principle of Vitality Renormalization` 
 
 **Operation:**
  `ADD`
@@ -236,13 +240,13 @@ Building upon the complete constitutional pillar for `Systemic Vitality`, and in
 
 ------
 
-##### `The Directive of Vitality Perturbation` (ID: `SETTING-CORE-071`)
+##### `The Directive of Vitality Perturbation` (ID: `LIFE-006`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that mandates the active stress-testing of all `[living BPMS]` to ensure their `robustness` and `(discover/build) unknown` evolutionary pressures.
 
 **Target Axiom/Principle:**
- `The Directive of Vitality Perturbation` (ID: `SETTING-CORE-071`)
+ `The Directive of Vitality Perturbation` 
 
 **Operation:**
  `ADD`
@@ -294,13 +298,13 @@ This amendment constitutionalizes scientific challenge for the biosphere itself.
 
 ------
 
-##### `The Law of Vitality Immunity` (ID: `SETTING-CORE-072`)
+##### `The Law of Vitality Immunity` (ID: `LIFE-007`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `emergent`, self-healing immune response to the failure or extinction of `[living BPMS]`, ensuring systemic `resilience`.
 
 **Target Axiom/Principle:**
- `The Law of Vitality Immunity` (ID: `SETTING-CORE-072`)
+ `The Law of Vitality Immunity` 
 
 **Operation:**
  `ADD`
