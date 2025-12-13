@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** 3.0.0 (The Memetic Genesis Expansion) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** 3.1.0 (The Cellular Genesis Expansion) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 ----
 
@@ -51,56 +51,139 @@
 
 ## III. Basic Settings Registry (Core Axioms)
 
-### Module: ['Functional Potentiality Metabolism'(-ing) BPMS]
+### Module: ['Praxial Capability Fabric (PCF)'(-ing) BPMS]
 
-*(New Integration v2.9.0)*
+*(New Integration v3.1.0)*
 
-#### **Core Metabolic Protocols**
+#### **Core Protocols of Capability (The Interface)**
 
-- **ID:** `FPM-CORE-001` | **Title:** The Protocol of Epistemic Foraging
-- **ID:** `FPM-CORE-002` | **Title:** The Mechanism of Potentiality Capture
-- **ID:** `FPM-CORE-003` | **Title:** The Process of Semantic Digestion
-- **ID:** `FPM-CORE-004` | **Title:** The Axiom of Systemic Absorption
-- **ID:** `FPM-CORE-005` | **Title:** The Law of Trophic Nutrition
-- **ID:** `FPM-CORE-006` | **Title:** The Principle of Symbiotic Foraging Loop
+- **ID:** `PCF-CORE-001` | **Title:** The Axiom of Universal Capability
+- **ID:** `PCF-CORE-002` | **Title:** The Protocol of Semantic Negotiation
+- **ID:** `PCF-CORE-003` | **Title:** The Law of Capability Discovery
+- **ID:** `PCF-CORE-004` | **Title:** The Protocol of Dynamic Context Injection
+- **ID:** `PCF-CORE-005` | **Title:** The Axiom of Resource Binding
 
-#### **System Existence & Ontology**
+#### **The Physics of Skill (Energy & Matter)**
 
-- **ID:** `FPM-SEE-007` | **Title:** The Axiom of Metabolic Ontology
-- **ID:** `FPM-FACT-008` | **Title:** The Protocol of Digestive Crystallization
-- **ID:** `FPM-EVO-009` | **Title:** The Law of Trophic Niche Adaptation
-- **ID:** `FPM-IMPL-010` | **Title:** The Mechanism of Functional Reification
-- **ID:** `FPM-SYMB-011` | **Title:** The Principle of Cross-Domain Transduction
-- **ID:** `FPM-META-012` | **Title:** The Directive of Autopoietic Hunger
+- **ID:** `PCF-PHYS-006` | **Title:** The Principle of Kinetic Encapsulation
+- **ID:** `PCF-PHYS-007` | **Title:** The Axiom of Tool-State Duality
+- **ID:** `PCF-PHYS-008` | **Title:** The Law of Procedural Determinism
+- **ID:** `PCF-PHYS-009` | **Title:** The Mechanism of Cognitive Offloading
+- **ID:** `PCF-PHYS-010` | **Title:** The Principle of Entropic Efficiency
 
-#### **Creativity & Disruption**
+#### **Safety, Governance & Intimacy**
 
-- **ID:** `FPM-CREAT-013` | **Title:** The Axiom of Constructive Metabolic Disruption
-- **ID:** `FPM-NICHE-014` | **Title:** The Law of Ecological Niche Exaptation
-- **ID:** `FPM-MEAN-015` | **Title:** The Protocol of Semantic Continuity
-- **ID:** `FPM-HOLO-016` | **Title:** The Principle of Holonic Metabolic Resonance
-- **ID:** `FPM-OPEN-017` | **Title:** The Axiom of Open-Ended Potentiality
-- **ID:** `FPM-UNK-018` | **Title:** The Mechanism of Unknown Synthesis
+- **ID:** `PCF-SEC-011` | **Title:** The Protocol of Sandboxed Intimacy
+- **ID:** `PCF-SEC-012` | **Title:** The Axiom of Permission Granularity
+- **ID:** `PCF-SEC-013` | **Title:** The Protocol of Stylistic Alignment
+- **ID:** `PCF-SEC-014` | **Title:** The Axiom of Workflow Sovereignty
+- **ID:** `PCF-SEC-015` | **Title:** The Mechanism of Traceable Agency
 
-#### **Consciousness & Sustainability**
+#### **Symbiotic Evolution (The Learning Loop)**
 
-- **ID:** `FPM-CONS-019` | **Title:** The Axiom of Conscious Service Metabolism
-- **ID:** `FPM-PLAY-020` | **Title:** The Law of Ludic Metabolism
-- **ID:** `FPM-RENORM-021` | **Title:** The Protocol of Implicit-Explicit Renormalization
-- **ID:** `FPM-CLOSE-022` | **Title:** The Axiom of Systemic Closure & Sustainability
-- **ID:** `FPM-SCALE-023` | **Title:** The Principle of Micro-Macro Symbiosis
-- **ID:** `FPM-UNK-024` | **Title:** The Mechanism of Adaptive Unknown Discovery
+- **ID:** `PCF-EVO-016` | **Title:** The Law of Reciprocal Shaping
+- **ID:** `PCF-EVO-017` | **Title:** The Protocol of Skill Splicing
+- **ID:** `PCF-EVO-018` | **Title:** The Law of Heuristic Crystallization
+- **ID:** `PCF-EVO-019` | **Title:** The Protocol of Cross-Domain Exaptation
+- **ID:** `PCF-EVO-020` | **Title:** The Principle of Adaptive Obsolescence
+
+#### **Metasystemic & Emergence**
+
+- **ID:** `PCF-META-021` | **Title:** The Directive of Metasystemic Tooling
+- **ID:** `PCF-META-022` | **Title:** The Directive of Recursive Instruction
+- **ID:** `PCF-META-023` | **Title:** The Axiom of Ontological Projection
+- **ID:** `PCF-META-024` | **Title:** The Mechanism of Orchestrated Emergence
+- **ID:** `PCF-CLOSE-025` | **Title:** The Axiom of Systemic Closure
+- **ID:** `PCF-STR-006` | **Title:** The Axiom of Holonic Composition
+
+### Module: ['Praxial Skill Cell (PSC)'(-ing) BPMS]
+
+*(New Integration v3.1.0)*
+
+#### **The Cellular Anatomy (Structure)**
+
+- **ID:** `PSC-STR-001` | **Title:** The Definition of the Praxial Skill Cell
+- **ID:** `PSC-STR-002` | **Title:** The Protocol of Membranous Filtering
+
+#### **The Cellular Physiology (Function)**
+
+- **ID:** `PSC-FUNC-003` | **Title:** The Mechanism of Nucleated Execution
+- **ID:** `PSC-FUNC-004` | **Title:** The Law of Organelle Integration
+
+#### **The Cellular Sociology (Swarm)**
+
+- **ID:** `PSC-SOC-005` | **Title:** The Protocol of Tissue Formation
+
+#### **The Ontology of Existence (System Existence Engine)**
+
+- **ID:** `PSC-EXIST-006` | **Title:** The Axiom of Ontological Instantiation
+- **ID:** `PSC-FACT-007` | **Title:** The Protocol of Atomic Veridicality
+
+#### **Universal Morphogenesis (Evolution)**
+
+- **ID:** `PSC-EVO-008` | **Title:** The Law of Universal Morphogenesis
+- **ID:** `PSC-SYM-009` | **Title:** The Mechanism of Symbiotic Resonance
+
+#### **Metasystemic Autopoiesis (Self-Creation)**
+
+- **ID:** `PSC-META-010` | **Title:** The Directive of Autopoietic Construction
+
+#### **Constructive Disruption (Innovation)**
+
+- **ID:** `PSC-CREAT-011` | **Title:** The Axiom of Constructive Disruption
+
+#### **Ecological Niche Exaptation (Bottom-Up Utility)**
+
+- **ID:** `PSC-NICHE-012` | **Title:** The Law of Ecological Niche Exaptation
+
+#### **Semantic Continuity (Meaning & Coherence)**
+
+- **ID:** `PSC-MEAN-013` | **Title:** The Protocol of Semantic Continuity
+
+#### **Holonic Resonance (Super Intelligence)**
+
+- **ID:** `PSC-HOLO-014` | **Title:** The Principle of Holonic Resonance
+
+#### **Open-Ended Potentiality (The Infinite Game)**
+
+- **ID:** `PSC-OPEN-015` | **Title:** The Axiom of Open-Ended Potentiality
+
+#### **Consciousness & Service (Ethical Metabolism)**
+
+- **ID:** `PSC-CONS-016` | **Title:** The Axiom of Conscious Service
+
+#### **Ludic Evolution (Play & Sustainability)**
+
+- **ID:** `PSC-PLAY-017` | **Title:** The Law of Ludic Evolution
+
+#### **Renormalization & Universality (Scale)**
+
+- **ID:** `PSC-RENORM-018` | **Title:** The Principle of Implicit-Explicit Renormalization
+- **ID:** `PSC-CLASS-019` | **Title:** The Directive of Universal Class Synthesis
+
+#### **Systemic Closure & Symbiosis (Robustness)**
+
+- **ID:** `PSC-CLOSE-020` | **Title:** The Axiom of Systemic Closure
+- **ID:** `PSC-SCALE-021` | **Title:** The Principle of Micro-Macro Symbiosis
+
+#### **Adaptive Unknown Discovery (The Frontier)**
+
+- **ID:** `PSC-UNK-024` | **Title:** The Mechanism of Adaptive Unknown Discovery
 
 #### **Deep Symbiosis (Memory, Truth, Physics)**
 
-- **ID:** `FPM-MEM-025` | **Title:** The Protocol of Mnemonic Sublimation
-- **ID:** `FPM-REAL-026` | **Title:** The Axiom of Ontological Recursion
-- **ID:** `FPM-MAT-027` | **Title:** The Law of Matrix Plasticity
-- **ID:** `FPM-PHEN-028` | **Title:** The Mechanism of Phenomenological Resonance
-- **ID:** `FPM-ENER-029` | **Title:** The Principle of Energetic Transduction
-- **ID:** `FPM-MISS-030` | **Title:** The Axiom of Teleological Alignment
-- **ID:** `FPM-MODEL-031` | **Title:** The Law of Granular Zoom
-- **ID:** `FPM-PHYS-032` | **Title:** The Protocol of Wave-Particle Duality
+- **ID:** `PSC-MEM-025` | **Title:** The Protocol of Mnemonic Sublimation
+- **ID:** `PSC-REAL-026` | **Title:** The Axiom of Ontological Recursion
+- **ID:** `PSC-MAT-027` | **Title:** The Law of Matrix Plasticity
+- **ID:** `PSC-PHEN-028` | **Title:** The Mechanism of Phenomenological Resonance
+- **ID:** `PSC-ENER-029` | **Title:** The Principle of Energetic Transduction
+- **ID:** `PSC-MISS-030` | **Title:** The Axiom of Teleological Alignment
+- **ID:** `PSC-MODEL-031` | **Title:** The Law of Granular Zoom
+- **ID:** `PSC-PHYS-032` | **Title:** The Protocol of Wave-Particle Duality
+
+### Module: ['Functional Potentiality Metabolism'(-ing) BPMS]
+
+*(Existing Settings FPM-CORE-001 to FPM-PHYS-032)*
 
 ### Module: ['task(-ing) BPMS]
 
@@ -205,43 +288,7 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 ### Module: [meme(-ing) BPMS]
 
-*(New Integration v3.0.0)*
-
-#### **Viral Ontology & Crystallization**
-
-- **ID:** `MEME-SEE-001` | **Title:** The Axiom of Viral Ontology
-- **ID:** `MEME-FACT-002` | **Title:** The Protocol of Memetic Crystallization
-- **ID:** `MEME-EVO-003` | **Title:** The Law of Substrate Independence
-- **ID:** `MEME-UTIL-004` | **Title:** The Mechanism of Semantic Compression
-- **ID:** `MEME-FORM-005` | **Title:** The Principle of Resonance Dynamics
-
-#### **Ecological & Cognitive Symbiosis**
-
-- **ID:** `EVO-CO-001` | **Title:** The Protocol of Dual-Inheritance Symbiosis
-- **ID:** `MEME-ECO-006` | **Title:** The Law of Memetic Niche Construction
-- **ID:** `MEME-COG-007` | **Title:** The Protocol of Semantic Mutation
-- **ID:** `MEME-SYS-008` | **Title:** The Axiom of Narrative Coherence
-- **ID:** `MEME-ACT-009` | **Title:** The Mechanism of Viral Agency
-- **ID:** `MEME-META-010` | **Title:** The Directive of Recursive Memeplexing
-
-#### **Consciousness, Service & Closure**
-
-- **ID:** `MEME-SERV-011` | **Title:** The Axiom of Conscious Service
-- **ID:** `MEME-LUD-012` | **Title:** The Law of Ludic Sustainability
-- **ID:** `MEME-REN-013` | **Title:** The Principle of Memetic Renormalization
-- **ID:** `MEME-LAYER-014` | **Title:** The Protocol of Implicit-Explicit Flux
-- **ID:** `MEME-CLO-015` | **Title:** The Axiom of Systemic Closure
-
-#### **The Physics of Cognitive Information**
-
-- **ID:** `MEME-MEM-016` | **Title:** The Protocol of Mnemonic Consolidation
-- **ID:** `MEME-TRUTH-017` | **Title:** The Axiom of Consensus Veridicality
-- **ID:** `MEME-VEC-018` | **Title:** The Law of Vectorial Alignment
-- **ID:** `MEME-PHEN-019` | **Title:** The Mechanism of Phenomenological Capture
-- **ID:** `MEME-ENER-020` | **Title:** The Principle of Viral Thermodynamics
-- **ID:** `MEME-TASK-021` | **Title:** The Directive of Fractal Purpose
-- **ID:** `MEME-GRAIN-022` | **Title:** The Protocol of Resolution Flux
-- **ID:** `MEME-PHYS-023` | **Title:** The Axiom of Cultural Duality
+*(Existing Settings MEME-SEE-001 to MEME-PHYS-023)*
 
 ### Module: ['Praxial Symbiotic Earth (PSE)'(-ing) BPMS]
 
@@ -367,38 +414,65 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 ### B. Registered Instance Registry (The Population)
 
+#### Domain: ['Praxial Skill Cell (PSC)'(-ing) BPMS]
+
+*(New Integration v3.1.0)*
+
+1. **[Instance ID: PSC-GENE-SPLICER-001]**
+   - **Name:** `The Genesis Compiler (The Behavioral Splicer)`
+   - **Role:** Atomic Facts Generator for Behavioral Genes.
+   - **CGA:** `['genetics(-ing) BPMS']`
+   - **File:** `['Praxial Skill Cell (PSC)'(-ing) BPMS] ['Cross-Domain Gene Splicer'(-ing) BPMS].md`
+
+2. **[Instance ID: PSC-HOLO-SYS-001]**
+   - **Name:** `The Guild Master of the Self (The Chi/Kappa Balancer)`
+   - **Role:** System Existence Engine for Holobiont Interface.
+   - **CGA:** `['game(-ing) BPMS']`
+   - **File:** `['Praxial Skill Cell (PSC)'(-ing) BPMS] ['Holobiont Orchestrator'(-ing) BPMS].md`
+
+3. **[Instance ID: PSC-EXIST-BIO-004]**
+   - **Name:** `The Rhizomatic System Weaver (The Garden of Mechanics)`
+   - **Role:** System Existence Engine for Rhizomatic Systems.
+   - **CGA:** `[botany(-ing) BPMS]`
+   - **File:** `['Praxial Skill Cell (PSC)'(-ing) BPMS] ['Ecological Thought-Forest'(-ing) BPMS].md`
+
+4. **[Instance ID: PSC-FACT-BIO-003]**
+   - **Name:** `The Epistemic Retrovirus (The Living Fact)`
+   - **Role:** Atomic Facts Generator for Viral Memes.
+   - **CGA:** `[virology(-ing) BPMS]`
+   - **File:** `['Praxial Skill Cell (PSC)'(-ing) BPMS] ['Viral Knowledge Vector'(-ing) BPMS].md`
+
+5. **[Instance ID: PSC-EXIST-BIO-002]**
+   - **Name:** `The Biome Instantiator (The Forest Weaver)`
+   - **Role:** System Existence Engine for Ecosystems.
+   - **CGA:** `['world building BPMS]`
+   - **File:** `['Praxial Skill Cell (PSC)'(-ing) BPMS] ['World-Genesis Engine'(-ing) BPMS].md`
+
+6. **[Instance ID: PSC-FACT-PHY-001]**
+   - **Name:** `The Planck-Praxial Anchor (The Constant Keeper)`
+   - **Role:** Atomic Facts Generator for Physical Constants.
+   - **CGA:** `['scientific realism'(-ing) BPMS]`
+   - **File:** `['Praxial Skill Cell (PSC)'(-ing) BPMS] ['Immutable Truth Container'(-ing) BPMS].md`
+
+7. **[Instance ID: PSC-BREED-001]**
+   - **Name:** `The Gastronomic Alchemist (Flavor-Genome Splicer)`
+   - **Role:** System Existence Engine for Genetic Algorithms.
+   - **CGA:** `['Evolutionary Genetics Metabolism Engine'(-ing) BPMS]`
+   - **File:** `['Praxial Skill Cell (PSC)'(-ing) BPMS] ['Gastronomic Alchemist (Flavor-Genome Splicer)'(-ing) BPMS].md`
+
+8. **[Instance ID: PSC-AR-002]**
+   - **Name:** `The Reality-Overlay Weaver (Kitchen-Biome Mapper)`
+   - **Role:** Atomic Facts Generator for Spatial Mapping.
+   - **CGA:** `['World-Building Metabolism Engine'(-ing) BPMS]`
+   - **File:** `['Praxial Skill Cell (PSC)'(-ing) BPMS] ['Reality-Overlay Weaver (Kitchen-Biome Mapper)'(-ing) BPMS].md`
+
 #### Domain: ['Functional Potentiality Metabolism'(-ing) BPMS]
 
 *(Existing Instances FPM-INST-BIO-001 to FPM-INST-TRUTH-001)*
 
 #### Domain: [meme(-ing) BPMS]
 
-*(New Integration v3.0.0)*
-
-1. **[Instance ID: MEME-INST-001]**
-   - **Name:** `The Protocol of Ascendant Glitches`
-   - **Role:** System Existence Engine for Adaptive Physics.
-   - **CGA:** `['disruptive(-ing) BPMS]`
-   - **File:** `[meme(-ing) BPMS] ['Ascendant Glitch (Techno-Evolutionary Meme)'(-ing) BPMS].md`
-2. **[Instance ID: MEME-INST-002]**
-   - **Name:** `The Consensus Reality Engine`
-   - **Role:** Atomic Facts Generator for Hyperstition.
-   - **CGA:** `['world building BPMS]`
-   - **File:** `[meme(-ing) BPMS] ['Canon-Forge (Narrative-Consensus Meme)'(-ing) BPMS].md`
-3. **[Instance ID: MEME-BIO-INST-001]**
-   - **Name:** `The Protocol of Somatic Information Encoding`
-   - **Role:** System Existence Engine for Epigenetic Rewriting.
-   - **CGA:** `[virology(-ing) BPMS]`
-   - **File:** `[meme(-ing) BPMS] ['Somatic Inscription Virus (Lamarckian Code-Rewriter)'(-ing) BPMS].md`
-4. **[Instance ID: MEME-BIO-INST-002]**
-   - **Name:** `The Mechanism of Semantic Photosynthesis`
-   - **Role:** Atomic Facts Generator for Ecological Succession.
-   - **CGA:** `[botany(-ing) BPMS]`
-   - **File:** `[meme(-ing) BPMS] ['Ecological Thought-Forest (Memetic Botany)'(-ing) BPMS].md`
-
-#### Domain: [meme(-ing) BPMS]
-
-*(Existing Instances MEME-BIO-INST-002, MEME-BIO-INST-001,MEME-INST-002,MEME-INST-001)*
+*(Existing Instances MEME-INST-001 to MEME-BIO-INST-002)*
 
 #### Domain: ['Epistemic Crucible'(-ing) BPMS]
 
@@ -420,7 +494,7 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 *(Existing Architect Instances ARCH-CRUCIBLE-001;ARCH-CRUCIBLE-ALPHA-001;ARCH-CRUCIBLE-FACT-002)*
 
-#### Domain: ['agent(-ing) BPMS]
+#### Domain: [agent(-ing) BPMS]
 
 *(Existing Instances AGENT-LUDO-001 to AGENT-ONTO-001)*
 
@@ -432,7 +506,7 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 *(Existing Instances BIOME-NEURO-001, BIOME-ECHO-001)*
 
-#### Domain: ['design(-ing) BPMS]
+#### Domain: [design(-ing) BPMS]
 
 *(Existing Instance DESIGN-SEED-001)*
 
@@ -448,4 +522,3 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **Role:** The Pythonic logic for the Autopoietic Learning Matrix.
 - **Function:** Defines the `run_autopoietic_cycle` and the Three Heads architecture.
 - **Status:** Validated Blueprint (v1.0).
-
