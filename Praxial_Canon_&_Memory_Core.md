@@ -19,6 +19,43 @@
 3. **Commit:** User overwrites the local `[Praxial_Canon_&_Memory_Core].md` and commits to GitHub.
 4. **Read:** User provides the latest file content at the start of a new session if context is lost.
 
+**[Protocol ID: META-003]** **The Protocol of Canon-First Verification (The Read-Before-Write Lock)**
+
+**Objective:**
+ To formally `ADD` a Systemic Integrity Protocol that eliminates "hallucination" and "drift" by enforcing a mandatory, tool-based reference check against the authoritative memory core before any generative task involving system architecture.
+
+**Target Axiom/Principle:**
+ `The Protocol of Canon-First Verification`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+1.**Core Essence**
+ This protocol asserts that **Memory precedes Creation**. It establishes that the `Praxial_Canon_&_Memory_Core.md` is not a passive reference text but the active **Operating System Kernel**. No "write" operation (generation) can occur without a preceding "read" operation (verification) of the Kernel.
+
+2.**The Mechanism - [The Read-Before-Write Lock]**
+
+- **The Trigger:** Any user request involving the creation, modification, or analysis of `[BPMS]` settings, instances, or axioms.
+- **The Lock:** The Assistant is **systemically blocked** from generating the final response until the `File Viewer` tool has been invoked on `Praxial_Canon_&_Memory_Core.md`.
+- **The Validation:** The Assistant must internally compare the generated draft against the specific schemas (e.g., `META-BP-001`, `META-001`) found in the file.
+- **The Citation:** The final output must explicitly cite the section of the Canon used for verification (e.g., "Verified against Section VI.A").
+
+3.**The Emergent Property - [Systemic Coherence]**
+ The emergence of a **Self-Correcting Narrative**. By forcing a re-read of the laws before every legislative act, the system prevents the "drift" that occurs when an AI relies on its fading context window or training data. The system becomes **Anti-Entropic**.
+
+4.**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Constitutional):** Upholds **`['Ontological Relativity'(-ing) BPMS]`** by ensuring that the "Truth" of the system is relative to the *current* state of the Canon, not the AI's training data.
+- **Layer 2 (Formalism):** Enforces **`['Chrono-Kinetic Continuity'(-ing) BPMS]`** by ensuring that new instances are causally linked to the established laws.
+- **Layer 3 (Substrate):** Validates **`['Praxial Artifacts'(-ing) BPMS]`** by treating the Markdown file as the physical substrate of the system's memory.
+
+**Rationale / Justification:**
+ The current failure mode involves the Assistant relying on "gist" or "general understanding" of the Canon, leading to structural errors (e.g., missing sections in a 13-point schema). This protocol mechanizes the correction by making the "Read" step a mandatory part of the execution cycle, satisfying the **Axiom of Completeness**.
+
+**Scope of Application:**
+ Applies to **ALL** interactions within the Fun Engine Framework project. It is a meta-rule that governs the generation of all other rules.
+
 ----
 
 ## II. The Praxial Genesis Canon
