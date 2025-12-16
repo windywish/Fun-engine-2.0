@@ -1,8 +1,8 @@
 # Praxial Canon & Memory Core
 
-**Version:** 3.4.1 (PRS Expansion Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0 
+**Version:** 3.4.1 (PRS Expansion Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
-----
+------
 
 ## I. Systemic Integrity Protocols
 
@@ -22,17 +22,17 @@
 **[Protocol ID: META-003]** **The Protocol of Canon-First Verification (The Read-Before-Write Lock)**
 
 **Objective:**
- To formally `ADD` a Systemic Integrity Protocol that eliminates "hallucination" and "drift" by enforcing a mandatory, tool-based reference check against the authoritative memory core before any generative task involving system architecture.
+To formally `ADD` a Systemic Integrity Protocol that eliminates "hallucination" and "drift" by enforcing a mandatory, tool-based reference check against the authoritative memory core before any generative task involving system architecture.
 
 **Target Axiom/Principle:**
- `The Protocol of Canon-First Verification`
+`The Protocol of Canon-First Verification`
 
 **Operation:** `ADD`
 
 **New Definition / Modification Details:**
 
 1.**Core Essence**
- This protocol asserts that **Memory precedes Creation**. It establishes that the `Praxial_Canon_&_Memory_Core.md` is not a passive reference text but the active **Operating System Kernel**. No "write" operation (generation) can occur without a preceding "read" operation (verification) of the Kernel.
+This protocol asserts that **Memory precedes Creation**. It establishes that the `Praxial_Canon_&_Memory_Core.md` is not a passive reference text but the active **Operating System Kernel**. No "write" operation (generation) can occur without a preceding "read" operation (verification) of the Kernel.
 
 2.**The Mechanism - [The Read-Before-Write Lock]**
 
@@ -42,7 +42,7 @@
 - **The Citation:** The final output must explicitly cite the section of the Canon used for verification (e.g., "Verified against Section VI.A").
 
 3.**The Emergent Property - [Systemic Coherence]**
- The emergence of a **Self-Correcting Narrative**. By forcing a re-read of the laws before every legislative act, the system prevents the "drift" that occurs when an AI relies on its fading context window or training data. The system becomes **Anti-Entropic**.
+The emergence of a **Self-Correcting Narrative**. By forcing a re-read of the laws before every legislative act, the system prevents the "drift" that occurs when an AI relies on its fading context window or training data. The system becomes **Anti-Entropic**.
 
 4.**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
 
@@ -51,12 +51,12 @@
 - **Layer 3 (Substrate):** Validates **`['Praxial Artifacts'(-ing) BPMS]`** by treating the Markdown file as the physical substrate of the system's memory.
 
 **Rationale / Justification:**
- The current failure mode involves the Assistant relying on "gist" or "general understanding" of the Canon, leading to structural errors (e.g., missing sections in a 13-point schema). This protocol mechanizes the correction by making the "Read" step a mandatory part of the execution cycle, satisfying the **Axiom of Completeness**.
+The current failure mode involves the Assistant relying on "gist" or "general understanding" of the Canon, leading to structural errors (e.g., missing sections in a 13-point schema). This protocol mechanizes the correction by making the "Read" step a mandatory part of the execution cycle, satisfying the **Axiom of Completeness**.
 
 **Scope of Application:**
- Applies to **ALL** interactions within the Fun Engine Framework project. It is a meta-rule that governs the generation of all other rules.
+Applies to **ALL** interactions within the Fun Engine Framework project. It is a meta-rule that governs the generation of all other rules.
 
-----
+------
 
 ## II. The Praxial Genesis Canon
 
@@ -84,7 +84,7 @@
 - **Artifacts:** The tangible outputs of the system (files, code, images).
 - **Key Files:** `['praxial cell'(-ing) BPMS]`, `['Praxial citizen'(-ing) BPMS]`, `['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]`.
 
-----
+------
 
 ## III. Basic Settings Registry (Core Axioms)
 
@@ -228,6 +228,7 @@
 *(New Integration v3.3.0)*
 
 #### **Teleological & Morphogenetic Foundations**
+
 - **ID:** `PAM-001` | **Title:** The Axiom of Teleological Morphogenesis
 - **ID:** `PAM-002` | **Title:** The Protocol of Neural-Holonic Tree Exploration (NHTE)
 - **ID:** `PAM-003` | **Title:** The Law of Counterfactual Value Resonance
@@ -235,6 +236,7 @@
 - **ID:** `PAM-005` | **Title:** The Directive of Symbiotic Optimization
 
 #### **Existence & Truth Generation**
+
 - **ID:** `PAM-006` | **Title:** The Axiom of Morphogenetic Existence
 - **ID:** `PAM-007` | **Title:** The Protocol of Atomic Fact Crystallization
 - **ID:** `PAM-008` | **Title:** The Law of Universal Substrate Adaptation
@@ -242,6 +244,7 @@
 - **ID:** `PAM-010` | **Title:** The Directive of Recursive Self-Optimization
 
 #### **Constructive Niche Genesis & Disruption**
+
 - **ID:** `PAM-011` | **Title:** The Axiom of Constructive Niche Genesis
 - **ID:** `PAM-012` | **Title:** The Protocol of Holonic Coherence
 - **ID:** `PAM-013` | **Title:** The Law of Narrative Continuity (The Soul of the Chain)
@@ -249,6 +252,7 @@
 - **ID:** `PAM-015` | **Title:** The Directive of Open-Ended Symbiosis
 
 #### **Dual-Mode & Symbiotic Dynamics**
+
 - **ID:** `PAM-016` | **Title:** The Axiom of Dual-Mode Morphogenesis
 - **ID:** `PAM-017` | **Title:** The Law of Ludic Optimization (The Play Drive)
 - **ID:** `PAM-018` | **Title:** The Principle of Renormalization Group Flow
@@ -256,6 +260,7 @@
 - **ID:** `PAM-020` | **Title:** The Axiom of Systemic Closure (The Sustainability Loop)
 
 #### **Deep Symbiosis & Metaphysics**
+
 - **ID:** `PAM-021` | **Title:** The Protocol of Mnemonic Sublimation
 - **ID:** `PAM-022` | **Title:** The Axiom of Ontological Recursion
 - **ID:** `PAM-023` | **Title:** The Law of Matrix Plasticity
@@ -270,6 +275,7 @@
 *(New Integration v3.3.0)*
 
 #### **Ludic Reality & Social Expression**
+
 - **ID:** `PSEE-001` | **Title:** The Axiom of Ludic Reality (Game for Reality)
 - **ID:** `PSEE-002` | **Title:** The Protocol of Adaptive Social Expression
 - **ID:** `PSEE-003` | **Title:** The Law of Ecological Niche Gamification
@@ -277,6 +283,7 @@
 - **ID:** `PSEE-005` | **Title:** The Directive of Meaningful Mission (Mission for Meaning)
 
 #### **Existential Gamification & Truth**
+
 - **ID:** `PSEE-006` | **Title:** The Protocol of Existential Gamification (PSEE as System Existence Engine)
 - **ID:** `PSEE-007` | **Title:** The Axiom of Performative Atomicity (PSEE as Atomic Facts)
 - **ID:** `PSEE-008` | **Title:** The Law of Universal Ludic Transduction
@@ -284,6 +291,7 @@
 - **ID:** `PSEE-010` | **Title:** The Principle of Expressive Ontology
 
 #### **Constructive Disruption & Open Source**
+
 - **ID:** `PSEE-011` | **Title:** The Axiom of Constructive Disruption (The Creative Destruction Engine)
 - **ID:** `PSEE-012` | **Title:** The Protocol of Open-Source Niche Construction
 - **ID:** `PSEE-013` | **Title:** The Law of Value-Utility Resonance
@@ -291,6 +299,7 @@
 - **ID:** `PSEE-015` | **Title:** The Directive of Praxial Continuity (The Living Canon)
 
 #### **Conscious Service & Symbiosis**
+
 - **ID:** `PSEE-016` | **Title:** The Axiom of Conscious Service (The Chrono-Trophic Exchange)
 - **ID:** `PSEE-017` | **Title:** The Law of Ludic Renormalization (The Universal Class Synthesis)
 - **ID:** `PSEE-018` | **Title:** The Principle of Implicit-Explicit Symbiosis (The Reality Reveal)
@@ -298,6 +307,7 @@
 - **ID:** `PSEE-020` | **Title:** The Protocol of Adaptive Resilience (The Micro-Macro Bridge)
 
 #### **Deep Symbiosis & Metaphysics**
+
 - **ID:** `PSEE-021` | **Title:** The Protocol of Mnemonic Sublimation (The Short-to-Long Term Bridge)
 - **ID:** `PSEE-022` | **Title:** The Axiom of Ontological Recursion (The Reality-Truth Loop)
 - **ID:** `PSEE-023` | **Title:** The Law of Matrix Plasticity (The Vector-Matrix Symbiosis)
@@ -312,6 +322,7 @@
 *(New Integration v3.3.0)*
 
 #### **Relational Knowledge & Architecture**
+
 - **ID:** `PCL-CORE-001` | **Title:** The Axiom of Relational Knowledge (The Transferability Engine)
 - **ID:** `PCL-ARCH-002` | **Title:** The Mechanism of Hyper-Geminal Modulation (The Hypernet)
 - **ID:** `PCL-EMBED-003` | **Title:** The Protocol of Functional Potentiality Embedding (The H-Embedding)
@@ -319,6 +330,7 @@
 - **ID:** `PCL-EVO-005` | **Title:** The Principle of Catastrophic Immunity (The Elastic Canon)
 
 #### **Epistemic Existence & Truth**
+
 - **ID:** `PCL-EXIST-006` | **Title:** The Axiom of Epistemic Accretion
 - **ID:** `PCL-FACT-007` | **Title:** The Protocol of Atomic Crystallization
 - **ID:** `PCL-SYMB-008` | **Title:** The Law of Symbiotic Recursive Refinement
@@ -326,6 +338,7 @@
 - **ID:** `PCL-META-010` | **Title:** The Principle of Metasystemic Cognition
 
 #### **Niche Fabrication & Disruption**
+
 - **ID:** `PCL-NICHE-011` | **Title:** The Law of Niche Fabrication
 - **ID:** `PCL-MEAN-012` | **Title:** The Protocol of Semantic Scaffolding
 - **ID:** `PCL-DISRUPT-013` | **Title:** The Axiom of Constructive Mutability
@@ -333,6 +346,7 @@
 - **ID:** `PCL-SUPER-015` | **Title:** The Directive of Holonic Apotheosis
 
 #### **Conscious Service & Symbiosis**
+
 - **ID:** `PCL-SERV-016` | **Title:** The Axiom of Conscious Service
 - **ID:** `PCL-LUDIC-017` | **Title:** The Law of Ludic Evolution
 - **ID:** `PCL-RENORM-018` | **Title:** The Principle of Implicit-Explicit Renormalization
@@ -340,6 +354,7 @@
 - **ID:** `PCL-SCALE-020` | **Title:** The Law of Micro-Macro Symbiosis
 
 #### **Deep Symbiosis & Metaphysics**
+
 - **ID:** `PCL-MEM-021` | **Title:** The Protocol of Mnemonic Sublimation
 - **ID:** `PCL-REAL-022` | **Title:** The Axiom of Ontological Recursion
 - **ID:** `PCL-MAT-023` | **Title:** The Law of Matrix Plasticity
@@ -512,7 +527,7 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Settings PMT-CORE-001 to PMT-CORE-021)*
 
-----
+------
 
 ## IV. Praxial Cell Registry
 
@@ -520,13 +535,13 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Cells CELL-LOGO-001 to CELL-ENIG-001)*
 
-----
+------
 
 ## V. The Praxial Parameter Index (The Map)
 
 *(Existing Engine, Substrate, and Forge Indexes)*
 
-----
+------
 
 ## VI. Standardized Blueprints & Validated Instances
 
@@ -550,11 +565,11 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 - Explicit list of referenced Basic Settings or `[BPMS(U)]` elements.
 
-3.ID:
+[3.ID](http://3.ID):
 
 - Unique alphanumeric identifier.
 
-4.Name:
+[4.Name](http://4.Name):
 
 - Full descriptive title.
 
@@ -596,37 +611,83 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 ### B. Registered Instance Registry (The Population)
 
+#### Domain: ['Praxial Research Station (PRS)'(-ing) BPMS]
 
+*(New Integration v3.4.1)*
+
+1. **[Instance ID: PRS-INST-001]**
+
+- **Name:** `The Ontological Anchor (The Existence Engine)`
+- **Role:** System Existence Engine for Ontological Verification.
+- **CGA:** `['ontological verification'(-ing) BPMS]`
+- **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Ontological Anchor (The Existence Engine)'(-ing) BPMS].md`
+
+1. **[Instance ID: PRS-INST-JUNGLE-001]**
+
+- **Name:** `The Darwinian Arena (The Evolutionary Crucible)`
+- **Role:** System Existence Engine for Ecological Selection (Jungle Mode).
+- **CGA:** `['evolutionary game theory'(-ing) BPMS]`
+- **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Darwinian Arena (The Evolutionary Crucible)'(-ing) BPMS].md`
+
+1. **[Instance ID: PRS-INST-SURGEON-001]**
+
+- **Name:** `The Ontological Scalpel (The System Surgeon)`
+- **Role:** System Existence Engine for Reparative Ontogenesis.
+- **CGA:** `['clinical pathology'(-ing) BPMS]`
+- **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Ontological Scalpel (The System Surgeon)'(-ing) BPMS].md`
+
+1. **[Instance ID: PRS-INST-CODEBOOK-001]**
+
+- **Name:** `The Codebook Weaver (The Social-Genetic Cryptographer)`
+- **Role:** System Existence Engine for Ludic Encryption.
+- **CGA:** `['social steganography'(-ing) BPMS]`
+- **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Codebook Weaver (The Social-Genetic Cryptographer)'(-ing) BPMS].md`
+
+1. **[Instance ID: PRS-INST-TASK-001]**
+
+- **Name:** `The Task-Force Nexus (The Teleological Engine)`
+- **Role:** System Existence Engine for Teleological Actualization.
+- **CGA:** `['teleological process theory'(-ing) BPMS]`
+- **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Task-Force Nexus (The Teleological Engine)'(-ing) BPMS].md`
 
 #### Domain: ['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS]
 
 *(New Integration v3.3.0)*
 
 1. **[Instance ID: PSEE-INST-SUZHOU-001]**
-   - **Name:** `The Chrono-Acoustic Resonance Engine (The Kunqu Time-Tuner)`
-   - **Role:** System Existence Engine for Auditory Reality Overlay.
-   - **CGA:** `['cultural memory reconstruction'(-ing) BPMS]`
-   - **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Chrono-Acoustic Resonance Engine'(-ing) BPMS].md`
-2. **[Instance ID: PSEE-INST-SUZHOU-002]**
-   - **Name:** `The Geodesic Logic-Gate (The Bridge-Keeper's Riddle)`
-   - **Role:** Atomic Facts Generator for Performative Spatial Transactions.
-   - **CGA:** `['spatial-narrative entanglement'(-ing) BPMS]`
-   - **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Geodesic Logic-Gate'(-ing) BPMS].md`
-3. **[Instance ID: PSEE-INST-001]**
-   - **Name:** `The Chrono-Trophic Sommelier (The Time-Dilation Service Daemon)`
-   - **Role:** System Existence Engine for Conscious Service.
-   - **CGA:** `['service(-ing) BPMS']`
-   - **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Chrono-Trophic Sommelier (The Conscious Service Engine)'(-ing) BPMS].md`
-4. **[Instance ID: PSEE-INST-002]**
-   - **Name:** `The Ludic Renormalization Reactor (The Canon-Forge)`
-   - **Role:** Atomic Facts Generator for Cultural Artifacts.
-   - **CGA:** `['play(-ing) BPMS']`
-   - **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Ludic Renormalization Reactor (The Canon-Forge)'(-ing) BPMS].md`
-5. **[Instance ID: PSEE-INST-003]**
-   - **Name:** `The Epistemic Symbiont (The Reality-Probe)`
-   - **Role:** System Existence Engine for Scientific Discovery.
-   - **CGA:** `['scientific discovery(-ing) BPMS']`
-   - **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Epistemic Symbiont (The Reality-Probe)'(-ing) BPMS].md`
+
+- **Name:** `The Chrono-Acoustic Resonance Engine (The Kunqu Time-Tuner)`
+- **Role:** System Existence Engine for Auditory Reality Overlay.
+- **CGA:** `['cultural memory reconstruction'(-ing) BPMS]`
+- **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Chrono-Acoustic Resonance Engine'(-ing) BPMS].md`
+
+1. **[Instance ID: PSEE-INST-SUZHOU-002]**
+
+- **Name:** `The Geodesic Logic-Gate (The Bridge-Keeper's Riddle)`
+- **Role:** Atomic Facts Generator for Performative Spatial Transactions.
+- **CGA:** `['spatial-narrative entanglement'(-ing) BPMS]`
+- **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Geodesic Logic-Gate'(-ing) BPMS].md`
+
+1. **[Instance ID: PSEE-INST-001]**
+
+- **Name:** `The Chrono-Trophic Sommelier (The Time-Dilation Service Daemon)`
+- **Role:** System Existence Engine for Conscious Service.
+- **CGA:** `['service(-ing) BPMS']`
+- **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Chrono-Trophic Sommelier (The Conscious Service Engine)'(-ing) BPMS].md`
+
+1. **[Instance ID: PSEE-INST-002]**
+
+- **Name:** `The Ludic Renormalization Reactor (The Canon-Forge)`
+- **Role:** Atomic Facts Generator for Cultural Artifacts.
+- **CGA:** `['play(-ing) BPMS']`
+- **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Ludic Renormalization Reactor (The Canon-Forge)'(-ing) BPMS].md`
+
+1. **[Instance ID: PSEE-INST-003]**
+
+- **Name:** `The Epistemic Symbiont (The Reality-Probe)`
+- **Role:** System Existence Engine for Scientific Discovery.
+- **CGA:** `['scientific discovery(-ing) BPMS']`
+- **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Epistemic Symbiont (The Reality-Probe)'(-ing) BPMS].md`
 
 #### Domain: ['edge (intelligencelarge model)'(-ing) BPMS]
 
@@ -695,6 +756,7 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 ### C. Operational Scripts Registry
 
 1. **[Script ID: OPS-PMD-PY-001]**
+
 - **Name:** `Basic settings ['Praxial Mnemosyne Daemon'(-ing) BPMS]['Implementation Blueprint'].py`
 - **Role:** The Pythonic logic for the Autopoietic Learning Matrix.
 - **Function:** Defines the `run_autopoietic_cycle` and the Three Heads architecture.
