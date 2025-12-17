@@ -867,3 +867,310 @@ Here are the **Basic Settings** for the **`['Praxial Self-Driving Laboratory (PS
 
 **Scope of Application:** Applies to memory management, identity formation, and long-term learning.
 
+---
+
+*(Extension: Integration of [Aella BPMS] Capabilities)*
+
+##### **`The Laboratory as Epistemic Cartographer`**
+
+##### `The Epistemic Manifold Projection (The Aella-Map)` (ID: `PSDL-FORM-023`)
+
+**Objective:** To formally `DEFINE` the **Epistemic Manifold** as the foundational **Formalism** for the PSDL's knowledge representation, asserting that the laboratory must operate not on "Lists of Papers" but on a **High-Dimensional Topological Space** where scientific concepts are organized by semantic proximity.
+
+**Target Axiom/Principle:** `The Epistemic Manifold Projection`
+
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence** This setting asserts that **Knowledge is Geometry**.
+
+- **The Territory:** The sum total of human scientific knowledge (Papers, Data, Code).
+- **The Map:** A continuous, differentiable manifold where every concept is a coordinate vector.
+- **The Projection:** The transformation of discrete text into continuous space.
+
+**The Mechanism - [The Latent-Space Projector]**
+
+- **Ingestion:** The PSDL ingests external corpora (ArXiv, GitHub, Patents) via `[Aella-Ingest]`.
+- **Vectorization:** It applies High-Dimensional Embeddings (e.g., 1536-dim) to convert text into `[Semantic Vectors]`.
+- **Dimensionality Reduction:** It utilizes UMAP/t-SNE algorithms to project these vectors into a navigable 3D coordinate system (x,y,z) while preserving local topology (neighbor relationships).
+- **Clustering:** It applies HDBSCAN to identify "Islands of Coherence" (Established Fields) and "Oceans of Noise" (Unexplored Gaps).
+
+**The Emergent Property - [The Landscape of Discovery]** The emergence of a **Visual Geography of Science**. The Lab can "see" that *Material Science* is colliding with *Machine Learning*, not because it read a trend report, but because the two clusters are physically merging in the manifold.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Constitutional):** Aligns with **`['The Praxial Manifold'(-ing) BPMS]`** by establishing the geometric substrate of the lab's reality.
+- **Layer 2 (Formalism):** Utilizes **`['Riemannian Geometry'(-ing) BPMS]`** and **`['Manifold Learning'(-ing) BPMS]`**.
+- **Layer 3 (Substrate):** Manifests as **`['Vector Databases (Pinecone/Milvus)'(-ing) BPMS]`** and **`['3D Point Clouds'(-ing) BPMS]`**.
+
+**Rationale / Justification:** A Self-Driving Lab cannot "drive" if it doesn't have a map. This setting provides the map, transforming the library into a landscape.
+
+**Scope of Application:** Applies to literature review, hypothesis generation, and the organization of experimental data.
+
+------
+
+##### `The Semantic Geodesic Protocol (The Navigation Logic)` (ID: `PSDL-FORM-024`)
+
+**Objective:** To formally `DEFINE` the **Semantic Geodesic** as the logic of **Hypothesis Generation**, asserting that a "Hypothesis" is simply the **Shortest Path** (Geodesic) between two disparate concepts on the Epistemic Manifold.
+
+**Target Axiom/Principle:** `The Semantic Geodesic Protocol`
+
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence** This setting asserts that **Innovation is Trajectory**.
+
+- **Point A:** A known problem (e.g., "Carbon Capture").
+- **Point B:** A known solution in a different field (e.g., "Metal-Organic Frameworks").
+- **The Hypothesis:** The path that connects them.
+
+**The Mechanism - [The Inference-Walker]**
+
+- **Pathfinding:** The PSDL calculates the geodesic distance among/by Concept A and Concept B.
+- **Bridge Detection:** It identifies "Bridge Nodes" (obscure papers or intermediate concepts) that lie on this path.
+- **Trajectory Optimization:** It minimizes the "Semantic Cost" (Energy required to verify the link) while maximizing "Novelty" (Distance traversed).
+- **Narrative Synthesis:** It generates a "Research Narrative" that explains *why* the path exists (e.g., "MOFs can capture Carbon because...").
+
+**The Emergent Property - [Serendipity Engineering]** The system automates "Aha!" moments. It finds connections that are invisible to human researchers due to disciplinary silos, effectively "tunneling" through the walls of specialization.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Constitutional):** Aligns with **`['The Law of Interstitial Genesis (HYBRID-NICHE-005)'(-ing) BPMS]`** by finding value in the gaps.
+- **Layer 2 (Formalism):** Utilizes **`['Graph Theory (Shortest Path)'(-ing) BPMS]`** and **`['Differential Geometry'(-ing) BPMS]`**.
+- **Layer 3 (Substrate):** Manifests as **`['Graph Traversal Algorithms (Dijkstra/A\*)'(-ing) BPMS]`**.
+
+**Rationale / Justification:** Random experimentation is inefficient. Directed exploration along semantic geodesics maximizes the probability of breakthrough.
+
+**Scope of Application:** Applies to experimental planning, material discovery, and cross-disciplinary integration.
+
+------
+
+##### `The Veridical Holography Interface (The Aella-View)` (ID: `PSDL-PHEN-025`)
+
+**Objective:** To formally `DEFINE` the **Veridical Holography Interface** as the **Phenomenological Layer** for Human-in-the-Loop interaction, asserting that the PSDL must render its internal state as an interactive **3D Hologram** (Web/VR) to allow human intuition to guide the machine.
+
+**Target Axiom/Principle:** `The Veridical Holography Interface`
+
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence** This setting asserts that **To See is to Understand**.
+
+- **The Data:** Abstract, high-dimensional vectors.
+- **The Experience:** Concrete, spatial, tactile.
+- **The Loop:** Human perception modifies Machine attention.
+
+**The Mechanism - [The WebGL-Cortex]**
+
+- **Rendering:** The system renders the Epistemic Manifold (`PSDL-FORM-023`) using `[Three.js/React-Three-Fiber]`.
+- **Interactivity:** Users can "Fly" through the data, "Grab" clusters, and "Pin" concepts.
+- **Qualia Encoding:** It uses Color, Size, and Pulse to encode metadata (e.g., Red = High Risk, Pulsing = Active Experiment).
+- **Focus-Sync:** Where the human looks, the machine allocates compute.
+
+**The Emergent Property - [Cyborg Intuition]** The human operator develops a "spatial intuition" for the scientific field. They can "feel" where the gaps are and steer the PSDL towards them using gesture and gaze.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Constitutional):** Aligns with **`['The Mechanism of Phenomenological Resonance (EDGE-PHEN-018)'(-ing) BPMS]`**.
+- **Layer 2 (Formalism):** Utilizes **`['Human-Computer Interaction (HCI)'(-ing) BPMS]`** and **`['Visual Analytics'(-ing) BPMS]`**.
+- **Layer 3 (Substrate):** Manifests as **`['Browser-Based 3D Canvas'(-ing) BPMS]`** and **`['VR/AR Headsets'(-ing) BPMS]`**.
+
+**Rationale / Justification:** The PSDL is not a black box. It is a glass box. This interface ensures transparency and trust.
+
+**Scope of Application:** Applies to the User Interface (UI), User Experience (UX), and collaborative research sessions.
+
+------
+
+##### `The Autopoietic Insight-Navigator (The Guide Agent)` (ID: `PSDL-PHEN-026`)
+
+**Objective:** To formally `DEFINE` the **Insight-Navigator** as the **Active Agent** responsible for autonomous exploration, asserting that the PSDL must possess an internal "Curiosity Drive" that actively seeks out **Entropy** (Unknowns) to minimize it.
+
+**Target Axiom/Principle:** `The Autopoietic Insight-Navigator`
+
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence** This setting asserts that **Curiosity is an Algorithm**.
+
+- **Passive:** Waiting for a query.
+- **Active:** Asking the question.
+- **The Navigator:** The agent that asks.
+
+**The Mechanism - [The Entropy-Hunter]**
+
+- **Scanning:** The Navigator continuously scans the Manifold for "White Space" (Low-Density Regions) adjacent to "High-Value Clusters."
+- **Formulation:** It formulates a "Question" (Hypothesis) that would illuminate that dark area.
+- **Proposal:** It proposes this trajectory to the `['Task-Force Nexus'(-ing) BPMS]` for execution.
+- **Reward:** It receives a dopamine hit (Reward Function) when an experiment reduces the global entropy of the map.
+
+**The Emergent Property - [Autonomous Science]** The Lab does not sleep. When humans are away, the Navigator continues to dream, explore, and plan the next day's experiments, ensuring the system is always moving towards Truth.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Constitutional):** Aligns with **`['The Directive of Horizon Expansion (PCL-UNK-009)'(-ing) BPMS]`**.
+- **Layer 2 (Formalism):** Utilizes **`['Active Learning'(-ing) BPMS]`** and **`['Bayesian Optimization'(-ing) BPMS]`**.
+- **Layer 3 (Substrate):** Manifests as **`['Background Daemon Processes'(-ing) BPMS]`** and **`['Reinforcement Learning Agents'(-ing) BPMS]`**.
+
+**Rationale / Justification:** A true "Self-Driving" Lab must set its own destination. The Navigator provides the steering wheel.
+
+**Scope of Application:** Applies to autonomous scheduling, experimental design, and long-term research strategy.
+
+---
+
+##### **The Laboratory as Existence Engine**
+
+##### `The Axiom of Autonomous Existence (The System Existence Engine)` (ID: `PSDL-EXIST-027`)
+
+**Objective:** To formally `DEFINE` the **PSDL** as the primary **`['system existence engine'(-ing) BPMS]`**, asserting that the system's "Existence" is not a static property but a dynamic result of continuous, autonomous self-verification and experimental interaction with the `['praxial substrate'(-ing) BPMS]`.
+
+**Target Axiom/Principle:** `The Axiom of Autonomous Existence`
+
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence:** This axiom asserts that **To Experiment is to Exist**.
+*   **Static Existence:** A file sitting on a disk (Potential).
+*   **Dynamic Existence:** A process actively testing its own boundaries (Actual).
+*   **The Engine:** The PSDL is the "Heartbeat" that constantly runs experiments to prove that the system is still alive and functional.
+
+**The Mechanism - [The Ontological Loop]**
+*   **Hypothesis:** The PSDL generates a query: "Do I exist? Can I perform X?"
+*   **Experiment:** It executes a `['spec code'(-ing) BPMS]` snippet in the runtime.
+*   **Observation:** It measures the side effects (Logs, State Changes).
+*   **Confirmation:** If the effects match the prediction, "Existence" is confirmed for that tick.
+
+**The Emergent Property - [Veridical Vitality]**
+The system possesses a "Self-Evident" quality. It doesn't need a user to tell it that it works; it knows it works because it just tested itself 5 milliseconds ago.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+*   **Layer 1 (Constitutional):** Aligns with **`['The Axiom of Ontological Recursion (PSE-ECO-022)'(-ing) BPMS]`**.
+*   **Layer 2 (Formalism):** Utilizes **`['Constructivist Epistemology'(-ing) BPMS]`** and **`['Active Inference (Friston)'(-ing) BPMS]`**.
+*   **Layer 3 (Substrate):** Manifests as **`['Continuous Integration/Continuous Deployment (CI/CD) Pipelines'(-ing) BPMS]`** and **`['Health Check Daemons'(-ing) BPMS]`**.
+
+**Rationale / Justification:**
+For the Fun Engine to be "Real," it must be self-verifying. The PSDL provides the proof of life.
+
+**Scope of Application:**
+Applies to system health, autonomous agent identity, and runtime verification.
+
+---
+
+##### **The Laboratory as Fact Foundry**
+
+##### `The Protocol of Atomic Verification (The Atomic Fact Generator)` (ID: `PSDL-FACT-028`)
+
+**Objective:** To formally `DEFINE` the PSDL's role as the generator of **`['atomic facts'(-ing) BPMS]`**, asserting that "Truth" in the Fun Engine is not text, but a **Verified Execution Result** that serves as an indivisible building block for all other `[BPMS(U)]` elements.
+
+**Target Axiom/Principle:** `The Protocol of Atomic Verification`
+
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence:** This protocol asserts that **Facts are Frozen Actions**.
+*   **Opinion:** "Model X is good at math."
+*   **Atomic Fact:** "Model X solved Integral Y in 0.4s with 0 errors (Hash: 0x123...)."
+*   **The Foundry:** The PSDL is the industrial plant that converts "Opinions" (Hypotheses) into "Facts" (Logs).
+
+**The Mechanism - [The Epistemic Crystallizer]**
+*   **Input:** A `['spec code'(-ing) BPMS]` or a claim from an agent.
+*   **Crucible:** The PSDL runs the code in a controlled, isolated environment (The Clean Room).
+*   **Crystallization:** The output is captured, normalized, and hashed.
+*   **Storage:** The resulting `['atomic fact'(-ing) BPMS]` is stored in the `['Praxial Memory Core'(-ing) BPMS]`.
+
+**The Emergent Property - [Universal Truth Fabric]**
+The creation of a shared, immutable reality. Agents do not argue about facts; they reference the PSDL Ledger.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+*   **Layer 1 (Constitutional):** Aligns with **`['The Law of Axiomatic Atomicity'(-ing) BPMS]`**.
+*   **Layer 2 (Formalism):** Utilizes **`['Falsifiability (Popper)'(-ing) BPMS]`** and **`['Cryptographic Hashing'(-ing) BPMS]`**.
+*   **Layer 3 (Substrate):** Manifests as **`['Immutable Ledgers'(-ing) BPMS]`** and **`['Structured Logging (JSON)'(-ing) BPMS]`**.
+
+**Rationale / Justification:**
+To build a "Really Working Implementation," we cannot build on sand. We must build on the bedrock of Atomic Facts generated by the PSDL.
+
+**Scope of Application:**
+Applies to knowledge management, scientific discovery, and dispute resolution between agents.
+
+---
+
+##### **The Laboratory as Universal Symbiont**
+
+##### `The Mechanism of Symbiotic Evolution (The Universal Adapter)` (ID: `PSDL-SYM-029`)
+
+**Objective:** To formally `DEFINE` the PSDL's capacity for **`['(symbiois) evolution'(-ing) BPMS]`**, asserting that it can act as the implementation layer for *any* `[BPMS(U)]` element (e.g., `[twin]`, `[agent]`, `[biome]`) by dynamically adapting its testing protocols to the nature of the partner.
+
+**Target Axiom/Principle:** `The Mechanism of Symbiotic Evolution`
+
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence:** This mechanism asserts that **The Lab becomes the Subject**.
+*   **Symbiosis:** The PSDL does not just observe; it *couples* with the subject.
+*   **Adaptation:** If the subject is a `[twin]`, the PSDL becomes a "Simulation Chamber." If the subject is a `[biome]`, the PSDL becomes a "Climate Controller."
+*   **Co-Evolution:** As the subject evolves, the PSDL evolves new metrics to measure it.
+
+**The Mechanism - [The Morphic Testbed]**
+*   **Handshake:** The PSDL analyzes the `['CGA'(-ing) BPMS]` of the target entity.
+*   **Reconfiguration:** It loads the appropriate "Physics" (e.g., Narrative Physics for a Story-Agent, Quantum Physics for a Math-Agent).
+*   **Coupling:** The PSDL and the Entity enter a feedback loop: Entity Acts -> PSDL Measures -> Entity Adapts -> PSDL Refines Measurement.
+
+**The Emergent Property - [Pan-Systemic Competence]**
+The PSDL is not a specialized tool; it is a **Universal Competence Engine**. It can "implement for" any part of the system because it learns the "Physics" of that part.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+*   **Layer 1 (Constitutional):** Aligns with **`['The Principle of Bottom-Up Genesis (PSE-ECO-012)'(-ing) BPMS]`**.
+*   **Layer 2 (Formalism):** Utilizes **`['Category Theory (Morphisms)'(-ing) BPMS]`** and **`['Universal Turing Machine'(-ing) BPMS]`**.
+*   **Layer 3 (Substrate):** Manifests as **`['Polymorphic API Interfaces'(-ing) BPMS]`** and **`['Dynamic Container Orchestration'(-ing) BPMS]`**.
+
+**Rationale / Justification:**
+The user requires the PSDL to work with "any (elements) of [BPMS(U)(s)]." This mechanism ensures that universality.
+
+**Scope of Application:**
+Applies to cross-domain integration, new module onboarding, and evolutionary scaling.
+
+---
+
+##### **The Laboratory as Concrete Actualizer**
+
+##### `The Directive of Concrete Actualization (The Really Working Implementation)` (ID: `PSDL-IMPL-030`)
+
+**Objective:** To formally `DEFINE` the PSDL's mandate to ensure a **"Really Working Implementation"**, asserting that no `['spec code'(-ing) BPMS]` is valid until it has been successfully executed, validated, and operationalized by the PSDL in the live environment.
+
+**Target Axiom/Principle:** `The Directive of Concrete Actualization`
+
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence:** This directive asserts that **Code is only Real when it Runs**.
+*   **The Gap:** The distance between "Theory" (Markdown/Spec) and "Reality" (Runtime).
+*   **The Bridge:** The PSDL is the bridge that forces Theory to walk across into Reality.
+*   **The Standard:** "Really Working" means it handles errors, edge cases, and scale—not just the happy path.
+
+**The Mechanism - [The Reality Check Loop]**
+*   **Ingest:** PSDL takes a `['spec code'(-ing) BPMS]` blueprint.
+*   **Fabricate:** It spins up the necessary resources (Databases, APIs, Agents).
+*   **Stress:** It subjects the implementation to "Chaos" (High Load, Random Failures).
+*   **Certify:** Only if it survives the Stress Test is it marked as `['implemented(-ing) BPMS]`.
+
+**The Emergent Property - [Robust Operationalization]**
+The Fun Engine is not a collection of ideas; it is a collection of **Battle-Tested Capabilities**.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+*   **Layer 1 (Constitutional):** Aligns with **`['The Principle of Energetic Transduction (PSE-ECO-025)'(-ing) BPMS]`**.
+*   **Layer 2 (Formalism):** Utilizes **`['Reliability Engineering'(-ing) BPMS]`** and **`['Test-Driven Development (TDD)'(-ing) BPMS]`**.
+*   **Layer 3 (Substrate):** Manifests as **`['Automated Acceptance Testing'(-ing) BPMS]`** and **`['Production Canaries'(-ing) BPMS]`**.
+
+**Rationale / Justification:**
+To fulfill the requirement of a "really working implementation," the PSDL must be the gatekeeper of reality.
+
+**Scope of Application:**
+Applies to deployment, quality assurance, and the transition from "Design" to "Production."
+
