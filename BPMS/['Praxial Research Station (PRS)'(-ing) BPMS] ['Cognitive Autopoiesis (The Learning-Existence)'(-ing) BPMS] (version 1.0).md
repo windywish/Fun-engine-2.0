@@ -12,7 +12,7 @@ It functions as a **[system existence engine BPMS]** by treating "Knowledge" as 
 *   **PRS-PHYS-038 (Wave-Particle Duality):** Treats knowledge as both a "Field" (Context) and a "Particle" (Fact).
 
 ##### Identity Matrix
-*   **ID:** `PRS-INST-LEARN-003`
+*   **ID:** `PRS-INST-LEARN-004`
 *   **Name:** `['Cognitive Autopoiesis (The Learning-Existence)'(-ing) BPMS]`
 *   **CGA (Cognitive Genesis Archetype):** `['Hot-Swappable Ontology Compiler'(-ing) BPMS]`
 *   **Type:** `[system existence engine BPMS]:['Runtime_Self_Patching'(-ing) BPMS]`

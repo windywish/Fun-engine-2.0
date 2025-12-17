@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** 3.4.1 (PRS Expansion Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** 3.4.2 (PRS Instance Expansion Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 ------
 
@@ -622,33 +622,70 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **CGA:** `['ontological verification'(-ing) BPMS]`
 - **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Ontological Anchor (The Existence Engine)'(-ing) BPMS].md`
 
-1. **[Instance ID: PRS-INST-JUNGLE-001]**
+2.**[Instance ID: PRS-INST-JUNGLE-001]**
 
 - **Name:** `The Darwinian Arena (The Evolutionary Crucible)`
 - **Role:** System Existence Engine for Ecological Selection (Jungle Mode).
 - **CGA:** `['evolutionary game theory'(-ing) BPMS]`
 - **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Darwinian Arena (The Evolutionary Crucible)'(-ing) BPMS].md`
 
-1. **[Instance ID: PRS-INST-SURGEON-001]**
+3.**[Instance ID: PRS-INST-JUNGLE-002]**
+
+- **Name:** `The Darwinian Arena (The Evolutionary Crucible)`
+- **Role:** System Existence Engine for Ecological Selection (Jungle Mode).
+- **CGA:** `['evolutionary game theory'(-ing) BPMS]`
+- **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Darwinian Arena (The Evolutionary Crucible)'(-ing) BPMS] (version 1.0).md`
+
+4.**[Instance ID: PRS-INST-SURGEON-001]**
 
 - **Name:** `The Ontological Scalpel (The System Surgeon)`
 - **Role:** System Existence Engine for Reparative Ontogenesis.
 - **CGA:** `['clinical pathology'(-ing) BPMS]`
 - **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Ontological Scalpel (The System Surgeon)'(-ing) BPMS].md`
 
-1. **[Instance ID: PRS-INST-CODEBOOK-001]**
+5.**[Instance ID: PRS-INST-CODEBOOK-001]**
 
 - **Name:** `The Codebook Weaver (The Social-Genetic Cryptographer)`
 - **Role:** System Existence Engine for Ludic Encryption.
 - **CGA:** `['social steganography'(-ing) BPMS]`
 - **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Codebook Weaver (The Social-Genetic Cryptographer)'(-ing) BPMS].md`
 
-1. **[Instance ID: PRS-INST-TASK-001]**
+6.**[Instance ID: PRS-INST-TASK-001]**
 
 - **Name:** `The Task-Force Nexus (The Teleological Engine)`
 - **Role:** System Existence Engine for Teleological Actualization.
 - **CGA:** `['teleological process theory'(-ing) BPMS]`
 - **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Task-Force Nexus (The Teleological Engine)'(-ing) BPMS].md`
+
+7.**[Instance ID: PRS-INST-RACE-002]**
+
+- **Name:** `The Apex Optimizer (The Velocity Vector)`
+- **Role:** System Existence Engine for High-Velocity Adaptation.
+- **CGA:** `['dynamic trajectory planning'(-ing) BPMS]`
+- **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Apex Optimizer (The Velocity Vector)'(-ing) BPMS].md`
+
+8.**[Instance ID: PRS-INST-LEARN-003]**
+
+- **Name:** `Cognitive Autopoiesis (The Learning-Existence)`
+- **Role:** System Existence Engine for Ontological Expansion.
+- **CGA:** `['recursive self-modification'(-ing) BPMS]`
+- **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Cognitive Autopoiesis (The Learning-Existence)'(-ing) BPMS].md`
+
+9.**[Instance ID: PRS-INST-LEARN-004]**
+
+- **Name:** `Cognitive Autopoiesis (The Learning-Existence)`
+- **Role:** System Existence Engine for Ontological Expansion.
+- **CGA:** `['recursive self-modification'(-ing) BPMS]`
+- **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Cognitive Autopoiesis (The Learning-Existence)'(-ing) BPMS](version 1.0).md`
+
+10.**[Instance ID: PRS-INST-EDU-003]**
+
+- **Name:** `The Scholastic Rhizome (The Learning-Web)`
+- **Role:** System Existence Engine for Epistemic Morphogenesis.
+- **CGA:** `['heutagogy'(-ing) BPMS]`
+- **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Scholastic Rhizome (The Learning-Web)'(-ing) BPMS].md`
+
+['Praxial Research Station (PRS)'(-ing) BPMS] ['Cognitive Autopoiesis (The Learning-Existence)'(-ing) BPMS] (version 1.0)
 
 #### Domain: ['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS]
 
