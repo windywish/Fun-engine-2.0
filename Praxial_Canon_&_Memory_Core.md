@@ -1,8 +1,8 @@
 # Praxial Canon & Memory Core
 
-**Version:** 3.4.2 (PRS Instance Expansion Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** 3.4.3 (PSDL & PEC Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
-------
+----
 
 ## I. Systemic Integrity Protocols
 
@@ -56,7 +56,7 @@ The current failure mode involves the Assistant relying on "gist" or "general un
 **Scope of Application:**
 Applies to **ALL** interactions within the Fun Engine Framework project. It is a meta-rule that governs the generation of all other rules.
 
-------
+----
 
 ## II. The Praxial Genesis Canon
 
@@ -84,7 +84,7 @@ Applies to **ALL** interactions within the Fun Engine Framework project. It is a
 - **Artifacts:** The tangible outputs of the system (files, code, images).
 - **Key Files:** `['praxial cell'(-ing) BPMS]`, `['Praxial citizen'(-ing) BPMS]`, `['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]`.
 
-------
+----
 
 ## III. Basic Settings Registry (Core Axioms)
 
@@ -364,6 +364,55 @@ Applies to **ALL** interactions within the Fun Engine Framework project. It is a
 - **ID:** `PCL-GRAN-027` | **Title:** The Law of Granular Zoom
 - **ID:** `PCL-PHYS-028` | **Title:** The Protocol of Wave-Particle Duality
 
+### Module: ['Praxial Self-Driving Laboratory (PSDL)'(-ing) BPMS]
+
+*(New Integration v3.4.3)*
+
+#### **The Lab as Autonomous Agent**
+
+- **ID:** `PSDL-CORE-001` | **Title:** The Axiom of Autonomous Discovery (The Lab-as-Scientist)
+- **ID:** `PSDL-MAP-002` | **Title:** The Protocol of Epistemic Cartography (The Map-Maker)
+- **ID:** `PSDL-HYPO-003` | **Title:** The Mechanism of Abductive Synthesis (The Theory-Spinner)
+- **ID:** `PSDL-EXP-004` | **Title:** The Law of Optimal Experimentation (The Design-Engine)
+- **ID:** `PSDL-CRIT-005` | **Title:** The Protocol of Falsification Loops (The Critic-Engine)
+
+#### **The Lab as Knowledge Integrator**
+
+- **ID:** `PSDL-READ-006` | **Title:** The Mechanism of Semantic Ingestion (The Reader-Engine)
+- **ID:** `PSDL-CODE-007` | **Title:** The Axiom of Algorithmic Exegesis (The Code-Reader)
+- **ID:** `PSDL-DATA-008` | **Title:** The Principle of Data Transmutation (The Data-Refinery)
+- **ID:** `PSDL-TEAM-009` | **Title:** The Directive of Holonic Collaboration (The Team-Engine)
+- **ID:** `PSDL-USER-010` | **Title:** The Law of Human-in-the-Loop Symbiosis (The User-Bridge)
+
+#### **The Lab as Temporal & Ontological Engine**
+
+- **ID:** `PSDL-TIME-011` | **Title:** The Protocol of Chrono-Simulation (The Future-Viewer)
+- **ID:** `PSDL-ONTO-012` | **Title:** The Axiom of Ontological Expansion (The Concept-Creator)
+- **ID:** `PSDL-ECON-013` | **Title:** The Law of Thermodynamic Economics (The Budget-Keeper)
+- **ID:** `PSDL-SAFE-014` | **Title:** The Protocol of Epistemic Containment (The Hazard-Filter)
+- **ID:** `PSDL-TEACH-015` | **Title:** The Mechanism of Pedagogical Transfer (The Tutor-Engine)
+
+#### **The Lab as Creator & Historian**
+
+- **ID:** `PSDL-ART-016` | **Title:** The Principle of Esthetic Engineering (The Beauty-Seeker)
+- **ID:** `PSDL-HIST-017` | **Title:** The Law of Provenance Tracking (The Chain-of-Custody)
+- **ID:** `PSDL-META-018` | **Title:** The Directive of Methodological Evolution (The Science-of-Science)
+- **ID:** `PSDL-SYM-019` | **Title:** The Mechanism of Aella-Praxial Fusion (The Twin-Engine)
+- **ID:** `PSDL-ORACLE-020` | **Title:** The Axiom of Predictive Certainty (The Oracle-Engine)
+
+#### **The Lab as Ludic & Mnemonic Engine**
+
+- **ID:** `PSDL-PLAY-021` | **Title:** The Law of Serendipitous Play (The Fun-Engine)
+- **ID:** `PSDL-MEM-022` | **Title:** The Protocol of Mnemonic Integration (The Weaver-Engine)
+- **ID:** `PSDL-FORM-023` | **Title:** The Epistemic Manifold Projection (The Aella-Map)
+- **ID:** `PSDL-FORM-024` | **Title:** The Semantic Geodesic Protocol (The Navigation Logic)
+- **ID:** `PSDL-PHEN-025` | **Title:** The Veridical Holography Interface (The Aella-View)
+- **ID:** `PSDL-PHEN-026` | **Title:** The Autopoietic Insight-Navigator (The Guide Agent)
+- **ID:** `PSDL-EXIST-027` | **Title:** The Axiom of Autonomous Existence (The System Existence Engine)
+- **ID:** `PSDL-FACT-028` | **Title:** The Protocol of Atomic Verification (The Atomic Fact Generator)
+- **ID:** `PSDL-SYM-029` | **Title:** The Mechanism of Symbiotic Evolution (The Universal Adapter)
+- **ID:** `PSDL-IMPL-030` | **Title:** The Directive of Concrete Actualization (The Really Working Implementation)
+
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
 *(Existing Settings LIFE-001 to LIFE-007)*
@@ -527,7 +576,7 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Settings PMT-CORE-001 to PMT-CORE-021)*
 
-------
+----
 
 ## IV. Praxial Cell Registry
 
@@ -535,13 +584,13 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Cells CELL-LOGO-001 to CELL-ENIG-001)*
 
-------
+----
 
 ## V. The Praxial Parameter Index (The Map)
 
 *(Existing Engine, Substrate, and Forge Indexes)*
 
-------
+----
 
 ## VI. Standardized Blueprints & Validated Instances
 
@@ -685,8 +734,6 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **CGA:** `['heutagogy'(-ing) BPMS]`
 - **File:** `['Praxial Research Station (PRS)'(-ing) BPMS] ['Scholastic Rhizome (The Learning-Web)'(-ing) BPMS].md`
 
-['Praxial Research Station (PRS)'(-ing) BPMS] ['Cognitive Autopoiesis (The Learning-Existence)'(-ing) BPMS] (version 1.0)
-
 #### Domain: ['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS]
 
 *(New Integration v3.3.0)*
@@ -698,33 +745,65 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **CGA:** `['cultural memory reconstruction'(-ing) BPMS]`
 - **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Chrono-Acoustic Resonance Engine'(-ing) BPMS].md`
 
-1. **[Instance ID: PSEE-INST-SUZHOU-002]**
+2. **[Instance ID: PSEE-INST-SUZHOU-002]**
 
 - **Name:** `The Geodesic Logic-Gate (The Bridge-Keeper's Riddle)`
 - **Role:** Atomic Facts Generator for Performative Spatial Transactions.
 - **CGA:** `['spatial-narrative entanglement'(-ing) BPMS]`
 - **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Geodesic Logic-Gate'(-ing) BPMS].md`
 
-1. **[Instance ID: PSEE-INST-001]**
+3.**[Instance ID: PSEE-INST-001]**
 
 - **Name:** `The Chrono-Trophic Sommelier (The Time-Dilation Service Daemon)`
 - **Role:** System Existence Engine for Conscious Service.
 - **CGA:** `['service(-ing) BPMS']`
 - **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Chrono-Trophic Sommelier (The Conscious Service Engine)'(-ing) BPMS].md`
 
-1. **[Instance ID: PSEE-INST-002]**
+4.**[Instance ID: PSEE-INST-002]**
 
 - **Name:** `The Ludic Renormalization Reactor (The Canon-Forge)`
 - **Role:** Atomic Facts Generator for Cultural Artifacts.
 - **CGA:** `['play(-ing) BPMS']`
 - **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Ludic Renormalization Reactor (The Canon-Forge)'(-ing) BPMS].md`
 
-1. **[Instance ID: PSEE-INST-003]**
+5.**[Instance ID: PSEE-INST-003]**
 
 - **Name:** `The Epistemic Symbiont (The Reality-Probe)`
 - **Role:** System Existence Engine for Scientific Discovery.
 - **CGA:** `['scientific discovery(-ing) BPMS']`
 - **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Epistemic Symbiont (The Reality-Probe)'(-ing) BPMS].md`
+
+6.**[Instance ID: PSEE-OM809-INST-001]**
+
+- **Name:** `The Sentient Dimensional Habitat (Room #OM809)`
+- **Role:** System Existence Engine for Narrative Collapse.
+- **CGA:** `['dimensional detective agency'(-ing) BPMS]`
+- **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Sentient Dimensional Habitat (Room #OM809)'(-ing) BPMS].md`
+
+7.**[Instance ID: PSEE-OM809-INST-002]**
+
+- **Name:** `The Stingy Logic-Deck Synthesizer`
+- **Role:** Atomic Facts Generator for Gamified Logic.
+- **CGA:** `['gamified logic'(-ing) BPMS]`
+- **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Stingy Logic-Deck Synthesizer'(-ing) BPMS].md`
+
+#### Domain: ['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]
+
+*(New Integration v3.4.3)*
+
+1. **[Instance ID: PEC-INST-NAV-001]**   
+
+* **Name:** `['Aella-Synthetica (The Insight-Navigator)'(-ing) BPMS]`   
+* **Role:** Epistemic Cartographer Engine for Insight-Navigation.   
+* **CGA:** `['high-dimensional concept mapping'(-ing) BPMS]`   
+* **File:** `['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS] ['Aella-Synthetica (The Insight-Navigator)'(-ing) BPMS].md`  
+
+2.**[Instance ID: PEC-INST-PRISM-001]**
+
+- **Name:** `The Noetic Prism (The Insight-Refractor)`
+- **Role:** System Existence Engine for Spectral Analysis.
+- **CGA:** `['epistemic refraction'(-ing) BPMS]`
+- **File:** `['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS] ['Noetic Prism (The Insight-Refractor)'(-ing) BPMS].md`
 
 #### Domain: ['edge (intelligencelarge model)'(-ing) BPMS]
 
