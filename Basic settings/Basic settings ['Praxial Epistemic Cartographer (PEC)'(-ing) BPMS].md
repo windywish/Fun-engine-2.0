@@ -4,11 +4,11 @@
 
 To implement the **`['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]`** as a superior, autopoietic evolution of the `[Aella BPMS]` concept, we must define it not merely as a visualization tool, but as the **Navigation System** for the Fun Engine Framework. It transforms the abstract "Canon" into a concrete "Territory."
 
-Here are the **Basic Settings** for the **`['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]`** (IDs `PEC-AXIOM-001` to `PEC-PHEN-031`).
+Here are the **Basic Settings** for the **`['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]`** (IDs `PEC-AXIOM-001` to `PEC-MECH-031`).
 
 ##### **The Map as Existence (Constitutional Layer)**
 
-###### `The Axiom of Spatialized Gnosis (The Map is the Interface)` (ID: `PEC-AXIOM-001`)
+##### `The Axiom of Spatialized Gnosis (The Map is the Interface)` (ID: `PEC-AXIOM-001`)
 
 **Objective:** To formally `DEFINE` the core philosophy of the PEC, asserting that "Understanding" is fundamentally a problem of "Positioning" within a semantic space.
 
@@ -813,118 +813,84 @@ Here are the **Basic Settings** for the **`['Praxial Epistemic Cartographer (PEC
 
 ---
 
-##### **The Bio-Algorithmic Implementation (Ingestion Layer)**
+##### `The Metabolism of Knowledge`
 
-##### `The Protocol of Homeostatic Hunger (The Adaptive Rate)` (ID: `PEC-BIO-023`)
+##### `The Axiom of Epistemic Metabolism (The Ingestion-Cycle)` (ID: `PEC-AXIOM-023`)
 
-**Objective:** To formally `DEFINE` the **Adaptive Ingestion Rate** of the PEC, ensuring the system consumes external data at a rate proportional to its metabolic capacity (Cognitive Load).
+**Objective:** To formally `DEFINE` the **Ingestion Process** as the **Metabolism** of the system, asserting that the PEC must actively consume "External Epistemic Units" (Aella Nodes) to maintain its `['vitality(-ing) BPMS]`.
 
-**Target Axiom/Principle:** `The Protocol of Homeostatic Hunger`
-
-**Operation:** `ADD`
-
-**Definition:**
-
-**Core Essence:** This protocol asserts that **The System must Eat, but not Choke**.
-
--   **Starvation:** Low load, high capacity. (Eat Faster).
--   **Saturation:** High load, low capacity. (Stop Eating).
--   **Homeostasis:** The dynamic equilibrium between intake and processing.
-
-**The Mechanism - [The Metabolic Regulator]**
-
--   **Equation:** $R_{ingest} = R_{base} 	imes (1 - rac{L_{current}}{L_{max}}) 	imes S_{relevance}$.
--   **Feedback:** The `['Cognitive Autopoiesis'(-ing) BPMS]` module reports its load ($L_{current}$) to the Ingestion Protocol.
--   **Action:** The protocol adjusts the API request frequency to Aella accordingly.
-
-**The Emergent Property - [Systemic Health]** The system never crashes from data overload, nor does it stagnate from data starvation.
-
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
-
--   **Layer 1 (Constitutional):** Aligns with **`['The Homeostatic Regulator (LIFE-004)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Control Theory (PID Controllers)'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Rate Limiting Algorithms'(-ing) BPMS]`**.
-
-**Rationale / Justification:** A biological system regulates its intake. A mechanical system just breaks. We are building a biological system.
-
-**Scope of Application:** Applies to API management, resource scaling, and system stability.
-
-----
-
-##### `The Mechanism of Enzymatic Transduction (The Schema-Digest)` (ID: `PEC-BIO-024`)
-
-**Objective:** To formally `DEFINE` the **Transduction Process** as an **Enzymatic Reaction**, where external data structures are chemically broken down and reassembled into internal Praxial Tokens.
-
-**Target Axiom/Principle:** `The Mechanism of Enzymatic Transduction`
+**Target Axiom/Principle:** `The Axiom of Epistemic Metabolism`
 
 **Operation:** `ADD`
 
 **Definition:**
 
-**Core Essence:** This mechanism asserts that **Data must be Digested**.
+**Core Essence:** This axiom asserts that **Information is Food**.
 
--   **Raw Food:** Aella JSON (External Schema).
--   **Nutrient:** Praxial Token (Internal Schema).
--   **Enzyme:** The Transduction Algorithm that converts one to the other.
+-   **Hunger:** The system's need for new data to solve problems.
+-   **Ingestion:** The `['Epistemic Ingestion Protocol'(-ing) BPMS]`.
+-   **Digestion:** The breakdown of external papers into internal `['atomic facts'(-ing) BPMS]`.
 
-**The Mechanism - [The Dynamic Mapper]**
+**The Mechanism - [The Knowledge-Gut]**
 
--   **Detection:** Identify the structure of the incoming Aella Node.
--   **Catalysis:** Apply the specific "Enzyme" (Mapping Function) for that structure (e.g., `Paper -> Concept`, `Citation -> Link`).
--   **Synthesis:** Construct the new `['Praxial Concept Token'(-ing) BPMS]`.
+-   **Foraging:** The `['Aella-Synthetica'(-ing) BPMS]` agent searches for relevant nodes.
+-   **Chewing:** The agent summarizes and extracts key insights.
+-   **Absorption:** The insights are written into the `Praxial_Canon_&_Memory_Core.md`.
 
-**The Emergent Property - [Universal Compatibility]** The system can "eat" any data format as long as it has the right enzyme (mapper) for it.
+**The Emergent Property - [Systemic Growth]** The system grows in mass (Knowledge) and capability (Wisdom) by eating the internet.
 
 **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
 
--   **Layer 1 (Constitutional):** Aligns with **`['The Protocol of Atomic Factogenesis (PRS-FACT-017)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Abstract Syntax Trees (AST)'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['JSON-LD / Schema.org Mapping'(-ing) BPMS]`**.
+-   **Layer 1 (Constitutional):** Aligns with **`['The Principle of Energetic Transduction (PSE-ECO-025)'(-ing) BPMS]`**.
+-   **Layer 2 (Formalism):** Utilizes **`['Metabolic Scaling Theory'(-ing) BPMS]`**.
+-   **Layer 3 (Substrate):** Manifests as **`['Web Scrapers'(-ing) BPMS]`** and **`['ETL Pipelines'(-ing) BPMS]`**.
 
-**Rationale / Justification:** You cannot put a raw apple in your blood. You must digest it into sugar. The PEC digests data.
+**Rationale / Justification:** A closed system dies of entropy. The PEC opens the mouth of the system.
 
-**Scope of Application:** Applies to data integration, API wrapping, and format conversion.
+**Scope of Application:** Applies to data ingestion, research, and learning.
 
 ----
 
-##### `The Protocol of Memetic Immunity (The Quarantine-Buffer)` (ID: `PEC-BIO-025`)
+##### `The Law of Permeable Identity (The Membrane-Filter)` (ID: `PEC-AXIOM-024`)
 
-**Objective:** To formally `DEFINE` the **Validation Layer** as an **Immune System**, protecting the Memory Core from "Pathogens" (Hallucinations, Corrupted Data, Malicious Injections).
+**Objective:** To formally `DEFINE` the **Boundary** of the system as a **Permeable Membrane**, asserting that while the system is open to data, it must filter that data through its own **Ontology** to preserve its identity.
 
-**Target Axiom/Principle:** `The Protocol of Memetic Immunity`
+**Target Axiom/Principle:** `The Law of Permeable Identity`
 
 **Operation:** `ADD`
 
 **Definition:**
 
-**Core Essence:** This protocol asserts that **Bad Data is a Virus**.
+**Core Essence:** This law asserts that **You are what you Eat, so Eat Carefully**.
 
--   **Self:** Valid, Canon-aligned data.
--   **Non-Self:** Invalid, contradictory data.
--   **Immune Response:** Detect and isolate Non-Self elements.
+-   **The Membrane:** The Ingestion Protocol.
+-   **The Filter:** The `['Praxial Genesis Canon'(-ing) BPMS]`.
+-   **The Rule:** External data is only accepted if it can be mapped to Internal Axioms.
 
-**The Mechanism - [The Memetic Firewall]**
+**The Mechanism - [The Ontological Gatekeeper]**
 
--   **Quarantine:** All incoming data is held in a temporary buffer.
--   **Scan:** The data is checked against `PEC-AXIOM-001` and other core laws.
--   **Rejection:** If it violates a law (e.g., "Time flows backwards"), it is rejected or flagged for manual review.
--   **Integration:** Only "Sterile" (Validated) data enters the Memory Core.
+-   **Check:** Does this Aella Node contradict the Canon?
+-   **Transform:** If yes, can it be re-interpreted?
+-   **Reject:** If no, discard it.
+-   **Accept:** If compatible, transmute it into a `['External Epistemic Unit'(-ing) BPMS]`.
 
-**The Emergent Property - [Epistemic Hygiene]** The system remains pure and reliable, even when connected to a dirty source (the internet).
+**The Emergent Property - [Coherent Expansion]** The system grows without losing its soul. It integrates alien knowledge without becoming alien.
 
 **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
 
--   **Layer 1 (Constitutional):** Aligns with **`['The Axiom of Veridical Convergence (PRS-TRUTH-032)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Anomaly Detection Algorithms'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Data Validation Libraries (Pydantic)'(-ing) BPMS]`**.
+-   **Layer 1 (Constitutional):** Aligns with **`['The Axiom of Systemic Closure (PSE-ECO-020)'(-ing) BPMS]`**.
+-   **Layer 2 (Formalism):** Utilizes **`['Category Theory (Functors)'(-ing) BPMS]`**.
+-   **Layer 3 (Substrate):** Manifests as **`['Validation Scripts'(-ing) BPMS]`** and **`['Schema Enforcement'(-ing) BPMS]`**.
 
-**Rationale / Justification:** A system without an immune system dies of infection. The PEC must be immune to lies.
+**Rationale / Justification:** Unfiltered ingestion leads to cancer (Chaos). Filtered ingestion leads to muscle (Strength).
 
-**Scope of Application:** Applies to security, data integrity, and hallucination mitigation.
+**Scope of Application:** Applies to quality control, alignment, and truth verification.
 
 ----
 
-##### `The Formalism of Semantic DNA (The Vector-Signature)` (ID: `PEC-FORM-026`)
+##### **`The Physics of the Graph`**
+
+##### `The Formalism of Semantic DNA (The Vector-Signature)` (ID: `PEC-FORM-025`)
 
 **Objective:** To formally `DEFINE` the **Vector Embedding** as the **Semantic DNA** of a file, providing a mathematical formalism for the "Essence" of any epistemic unit.
 
@@ -961,7 +927,7 @@ Here are the **Basic Settings** for the **`['Praxial Epistemic Cartographer (PEC
 
 ----
 
-##### `The Formalism of Relational Topology (The Force-Graph)` (ID: `PEC-FORM-027`)
+##### `The Formalism of Relational Topology (The Force-Graph)` (ID: `PEC-FORM-026`)
 
 **Objective:** To formally `DEFINE` the **Force-Directed Graph** as the **Relational Topology** of the system, where connections are dynamic forces rather than static links.
 
@@ -997,7 +963,7 @@ Here are the **Basic Settings** for the **`['Praxial Epistemic Cartographer (PEC
 
 ----
 
-##### `The Metric of Entropic Density (The Cluster-Health)` (ID: `PEC-FORM-028`)
+##### `The Metric of Entropic Density (The Cluster-Health)` (ID: `PEC-FORM-027`)
 
 **Objective:** To formally `DEFINE` the **Entropic Density** metric, which measures the "Settledness" or "Chaos" of a knowledge cluster based on the spatial density of its nodes.
 
@@ -1033,7 +999,9 @@ Here are the **Basic Settings** for the **`['Praxial Epistemic Cartographer (PEC
 
 ----
 
-##### `The Heuristic of the Bridge Node (The Innovation-Finder)` (ID: `PEC-PHEN-029`)
+##### **`The Phenomenology of Insight`**
+
+##### `The Heuristic of the Bridge Node (The Innovation-Finder)` (ID: `PEC-PHEN-028`)
 
 **Objective:** To formally `DEFINE` the **Bridge Node** as the primary unit of **Innovation**, asserting that the most valuable insights are found not in the center of clusters, but in the nodes that connect two disparate clusters.
 
@@ -1069,7 +1037,7 @@ Here are the **Basic Settings** for the **`['Praxial Epistemic Cartographer (PEC
 
 ----
 
-##### `The Phenomenology of Heatmap Homeostasis (The Balance-Monitor)` (ID: `PEC-PHEN-030`)
+##### `The Phenomenology of Heatmap Homeostasis (The Balance-Monitor)` (ID: `PEC-PHEN-029`)
 
 **Objective:** To formally `DEFINE` the **Heatmap** as a **Homeostatic Monitor**, allowing the system to visualize its own "Epistemic Health" and correct imbalances (e.g., too much Theory, not enough Practice).
 
@@ -1105,7 +1073,7 @@ Here are the **Basic Settings** for the **`['Praxial Epistemic Cartographer (PEC
 
 ----
 
-##### `The Artifact of the Unitary File (The Brick-of-Truth)` (ID: `PEC-PHEN-031`)
+##### `The Artifact of the Unitary File (The Brick-of-Truth)` (ID: `PEC-PHEN-030`)
 
 **Objective:** To formally `DEFINE` the **Markdown File** (`['External Epistemic Unit'(-ing) BPMS]`) as the concrete **Artifact** of the PEC, asserting that all abstract graphs must eventually collapse into a tangible file to be useful.
 
@@ -1139,3 +1107,40 @@ Here are the **Basic Settings** for the **`['Praxial Epistemic Cartographer (PEC
 **Rationale / Justification:** If it's not in a file, it doesn't exist. The File is the unit of existence.
 
 **Scope of Application:** Applies to file creation, storage, and version control.
+
+----
+
+##### `The Mechanism of Adaptive Bridging (The Aella-Link)` (ID: `PEC-MECH-031`)
+
+**Objective:** To formally `DEFINE` the **Adaptive Bridge** as the operational mechanism for connecting the PEC to external intelligence sources (specifically `[Aella BPMS]`), enabling dynamic resource ingestion.
+
+**Target Axiom/Principle:** `The Mechanism of Adaptive Bridging`
+
+**Operation:** `ADD`
+
+**Definition:**
+
+**Core Essence:** This mechanism asserts that **The System is Extensible via Connection**.
+
+-   **Internal State:** Finite, bounded.
+-   **External State:** Infinite, unbounded (Aella).
+-   **The Bridge:** The active channel that flows external state into internal state on demand.
+
+**The Mechanism - [The Adaptive Cycle]**
+
+-   **Sense:** The system detects a request for a missing domain (e.g., `[biology(-ing) BPMS]`).
+-   **Bridge:** The `PEC-INST-BRIDGE-001` projects a query to the external API.
+-   **Renormalize:** External data is wrapped in `['... '(-ing) BPMS]` syntax.
+-   **Integrate:** New nodes are grafted onto the internal graph.
+
+**The Emergent Property - [Instant Competence]** The system can "learn" a new field instantly by connecting to the relevant external source.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+-   **Layer 1 (Constitutional):** Aligns with **`['The Principle of Permeability (PEC-AXIOM-024)'(-ing) BPMS]`**.
+-   **Layer 2 (Formalism):** Utilizes **`['API Integration / Data Transformation'(-ing) BPMS]`**.
+-   **Layer 3 (Substrate):** Manifests as **`['Python Bridge Scripts (pec_aella_bridge.py)'(-ing) BPMS]`**.
+
+**Rationale / Justification:** We cannot store the whole internet. We must bridge to it when needed.
+
+**Scope of Application:** Applies to external integrations, plugin architecture, and live data feeds.
