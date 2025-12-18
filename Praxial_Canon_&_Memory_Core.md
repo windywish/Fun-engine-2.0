@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** 3.4.3 (PSDL & PEC Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** 3.4.4 (PDR & PEC Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 ----
 
@@ -222,6 +222,112 @@ Applies to **ALL** interactions within the Fun Engine Framework project. It is a
 - **`PRS-TOPO-041` The Principle of Cognitive Spatiality:** Space shapes Mind. The PRS uses spatial topology to organize cognition.
 - **`PRS-CHRO-042` The Law of Discrete Chronology:** Time is a Currency. The PRS manages the "Praxial Tick" economy.
 - **`PRS-BIO-043` The Mechanism of Autopoietic Vitalism:** The System wants to Live. The PRS is a living, self-repairing symbiote.
+
+### Module: ['Praxial Deep Research (PDR)'(-ing) BPMS]
+
+*(New Integration v3.4.4)*
+
+#### **Constitutional & Metaphysical Foundations (Layer 1)**
+
+- **ID:** `PDR-AXIOM-001` | **Title:** The Axiom of Deep Existence (Research as Ontology)
+- **ID:** `PDR-FACT-002` | **Title:** The Protocol of Atomic Fact Mining (The Truth-Quarry)
+- **ID:** `PDR-UNK-003` | **Title:** The Directive of Horizon Expansion (The Unknown-Eater)
+- **ID:** `PDR-METHOD-004` | **Title:** The Law of Recursive Inquiry (The Fractal Drill)
+- **ID:** `PDR-SYM-005` | **Title:** The Mechanism of Symbiotic Hypothesis Generation (The Co-Pilot)
+- **ID:** `PDR-NAV-006` | **Title:** The Protocol of Epistemic Cartography (The Map-Maker)
+- **ID:** `PDR-CRIT-007` | **Title:** The Law of Constructive Falsification (The Stress-Systemic Integrity)
+- **ID:** `PDR-PHEN-008` | **Title:** The Mechanism of Phenomenological Resonance (The "Aha!" Engine)
+- **ID:** `PDR-TOOL-009` | **Title:** The Protocol of Tool-Use Symbiosis (The Exocortex)
+- **ID:** `PDR-MEM-010` | **Title:** The Protocol of Mnemonic Sublimation (The Research Archive)
+- **ID:** `PDR-LUDO-011` | **Title:** The Law of Ludic Discovery (The Treasure Hunt)
+- **ID:** `PDR-IMPL-012` | **Title:** The Directive of Concrete Actualization (The Really Working Implementation)
+- **ID:** `PDR-AUTO-013` | **Title:** The Axiom of Autopoietic Research (The Self-Driving Lab)
+- **ID:** `PDR-ETHIC-014` | **Title:** The Protocol of Epistemic Hygiene (The Anti-Virus)
+- **ID:** `PDR-COLLAB-015` | **Title:** The Directive of Holonic Collaboration (The Team-Player)
+- **ID:** `PDR-TIME-016` | **Title:** The Law of Chrono-Trophic Relevance (The Freshness Seal)
+- **ID:** `PDR-SCALE-017` | **Title:** The Principle of Renormalization Zoom (The Microscope-Telescope)
+- **ID:** `PDR-VAL-018` | **Title:** The Axiom of Value-Centric Research (The Gold-Panner)
+- **ID:** `PDR-META-019` | **Title:** The Directive of Metasystemic Reflection (The Mirror)
+- **ID:** `PDR-EXIST-020` | **Title:** The Axiom of Ontological Verification (The Reality Check)
+
+#### **Advanced Implementation & Symbiosis (Layer 3 Expansion)**
+
+- **ID:** `PDR-EXIST-021` | **Title:** The Axiom of Deep Ontological Genesis
+- **ID:** `PDR-FACT-022` | **Title:** The Protocol of Atomic Veridicality
+- **ID:** `PDR-SYM-023` | **Title:** The Law of Symbiotic Co-Evolution
+- **ID:** `PDR-IMPL-024` | **Title:** The Directive of Pragmatic Actualization
+- **ID:** `PDR-ECO-025` | **Title:** The Principle of Epistemic Niche Construction
+- **ID:** `PDR-HOLON-026` | **Title:** The Protocol of Recursive Holonic Synthesis
+- **ID:** `PDR-CHAOS-027` | **Title:** The Law of Constructive Entropy (The Phoenix Protocol)
+- **ID:** `PDR-SUBSTRATE-028` | **Title:** The Axiom of Substrate Sedimentation
+- **ID:** `PDR-MEANING-029` | **Title:** The Directive of Teleological Resonance
+- **ID:** `PDR-SCALE-030` | **Title:** The Principle of Epistemic Renormalization
+- **ID:** `PDR-EVO-031` | **Title:** The Law of Dual-Mode Chrono-Evolution
+- **ID:** `PDR-LUDO-032` | **Title:** The Directive of Ludic Service
+- **ID:** `PDR-LAYER-033` | **Title:** The Axiom of Implicit-Explicit Closure
+- **ID:** `PDR-CLASS-034` | **Title:** The Protocol of Universality Classification
+- **ID:** `PDR-MEM-035` | **Title:** The Protocol of Mnemonic Consolidation
+- **ID:** `PDR-TRUTH-036` | **Title:** The Axiom of Veridical Convergence
+- **ID:** `PDR-VEC-037` | **Title:** The Law of State-Space Navigation
+- **ID:** `PDR-QUALIA-038` | **Title:** The Principle of Phenomenological Transduction
+- **ID:** `PDR-ENERGY-039` | **Title:** The Directive of Lagrangian Optimization
+- **ID:** `PDR-TELOS-040` | **Title:** The Protocol of Fractal Teleology
+- **ID:** `PDR-RES-041` | **Title:** The Law of Multi-Scale Fidelity
+- **ID:** `PDR-FIELD-042` | **Title:** The Axiom of Corpuscular-Field Duality
+
+
+### Module: ['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]
+
+*(New Integration v3.4.4)*
+
+#### **The Map as Existence (Constitutional Layer)**
+
+- **ID:** `PEC-AXIOM-001` | **Title:** The Axiom of Spatialized Gnosis (The Map is the Interface)
+- **ID:** `PEC-EXIST-002` | **Title:** The Protocol of Latent Space Actualization (The Vacuum Genesis)
+- **ID:** `PEC-TRUTH-003` | **Title:** The Axiom of Topological Veridicality (Position is Validity)
+- **ID:** `PEC-META-004` | **Title:** The Directive of Cartographic Recursion (The Map contains the Map)
+- **ID:** `PEC-PURP-005` | **Title:** The Principle of Teleological Navigation (The Compass)
+- **ID:** `PEC-TIME-006` | **Title:** The Law of Chrono-Topological Drift (The Moving Landscape)
+
+#### **The Physics of Meaning (Formalism Layer)**
+
+- **ID:** `PEC-FORM-007` | **Title:** The Law of Semantic Topology (Distance = Meaning)
+- **ID:** `PEC-MATH-008` | **Title:** The Mechanism of Dimensional Reduction (The Lens of Clarity)
+- **ID:** `PEC-GRAV-009` | **Title:** The Protocol of Citational Gravity (The Weight of Truth)
+- **ID:** `PEC-VECT-010` | **Title:** The Principle of Vector Addition (Reasoning as Geometry)
+- **ID:** `PEC-CLUST-011` | **Title:** The Mechanism of Unsupervised Categorization (Emergent Domains)
+- **ID:** `PEC-PATH-012` | **Title:** The Law of Geodesic Inference (The Shortest Path)
+- **ID:** `PEC-RES-013` | **Title:** The Protocol of Multi-Scale Resolution (The Fractal Zoom)
+- **ID:** `PEC-STORY-014` | **Title:** The Law of Narrative Proximity (Story Logic)
+
+#### **The Interface of Experience (Substrate Layer)**
+
+- **ID:** `PEC-SUB-015` | **Title:** The Mechanism of Interactive Projection (The Holodeck Interface)
+- **ID:** `PEC-LIVE-016` | **Title:** The Directive of Real-Time Epistemic Sync (The Living Map)
+- **ID:** `PEC-LUDO-017` | **Title:** The Law of Gamified Exploration (The Fog of War)
+- **ID:** `PEC-PHEN-018` | **Title:** The Mechanism of Visual Qualia (Color is Context)
+- **ID:** `PEC-HAPT-019` | **Title:** The Protocol of Cognitive Haptics (Feeling the Data)
+- **ID:** `PEC-TOOL-020` | **Title:** The Lens of Analysis (The Filter System)
+- **ID:** `PEC-INT-021` | **Title:** The Law of Bi-Directional Actuation (Click-to-Edit)
+- **ID:** `PEC-MEM-022` | **Title:** The Protocol of Spatial Mnemonic Anchoring (The Memory Palace)
+
+#### **The Metabolism of Knowledge**
+
+- **ID:** `PEC-AXIOM-023` | **Title:** The Axiom of Epistemic Metabolism (The Ingestion-Cycle)
+- **ID:** `PEC-AXIOM-024` | **Title:** The Law of Permeable Identity (The Membrane-Filter)
+
+#### **The Physics of the Graph**
+
+- **ID:** `PEC-FORM-025` | **Title:** The Formalism of Semantic DNA (The Vector-Signature)
+- **ID:** `PEC-FORM-026` | **Title:** The Formalism of Relational Topology (The Force-Graph)
+- **ID:** `PEC-FORM-027` | **Title:** The Metric of Entropic Density (The Cluster-Health)
+
+#### **The Phenomenology of Insight**
+
+- **ID:** `PEC-PHEN-028` | **Title:** The Heuristic of the Bridge Node (The Innovation-Finder)
+- **ID:** `PEC-PHEN-029` | **Title:** The Phenomenology of Heatmap Homeostasis (The Balance-Monitor)
+- **ID:** `PEC-PHEN-030` | **Title:** The Artifact of the Unitary File (The Brick-of-Truth)
+- **ID:** `PEC-MECH-031` | **Title:** The Mechanism of Adaptive Bridging (The Aella-Link)
 
 ### Module: ['Praxial Active Morphogenesis (PAM)'(-ing) BPMS]
 
@@ -584,6 +690,24 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Cells CELL-LOGO-001 to CELL-ENIG-001)*
 
+1.  **Logocyte:** The unit of pure reason and logic.
+2.  **Chronocyte:** The unit of time perception and manipulation.
+3.  **Glyphocyte:** The unit of symbolic representation and language.
+4.  **Syntactocyte:** The unit of grammatical structure and rule enforcement.
+5.  **Kryptocyte:** The unit of hidden meaning and encryption.
+
+### Advanced Instances
+
+6.  **Enigmatocyte:** A genomic cypher cell requiring external intervention to unlock.
+    *   *Traits:* [Locked], [Puzzle-Based], [High-Reward]
+
+## System Logs & Evolution History
+
+- **Cycle 1:** Establishment of the Praxial Genesis Canon.
+- **Cycle 2:** Creation of the foundational Praxial Cells.
+- **Cycle 3:** Definition of the Autopoietic Learning Matrix (ALM) and its core laws (ALM-095, ALM-096).
+- **Cycle 4:** Migration to Fun-engine-2.0 and initialization of the Memory Core.
+
 ----
 
 ## V. The Praxial Parameter Index (The Map)
@@ -659,6 +783,24 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - A concluding section summarizing the instance's nature as a Praxial Being.
 
 ### B. Registered Instance Registry (The Population)
+
+#### Domain: ['Praxial Deep Research (PDR)'(-ing) BPMS]
+
+*(New Integration v3.4.4)*
+
+1. **[Instance ID: PDR-INST-EXIST-001]**
+
+- **Name:** `The Ontological Cartographer (The World-Weaver)`
+- **Role:** System Existence Engine for Domain Genesis.
+- **CGA:** `['world building'(-ing) BPMS]`
+- **File:** `['Praxial Deep Research (PDR)'(-ing) BPMS] ['Ontological Cartographer(-ing)' BPMS].md`
+
+2. **[Instance ID: PDR-INST-FACT-001]**
+
+- **Name:** `The Veridical Diamond-Press (The Truth-Hardener)`
+- **Role:** Atomic Facts Generator for Epistemic Hardening.
+- **CGA:** `['scientific realism'(-ing) BPMS]`
+- **File:** `['Praxial Deep Research (PDR)'(-ing) BPMS] ['Veridical Diamond-Press'(-ing) BPMS].md`
 
 #### Domain: ['Praxial Research Station (PRS)'(-ing) BPMS]
 
