@@ -108,7 +108,7 @@ The Weaver operates on the **"Abstract-Map-Project"** Cycle:
 
 **2. The Formalism Layer (Layer 2)**
 
-*   **Category Theory Engine:** The core logic is built on **Category Theory** (Functors, Natural Transformations). It treats `[BPMS]` modules as "Categories" and the Weaver as a "Functor" that maps between them.
+*   **Category Theory Engine:** The core logic is built on **Category Theory** (Functors, Natural Transformations). It treats `[BPMS]` modules as "Categories" and the Weaver as a "Functor" that maps among/by them.
 *   **Vector Space Alignment:** It uses `['Cross-Modal Contrastive Learning'(-ing) BPMS]` (like CLIP or ImageBind) to align the vector spaces of Text, Code, and Image, allowing "Math" on "Metaphors."
 
 **3. The Substrate / Phenomenological Layer (Layer 3)**
