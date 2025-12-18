@@ -56,6 +56,44 @@ The current failure mode involves the Assistant relying on "gist" or "general un
 **Scope of Application:**
 Applies to **ALL** interactions within the Fun Engine Framework project. It is a meta-rule that governs the generation of all other rules.
 
+**[Protocol ID: META-004]** **The Protocol of Completeness Verification**
+
+**Objective:**
+To formally `ADD` a Systemic Integrity Protocol that mandates 100% completeness and high-fidelity detail for all generated Basic Settings and Instances, ensuring no "stub" or "summary" content is ever produced.
+
+**Target Axiom/Principle:**
+`The Protocol of Completeness Verification`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+1.**Core Essence**
+This protocol asserts that **Detail is Existence**. In the Praxial system, an undefined or under-defined entity does not exist. Therefore, "we should ensure and confirm that 'any basic settings for any (elements) of [BPMS(U)(s)]' or 'any instance for any (elements) of [BPMS(U)(s)] ' should both be 100% complete and with detail".
+
+2.**The Mechanism - [The Anti-Stub Filter]**
+
+- **The Trigger:** Any request to generate a "Basic Setting" or "Instance".
+- **The Check:** The Assistant must verify that the output contains NO placeholders, NO "etc.", NO "rest of code", and NO brief summaries.
+- **The Standard:**
+    - **Basic Settings:** Must include Objective, Target, Operation, Definition (Essence, Mechanism, Emergent Property), Alignment (3 Layers), Rationale, and Scope.
+    - **Instances:** Must follow the 13-point `META-BP-001` schema completely, with detailed prose for every section.
+
+3.**The Emergent Property - [Fractal Fidelity]**
+The system maintains high resolution at all scales. Whether looking at a Galaxy or an Atom, the level of detail remains "100% complete".
+
+4.**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Constitutional):** Upholds **`['Ontological Relativity'(-ing) BPMS]`** by ensuring that every defined entity has sufficient "ontological weight" to exist.
+- **Layer 2 (Formalism):** Enforces **`['The Axiom of Completeness'(-ing) BPMS]`** (META-001) by operationalizing it into a strict filter.
+- **Layer 3 (Substrate):** Validates **`['Praxial Artifacts'(-ing) BPMS]`** by ensuring the generated files are "Really Working Implementations".
+
+**Rationale / Justification:**
+To avoid the "same mistake" of generating incomplete or summary-level content. The user demands "lots of detail" and "complete content" for every single generation.
+
+**Scope of Application:**
+Applies to **ALL** future file generations for Basic Settings and Instances.
+
 ----
 
 ## II. The Praxial Genesis Canon
@@ -620,7 +658,8 @@ The creation of a "Rendered World" where `atomic facts` are only generated when 
   The "Physics" of how potential becomes reality is defined by the specific `[BPMS(U)]` of the niche:
   - **If `[mathematics(-ing) BPMS]`: (Standard Physics)**
 
-P(an)=∣⟨an∣ψ⟩∣2P(a_n) = |\langle a_n | \psi \rangle|^2P(an)=∣⟨an∣ψ⟩∣2
+P(an)=∣⟨an∣ψ⟩∣2P(a_n) = |\langle a_n | \psi 
+angle|^2P(an)=∣⟨an∣ψ⟩∣2
 
 (Quantum Probability).
 
