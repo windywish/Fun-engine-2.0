@@ -1,5 +1,12 @@
 ## Basic settings ['Praxial Polymathic Engine (PPE)'(-ing) BPMS]
 
+**Version:** 1.0
+**Status:** Active / Foundational
+**System:** Fun Engine Framework 2.0
+**Domain:** ['Praxial Polymathic Engine (PPE)'(-ing) BPMS]
+
+---
+
 ##### `The Axiom of Universal Translatability` (ID: `PPE-CORE-001`)
 
 **Objective:**
@@ -405,7 +412,7 @@ Plugin architectures, agent tool use, dynamic role assignment in games/simulatio
 
 ---
 
-#### **Title:** The Context-Switching Hypervisor (ID: `PPE-FUNC-010`)
+##### `The Context-Switching Hypervisor` (ID: `PPE-FUNC-010`)
 
 **Objective:**
 To formally `ADD` a Basic Setting that defines how the PPE manages multiple active domains simultaneously without confusion.
