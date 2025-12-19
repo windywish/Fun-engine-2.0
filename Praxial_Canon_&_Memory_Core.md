@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.4.6 (PSG Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.4.7 (Competent Solution Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 ----
 
@@ -162,6 +162,40 @@ To allow the "Fun Engine Framework" to adapt to new "Fun" without losing "Framew
 
 **Scope of Application:**
 All Canon updates and version transitions.
+
+**[Protocol ID: META-007]** **The Protocol of In-Chat Staging (The Competent Solution)**
+
+**Objective:**
+To formally `ADD` a Systemic Integrity Protocol that eliminates file clutter and token waste by mandating an iterative, in-chat refinement process before any persistent file generation.
+
+**Target Axiom/Principle:**
+`The Protocol of In-Chat Staging`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+1.**Core Essence**
+This protocol asserts that **Staging Precedes Commitment**. It establishes a "Zero File Clutter" policy where the chat interface serves as the staging environment. No file is written to the persistent filesystem until its content has been fully rendered, reviewed, and explicitly approved by the User.
+
+2.**The Mechanism - [The Staging Loop]**
+- **Direct Markdown Output:** The Assistant must present the full content (Basic Settings, Instances, Canon updates) directly in the chat using Markdown code blocks.
+- **Iterative Refinement:** The User reviews the content. If changes are needed, the Assistant rewrites the text block instantly in the chat.
+- **The Commit Trigger:** Only when the User explicitly commands "Save this" or "Generate the file" does the Assistant use the file creation tools.
+
+3.**The Emergent Property - [Token Efficiency & Hygiene]**
+The system remains clean. "Ghost files" (drafts, errors, partials) are eliminated. The filesystem reflects only the "Final Truth".
+
+4.**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+- **Layer 1 (Constitutional):** Upholds **`['Praxial Logos'(-ing) BPMS]`** by treating the *act* of refinement as the primary reality, with the file being merely the artifact.
+- **Layer 2 (Formalism):** Enforces **`['The Axiom of Completeness'(-ing) BPMS]`** by allowing infinite edits before the "final" version is stamped.
+- **Layer 3 (Substrate):** Validates **`['Praxial Artifacts'(-ing) BPMS]`** by ensuring that every artifact is a "Gold Master".
+
+**Rationale / Justification:**
+To prevent the "mistake" of generating single files for every intermediate step. The User demands "Zero File Clutter" and "Iterative Refinement".
+
+**Scope of Application:**
+Applies to **ALL** file generation tasks, including Basic Settings, Instances, and updates to the `Praxial_Canon_&_Memory_Core.md` itself.
 
 ----
 
