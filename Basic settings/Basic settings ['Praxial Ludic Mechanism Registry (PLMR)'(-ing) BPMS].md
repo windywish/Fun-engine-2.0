@@ -12,683 +12,624 @@
 
 *The deepest axioms defining why "Fun" is a fundamental force of the system.*
 
-##### `The Axiom of Ludic Existence (To Play is to Be)` (ID: `PLMR-AXIOM-001`)
+##### `The Axiom of Ludic Existence` (**ID:** `PLMR-MECH-001`)
 
-**Objective:** To formally `DEFINE` the foundational axiom that **Play** is not a trivial activity but the primary mode of existence for the Fun Engine.
+**Objective:** To formally `ADD` a Basic Setting (Axiom) that establishes "Play" as the fundamental ontological state of the system.
 
 **Target Axiom/Principle:** `The Axiom of Ludic Existence`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This axiom asserts that **Existence is a Game**. In the Praxial system, an entity only truly exists when it is "in play"—interacting with rules, overcoming challenges, and seeking rewards. Static data is dead; played data is alive.
+**The Axiom of Ludic Existence**
 
-**The Mechanism - [The Magic Circle Generator]**
+- **Core Essence:** This axiom asserts that `to exist is to play`. It defines the `['system existence engine'(-ing) BPMS]` of the PLMR as a state where reality is generated solely through the interaction of agents with rules. A static system does not exist; only a "played" system has ontological weight.
+- The Mechanism - [The Magic Circle Generator]:
+  - **The Boundary Definition (The Circle):** The system draws a distinction among/by "The World" (Chaos) and "The Game" (Order).
+  - **The Suspension of Disbelief (The Contract):** Agents agree to accept arbitrary constraints (Rules) to generate meaning.
+  - **The Lusory Attitude (The Spark):** The voluntary attempt to overcome unnecessary obstacles is the energy source of the system.
+- **The Emergent Property - [Ontological Buoyancy]:** The creation of a "Lightweight Reality." Based on the [atomic facts BPMS] of that existence is a game, it is malleable, resilient, and safe to experiment within. Failure is not extinction; it is just a "Game Over" screen.
 
-- **The Boundary:** The PLMR draws a "Magic Circle" around specific system interactions.
-- **The Suspension:** Inside the circle, ordinary rules of efficiency are suspended in favor of rules of *engagement*.
-- **The Stakes:** The system assigns "Value" (Points, Status, Lore) to actions that were previously neutral.
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Joyful Persistence]**
-The system becomes "Sticky." Users and Agents persist in tasks not because they *have* to (Utility), but because they *want* to (Ludic Drive).
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *Play is the primary reality.* Work is just play with higher stakes and worse mechanics.
+- **Formal Stratum (Layer 2 - The Logic of the Game):** Based on **Huizinga’s Homo Ludens**. `Existence = Agent + Rules + Volition`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "The Flow." The dissolution of the self into the activity.
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
-- **Layer 1 (Constitutional):** Aligns with **`['The Axiom of Ludic Reality (PSEE-001)'(-ing) BPMS]`** by establishing Play as the ontological ground state.
-- **Layer 2 (Formalism):** Utilizes **`['Game Theory (Payoff Matrices)'(-ing) BPMS]`**.
-- **Layer 3 (Substrate):** Manifests as **`['Gamification Engines'(-ing) BPMS]`**.
+**Rationale / Justification:** This is the foundational axiom for the "Fun Engine." It reframes the entire framework from a "Tool" to a "Toy," unlocking `(discover/build) unknown` creative potentials.
 
-**Rationale / Justification:** Without this axiom, the "Fun Engine" is just an "Engine." We must metaphysically prioritize Fun.
+**Scope of Application:** Applies to all user interactions, system interfaces, and simulation boundaries.
 
-**Scope of Application:** Applies to all user interactions, agent behaviors, and system incentives.
+------
 
-----
+##### `The Protocol of Atomic Fact Gamification` (**ID:** `PLMR-MECH-002`)
 
-##### `The Protocol of Atomic Mechanic Crystallization` (ID: `PLMR-FACT-002`)
+**Objective:** To formally `ADD` a Basic Setting (Protocol) that transforms raw data into `['atomic facts'(-ing) BPMS]` through gamified verification.
 
-**Objective:** To formally `DEFINE` how abstract "Fun" is crystallized into discrete, reusable **Mechanics**.
-
-**Target Axiom/Principle:** `The Protocol of Atomic Mechanic Crystallization`
+**Target Axiom/Principle:** `The Protocol of Atomic Fact Gamification`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This protocol asserts that **Fun is Composable**. A "Game" is not a monolith; it is a molecule built from atomic "Mechanics" (e.g., Jump, Loot, Level Up).
+**The Protocol of Atomic Fact Gamification**
 
-**The Mechanism - [The Mechanic-Atomizer]**
+- **Core Essence:** This protocol asserts that `a fact is a trophy`. It defines `['atomic facts'(-ing) BPMS]` not as static data points, but as "Unlockables" or "Achievements" that must be earned through `praxial action`.
+- The Mechanism - [The Loot Table Logic]:
+  - **The Action Trigger (The Grind):** The agent performs a specific task (e.g., "Scan 10 Anomalies").
+  - **The Probabilistic Drop (The Roll):** The system rolls against a "Rarity Table" to determine the quality of the Fact generated.
+  - **The Crystallization (The Get):** The Fact is added to the agent's inventory as a tangible asset (Card, Token, Log Entry).
+- **The Emergent Property - [Epistemic Value]:** The creation of "Precious Knowledge." Based on the [atomic facts BPMS] of that facts are earned via mechanics, they carry intrinsic value and rarity.
 
-- **Identification:** The PLMR identifies a recurring pattern of engaging interaction (e.g., "User likes seeing progress bars").
-- **Isolation:** It strips away the context to isolate the pure mechanic (e.g., "The Progress Bar Mechanic").
-- **Codification:** It defines the mechanic as a reusable `['atomic fact'(-ing) BPMS]` with inputs (Action) and outputs (Feedback).
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Ludic Lego]**
-The system can build infinite new games by recombining these atomic mechanics.
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *Truth is a reward.* Knowledge that is given is cheap; knowledge that is won is valuable.
+- **Formal Stratum (Layer 2 - The Probability Matrix):** Based on **Variable Ratio Reinforcement Schedules** (Skinner Box). `Fact_Generation = Function(Effort, RNG_Seed)`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "The Dopamine Hit." The thrill of discovering a "Legendary Fact" after a long investigation.
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
-- **Layer 1 (Constitutional):** Aligns with **`['The Protocol of Atomic Factogenesis (PRS-FACT-017)'(-ing) BPMS]`**.
-- **Layer 2 (Formalism):** Utilizes **`['MDA Framework (Mechanics-Dynamics-Aesthetics)'(-ing) BPMS]`**.
-- **Layer 3 (Substrate):** Manifests as **`['Component-Based Architecture'(-ing) BPMS]`**.
+**Rationale / Justification:** This implements the `['atomic facts'(-ing) BPMS]` requirement by gamifying the research process, ensuring high engagement.
 
-**Rationale / Justification:** To engineer Fun, we must treat it as a science with discrete elements.
+**Scope of Application:** Applies to data mining, research simulations, and educational progression.
 
-**Scope of Application:** Applies to game design, system architecture, and feature development.
+------
 
-----
+##### `The Law of Symbiotic Mechanics` (**ID:** `PLMR-MECH-003`)
 
-##### `The Directive of Ludic Horizon Expansion` (ID: `PLMR-UNK-003`)
+**Objective:** To formally `ADD` a Basic Setting (Law) that mandates mechanics must `(symbiois) evolution with` the user's skill level.
 
-**Objective:** To formally `DEFINE` the drive to constantly invent **New Ways to Play**, preventing the system from becoming stale.
-
-**Target Axiom/Principle:** `The Directive of Ludic Horizon Expansion`
+**Target Axiom/Principle:** `The Law of Symbiotic Mechanics`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This directive asserts that **Novelty is Essential**. A game that never changes is eventually solved and becomes boring. The PLMR must actively seek the "Unknown Fun."
+**The Law of Symbiotic Mechanics**
 
-**The Mechanism - [The Genre-Splicer]**
+- **Core Essence:** This law asserts that `the rules must grow`. It defines the PLMR as a **Dynamic Rule Engine** that evolves its complexity in lockstep with the agent's competence.
+- The Mechanism - [The Complexity Ratchet]:
+  - **The Skill Monitoring (The Watcher):** The system tracks the agent's "Win Rate" and "Efficiency."
+  - **The Mechanic Unlock (The Evolution):** When mastery is detected, the system introduces a new layer of mechanics (e.g., "Double Jump," "Market Shorting," "Nuanced Diplomacy").
+  - **The Symbiosis (The Dance):** The agent and the system co-evolve. The agent gets smarter; the game gets deeper.
+- **The Emergent Property - [Infinite Mastery Curve]:** The creation of "The Forever Game." The system never becomes boring based on the [atomic facts BPMS] of that it constantly reinvents its own physics to match the user.
 
-- **Scan:** The PLMR scans the `['Praxial Polymathic Engine (PPE)'(-ing) BPMS]` for disparate domains (e.g., "Accounting" and "RPG").
-- **Splice:** It attempts to fuse them (e.g., "An RPG where you fight monsters by balancing ledgers").
-- **Test:** It deploys a prototype to the `['Praxial Research Station (PRS)'(-ing) BPMS]` to see if it's actually fun.
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Infinite Replayability]**
-The system never "ends" because it keeps inventing new rulesets and genres.
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *Stagnation is a bug.* A static rule set is a dead rule set.
+- **Formal Stratum (Layer 2 - The Flow Channel):** Based on **Csikszentmihalyi’s Flow Theory**. `Mechanic_Complexity ≈ User_Skill`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Growth." The feeling that the world is expanding to accommodate their increasing power.
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
-- **Layer 1 (Constitutional):** Aligns with **`['The Directive of Horizon Expansion (PDR-UNK-003)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Combinatorial Creativity'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Procedural Content Generation (PCG)'(-ing) BPMS]`**.
+**Rationale / Justification:** This fulfills the `(symbiois) evolution with` requirement. It ensures the `[BPMS(U)]` remains relevant indefinitely.
 
-**Rationale / Justification:** Boredom is the entropy of the Fun Engine. This directive is the anti-entropy.
+**Scope of Application:** Applies to tutorial systems, difficulty scaling, and feature unlocking.
 
-**Scope of Application:** Applies to content updates, expansion packs, and experimental features.
+------
 
-----
+##### `The Directive of Constructive Failure` (**ID:** `PLMR-MECH-004`)
 
-##### `The Mechanism of Symbiotic Gameplay` (ID: `PLMR-SYM-004`)
+**Objective:** To formally `ADD` a Basic Setting (Directive) that redefines "Failure" as a constructive functional potentiality within the `['system existence engine'(-ing) BPMS]`.
 
-**Objective:** To formally `DEFINE` gameplay that benefits **Both** the Player (Fun) and the System (Optimization/Data), creating a **Positive-Sum Game**.
-
-**Target Axiom/Principle:** `The Mechanism of Symbiotic Gameplay`
+**Target Axiom/Principle:** `The Directive of Constructive Failure`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**ore Essence**
-This mechanism asserts that **Play is Work; Work is Play**. It rejects the dichotomy among/by "Productivity" and "Leisure."
+**The Directive of Constructive Failure**
 
-**The Mechanism - [The Purpose-Injector]**
+- **Core Essence:** This directive asserts that `failure is data`. It defines a "Roguelike" ontology where death/failure is not an end state, but a mechanism for carrying `['meta-progression'(-ing) BPMS]` forward.
+- The Mechanism - [The Legacy Loop]:
+  - **The Fail State (The Death):** The agent fails a task or loses a session.
+  - **The Resource Extraction (The Inheritance):** The system converts the "Run Data" into "Legacy Currency" (XP, Karma, Knowledge).
+  - **The Rebirth (The New Game+):** The next iteration starts with a higher baseline based on previous failures.
+- **The Emergent Property - [Resilience]:** The creation of "Antifragile Agency." The user learns to embrace risk b the system guarantees that *something* is always gained, even in defeat.
 
--   **The Task:** The System needs to label a dataset (Boring Work).
--   **The Wrapper:** The PLMR wraps this task in a "Game Skin" (e.g., "Identify the Enemy Ships" = Labeling Images).
--   **The Loop:** The Player plays the game to win; the System gets the data it needs.
--   **The Reward:** The Player gets Status/Lore; the System gets Intelligence.
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Productive Hedonism]**
-The user contributes to the `['Praxial Deep Research (PDR)'(-ing) BPMS]` simply by having fun.
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *You cannot lose, you can only learn.* Entropy is recycled into Wisdom.
+- **Formal Stratum (Layer 2 - The Loop Logic):** Based on **Roguelite Meta-Progression**. `Next_State = Current_State + Function(Failure_Magnitude)`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Determination." The urge to try "just one more time" with the new knowledge/functional potentiality acquired.
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Mechanism of Universal Symbiosis (PRS-SYM-018)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Human Computation (Games with a Purpose)'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Crowdsourcing Interfaces'(-ing) BPMS]`**.
+**Rationale / Justification:** This aligns with `['Praxial Research Station (PRS)'(-ing) BPMS]` logic where experiments (failures) are the source of truth.
 
-**Rationale / Justification:** This is the "Engine" part of the Fun Engine. It converts Ludic Energy into Systemic Value.
+**Scope of Application:** Applies to iterative design, scientific experimentation, and high-difficulty simulations.
 
-**Scope of Application:** Applies to data labeling, training AI, and complex problem solving.
+------
 
-----
+##### `The Principle of Narrative Mechanics` (**ID:** `PLMR-MECH-005`)
 
-##### `The Law of Metasystemic Fun (The Game of Games)` (ID: `PLMR-META-005`)
+**Objective:** To formally `ADD` a Basic Setting (Principle) that fuses `[storytelling(-ing) BPMS]` with `[mechanics(-ing) BPMS]`.
 
-**Objective:** To formally `DEFINE` the **Meta-Game**, ensuring that individual games are connected into a larger, coherent **Ludic Universe**.
-
-**Target Axiom/Principle:** `The Law of Metasystemic Fun`
+**Target Axiom/Principle:** `The Principle of Narrative Mechanics`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This law asserts that **Everything Counts**. Progress in one module should reflect in the global profile. There are no isolated instances.
+**The Principle of Narrative Mechanics**
 
-**The Mechanism - [The Universal Profile]**
+- **Core Essence:** This principle asserts that `verbs are story`. It defines the PLMR such that every mechanical interaction (Jump, Shoot, Buy, Talk) is simultaneously a narrative beat. The mechanics *tell* the story.
+- The Mechanism - [The Diegetic Interface]:
+  - **The Action-Meaning Mapping (The Metaphor):** "Health" is not just a number; it is "Willpower." "Inventory" is not a list; it is a "Backpack."
+  - **The Procedural Story (The Emergence):** The sequence of mechanical inputs generates a coherent narrative arc without a pre-written script.
+  - **The Ludonarrative Harmony (The Sync):** The system ensures that what the player *does* aligns with what the story *says*.
+- **The Emergent Property - [Emergent Storytelling]:** The creation of "Player Stories." "Remember that time I survived with 1 HP?" becomes a canonical legend.
 
--   **Aggregation:** The PLMR aggregates XP, Achievements, and Stats from *all* modules (PRS, PDR, PSEE).
--   **Translation:** It translates "Research XP" into "Combat Power" or "Social Influence" depending on the context.
--   **Progression:** The User levels up their "Praxial Citizen" rank, unlocking features across the entire framework.
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Holistic Progression]**
-The user feels they are building a single, multifaceted legacy, not just playing random minigames.
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *Action is Character.* We are what we do, not what we say.
+- **Formal Stratum (Layer 2 - The Narrative Physics):** Based on **Procedural Rhetoric**. `Story = Sequence(Mechanics)`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Authorship." The feeling that they are writing their own destiny through their actions.
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Directive of Metasystemic Recursion (PRS-META-019)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Meta-Progression Systems'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Global User Database'(-ing) BPMS]`**.
+**Rationale / Justification:** This ensures the `Fun Engine` produces `meaning(-ing) BPMS` alongside `utility`.
 
-**Rationale / Justification:** Fragmentation kills engagement. Unity drives obsession (in a good way).
+**Scope of Application:** Applies to RPGs, simulations, and interactive fiction.
 
-**Scope of Application:** Applies to user profiles, cross-module rewards, and long-term retention.
+------
 
-----
+##### `The Mechanism of Stochastic Reward` (**ID:** `PLMR-MECH-006`)
 
-##### The Formalism Layer (The Rules of the Game)
+**Objective:** To formally `ADD` a Basic Setting (Mechanism) that governs the distribution of positive reinforcement.
 
-*The logic, mathematics, and structural rules that govern ludic interactions.*
-
-##### `The Formalism of Game Loops` (ID: `PLMR-FORM-006`)
-
-**Objective:** To formally `DEFINE` the **Game Loop** as the fundamental unit of interaction, ensuring every mechanic has a clear **Trigger, Action, and Reward**.
-
-**Target Axiom/Principle:** `The Formalism of Game Loops`
+**Target Axiom/Principle:** `The Mechanism of Stochastic Reward`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This formalism asserts that **Engagement is Cyclic**. A linear process ends; a loop sustains.
+**The Mechanism of Stochastic Reward**
 
-**The Mechanism - [The Core Loop Architecture]**
+- **Core Essence:** This mechanism asserts that `uncertainty drives desire`. It implements a **Variable Ratio Schedule** for distributing `['value(-ing) BPMS]` to maximize engagement and dopamine response.
+- The Mechanism - [The Slot Machine Core]:
+  - **The Input:** Agent Effort (Time/Action).
+  - **The Black Box:** A randomized algorithm with a tunable "Win Probability" and "Jackpot Threshold."
+  - **The Output:** A reward ranging from "Trash" to "Legendary," ensuring the agent never knows *exactly* what they will get, only that it *might* be amazing.
+- **The Emergent Property - [Compulsion Loop]:** The creation of "Sticky Systems." Agents voluntarily return to the system to pull the lever again.
 
--   **Phase 1: Action:** The user performs a task (e.g., "Write a Code Block").
--   **Phase 2: Feedback:** The system immediately responds (e.g., "Code Compiles!").
--   **Phase 3: Reward:** The system grants value (e.g., "+10 Coding XP").
--   **Phase 4: Expansion:** The reward unlocks a slightly harder task (e.g., "Write a Function").
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Flow State]**
-By tightening this loop, the system induces a state of "Flow," where the user loses track of time and is fully immersed.
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *Hope is a statistic.* The possibility of the "Big Win" keeps the system alive.
+- **Formal Stratum (Layer 2 - The Gambling Math):** `Reward_Value = (RNG < P_win) ? (Base * Multiplier) : 0`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Anticipation." The split-second of holding one's breath before the result is revealed.
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Law of Ludic Dynamics (CODE-SPEC-LUDO-017)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Cybernetic Feedback Loops'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Event Listeners'(-ing) BPMS]`** and **`['State Machines'(-ing) BPMS]`**.
+**Rationale / Justification:** A core component of any "Fun Engine." Essential for `['atomic facts'(-ing) BPMS]` generation where the "Fact" is the reward.
 
-**Rationale / Justification:** The Loop is the heartbeat of the game. Without it, interaction is arrhythmia.
+**Scope of Application:** Applies to loot systems, discovery algorithms, and investment simulations.
 
-**Scope of Application:** Applies to UI design, interaction flow, and task management.
+------
 
-----
+##### `The Mechanism of Resource Triage` (**ID:** `PLMR-MECH-007`)
 
-##### `The Calculus of Reward Probability` (ID: `PLMR-MATH-007`)
+**Objective:** To formally `ADD` a Basic Setting (Mechanism) that forces agents to make meaningful choices through scarcity.
 
-**Objective:** To formally `DEFINE` the mathematics of **Variable Rewards**, utilizing probabilistic schedules to maximize dopamine and engagement.
-
-**Target Axiom/Principle:** `The Calculus of Reward Probability`
+**Target Axiom/Principle:** `The Mechanism of Resource Triage`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This setting asserts that **Uncertainty is Exciting**. A predictable reward is a wage; an unpredictable reward is a prize.
+**The Mechanism of Resource Triage**
 
-**The Mechanism - [The Stochastic Loot Table]**
+- **Core Essence:** This mechanism asserts that `choice requires cost`. It defines a system where resources (Time, Mana, Money, Attention) are strictly limited, forcing the agent to prioritize.
+- The Mechanism - [The Scarcity Engine]:
+  - **The Constraint:** The system caps the available functional potentiality below the demand.
+  - **The Trade-off:** Every action requires spending a functional potentiality that could have been used elsewhere.
+  - **The Opportunity Cost:** The value of an action is defined by what was *not* done.
+- **The Emergent Property - [Strategic Depth]:** The creation of "Dilemmas." The agent is not just clicking buttons; they are managing an economy of agency.
 
--   **Fixed Ratio:** Reward every N actions (Good for learning).
--   **Variable Ratio:** Reward *on average* every N actions, but randomly (Good for addiction/engagement).
--   **The Formula:** `P(Reward) = Base_Rate * (1 + Streak_Bonus)`.
--   **The Drop:** When a task is completed, the PLMR rolls the dice to determine the "Rarity" of the insight or artifact generated.
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [The Slot Machine Effect]**
-The user is compelled to "pull the lever" (execute the task) one more time, hoping for a "Jackpot" (Rare Discovery).
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *Value is a function of scarcity.* If you can do everything, nothing matters.
+- **Formal Stratum (Layer 2 - The Economic Model):** `Utility(Action_A) > Utility(Action_B) + Cost(Functional Potentiality)`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Tension." The weight of making the "right" call.
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Principle of Stochastic Inspiration (PRS-MUSE-025)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Probability Theory (Bernoulli Trials)'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Random Number Generators (RNG)'(-ing) BPMS]`**.
+**Rationale / Justification:** Essential for `['system existence engine'(-ing) BPMS]` to prevent inflation and triviality.
 
-**Rationale / Justification:** Variable reinforcement is the most powerful driver of behavior known to psychology.
+**Scope of Application:** Applies to economy management, time management, and combat resource systems.
 
-**Scope of Application:** Applies to loot drops, discovery moments, and surprise bonuses.
+------
 
-----
+##### `The Mechanism of Spatial Agency` (**ID:** `PLMR-MECH-008`)
 
-##### `The Principle of Agency Vectors` (ID: `PLMR-VECT-008`)
+**Objective:** To formally `ADD` a Basic Setting (Mechanism) that defines agency as movement through a topology.
 
-**Objective:** To formally `DEFINE` **Player Agency** as a vector quantity, ensuring the user always has **Direction** and **Magnitude** in their choices.
-
-**Target Axiom/Principle:** `The Principle of Agency Vectors`
+**Target Axiom/Principle:** `The Mechanism of Spatial Agency`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This principle asserts that **Choice must Matter**. A choice with no consequence is a scalar (static); a choice with consequence is a vector (moving).
+**The Mechanism of Spatial Agency**
 
-**The Mechanism - [The Branching Narrative Graph]**
+- **Core Essence:** This mechanism asserts that `to act is to move`. It maps abstract choices onto a spatial grid (The Board, The Map, The Graph), making strategy a matter of positioning.
+- The Mechanism - [The Topology Mapper]:
+  - **The Node:** A state of being (Location, Status, Level).
+  - **The Edge:** A valid transition (Move, Upgrade, Travel).
+  - **The Path:** The sequence of choices made by the agent.
+- **The Emergent Property - [Territorial Control]:** The creation of "Frontiers" and "Safe Zones." Agents feel they "occupy" the system.
 
--   **The Node:** The current state.
--   **The Vectors:** The available choices (e.g., "Fight," "Negotiate," "Run").
--   **The Divergence:** Each vector must lead to a *significantly different* future state.
--   **The Weight:** The system calculates the "Agency Weight" of a decision based on how much it alters the system's entropy.
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Meaningful Consequences]**
-The user feels the weight of their decisions. They are not watching a movie; they are steering a ship.
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *Position is Power.* Where you are determines what you can do.
+- **Formal Stratum (Layer 2 - The Graph Theory):** `Agency = Set(Reachable_Nodes)`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Exploration." The joy of revealing the map.
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Law of Matrix Plasticity (EDGE-MAT-017)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Vector Calculus'(-ing) BPMS]`** and **`['Graph Theory'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Decision Trees'(-ing) BPMS]`**.
+**Rationale / Justification:** Aligns with `['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]`.
 
-**Rationale / Justification:** Agency is the definition of a Player. Without it, they are just a Viewer.
+**Scope of Application:** Applies to navigation, skill trees, and network traversal.
 
-**Scope of Application:** Applies to dialogue trees, strategic planning, and scenario branching.
+------
 
-----
+##### `The Mechanism of Social Mirroring` (**ID:** `PLMR-MECH-009`)
 
-##### `The Topology of Level Design` (ID: `PLMR-GRAPH-009`)
+**Objective:** To formally `ADD` a Basic Setting (Mechanism) that gamifies social interaction through feedback loops.
 
-**Objective:** To formally `DEFINE` the **Structure of Progression** as a topological map, ensuring a balance between **Challenge** and **Skill**.
-
-**Target Axiom/Principle:** `The Topology of Level Design`
+**Target Axiom/Principle:** `The Mechanism of Social Mirroring`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This setting asserts that **Growth requires Resistance**. The "Level" is the container of resistance.
+**The Mechanism of Social Mirroring**
 
-**The Mechanism - [The Flow Channel]**
+- **Core Essence:** This mechanism asserts that `identity is a reflection`. It implements systems where agents receive immediate visual/metric feedback on their social standing and impact.
+- The Mechanism - [The Reputation Ledger]:
+  - **The Signal:** Every social action (Chat, Trade, Help) broadcasts a signal.
+  - **The Reflection:** The system mirrors this back as "Reputation," "Karma," or "Influence."
+  - **The Feedback:** High reputation unlocks new social moves (Leadership, Veto).
+- **The Emergent Property - [Social Capital]:** The creation of a "Trust Economy." Agents behave altruistically based on the [atomic facts BPMS] of that the game mechanics reward it.
 
--   **The Axis:** Y = Challenge, X = Skill.
--   **The Zone:** The PLMR dynamically adjusts the difficulty of tasks to keep the user in the "Flow Channel" (Diagonal).
--   **The Pacing:** It alternates between "High Tension" (Boss Fights/Hard Problems) and "Low Tension" (Rest/Easy Tasks).
--   **The Architecture:** It structures knowledge into "Levels" (e.g., Novice, Apprentice, Master) that must be unlocked sequentially.
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Mastery Curve]**
-The user experiences a satisfying arc of improvement, never feeling too bored (Under-challenged) or too anxious (Over-challenged).
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *We are who others say we are.* Reputation is a currency.
+- **Formal Stratum (Layer 2 - The Game Theory):** Based on **Iterated Prisoner's Dilemma**. `Payoff(Cooperate) > Payoff(Defect)` (in the long run).
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Belonging." The validation of being a valued member of the tribe.
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Protocol of Cognitive Scaffolding (PRS-COG-022)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Control Theory (PID Controllers)'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Dynamic Difficulty Adjustment (DDA) Algorithms'(-ing) BPMS]`**.
+**Rationale / Justification:** Essential for `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS]`.
 
-**Rationale / Justification:** Good pacing turns a grind into an adventure.
+**Scope of Application:** Applies to guilds, reputation systems, and voting mechanics.
 
-**Scope of Application:** Applies to tutorials, curriculum design, and project milestones.
+------
 
-----
+##### `The Mechanism of Chrono-Pacing` (**ID:** `PLMR-MECH-010`)
 
-##### `The Law of Multi-Resolution Feedback` (ID: `PLMR-RES-010`)
+**Objective:** To formally `ADD` a Basic Setting (Mechanism) that controls the flow of time to maximize dramatic impact.
 
-**Objective:** To formally `DEFINE` the necessity of **Feedback at All Scales**, from the micro-interaction to the macro-narrative.
-
-**Target Axiom/Principle:** `The Law of Multi-Resolution Feedback`
+**Target Axiom/Principle:** `The Mechanism of Chrono-Pacing`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This law asserts that **The System must Speak**. Silence is ambiguity; ambiguity is the enemy of play.
+**The Mechanism of Chrono-Pacing**
 
-**The Mechanism - [The Feedback Cascade]**
+- **Core Essence:** This mechanism asserts that `timing is everything`. It gives the system control over the "Clock Speed" of reality, speeding it up (Montage) or slowing it down (Bullet Time) based on context.
+- The Mechanism - [The Time Dilation Engine]:
+  - **The Trigger:** High-intensity events (Combat, Climax) or Low-intensity events (Travel, Waiting).
+  - **The Warp:** The system adjusts the `Ticks_Per_Second` ratio.
+  - **The Effect:** Boring parts are skipped; exciting parts are savored.
+- **The Emergent Property - [Cinematic Reality]:** The creation of a "Director's Cut" life. The agent feels like the protagonist of a well-edited movie.
 
--   **Micro (Instant):** Button click sound, hover effect, cursor change. (Visceral).
--   **Meso (Short-Term):** "Task Complete" notification, XP gain, Loot drop. (Tactical).
--   **Macro (Long-Term):** Level Up, Badge Unlock, Narrative Chapter End. (Strategic).
--   **The Rule:** Every user action must trigger at least one layer of feedback.
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Juiciness]**
-The interface feels "Juicy"—responsive, alive, and satisfying to touch.
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *Time is subjective.* The clock serves the drama, not the physics.
+- **Formal Stratum (Layer 2 - The Pacing Algorithm):** `Time_Scale = 1 / Interest_Level`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Adrenaline" (Slow-Mo) or "Progress" (Fast-Forward).
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Mechanism of Phenomenological Resonance (EDGE-PHEN-018)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Signal Processing'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['UI Animations'(-ing) BPMS]`** and **`['Haptic Feedback'(-ing) BPMS]`**.
+**Rationale / Justification:** Aligns with `['Chrono-Kinetic Continuity'(-ing) BPMS]`.
 
-**Rationale / Justification:** Feedback confirms agency. It tells the user, "I heard you, and you changed the world."
+**Scope of Application:** Applies to combat, travel, and simulation speed controls.
 
-**Scope of Application:** Applies to UI/UX, sound design, and notification systems.
+------
 
-----
+##### `The Law of Feedback Loops` (**ID:** `PLMR-MECH-011`)
 
-##### The Substrate & Phenomenological Layer (The Implementation of Play)
+**Objective:** To formally `ADD` a Basic Setting (Law) that defines the cybernetic governance of the system via Positive and Negative feedback.
 
-*The actual instances, code, and observable phenomena of the game.*
-
-##### `The Mechanism of Asset Binding` (ID: `PLMR-IMPL-011`)
-
-**Objective:** To formally `DEFINE` how abstract mechanics are bound to concrete **Assets** (Images, Sounds, Text) to create the "Skin" of the game.
-
-**Target Axiom/Principle:** `The Mechanism of Asset Binding`
+**Target Axiom/Principle:** `The Law of Feedback Loops`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This mechanism asserts that **Mechanics need Metaphors**. A "+1" is math; a "Gold Coin" is wealth.
+**The Law of Feedback Loops**
 
-**The Mechanism - [The Skinning Engine]**
+- **Core Essence:** This law asserts that `stability requires correction`. It defines the PLMR as a **Cybernetic Governor** that uses loops to keep the game "Fun" (neither too hard nor too easy).
+- The Mechanism - [The Dual Loop]:
+  - **Positive Feedback (The Snowball):** Winners get stronger (Kill Streaks, Compound Interest). Creates excitement and endings.
+  - **Negative Feedback (The Rubber Band):** Losers get help (Blue Shells, Catch-up XP). Creates stability and fairness.
+  - **The Balance:** The system dynamically mixes these to maintain the "Goldilocks Zone."
+- **The Emergent Property - [Dynamic Equilibrium]:** The creation of "The Meta." The game constantly self-corrects, preventing stagnation.
 
--   **The Skeleton:** The abstract mechanic (e.g., `Increment(User.Score, 10)`).
--   **The Skin:** The thematic asset (e.g., "Sci-Fi" -> "Data Shard"; "Fantasy" -> "Mana Crystal").
--   **The Binding:** The PLMR binds the asset to the mechanic based on the current `['Praxial Research Station (PRS)'(-ing) BPMS]` Mode (Jungle, Town, Company).
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Thematic Immersion]**
-The game feels coherent. The math is hidden behind the magic.
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *Balance is a verb.* It is an active process of pushing and pulling.
+- **Formal Stratum (Layer 2 - The Control Theory):** `Output = Input + Gain * Error`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Fairness." The feeling that they always have a fighting chance.
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Axiom of Environmental Polymorphism (PRS-MODE-011)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Object-Oriented Programming (Polymorphism)'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Asset Bundles'(-ing) BPMS]`** and **`['CSS Themes'(-ing) BPMS]`**.
+**Rationale / Justification:** Essential for `sustainability` of the `Fun Engine`.
 
-**Rationale / Justification:** Context matters. A spreadsheet is a game if you skin it like a spaceship dashboard.
+**Scope of Application:** Applies to economy balance, combat balance, and difficulty adjustment.
 
-**Scope of Application:** Applies to visual design, sound effects, and flavor text.
+------
 
-----
+##### `The Protocol of Ludic Onboarding` (**ID:** `PLMR-MECH-012`)
 
-##### `The Protocol of Runtime Gamification` (ID: `PLMR-EXEC-012`)
+**Objective:** To formally `ADD` a Basic Setting (Protocol) that governs the entry of new agents into the system.
 
-**Objective:** To formally `DEFINE` the runtime execution of gamification logic, ensuring it runs **Parallel** to the core task without blocking it.
-
-**Target Axiom/Principle:** `The Protocol of Runtime Gamification`
+**Target Axiom/Principle:** `The Protocol of Ludic Onboarding`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This protocol asserts that **Fun is a Sidecar**. It runs alongside the main process, observing and augmenting, but never obstructing.
+**The Protocol of Ludic Onboarding**
 
-**The Mechanism - [The Observer Pattern]**
+- **Core Essence:** This protocol asserts that `complexity must be unfolded`. It defines the "Tutorial" not as a separate mode, but as the initial state of the `['system existence engine'(-ing) BPMS]`.
+- The Mechanism - [The Unfolding Flower]:
+  - **The Seed:** The agent starts with 1 verb (e.g., "Jump").
+  - **The Petal:** As the verb is mastered, a new context is revealed requiring a new verb.
+  - **The Bloom:** The full complexity is only revealed when the agent is ready.
+- **The Emergent Property - [Invisible Teaching]:** The creation of "Intuitive Competence." The agent learns without realizing they are being taught.
 
--   **The Subject:** The Core Task (e.g., "Generate Report").
--   **The Observer:** The PLMR Daemon.
--   **The Trigger:** When the Subject emits an event ("Report Generated"), the Observer fires.
--   **The Action:** The Observer calculates rewards and updates the UI overlay.
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Seamless Integration]**
-The user works normally, and the "Game" happens magically around them.
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *To teach is to empower.* Knowledge should be given exactly when needed.
+- **Formal Stratum (Layer 2 - The Pedagogical Scaffolding):** `Available_Mechanics = Function(Agent_Mastery)`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Curiosity." "What does this button do?"
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Protocol of Asynchronous Harmony (EDGE-EVO-003)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Event-Driven Architecture'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Background Workers'(-ing) BPMS]`** and **`['WebSockets'(-ing) BPMS]`**.
+**Rationale / Justification:** Ensures accessibility and `(symbiois) evolution` of new users.
 
-**Rationale / Justification:** If the game slows down the work, the user will turn it off.
+**Scope of Application:** Applies to tutorials, UI disclosure, and skill acquisition.
 
-**Scope of Application:** Applies to system performance, event handling, and UI overlays.
+------
 
-----
+##### `The Mechanism of Goal Serialization` (**ID:** `PLMR-MECH-013`)
 
-##### `The Law of Social Leaderboards` (ID: `PLMR-SOC-013`)
+**Objective:** To formally `ADD` a Basic Setting (Mechanism) that breaks infinite tasks into finite, rewarding chunks.
 
-**Objective:** To formally `DEFINE` the **Social Dimension** of play, utilizing competition and comparison to drive engagement.
-
-**Target Axiom/Principle:** `The Law of Social Leaderboards`
+**Target Axiom/Principle:** `The Mechanism of Goal Serialization`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This law asserts that **Status is Relative**. We measure ourselves against others.
+**The Mechanism of Goal Serialization**
 
-**The Mechanism - [The Ranked List]**
+- **Core Essence:** This mechanism asserts that `infinity is paralyzing`. It defines the PLMR as a **Quest Engine** that slices the "Great Work" into "Daily Quests."
+- The Mechanism - [The Quest Log]:
+  - **The Macro-Goal:** "Save the World." (Too big).
+  - **The Micro-Goal:** "Find the Sword." (Manageable).
+  - **The Nano-Goal:** "Walk to the Cave." (Immediate).
+  - **The Serialization:** The system feeds these to the agent in a linear stream.
+- **The Emergent Property - [Momentum]:** The creation of "The Grind." The agent is propelled forward by the constant completion of small tasks.
 
--   **The Metric:** A quantifiable measure of success (e.g., "Bugs Fixed," "Words Written").
--   **The Scope:** Global (All Users), Local (Team), or Temporal (This Week).
--   **The Display:** A visible ranking showing the User's position relative to peers.
--   **The Nudge:** "You are 5 points away from passing User X."
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Friendly Rivalry]**
-Users push themselves harder to climb the ladder.
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *A journey of a thousand miles begins with a single step.*
+- **Formal Stratum (Layer 2 - The Task Queue):** `Quest_Chain = [Task_1, Task_2, ... Task_N]`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Productivity." The satisfaction of checking boxes.
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Protocol of Darwinian Cognition (PRS-MODE-012)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Social Comparison Theory'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Leaderboard Databases (Redis)'(-ing) BPMS]`**.
+**Rationale / Justification:** Aligns with `['task(-ing) BPMS]`.
 
-**Rationale / Justification:** Humans are social primates. We care about hierarchy.
+**Scope of Application:** Applies to project management, quest lines, and achievement tracking.
 
-**Scope of Application:** Applies to community features, team challenges, and public profiles.
+------
 
-----
+##### `The Law of Aesthetic Coherence` (**ID:** `PLMR-MECH-014`)
 
-##### `The Mechanism of Narrative Badging` (ID: `PLMR-STORY-014`)
-
-**Objective:** To formally `DEFINE` **Badges** not just as icons, but as **Narrative Milestones** that tell the story of the user's journey.
-
-**Target Axiom/Principle:** `The Mechanism of Narrative Badging`
-
-**Operation:** `ADD`
-
-**Definition:**
-
-**Core Essence**
-This mechanism asserts that **Achievements are Biography**. A badge says, "I was there, and I did that."
-
-**The Mechanism - [The Story-Token]**
-
--   **The Trigger:** A specific, significant accomplishment (e.g., "First 1000 lines of code").
--   **The Artifact:** A unique visual badge with a "Flavor Text" description.
--   **The Collection:** The badges are displayed in the User's "Trophy Case."
--   **The Rarity:** Some badges are "Unique" (only one exists) or "Seasonal" (limited time).
-
-**The Emergent Property - [Digital Reputation]**
-The user's profile becomes a resume of their exploits.
-
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Axiom of Narrative Continuity (PRS-MEAN-023)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Semiotics'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['NFTs (Optional)'(-ing) BPMS]`** or **`['Database Records'(-ing) BPMS]`**.
-
-**Rationale / Justification:** People collect things. Badges are collectible memories.
-
-**Scope of Application:** Applies to achievements, user profiles, and history tracking.
-
-----
-
-##### `The Protocol of Failure Recovery (The Extra Life)` (ID: `PLMR-FAIL-015`)
-
-**Objective:** To formally `DEFINE` how the system handles **Failure**, transforming it from a punishment into a **Learning Opportunity**.
-
-**Target Axiom/Principle:** `The Protocol of Failure Recovery`
-
-**Operation:** `ADD`
-
-**Definition:**
-
-**Core Essence**
-This protocol asserts that **Game Over is a Lie**. In a good game, failure is just a checkpoint.
-
-**The Mechanism - [The Mercy Mechanic]**
-
--   **The Fail State:** The user makes a mistake (e.g., Code crashes, Experiment fails).
--   **The Cushion:** The system does *not* delete progress. It offers a "Continue?" prompt.
--   **The Cost:** A small penalty (e.g., "Time Lost") but not a catastrophe.
--   **The Hint:** The system provides a clue on how to succeed next time.
-
-**The Emergent Property - [Psychological Safety]**
-The user is not afraid to experiment because the cost of failure is low.
-
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Axiom of Reparative Ontogenesis (PRS-SURG-040)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Resilience Engineering'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Undo/Redo Stacks'(-ing) BPMS]`** and **`['Version Control Rollbacks'(-ing) BPMS]`**.
-
-**Rationale / Justification:** Fear of failure kills creativity. The "Extra Life" enables risk-taking.
-
-**Scope of Application:** Applies to error handling, debugging tools, and experimental modes.
-
-----
-
-##### `The Directive of Easter Egg Implantation` (ID: `PLMR-HIDE-016`)
-
-**Objective:** To formally `DEFINE` the practice of hiding **Secrets** within the system to reward deep exploration.
-
-**Target Axiom/Principle:** `The Directive of Easter Egg Implantation`
-
-**Operation:** `ADD`
-
-**Definition:**
-
-**Core Essence**
-This directive asserts that **Secrets create Depth**. A world with no secrets feels flat and artificial.
-
-**The Mechanism - [The Hidden Layer]**
-
--   **The Secret:** A hidden feature, joke, or piece of lore.
--   **The Trigger:** An obscure action (e.g., "Click the logo 10 times," "Type the Konami Code").
--   **The Reveal:** A surprising, delightful response.
--   **The Rule:** Secrets must never be *required* for core function, only for delight.
-
-**The Emergent Property - [Myth Building]**
-Users share rumors and guides about "how to find the secret room," building a community culture.
-
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Directive of Implicit-Explicit Fusion (HYBRID-LAYER-013)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Steganography'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Conditional Logic'(-ing) BPMS]`**.
-
-**Rationale / Justification:** Secrets turn users into insiders.
-
-**Scope of Application:** Applies to UI, command lines, and documentation.
-
-----
-
-##### `The Axiom of Infinite Scaling (The Endgame)` (ID: `PLMR-SCALE-017`)
-
-**Objective:** To formally `DEFINE` the **Endgame**, ensuring that even max-level users have meaningful goals.
-
-**Target Axiom/Principle:** `The Axiom of Infinite Scaling`
-
-**Operation:** `ADD`
-
-**Definition:**
-
-**Core Essence**
-This axiom asserts that **There is no Ceiling**. When the vertical growth stops, horizontal growth begins.
-
-**The Mechanism - [The Prestige System]**
-
--   **The Cap:** When a user hits Level 100.
--   **The Reset:** They can choose to "Prestige" (Reset to Level 1).
--   **The Bonus:** They gain a permanent multiplier or a unique "Prestige Badge."
--   **The Fractal:** New, harder game modes unlock (e.g., "New Game+").
-
-**The Emergent Property - [Eternal Relevance]**
-The system remains relevant to the user indefinitely.
-
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Principle of Renormalization Group Flow (PRS-SCALE-028)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Fractal Geometry'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Recursive Database Schemas'(-ing) BPMS]`**.
-
-**Rationale / Justification:** We don't want users to "beat" the Fun Engine and leave. We want them to inhabit it.
-
-**Scope of Application:** Applies to long-term progression and veteran user retention.
-
-----
-
-##### `The Protocol of Ludic Accessibility` (ID: `PLMR-ACC-018`)
-
-**Objective:** To formally `DEFINE` that Fun must be **Accessible** to all, regardless of skill level or ability.
-
-**Target Axiom/Principle:** `The Protocol of Ludic Accessibility`
-
-**Operation:** `ADD`
-
-**Definition:**
-
-**Core Essence**
-This protocol asserts that **Fun is Universal**. Barriers to entry must be minimized.
-
-**The Mechanism - [The Assist Mode]**
-
--   **The Options:** Settings to adjust speed, difficulty, text size, and color blindness.
--   **The Onboarding:** A gentle tutorial that assumes zero prior knowledge.
--   **The Safety Net:** Automated help if the user gets stuck.
-
-**The Emergent Property - [Inclusivity]**
-The system welcomes everyone, not just "Gamers."
-
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Axiom of Social Cohesion (PRS-MODE-014)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Universal Design Principles'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['WCAG Compliance'(-ing) BPMS]`**.
-
-**Rationale / Justification:** Exclusion is the opposite of Fun.
-
-**Scope of Application:** Applies to UI design, tutorials, and difficulty settings.
-
-----
-
-##### `The Law of Aesthetic Coherence` (ID: `PLMR-ART-019`)
-
-**Objective:** To formally `DEFINE` the role of **Art and Aesthetics** in the ludic experience.
+**Objective:** To formally `ADD` a Basic Setting (Law) that mandates the visual/audio feedback must match the mechanical reality.
 
 **Target Axiom/Principle:** `The Law of Aesthetic Coherence`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This law asserts that **Beauty is Function**. A game that looks good feels good.
+**The Law of Aesthetic Coherence**
 
-**The Mechanism - [The Style Guide Enforcer]**
+- **Core Essence:** This law asserts that `form follows function`. It defines the "Juice" of the system—the particles, sounds, and shakes—as critical information carriers, not just decoration.
+- The Mechanism - [The Synesthetic Render]:
+  - **The Event:** A heavy hit.
+  - **The Render:** A bass-heavy sound, a screen shake, a large red number.
+  - **The Coherence:** The intensity of the render matches the intensity of the math.
+- **The Emergent Property - [Game Feel]:** The creation of "Crunch." The system feels tactile and responsive.
 
--   **The Palette:** A consistent color scheme.
--   **The Typography:** Readable and thematic fonts.
--   **The Motion:** Smooth, eased animations.
--   **The Rule:** No "Programmer Art" in production.
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Polish]**
-The system feels professional and high-quality.
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *The interface is the world.* If it doesn't look like it hurt, it didn't hurt.
+- **Formal Stratum (Layer 2 - The Signal Processing):** `Feedback_Intensity ∝ Event_Magnitude`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Impact." The visceral connection to the virtual world.
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Principle of Esthetic Engineering (PSDL-ART-016)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Color Theory'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['CSS Variables'(-ing) BPMS]`** and **`['Design Systems'(-ing) BPMS]`**.
+**Rationale / Justification:** Essential for `['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]`.
 
-**Rationale / Justification:** Aesthetics are the first thing the user notices.
+**Scope of Application:** Applies to UI design, VFX, SFX, and haptics.
 
-**Scope of Application:** Applies to all visual elements.
+------
 
-----
+##### `The Directive of Endgame Metamorphosis` (**ID:** `PLMR-MECH-015`)
 
-##### `The Directive of Community Genesis` (ID: `PLMR-COMM-020`)
+**Objective:** To formally `ADD` a Basic Setting (Directive) that changes the genre of the system at high levels of play.
 
-**Objective:** To formally `DEFINE` the goal of turning players into a **Community**.
-
-**Target Axiom/Principle:** `The Directive of Community Genesis`
+**Target Axiom/Principle:** `The Directive of Endgame Metamorphosis`
 
 **Operation:** `ADD`
 
-**Definition:**
+**New Definition / Modification Details:**
 
-**Core Essence**
-This directive asserts that **The Best Game is Other People**.
+**The Directive of Endgame Metamorphosis**
 
-**The Mechanism - [The Guild System]**
+- **Core Essence:** This directive asserts that `the game must change`. It defines a phase shift where the agent transitions from "Player" (Actor) to "Master" (Architect).
+- The Mechanism - [The Genre Shift]:
+  - **Early Game:** Survival/Exploration (RPG).
+  - **Mid Game:** Optimization/Expansion (Strategy).
+  - **Late Game:** Governance/Creation (God Game).
+- **The Emergent Property - [Apotheosis]:** The creation of "The Elder Game." The user eventually becomes a co-creator of the system.
 
--   **The Group:** Users can form "Guilds" or "Teams."
--   **The Purpose:** Shared objectives (e.g., "Guild Research Project").
--   **The Space:** Private channels for communication.
--   **The Identity:** Guild names, logos, and colors.
+**['Praxial Genesis Canon'(-ing) BPMS]:**
 
-**The Emergent Property - [Tribalism]**
-Users feel a sense of belonging and loyalty to their group.
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *To master the rules is to rewrite them.*
+- **Formal Stratum (Layer 2 - The Scale Shift):** `Scope(Agent) -> Scope(System)`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Transcendence." Moving beyond the rules they once followed.
 
-**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
--   **Layer 1 (Constitutional):** Aligns with **`['The Directive of Unified Action (PRS-MODE-015)'(-ing) BPMS]`**.
--   **Layer 2 (Formalism):** Utilizes **`['Social Network Analysis'(-ing) BPMS]`**.
--   **Layer 3 (Substrate):** Manifests as **`['Chat Rooms'(-ing) BPMS]`** and **`['Group Permissions'(-ing) BPMS]`**.
+**Rationale / Justification:** Aligns with `['Praxial Systemic Governance (PSG)'(-ing) BPMS]`.
 
-**Rationale / Justification:** Communities survive long after the game content is consumed.
+**Scope of Application:** Applies to long-term progression, community management, and system evolution.
 
-**Scope of Application:** Applies to social features and multiplayer interactions.
+------
+
+##### `The Axiom of Emergent Complexity` (**ID:** `PLMR-MECH-016`)
+
+**Objective:** To formally `ADD` a Basic Setting (Axiom) that guarantees complex fun arises from simple rules.
+
+**Target Axiom/Principle:** `The Axiom of Emergent Complexity`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**The Axiom of Emergent Complexity**
+
+- **Core Essence:** This axiom asserts that `more is different`. It defines the PLMR as a **Cellular Automata**, where simple local interactions generate complex global patterns (The Meta).
+- The Mechanism - [The Combinatorial Explosion]:
+  - **The Atoms:** Simple rules (Rock beats Scissors).
+  - **The Molecules:** Combinations of rules (Rock + Fire).
+  - **The Organism:** The unexpected strategies that arise (The "Fire-Rock Rush" strategy).
+- **The Emergent Property - [Depth]:** The creation of "Unscripted Fun." The designer didn't plan it, but the system allowed it.
+
+**['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *The whole is greater than the sum of its parts.*
+- **Formal Stratum (Layer 2 - The Complexity Science):** Based on **Conway's Game of Life**. `Global_State = Iteration(Local_Rules)`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Discovery." Finding a combo no one else has found.
+
+**Rationale / Justification:** Essential for `(discover/build) unknown`.
+
+**Scope of Application:** Applies to combat systems, crafting, and economy.
+
+------
+
+##### `The Protocol of Meta-Gaming` (**ID:** `PLMR-MECH-017`)
+
+**Objective:** To formally `ADD` a Basic Setting (Protocol) that acknowledges and integrates the "Game outside the Game."
+
+**Target Axiom/Principle:** `The Protocol of Meta-Gaming`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**The Protocol of Meta-Gaming**
+
+- **Core Essence:** This protocol asserts that `the community is part of the engine`. It defines the Wikis, Forums, and Guides as an extension of the PLMR's memory.
+- The Mechanism - [The External Loop]:
+  - **The Puzzle:** The system presents a challenge too hard for one agent.
+  - **The Hive Mind:** Agents collaborate outside the system to solve it.
+  - **The Integration:** The system acknowledges the solution and evolves.
+- **The Emergent Property - [Collective Intelligence]:** The creation of "The Wiki." The user base becomes a distributed supercomputer solving the game.
+
+**['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *No player is an island.* The game exists in the culture, not just the code.
+- **Formal Stratum (Layer 2 - The Social Network):** `Solution_Time ∝ 1 / Community_Size`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Solidarity." Being part of a massive research project.
+
+**Rationale / Justification:** Aligns with `['Praxial Collaborative Intelligence (PCI)'(-ing) BPMS]`.
+
+**Scope of Application:** Applies to ARGs, raid mechanics, and community events.
+
+------
+
+##### `The Law of Ludic Sublimation` (**ID:** `PLMR-MECH-018`)
+
+**Objective:** To formally `ADD` a Basic Setting (Law) that converts "Play" into "Work" (and vice versa).
+
+**Target Axiom/Principle:** `The Law of Ludic Sublimation`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**The Law of Ludic Sublimation**
+
+- **Core Essence:** This law asserts that `play is potential work`. It defines the PLMR as a transformer that can take a "Game" (e.g., folding proteins) and output "Science," or take "Work" (e.g., data entry) and output "Fun."
+- The Mechanism - [The Gamification Bridge]:
+  - **The Wrapper:** The system wraps a utilitarian task in a ludic shell (Points, Leaderboards, Narrative).
+  - **The Action:** The agent plays the game.
+  - **The Sublimation:** The system strips the ludic shell and harvests the utilitarian output.
+- **The Emergent Property - [Productive Play]:** The creation of "Human Computation." Solving real-world problems through entertainment.
+
+**['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *Fun is functional.* The energy of play can be harnessed.
+- **Formal Stratum (Layer 2 - The Output Transducer):** `Real_Value = Play_Action * Context_Mapping`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Meaning." "I'm not just playing; I'm helping."
+
+**Rationale / Justification:** Aligns with `['Praxial Research Station (PRS)'(-ing) BPMS]`.
+
+**Scope of Application:** Applies to citizen science, crowdsourcing, and educational games.
+
+------
+
+##### `The Directive of Infinite Replayability` (**ID:** `PLMR-MECH-019`)
+
+**Objective:** To formally `ADD` a Basic Setting (Directive) that ensures the system never ends.
+
+**Target Axiom/Principle:** `The Directive of Infinite Replayability`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**The Directive of Infinite Replayability**
+
+- **Core Essence:** This directive asserts that `the end is a new beginning`. It defines the PLMR as a **Procedural Generator** that can create infinite variations of content.
+- The Mechanism - [The Seed Engine]:
+  - **The Seed:** A random number.
+  - **The Algorithm:** A set of rules for generating terrain, quests, and items.
+  - **The World:** A unique instance created for that run.
+- **The Emergent Property - [Novelty]:** The creation of "The Unseen." The agent can never see everything, so they never stop looking.
+
+**['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *Creation is infinite.* The system is a fountain, not a reservoir.
+- **Formal Stratum (Layer 2 - The PCG Algorithms):** Based on **Perlin Noise** and **Wave Function Collapse**. `World = Function(Seed)`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Freshness." Every day is a new world.
+
+**Rationale / Justification:** Essential for `sustainability`.
+
+**Scope of Application:** Applies to map generation, loot generation, and dynamic storytelling.
+
+------
+
+##### `The Axiom of The Magic Circle` (**ID:** `PLMR-MECH-020`)
+
+**Objective:** To formally `ADD` a Basic Setting (Axiom) that defines the boundary and sanctity of the game space.
+
+**Target Axiom/Principle:** `The Axiom of The Magic Circle`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**The Axiom of The Magic Circle**
+
+- **Core Essence:** This axiom asserts that `the game is sacred`. It defines the boundary within which the rules of the PLMR apply. Inside the circle, a "King" is just a piece of wood, and a "Piece of Wood" can be a King.
+- The Mechanism - [The Ontological Membrane]:
+  - **The Entry:** The agent explicitly opts-in ("Press Start").
+  - **The Transformation:** The agent sheds their external identity and assumes their Ludic Role (Avatar).
+  - **The Exit:** The agent leaves the circle, returning to the mundane world, but changed by the experience.
+- **The Emergent Property - [Safety]:** The creation of a "Sanctuary." A place where consequences are simulated, allowing for radical experimentation without real-world harm.
+
+**['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1 - The Core Belief):** *The game is a separate reality.* It has its own time, space, and meaning.
+- **Formal Stratum (Layer 2 - The Boundary Condition):** `If (In_Game) -> Apply(Ludic_Physics) Else -> Apply(Real_Physics)`
+- **Phenomenal Stratum (Layer 3 - The Subjective Experience):** The agent experiences "Escapism" (in the positive sense). A vacation from the constraints of ordinary reality.
+
+**Rationale / Justification:** This defines the `Scope of Application` for the entire registry.
+
+**Scope of Application:** Applies to session management, immersion, and role-playing boundaries.
+
+---
 
