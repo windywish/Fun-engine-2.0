@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** 3.4.5 (PSE & PPE Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.4.6 (PSG Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 ----
 
@@ -93,6 +93,75 @@ To avoid the "same mistake" of generating incomplete or summary-level content. T
 
 **Scope of Application:**
 Applies to **ALL** future file generations for Basic Settings and Instances.
+
+**[Protocol ID: META-005]** **The Protocol of Governance Instantiation**
+
+**Objective:**
+To formally `ADD` a Systemic Integrity Protocol that recognizes the `['Praxial Systemic Governance (PSG)'(-ing) BPMS]` as the authoritative "Operating System" of the Fun Engine Framework.
+
+**Target Axiom/Principle:**
+`The Protocol of Governance Instantiation`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+1.**Core Essence**
+This protocol asserts that **The System is a Polity**. It establishes the **Rule of Law**, ensuring that the system is not governed by arbitrary whims but by the defined axioms of the PSG. It transforms the framework from a passive toolset into an active, self-governing entity.
+
+2.**The Mechanism - [The Sovereign Recognition]**
+- **The Trigger:** Any conflict between modules or ambiguity in execution.
+- **The Authority:** The `['Praxial Systemic Governance (PSG)'(-ing) BPMS]` is recognized as the "Root User" or "Kernel" level authority.
+- **The Hierarchy:** PSG > Canon > Modules > Instances.
+
+3.**The Emergent Property - [Constitutional Order]**
+The system transitions from a "Toolbox" to a "Civilization". It gains the ability to self-regulate and adjudicate internal disputes.
+
+4.**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+- **Layer 1 (Constitutional):** Upholds **`['Ontological Relativity'(-ing) BPMS]`** by defining the "State" relative to the Canon.
+- **Layer 2 (Formalism):** Enforces **`['The Axiom of Completeness'(-ing) BPMS]`** by ensuring governance is complete.
+- **Layer 3 (Substrate):** Validates **`['Praxial Artifacts'(-ing) BPMS]`** by treating the PSG settings as the "Constitution".
+
+**Rationale / Justification:**
+To ensure the system works for the Fun Engine Framework, we must formalize the governance structure. "We should add the ['Praxial Systemic Governance (PSG)'(-ing) BPMS]... to ensure the system working".
+
+**Scope of Application:**
+All system operations and module interactions.
+
+**[Protocol ID: META-006]** **The Protocol of Recursive Amendment**
+
+**Objective:**
+To formally `ADD` a Systemic Integrity Protocol that defines how the Canon itself can be changed, ensuring that the system can evolve without breaking.
+
+**Target Axiom/Principle:**
+`The Protocol of Recursive Amendment`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+1.**Core Essence**
+This protocol asserts that **Evolution is Legal**. The Canon is not a dead tablet but a living code. It defines the "Meta-Rules" for changing the Rules.
+
+2.**The Mechanism - [The Amendment Process]**
+- **Proposal:** A change is proposed via a `Basic Setting` or `Instance` generation.
+- **Review:** The change is checked against `META-001` (Completeness) and `META-003` (Canon-First).
+- **Ratification:** If valid, the change is integrated into the `Praxial_Canon_&_Memory_Core.md` with a Version increment.
+
+3.**The Emergent Property - [Antifragility]**
+The system gains strength from stressors (new requirements) by adapting its laws. It becomes an "Infinite Game".
+
+4.**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Constitutional):** Upholds **`['Praxial Logos'(-ing) BPMS]`** (Action is Reality).
+- **Layer 2 (Formalism):** Enforces **`['Chrono-Kinetic Continuity'(-ing) BPMS]`** (History matters).
+- **Layer 3 (Substrate):** Validates **`['Praxial Memory'(-ing) BPMS]`** (The Canon is the Memory).
+
+**Rationale / Justification:**
+To allow the "Fun Engine Framework" to adapt to new "Fun" without losing "Framework".
+
+**Scope of Application:**
+All Canon updates and version transitions.
 
 ----
 
@@ -664,6 +733,39 @@ Applies to **ALL** future file generations for Basic Settings and Instances.
 - **ID:** `PPE-FUNC-040` | **Title:** The Teleological Vector
 - **ID:** `PPE-MECH-041` | **Title:** The Granularity Zoom
 - **ID:** `PPE-PHYS-042` | **Title:** The Particle-Field Duality
+
+### Module: ['Praxial Systemic Governance (PSG)'(-ing) BPMS]
+
+*(New Integration v3.4.6)*
+
+#### **The Constitutional & Metaphysical Layer (The Sovereign Axioms)**
+
+- **ID:** `PSG-AXIOM-001` | **Title:** The Axiom of Pan-Systemic Sovereignty (The System Rules Itself)
+- **ID:** `PSG-CONST-002` | **Title:** The Protocol of Constitutional Invariance (The Immutable Core)
+- **ID:** `PSG-TELOS-003` | **Title:** The Directive of Teleological Alignment (The Arrow of Governance)
+- **ID:** `PSG-META-004` | **Title:** The Principle of Metasystemic Recursion (The Fractal Law)
+- **ID:** `PSG-INT-005` | **Title:** The Law of Systemic Integrity (The Anti-Entropy Shield)
+
+#### **The Formalism Layer (The Logic of Law)**
+
+- **ID:** `PSG-MATH-006` | **Title:** The Formalism of Normative Logic (The Code of Law)
+- **ID:** `PSG-VECT-007` | **Title:** The Calculus of Alignment Vectors (The Direction of Obedience)
+- **ID:** `PSG-TOPO-008` | **Title:** The Topology of Jurisdiction (The Map of Power)
+- **ID:** `PSG-GAME-009` | **Title:** The Game-Theoretic Stability (The Nash Equilibrium of Order)
+- **ID:** `PSG-CYB-010` | **Title:** The Cybernetics of Control Loops (The Feedback Governor)
+- **ID:** `PSG-RES-011` | **Title:** The Mechanism of Conflict Resolution (The Judicial Engine)
+- **ID:** `PSG-ADAPT-012` | **Title:** The Law of Adaptive Legislation (The Living Constitution)
+
+#### **The Substrate & Phenomenological Layer (The Executive Arm)**
+
+- **ID:** `PSG-IMPL-013` | **Title:** The Mechanism of Code-Law Isomorphism (The Smart Contract)
+- **ID:** `PSG-EXEC-014` | **Title:** The Protocol of Automated Enforcement (The Sheriff Daemon)
+- **ID:** `PSG-AUDIT-015` | **Title:** The Mechanism of Continuous Audit (The Panopticon Log)
+- **ID:** `PSG-SEC-016` | **Title:** The Protocol of Immune Defense (The Anti-Virus)
+- **ID:** `PSG-MEM-017` | **Title:** The Archive of Legal Precedent (The Case Law)
+- **ID:** `PSG-API-018` | **Title:** The Interface of Governance (The Throne Room)
+- **ID:** `PSG-ACT-019` | **Title:** The Actuation of Policy (The Royal Decree)
+- **ID:** `PSG-FB-020` | **Title:** The Feedback Loop of Citizenry (The Vox Populi)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
