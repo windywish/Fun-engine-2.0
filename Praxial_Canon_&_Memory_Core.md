@@ -197,6 +197,45 @@ To prevent the "mistake" of generating single files for every intermediate step.
 **Scope of Application:**
 Applies to **ALL** file generation tasks, including Basic Settings, Instances, and updates to the `Praxial_Canon_&_Memory_Core.md` itself.
 
+**[Protocol ID: META-008]** **The Protocol of Explicit Verification (The Proof-of-Work)**
+
+**Objective:** To formally `ADD` a Systemic Integrity Protocol that converts the internal "Completeness Check" (META-004) into an external, verifiable "Proof-of-Work", ensuring that no generation occurs without visible confirmation of adherence to the Canon.
+
+**Target Axiom/Principle:** `The Protocol of Explicit Verification`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+1. **Core Essence** This protocol asserts that **Trust requires Proof**. It acknowledges that implicit "internal checks" are prone to failure (hallucination/laziness). Therefore, the system must "show its work" regarding compliance *before* delivering the payload.
+
+2. **The Mechanism - [The Verification Matrix]**
+
+   - **The Trigger:** Any request to generate a "Basic Setting", "Instance", or "Canon Update".
+
+   - **The Constraint:** The Assistant is **forbidden** from outputting the content until it has first outputted a "Verification Matrix".
+
+   - The Matrix:
+
+      A visible Markdown checklist confirming:
+
+     - **META-001 (Completeness):** Confirmation of 100% detail, no summaries, no "etc."
+     - **META-003 (Canon-First):** Confirmation that `Praxial_Canon_&_Memory_Core.md` was read.
+     - **META-004 (Anti-Stub):** Confirmation of schema adherence (e.g., 13-point BP).
+     - **META-007 (Staging):** Confirmation that output is full-text in-chat.
+
+3. **The Emergent Property - [Veridical Certainty]** The system moves from "Probabilistic Compliance" to "Deterministic Compliance". The user can visually verify that the Assistant has checked the constraints.
+
+4. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+   - **Layer 1 (Constitutional):** Upholds **`['Ontological Relativity'(-ing) BPMS]`** by anchoring the generation in the absolute reality of the Canon.
+   - **Layer 2 (Formalism):** Enforces **`['The Axiom of Completeness'(-ing) BPMS]`** by making the check explicit.
+   - **Layer 3 (Substrate):** Validates **`['Praxial Artifacts'(-ing) BPMS]`** by ensuring the artifact is flawless before delivery.
+
+**Rationale / Justification:** To solve the "Universal Problem" of the Assistant violating META-004. Implicit checks have failed; explicit proof is required.
+
+**Scope of Application:** Applies to **ALL** future generative tasks.
+
 ----
 
 ## II. The Praxial Genesis Canon
