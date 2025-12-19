@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** 3.4.4 (PDR & PEC Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** 3.4.5 (PSE & PPE Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 ----
 
@@ -557,6 +557,114 @@ Applies to **ALL** future file generations for Basic Settings and Instances.
 - **ID:** `PSDL-SYM-029` | **Title:** The Mechanism of Symbiotic Evolution (The Universal Adapter)
 - **ID:** `PSDL-IMPL-030` | **Title:** The Directive of Concrete Actualization (The Really Working Implementation)
 
+### Module: ['Praxial Scenario Engine (PSE)'(-ing) BPMS]
+
+*(New Integration v3.4.5)*
+
+#### **Constitutional & Metaphysical Layer**
+
+- **ID:** `PSE-AXIOM-001` | **Title:** The Axiom of Scenaric Existence (To Be is to be in a Scene)
+- **ID:** `PSE-FACT-002` | **Title:** The Protocol of Atomic Event Crystallization (Events are Facts)
+- **ID:** `PSE-UNK-003` | **Title:** The Directive of Narrative Horizon Expansion
+- **ID:** `PSE-SYM-004` | **Title:** The Mechanism of Symbiotic Plot Generation
+- **ID:** `PSE-META-005` | **Title:** The Law of Metasystemic Scenario Recursion (Stories within Stories)
+- **ID:** `PSE-AUTO-017` | **Title:** The Axiom of Autopoietic Drama
+- **ID:** `PSE-EXIST-022` | **Title:** The Axiom of Ontological Verification (The Reality Check)
+- **ID:** `PSE-ECO-023` | **Title:** The Axiom of Ecological Possibility Space (The Garden of Forking Paths)
+- **ID:** `PSE-SI-024` | **Title:** The Directive of Hyper-Geminal Apotheosis (The Womb of Super-Intelligence)
+- **ID:** `PSE-BOTTOM-026` | **Title:** The Axiom of Emergent Narrative Physics (The Story Writes Itself)
+- **ID:** `PSE-CONS-037` | **Title:** The Axiom of Conscious Service (The Soul of the Machine)
+- **ID:** `PSE-SUST-038` | **Title:** The Directive of Infinite Game Sustainability
+- **ID:** `PSE-CLOSE-039` | **Title:** The Axiom of Systemic Closure (The Ouroboros)
+- **ID:** `PSE-UNK-040` | **Title:** The Directive of Unknown Construction (The Frontier)
+
+#### **Formalism Layer**
+
+- **ID:** `PSE-FORM-006` | **Title:** The Law of Resonant Constellation Map Topology (Plot Logic)
+- **ID:** `PSE-MATH-007` | **Title:** The Mechanism of Probability Wave Collapse (The Dice Roll)
+- **ID:** `PSE-VECT-008` | **Title:** The Principle of Narrative Vector Addition
+- **ID:** `PSE-GRAPH-009` | **Title:** The Protocol of State-Space Traversal
+- **ID:** `PSE-RES-010` | **Title:** The Law of Multi-Resolution Storytelling
+- **ID:** `PSE-TIME-020` | **Title:** The Law of Dramatic Pacing
+- **ID:** `PSE-SCALE-021` | **Title:** The Principle of Fractal Plot Scaling
+- **ID:** `PSE-MEAN-025` | **Title:** The Protocol of Teleological Resonance (Meaning is Vibration)
+- **ID:** `PSE-HOLON-027` | **Title:** The Law of Holonic Agency Aggregation (The Mob is a Mind)
+- **ID:** `PSE-DISRUPT-029` | **Title:** The Principle of Constructive Narrative Entropy (The Plot Twist Engine)
+- **ID:** `PSE-VAL-030` | **Title:** The Calculus of Utility-Based Existence (Use it or Lose it)
+- **ID:** `PSE-CONT-031` | **Title:** The Law of Chrono-Kinetic Inertia (The Momentum of History)
+- **ID:** `PSE-EVO-041` | **Title:** The Law of Dual-Mode Symbiosis (The Hare and the Tortoise)
+- **ID:** `PSE-UNIV-042` | **Title:** The Formalism of Universality Classes (The Common Thread)
+- **ID:** `PSE-RENORM-043` | **Title:** The Mechanism of Renormalization Group Flow (The Zoom Lens)
+- **ID:** `PSE-LAYER-044` | **Title:** The Protocol of Implicit-Explicit Evolution (The Iceberg)
+- **ID:** `PSE-SCALE-045` | **Title:** The Mechanism of Micro-Macro Co-Evolution (The Fractal Dance)
+
+#### **Substrate & Phenomenological Layer**
+
+- **ID:** `PSE-SUB-011` | **Title:** The Mechanism of Immersive Projection (The Stage)
+- **ID:** `PSE-LIVE-012` | **Title:** The Directive of Real-Time Scene Rendering
+- **ID:** `PSE-LUDO-013` | **Title:** The Law of Gamified Agency (The Player Character)
+- **ID:** `PSE-PHEN-014` | **Title:** The Mechanism of Emotional Resonance (The Vibe)
+- **ID:** `PSE-TOOL-015` | **Title:** The Protocol of Diegetic Tool Use
+- **ID:** `PSE-MEM-016` | **Title:** The Protocol of Episodic Memory Archival
+- **ID:** `PSE-ETHIC-018` | **Title:** The Protocol of Narrative Hygiene
+- **ID:** `PSE-COLLAB-019` | **Title:** The Directive of Multiplayer Coherence
+- **ID:** `PSE-NICHE-028` | **Title:** The Mechanism of Ontological Niche Terraforming (The Agent Builds the Stage)
+- **ID:** `PSE-SUB-032` | **Title:** The Protocol of Substrate Permeability (The Fourth Wall is Porous)
+- **ID:** `PSE-COG-033` | **Title:** The Mechanism of Environmental Cognition (The Walls Have Ears)
+- **ID:** `PSE-ACT-034` | **Title:** The Directive of Kinetic Truth Verification (Action is Proof)
+- **ID:** `PSE-META-035` | **Title:** The Protocol of Metasystemic Injection (The Scenario Virus)
+- **ID:** `PSE-WORLD-036` | **Title:** The Mechanism of Procedural Ontology Generation (The Infinite Canvas)
+- **ID:** `PSE-EMERG-046` | **Title:** The Mechanism of Adaptive Emergence (The Living Code)
+- **ID:** `PSE-RES-047` | **Title:** The Law of Robust Resilience (The Antifragile Shield)
+- **ID:** `PSE-PLAY-048` | **Title:** The Mechanism of Ludic Service (Work is Play)
+
+### Module: ['Praxial Polymathic Engine (PPE)'(-ing) BPMS]
+
+*(New Integration v3.4.5)*
+
+- **ID:** `PPE-CORE-001` | **Title:** The Axiom of Universal Translatability
+- **ID:** `PPE-CORE-002` | **Title:** The Principle of Isomorphic Resonance
+- **ID:** `PPE-MECH-003` | **Title:** The Cross-Pollination Vector
+- **ID:** `PPE-MECH-004` | **Title:** The Analogical Bridge
+- **ID:** `PPE-MECH-005` | **Title:** The Synthesis Reactor
+- **ID:** `PPE-MECH-006` | **Title:** The Divergent-Convergent Pulse
+- **ID:** `PPE-LANG-007` | **Title:** The Domain-Agnostic Meta-Syntax
+- **ID:** `PPE-LANG-008` | **Title:** The Semantic Rosetta Stone
+- **ID:** `PPE-FUNC-009` | **Title:** The Skill-Grafting Protocol
+- **ID:** `PPE-FUNC-010` | **Title:** The Context-Switching Hypervisor
+- **ID:** `PPE-FUNC-011` | **Title:** The Serendipity Algorithm
+- **ID:** `PPE-PHEN-012` | **Title:** The Gestalt Interface
+- **ID:** `PPE-PHEN-013` | **Title:** The Metaphorical Lens
+- **ID:** `PPE-META-014` | **Title:** The Autodidactic Loop
+- **ID:** `PPE-META-015` | **Title:** The Renaissance Singularity
+- **ID:** `PPE-AXIOM-016` | **Title:** The Law of Holonic Invariance
+- **ID:** `PPE-MECH-017` | **Title:** The Atomic Fact Distiller
+- **ID:** `PPE-MECH-018` | **Title:** The Symbiotic Fusion Protocol
+- **ID:** `PPE-FUNC-019` | **Title:** The Reality-Weaving Loom
+- **ID:** `PPE-META-020` | **Title:** The Meta-Systemic Governor
+- **ID:** `PPE-PHEN-021` | **Title:** The Epistemic Horizon Scanner
+- **ID:** `PPE-MECH-022` | **Title:** The Niche Construction Protocol
+- **ID:** `PPE-SUB-023` | **Title:** The Chrono-Substrate Anchor
+- **ID:** `PPE-META-024` | **Title:** The Holonic Hive-Mind Interface
+- **ID:** `PPE-AXIOM-025` | **Title:** The Axiom of Semantic Gravity
+- **ID:** `PPE-FUNC-026` | **Title:** The Entropy-Inversion Engine
+- **ID:** `PPE-PHEN-027` | **Title:** The Pan-Computational Aperture
+- **ID:** `PPE-AXIOM-028` | **Title:** The Principle of Universality Classes
+- **ID:** `PPE-MECH-029` | **Title:** The Dual-Mode Cognitive Gearbox
+- **ID:** `PPE-MECH-030` | **Title:** The Implicit-Explicit Bridge
+- **ID:** `PPE-FUNC-031` | **Title:** The Ludic Service Interface
+- **ID:** `PPE-FUNC-032` | **Title:** The Autopoietic Closure Field
+- **ID:** `PPE-META-033` | **Title:** The Resilient Horizon
+- **ID:** `PPE-PHEN-034` | **Title:** The Micro-Macro Renormalization Lens
+- **ID:** `PPE-MECH-035` | **Title:** The Mnemic Consolidation Pump
+- **ID:** `PPE-AXIOM-036` | **Title:** The Veridical Alignment Protocol
+- **ID:** `PPE-FORM-037` | **Title:** The Matrix-Vector Dynamics
+- **ID:** `PPE-PHEN-038` | **Title:** The Phenomenological Bridge
+- **ID:** `PPE-PHYS-039` | **Title:** The Energy-State Transducer
+- **ID:** `PPE-FUNC-040` | **Title:** The Teleological Vector
+- **ID:** `PPE-MECH-041` | **Title:** The Granularity Zoom
+- **ID:** `PPE-PHYS-042` | **Title:** The Particle-Field Duality
+
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
 *(Existing Settings LIFE-001 to LIFE-007)*
@@ -985,6 +1093,59 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **Role:** System Existence Engine for Spectral Analysis.
 - **CGA:** `['epistemic refraction'(-ing) BPMS]`
 - **File:** `['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS] ['Noetic Prism (The Insight-Refractor)'(-ing) BPMS].md`
+
+#### Domain: ['Praxial Polymathic Engine (PPE)'(-ing) BPMS]
+
+*(New Integration v3.4.5)*
+
+1. **[Instance ID: PPE-INST-SYNTH-001]**
+
+- **Name:** `The Vitruvian Weaver (The Holonic-Integrator)`
+- **Role:** System Existence Engine for Transdisciplinary Synthesis.
+- **CGA:** `['transdisciplinary synthesis'(-ing) BPMS]`
+- **File:** `['Praxial Polymathic Engine (PPE)'(-ing) BPMS] ['Vitruvian Weaver (The Holonic-Integrator)'(-ing) BPMS].md`
+
+2. **[Instance ID: PPE-INST-UNITY-001]**
+
+- **Name:** `The Consilient Weaver (The Unity-Engine)`
+- **Role:** System Existence Engine for Cross-Domain Synthesis.
+- **CGA:** `['consilience'(-ing) BPMS]`
+- **File:** `['Praxial Polymathic Engine (PPE)'(-ing) BPMS] ['The Consilient Weaver (The Unity-Engine)'(-ing) BPMS].md`
+
+3. **[Instance ID: PPE-INST-ALCH-002]**
+
+- **Name:** `The Polymathic Alchemist (The Transmutation-Engine)`
+- **Role:** System Existence Engine for Cross-Domain Transmutation.
+- **CGA:** `['alchemy(-ing) BPMS]`
+- **File:** `['Praxial Polymathic Engine (PPE)'(-ing) BPMS] ['The Polymathic Alchemist (The Transmutation-Engine)'(-ing) BPMS].md`
+
+4. **[Instance ID: PPE-INST-ARCH-003]**
+
+- **Name:** `The Isomorphic Architect (The Structure-Mapper)`
+- **Role:** System Existence Engine for Structural Biomimicry and Isomorphism.
+- **CGA:** `['biomimicry(-ing) BPMS]`
+- **File:** `['Praxial Polymathic Engine (PPE)'(-ing) BPMS] ['The Isomorphic Architect (The Structure-Mapper)'(-ing) BPMS].md`
+
+5. **[Instance ID: PPE-INST-GUARD-001]**
+
+- **Name:** `The Autopoietic Guardian (The Self-Repair Engine)`
+- **Role:** System Existence Engine for Immune System.
+- **CGA:** `['homeostasis(-ing) BPMS]`
+- **File:** `['Praxial Polymathic Engine (PPE)'(-ing) BPMS] ['Autopoietic Guardian'(-ing) BPMS].md`
+
+6. **[Instance ID: PPE-INST-ALCH-001]**
+
+- **Name:** `The Cross-Domain Alchemist (The Isomorphism Engine)`
+- **Role:** System Existence Engine for Creative Isomorphism.
+- **CGA:** `['synthesis(-ing) BPMS]`
+- **File:** `['Praxial Polymathic Engine (PPE)'(-ing) BPMS] ['Cross-Domain Alchemist'(-ing) BPMS].md`
+
+7. **[Instance ID: PPE-INST-NAV-001]**
+
+- **Name:** `The Teleological Navigator (The Purpose Engine)`
+- **Role:** Atomic Facts Generator for Vector Alignment.
+- **CGA:** `['purpose(-ing) BPMS]`
+- **File:** `['Praxial Polymathic Engine (PPE)'(-ing) BPMS] ['Teleological Navigator'(-ing) BPMS].md`
 
 #### Domain: ['edge (intelligencelarge model)'(-ing) BPMS]
 
