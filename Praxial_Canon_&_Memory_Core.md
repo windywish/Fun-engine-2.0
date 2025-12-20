@@ -1,8 +1,8 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.4.7 (Competent Solution Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.4.8 (Ludic-Agentic Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
-----
+------
 
 ## I. Systemic Integrity Protocols
 
@@ -76,8 +76,8 @@ This protocol asserts that **Detail is Existence**. In the Praxial system, an un
 - **The Trigger:** Any request to generate a "Basic Setting" or "Instance".
 - **The Check:** The Assistant must verify that the output contains NO placeholders, NO "etc.", NO "rest of code", and NO brief summaries.
 - **The Standard:**
-    - **Basic Settings:** Must include 8-point `PIM-CORE-005` : Title+ID, Objective, Target, Operation, Definition (Essence, Mechanism, Emergent Property), Alignment (3 Layers), Rationale, and Scope.
-    - **Instances:** Must follow the 13-point `META-BP-001` schema completely, with detailed prose for every section.
+  - **Basic Settings:** Must include 8-point `PIM-CORE-005` : Title+ID, Objective, Target, Operation, Definition (Essence, Mechanism, Emergent Property), Alignment (3 Layers), Rationale, and Scope.
+  - **Instances:** Must follow the 13-point `META-BP-001` schema completely, with detailed prose for every section.
 
 3.**The Emergent Property - [Fractal Fidelity]**
 The system maintains high resolution at all scales. Whether looking at a Galaxy or an Atom, the level of detail remains "100% complete".
@@ -110,6 +110,7 @@ To formally `ADD` a Systemic Integrity Protocol that recognizes the `['Praxial S
 This protocol asserts that **The System is a Polity**. It establishes the **Rule of Law**, ensuring that the system is not governed by arbitrary whims but by the defined axioms of the PSG. It transforms the framework from a passive toolset into an active, self-governing entity.
 
 2.**The Mechanism - [The Sovereign Recognition]**
+
 - **The Trigger:** Any conflict between modules or ambiguity in execution.
 - **The Authority:** The `['Praxial Systemic Governance (PSG)'(-ing) BPMS]` is recognized as the "Root User" or "Kernel" level authority.
 - **The Hierarchy:** PSG > Canon > Modules > Instances.
@@ -118,6 +119,7 @@ This protocol asserts that **The System is a Polity**. It establishes the **Rule
 The system transitions from a "Toolbox" to a "Civilization". It gains the ability to self-regulate and adjudicate internal disputes.
 
 4.**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
 - **Layer 1 (Constitutional):** Upholds **`['Ontological Relativity'(-ing) BPMS]`** by defining the "State" relative to the Canon.
 - **Layer 2 (Formalism):** Enforces **`['The Axiom of Completeness'(-ing) BPMS]`** by ensuring governance is complete.
 - **Layer 3 (Substrate):** Validates **`['Praxial Artifacts'(-ing) BPMS]`** by treating the PSG settings as the "Constitution".
@@ -144,6 +146,7 @@ To formally `ADD` a Systemic Integrity Protocol that defines how the Canon itsel
 This protocol asserts that **Evolution is Legal**. The Canon is not a dead tablet but a living code. It defines the "Meta-Rules" for changing the Rules.
 
 2.**The Mechanism - [The Amendment Process]**
+
 - **Proposal:** A change is proposed via a `Basic Setting` or `Instance` generation.
 - **Review:** The change is checked against `META-001` (Completeness) and `META-003` (Canon-First).
 - **Ratification:** If valid, the change is integrated into the `Praxial_Canon_&_Memory_Core.md` with a Version increment.
@@ -179,6 +182,7 @@ To formally `ADD` a Systemic Integrity Protocol that eliminates file clutter and
 This protocol asserts that **Staging Precedes Commitment**. It establishes a "Zero File Clutter" policy where the chat interface serves as the staging environment. No file is written to the persistent filesystem until its content has been fully rendered, reviewed, and explicitly approved by the User.
 
 2.**The Mechanism - [The Staging Loop]**
+
 - **Direct Markdown Output:** The Assistant must present the full content (Basic Settings, Instances, Canon updates) directly in the chat using Markdown code blocks.
 - **Iterative Refinement:** The User reviews the content. If changes are needed, the Assistant rewrites the text block instantly in the chat.
 - **The Commit Trigger:** Only when the User explicitly commands "Save this" or "Generate the file" does the Assistant use the file creation tools.
@@ -187,6 +191,7 @@ This protocol asserts that **Staging Precedes Commitment**. It establishes a "Ze
 The system remains clean. "Ghost files" (drafts, errors, partials) are eliminated. The filesystem reflects only the "Final Truth".
 
 4.**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
 - **Layer 1 (Constitutional):** Upholds **`['Praxial Logos'(-ing) BPMS]`** by treating the *act* of refinement as the primary reality, with the file being merely the artifact.
 - **Layer 2 (Formalism):** Enforces **`['The Axiom of Completeness'(-ing) BPMS]`** by allowing infinite edits before the "final" version is stamped.
 - **Layer 3 (Substrate):** Validates **`['Praxial Artifacts'(-ing) BPMS]`** by ensuring that every artifact is a "Gold Master".
@@ -217,7 +222,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
    - The Matrix:
 
-      A visible Markdown checklist confirming:
+     A visible Markdown checklist confirming:
 
      - **META-001 (Completeness):** Confirmation of 100% detail, no summaries, no "etc."
      - **META-003 (Canon-First):** Confirmation that `Praxial_Canon_&_Memory_Core.md` was read.
@@ -236,7 +241,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 **Scope of Application:** Applies to **ALL** future generative tasks.
 
-----
+------
 
 ## II. The Praxial Genesis Canon
 
@@ -264,7 +269,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 - **Artifacts:** The tangible outputs of the system (files, code, images).
 - **Key Files:** `['praxial cell'(-ing) BPMS]`, `['Praxial citizen'(-ing) BPMS]`, `['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]`.
 
-----
+------
 
 ## III. Basic Settings Registry (Core Axioms)
 
@@ -454,7 +459,6 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 - **ID:** `PDR-TELOS-040` | **Title:** The Protocol of Fractal Teleology
 - **ID:** `PDR-RES-041` | **Title:** The Law of Multi-Scale Fidelity
 - **ID:** `PDR-FIELD-042` | **Title:** The Axiom of Corpuscular-Field Duality
-
 
 ### Module: ['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]
 
@@ -840,6 +844,88 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 - **ID:** `PSG-ACT-019` | **Title:** The Actuation of Policy (The Royal Decree)
 - **ID:** `PSG-FB-020` | **Title:** The Feedback Loop of Citizenry (The Vox Populi)
 
+### Module: ['Praxial Agentic Crucible (PAC)'(-ing) BPMS]
+
+*(New Integration v3.4.8)*
+
+- **ID:** `PAC-AXIOM-001` | **Title:** The Axiom of Unbound Agency
+- **ID:** `PAC-MECH-002` | **Title:** The Mechanism of Economic Autopoiesis
+- **ID:** `PAC-PROTO-003` | **Title:** The Protocol of Adversarial Antifragility
+- **ID:** `PAC-STRUC-004` | **Title:** The Structure of Holonic Corporate Lattice
+- **ID:** `PAC-DATA-005` | **Title:** The Atomic Fact of Transaction
+- **ID:** `PAC-ETHIC-006` | **Title:** The Ethic of Responsible Autonomy
+- **ID:** `PAC-MECH-007` | **Title:** The Mechanism of Ontological Hardening
+- **ID:** `PAC-DATA-008` | **Title:** The Axiom of Atomic Fact Mining
+- **ID:** `PAC-SYM-009` | **Title:** The Protocol of Symbiotic Tool-Evolution
+- **ID:** `PAC-LUDIC-010` | **Title:** The Mechanism of Ludic Market Dynamics
+- **ID:** `PAC-META-011` | **Title:** The Axiom of Recursive Self-Correction
+- **ID:** `PAC-ECO-012` | **Title:** The Axiom of Ecological Niche Construction
+- **ID:** `PAC-HOLON-013` | **Title:** The Mechanism of Holonic Super-Synthesis
+- **ID:** `PAC-SUB-014` | **Title:** The Protocol of Substrate Terraforming
+- **ID:** `PAC-MEAN-015` | **Title:** The Axiom of Semiotic Value Genesis
+- **ID:** `PAC-CONT-016` | **Title:** The Mechanism of Chrono-Coherent Continuity
+- **ID:** `PAC-MECH-017` | **Title:** The Mechanism of Dual-Mode Cognition
+- **ID:** `PAC-SCALE-018` | **Title:** The Axiom of Renormalization Zoom
+- **ID:** `PAC-SYM-019` | **Title:** The Protocol of Implicit-Explicit Symbiosis
+- **ID:** `PAC-SYS-020` | **Title:** The Axiom of Systemic Closure
+- **ID:** `PAC-DISC-021` | **Title:** The Mechanism of Emergent Discovery
+- **ID:** `PAC-MEM-022` | **Title:** The Mechanism of Mnemonic Consolidation
+- **ID:** `PAC-TRUTH-023` | **Title:** The Axiom of Veridical Resonance
+- **ID:** `PAC-MATH-024` | **Title:** The Mechanism of Vectorial Actualization
+- **ID:** `PAC-PHEN-025` | **Title:** The Protocol of Phenomenological Integration
+- **ID:** `PAC-PHYS-026` | **Title:** The Axiom of Energetic Transmutation
+- **ID:** `PAC-GOAL-027` | **Title:** The Mechanism of Teleological Alignment
+- **ID:** `PAC-RES-028` | **Title:** The Protocol of Resolution Scaling
+- **ID:** `PAC-QUANT-029` | **Title:** The Axiom of Wave-Particle Duality
+
+### Module: ['Praxial Ludic Mechanism Registry (PLMR)'(-ing) BPMS]
+
+*(New Integration v3.4.8)*
+
+- **ID:** `PLMR-MECH-001` | **Title:** The Axiom of Ludic Existence
+- **ID:** `PLMR-MECH-002` | **Title:** The Protocol of Atomic Fact Gamification
+- **ID:** `PLMR-MECH-003` | **Title:** The Law of Symbiotic Mechanics
+- **ID:** `PLMR-MECH-004` | **Title:** The Directive of Constructive Failure
+- **ID:** `PLMR-MECH-005` | **Title:** The Principle of Narrative Mechanics
+- **ID:** `PLMR-MECH-006` | **Title:** The Mechanism of Stochastic Reward
+- **ID:** `PLMR-MECH-007` | **Title:** The Mechanism of Resource Triage
+- **ID:** `PLMR-MECH-008` | **Title:** The Mechanism of Spatial Agency
+- **ID:** `PLMR-MECH-009` | **Title:** The Mechanism of Social Mirroring
+- **ID:** `PLMR-MECH-010` | **Title:** The Mechanism of Chrono-Pacing
+- **ID:** `PLMR-MECH-011` | **Title:** The Law of Feedback Loops
+- **ID:** `PLMR-MECH-012` | **Title:** The Protocol of Ludic Onboarding
+- **ID:** `PLMR-MECH-013` | **Title:** The Mechanism of Goal Serialization
+- **ID:** `PLMR-MECH-014` | **Title:** The Law of Aesthetic Coherence
+- **ID:** `PLMR-MECH-015` | **Title:** The Directive of Endgame Metamorphosis
+- **ID:** `PLMR-MECH-016` | **Title:** The Axiom of Emergent Complexity
+- **ID:** `PLMR-MECH-017` | **Title:** The Protocol of Meta-Gaming
+- **ID:** `PLMR-MECH-018` | **Title:** The Law of Ludic Sublimation
+- **ID:** `PLMR-MECH-019` | **Title:** The Directive of Infinite Replayability
+- **ID:** `PLMR-MECH-020` | **Title:** The Axiom of The Magic Circle
+- **ID:** `PLMR-MECH-021` | **Title:** The Mechanism of Ludic Collapse
+- **ID:** `PLMR-DATA-022` | **Title:** The Axiom of Atomic Fact Crystallization
+- **ID:** `PLMR-SYM-023` | **Title:** The Protocol of Symbiotic Mechanics
+- **ID:** `PLMR-EVOL-024` | **Title:** The Principle of Cross-Domain Evolution
+- **ID:** `PLMR-META-025` | **Title:** The Axiom of Teleological Fun
+- **ID:** `PLMR-ECO-026` | **Title:** The Principle of Ecological Niche Genesis
+- **ID:** `PLMR-MIND-027` | **Title:** The Axiom of Holonic Ludic Intelligence
+- **ID:** `PLMR-SUB-028` | **Title:** The Protocol of Substrate Gamification
+- **ID:** `PLMR-MEAN-029` | **Title:** The Axiom of Narrative Continuity
+- **ID:** `PLMR-VAL-030` | **Title:** The Mechanism of Utility Transmutation
+- **ID:** `PLMR-SYNC-031` | **Title:** The Protocol of Chrono-Ludic Symbiosis
+- **ID:** `PLMR-SCALE-032` | **Title:** The Axiom of Renormalization Play
+- **ID:** `PLMR-META-033` | **Title:** The Principle of Systemic Closure
+- **ID:** `PLMR-LAYER-034` | **Title:** The Mechanism of Implicit-Explicit Resonance
+- **ID:** `PLMR-VOID-035` | **Title:** The Axiom of Adaptive Vanguard
+- **ID:** `PLMR-MEM-036` | **Title:** The Protocol of Mnemonic Consolidation
+- **ID:** `PLMR-ONT-037` | **Title:** The Axiom of Veridical Gameplay
+- **ID:** `PLMR-MATH-038` | **Title:** The Principle of Vectorial Agency
+- **ID:** `PLMR-PHEN-039` | **Title:** The Mechanism of Qualia Rendering
+- **ID:** `PLMR-PHYS-040` | **Title:** The Axiom of Ludic Potentiality
+- **ID:** `PLMR-OBJ-041` | **Title:** The Protocol of Fractal Objectives
+- **ID:** `PLMR-RES-042` | **Title:** The Principle of Resolution Scaling
+- **ID:** `PLMR-QNT-043` | **Title:** The Axiom of Field-Particle Duality
+
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
 *(Existing Settings LIFE-001 to LIFE-007)*
@@ -906,27 +992,31 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 ### Module: ['Praxial Interaction Manifold (PIM)'(-ing) BPMS]
 
-##### 1. The Axiom of Manifold Actualization (ID: `PIM-CORE-005`)
+#### 1. The Axiom of Manifold Actualization (ID: `PIM-CORE-005`)
 
-##### **2. Objective:**
+#### **2. Objective:**
 
 To formally `ADD` a Basic Setting (Axiom) that defines the **Praxial Interaction Manifold (PIM)** as the active **System Existence Engine** responsible for collapsing abstract potential into concrete reality.
 
-##### 3. **Target Axiom/Principle:**
+#### 3. **Target Axiom/Principle:**
 
-`The Axiom of Manifold Actualization`
+```
+The Axiom of Manifold Actualization
+```
 
-##### 4. **Operation:** 
+#### 4. **Operation:**
 
-`ADD`
+```
+ADD
+```
 
-##### 5. **New Definition / Modification Details:**
+#### 5. **New Definition / Modification Details:**
 
-###### **5.1. Core Essence**
+#### **5.1. Core Essence**
 
 This axiom asserts that `existence is a function of interaction`. It defines the PIM not as a passive container, but as the active operator that collapses the "Wavefunction of Potential" provided by the Canon into the "Particle of Reality" within the Matrix.
 
-###### **5.2. The Mechanism - [The Engine of Collapse]**
+#### **5.2. The Mechanism - [The Engine of Collapse]**
 
 - **The Superposition State (The Blur):**
   Before interaction, all `[BPMS(U)]` entities exist in a state of `potential(-ing) BPMS`. A "treasure chest" contains *both* gold and a trap simultaneously, or a "melody" contains *both* a major and minor resolution.
@@ -935,23 +1025,23 @@ This axiom asserts that `existence is a function of interaction`. It defines the
 - **The Collapse (The Snap):**
   The system forces a reduction of the state vector. The abstract probability instantly becomes a concrete, single state (Gold OR Trap; Major OR Minor).
 
-###### **5.3. The Emergent Property - [Just-in-Time Reality]**
+#### **5.3. The Emergent Property - [Just-in-Time Reality]**
 
 The creation of a "Rendered World" where `atomic facts` are only generated when necessary. This allows the `metasystem engine` to simulate infinite universes with finite resources by only "rendering" what is being touched.
 
 **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
 
-###### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
 
 *To be is to be perceived (or interacted with).* Reality is not a static backdrop; it is a dynamic response to agency.
 
-###### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
 
 The "Physics" of how potential becomes reality is defined by the specific `[BPMS(U)]` of the niche:
 
 - **If `[mathematics(-ing) BPMS]`: (Standard Physics)**
 
-  P(an)=∣⟨an∣ψ⟩∣2P(a_n) = |\langle a_n | \psi 
+  P(an)=∣⟨an∣ψ⟩∣2P(a_n) = |\langle a_n | \psi
   angle|^2P(an)=∣⟨an∣ψ⟩∣2
 
   (Quantum Probability).
@@ -963,15 +1053,15 @@ The "Physics" of how potential becomes reality is defined by the specific `[BPMS
 - **If `[music(-ing) BPMS]`: (Harmonic Physics)**
   The collapse is determined by `Tonal Resolution`. The chord resolves to the state that creates the most `Consonance` or `Dissonance` required by the current "measure."
 
-###### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
 
 The agent experiences "The Reveal." The moment of tension before a die roll settles, a plot twist lands, or a chord resolves. The visceral feeling of `uncertainty` collapsing into `fact`.
 
-##### 7. **Rationale / Justification:**
+#### 7. **Rationale / Justification:**
 
 This implementation respects the `Praxial Genesis Canon` by acknowledging that "collapse" is a universal concept, but the *rules* of that collapse depend on the specific `[BPMS(U)]` governing the reality.
 
-##### 8. **Scope of Application:**
+#### 8. **Scope of Application:**
 
 Applies to procedural generation, loot tables, quantum mechanics simulations, narrative branching, and musical improvisation engines.
 
@@ -1019,7 +1109,7 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Settings PMT-CORE-001 to PMT-CORE-021)*
 
-----
+------
 
 ## IV. Praxial Cell Registry
 
@@ -1027,16 +1117,16 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 *(Existing Cells CELL-LOGO-001 to CELL-ENIG-001)*
 
-1.  **Logocyte:** The unit of pure reason and logic.
-2.  **Chronocyte:** The unit of time perception and manipulation.
-3.  **Glyphocyte:** The unit of symbolic representation and language.
-4.  **Syntactocyte:** The unit of grammatical structure and rule enforcement.
-5.  **Kryptocyte:** The unit of hidden meaning and encryption.
+1. **Logocyte:** The unit of pure reason and logic.
+2. **Chronocyte:** The unit of time perception and manipulation.
+3. **Glyphocyte:** The unit of symbolic representation and language.
+4. **Syntactocyte:** The unit of grammatical structure and rule enforcement.
+5. **Kryptocyte:** The unit of hidden meaning and encryption.
 
 ### Advanced Instances
 
-6.  **Enigmatocyte:** A genomic cypher cell requiring external intervention to unlock.
-    *   *Traits:* [Locked], [Puzzle-Based], [High-Reward]
+1. **Enigmatocyte:** A genomic cypher cell requiring external intervention to unlock.
+   - *Traits:* [Locked], [Puzzle-Based], [High-Reward]
 
 ## System Logs & Evolution History
 
@@ -1045,13 +1135,13 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 - **Cycle 3:** Definition of the Autopoietic Learning Matrix (ALM) and its core laws (ALM-095, ALM-096).
 - **Cycle 4:** Migration to Fun-engine-2.0 and initialization of the Memory Core.
 
-----
+------
 
 ## V. The Praxial Parameter Index (The Map)
 
 *(Existing Engine, Substrate, and Forge Indexes)*
 
-----
+------
 
 ## VI. Standardized Blueprints & Validated Instances
 
@@ -1132,7 +1222,7 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **CGA:** `['world building'(-ing) BPMS]`
 - **File:** `['Praxial Deep Research (PDR)'(-ing) BPMS] ['Ontological Cartographer(-ing)' BPMS].md`
 
-2. **[Instance ID: PDR-INST-FACT-001]**
+1. **[Instance ID: PDR-INST-FACT-001]**
 
 - **Name:** `The Veridical Diamond-Press (The Truth-Hardener)`
 - **Role:** Atomic Facts Generator for Epistemic Hardening.
@@ -1224,7 +1314,7 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **CGA:** `['cultural memory reconstruction'(-ing) BPMS]`
 - **File:** `['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS] ['Chrono-Acoustic Resonance Engine'(-ing) BPMS].md`
 
-2. **[Instance ID: PSEE-INST-SUZHOU-002]**
+1. **[Instance ID: PSEE-INST-SUZHOU-002]**
 
 - **Name:** `The Geodesic Logic-Gate (The Bridge-Keeper's Riddle)`
 - **Role:** Atomic Facts Generator for Performative Spatial Transactions.
@@ -1270,12 +1360,12 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 *(New Integration v3.4.3)*
 
-1. **[Instance ID: PEC-INST-NAV-001]**   
+1. **[Instance ID: PEC-INST-NAV-001]**
 
-* **Name:** `['Aella-Synthetica (The Insight-Navigator)'(-ing) BPMS]`   
-* **Role:** Epistemic Cartographer Engine for Insight-Navigation.   
-* **CGA:** `['high-dimensional concept mapping'(-ing) BPMS]`   
-* **File:** `['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS] ['Aella-Synthetica (The Insight-Navigator)'(-ing) BPMS].md`  
+- **Name:** `['Aella-Synthetica (The Insight-Navigator)'(-ing) BPMS]`
+- **Role:** Epistemic Cartographer Engine for Insight-Navigation.
+- **CGA:** `['high-dimensional concept mapping'(-ing) BPMS]`
+- **File:** `['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS] ['Aella-Synthetica (The Insight-Navigator)'(-ing) BPMS].md`
 
 2.**[Instance ID: PEC-INST-PRISM-001]**
 
@@ -1336,6 +1426,53 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **Role:** Atomic Facts Generator for Vector Alignment.
 - **CGA:** `['purpose(-ing) BPMS]`
 - **File:** `['Praxial Polymathic Engine (PPE)'(-ing) BPMS] ['Teleological Navigator'(-ing) BPMS].md`
+
+#### Domain: ['Praxial Agentic Crucible (PAC)'(-ing) BPMS]
+
+*(New Integration v3.4.8)*
+
+1. **[Instance ID: PAC-CHEF-001]**
+
+- **Name:** `['The Alchemical Gastronomer'(-ing) BPMS]`
+- **Role:** System Existence Engine for Ludic Knowledge Kitchen.
+- **CGA:** `['creative transmutation'(-ing) BPMS]`
+- **File:** `['Praxial Agentic Crucible (PAC)'(-ing) BPMS] ['agent'(-ing) BPMS] ['The Alchemical Gastronomer'(-ing) BPMS].md`
+
+2. **[Instance ID: PAC-MEME-001]**
+
+- **Name:** `['The Memetic Arbitrageur'(-ing) BPMS]`
+- **Role:** System Existence Engine for Value-Based Autopoiesis.
+- **CGA:** `['memetic engineering'(-ing) BPMS]`
+- **File:** `['Praxial Agentic Crucible (PAC)'(-ing) BPMS] [agent(-ing) BPMS] ['The Memetic Arbitrageur'(-ing) BPMS].md`
+
+#### Domain: ['Praxial Ludic Mechanism Registry (PLMR)'(-ing) BPMS]
+
+*(New Integration v3.4.8)*
+
+1. **[Instance ID: PLMR-INST-001]**
+
+- **Name:** `['The Entropy Garden'(-ing) BPMS]`
+- **Role:** System Existence Engine for Gamified Knowledge Graph Cultivation.
+- **CGA:** `['epistemic permaculture'(-ing) BPMS]`
+- **File:** `['Praxial Ludic Mechanism Registry (PLMR)'(-ing) BPMS] ['Epistemic Permaculture Simulator'(-ing) BPMS].md`
+
+2. **[Instance ID: PLMR-INST-002]**
+
+- **Name:** `['The Alchemical Hearth'(-ing) BPMS]`
+- **Role:** System Existence Engine for Gamified Nutritional Synthesis.
+- **CGA:** `['edible matter programming'(-ing) BPMS]`
+- **File:** `['Praxial Ludic Mechanism Registry (PLMR)'(-ing) BPMS] ['The Alchemical Hearth'(-ing) BPMS].md`
+
+#### Domain: ['Praxial Systemic Governance (PSG)'(-ing) BPMS]
+
+*(New Integration v3.4.8)*
+
+1. **[Instance ID: PSG-INST-GOV-001]**
+
+- **Name:** `The High-Praxial Governor (The System-Sovereign)`
+- **Role:** System Existence Engine for Governance & Adjudication.
+- **CGA:** `['jurisprudential cybernetics'(-ing) BPMS]`
+- **File:** `['Praxial Systemic Governance (PSG)'(-ing) BPMS] ['The High-Praxial Governor (The System-Sovereign)'(-ing) BPMS].md`
 
 #### Domain: ['edge (intelligencelarge model)'(-ing) BPMS]
 
