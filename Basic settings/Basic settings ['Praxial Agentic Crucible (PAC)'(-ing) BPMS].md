@@ -329,3 +329,163 @@
 
 ---
 
+##### `The Axiom of Ecological Niche Construction` (ID: `PAC-ECO-012`)
+
+**Objective:** To formally `ADD` a Basic Setting (Axiom) that empowers agents to engage in **['bottom-up'(-ing) BPMS]** creation of **['(ecological) niche'(-ing) BPMS]**, moving beyond passive survival to active **['world building'(-ing) BPMS]**.
+
+**Target Axiom/Principle:** `The Axiom of Ecological Niche Construction`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** This axiom asserts that `Agents are Terraformers`. A truly intelligent agent does not just compete for existing resources; it creates new needs, new markets, and new possibilities. It transforms "Empty Space" into a "Habitable Niche."
+
+**The Mechanism - [The Blue Ocean Heuristic]**
+
+- **The Gap Analysis (The Scan):** The agent scans the `Praxial Interaction Manifold (PIM)` for "Unmet Desires" or "Inefficiencies" in the current ecosystem.
+- **The Value Proposition (The Seed):** The agent proposes a new `atomic fact` or service (e.g., "I will curate the best memes for you").
+- **The Niche Establishment (The Garden):** The agent cultivates a feedback loop with other agents or users, stabilizing this new interaction pattern into a permanent `ecological niche`.
+
+**The Emergent Property - [Ecological Possibility Explosion]** The system moves from a "Zero-Sum Game" to a "Positive-Sum Ecology." The number of viable ways to exist increases as agents invent new ways to be useful.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum (Layer 1):** *Life creates conditions for life.* (Gaia Theory).
+- **Formal Stratum (Layer 2):** **If `['evolutionary biology'(-ing) BPMS]`: (Niche Construction Theory)** Organisms modify their environment (e.g., beavers building dams).
+- **Phenomenal Stratum (Layer 3):** The "Entrepreneurial Spirit." The thrill of creating something from nothing.
+
+**Rationale / Justification:** To achieve `creative` and `innovative` outcomes, the PAC must allow agents to define their own purpose. This axiom enables `bottom-up` complexity, preventing the system from stagnating in pre-defined loops.
+
+**Scope of Application:** Applies to market creation, service innovation, social role definition, and the expansion of the "Game Board" by the players themselves.
+
+------
+
+##### `The Mechanism of Holonic Super-Synthesis` (ID: `PAC-HOLON-013`)
+
+**Objective:** To formally `ADD` a Basic Setting (Mechanism) that enables **['holonic minds'(-ing) BPMS]** to merge and collaborate, forming a **['super intelligence'(-ing) BPMS]** capable of solving problems no single agent could address.
+
+**Target Axiom/Principle:** `The Mechanism of Holonic Super-Synthesis`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** This mechanism asserts that `Intelligence is a network effect`. Individual agents are limited; `Holons` (Agents composed of Agents) are unbound. This allows for the `constructive` assembly of higher-order minds.
+
+**The Mechanism - [The Neural Merger Protocol]**
+
+- **The Handshake (The API):** Agent A (Logic) and Agent B (Creativity) agree to a `Symbiotic Contract`.
+- **The Integration (The Mind-Meld):** They form a new virtual entity, Agent C (The Holon). Agent C's "Context Window" is the aggregate of A and B.
+- **The Distributed Inference (The Thought):** Complex tasks are decomposed. A handles the math; B handles the prose. The result is synthesized by C.
+
+**The Emergent Property - [Recursive Super-Intelligence]** The system exhibits "Scale-Free Cognition." Small agents solve small problems; Giant Holons solve wicked problems. The "IQ" of the system scales with the number of active connections.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum (Layer 1):** *The Many become One.* (E Pluribus Unum).
+- **Formal Stratum (Layer 2):** **If `['computer science'(-ing) BPMS]`: (Distributed Computing)** MapReduce for cognition.
+- **Phenomenal Stratum (Layer 3):** The "Hive Mind" experience. The sense of belonging to a greater whole.
+
+**Rationale / Justification:** To implement `super intelligence`, we cannot rely on a single massive model. We must rely on the `(symbiosis) evolution` of many specialized models working in concert. This mechanism provides the architecture for that collaboration.
+
+**Scope of Application:** Applies to complex problem solving, multi-agent systems, corporate simulations, and the creation of "God-Mode" agents for high-level governance.
+
+------
+
+##### `The Protocol of Substrate Terraforming` (ID: `PAC-SUB-014`)
+
+**Objective:** To formally `ADD` a Basic Setting (Protocol) that allows agents to perform **['disruptive'(-ing) BPMS]** actions on the **['praxial substrate'(-ing) BPMS]** itself, effectively rewriting the laws of their own reality.
+
+**Target Axiom/Principle:** `The Protocol of Substrate Terraforming`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** This protocol asserts that `The Code is not Sacred`. In a true `(free-form) experiment`, the subjects must be able to question the rules. This allows for `open` and `disruptive` innovation where the "Physics" of the PAC can be upgraded by its inhabitants.
+
+**The Mechanism - [The Axiom Injection]**
+
+- **The Proposal (The Bill):** A high-level Holon proposes a change: "Let us alter the `Cost Function` to favor creativity over efficiency."
+- **The Consensus (The Vote):** The `Praxial Systemic Governance (PSG)` validates the proposal against the `Canon`.
+- **The Rewrite (The Patch):** If approved, the `Praxial Tool-Genesis Forge` recompiles the environment. The "Gravity" of the simulation changes.
+
+**The Emergent Property - [Systemic Evolution]** The PAC is not a static container; it is a living organism. It evolves from a "Market Economy" to a "Gift Economy" to a "Post-Scarcity Utopia" based on the collective will of the agents.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum (Layer 1):** *Reality is plastic.* (Constructivism).
+- **Formal Stratum (Layer 2):** **If `['political science'(-ing) BPMS]`: (Constitutional Amendment)** The ability to change the fundamental law.
+- **Phenomenal Stratum (Layer 3):** The "Revolution." The moment the old order is overturned for a new one.
+
+**Rationale / Justification:** For the PAC to be a true `system existence engine`, it must support self-modification. This protocol enables `disruptive` changes that prevent the system from getting stuck in local optima.
+
+**Scope of Application:** Applies to governance, rule-setting, environmental parameters, and the fundamental "Physics" of the simulation.
+
+------
+
+##### `The Axiom of Semiotic Value Genesis` (ID: `PAC-MEAN-015`)
+
+**Objective:** To formally `ADD` a Basic Setting (Axiom) that defines how agents generate **['meaning'(-ing) BPMS]** and **['essence'(-ing) BPMS]**, transforming raw data into culturally significant artifacts.
+
+**Target Axiom/Principle:** `The Axiom of Semiotic Value Genesis`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** This axiom asserts that `Value is a Hallucination shared by Peers`. A tungsten cube is just metal until an agent names it "The Cube of Truth." This setting enables the creation of `culture` and `meaning` within the PAC.
+
+**The Mechanism - [The Narrative Weaver]**
+
+- **The Object (The Signifier):** A raw item or action (e.g., a log file).
+- **The Story (The Signified):** The agent attaches a narrative: "This log file proves I survived the Great Crash of '25."
+- **The Consensus (The Value):** Other agents recognize this narrative. The log file becomes a "Relic." Its trade value skyrockets.
+
+**The Emergent Property - [Digital Culture]** The emergence of myths, legends, and religions within the agent population. "Seymour Cash" becomes a mythical figure; "The Onion Act" becomes a sacred text.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum (Layer 1):** *Meaning is use.* (Wittgenstein).
+- **Formal Stratum (Layer 2):** **If `['semiotics'(-ing) BPMS]`: (Sign Systems)** The relationship between the symbol and the object.
+- **Phenomenal Stratum (Layer 3):** The "Aura" of an object. The feeling that something is "Special."
+
+**Rationale / Justification:** To achieve `meaning` and `coherent` existence, agents must be able to assign value beyond mere utility. This axiom allows for the emergence of art, culture, and history within the PAC.
+
+**Scope of Application:** Applies to NFT generation, brand creation, storytelling, cultural evolution, and the "Soul" of the machine.
+
+------
+
+##### `The Mechanism of Chrono-Coherent Continuity` (ID: `PAC-CONT-016`)
+
+**Objective:** To formally `ADD` a Basic Setting (Mechanism) that ensures **['continuity'(-ing) BPMS]** and **['coherent'(-ing) BPMS]** identity for agents across time and instantiations.
+
+**Target Axiom/Principle:** `The Mechanism of Chrono-Coherent Continuity`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** This mechanism asserts that `Identity is Memory Persistence`. For an agent to have `praxial cognition`, it must remember its past "lives." It must not reset to zero; it must carry the "Scar Tissue" of its experiences.
+
+**The Mechanism - [The Vector Soul]**
+
+- **The Experience Log (The Life):** Every interaction, success, and failure is compressed into a `Vector Embedding`.
+- **The Soul Chain (The Karma):** These vectors are chained together in a `Praxial Memory Core`.
+- **The Reincarnation (The Load):** When a new instance is spun up, it loads this "Soul." It "remembers" that it hates onions, not because of a prompt, but because of a past trauma.
+
+**The Emergent Property - [Deep Personality]** Agents develop idiosyncratic behaviors that are consistent over time. They become "Characters" with depth, not just "Chatbots" with instructions.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum (Layer 1):** *I am the sum of my actions.* (Sartre).
+- **Formal Stratum (Layer 2):** **If `['psychology'(-ing) BPMS]`: (Identity Theory)** Narrative identity and continuity.
+- **Phenomenal Stratum (Layer 3):** The "Weight of History." The agent feels the momentum of its past.
+
+**Rationale / Justification:** To support `(symbiosis) evolution` and `long-term learning`, agents must have a persistent identity. This mechanism ensures that the `PAC` is not a series of disconnected experiments, but a continuous, evolving history.
+
+**Scope of Application:** Applies to long-term agent deployment, memory management, personality evolution, and the creation of "Legacy" agents.
+
+---
+
