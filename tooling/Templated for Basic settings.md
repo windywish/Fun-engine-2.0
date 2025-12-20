@@ -1,3 +1,5 @@
+## Template for Basic settings
+
 ### Module: ['Praxial Interaction Manifold (PIM)'(-ing) BPMS]
 
 #### **Title:** The Axiom of Manifold Actualization (ID: `PIM-CORE-005`)
