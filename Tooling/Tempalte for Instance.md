@@ -353,6 +353,7 @@ Year 5+: [MATURITY & EMERGENCE]
 - **Operational profile:** Fully autonomous for 8+ months; minimal grid supplementation in winter
 
 **Material Foraging & Sustainability:**
+
 - Compost system: Processes crop waste into soil amendments
 - Seed saving: Automated seed extraction, drying, storage
 - Tool fabrication: 80% of tools self-manufactured from agricultural waste streams
@@ -446,6 +447,7 @@ The Mycelial Farmer's cognition is fundamentally different from conventional agr
 - Yields now 60% of conventional agriculture but with zero chemical inputs, vastly higher nutrient density, and positive soil trends
 
 **Year 3 (Maturity & Emergence):**
+
 - Ecosystem reaching stability: Self-regulating pest populations, nutrient cycling largely internal
 - Soil organic matter: 3.2-4.1% (approaching healthy grassland levels)
 - Mycelial network density (actual fungal networks in soil): Increased 8x
@@ -489,7 +491,7 @@ The Mycelial Farmer's cognition is fundamentally different from conventional agr
 - Annual food production + perennial yields + ecosystem services
 - This is the ultimate validation of the robot-as-world-builder: The landscape itself is the Praxial Chronicle
 
-**Symbiotic Evolution Pathways:**
+###### **Symbiotic Evolution Pathways:**
 
 * **['soil science'(-ing) BPMS]** - Atomic facts about soil microbiome-plant relationships from continuous observation
 
