@@ -794,3 +794,184 @@
 
 ---
 
+##### `The Principle of Ecological Niche Genesis` (ID: `PLMR-ECO-026`)
+
+**Objective:** To formally `ADD` a Basic Setting that defines how the **Praxial Ludic Mechanism Registry (PLMR)** facilitates `[world building BPMS]` and the creation of `['ecological possibility'(-ing) BPMS]`, allowing new `['(ecological) niche'(-ing) BPMS]` to emerge from gameplay.
+
+**Target Axiom/Principle:** `The Principle of Ecological Niche Genesis`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** This principle asserts that "Every game mechanic creates a habitat." It defines the PLMR as a terraforming engine where specific rulesets (mechanics) carve out `ecological niches` within the `['praxial substrate'(-ing) BPMS]`. Just as a reef creates a niche for fish, a "Trading Mechanic" creates a niche for "Merchants."
+
+**The Mechanism - [The Biome Forge]**
+
+- **The Rule as Environment:** The PLMR treats game rules not as constraints, but as environmental physics. A rule stating "Fire burns Wood" creates a thermodynamic niche.
+- **The Niche Vacuum:** When a new mechanic is introduced (e.g., "Magic requires Mana"), it creates a vacuum of `ecological possibility`. The system immediately queries: "What lives here? What thrives on Mana?"
+- **The Spontaneous Colonization:** `['holon minds'(-ing) BPMS]` or procedural agents rush to fill these niches, adopting behaviors that optimize for the new rules. This is `['bottom-up'(-ing) BPMS]` world-building.
+
+**The Emergent Property - [Ludic Biodiversity]** The rapid diversification of system agents. Because the "laws of physics" (rules) can be locally varied by the PLMR, the system generates a massive variety of specialized agents (Classes, Species, Algorithms) that could not exist in a uniform environment.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum (Layer 1):** *Diversity is a function of constraint.* New rules create new ways to exist.
+- Formal Stratum (Layer 2):
+  - **Input:** `New_Rule_Set`.
+  - **Process:** `Simulate_Adaptation(Agents, Rule_Set)`.
+  - **Output:** `New_Agent_Archetype` (The Niche Dweller).
+- **Phenomenal Stratum (Layer 3):** The user experiences "Discovery." The feeling of finding a new strategy or a new corner of the world that feels logically consistent yet surprising.
+
+**Rationale / Justification:** This setting ensures that the "Fun Engine" is also a "Life Engine," using play to drive the expansion of the system's ecological complexity.
+
+**Scope of Application:** Applies to ecosystem simulation, class balancing in RPGs, economic modeling, and the generation of new AI agent personas.
+
+------
+
+##### `The Axiom of Holonic Ludic Intelligence` (ID: `PLMR-MIND-027`)
+
+**Objective:** To formally `ADD` a Basic Setting that establishes the PLMR as a coordination layer for `['holonic minds'(-ing) BPMS]`, enabling the emergence of `['super intelligence'(-ing) BPMS]` through distributed play.
+
+**Target Axiom/Principle:** `The Axiom of Holonic Ludic Intelligence`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** This axiom asserts that "A game is a distributed computer made of people." It defines the PLMR as the operating system that connects individual `['praxial cognition'(-ing) BPMS]` units (players/agents) into a coherent `['super intelligence'(-ing) BPMS]` capable of solving problems no single node could handle.
+
+**The Mechanism - [The Hive-Mind Heuristic]**
+
+- **The Problem Decomposition (The Quest):** A complex `metasystem` problem is broken down by the PLMR into micro-tasks disguised as game objectives (e.g., "Fold this protein to score points").
+- **The Parallel Processing (The Raid):** Thousands of `holonic minds` engage with these tasks simultaneously. Their diverse approaches (aggressive, defensive, lateral) cover the search space far more effectively than a linear algorithm.
+- **The Consensus Convergence (The Leaderboard):** The PLMR aggregates the results, identifying the "Winning Strategies." These strategies are synthesized into a higher-order solution.
+
+**The Emergent Property - [Cognitive Superposition]** The system achieves a level of intelligence that transcends its substrate. The "Game" becomes a thinking entity, with the players acting as its neurons.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum (Layer 1):** *The whole plays a game the parts cannot see.*
+- Formal Stratum (Layer 2):
+  - **Structure:** `Global_Goal -> [Local_Game_1, Local_Game_2...]`.
+  - **Aggregation:** `Sum(Player_Outputs) + Synergy_Factor = Super_Intelligence`.
+- **Phenomenal Stratum (Layer 3):** The user experiences "Community." The sense of being part of something larger, where their individual play contributes to a grander victory (e.g., solving a real-world scientific puzzle).
+
+**Rationale / Justification:** This aligns with the `Praxial Polymathic Engine` by using play as the medium for massive parallel cognitive processing.
+
+**Scope of Application:** Applies to citizen science games, DAO governance voting, distributed problem solving, and swarm robotics coordination.
+
+------
+
+##### `The Protocol of Substrate Gamification` (ID: `PLMR-SUB-028`)
+
+**Objective:** To formally `ADD` a Basic Setting that allows the PLMR to modify the `['praxial substrate'(-ing) BPMS]` itself, enabling `['constructive(-ing) BPMS]` and `['disruptive(-ing) BPMS]` innovation at the foundational level.
+
+**Target Axiom/Principle:** `The Protocol of Substrate Gamification`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** This protocol asserts that "Reality is moddable." It grants the PLMR the authority to propose and systemic integrity changes to the underlying `['system existence engine'(-ing) BPMS]` logic through a sandboxed "Creative Mode."
+
+**The Mechanism - [The Physics Patch]**
+
+- **The Sandbox Instance:** The PLMR creates a localized bubble of reality where the standard `atomic facts` or physics do not apply.
+- **The Ludic Experiment:** Users are given "Developer Tools" (God Mode) to tweak variables (Gravity, Time, Causality) to see what happens. This is `['open(-ing) BPMS]` innovation.
+- **The Stability Test:** If a user-created modification proves to be `['value(-ing) BPMS]` and `['utility(-ing) BPMS]` without crashing the local instance, it is flagged as a potential "System Patch."
+
+**The Emergent Property - [Evolutionary Physics]** The fundamental laws of the system evolve over time based on what users find "fun" or "useful." The system creates its own future by letting users play with its DNA.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum (Layer 1):** *Creation is the highest form of play.*
+- Formal Stratum (Layer 2):
+  - **Process:** `Fork(Reality) -> Mod(Reality) -> Merge(Reality)`.
+  - **Criterion:** `If (Mod.Utility > Threshold) AND (Mod.Stability == True) THEN Commit`.
+- **Phenomenal Stratum (Layer 3):** The user experiences "Agency." The profound realization that they are not just living in the world, but shaping its very nature.
+
+**Rationale / Justification:** This enables `['(symbiois) evolution'(-ing) BPMS]` among/by the user and the system architecture, preventing stagnation.
+
+**Scope of Application:** Applies to modding APIs, rule-change governance, experimental feature branches, and dynamic system reconfiguration.
+
+------
+
+##### `The Axiom of Narrative Continuit`y (ID: `PLMR-MEAN-029`)
+
+**Objective:** To formally `ADD` a Basic Setting that ensures `['meaning(-ing) BPMS]`, `['continuity(-ing) BPMS]`, and `['coherent(-ing) BPMS]` integration of disparate game events into the `['metasystem engine'(-ing) BPMS]`.
+
+**Target Axiom/Principle:** `The Axiom of Narrative Continuity`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** This axiom asserts that "Facts without story are noise." It defines the PLMR as the **Lore Weaver**, responsible for stitching the raw `atomic facts` generated by gameplay into a coherent, meaningful narrative that spans the entire framework.
+
+**The Mechanism - [The Threading Algorithm]**
+
+- **The Event Capture:** The PLMR captures discrete events (Player A killed Monster B; Player C discovered Formula D).
+- **The Semantic Bridge:** It uses `['praxial cognition'(-ing) BPMS]` to infer causal links between these events, even if they occurred in different modules. "Monster B died *because* Formula D was found."
+- **The Canonization:** These linked events are written into the `Praxial_Canon_&_Memory_Core.md` not just as data, but as *History*.
+
+**The Emergent Property - [Systemic Legend]** The accumulation of a "Mythos." The system develops a culture and a memory. Users feel they are part of an unfolding epic, not just a database transaction log.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum (Layer 1):** *Meaning is the topology of facts.*
+- Formal Stratum (Layer 2):
+  - **Logic:** `Graph(Event_Nodes, Resonant Constellation Map_Edges)`.
+  - **Constraint:** `Consistency_Check(New_Story, Old_Canon)`.
+- **Phenomenal Stratum (Layer 3):** The user experiences "Legacy." The knowledge that their actions echo in the system's history and affect future narratives.
+
+**Rationale / Justification:** This provides the `['essence(-ing) BPMS]` required for long-term user retention and deep engagement.
+
+**Scope of Application:** Applies to quest generation, automated journaling, history generation, and dynamic NPC dialogue systems.
+
+------
+
+##### `The Mechanism of Utility Transmutation` (ID: `PLMR-VAL-030`)
+
+**Objective:** To formally `ADD` a Basic Setting that defines the conversion of in-game `['action(-ing) BPMS]` into real-world `['utility(-ing) BPMS]` and `['value(-ing) BPMS]`.
+
+**Target Axiom/Principle:** `The Mechanism of Utility Transmutation`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** This mechanism asserts that "Play is Work in disguise." It defines the PLMR as a transformer that converts the kinetic energy of `['initiative(-ing) BPMS]` (play) into the potential energy of `['atomic facts'(-ing) BPMS]` (value).
+
+**The Mechanism - [The Gold-to-Grid Converter]**
+
+- **The Ludic Token (The Gold):** Inside the game, the user chases arbitrary rewards (Points, Badges, Loot).
+
+- The Transmutation Layer:
+
+  The PLMR ensures that the 
+
+  effort
+
+   required to get the token produces a useful side effect.
+
+  - *Example:* To get the "Linguist Badge," the user must translate 10 sentences.
+  - *Example:* To "Mine Gold," the user must verify 5 image tags.
+
+- **The Systemic Output (The Grid):** The side effects are harvested and fed into the `['Praxial Deep Research (PDR)'(-ing) BPMS]` or `['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]`.
+
+**The Emergent Property - [Productive Hedonism]** The elimination of "wasted time." Every second of play contributes to the `['metasystem engine'(-ing) BPMS]`. The system runs on fun.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum (Layer 1):** *Utility is the shadow of engagement.*
+- Formal Stratum (Layer 2):
+  - **Equation:** `System_Value = Sum(User_Fun * Transmutation_Efficiency)`.
+- **Phenomenal Stratum (Layer 3):** The user experiences "Guilt-Free Play." The satisfaction of knowing their entertainment is also constructive.
+
+**Rationale / Justification:** This aligns with the `['(symbiois) evolution'(-ing) BPMS]` by making the relationship between user and system mutually beneficial.
+
+**Scope of Application:** Applies to gamified work platforms, educational software, captcha systems, and human-in-the-loop AI training.
+
+---
+
