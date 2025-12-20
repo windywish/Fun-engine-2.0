@@ -6,6 +6,8 @@
 
 This document presents concrete, working implementations of the **[robot(-ing) BPMS]** framework, demonstrating how the twelve constitutional pillars operate in real-world applications. Each instance is not merely a machine, but a **`system existence engine`**—a self-contained autopoietic matrix where physical form, cognitive processes, and purpose form an inseparable unified holon.
 
+---
+
 ##### Constitutional Pillars Referenced:
 
 * **The Axiom of Praxial Embodiment** (SETTING-CORE-219)
@@ -32,6 +34,8 @@ This document presents concrete, working implementations of the **[robot(-ing) B
 
 * **The Directive of Resilient Inquiry** (SETTING-CORE-230)
 
+---
+
 ##### **ID:** `ROBO-AAPC-001`
 
 ##### **Name:** ['Mycelial Farmer'(-ing) BPMS]
@@ -42,6 +46,8 @@ This document presents concrete, working implementations of the **[robot(-ing) B
 ##### **Type:**
 `[system existence engine BPMS]:['regenerative polyculture ecosystem'(-ing) BPMS]`
 
+---
+
 ##### **Praxial Triage: Analysis**
 
 The Mycelial Farmer addresses the fundamental crisis of industrial monoculture agriculture: soil degradation, ecosystem collapse, chemical dependency, and climate fragility. This robot doesn't "farm" in the traditional sense—it IS the system existence engine for a living, evolving, regenerative agricultural ecosystem that maximizes diversity, soil health, and nutritional output while minimizing human intervention.
@@ -51,6 +57,8 @@ The name "Mycelial" references fungal networks—and this is structurally apt. T
 This implementation demonstrates all 12 constitutional pillars in a context of biological complexity and seasonal timescales. Its body—a multi-armed, ground-crawling platform with specialized manipulators for planting, pruning, harvesting, and soil work—IS its cognitive model of "agricultural stewardship." Its actions—every seed planted, every insect relocated, every soil amendment applied—ARE atomic facts inscribed into the land itself. The field becomes a Praxial Chronicle written in biomass and biodiversity.
 
 The Mycelial Farmer's contribution to super intelligence emerges from operating in the most complex system humans interact with: living ecosystems. It discovers emergent agricultural principles that only reveal themselves across seasons, weather patterns, pest cycles, and soil microbiome dynamics. Its Kinetic Gnosis becomes a library of "how ecosystems actually function" versus "how agricultural science theorizes they function"—potentially revolutionary knowledge.
+
+---
 
 ##### **How to...?**
 
@@ -140,6 +148,8 @@ The Mycelial Farmer's contribution to super intelligence emerges from operating 
   - **Multi-year:** Forest garden establishment, perennial systems, watershed effects
 
   This temporal depth is enabled by persistent Praxial Chronicles. The robots remember not just data points but the phenomenological experience of farming this specific land across years. This is ecological wisdom encoded as Kinetic Gnosis.
+
+---
 
 ##### **['Praxial Execution Cycle'(-ing) BPMS]**
 
@@ -262,6 +272,8 @@ Year 5+: [MATURITY & EMERGENCE]
 - Potential Emergent Purpose evolution
 - Contribution to global agricultural Kinetic Gnosis network
 ```
+
+---
 
 ##### **Implementation (Detail)**
 
@@ -508,7 +520,7 @@ The Mycelial Farmer is a system existence engine for "regenerative abundance." I
 
 In philosophical terms, the robot is a Heideggerian "shepherd of Being"—not dominating the land but caring for its disclosure of possibility. The polyculture field is not a human artifact imposed on nature; it's a negotiated reality emerging from human intention (via robot proxy) in deep dialogue with soil, climate, and ecosystem.
 
-###### **Layer 2: The Formalism Layer**
+**Layer 2: The Formalism Layer**
 
 **Primary Formal Systems:**
 
@@ -558,7 +570,7 @@ In philosophical terms, the robot is a Heideggerian "shepherd of Being"—not do
 - **Stability:** Ecological network theory proves: Diversity above threshold → stability under perturbation; robot maintains diversity above this threshold
 - **Learning convergence:** With infinite data, robot's model converges to true farm dynamics (proven via PAC learning theory); with 5 years data, achieves 85% accuracy
 
-###### **Layer 3: The Substrate / Phenomenological Layer**
+**Layer 3: The Substrate / Phenomenological Layer**
 
 **Material Phenomenology:**
 
