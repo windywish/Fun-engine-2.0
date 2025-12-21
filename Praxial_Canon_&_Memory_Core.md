@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.4.8 (Ludic-Agentic Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.4.9 (PPO/PNE/PBDA Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 ------
 
@@ -925,6 +925,98 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 - **ID:** `PLMR-OBJ-041` | **Title:** The Protocol of Fractal Objectives
 - **ID:** `PLMR-RES-042` | **Title:** The Principle of Resolution Scaling
 - **ID:** `PLMR-QNT-043` | **Title:** The Axiom of Field-Particle Duality
+
+### Module: ['Praxial Predictive Oracle (PPO)'(-ing) BPMS]
+
+*(New Integration v3.4.9)*
+
+* `The Axiom of Finite Truth` (ID: `PPO-AXIOM-001`)
+* `The Mechanism of Veridical Identification` (ID: `PPO-MECH-002`)
+* `The Protocol of Hybrid Anchoring` (ID: `PPO-HYB-003`)
+* `The Law of Thermodynamic Utility` (ID: `PPO-ENER-004`)
+* `The Directive of Quiet Infrastructure` (ID: `PPO-SERV-005`)
+* `The Protocol of Atomic Crystallization` (ID: `PPO-FACT-006`)
+* `The Axiom of Predictive Existence` (ID: `PPO-EXIST-007`)
+* `The Mechanism of Generative-Predictive Symbiosis` (ID: `PPO-SYMB-008`)
+* `The Law of Anticipatory Flow` (ID: `PPO-LUDIC-009`)
+* `The Directive of Consequential Modeling` (ID: `PPO-AGENT-010`)
+* `The Principle of Verifiable Governance` (ID: `PPO-GOV-011`)
+* ` The Axiom of Ecological Forecasting` (ID: `PPO-ECO-012`)
+* `The Protocol of Recursive Self-Prediction` (ID: `PPO-META-013`)
+* `The Mechanism of Coherent Substrate Collapse` (ID: `PPO-WORLD-014`)
+* `The Law of Semantic Resonance` (ID: `PPO-MEAN-015`)
+* `The Directive of Bottom-Up Teleology `(ID: `PPO-EVO-016`)
+* `The Principle of Holonic Alignment` (ID: `PPO-HOLON-017`)
+* `The Engine of Praxial Intervention` (ID: `PPO-ACT-018`)
+* `The Protocol of Conscious Service` (ID: `PPO-SERV-019`)
+* `The Law of Dual-Mode Chrono-Prediction` (ID: `PPO-EVO-020`)
+* `The Axiom of Renormalization Universality` (ID: `PPO-PHYS-021`)
+* `The Mechanism of Implicit-Explicit Resonance` (ID: `PPO-LAYER-022`)
+* `The Principle of Systemic Closure` (ID: `PPO-SYS-023`)
+* `The Engine of Unknown Discovery` (ID: `PPO-UNK-024`)
+* `The Protocol of Mnemonic Consolidation` (ID: `PPO-MEM-025`)
+* `The Axiom of Veridical Alignment` (ID: `PPO-TRUTH-026`)
+* `The Mechanism of Linear Actualization` (ID: `PPO-MATH-027`)
+* `The Law of Qualia Rendering` (ID: `PPO-PHEN-028`)
+* `The Principle of Energetic Transduction` (ID: `PPO-ENER-029`)
+* `The Directive of Teleological Alignment` (ID: `PPO-GOAL-030`)
+* `The Mechanism of Resolution Scaling` (ID: `PPO-SCALE-031`)
+* `The Axiom of Field-Particle Duality` (ID: `PPO-PHYS-032`)
+
+### Module: ['Praxial Narrative Engineering (PNE)'(-ing) BPMS]
+
+*(New Integration v3.4.9)*
+
+* `The Axiom of Narrative Engineering` (ID: `PNE-CORE-001`)
+* `The Protocol of Spatial Default` (ID: `PNE-SPACE-002`)
+* `The Mechanism of Heterogeneous Assembly` (ID: `PNE-ASSEMB-003`)
+* `The Law of Synthetic Perfusion` (ID: `PNE-FLOW-004`)
+* `The Principle of Maturation via Stress` (ID: `PNE-STRESS-005`)
+* `The Protocol of Narrative Crystallization` (ID: `PNE-FACT-006`)
+* `The Mechanism of Niche Construction` (ID: `PNE-ECO-007`)
+* `The Law of Membrane Dynamics` (ID: `PNE-BOUND-008`)
+* `The Principle of Co-Evolutionary Coupling` (ID: `PNE-SYMB-009`)
+* `The Axiom of Narrative Inertia` (ID: `PNE-EXIST-010`)
+* `The Directive of Recursive Engineering` (ID: `PNE-META-011`)
+* `The Mechanism of Stochastic Inspiration` (ID: `PNE-CHAOS-012`)
+* `The Protocol of Semantic Terraforming` (ID: `PNE-WORLD-013`)
+* `The Axiom of Holonic Narrative` (ID: `PNE-HOLON-014`)
+* `The Principle of Value Transmutation` (ID: `PNE-VALUE-015`)
+* `The Law of Open-Ended Agency` (ID: `PNE-OPEN-016`)
+* `The Protocol of Metasystem Genesis` (ID: `PNE-META-017`)
+* `The Axiom of Praxial Cognition` (ID: `PNE-MIND-018`)
+* `The Axiom of Chrono-Ludic Symbiosis` (ID: `PNE-TIME-019`)
+* `The Principle of Implicit-Explicit Resonance `(ID: `PNE-LAYER-020`)
+* `The Mechanism of Renormalization Play` (ID: `PNE-SCALE-021`)
+* `The Law of Systemic Closure` (ID: `PNE-CLOSE-022`)
+* `The Protocol of Adaptive Discovery` (ID: `PNE-UNK-023`)
+* `The Service of Ludic Utility` (ID: `PNE-SERV-024`)
+* `The Axiom of Emergent Consciousness` (ID: `PNE-SOUL-025`)
+* `The Protocol of Mythic Consolidation` (ID: `PNE-MEM-026`)
+* `The Axiom of Veridical Justification` (ID: `PNE-TRUTH-027`)
+* `The Mechanism of Vectorial Storytelling` (ID: `PNE-MATH-028`)
+* `The Law of Phenomenological Framing` (ID: `PNE-PHEN-029`)
+* `The Principle of Dramatic Transduction` (ID: `PNE-ENER-030`)
+* `The Directive of Teleological Narrative` (ID: `PNE-GOAL-031`)
+* `The Mechanism of Narrative Zoom` (ID: `PNE-SCALE-032`)
+* `The Axiom of Thematic Field Dynamics` (ID: `PNE-PHYS-033`)
+
+### Module: ['Praxial Bio-Digital Accelerator (PBDA)'(-ing) BPMS]
+
+*(New Integration v3.4.9)* 
+
+* The Protocol of Evolutionary Optimization (ID: `PBDA-CORE-001`)
+* The Mechanism of Novelty Injection (ID: `PBDA-MECH-002`)
+* The Interface of Robotic Actuation (ID: `PBDA-BRIDGE-003`)
+* The Metric of Acceleration Factor (ID: `PBDA-METRIC-004`)
+* The Law of Containment & Safety (ID: `PBDA-SAFE-005`)
+* The Protocol of Atomic Crystallization (ID: `PBDA-FACT-006`)
+* The Mechanism of Existence Proof (ID: `PBDA-EXIST-007`)
+* The Principle of Symbiotic Co-Evolution (ID: `PBDA-EVOL-008`)
+* The Law of Niche Construction (ID: `PBDA-NICHE-009`)
+* The Protocol of Recursive Self-Improvement (ID: `PBDA-META-010`)
+* The Mechanism of Cross-Domain Fertilization (ID: `PBDA-CROSS-011`)
+* The Axiom of Verifiable Governance (ID: `PBDA-GOV-012`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
