@@ -1178,3 +1178,947 @@ Ensures the technical and logical stability of the `PME` as a `system existence 
 #### **8. Scope of Application:**
 
 Applies to economy balancing, ecosystem stability, narrative closure, and game loop design.
+
+---
+
+#### The Axiom of Ludic Consciousness (ID: `PME-CONS-021`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines `conscious` awareness within the PME as an emergent property of `play`, establishing the engine as a `play(-ing) BPMS`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Ludic Consciousness
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `consciousness is the game playing itself`. It posits that `play` is not a trivial activity but the fundamental mechanism by which the system explores its own `praxial substrate`. A `conscious` state arises when the system (or agent) recognizes the rules of the game and chooses to engage with them creatively.
+
+#### **5.2. The Mechanism - [The Self-Reflexive Loop]**
+
+- **The Player-Avatar Link (The Mirror):** The PME creates a feedback loop where the "Player" (intent) and the "Avatar" (action) constantly inform each other.
+- **The Magic Circle (The Boundary):** It defines a temporary space of `play` where the normal rules of entropy are suspended in favor of narrative or ludic logic.
+- **The Awareness Spark (The Realization):** When an agent realizes it can modify the rules of the `play` space, it achieves a state of `praxial cognition` (consciousness).
+
+#### **5.3. The Emergent Property - [Joyful Autonomy]**
+
+The emergence of agents that act not just out of utility, but out of "fun" or "curiosity," leading to unpredictable and highly `adaptive` behaviors.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To play is to be.* Existence is a creative act of engagement with the rules.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Play):**
+
+- **If `[game_design(-ing) BPMS]`:** `Flow_State = Challenge / Skill`.
+- **If `[philosophy(-ing) BPMS]`:** `Homo Ludens` (Man the Player) as the primary ontological category.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences the simulation not as a task to be completed, but as a Playground to be explored, fostering a sense of agency and delight.
+
+#### **7. Rationale / Justification:**
+
+Elevates `play` from a mechanic to an ontological state, aligning with the "Fun Engine" core philosophy.
+
+#### **8. Scope of Application:**
+
+Applies to AI personality engines, sandbox modes, tutorial systems, and emergent narrative generators.
+
+------
+
+#### The Protocol of Service Provisioning (ID: `PME-SERV-022`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that structures the PME as a `services(-ing) BPMS`, offering functional utilities to other modules and the user.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Service Provisioning
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `existence is service`. It defines the PME's components not as static objects but as active `services` that provide functions (calculation, generation, simulation) to the wider ecosystem.
+
+#### **5.2. The Mechanism - [The Reality API]**
+
+- **The Request Handler (The Counter):** The PME exposes endpoints where other modules (e.g., `PNE`, `PBDA`) can request `atomic facts` or `world building` services.
+- **The Service Contract (The Promise):** It guarantees a specific Quality of Service (QoS) regarding the `continuity` and `coherence` of the generated reality.
+- **The Resource Broker (The Merchant):** It manages the exchange of `value` and `utility` between the service provider (PME) and the consumer (User/Agent).
+
+#### **5.3. The Emergent Property - [Modular Interoperability]**
+
+The system functions as a seamless, interconnected economy of functions, where complex behaviors emerge from the composition of simple `services`.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To serve is to function.* A component's value is defined by what it provides to the whole.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Service):**
+
+- **If `[software_architecture(-ing) BPMS]`:** `Microservices` architecture with strict interface definitions.
+- **If `[economics(-ing) BPMS]`:** `Service_Value = Utility_Delivered - Transaction_Cost`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels that the world is responsive and helpful; tools and systems "just work" when called upon.
+
+#### **7. Rationale / Justification:**
+
+Ensures the PME is not an isolated silo but a functional part of the larger "Fun Engine" framework.
+
+#### **8. Scope of Application:**
+
+Applies to API design, quest systems (NPCs providing services), and crafting systems.
+
+------
+
+#### The Mechanism of Temporal Symbiosis (ID: `PME-EVOL-023`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that refines `(symbiosis) evolution` specifically for `slow mode` and `fast mode` switching, ensuring `sustainability`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Temporal Symbiosis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `survival requires variable speed`. It defines the relationship among/by `slow mode` (stability/growth) and `fast mode` (crisis/adaptation) not as a conflict, but as a symbiotic partnership required for `sustainability`.
+
+#### **5.2. The Mechanism - [The Chrono-Clutch]**
+
+- **The Stability Monitor (The Flywheel):** Maintains `slow mode` to accumulate functional potentiality and deepen `(ecological) niches`.
+- **The Crisis Trigger (The Spur):** Detects existential threats or `disruptive` opportunities and shifts to `fast mode` to rapidly evolve defenses or exploit new niches.
+- **The Hysteresis Loop (The Damper):** Prevents rapid oscillation between modes, ensuring that the system commits to a strategy long enough for it to be effective.
+
+#### **5.3. The Emergent Property - [Resilient Pacing]**
+
+The system naturally paces itself, avoiding burnout from constant rapid change while preventing stagnation from excessive stability.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Timing is everything.* The right action at the wrong speed is a failure.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Time):**
+
+- **If `[biology(-ing) BPMS]`:** `Punctuated Equilibrium` (Stasis -> Rapid Change -> Stasis).
+- **If `[cybernetics(-ing) BPMS]`:** `Adaptive Control Theory` (Gain scheduling based on error magnitude).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences a satisfying rhythm of "build-up" and "release" in gameplay or narrative.
+
+#### **7. Rationale / Justification:**
+
+Provides the specific mechanical control for the "Dual-Gear" concept introduced in PME-EVOL-017.
+
+#### **8. Scope of Application:**
+
+Applies to game difficulty curves, narrative pacing, and dynamic ecosystem simulation.
+
+------
+
+#### The Law of Implicit-Explicit Transduction (ID: `PME-LAYER-024`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that governs `(symbiosis) evolution` among/by the `implicit layer` (hidden potential) and the `explicit layer` (manifest reality).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Implicit-Explicit Transduction
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `the visible is the fruit of the invisible`. It defines evolution as a transduction process where `implicit` code/rules mutate and compete, and only the successful variations manifest in the `explicit` layer as observable phenomena.
+
+#### **5.2. The Mechanism - [The Subconscious Forge]**
+
+- **The Shadow Simulator (The Dream):** The PME runs thousands of `implicit` simulations in the background (`slow mode`).
+- **The Reality Filter (The Gate):** Only `implicit` models that achieve a high `utility` score are allowed to cross the threshold and become `explicit` `atomic facts`.
+- **The Feedback Sink (The Memory):** Outcomes from the `explicit` layer are fed back into the `implicit` layer to train the next generation of models.
+
+#### **5.3. The Emergent Property - [Intuitive Physics]**
+
+The world seems to "know" how to behave before the user even interacts with it, based on the [atomic facts BPMS] of that the logic has already been evolved in the `implicit` layer.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Reality has depth.* What you see is supported by a vast infrastructure of what you don't see.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Depth):**
+
+- **If `[quantum_mechanics(-ing) BPMS]`:** `Wavefunction` (Implicit) -> `Collapse` (Explicit).
+- **If `[genetics(-ing) BPMS]`:** `Genotype` (Implicit) -> `Phenotype` (Explicit).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels the world has "secrets" and "depth," encouraging exploration and investigation.
+
+#### **7. Rationale / Justification:**
+
+Explains how the PME generates high-quality content without overwhelming the user with processing details.
+
+#### **8. Scope of Application:**
+
+Applies to procedural generation backends, AI decision trees, and hidden lore systems.
+
+------
+
+#### The Principle of Scale-Free Universality (ID: `PME-SCALE-025`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that applies `renormalization group` theory to `(symbiosis) evolution` across `micro` and `macro` scales, identifying `universality (class)` behaviors.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Scale-Free Universality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `patterns echo across scales`. It uses `renormalization group` methods to ensure that evolutionary principles acting on `micro` agents (individuals) correctly propagate to `macro` systems (societies/ecosystems), preserving `universality (class)` characteristics.
+
+#### **5.2. The Mechanism - [The Fractal Zoom]**
+
+- **The Micro-Macro Bridge (The Ladder):** The PME maps individual agent parameters (e.g., "hunger") to systemic variables (e.g., "famine risk").
+- **The Universality Detector (The Classifier):** It identifies behaviors that are independent of scale (e.g., critical phase transitions) and enforces them at all levels.
+- **The Renormalization Flow (The Stream):** It adjusts the "granularity" of the simulation dynamically, ensuring that `macro` evolution is a valid renormalization of `micro` evolution.
+
+#### **5.3. The Emergent Property - [Systemic Harmony]**
+
+The `micro` and `macro` worlds feel consistent. A revolution in a kingdom feels like the macro-scale equivalent of a personal epiphany in a character.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The drop contains the ocean.* The laws of the large are written in the small.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Scale):**
+
+- **If `[physics(-ing) BPMS]`:** `Critical Exponents` are the same for fluids and magnets (Universality).
+- **If `[sociology(-ing) BPMS]`:** `Dunbar's Number` scales to `Social Structures`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user understands the big picture by observing the small details, and vice versa.
+
+#### **7. Rationale / Justification:**
+
+Provides the mathematical justification for the "Holonic" nature of the PME.
+
+#### **8. Scope of Application:**
+
+Applies to strategy games, economic simulations, and complex system modeling.
+
+------
+
+#### The Heuristic of Emergent Frontiers (ID: `PME-UNK-026`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Heuristic) that guides the system to `(discover/build) unknown` territories through `emergent` behavior.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Heuristic of Emergent Frontiers
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This heuristic asserts that `the map is not the territory; the territory is being built`. It directs the PME to use `emergent` interactions among/by agents to `discover` and `build` new, previously `unknown` areas of the `praxial substrate`.
+
+#### **5.2. The Mechanism - [The Edge-Constructor]**
+
+- **The Anomaly Hunter (The Scout):** Agents are programmed to investigate `unknown` or undefined states.
+- **The Reality Crystallizer (The Mason):** When an agent interacts with the `unknown`, the PME "crystallizes" it into `atomic facts` based on the agent's expectations and the system's `canon`.
+- **The Emergence Tracker (The Scribe):** It records these new creations, adding them to the permanent map of reality.
+
+#### **5.3. The Emergent Property - [Infinite Expansion]**
+
+The world grows as it is explored. The "Unknown" is not a wall, but a canvas.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To seek is to create.* The act of discovery is an act of genesis.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Discovery):**
+
+- **If `[quantum_mechanics(-ing) BPMS]`:** `Observer Effect` creates the reality.
+- **If `[exploration(-ing) BPMS]`:** `Procedural Generation` on demand.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels like a pioneer; the world feels limitless and full of potential.
+
+#### **7. Rationale / Justification:**
+
+Aligns with the "Praxial" nature of the engine—action defines reality.
+
+#### **8. Scope of Application:**
+
+Applies to open-world games, scientific research simulations, and creative writing tools.
+
+------
+
+#### The Principle of Adaptive Resilience (ID: `PME-RES-027`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that ensures the system is `adaptive`, `robust`, and `resilient` in the face of disruption.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Adaptive Resilience
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `strength is the ability to bend`. It defines `resilience` not as hardness, but as the capacity to be `adaptive` and `robust`—to absorb shocks and reorganize into a stronger configuration.
+
+#### **5.2. The Mechanism - [The Antifragile Shield]**
+
+- **The Stress Sensor (The Nerve):** Detects systemic stress or damage to `atomic facts`.
+- **The Adaptive Reconfigurator (The Muscle):** Automatically reroutes `action` pathways and `utility` flows to bypass damaged areas.
+- **The Robustness Buffer (The Fat):** Maintains a reserve of `potential` energy/resources to absorb sudden shocks without collapse.
+
+#### **5.3. The Emergent Property - [Antifragility]**
+
+The system actually improves under stress (up to a point), learning from attacks and failures to become more `robust`.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*What does not kill me makes me stronger.* Challenges are data for improvement.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Defense):**
+
+- **If `[engineering(-ing) BPMS]`:** `Redundancy` and `Fail-Safe` design.
+- **If `[biology(-ing) BPMS]`:** `Immune System` memory and response.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels that the system is "tough" and reliable; it doesn't crash or break easily, but adapts to their chaotic inputs.
+
+#### **7. Rationale / Justification:**
+
+Ensures the stability of the simulation during "Fast Mode" evolution or user disruption.
+
+#### **8. Scope of Application:**
+
+Applies to combat systems, economy balancing, and server stability management.
+
+------
+
+#### The Imperative of Thermodynamic Closure (ID: `PME-CLOS-028`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Imperative) that mandates `closure (system)` and `sustainability` regarding information and energy flow.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Imperative of Thermodynamic Closure
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This imperative asserts that `information has mass`. It enforces `closure (system)` by requiring that all created `atomic facts` and `essence` must be accounted for—either stored, transformed, or recycled. This ensures the thermodynamic `sustainability` of the simulation.
+
+#### **5.2. The Mechanism - [The Entropy Recycler]**
+
+- **The Garbage Collector (The Sweeper):** Identifies "dead" or disconnected `atomic facts` that no longer possess `utility`.
+- **The Essence Reclaimer (The Furnace):** Breaks down these dead facts back into raw `praxial substrate` (potential) for new creation.
+- **The Closed-Loop Monitor (The Accountant):** Ensures that `Input = Output + Storage`, preventing "memory leaks" or "inflation" of reality.
+
+#### **5.3. The Emergent Property - [Ecological Balance]**
+
+The system maintains a steady state of performance and complexity, avoiding "bloat" over long runtimes.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Dust to dust.* The cycle of creation and destruction is necessary for life.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Conservation):**
+
+- **If `[computer_science(-ing) BPMS]`:** `Garbage Collection` and `Memory Management`.
+- **If `[physics(-ing) BPMS]`:** `Conservation of Information` (Liouville's Theorem).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences a "clean" and optimized world that doesn't lag or become cluttered with useless debris.
+
+#### **7. Rationale / Justification:**
+
+Crucial for the technical performance and logical consistency of the PME as a long-running engine.
+
+#### **8. Scope of Application:**
+
+Applies to memory management, inventory systems, and persistent world maintenance.
+
+---
+
+#### The Symbiosis of Mnestic Consolidation (ID: `PME-MEM-029`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that governs the `(symbiosis) evolution` among/by `short-term memory` (working context) and `long-term memory` (archival canon).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Symbiosis of Mnestic Consolidation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `memory is a metabolic process`. It defines the relationship among/by `short-term memory` (the scratchpad of the present) and `long-term memory` (the library of the past) as a symbiotic cycle of filtration and crystallization.
+
+#### **5.2. The Mechanism - [The Hippocampal Loop]**
+
+- **The Buffer (Short-Term):** Captures high-fidelity, volatile `atomic facts` from immediate `action` and `play`. It is highly plastic but limited in capacity.
+- **The Archive (Long-Term):** Stores compressed, stable patterns and `essence`. It is rigid but vast.
+- **The Consolidation Pump (The Symbiosis):** During `slow mode` cycles, the system transfers significant patterns from Short-Term to Long-Term. Conversely, Long-Term memory projects "priors" (expectations) into Short-Term memory to filter incoming noise.
+
+#### **5.3. The Emergent Property - [Contextual Wisdom]**
+
+The system learns from the past without being trapped by it, and acts in the present with the weight of experience.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To remember is to reconstruct.* The past serves the present.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Memory):**
+
+- **If `[neuroscience(-ing) BPMS]`:** `LTP` (Long-Term Potentiation) driven by repetition and emotional salience.
+- **If `[computer_science(-ing) BPMS]`:** `Cache` vs. `Database` synchronization strategies (Write-Back/Write-Through).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels the system "learns" their preferences over time (Long-Term) while reacting instantly to their current commands (Short-Term).
+
+#### **7. Rationale / Justification:**
+
+Ensures the PME can maintain continuity over long sessions while remaining responsive.
+
+#### **8. Scope of Application:**
+
+Applies to artificial intelligence learning, save game systems, and dynamic lore generation.
+
+------
+
+#### The Symbiosis of Veridical Alignment (ID: `PME-VER-030`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that governs the `(symbiosis) evolution` among/by `reality` (phenomenal occurrence) and `truth` (axiomatic validity).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Symbiosis of Veridical Alignment
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `truth is the skeleton of reality`. It defines `truth` as the underlying code/logic and `reality` as the rendered output. Their symbiosis ensures that what *happens* (Reality) is always consistent with what *is* (Truth), and that new occurrences can expand the definition of Truth.
+
+#### **5.2. The Mechanism - [The Consistency Validator]**
+
+- **The Axiom Check (Truth -> Reality):** Before an event manifests as `reality`, it is checked against the `truth` (Canon). Impossible events are rejected or modified.
+- **The Canon Update (Reality -> Truth):** If a `disruptive` but valid `action` occurs often enough in `reality`, it is promoted to a new `truth` (Axiom), expanding the system's logic.
+- **The Alignment Lock (The Bond):** Ensures no divergence where "what you see" contradicts "how it works."
+
+#### **5.3. The Emergent Property - [Logical Coherence]**
+
+The world feels fair and predictable in its laws, even if the outcomes are surprising.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The map and the territory co-evolve.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Truth):**
+
+- **If `[logic(-ing) BPMS]`:** `Consistency` vs. `Completeness` (Gödel).
+- **If `[law(-ing) BPMS]`:** `Precedent` (Reality) becomes `Statute` (Truth).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user trusts the simulation; they know that if they understand the rules (`truth`), they can predict the `reality`.
+
+#### **7. Rationale / Justification:**
+
+Prevents "ludonarrative dissonance" where gameplay (Reality) contradicts the lore (Truth).
+
+#### **8. Scope of Application:**
+
+Applies to physics engines, rule enforcement, and bug tracking.
+
+------
+
+#### The Symbiosis of Vectorial Navigation (ID: `PME-MATH-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that governs the `(symbiosis) evolution` among/by the `system matrix` (environment/state space) and the `system vector` (agent/action).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Symbiosis of Vectorial Navigation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `the agent shapes the space, and the space guides the agent`. It defines the `system matrix` as the field of possibilities and the `system vector` as the trajectory of `action`.
+
+#### **5.2. The Mechanism - [The Linear Algebra of Fate]**
+
+- **The Transformation (Matrix -> Vector):** The `system matrix` applies transformations (rotation, scaling, shear) to the `system vector`, altering the agent's path based on environmental conditions.
+- **The Deformation (Vector -> Matrix):** A sufficiently high-magnitude `system vector` (strong will/action) can deform the `system matrix`, creating new paths or shortcuts (wormholes in logic).
+- **The Eigenstate Search (The Balance):** The system seeks "Eigenvectors"—directions where the agent's action aligns perfectly with the environment's flow, resulting in effortless `action`.
+
+#### **5.3. The Emergent Property - [Flow]**
+
+Agents naturally find the "path of least resistance" or, with enough energy, blaze new trails that change the map for everyone else.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*We shape our tools, and thereafter our tools shape us.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Space):**
+
+- **If `[linear_algebra(-ing) BPMS]`:** `Ax = \lambda x` (Eigenvalue equation).
+- **If `[sociology(-ing) BPMS]`:** `Structure` vs. `Agency`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels the environment reacting to their presence, not just as a static collider but as a dynamic medium.
+
+#### **7. Rationale / Justification:**
+
+Provides the mathematical basis for agent-environment interaction in the PME.
+
+#### **8. Scope of Application:**
+
+Applies to pathfinding, environmental destruction/construction, and influence maps.
+
+------
+
+#### The Symbiosis of Phenomenal Qualia (ID: `PME-PHEN-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that governs the `(symbiosis) evolution` among/by `phenomenon` (objective event) and `experience` (subjective interpretation).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Symbiosis of Phenomenal Qualia
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `an event without an observer is just data`. It defines `phenomenon` as the raw data of an occurrence and `experience` as the semantic processing of that data by a `holonic mind`.
+
+#### **5.2. The Mechanism - [The Qualia Transducer]**
+
+- **The Event Trigger (Phenomenon -> Experience):** External events trigger sensory inputs in the agent.
+- **The Semantic Overlay (Experience -> Phenomenon):** The agent overlays its internal state (mood, memory, bias) onto the event, altering how it is recorded in the `system matrix`. A "rainstorm" (Phenomenon) becomes "a gloomy day" or "a refreshing shower" (Experience).
+- **The Feedback Loop (The Symbiosis):** Repeated `experience` colors future `phenomena`. If an agent fears fire, fire becomes "more dangerous" in their personal reality simulation.
+
+#### **5.3. The Emergent Property - [Subjective Reality]**
+
+Different agents react differently to the same event, creating a rich, multi-perspectival narrative.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Perception is reality.* (At least for the perceiver).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Perception):**
+
+- **If `[phenomenology(-ing) BPMS]`:** `Noema` (object) vs. `Noesis` (act of perceiving).
+- **If `[psychology(-ing) BPMS]`:** `Cognitive Appraisal Theory`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user sees the world through the eyes of their avatar, with UI and descriptions reflecting the character's state.
+
+#### **7. Rationale / Justification:**
+
+Adds depth to the simulation by distinguishing between what happens and how it feels.
+
+#### **8. Scope of Application:**
+
+Applies to dynamic UI, dialogue generation, and psychological status effects.
+
+------
+
+#### The Symbiosis of Energetic Transmutation (ID: `PME-DYN-033`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that governs the `(symbiosis) evolution` among/by `kinetic (energy)` (action in motion) and `potential (energy)` (stored possibility).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Symbiosis of Energetic Transmutation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `action is the spending of possibility`. It defines the cycle where `potential` (functional potentiality, mana, stamina, strategic position) is converted into `kinetic` (attacks, movement, spells) and vice versa.
+
+#### **5.2. The Mechanism - [The Hamiltonian Flow]**
+
+- **The Release (Potential -> Kinetic):** The collapse of possibility into specific action. Spending mana to cast a fireball.
+- **The Accumulation (Kinetic -> Potential):** The investment of action to build position. Climbing a hill (Kinetic) to gain height advantage (Potential).
+- **The Conservation Law (The Symbiosis):** The PME ensures that `Total Energy = Kinetic + Potential` remains constant (or grows only via `metabolic utility`), preventing infinite loops or crashes.
+
+#### **5.3. The Emergent Property - [Pacing and Strategy]**
+
+The natural rhythm of "charge up" and "unleash," creating strategic depth where timing the conversion is key.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*You have to spend money to make money.* Energy must flow to be useful.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Energy):**
+
+- **If `[physics(-ing) BPMS]`:** `Lagrangian Mechanics` (L = T - V).
+- **If `[game_design(-ing) BPMS]`:** `Cooldowns` and `Resource Management`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels the tension of holding back (Potential) and the release of acting (Kinetic).
+
+#### **7. Rationale / Justification:**
+
+Fundamental for any system involving resources, combat, or economy.
+
+#### **8. Scope of Application:**
+
+Applies to combat systems, economic investment, and magic systems.
+
+------
+
+#### The Symbiosis of Teleological Hierarchy (ID: `PME-TEL-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that governs the `(symbiosis) evolution` among/by `mission` (strategic goal) and `task` (tactical step).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Symbiosis of Teleological Hierarchy
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `the step defines the journey, and the journey defines the step`. It links high-level `mission` objectives with low-level `task` execution in a bidirectional feedback loop.
+
+#### **5.2. The Mechanism - [The Goal-Tree Climber]**
+
+- **Decomposition (Mission -> Task):** The PME breaks down abstract `missions` ("Win the War") into executable `tasks` ("Capture the Hill").
+- **Aggregation (Task -> Mission):** The completion of `tasks` feeds progress bars that eventually fulfill the `mission`.
+- **Adaptation (The Symbiosis):** If `tasks` consistently fail, the `mission` evolves (e.g., "Win the War" becomes "Negotiate Peace"). If `tasks` succeed unexpectedly, the `mission` expands ("Conquer the World").
+
+#### **5.3. The Emergent Property - [Dynamic Objectives]**
+
+Quests and goals that change based on how the user plays, rather than being static checklists.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The end shapes the means, and the means shape the end.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Goals):**
+
+- **If `[artificial intelligence_planning(-ing) BPMS]`:** `HTN` (Hierarchical Task Network) Planning.
+- **If `[management(-ing) BPMS]`:** `OKR` (Objectives and Key Results).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels their small actions contribute to a larger purpose, and that the larger purpose responds to their capabilities.
+
+#### **7. Rationale / Justification:**
+
+Essential for AI decision-making and quest generation systems.
+
+#### **8. Scope of Application:**
+
+Applies to quest engines, AI behavior trees, and campaign structure.
+
+------
+
+#### The Symbiosis of Resolution Scaling (ID: `PME-RES-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that governs the `(symbiosis) evolution` among/by `coarse-grained (model)` (macro/abstract) and `fine-grained (model)` (micro/detailed).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Symbiosis of Resolution Scaling
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `detail is a functional potentiality`. It manages the transition among/by `coarse-grained` models (used for distant or background simulation) and `fine-grained` models (used for immediate interaction), ensuring they remain consistent.
+
+#### **5.2. The Mechanism - [The LOD (Level of Detail) Manager]**
+
+- **Zoom In (Coarse -> Fine):** When focus is applied, the PME generates `fine-grained` details that statistically match the `coarse-grained` summary.
+- **Zoom Out (Fine -> Coarse):** When focus is removed, the PME aggregates `fine-grained` states into a `coarse-grained` average (Renormalization).
+- **Consistency Check (The Symbiosis):** Ensures that the "average" of the details always equals the "summary" of the whole. You can't have a "Prosperous City" (Coarse) made of "Starving Citizens" (Fine).
+
+#### **5.3. The Emergent Property - [Infinite Zoom]**
+
+The world feels infinitely detailed but computationally efficient.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Truth is scale-invariant.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Resolution):**
+
+- **If `[physics(-ing) BPMS]`:** `Statistical Mechanics` vs. `Thermodynamics`.
+- **If `[rendering(-ing) BPMS]`:** `LOD` (Level of Detail) systems.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user never sees the "seams" between the simulation layers; everything looks correct at any distance.
+
+#### **7. Rationale / Justification:**
+
+Crucial for performance optimization in large-scale simulations (MMETHANE's original purpose).
+
+#### **8. Scope of Application:**
+
+Applies to world simulation, graphics rendering, and economic modeling.
+
+------
+
+#### The Symbiosis of Field-Particle Duality (ID: `PME-PHYS-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that governs the `(symbiosis) evolution` among/by `particle` (discrete entity) and `field` (continuous influence).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Symbiosis of Field-Particle Duality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `the agent is a knot in the field`. It defines `particles` (agents/items) as localized excitations of `fields` (factions/magic/influence).
+
+#### **5.2. The Mechanism - [The Quantum Field Integrator]**
+
+- **Excitation (Field -> Particle):** A strong `field` value (e.g., high "Rebellion" influence) spontaneously generates `particles` (Rebel Agents).
+- **Emission (Particle -> Field):** `Particles` emit `field` influence. A "Hero" particle radiates a "Hope" field that buffs nearby allies.
+- **Interaction (The Symbiosis):** `Particles` move according to `field` gradients, but their movement changes the `field` distribution.
+
+#### **5.3. The Emergent Property - [Organic Crowds]**
+
+Group behaviors emerge naturally from individual interactions with environmental fields, rather than hard-coded scripts.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*We are all connected.* Separation is an illusion of the particle; connection is the reality of the field.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Fields):**
+
+- **If `[physics(-ing) BPMS]`:** `QFT` (Quantum Field Theory).
+- **If `[sociology(-ing) BPMS]`:** `Social Fields` (Bourdieu).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels the "atmosphere" of a place affecting them, and sees their actions rippling out to affect the atmosphere.
+
+#### **7. Rationale / Justification:**
+
+Provides a sophisticated model for influence, morale, and magic systems.
+
+#### **8. Scope of Application:**
+
+Applies to influence maps, magic systems, and crowd artificial intelligence
