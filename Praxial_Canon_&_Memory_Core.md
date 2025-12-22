@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.5.2 (PCC/PCM/PASE/PSIR/PBCO/PME/PBCA/PAEA/PAGE Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.5.3 (PCC/PCM/PASE/PSIR/PBCO/PME/PBCA/PAEA/PAGE Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 ------
 
@@ -1294,7 +1294,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 ### Module: ['Praxial Activity-Genesis Engine (PAGE)'(-ing) BPMS]
 
-*(New Integration v3.5.2)* 
+*(New Integration v3.5.3)* 
 
 * The Axiom of Active Creation (ID: `PAGE-CORE-001`)
 * The Protocol of Epistemic Transparency (ID: `PAGE-DEMYS-002`)
@@ -1329,6 +1329,11 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Mission-Task Alignment (ID: `PAGE-MISS-031`)
 * The Mechanism of Granular Zoom (ID: `PAGE-GRAN-032`)
 * The Axiom of Field-Particle Duality (ID: `PAGE-PHYS-033`)
+* The Axiom of Autotelic Recursion (ID: `PAGE-ACT-034`)
+* The Principle of Ontological Weight (ID: `PAGE-ACT-035`)
+* The Mechanism of Symbiotic Resonance (ID: `PAGE-ACT-036`)
+* The Protocol of Dimensional Spanning (ID: `PAGE-ACT-037`)
+* The Strategy of Niche Construction (ID: `PAGE-ACT-038`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
