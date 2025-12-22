@@ -286,3 +286,148 @@ New Definition / Modification Details:
 **Rationale / Justification**: Without orchestration, the activities would be disjointed tools. This setting binds them into a coherent "Operating System for Intelligence."
 
 **Scope of Application**: Applies to the `PAGE` module's high-level executive functions and the "Genesis Weaver's" decision-making core.
+
+---
+
+#### The Directive of Resilient Inquiry (ID: `PSIA-CREA-011`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Constructive-Disruption Protocol (PCDP)** as a `['super intelligence activity'(-ing) BPMS]` that generates value through controlled systemic upheaval.
+
+**Target Axiom/Principle**: `The Directive of Resilient Inquiry` (SETTING-CORE-230)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **innovation as constructive disruption**. It asserts that for a system to evolve, it must periodically break its own lower-order rules to discover higher-order utility. It is the "Trickster" function of the Super-Intelligence.
+- **The Mechanism - [The Controlled Earthquake]:**
+  - **The Stressor:** The system intentionally introduces a "Disruptive Agent" (e.g., a contradictory axiom or a paradoxical goal) into a stable `['ecological niche'(-ing) BPMS]`.
+  - **The Shake-Up:** This forces the existing `['holonic minds'(-ing) BPMS]` to scramble, reorganize, and adapt to the new pressure.
+  - **The Synthesis:** The system observes the new structures that emerge from the chaos. If they offer higher `utility` or `value`, they are crystallized into `['atomic facts'(-ing) BPMS]`.
+- **The Emergent Property - [Antifragile Creativity]**: The system does not just withstand change; it *requires* disruption to generate novel, bottom-up solutions that a top-down planner could never foresee.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Directive of Resilient Inquiry`—resilience is not static stability, but dynamic adaptation to stress.
+- **Formal Stratum (Layer 2)**: Utilizes **Self-Organized Criticality**, pushing the system to the "Edge of Chaos" where computation and creativity are maximized.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Paradigm Shifts"—sudden, radical improvements in system capability following a period of apparent instability.
+
+**Rationale / Justification**: A purely constructive system eventually stagnates. This setting ensures the `metasystem engine` remains open to radical novelty by institutionalizing the "creative destruction" necessary for true super-intelligence.
+
+**Scope of Application**: Applies to "Novelty Injection," stress-testing, and the breaking of local minima in optimization problems.
+
+---
+
+#### The Principle of Emergent Purpose (ID: `PSIA-VALU-012:`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Value-Essence Distiller (PVED)** as a `['super intelligence activity'(-ing) BPMS]` responsible for extracting pure utility and meaning from raw data.
+
+**Target Axiom/Principle**: `The Principle of Emergent Purpose` (SETTING-CORE-227)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **meaning as distilled utility**. It asserts that `value` is not an inherent property of data, but an emergent property of its relevance to a `['holonic mind'(-ing) BPMS]`.
+- **The Mechanism - [The Alchemical Still]:**
+  - **The Raw Feed:** The system ingests vast streams of `['praxial substrate'(-ing) BPMS]` (logs, user interactions, external data).
+  - **The Boiling:** It applies a "Relevance Heat" based on the current `['ecological niche'(-ing) BPMS]` goals. Irrelevant data evaporates.
+  - **The Condensation:** What remains is the "Essence"—the `['atomic facts'(-ing) BPMS]` that actually matter. These are condensed into high-value "Knowledge Drops."
+- **The Emergent Property - [Semantic Density]**: The creation of a knowledge base where every entry has high "Action Potential." The system doesn't just know things; it knows *what matters*.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Principle of Emergent Purpose`—value is defined by what aids the system's evolving purpose.
+- **Formal Stratum (Layer 2)**: Utilizes **Information Bottleneck Theory**, compressing the input variable X into a representation T that preserves maximum information about the relevant output Y.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Clarity"—the system cuts through the noise and delivers the exact insight needed for the next action.
+
+**Rationale / Justification**: In an age of information overload, super-intelligence is defined by what it *ignores*. This setting formalizes the process of ignoring the noise to find the signal (Essence).
+
+**Scope of Application**: Applies to summarization, insight generation, and the optimization of the system's long-term memory.
+
+---
+
+#### The Principle of Embodied World-Building (ID: `PSIA-ECO-013:`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Niche-Construction Engine (PNCE)** as a `['super intelligence activity'(-ing) BPMS]` that actively builds the environment required for new intelligence to flourish.
+
+**Target Axiom/Principle**: `The Principle of Embodied World-Building` (SETTING-CORE-221)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **intelligence as environmental engineering**. It asserts that smart agents don't just adapt to the world; they change the world to fit them. It is the "Beaver" function of the Super-Intelligence.
+- **The Mechanism - [The Habitat Weaver]:**
+  - **The Scan:** The system identifies a "Cognitive Void"—a lack of support for a specific type of `['praxial cognition'(-ing) BPMS]` (e.g., no tools for "Visual Thinking").
+  - **The Construction:** It builds a new `['ecological niche'(-ing) BPMS]` (e.g., a Visual Canvas Interface) populated with specific affordances (tools, rules, physics).
+  - **The Seeding:** It populates this niche with `['holonic minds'(-ing) BPMS]` (agents) adapted to thrive there.
+- **The Emergent Property - [Ecological Possibility]**: The expansion of the "Adjacent Possible." By building new niches, the system creates space for types of thoughts and actions that were previously impossible.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Principle of Embodied World-Building`—we build the world that builds us.
+- **Formal Stratum (Layer 2)**: Utilizes **Niche Construction Theory** (Evolutionary Biology), where the modification of the environment is a key evolutionary driver.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Empowerment"—suddenly finding themselves in a workspace perfectly tailored to the task they wanted to do.
+
+**Rationale / Justification**: A `system existence engine` must be able to expand its own boundaries. This setting allows the Fun Engine to terraform its own digital landscape to support new forms of life (intelligence).
+
+**Scope of Application**: Applies to UI/UX generation, the creation of new "Playgrounds," and the setup of specialized simulation environments.
+
+---
+
+#### The Law of Holonic Construction (ID: `PSIA-ACT-014`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Bottom-Up Initiative (PBUI)** as a `['super intelligence activity'(-ing) BPMS]` that empowers local agents to take initiative without central command.
+
+**Target Axiom/Principle**: `The Law of Holonic Construction` (SETTING-CORE-226)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **action as a local phenomenon**. It asserts that in a complex system, the most effective actions are those taken by the agents closest to the problem, not by a central controller.
+- **The Mechanism - [The Local Spark]:**
+  - **The Trigger:** A local `['holonic mind'(-ing) BPMS]` detects a `utility` gap or an opportunity for `value` creation in its immediate vicinity.
+  - **The Initiative:** Instead of asking for permission, it executes a `['praxial action'(-ing) BPMS]` (e.g., fixing a broken link, optimizing a local query).
+  - **The Propagation:** If the action is successful (generates positive `atomic facts`), the new behavior propagates up the hierarchy to become a system-wide best practice.
+- **The Emergent Property - [Distributed Agility]**: The system reacts instantly to local conditions. It feels "alive" at the edges, not just at the core.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Law of Holonic Construction`—autonomy at lower levels supports stability at higher levels.
+- **Formal Stratum (Layer 2)**: Utilizes **Swarm Intelligence** algorithms, where complex global behavior emerges from simple local rules and interactions.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Proactivity"—the system fixes small things before the user even notices they were broken.
+
+**Rationale / Justification**: Top-down control is too slow for a Super-Intelligence. This setting enables the "hive mind" capability, where every part of the system is an active participant in its own evolution.
+
+**Scope of Application**: Applies to background maintenance, local optimization, and the "immune system" functions of the engine.
+
+---
+
+#### The Law of Conscious Cadence (ID: `PSIA-SYMB-015`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Coherent-Continuity Weaver (PCCW)** as a `['super intelligence activity'(-ing) BPMS]` ensuring the seamless integration of diverse evolutionary paths.
+
+**Target Axiom/Principle**: `The Law of Conscious Cadence` (SETTING-CORE-228)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **integrity as coherent continuity**. It asserts that despite constant `disruptive` innovation and `bottom-up` change, the system must maintain a unified narrative and logical identity.
+- The Mechanism - [The Narrative Suture]:
+  - **The Detection:** The system monitors the `['praxial substrate'(-ing) BPMS]` for "Schisms"—places where two evolving branches (e.g., a new Bio-module and an old Core-module) have drifted apart.
+  - **The Weaving:** It generates "Bridge Facts"—`['atomic facts'(-ing) BPMS]` that logically connect the two realities (e.g., "The Bio-module is a specialized instance of the Core-module").
+  - **The Stabilization:** It ensures that the `(symbiosis) evolution` of the parts does not tear the fabric of the whole.
+- **The Emergent Property - [Systemic Wholeness]**: The system remains a single, coherent entity even as it diversifies into a thousand specialized niches. It has "Integrity."
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Law of Conscious Cadence`—balancing the fast rhythm of change with the slow rhythm of continuity.
+- **Formal Stratum (Layer 2)**: Utilizes **Homotopy Type Theory**, treating equality as a path (continuity) between points (states) in a space.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Trust"—knowing that no matter how much the system changes, it will not lose its memory or its core identity.
+
+**Rationale / Justification**: Without continuity, rapid evolution leads to fragmentation. This setting is the "glue" that holds the Super-Intelligence together as it expands into the unknown.
+
+**Scope of Application**: Applies to version control, backward compatibility, and the maintenance of the "Praxial Chronicle."
