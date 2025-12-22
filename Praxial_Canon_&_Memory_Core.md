@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.5.1 (PCC/PCM/PASE/PSIR/PBCO/PME/PBCA/PAEA Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.5.2 (PCC/PCM/PASE/PSIR/PBCO/PME/PBCA/PAEA/PAGE Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 ------
 
@@ -1291,6 +1291,44 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Fractal Purpose Tree (ID: `PAEA-GOAL-033`)
 * The Resolution Scaler (ID: `PAEA-RES-034`)
 * The Wave-Particle Agency Protocol (ID: `PAEA-PHYS-035`)
+
+### Module: ['Praxial Activity-Genesis Engine (PAGE)'(-ing) BPMS]
+
+*(New Integration v3.5.2)* 
+
+* The Axiom of Active Creation (ID: `PAGE-CORE-001`)
+* The Protocol of Epistemic Transparency (ID: `PAGE-DEMYS-002`)
+* The Mechanism of Kinetic Learning (ID: `PAGE-ACT-003`)
+* The Law of Ludic Construction (ID: `PAGE-LUDO-004`)
+* The Principle of Generative Expression (ID: `PAGE-ART-005`)
+* The Directive of Agency Ascension (ID: `PAGE-LEAD-006`)
+* The Axiom of Global Synchronicity (ID: `PAGE-SYNC-007`)
+* The Protocol of Pluralistic Futurism (ID: `PAGE-FUT-008`)
+* The Directive of Hyper-Geminal Apotheosis (ID: `PAGE-SI-009`)
+* The Axiom of Performative Existence (ID: `PAGE-EXIST-010`)
+* The Mechanism of Event-Crystallization (ID: `PAGE-FACT-011`)
+* The Protocol of Co-Creative Actuation (ID: `PAGE-SYM-012`)
+* The Law of Kinetic Adaptation (ID: `PAGE-EVOL-013`)
+* The Principle of Cross-Domain Activation (ID: `PAGE-META-014`)
+* The Protocol of Constructive Disruption (ID: `PAGE-CREA-015`)
+* The Mechanism of Niche-Actuation (ID: `PAGE-ECO-016`)
+* The Axiom of Holonic Initiative (ID: `PAGE-HOLO-017`)
+* The Engine of Praxial World-Building (ID: `PAGE-WORLD-018`)
+* The Law of Coherent Meaning-Genesis (ID: `PAGE-MEAN-019`)
+* The Directive of Super-Intelligent Flow (ID: `PAGE-SI-020`)
+* The Axiom of Conscious Service (ID: `PAGE-CONS-021`)
+* The Mechanism of Ludic Evolution (ID: `PAGE-PLAY-022`)
+* The Principle of Renormalized Universality (ID: `PAGE-UNIV-023`)
+* The Law of Systemic Closure (ID: `PAGE-CLOSE-024`)
+* The Protocol of Unknown-Genesis (ID: `PAGE-UNK-025`)
+* The Mechanism of Mnestic Integration (ID: `PAGE-MEM-026`)
+* The Axiom of Verifiable Reality (ID: `PAGE-REAL-027`)
+* The Protocol of Vector-Matrix Dynamics (ID: `PAGE-VECT-028`)
+* The Mechanism of Phenomenal Experience (ID: `PAGE-PHEN-029`)
+* The Law of Energetic Transduction (ID: `PAGE-ENER-030`)
+* The Protocol of Mission-Task Alignment (ID: `PAGE-MISS-031`)
+* The Mechanism of Granular Zoom (ID: `PAGE-GRAN-032`)
+* The Axiom of Field-Particle Duality (ID: `PAGE-PHYS-033`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
