@@ -270,7 +270,7 @@ Applies to long-term system maintenance, optimization of retrieval speeds, and t
 
 ---
 
-####  he Axiom of Mnemonic Existence (ID: `PCM-EXIST-005`)
+####  The Axiom of Mnemonic Existence (ID: `PCM-EXIST-005`)
 
 #### **2. Objective:**
 
