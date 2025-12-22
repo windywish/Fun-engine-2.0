@@ -21,7 +21,7 @@ This document presents a concrete, working implementation of the **['Praxial Cog
 
 ##### **ID:** `PCM-WEAV-001`
 
-###### **Name:** ['The Mnestic Weaver'(-ing) BPMS]
+##### **Name:** ['The Mnestic Weaver'(-ing) BPMS]
 
 ##### **CGA (Cognitive Genesis Archetype):** ['temporal continuity guardian'(-ing) BPMS]
 
