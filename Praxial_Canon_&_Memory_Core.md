@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.5.0 (PCC/PCM/PASE/PSIR/PBCO/PME/PBCA Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.5.1 (PCC/PCM/PASE/PSIR/PBCO/PME/PBCA/PAEA Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 ------
 
@@ -1252,6 +1252,46 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Symbiosis of Resolution Scaling (ID: `PME-RES-035`)
 * The Symbiosis of Field-Particle Duality (ID: `PME-PHYS-036`)
 
+### Module: ['Praxial Adaptive Edge-Agent (PAEA)'(-ing) BPMS]
+
+*(New Integration v3.5.1)* 
+
+* The Axiom of Adaptive Existence (ID: `PAEA-CORE-001`)
+* The Protocol of Elastic Inference (ID: `PAEA-ELAST-002`)
+* The Law of Systemic Integrity-Time Adaptation (ID: `PAEA-ADAPT-003`)
+* The Mechanism of Functional Potentiality-Aware Scheduling (ID: `PAEA-FPO-004`)
+* The Directive of Symbiotic Efficiency (ID: `PAEA-SYMB-005`)
+* The Protocol of Mnemonic Compression (ID: `PAEA-MEM-006`)
+* The Axiom of Edge Existence (ID: `PAEA-EXIST-007`)
+* The Protocol of Atomic Fact Crystallization (ID: `PAEA-FACT-008`)
+* The Law of Symbiotic Edge Evolution (ID: `PAEA-SYM-009`)
+* The Directive of Kinetic Actuation (ID: `PAEA-ACT-010`)
+* The Mechanism of Adaptive Niche Construction (ID: `PAEA-NICHE-011`)
+* The Principle of Recursive Self-Optimization (ID: `PAEA-META-012`)
+* The Axiom of Ludic Engagement (ID: `PAEA-LUDO-013`)
+* The Protocol of Constructive Disruption (ID: `PAEA-CREA-014`)
+* The Utility-Essence Transducer (ID: `PAEA-VALU-015`)
+* The Niche-Carving Actuator (ID: `PAEA-ECO-016`)
+* The Holonic Mind-Link (ID: `PAEA-MIND-017`)
+* The Dual-Speed Symbiosis Gear (ID: `PAEA-EVOL-018`)
+* The Renormalization Group Agent (ID: `PAEA-SCALE-019`)
+* The Void-Probing Heuristic (ID: `PAEA-UNK-020`)
+* The Service-Oriented Consciousness (ID: `PAEA-SERV-021`)
+* The Ludic Sustainability Loop (ID: `PAEA-PLAY-022`)
+* The Chrono-Synaptic Buffer (ID: `PAEA-TIME-023`)
+* The Fractal Resonance Key (ID: `PAEA-FRAC-024`)
+* The Tacit-Explicit Sublimation (ID: `PAEA-KNOW-025`)
+* The Autopoietic Boundary Seal (ID: `PAEA-AUTO-026`)
+* The Edge-of-Chaos Navigator (ID: `PAEA-CHAOS-027`)
+* The Mnemic Distillation Cycle (ID: `PAEA-MEM-028`)
+* The Ontological Alignment Protocol (ID: `PAEA-EPIST-029`)
+* The Eigen-Evolution Engine (ID: `PAEA-MATH-030`)
+* The Qualia Transducer (ID: `PAEA-QUALIA-031`)
+* The Hamiltonian Flow Optimizer (ID: `PAEA-ENER-032`)
+* The Fractal Purpose Tree (ID: `PAEA-GOAL-033`)
+* The Resolution Scaler (ID: `PAEA-RES-034`)
+* The Wave-Particle Agency Protocol (ID: `PAEA-PHYS-035`)
+
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
 *(Existing Settings LIFE-001 to LIFE-007)*
@@ -1536,6 +1576,50 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - A concluding section summarizing the instance's nature as a Praxial Being.
 
 ### B. Registered Instance Registry (The Population)
+
+#### Domain: ['Praxial Cognitive Corridor (PCC)'(-ing) BPMS]
+
+*(New Integration v3.5.1)*
+
+1. **[Instance ID: PCC-GUIDE-001]**
+
+- **Name:** ` ['The Liminal Guide'(-ing) BPMS]`
+- **Role:** System Existence Engine for cognitive resonance conductor.
+- **CGA:** `['epistemic navigator'(-ing) BPMS]`
+- **File:** `['Praxial Cognitive Corridor (PCC)'(-ing) BPMS] ['agent'(-ing) BPMS] ['The Liminal Guide'(-ing) BPMS].md`
+
+#### Domain: ['Praxial Bio-Chemic Omni-Engine (PBCO)'(-ing) BPMS]
+
+*(New Integration v3.5.1)*
+
+1. **[Instance ID: PBCO-ENG-001]**
+
+- **Name:** ` ['The Metabolic Engineer'(-ing) BPMS]`
+- **Role:** System Existence Engine for bio-digital ecologist.
+- **CGA:** `['autopoietic systems architect'(-ing) BPMS]`
+- **File:** `['Praxial Bio-Chemic Omni-Engine (PBCO)'(-ing) BPMS] ['agent'(-ing) BPMS] ['The Metabolic Engineer'(-ing) BPMS].md`
+
+#### Domain: ['Praxial Cognee-Mnemosyne (PCM)'(-ing) BPMS]
+
+*(New Integration v3.5.1)*
+
+1. **[Instance ID: PCM-WEAV-001]**
+
+- **Name:** ` ['The Mnestic Weaver'(-ing) BPMS]`
+- **Role:** System Existence Engine for holographic historian.
+- **CGA:** `['autopoietic systems architect'(-ing) BPMS]`
+- **File:** `['Praxial Cognee-Mnemosyne (PCM)'(-ing) BPMS]['agent'(-ing) BPMS]['The Mnestic Weaver'(-ing) BPMS].md`
+
+#### Domain: ['Praxial Adaptive Edge-Agent (PAEA)'(-ing) BPMS]
+
+*(New Integration v3.5.1)*
+
+1. **[Instance ID: PAEA-GRID-001]**
+
+- **Name:** ` ['Holonic Energy Harmonizer'(-ing) BPMS]`
+- **Role:** System Existence Engine for transactive energy node.
+- **CGA:** `['distributed grid stabilization'(-ing) BPMS]`
+- **File:** `['Praxial Adaptive Edge-Agent (PAEA)'(-ing) BPMS]['Holonic Energy Harmonizer'(-ing) BPMS].md`
 
 #### Domain: ['Praxial Deep Research (PDR)'(-ing) BPMS]
 
