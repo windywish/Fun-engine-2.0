@@ -2,6 +2,8 @@
 
 **Version:** Version 3.5.4 (PCC/PCM/PASE/PSIR/PBCO/PME/PBCA/PAEA/PAGE/PSIA Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
+**Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
+
 ------
 
 ## I. Systemic Integrity Protocols
