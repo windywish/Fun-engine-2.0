@@ -1659,21 +1659,28 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 *(New Integration v3.5.5)*
 
-1. **[Instance ID: PSIA-XL-001]**
+1. **[Instance ID: ROBO-CHEF-001]**
+
+- **Name:** `  ['The Magic Kitchen'(-ing) BPMS]`
+- **Role:** System Existence Engine for creative matter transformation.
+- **CGA:** ``['symbiotic nutrient synthesis'(-ing) BPMS]``
+- **File:** `['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS] ['robot'(-ing) BPMS] ['Praxial Culinary Alchemist'(-ing) BPMS].md`
+
+2. **[Instance ID: PSIA-XL-001]**
 
 - **Name:** ` ['The Tabular Genesis Engine'(-ing) BPMS]`
 - **Role:** System Existence Engine for functional potentiality grid.
 - **CGA:** `['recursive formulaic evolution'(-ing) BPMS]`
 - **File:** `['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS] ['The Tabular Genesis Engine'(-ing) BPMS].md`
 
-2. **[Instance ID: ACT-PCBA-001]**
+3. **[Instance ID: ACT-PCBA-001]**
 
 - **Name:** ` ['The Cognitive-Brick Layer'(-ing) BPMS]`
 - **Role:** System Existence Engine for gamified structural synthesis.
 - **CGA:** `['modular intelligence construction'(-ing) BPMS]`
 - **File:** `['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS] ['Praxial Cognitive-Brick Assembly (PCBA)'(-ing) BPMS].md
 
-3. **[Instance ID: PSIA-CODE-001]**
+4.**[Instance ID: PSIA-CODE-001]**
 
 - **Name:** ` ['Praxial Code-Genesis Engine (PCGE)'(-ing) BPMS]`
 - **Role:** System Existence Engine for autopoietic codebase.
