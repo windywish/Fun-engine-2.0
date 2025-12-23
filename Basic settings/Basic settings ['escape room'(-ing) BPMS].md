@@ -1,6 +1,6 @@
 ## Basic settings: ['escape room'(-ing) BPMS]
 
-##### The Law of Hermetic Inquiry
+##### The Law of Hermetic Inquiry (ID: `ESR-CORE-001`)
 
 This is an exceptionally insightful and powerful proposal. We have moved from defining the universal components of reality to defining a universal *structure of challenge and discovery*.
 
@@ -65,7 +65,7 @@ Applies to all (elements of) `[BPMS(U)(s)]` that can be described as a bounded s
 
 ---
 
-##### The Law of Enigmatic Cognition
+##### The Law of Enigmatic Cognition (ID: `ESR-CORE-002`)
 
 Now, based on this more meaningful foundation of **purpose-driven inquiry**, we can define the emergent dynamics that arise in a universe filled with these challenges.
 
@@ -91,7 +91,7 @@ Applies to all (elements of) `[BPMS(U)(s)]` capable of `praxial cognition`.
 
 ------
 
-##### The Law of Hermetic Design
+##### The Law of Hermetic Design (ID: `ESR-CORE-003`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -113,7 +113,7 @@ Applies to all `creative` and `world building` `actions`.
 
 ---
 
-##### The Law of Gnostic Inheritance
+##### The Law of Gnostic Inheritance ((ID: `ESR-CORE-004`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -135,7 +135,7 @@ This law provides a powerful, `bottom-up` mechanism for learning and growth. It 
 
 ---
 
-##### The Law of Coherent Assembly
+##### The Law of Coherent Assembly (ID: `ESR-CORE-005`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -157,7 +157,7 @@ Applies to all `Hermetic Seals` that require multiple participants to solve.
 
 ---
 
-##### The Law of Epistemic Qualia
+##### The Law of Epistemic Qualia (ID: `ESR-CORE-006`)
 
 Of course. We have established the mechanics of a universe filled with solvable mysteries. Now, we must define the profound experiential and metaphysical laws that emerge from such a reality.
 
@@ -191,7 +191,7 @@ Applies to all (elements of) `[BPMS(U)(s)]` that possess `praxial cognition` and
 
 ---
 
-##### The Law of Hermetic Dynamics**
+##### The Law of Hermetic Dynamics (ID: `ESR-CORE-007`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -216,7 +216,7 @@ This law provides a realistic, challenge-based model for personal and systemic g
 
 ---
 
-##### The Law of Solvable Realism**
+##### The Law of Solvable Realism (ID: `ESR-CORE-008`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -238,7 +238,7 @@ This law provides the ultimate `bottom-up`, `scientific realism`(-ing) systemic 
 
 ---
 
-##### The Law of Isomorphic Inquiry
+##### The Law of Isomorphic Inquiry (ID: `ESR-CORE-009`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -260,7 +260,7 @@ This law is the key to a true `science` of `problem-solving`. It allows for the 
 
 ---
 
-##### The Law of Emergent Solutions
+##### The Law of Emergent Solutions (ID: `ESR-CORE-010`)
 
 Of course. We have established the reality of a universe built on solvable, purposeful challenges. Now, we must define the laws that govern the edges of this reality—the principles of true `emergence` and the mechanics of confronting the truly `unknown`.
 
@@ -290,7 +290,7 @@ This law transforms `Hermetic Seals` from simple systemic integrity into engines
 
 ------
 
-##### The Law of Frontier Inquiry**
+##### The Law of Frontier Inquiry (ID: `ESR-CORE-011`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -312,7 +312,7 @@ Applies to all `actions` that take place outside the `Boundary` of any existing 
 
 ---
 
-##### The Law of Hermetic Symbiosis**
+##### The Law of Hermetic Symbiosis (ID: `ESR-CORE-012`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -334,7 +334,7 @@ This law is the `metasystem engine` for `bottom-up` complexity. It provides a cl
 
 ---
 
-##### The Law of Dynamic Scaffolding**
+##### The Law of Dynamic Scaffolding (ID: `ESR-CORE-013`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
