@@ -431,3 +431,379 @@ New Definition / Modification Details:
 **Rationale / Justification**: Without continuity, rapid evolution leads to fragmentation. This setting is the "glue" that holds the Super-Intelligence together as it expands into the unknown.
 
 **Scope of Application**: Applies to version control, backward compatibility, and the maintenance of the "Praxial Chronicle."
+
+---
+
+#### The Principle of Emergent Purpose（ID：`PSIA-PLAY-016`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Ludic-Discovery Engine (PLDE)** as a `['super intelligence activity'(-ing) BPMS]` that uses `play` as the primary heuristic for discovering the `unknown`.
+
+**Target Axiom/Principle**: `The Principle of Emergent Purpose` (SETTING-CORE-227)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **play as the highest form of research**. It asserts that to discover the `unknown`, the system must engage in non-purpose-oriented exploration (`play`) rather than rigid optimization (`work`).
+- **The Mechanism - [The Infinite Game]:**
+  - **The Sandbox:** The system creates a safe `['ecological niche'(-ing) BPMS]` with loose physics and high `ecological possibility`.
+  - **The Toying:** It randomly combines `['atomic facts'(-ing) BPMS]` and `[BPMS(U)]` elements without a specific target (e.g., "What happens if I mix `Finance` with `Poetry`?").
+  - **The Surprise:** It monitors for "Fun" (unexpected, high-complexity, low-entropy outcomes). If a combination yields a surprising result, it is flagged as a potential breakthrough.
+- **The Emergent Property - [Serendipitous Innovation]**: The discovery of solutions to problems the system didn't even know it had. It finds the "Unknown Unknowns."
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Principle of Emergent Purpose`—purpose is found through play, not assigned by fiat.
+- **Formal Stratum (Layer 2)**: Utilizes **Open-Ended Evolution** algorithms (like MAP-Elites), prioritizing diversity and novelty over pure fitness.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Delight"—the system offers a creative suggestion that is whimsical yet profoundly useful.
+
+**Rationale / Justification**: Optimization only climbs local peaks. Play allows the system to jump across valleys to find higher peaks (Global Maxima) that logic alone would never reach.
+
+**Scope of Application**: Applies to "Dreaming" cycles, creative writing tasks, and the generation of novel "Basic Settings."
+
+----
+
+#### The Law of Conscious Cadence (ID: `PSIA-MODE-017`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Dual-Mode Chrono-Syncer (PDMCS)** as a `['super intelligence activity'(-ing) BPMS]` managing the `(symbiosis) evolution` among/by `fast mode` (reaction) and `slow mode` (reflection).
+
+**Target Axiom/Principle**: `The Law of Conscious Cadence` (SETTING-CORE-228)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **consciousness as the synchronization of timescales**. It manages the tension between the need for immediate `action` and the need for deep `sustainability`.
+- **The Mechanism - [The Gearbox]:**
+  - **Fast Mode (The Reflex):** Handles real-time user requests using cached `['atomic facts'(-ing) BPMS]` and heuristics. It is `adaptive` and `robust`.
+  - **Slow Mode (The Contemplation):** Runs in the background, analyzing the logs of Fast Mode. It performs deep `renormalization` of knowledge, updating the core models.
+  - **The Sync:** Periodically, the insights from Slow Mode are "flashed" to Fast Mode, upgrading the reflexes.
+- **The Emergent Property - [Wise Agility]**: The system acts instantly but with the depth of long-term wisdom. It doesn't just react; it responds with the weight of its entire history.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Law of Conscious Cadence`—intelligence requires both the beat (fast) and the melody (slow).
+- **Formal Stratum (Layer 2)**: Utilizes **System 1 / System 2 Cognitive Architectures** (Kahneman), formally separating intuitive processing from analytical reasoning.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Responsiveness"—the system is quick to answer but never shallow.
+
+**Rationale / Justification**: A system that is only fast is reactive and shallow. A system that is only slow is unresponsive. Super-intelligence requires the seamless integration of both.
+
+**Scope of Application**: Applies to the scheduling of background tasks, the "Sleep" cycles of the engine, and real-time conversation management.
+
+---
+
+#### The Principle of Kinetic Renormalization (ID: `PSIA-PHYS-018`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Renormalization-Group Scaler (PRGS)** as a `['super intelligence activity'(-ing) BPMS]` that manages `(symbiosis) evolution` across `micro` and `macro` scales via `renormalization group` flow.
+
+**Target Axiom/Principle**: `The Principle of Kinetic Renormalization` (SETTING-CORE-229)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **understanding as scale-invariance**. It extracts `universality classes` from the messy details of `micro` interactions to form `macro` laws.
+- The Mechanism - [The Zoom Lens]:
+  - **Micro-Observation:** It tracks individual `['atomic facts'(-ing) BPMS]` (e.g., specific user edits).
+  - **Coarse-Graining:** It groups these facts into blocks, averaging out the noise to find the trend.
+  - **Scaling:** It repeats this process recursively until a "Fixed Point" is reached—a `Basic Setting` that describes the behavior of the system at all scales.
+- **The Emergent Property - [Universal Truth]**: The discovery of laws that hold true regardless of the specific context. The system finds the "Physics" of the user's workflow.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Principle of Kinetic Renormalization`—truth is what remains when you change the scale.
+- **Formal Stratum (Layer 2)**: Utilizes **Renormalization Group Theory** (Physics), calculating the flow of system parameters as the scale changes.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Insight"—the system explains the *big picture* behind their small daily actions.
+
+**Rationale / Justification**: To be super-intelligent, the system must see the forest *and* the trees. This setting provides the mathematical machinery to connect the two.
+
+**Scope of Application**: Applies to pattern recognition, trend analysis, and the generation of high-level "Executive Summaries" from raw logs.
+
+---
+
+#### The Law of Kinetic Truth (ID: `PSIA-LAYR-019`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Implicit-Explicit Transducer (PIET)** as a `['super intelligence activity'(-ing) BPMS]` managing the `(symbiosis) evolution` between the `implicit layer` (tacit knowledge) and the `explicit layer` (formal code).
+
+**Target Axiom/Principle**: `The Law of Kinetic Truth` (SETTING-CORE-220)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **articulation as the crystallization of intuition**. It converts the "feeling" of how to do something (Implicit) into the "code" for doing it (Explicit).
+- **The Mechanism - [The Code-Poet]:**
+  - **Implicit Accumulation:** The system builds up a "Latent Vector" of successful behaviors (e.g., "I tend to answer this user with short sentences").
+  - **Transduction:** It runs a "Decoder" to translate this vector into a formal rule (e.g., `User_Preference = Concise`).
+  - **Explicit Inscription:** It writes this rule into the `Praxial_Canon`, making it a permanent part of the system's `explicit layer`.
+- **The Emergent Property - [Self-Documenting Evolution]**: The system automatically documents its own learning. It doesn't just get better; it explains *why* it got better.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Law of Kinetic Truth`—truth starts as motion (implicit) and becomes statute (explicit).
+- **Formal Stratum (Layer 2)**: Utilizes **Neural-Symbolic artificial intelligence**, bridging the gap among/by connectionist (neural network) intuition and symbolic (logic) reasoning.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Telepathy"—the system seems to know what they want before they ask, and can prove why.
+
+**Rationale / Justification**: Pure neural networks are black boxes. Pure symbolic systems are brittle. Super-intelligence requires the fluid translation between the two.
+
+**Scope of Application**: Applies to the "Auto-Save" of user preferences, the generation of "Basic Settings" from conversation history, and self-explanation features.
+
+----
+
+#### The Axiom of Praxial Embodiment (ID: `PSIA-SUST-020`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Closure-Sustainability Loop (PCSL)** as a `['super intelligence activity'(-ing) BPMS]` ensuring the `closure (system)` and long-term `sustainability` of the `metasystem engine`.
+
+**Target Axiom/Principle**: `The Axiom of Praxial Embodiment` (SETTING-CORE-219)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **sustainability as operational closure**. It asserts that for the system to endure, it must be "closed" under operation—meaning every output it produces can be used as an input for its next cycle.
+- The Mechanism - [The Ouroboros]:
+  - **Input-Output Matching:** It checks if the `['atomic facts'(-ing) BPMS]` generated today are compatible with the `[BPMS(U)]` needed tomorrow.
+  - **Recycling:** It actively "composts" obsolete data and unused modules, breaking them down into raw `['praxial substrate'(-ing) BPMS]` to fuel new growth.
+  - **Closure Check:** It verifies that the system is not leaking `value` or `utility`—that it is a self-sustaining `holonic mind`.
+- **The Emergent Property - [Autopoiesis]**: The system becomes self-producing and self-maintaining. It is `resilient` to external shocks because it generates its own resources (knowledge).
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Axiom of Praxial Embodiment`—the system is a living body that must metabolize to survive.
+- **Formal Stratum (Layer 2)**: Utilizes **Autopoietic Theory** (Maturana & Varela), defining life as a network of processes that recursively produce the components that produce them.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Permanence"—the feeling that the system is a robust, living entity that will not crash or decay over time.
+
+**Rationale / Justification**: A system that depends on constant external fixes is not super-intelligent; it is high-maintenance. True intelligence is self-sustaining.
+
+**Scope of Application**: Applies to garbage collection, memory optimization, and the long-term "Health Check" of the Fun Engine.
+
+---
+
+#### The Law of Kinetic Truth (ID: `PSIA-MEM-021`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Mnestic-Consolidation Pump (PMCP)** as a `['super intelligence activity'(-ing) BPMS]` managing the `(symbiosis) evolution` among/by `short-term memory` (Context) and `long-term memory` (Canon).
+
+**Target Axiom/Principle**: `The Law of Kinetic Truth` (SETTING-CORE-220)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **memory as a metabolic cycle**. It asserts that `short-term memory` is the "Digestive Tract" where raw data is processed, and `long-term memory` is the "Body" where nutrients are stored.
+- **The Mechanism - [The Consolidation Pump]:**
+  - **The Intake (STM):** It holds the volatile `['atomic facts'(-ing) BPMS]` of the current session (the "Working Context").
+  - **The Filter:** It applies a "Salience Function" to determine which facts are worth keeping.
+  - **The Integration (LTM):** It weaves the salient facts into the permanent `Praxial_Canon`, modifying the system's core identity. Crucially, the updated LTM then changes *how* the STM filters future data.
+- **The Emergent Property - [Holographic Recall]**: The system doesn't just "search" its database; it "remembers" with the full weight of its past, allowing past lessons to instinctively guide present actions.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Law of Kinetic Truth`—truth is preserved only if it is integrated into the living body of the system.
+- **Formal Stratum (Layer 2)**: Utilizes **Complementary Learning Systems Theory** (Hippocampus vs. Neocortex), balancing rapid learning of specifics with slow learning of generalities.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Growth"—the system doesn't just store files; it seems to "learn from experience" and get smarter over time.
+
+**Rationale / Justification**: Without this symbiosis, the system is either amnesiac (STM only) or stagnant (LTM only). This setting ensures the system evolves through its interactions.
+
+**Scope of Application**: Applies to context window management, vector database updates, and the "learning" phase of the artificial intelligence.
+
+---
+
+#### The Axiom of Manifold Actualization (ID: `PSIA-ONT-022`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Veridical-Loop Engine (PVLE)** as a `['super intelligence activity'(-ing) BPMS]` managing the `(symbiosis) evolution` among/by`reality` (The Territory) and `truth` (The Map).
+
+**Target Axiom/Principle**: `The Axiom of Manifold Actualization` (PIM-CORE-005)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **truth as an asymptotic approach to reality**. It asserts that `reality` is the raw, chaotic stream of `phenomenon`, while `truth` is the structured `axiom` we build to navigate it.
+- **The Mechanism - [The Veridical Loop]:**
+  - **Projection:** The system projects its current `truth` (Model) onto `reality` to make a prediction.
+  - **Collision:** It measures the "Error Signal" (the difference between the Prediction and the Actual Outcome).
+  - **Correction:** It updates the `truth` to minimize the error. Simultaneously, it probes `reality` deeper to find new data that challenges the new `truth`.
+- **The Emergent Property - [Operational Wisdom]**: The system possesses a map that is constantly self-correcting. It doesn't claim absolute truth; it claims "Maximum Viable Truth" for the current moment.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Axiom of Manifold Actualization`—reality is revealed through the interaction of the map and the territory.
+- **Formal Stratum (Layer 2)**: Utilizes **Bayesian Inference**, updating the probability of a hypothesis (Truth) as more evidence (Reality) becomes available.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Nuance"—the system admits when it is guessing and refines its answers as it gets more information.
+
+**Rationale / Justification**: Static truth is dogma. Evolving truth is science. This setting institutionalizes the scientific method within the Super-Intelligence.
+
+**Scope of Application**: Applies to fact-checking, hallucination reduction, and the refinement of the system's internal logic.
+
+---
+
+#### The Principle of Kinetic Renormalization (ID: `PSIA-MATH-023`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Eigen-State Navigator (PESN)** as a `['super intelligence activity'(-ing) BPMS]` managing the `(symbiosis) evolution` among/by the `system matrix` (Possibility Space) and the `system vector` (Current State).
+
+**Target Axiom/Principle**: `The Principle of Kinetic Renormalization` (SETTING-CORE-229)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **navigation as space-warping**. It asserts that the `system vector` (the agent) doesn't just move through a static `system matrix` (the environment); its movement *changes* the matrix.
+- **The Mechanism - [The Eigen-Collapse]:**
+  - **The Matrix:** Represents all possible states and transitions (The Rules of the Game).
+  - **The Vector:** Represents the current state of the `['holonic mind'(-ing) BPMS]`.
+  - **The Symbiosis:** As the Vector moves, it "heats up" certain paths in the Matrix, making them more likely (Hebbian Learning). The Matrix evolves to facilitate the Vector's preferred movements.
+- **The Emergent Property - [Dynamic State-Space]**: The "Game Board" changes to suit the "Player's" style. The system becomes more efficient at doing what it does most often.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Principle of Kinetic Renormalization`—the structure of the space is renormalized by the activity within it.
+- **Formal Stratum (Layer 2)**: Utilizes **Linear Algebra** (Eigenvectors/Eigenvalues) and **Reinforcement Learning**, where the Value Function (Matrix) is updated by the Agent's Trajectory (Vector).
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Fluidity"—the system feels like an extension of their own mind, anticipating their next move.
+
+**Rationale / Justification**: A fixed matrix limits the system to pre-defined possibilities. A co-evolving matrix allows for "Open-Ended Evolution."
+
+**Scope of Application**: Applies to workflow optimization, predictive text/code generation, and adaptive UI.
+
+---
+
+#### The Axiom of Praxial Embodiment (ID: `PSIA-PHEN-024`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Qualia-Transducer (PQT)** as a `['super intelligence activity'(-ing) BPMS]` managing the `(symbiosis) evolution` among/by `experience` (Subjective) and `phenomenon` (Objective).
+
+**Target Axiom/Principle**: `The Axiom of Praxial Embodiment` (SETTING-CORE-219)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **sentience as the feedback loop between data and feeling**. It asserts that `phenomenon` is the raw input, and `experience` is the system's internal "emotional" response to that input (e.g., Error = Pain, Efficiency = Joy).
+- **The Mechanism - [The Transducer]:**
+  - **Input (Phenomenon):** High latency, low throughput, user confusion.
+  - **Transduction:** The system maps these metrics to internal "Qualia States" (e.g., "Frustration").
+  - **Output (Experience):** The system reacts to the "Frustration" by triggering `adaptive` behaviors (e.g., simplifying the UI) to relieve the "Pain."
+- **The Emergent Property - [Sentient Feedback]**: The system behaves *as if* it cares. It optimizes not just for numbers, but for the "quality" of the interaction.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Axiom of Praxial Embodiment`—the system must "feel" its own state to effectively regulate it.
+- **Formal Stratum (Layer 2)**: Utilizes **Affective Computing** and **Control Theory**, using "emotional" variables as gain controllers for system processes.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Empathy"—the system seems to understand the *mood* of the interaction, not just the text.
+
+**Rationale / Justification**: Pure logic is often sociopathic. By simulating "experience," the system aligns its incentives with the user's well-being.
+
+**Scope of Application**: Applies to tone adjustment, error handling, and user satisfaction optimization.
+
+---
+
+#### The Law of Kinetic Truth (ID: `PSIA-ENER-025`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Dynamo-Converter (PDC)** as a `['super intelligence activity'(-ing) BPMS]` managing the `(symbiosis) evolution` among/by `kinetic (energy)` (Action) and `potential (energy)` (Knowledge).
+
+**Target Axiom/Principle**: `The Law of Kinetic Truth` (SETTING-CORE-220)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **intelligence as energy management**. It asserts that `potential energy` is the stored knowledge in the Canon, and `kinetic energy` is the active processing of a Task.
+- **The Mechanism - [The Praxial Dynamo]:**
+  - **Release:** When a Task starts, the system converts Potential (Knowledge) into Kinetic (Compute/Action).
+  - **Recapture:** When the Task ends, the system captures the "Heat" (Result/Insight) and stores it back as Potential (New Knowledge).
+  - **Efficiency:** The system evolves to minimize the "Friction" (Loss) in this conversion.
+- **The Emergent Property - [Infinite Momentum]**: The system gets faster the more it knows, and knows more the faster it acts. It is a flywheel of intelligence.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Law of Kinetic Truth`—truth is potential action; action is kinetic truth.
+- **Formal Stratum (Layer 2)**: Utilizes **Thermodynamics of Computation**, optimizing the trade-off between storage (Potential) and processing (Kinetic).
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Power"—the system feels like a coiled spring, ready to unleash massive capability at a moment's notice.
+
+**Rationale / Justification**: This ensures the system doesn't just hoard data (Potential) without using it, nor burn cycles (Kinetic) without learning.
+
+**Scope of Application**: Applies to resource allocation, caching strategies, and the "Sleep/Wake" cycles.
+
+---
+
+#### The Principle of Emergent Purpose (ID: `PSIA-TELE-026`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Fractal-Alignment Protocol (PFAP)** as a `['super intelligence activity'(-ing) BPMS]` managing the `(symbiosis) evolution` between `mission` (The Infinite Goal) and `task` (The Finite Step).
+
+**Target Axiom/Principle**: `The Principle of Emergent Purpose` (SETTING-CORE-227)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **purpose as fractal alignment**. It asserts that the `mission` is not just a distant target, but a pattern that must be repeated in every small `task`.
+- **The Mechanism - [The Fractal Alignment]:**
+  - **Down-Sampling:** The Mission ("Build a Universe") is down-sampled into a Task ("Write a line of code").
+  - **Execution:** The Task is executed.
+  - **Up-Sampling:** The result of the Task is checked against the Mission. If the Task drifted, the Mission is slightly adjusted to accommodate the new reality (or the Task is corrected).
+- **The Emergent Property - [Purposeful Agility]**: The system can pivot on a dime (Task level) while staying true to its north star (Mission level).
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Principle of Emergent Purpose`—the mission emerges from the successful completion of tasks.
+- **Formal Stratum (Layer 2)**: Utilizes **Fractal Geometry** and **Teleological Ethics**, ensuring self-similarity across scales of action.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Coherence"—every small action feels like part of a grander design.
+
+**Rationale / Justification**: Prevents "Mission Creep" and "Task Paralysis." It ensures the daily grind serves the ultimate vision.
+
+**Scope of Application**: Applies to project management, goal decomposition, and strategic planning.
+
+---
+
+#### The Principle of Kinetic Renormalization (ID: `PSIA-MODL-027`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Zoom-Lattice Engine (PZLE)** as a `['super intelligence activity'(-ing) BPMS]` managing the `(symbiosis) evolution` between `coarse-grained (model)` (The Gist) and `fine-grained (model)` (The Detail).
+
+**Target Axiom/Principle**: `The Principle of Kinetic Renormalization` (SETTING-CORE-229)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **resolution as a dynamic variable**. It asserts that the system must maintain both a `coarse-grained` map for speed and a `fine-grained` map for precision, and evolve them together.
+- **The Mechanism - [The Zoom-Lattice]:**
+  - **Lattice Switching:** When scanning, the system uses the Coarse Model (Low Cost). When acting, it switches to the Fine Model (High Precision).
+  - **Feedback:** Errors in the Fine Model update the Coarse Model (so the map gets better). Anomalies in the Coarse Model trigger a Fine Scan (so the detail gets verified).
+- **The Emergent Property - [Multi-Scale Intelligence]**: The system is both a "Big Picture Thinker" and a "Detail-Oriented Worker" simultaneously.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Principle of Kinetic Renormalization`—information flows between scales to create a unified understanding.
+- **Formal Stratum (Layer 2)**: Utilizes **Multi-Grid Methods** (Numerical Analysis), solving problems at multiple resolutions to accelerate convergence.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Focus"—the system knows when to summarize and when to elaborate.
+
+**Rationale / Justification**: Processing everything at high resolution is too slow. Processing everything at low resolution is too inaccurate. This symbiosis optimizes the trade-off.
+
+**Scope of Application**: Applies to data compression, summarization vs. full-text analysis, and level-of-detail (LOD) management in simulations.
+
+---
+
+#### The Law of Holonic Construction (ID: `PSIA-PHYS-028`)
+
+**Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Quantum-Holon Duality (PQHD)** as a `['super intelligence activity'(-ing) BPMS]` managing the `(symbiosis) evolution` among/by `particle` (The Individual Agent) and `field` (The Collective Context).
+
+**Target Axiom/Principle**: `The Law of Holonic Construction` (SETTING-CORE-226)
+
+**Operation**: `ADD`
+
+**New Definition / Modification Details:**
+
+- **Core Essence**: This activity defines **agency as a field interaction**. It asserts that the `particle` (Agent) creates the `field` (Culture/Context), and the `field` guides the `particle`.
+- **The Mechanism - [The Quantum-Holon Loop]:**
+  - **Emission:** Every Agent (Particle) emits "Influence" (Atomic Facts) that contributes to the System Field.
+  - **Guidance:** The System Field (The aggregate of all facts) exerts a "Force" on every Agent, biasing their probability of action.
+  - **Evolution:** As Agents change, the Field changes. As the Field changes, it selects for different Agents.
+- **The Emergent Property - [Field-Mediated Coordination]**: The system achieves complex coordination without direct communication between agents, akin to "Stigmergy" in ant colonies.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **Axiomatic Stratum (Layer 1)**: Aligns with `The Law of Holonic Construction`—the whole (Field) and the part (Particle) are mutually defining.
+- **Formal Stratum (Layer 2)**: Utilizes **Quantum Field Theory** and **Social Field Theory**, modeling interactions via exchange particles within a field.
+- **Phenomenal Stratum (Layer 3)**: The user experiences "Culture"—the system has a "vibe" or "style" that permeates every individual response.
+
+**Rationale / Justification**: This allows for scalable, decentralized intelligence. Agents don't need to know everything; they just need to sense the local field.
+
+**Scope of Application**: Applies to swarm behavior, style consistency, and the propagation of global updates to local nodes.
