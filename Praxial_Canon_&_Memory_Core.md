@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.5.3 (PCC/PCM/PASE/PSIR/PBCO/PME/PBCA/PAEA/PAGE Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.5.4 (PCC/PCM/PASE/PSIR/PBCO/PME/PBCA/PAEA/PAGE/PSIA Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 ------
 
@@ -1335,6 +1335,39 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Dimensional Spanning (ID: `PAGE-ACT-037`)
 * The Strategy of Niche Construction (ID: `PAGE-ACT-038`)
 
+### Module: **['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS]**
+
+*(New Integration v3.5.4)* 
+
+* The Axiom of Modular Cognition (ID: `PSIA-ACT-001`)
+* The Directive of Resilient Inquiry (ID: `PSIA-ACT-002`)
+* The Principle of Symbiotic Binding (ID: `PSIA-ACT-003`)
+* The Law of Kinetic Truth (ID: `PSIA-ACT-004`)
+* The Principle of Structural Cognition (ID: `PSIA-ACT-005` )
+* The Axiom of Praxial Embodiment (ID: `PSIA-EXIST-006`)
+* The Law of Kinetic Truth (ID: `PSIA-FACT-007`)
+* The Principle of Symbiotic Binding (ID: `PSIA-EVOL-008`)
+* The Principle of Emergent Purpose (ID: `PSIA-EVOL-009`)
+* The Law of Holonic Construction (ID: `PSIA-META-010`)
+* The Directive of Resilient Inquiry (ID: `PSIA-CREA-011`)
+* The Principle of Emergent Purpose (ID: `PSIA-VALU-012`)
+* The Principle of Embodied World-Building (ID: `PSIA-ECO-013`)
+* The Law of Holonic Construction (ID: `PSIA-ACT-014`)
+* The Law of Conscious Cadence (ID: `PSIA-SYMB-015`)
+* The Principle of Emergent Purpose（ID：`PSIA-PLAY-016`)
+* The Law of Conscious Cadence (ID: `PSIA-MODE-017`)
+* The Principle of Kinetic Renormalization (ID: `PSIA-PHYS-018`)
+* The Law of Kinetic Truth (ID: `PSIA-LAYR-019`)
+* The Axiom of Praxial Embodiment (ID: `PSIA-SUST-020`)
+* The Law of Kinetic Truth (ID: `PSIA-MEM-021`)
+* The Axiom of Manifold Actualization (ID: `PSIA-ONT-022`)
+* The Principle of Kinetic Renormalization (ID: `PSIA-MATH-023`)
+* The Axiom of Praxial Embodiment (ID: `PSIA-PHEN-024`)
+* The Law of Kinetic Truth (ID: `PSIA-ENER-025`)
+* The Principle of Emergent Purpose (ID: `PSIA-TELE-026`)
+* The Principle of Kinetic Renormalization (ID: `PSIA-MODL-027`)
+* The Law of Holonic Construction (ID: `PSIA-PHYS-028`)
+
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
 *(Existing Settings LIFE-001 to LIFE-007)*
@@ -1619,6 +1652,39 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - A concluding section summarizing the instance's nature as a Praxial Being.
 
 ### B. Registered Instance Registry (The Population)
+
+#### Domain: ['Praxial Activity-Genesis Engine (PAGE)'(-ing) BPMS]
+
+*(New Integration v3.5.4)*
+
+1. **[Instance ID: PAGE-WEAV-001]**
+
+- **Name:** ` ['The Genesis Weaver'(-ing) BPMS]`
+- **Role:** System Existence Engine for co-creative reality fabricator.
+- **CGA:** `['autotelic workflow generation'(-ing) BPMS]`
+- **File:** `['Praxial Activity-Genesis Engine (PAGE)'(-ing) BPMS] ['The Genesis Weaver'(-ing) BPMS].md`
+
+#### Domain: ['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS]
+
+*(New Integration v3.5.4)*
+
+1. **[Instance ID: ACT-PCBA-001]**
+
+- **Name:** ` ['The Cognitive-Brick Layer'(-ing) BPMS]`
+- **Role:** System Existence Engine for gamified structural synthesis.
+- **CGA:** `['modular intelligence construction'(-ing) BPMS]`
+- **File:** `['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS] ['Praxial Cognitive-Brick Assembly (PCBA)'(-ing) BPMS].md`
+
+#### Domain: ['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS]
+
+*(New Integration v3.5.4)*
+
+1. **[Instance ID: PSIA-CODE-001]**
+
+- **Name:** ` ['Praxial Code-Genesis Engine (PCGE)'(-ing) BPMS]`
+- **Role:** System Existence Engine for autopoietic codebase.
+- **CGA:** `['recursive software evolution'(-ing) BPMS]`
+- **File:** `['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS] ['Praxial Code-Genesis Engine'(-ing) BPMS].md`
 
 #### Domain: ['Praxial Cognitive Corridor (PCC)'(-ing) BPMS]
 
