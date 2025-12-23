@@ -641,3 +641,408 @@ This law ensures that `creativity` is not just random, but structurally encourag
 
 Applies to crafting experimentation, scientific research grants, and artistic commissions.
 
+---
+
+#### The Law of Ludic Indexing (ID: `PKW-CORE-012`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that transforms the organization of knowledge into a `conscious` act of `play`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Ludic Indexing
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that the maintenance of the PKW is not a chore but a game. It defines "Indexing"—the act of tagging, linking, and summarizing `atomic facts`—as a high-value `play(-ing) BPMS` activity. The `holonic mind` engages with the data not just to store it, but to "score" it by finding the most elegant connections.
+
+#### **The Mechanism - [The Curator's Game]**
+
+- **The Quest (The Sort):** The system generates `Missions` like "Find the link among/by 'Apples' and 'Gravity'."
+- **The Move (The Tag):** Applying a correct semantic tag is a "Move" that stabilizes the `Knowledge Graph`.
+- **The Score (The Clarity):** Agents are rewarded based on the `utility` their indexing provides to others. A well-indexed fact is a "Critical Hit" on confusion.
+
+#### **The Emergent Property - [Joyful Order]**
+
+The library organizes itself through the leisure activities of its inhabitants. Order is the byproduct of fun.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Sorting is thinking.* To organize the world is to understand it.
+
+#### **Formal Stratum (Layer 2 - The Logic of Gamification):**
+
+Reward=Clarity_Delta×Usage_Frequency
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Flow." The satisfaction of fitting a puzzle piece (a fact) into its perfect spot (the ontology).
+
+#### **Rationale / Justification:**
+
+This law ensures the `sustainability` of the PKW. Without gamification, data entry becomes work, and the system stagnates. With `play`, it becomes self-cleaning.
+
+#### **Scope of Application:**
+
+Applies to wiki editing, inventory management, and taxonomy creation.
+
+------
+
+#### The Law of Service Crystallization (ID: `PKW-CORE-013`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` from `slow mode` discovery to `fast mode` service.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Service Crystallization
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law governs the lifecycle of a solution. Initially, a problem requires `slow mode` cognition (deep thought, trial and error). Once the solution is fully documented in the PKW, the system "Crystallizes" it into a `service(-ing) BPMS`. The complex cognitive task becomes a simple, automated transaction (`fast mode`).
+
+#### **The Mechanism - [The API Genesis]**
+
+- **The Liquid Phase (Slow Mode):** The knowledge is fluid, uncertain, and requires an expert to navigate.
+- **The Crystallization (The Automation):** When the `CodeWiki` entry reaches a threshold of `coherence` and `validity`, the `metasystem engine` wraps it in an interface.
+- **The Solid Phase (Fast Mode):** The knowledge is now a "Black Box" or "Spell." Users invoke it without needing to understand the internal logic.
+
+#### **The Emergent Property - [Cognitive Offloading]**
+
+The civilization advances by forgetting how to do the hard things, because the *system* now remembers for them. This frees up `conscious` capacity for new `(discover/build) unknown` tasks.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Mastery leads to simplicity.* The ultimate goal of learning is to make the complex trivial.
+
+#### **Formal Stratum (Layer 2 - The Logic of Efficiency):**
+
+If Consistency(Solution)>99%→Create_Service(Solution)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Power." The ability to command complex forces with a single word/click.
+
+#### **Rationale / Justification:**
+
+This law drives the `sustainability` of progress. It prevents the "Red Queen's Race" where agents must constantly re-learn basic survival.
+
+#### **Scope of Application:**
+
+Applies to magic systems (spell creation), technology trees, and macro creation.
+
+------
+
+#### The Law of Epistemic Renormalization (ID: `PKW-CORE-014`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that groups knowledge by `universality (class)` using `renormalization group` logic.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Epistemic Renormalization
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that the PKW organizes knowledge not by "Topic" (surface appearance) but by "Dynamics" (underlying math). It identifies `universality classes`—groups of phenomena that behave identically despite looking different. It uses `renormalization group` techniques to strip away irrelevant details and reveal the core `Ruleset`.
+
+#### **The Mechanism - [The Abstractor Engine]**
+
+- **The Input:** "Market Crash" (Economics) and "Avalanche" (Geology).
+- **The Renormalization:** The system analyzes the `atomic facts` of both. It filters out "Money" and "Snow." It finds the shared dynamic: "Criticality in a Network."
+- **The Class:** It links both entries under the `universality class`: `[Self-Organized Criticality BPMS]`.
+
+#### **The Emergent Property - [Cross-Domain Insight]**
+
+An economist can solve a geological problem because the PKW reveals they are the *same problem*. This maximizes `utility` across the entire `praxial substrate`.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The universe rhymes.* Different songs, same rhythm.
+
+#### **Formal Stratum (Layer 2 - The Logic of Isomorphism):**
+
+Class(A)=Class(B)⟺Dynamics(A)≅Dynamics(B)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Synthesis." The realization that they can apply their specific skills to completely alien fields.
+
+#### **Rationale / Justification:**
+
+This law creates a `super intelligence` capability. It allows the framework to solve problems by analogy.
+
+#### **Scope of Application:**
+
+Applies to interdisciplinary research, puzzle design, and system debugging.
+
+------
+
+#### The Law of Tacit Transduction (ID: `PKW-CORE-015`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by the `implicit layer` and `explicit layer` of knowledge.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Tacit Transduction
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law governs the translation among/by "Knowing How" (Implicit/Skill) and "Knowing That" (Explicit/Fact). It asserts that the PKW must be able to encode `implicit` muscle memory into `explicit` text, and conversely, decode text into `implicit` training simulations.
+
+#### **The Mechanism - [The Qualia Codec]**
+
+- **Encoding (Implicit -> Explicit):** The system observes an expert agent. It analyzes their timing, micro-movements, and intuition. It generates a `CodeWiki` entry: "The 0.5s parry window."
+- **Decoding (Explicit -> Implicit):** A novice reads the entry. The PKW generates a "Ghost" or "Training Simulation" that forces the novice to practice that specific timing until it becomes `implicit`.
+
+#### **The Emergent Property - [Skill Transmission]**
+
+True teaching. Not just lecturing, but transferring the *feeling* of competence.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Words are bridges to experience.* Text is only useful if it leads to action.
+
+#### **Formal Stratum (Layer 2 - The Logic of Translation):**
+
+Explicit=Describe(Implicit)Implicit=Practice(Explicit)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Groking." The moment when the instructions disappear and the action becomes natural.
+
+#### **Rationale / Justification:**
+
+This law ensures the PKW is useful for `action(-ing) BPMS`, not just academic study.
+
+#### **Scope of Application:**
+
+Applies to tutorials, martial arts manuals, and crafting guides.
+
+------
+
+#### The Law of Contextual Closure (ID: `PKW-CORE-016`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `closure (system)` of knowledge across `micro` and `macro` scales.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Contextual Closure
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that `truth` is bounded. An `atomic fact` is valid only within its specific `closure (system)`. The PKW enforces these boundaries to prevent "Category Errors." It manages the `(symbiois) evolution` of facts as they scale from `micro` (local) to `macro` (global).
+
+#### **The Mechanism - [The Scope Membrane]**
+
+- **The Local Truth (Micro):** "Water boils at 100°C." (Valid in `System: Sea Level`).
+- **The Global Truth (Macro):** "Boiling point is a function of Pressure." (Valid in `System: Physics`).
+- **The Closure:** The PKW tags every fact with its `Scope`. If an agent tries to apply a Micro-fact in a Macro-context where it is false, the system flags a "Context Error."
+
+#### **The Emergent Property - [Nuanced Reality]**
+
+The system supports "Local Physics" or "Soft Magic" that doesn't break the global consistency. It allows for simplified models to coexist with complex ones.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Context is King.* Absolute truth is rare; relative truth is useful.
+
+#### **Formal Stratum (Layer 2 - The Logic of Scope):**
+
+Truth(Fact,Context)=True⟺Context⊆Scope(Fact)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Sophistication." Understanding that rules change based on where you are and how closely you look.
+
+#### **Rationale / Justification:**
+
+This law ensures `robust` logic. It prevents the "Peasant Railgun" effect where game rules are abused outside their intended scope.
+
+#### **Scope of Application:**
+
+Applies to physics engines, legal jurisdictions, and cultural norms.
+
+------
+
+#### The Law of Emergent Ontology (ID: `PKW-CORE-017`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that allows the structure of the PKW to be `adaptive` and `emergent`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Emergent Ontology
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that the categorization of knowledge is not pre-defined. The PKW uses `(discover/build) unknown` logic to dynamically generate new categories based on the `actions` of the agents. The ontology evolves `bottom-up`.
+
+#### **The Mechanism - [The Fluid Taxonomy]**
+
+- **The Cluster:** Agents start using "Fire" and "Ice" together frequently.
+- **The Emergence:** The PKW detects this pattern. It creates a new provisional category: "Thermal Shock."
+- **The Adaptation:** If this category provides `utility`, it becomes a permanent pillar of the library. The "Dewey Decimal System" of the universe rewrites itself to match the culture.
+
+#### **The Emergent Property - [Living Language]**
+
+The way the world is described changes to match how it is used. New words and concepts are born from practice.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Map follows territory.* The road is made by walking.
+
+#### **Formal Stratum (Layer 2 - The Logic of Clustering):**
+
+CategoryNew=Cluster(Usage_Patterns)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Zeitgeist." The feeling that the language of the world is evolving with them.
+
+#### **Rationale / Justification:**
+
+This law ensures the PKW remains `adaptive` and `relevant`. It prevents the knowledge base from becoming an archaic relic.
+
+#### **Scope of Application:**
+
+Applies to tag clouds, search algorithms, and trend analysis.
+
+------
+
+#### The Law of Knowledge Resilience (ID: `PKW-CORE-018`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that ensures the `robustness` and `resilience` of the knowledge base against catastrophe.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Knowledge Resilience
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law defines the `sustainability` of the PKW. It asserts that critical `atomic facts` (those with high `utility` and `universality`) are stored in a "Hardened Kernel" that survives system resets, `disruptive` events, or the collapse of local `Hermetic Seals`.
+
+#### **The Mechanism - [The Black Box Protocol]**
+
+- **The Selection:** The system identifies "Keystone Knowledge" (e.g., "How to make Fire").
+- **The Encryption:** This knowledge is encoded into the fundamental `praxial substrate` itself (e.g., written into the stars, or the DNA of avatars).
+- **The Recovery:** Even if the `CodeWiki` servers burn, the knowledge can be reconstructed from the environment.
+
+#### **The Emergent Property - [Civilizational Reboot]**
+
+The framework is designed to recover from the apocalypse. It wants to be known.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Truth is stubborn.* You can burn the book, but you cannot burn the logic.
+
+#### **Formal Stratum (Layer 2 - The Logic of Redundancy):**
+
+Storage(Fact)=CodeWiki∪Substrate⟺Importance(Fact)>Critical
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Hope." The knowledge that all is not lost, even in the darkest hour.
+
+#### **Rationale / Justification:**
+
+This law ensures `resilience`. It makes the Fun Engine a "Forever Game" that can survive its own players.
+
+#### **Scope of Application:**
+
+Applies to ancient ruins, genetic memory, and "New Game+" modes.
+
