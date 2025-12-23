@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.5.4 (PCC/PCM/PASE/PSIR/PBCO/PME/PBCA/PAEA/PAGE/PSIA Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.5.5 (PCC/PCM/PASE/PSIR/PBCO/PME/PBCA/PAEA/PAGE/PSIA Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -1655,6 +1655,31 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 ### B. Registered Instance Registry (The Population)
 
+#### Domain: ['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS]
+
+*(New Integration v3.5.5)*
+
+1. **[Instance ID: PSIA-XL-001]**
+
+- **Name:** ` ['The Tabular Genesis Engine'(-ing) BPMS]`
+- **Role:** System Existence Engine for functional potentiality grid.
+- **CGA:** `['recursive formulaic evolution'(-ing) BPMS]`
+- **File:** `['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS] ['The Tabular Genesis Engine'(-ing) BPMS].md`
+
+2. **[Instance ID: ACT-PCBA-001]**
+
+- **Name:** ` ['The Cognitive-Brick Layer'(-ing) BPMS]`
+- **Role:** System Existence Engine for gamified structural synthesis.
+- **CGA:** `['modular intelligence construction'(-ing) BPMS]`
+- **File:** `['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS] ['Praxial Cognitive-Brick Assembly (PCBA)'(-ing) BPMS].md
+
+3. **[Instance ID: PSIA-CODE-001]**
+
+- **Name:** ` ['Praxial Code-Genesis Engine (PCGE)'(-ing) BPMS]`
+- **Role:** System Existence Engine for autopoietic codebase.
+- **CGA:** `['recursive software evolution'(-ing) BPMS]`
+- **File:** `['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS] ['Praxial Code-Genesis Engine'(-ing) BPMS].md
+
 #### Domain: ['Praxial Activity-Genesis Engine (PAGE)'(-ing) BPMS]
 
 *(New Integration v3.5.4)*
@@ -1665,28 +1690,6 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **Role:** System Existence Engine for co-creative reality fabricator.
 - **CGA:** `['autotelic workflow generation'(-ing) BPMS]`
 - **File:** `['Praxial Activity-Genesis Engine (PAGE)'(-ing) BPMS] ['The Genesis Weaver'(-ing) BPMS].md`
-
-#### Domain: ['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS]
-
-*(New Integration v3.5.4)*
-
-1. **[Instance ID: ACT-PCBA-001]**
-
-- **Name:** ` ['The Cognitive-Brick Layer'(-ing) BPMS]`
-- **Role:** System Existence Engine for gamified structural synthesis.
-- **CGA:** `['modular intelligence construction'(-ing) BPMS]`
-- **File:** `['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS] ['Praxial Cognitive-Brick Assembly (PCBA)'(-ing) BPMS].md`
-
-#### Domain: ['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS]
-
-*(New Integration v3.5.4)*
-
-1. **[Instance ID: PSIA-CODE-001]**
-
-- **Name:** ` ['Praxial Code-Genesis Engine (PCGE)'(-ing) BPMS]`
-- **Role:** System Existence Engine for autopoietic codebase.
-- **CGA:** `['recursive software evolution'(-ing) BPMS]`
-- **File:** `['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS] ['Praxial Code-Genesis Engine'(-ing) BPMS].md`
 
 #### Domain: ['Praxial Cognitive Corridor (PCC)'(-ing) BPMS]
 
