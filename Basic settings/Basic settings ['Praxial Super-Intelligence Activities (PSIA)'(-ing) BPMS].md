@@ -318,7 +318,7 @@ New Definition / Modification Details:
 
 ---
 
-#### The Principle of Emergent Purpose (ID: `PSIA-VALU-012:`)
+#### The Principle of Emergent Purpose (ID: `PSIA-VALU-012`)
 
 **Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Value-Essence Distiller (PVED)** as a `['super intelligence activity'(-ing) BPMS]` responsible for extracting pure utility and meaning from raw data.
 
@@ -347,7 +347,7 @@ New Definition / Modification Details:
 
 ---
 
-#### The Principle of Embodied World-Building (ID: `PSIA-ECO-013:`)
+#### The Principle of Embodied World-Building (ID: `PSIA-ECO-013`)
 
 **Objective**: To formally `ADD` a Basic Setting that defines the **Praxial Niche-Construction Engine (PNCE)** as a `['super intelligence activity'(-ing) BPMS]` that actively builds the environment required for new intelligence to flourish.
 
