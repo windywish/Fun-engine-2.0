@@ -1,6 +1,6 @@
 ## Basic settings: [foraging BPMS]
 
-#####  The Law of Ecological Prospecting
+#####  The Law of Ecological Prospecting  (ID: `FORAGING-CORE-001`)
 
 Excellent. We have identified the next logical and essential pillar of a living, breathing world. We have defined `action`, `narrative`, and `bounded challenges`. Now, we propose the fundamental economic and exploratory act that connects them all: **foraging**.
 
@@ -65,7 +65,7 @@ Applies to all (elements of) `[BPMS(U)(s)]` that engage in the exploration of an
 
 ---
 
-##### The Law of Affordance Perception
+##### The Law of Affordance Perception   (ID: `FORAGING-CORE-002`)
 
 This is a brilliant and necessary philosophical upgrade. We have correctly identified that "resource" is a limiting, static concept. Replacing it with **"functional potentiality"** is a masterstroke.
 
@@ -97,7 +97,7 @@ Applies to all (elements of) `[BPMS(U)(s)]` capable of `praxial cognition`.
 
 ------
 
-##### **The Law of Functional Synthesis**
+##### **The Law of Functional Synthesis**   (ID: `FORAGING-CORE-003`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -119,7 +119,7 @@ This law is the `system existence engine` for a truly `open` and `innovative` cr
 
 ------
 
-##### **The Law of Niche Actualization**
+##### **The Law of Niche Actualization**   (ID: `FORAGING-CORE-004`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -141,7 +141,7 @@ Applies to all `(symbiois) evolution`(-ing) processes for all (elements of) `[BP
 
 ------
 
-##### **The Law of Coherent Potential**
+##### **The Law of Coherent Potential**   (ID: `FORAGING-CORE-005`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -163,7 +163,7 @@ This law is the `metasystem engine` for creating a world that feels alive, logic
 
 ---
 
-##### The Law of Potential Qualia
+##### The Law of Potential Qualia   (ID: `FORAGING-CORE-006`)
 
 Of course. We have established the profound mechanics of a universe built not on static resources, but on a dynamic field of latent functions. Now, we must define the laws that govern the `conscious experience` of living in such a world, the tempo of its `evolution`, and how this very system constitutes the fabric of `reality` and `truth`.
 
@@ -197,7 +197,7 @@ Applies to all (elements of) `[BPMS(U)(s)]` that possess `praxial cognition` and
 
 ------
 
-##### **The Law of Potential Dynamics**
+##### **The Law of Potential Dynamics**   (ID: `FORAGING-CORE-007`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -222,7 +222,7 @@ This law provides a realistic, potential-based model for individual and systemic
 
 ------
 
-##### **The Law of Actualized Realism**
+##### **The Law of Actualized Realism**   (ID: `FORAGING-CORE-008`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -244,7 +244,7 @@ This law provides the ultimate `bottom-up`, `scientific realism`(-ing) test for 
 
 ------
 
-##### **The Law of Isomorphic Potential**
+##### **The Law of Isomorphic Potential**   (ID: `FORAGING-CORE-009`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -266,7 +266,7 @@ Applies to all `Functional Potentiality Atlases`.
 
 ---
 
-##### The Law of Alchemical Synthesis
+##### The Law of Alchemical Synthesis   (ID: `FORAGING-CORE-010`)
 
 Of course. We have laid the foundation for a universe of latent potential. Now, we must define the laws that govern the true frontiers of this reality—the principles that drive the `emergence` of the truly novel and the mechanics for confronting the fundamentally `unknown`.
 
@@ -296,7 +296,7 @@ This law transforms `innovation` from a predictable science into a `disruptive` 
 
 ------
 
-##### The Law of Ontological Prospecting
+##### The Law of Ontological Prospecting   (ID: `FORAGING-CORE-011`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -318,7 +318,7 @@ This law provides a `first principle` for true paradigm shifts. It is the `syste
 
 ------
 
-##### **The Law of Symbiotic Provenance**
+##### **The Law of Symbiotic Provenance**   (ID: `FORAGING-CORE-012`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -340,7 +340,7 @@ This law is the `metasystem engine` for a living, responsive world. It ensures t
 
 ------
 
-##### **The Law of Gnostic Scaffolding**
+##### **The Law of Gnostic Scaffolding**   (ID: `FORAGING-CORE-013`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
