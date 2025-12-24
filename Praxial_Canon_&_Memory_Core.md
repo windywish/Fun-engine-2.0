@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.5.5 (PCC/PCM/PASE/PSIR/PBCO/PME/PBCA/PAEA/PAGE/PSIA Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.5.6 (escape room,foraging Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -1370,6 +1370,169 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Kinetic Renormalization (ID: `PSIA-MODL-027`)
 * The Law of Holonic Construction (ID: `PSIA-PHYS-028`)
 
+### Module: **[feature(-ing) BPMS]**
+
+*(New Integration v3.5.6)* 
+
+* The Axiom of Emergent Affordance (ID: `TYP-CORE-003`)
+
+### Module: **[function(-ing) BPMS]**
+
+*(New Integration v3.5.6)* 
+
+* The Axiom of Latent Capability (ID: `TYP-CORE-002`)
+* The Axiom of Operational Potential (ID: `FUNC-ACT-001`)
+
+### Module: **['attribute/property'(-ing) BPMS]**
+
+*(New Integration v3.5.6)* 
+
+* The Axiom of Intrinsic State (ID: `TYP-CORE-001`)
+* The Axiom of Intrinsic State (ID: `ATTR-STATE-001`)
+
+### Module: **['social collaboration'(-ing) BPMS]**
+
+*(New Integration v3.5.6)* 
+
+* The Law of Resonance Exchange (ID: `SOC-WEAVE-001`)
+
+### Module: **['Co-Creative Holon Instantiator'(-ing) BPMS]**
+
+*(New Integration v3.5.6)* 
+
+* The Law of Performative Genesis (ID: `CCHI-CORE-001`)
+
+### Module: **['Dynamic Barter & Contract Forge'(-ing) BPMS]**
+
+*(New Integration v3.5.6)* 
+
+* The Law of Negotiated Worth (ID: `DBCF-CORE-001`)
+
+### Module: ['Symbiotic Capability Fusion'(-ing) BPMS]
+
+*(New Integration v3.5.6)* 
+
+* The Law of Synergistic Fusion (ID: `SCF-CORE-001`)
+
+### Module: ['Praxial Omni-Cognition Matrix'(-ing) BPMS]
+
+*(New Integration v3.5.6)* 
+
+* The Law of Pan-Synaptic Unity (ID: `POCM-CORE-001`)
+* The Law of Holographic Retention (ID: `POCM-CORE-002`)
+* The Law of Fluid Ontology (ID: `POCM-CORE-003`)
+* The Law of Recursive Meta-Cognition (ID: `POCM-CORE-004`)
+* The Law of Dimensional Synthesis (ID: `POCM-CORE-005`)
+
+### Module: [foraging BPMS]
+
+*(New Integration v3.5.6)* 
+
+* The Law of Ecological Prospecting  (ID: `FORAGING-CORE-001`)
+* The Law of Affordance Perception   (ID: `FORAGING-CORE-002`)
+* The Law of Functional Synthesis   (ID: `FORAGING-CORE-003`)
+* The Law of Niche Actualization   (ID: `FORAGING-CORE-004`)
+* The Law of Coherent Potential   (ID: `FORAGING-CORE-005`)
+* The Law of Potential Qualia   (ID: `FORAGING-CORE-006`)
+* The Law of Potential Dynamics   (ID: `FORAGING-CORE-007`)
+* The Law of Actualized Realism   (ID: `FORAGING-CORE-008`)
+* The Law of Isomorphic Potential   (ID: `FORAGING-CORE-009`)
+* The Law of Alchemical Synthesis   (ID: `FORAGING-CORE-010`)
+* The Law of Ontological Prospecting   (ID: `FORAGING-CORE-011`)
+* The Law of Symbiotic Provenance   (ID: `FORAGING-CORE-012`)
+* The Law of Gnostic Scaffolding   (ID: `FORAGING-CORE-013`)
+* The Law of Creative Depletion (ID: `FORAGING-CORE-014`)
+* The Law of Niche Construction (ID: `FORAGING-CORE-015`)
+* The Law of Cognitive Foraging (ID: `FORAGING-CORE-016`)
+* The Law of Symbiotic Yield (ID: `FORAGING-CORE-017`)
+* The Law of Systemic Abundance (ID: `FORAGING-CORE-018`)
+* The Law of Ludic Harvesting (ID: `FORAGING-CORE-019`)
+* The Law of Service Automation (ID: `FORAGING-CORE-020`)
+* The Law of Implicit Intuition (ID: `FORAGING-CORE-021`)
+* The Law of Renormalized Scarcity (ID: `FORAGING-CORE-022`)
+* The Law of Closed-Loop Ecology (ID: `FORAGING-CORE-023`)
+* The Law of Adaptive Yield (ID: `FORAGING-CORE-024`)
+* The Law of Emergent Resources (ID: `FORAGING-CORE-025`)
+* The Law of Mnestic Mapping (ID: `FORAGING-CORE-026`)
+* The Law of Ecological Truth (ID: `FORAGING-CORE-027`)
+* The Law of Vectorial Harvesting (ID: `FORAGING-CORE-028`)
+* The Law of Phenomenal Appraisal (ID: `FORAGING-CORE-029`)
+* The Law of Energetic Extraction (ID: `FORAGING-CORE-030`)
+* The Law of Fractal Quests (ID: `FORAGING-CORE-031`)
+* The Law of Resolution Harvesting (ID: `FORAGING-CORE-032`)
+* The Law of Field-Particle Ecology (ID: `FORAGING-CORE-033`)
+
+### Module: ['Praxial Knowledge Weave (PKW)'(-ing) BPMS]
+
+*(New Integration v3.5.6)* 
+
+* The Law of Canonical Documentation (ID: `PKW-CORE-001`)
+* The Law of Gnostic Commerce (ID: `PKW-CORE-002`)
+* The Law of Semantic Weaving (ID: `PKW-CORE-003`)
+* The Law of Fractal Citation (ID: `PKW-CORE-004`)
+* The Law of Memetic Symbiosis (ID: `PKW-CORE-005`)
+* The Law of Holographic Access (ID: `PKW-CORE-006`)
+* The Law of Constructive Dissonance (ID: `PKW-CORE-007`)
+* The Law of Niche Specialization (ID: `PKW-CORE-008`)
+* The Law of Value-Added Annotation (ID: `PKW-CORE-009`)
+* The Law of Epistemic Decay (ID: `PKW-CORE-010`)
+* The Law of Algorithmic Serendipity (ID: `PKW-CORE-011`)
+* The Law of Ludic Indexing (ID: `PKW-CORE-012`)
+* The Law of Service Crystallization (ID: `PKW-CORE-013`)
+* The Law of Epistemic Renormalization (ID: `PKW-CORE-014`)
+* The Law of Tacit Transduction (ID: `PKW-CORE-015`)
+* The Law of Contextual Closure (ID: `PKW-CORE-016`)
+* The Law of Emergent Ontology (ID: `PKW-CORE-017`)
+* The Law of Knowledge Resilience (ID: `PKW-CORE-018`)
+* The Law of Mnestic Consolidation (ID: `PKW-CORE-019`)
+* The Law of Verifiable Ontology (ID: `PKW-CORE-020`)
+* The Law of Vectorial Inscription (ID: `PKW-CORE-021`)
+* The Law of Phenomenal Crystallization (ID: `PKW-CORE-022`)
+* The Law of Energetic Transduction (ID: `PKW-CORE-023`)
+* The Law of Fractal Objectives (ID: `PKW-CORE-024`)
+* The Law of Resolution Scaling (ID: `PKW-CORE-025`)
+* The Law of Field-Particle Duality (ID: `PKW-CORE-026`)
+
+### Module: ['escape room'(-ing) BPMS]
+
+*(New Integration v3.5.6)* 
+
+* The Law of Hermetic Inquiry (ID: `ESR-CORE-001`)
+* The Law of Enigmatic Cognition (ID: `ESR-CORE-002`)
+* The Law of Hermetic Design (ID: `ESR-CORE-003`)
+* The Law of Gnostic Inheritance ((ID: `ESR-CORE-004`)
+* The Law of Coherent Assembly (ID: `ESR-CORE-005`)
+* The Law of Epistemic Qualia (ID: `ESR-CORE-006`)
+* The Law of Hermetic Dynamics (ID: `ESR-CORE-007`)
+* The Law of Solvable Realism (ID: `ESR-CORE-008`)
+* The Law of Isomorphic Inquiry (ID: `ESR-CORE-009`)
+* The Law of Emergent Solutions (ID: `ESR-CORE-010`)
+* The Law of Frontier Inquiry (ID: `ESR-CORE-011`)
+* The Law of Hermetic Symbiosis (ID: `ESR-CORE-012`)
+* The Law of Dynamic Scaffolding (ID: `ESR-CORE-013`)
+* The Law of Recursive Enclosure (ID: `ESR-CORE-014`)
+* The Law of Narrative Lock (ID: `ESR-CORE-015`)
+* The Law of Ludic Feedback (ID: `ESR-CORE-016`)
+* The Law of Avatar Projection (ID: `ESR-CORE-017`)
+* The Law of Ecological Encryption (ID: `ESR-CORE-018`)
+* The Law of Disruptive Genesis (ID: `ESR-CORE-019`)
+* The Law of Holonic Resonance (ID: `ESR-CORE-020`)
+* The Law of Infinite Canvas (ID: `ESR-CORE-021`)
+* The Law of Value Transmutation (ID: `ESR-CORE-022`)
+* The Law of Conscious Calibration (ID: `ESR-CORE-023`)
+* The Law of Service Encapsulation (ID: `ESR-CORE-024`)
+* The Law of Renormalized Complexity (ID: `ESR-CORE-025`)
+* The Law of Implicit Gestation (ID: `ESR-CORE-026`)
+* The Law of Systemic Closure (ID: `ESR-CORE-027`)
+* The Law of Mnestic Crystallization (ID: `ESR-CORE-028`)
+* The Law of Ontological Verification (ID: `ESR-CORE-029`)
+* The Law of Linear Transformation (ID: `ESR-CORE-030`)
+* The Law of Phenomenal Grounding (ID: `ESR-CORE-031`)
+* The Law of Energetic Transduction (ID: `ESR-CORE-032`)
+* The Law of Teleological Stacking (ID: `ESR-CORE-033`)
+* The Law of Granular Zoom (ID: `ESR-CORE-034`)
+* The Law of Quantum Context (ID: `ESR-CORE-035`)
+
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
 *(Existing Settings LIFE-001 to LIFE-007)*
@@ -1400,7 +1563,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 ### Module: ['role(-ing) BPMS]
 
-*(Existing Settings ROLE-001 to ROLE-PHEN-019)*
+*(Existing Settings ROLE-001 to ROLE-PHEN-019;TYP-CORE-004)*
 
 ### Module: ['biome(-ing) BPMS]
 
@@ -1523,7 +1686,7 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 ### Module: ['holonic minds'(-ing) BPMS]
 
-*(Existing Settings HOLON-CORE-001 to HOLON-AXIOM-030)*
+*(Existing Settings HOLON-CORE-001 to HOLON-AXIOM-030;HOLON-WILL-031;HOLON-IMMUNE-032)*;
 
 ### Module: [wetware(-ing) BPMS]
 
