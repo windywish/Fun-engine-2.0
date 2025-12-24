@@ -1056,3 +1056,473 @@ This law ensures `open` `world building`. It allows the endgame to be fundamenta
 
 Applies to high-level alchemy, magical catastrophes, and scientific breakthroughs.
 
+---
+
+#### The Law of Mnestic Mapping (ID: `FORAGING-CORE-026`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `short-term memory` and `long-term memory` in foraging.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Mnestic Mapping
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that exploration transforms fleeting observations into permanent maps. It governs the transition of `short-term memory` (active perception of the immediate terrain) into `long-term memory` (the `Functional Potentiality Atlas` stored in the `CodeWiki`).
+
+#### **The Mechanism - [The Cartographer's Ink]**
+
+- **The Scan (Short-Term):** The agent moves through the world, holding the local layout in their "working memory" (fog of war reveal).
+- **The Inscription (Long-Term):** Upon returning to safety or using a "Map Item," this volatile data is written to the permanent record. The "Fog" is permanently lifted for everyone (if shared) or the agent (if private).
+- **The Decay:** If not inscribed, the short-term memory fades, and the Fog returns.
+
+#### **The Emergent Property - [The Known World]**
+
+The map is not given; it is earned. Civilization is the accumulation of remembered paths.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To map is to conquer.* Knowledge of the land is the first step to ownership.
+
+#### **Formal Stratum (Layer 2 - The Logic of Mapping):**
+
+MapPermanent=MapPermanent∪(PathActive×Inscription_Action)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Security." The comfort of looking at a filled-in map and knowing exactly where the resources are.
+
+#### **Rationale / Justification:**
+
+This law ensures `sustainability` of exploration. It makes the act of travel permanently valuable.
+
+#### **Scope of Application:**
+
+Applies to minimaps, world maps, and exploration logs.
+
+------
+
+#### The Law of Ecological Truth (ID: `FORAGING-CORE-027`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `reality` and `truth` in the ecosystem.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Ecological Truth
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that `reality` is the actual distribution of resources, while `truth` is the community's knowledge of that distribution. It defines the feedback loop where `truth` (guides/wikis) directs agents to `reality` (resources), and the changing `reality` (depletion/spawn shifts) forces an update to `truth`.
+
+#### **The Mechanism - [The Rumor Mill]**
+
+- **The Reality:** A new vein of Gold spawns in Sector 7.
+- **The Discovery:** Agent A finds it.
+- **The Truth:** Agent A shares the location. "Gold is in Sector 7."
+- **The Shift:** Agents flock to Sector 7. The Gold is depleted. `Reality` has changed.
+- **The Update:** "Sector 7 is empty." `Truth` evolves.
+
+#### **The Emergent Property - [Dynamic Meta]**
+
+The "best farming spot" is a moving target. Information has a shelf life.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The map is not the territory.* Especially when the territory is being eaten.
+
+#### **Formal Stratum (Layer 2 - The Logic of Information Lag):**
+
+Trutht≈Realityt−Δ
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "The Gold Rush." The race to exploit a truth before it becomes a lie.
+
+#### **Rationale / Justification:**
+
+This law ensures `adaptive` gameplay. It prevents static guides from ruining the economy.
+
+#### **Scope of Application:**
+
+Applies to resource nodes, rare spawns, and market prices.
+
+------
+
+#### The Law of Vectorial Harvesting (ID: `FORAGING-CORE-028`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by the `system matrix` and the `system vector`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Vectorial Harvesting
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that the `system matrix` (the `Functional Potentiality Atlas`) defines *where* resources are, but the `system vector` (the agent's movement/strategy) defines *how* they are extracted. The optimal harvest requires aligning the vector with the matrix.
+
+#### **The Mechanism - [The Flow State]**
+
+- **The Matrix:** The resource node has a "Grain" or "Pattern" (e.g., a tree falls best in one direction).
+- **The Vector:** The agent applies force.
+- **The Alignment:** If Vector || Matrix, yield is maximized. If Vector ⊥ Matrix, yield is low and tool damage is high.
+
+#### **The Emergent Property - [Skill-Based Gathering]**
+
+Foraging is not just clicking; it is understanding the geometry of the resource.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Cut with the grain.* Force is useless without direction.
+
+#### **Formal Stratum (Layer 2 - The Logic of Alignment):**
+
+Yield=Base×cos(θVector,Matrix)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Finesse." The feeling of the resource yielding effortlessly to the right touch.
+
+#### **Rationale / Justification:**
+
+This law adds depth to `action`. It rewards attention to detail.
+
+#### **Scope of Application:**
+
+Applies to mining angles, tree felling physics, and butchery.
+
+------
+
+#### The Law of Phenomenal Appraisal (ID: `FORAGING-CORE-029`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `experience` and `phenomenon`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Phenomenal Appraisal
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law governs the transformation of a raw object (`phenomenon`) into a valued item (`experience`). It asserts that an item's `value` is not intrinsic but is collapsed by the `Appraisal` of the agent.
+
+#### **The Mechanism - [The Unidentified Item]**
+
+- **The Phenomenon:** The agent finds a "Dusty Relic." (Objectively exists, properties hidden).
+- **The Experience:** The agent feels curiosity/weight.
+- **The Appraisal:** The agent uses knowledge/skills to "Identify" it.
+- **The Collapse:** The "Dusty Relic" becomes "Ancient Sword of Fire." The `value` is realized.
+
+#### **The Emergent Property - [Knowledge is Value]**
+
+A diamond looks like glass to a fool. The richness of the world depends on the observer.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Value is in the eye of the beholder.* You must know what you have to truly have it.
+
+#### **Formal Stratum (Layer 2 - The Logic of Identification):**
+
+ValueRealized=ValueIntrinsic×Identification_Success
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "The Reveal." The thrill of turning junk into treasure.
+
+#### **Rationale / Justification:**
+
+This law ensures `meaning` is tied to character progression.
+
+#### **Scope of Application:**
+
+Applies to loot identification, antique appraisal, and artifact analysis.
+
+------
+
+#### The Law of Energetic Extraction (ID: `FORAGING-CORE-030`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `kinetic (energy)` and `potential (energy)`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Energetic Extraction
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that Foraging is the conversion of `kinetic (energy)` (work) into `potential (energy)` (resources). The resource *is* stored energy.
+
+#### **The Mechanism - [The Caloric Exchange]**
+
+- **The Input:** The agent spends Stamina/Fuel (Kinetic).
+- **The Process:** Breaking the rock/Cutting the tree.
+- **The Output:** Coal/Wood (Potential).
+- **The Symbiosis:** The Coal is burned to create more Kinetic energy (Steam Engine), allowing for more Foraging.
+
+#### **The Emergent Property - [The Industrial Loop]**
+
+The feedback loop that drives civilization. Energy begets Energy.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Work stores work.* A log is just sunlight held in place by time.
+
+#### **Formal Stratum (Layer 2 - The Logic of Efficiency):**
+
+EnergyOutput=EnergyInput×EfficiencyTool
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Productivity." The satisfaction of a net-positive energy loop.
+
+#### **Rationale / Justification:**
+
+This law ensures `sustainability` and `physics` consistency.
+
+#### **Scope of Application:**
+
+Applies to fuel gathering, food consumption, and stamina systems.
+
+------
+
+#### The Law of Fractal Quests (ID: `FORAGING-CORE-031`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `mission` and `task` in foraging.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Fractal Quests
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that every foraging `task` is part of a larger `mission`, and every `mission` is composed of foraging `tasks`. The `foraging BPMS` manages this hierarchy.
+
+#### **The Mechanism - [The Supply Chain]**
+
+- **The Mission:** "Build a Castle."
+- **The Sub-Mission:** "Construct the Wall."
+- **The Task:** "Gather 100 Stone."
+- **The Sub-Task:** "Find a Quarry."
+- **The Symbiosis:** Completing the Sub-Task advances the Task, which advances the Sub-Mission, which advances the Mission.
+
+#### **The Emergent Property - [Purposeful Grinding]**
+
+The grind is not mindless; it is structural. Every stone laid is a step towards the Castle.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The brick dreams of the wall.* Small acts build great things.
+
+#### **Formal Stratum (Layer 2 - The Logic of Contribution):**
+
+Progress(Mission)=∑Progress(Taski)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Contribution." Even the lowly miner feels like an architect.
+
+#### **Rationale / Justification:**
+
+This law ensures `coherence` in large-scale projects.
+
+#### **Scope of Application:**
+
+Applies to crafting trees, construction projects, and guild contributions.
+
+------
+
+#### The Law of Resolution Harvesting (ID: `FORAGING-CORE-032`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `coarse-grained (model)` and `fine-grained (model)`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Resolution Harvesting
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that resources exist at multiple resolutions. You can harvest the `coarse-grained` resource (e.g., "Forest") or the `fine-grained` resource (e.g., "Specific Oak Tree").
+
+#### **The Mechanism - [The Zoom Harvest]**
+
+- **Coarse Harvest:** "Logging Camp" extracts "Wood" from "Forest" (Macro-management). High volume, low specificity.
+- **Fine Harvest:** "Player" extracts "Elder Oak Branch" from "Tree #402" (Micro-management). Low volume, high specificity/quality.
+- **The Symbiosis:** The Coarse harvest feeds the bulk economy; the Fine harvest feeds the elite crafting economy.
+
+#### **The Emergent Property - [Economic Stratification]**
+
+Mass production vs. Artisanal gathering. Both are necessary.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Quantity has a quality all its own.* But quality requires a personal touch.
+
+#### **Formal Stratum (Layer 2 - The Logic of Granularity):**
+
+Quality∝Volume1
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Choice." To be an industrialist or an artisan.
+
+#### **Rationale / Justification:**
+
+This law ensures `robust` economic diversity.
+
+#### **Scope of Application:**
+
+Applies to RTS vs. RPG resource gathering, and automated vs. manual crafting.
+
+------
+
+#### The Law of Field-Particle Ecology (ID: `FORAGING-CORE-033`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `particle` and `field` in the ecosystem.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Field-Particle Ecology
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that resources behave as both `particles` (nodes) and `fields` (biomes). The `field` generates the `particles`, and the `particles` define the `field`.
+
+#### **The Mechanism - [The Biome Resonance]**
+
+- **Field -> Particle:** The "Volcanic Biome" (Field) increases the spawn rate of "Fire Flowers" (Particles).
+- **Particle -> Field:** Planting 100 "Fire Flowers" (Particles) in a neutral area shifts it towards a "Volcanic Biome" (Field).
+- **The Symbiosis:** Agents can terraform by manipulating particles to shift fields.
+
+#### **The Emergent Property - [Ecological Engineering]**
+
+The environment is malleable. You can bring the mountain to Mohammed by moving enough rocks.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The whole is the sum of the parts.* And the parts create the whole.
+
+#### **Formal Stratum (Layer 2 - The Logic of Critical Mass):**
+
+Biome_Type=Mode(Resource_Types)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Power." The ability to change the climate itself through persistent action.
+
+#### **Rationale / Justification:**
+
+This law ensures `creative` environmental interaction.
+
+#### **Scope of Application:**
+
+Applies to terraforming, pollution mechanics, and biome spreading.
+
