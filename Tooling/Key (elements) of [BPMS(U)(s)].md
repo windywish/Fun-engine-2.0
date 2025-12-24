@@ -1,6 +1,6 @@
-## Key [BPMS(U)(s)] 
+## Key (elements) of [BPMS(U)(s)] 
 
-##### The key [BPMS(U)(s)] for fun engine framework as:
+##### The Key (elements) of [BPMS(U)(s)]  for fun engine framework as:
 
 * ['holonic minds'(-ing) BPMS]
 * [holon(-ing) BPMS]
