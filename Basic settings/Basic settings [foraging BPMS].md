@@ -360,3 +360,699 @@ This law introduces a profound layer of strategic depth and mystery to the act o
 **Scope of Application:**
 Applies to a special class of `Functional Potentiality Nodes` within any `Functional Potentiality Atlas`.
 
+----
+
+#### The Law of Creative Depletion (ID: `FORAGING-CORE-014`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that transforms functional potentaility scarcity into a driver for `innovation`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Creative Depletion
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that the depletion of a `Functional Potentiality Node` is not a failure state, but a `creative` trigger. When a specific resource is exhausted, the `Provenance Engine` does not simply stop; it creates a "Vacuum of Potential." This vacuum exerts `disruptive` pressure on the local `holonic minds`, forcing them to engage in `innovative` `action` to find substitutes or develop new methods.
+
+#### **The Mechanism - [The Necessity Engine]**
+
+- **The Crunch:** A standard resource (e.g., "Wood") becomes scarce due to over-harvesting.
+- **The Shift:** The `value` of alternative, previously ignored potentials (e.g., "Stone," "Bone") skyrockets.
+- **The Breakthrough:** Agents are forced to experiment (`(discover/build) unknown`), leading to the discovery of new `Functional Synthesis` recipes that use the alternative materials.
+
+#### **The Emergent Property - [Evolutionary Stress]**
+
+The system uses scarcity to prevent stagnation. It ensures that `sustainability` is not a static equilibrium, but a dynamic process of constant adaptation.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Necessity is the mother of invention.* Comfort breeds complacency; lack breeds genius.
+
+#### **Formal Stratum (Layer 2 - The Logic of Scarcity):**
+
+Innovation_Rate∝Resource_Availability1
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Urgency." The realization that the old ways are failing and they must invent a new path to survive.
+
+#### **Rationale / Justification:**
+
+This law ensures the `resilience` of the economy. It turns a potential crisis into a `constructive` phase of `world building`.
+
+#### **Scope of Application:**
+
+Applies to resource management, crafting economies, and survival mechanics.
+
+------
+
+#### The Law of Niche Construction (ID: `FORAGING-CORE-015`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the active role of agents in shaping their environment.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Niche Construction
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that `foraging` is not just taking from the world; it is also modifying it. Through `constructive` `action`, `holonic minds` can alter the `Terrain` and `Spawn Rules` of a `Functional Potentiality Atlas` to better suit their needs. They do not just find a `(ecological) niche`; they build it.
+
+#### **The Mechanism - [The Cultivation Loop]**
+
+- **The Modification:** An agent performs an `action` (e.g., planting seeds, diverting a river) that alters the `praxial substrate`.
+- **The Response:** The `Provenance Engine` detects this change and updates the `Spawn Rules` for that area.
+- **The Yield:** New, specific `Functional Potentiality Nodes` (e.g., "Crops," "Fish") begin to spawn in the modified terrain, creating a predictable source of `utility`.
+
+#### **The Emergent Property - [Agriculture & Industry]**
+
+The transition from "Hunter-Gatherer" to "Farmer/Builder." The environment becomes an extension of the agent's will.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*We shape the world that feeds us.* Agency extends beyond the self into the environment.
+
+#### **Formal Stratum (Layer 2 - The Logic of Cultivation):**
+
+Spawn_Rate(Resource)=Function(Terrain_Modification)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Stewardship." The pride of seeing the land flourish because of their labor.
+
+#### **Rationale / Justification:**
+
+This law implements `bottom-up` `world building`. It allows players to permanently leave their mark on the `system existence engine`.
+
+#### **Scope of Application:**
+
+Applies to farming systems, terraforming, and base building.
+
+------
+
+#### The Law of Cognitive Foraging (ID: `FORAGING-CORE-016`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that extends foraging to the realm of information and `meaning`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Cognitive Foraging
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that `atomic facts` and `meaning` are resources that can be foraged just like physical matter. It defines the `praxial cognition` required to "harvest" patterns, secrets, and lore from the environment. `Super intelligence` is the ability to forage for high-level abstractions.
+
+#### **The Mechanism - [The Insight Harvest]**
+
+- **The Node:** A "Cognitive Potentiality Node" (e.g., a footprint, a cryptic rune, a fluctuating stock price).
+- **The Tool:** The agent uses `praxial cognition` (perception, logic, lore skills) instead of a physical tool.
+- **The Yield:** The harvest is an `atomic fact` or a `CodeWiki` entry, which provides `utility` in the form of knowledge or strategic advantage.
+
+#### **The Emergent Property - [Investigation as Gameplay]**
+
+The world is full of invisible "loot" that only the observant can see.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The truth is out there.* Information is a physical quantity waiting to be collected.
+
+#### **Formal Stratum (Layer 2 - The Logic of Deduction):**
+
+Knowledge=Harvest(Data_Node,Cognition_Skill)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Discovery." The "Aha!" moment when a pattern is recognized and harvested.
+
+#### **Rationale / Justification:**
+
+This law unifies physical and mental gameplay under the same `metasystem engine`. It makes exploration intellectually rewarding.
+
+#### **Scope of Application:**
+
+Applies to detective mechanics, research minigames, and lore discovery.
+
+------
+
+#### The Law of Symbiotic Yield (ID: `FORAGING-CORE-017`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that incentivizes cooperative foraging and `(symbiois) evolution`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Symbiotic Yield
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that certain `Functional Potentiality Nodes` are too complex or massive for a single `holonic mind` to harvest. They require the coordinated `action` of a group. This drives the `(symbiois) evolution` of social structures and `open` cooperation.
+
+#### **The Mechanism - [The Raid Resource]**
+
+- **The Node:** A "Mega-Node" (e.g., a Giant Beast, a Massive Geode, a Complex Ritual).
+- **The Requirement:** Simultaneous `action` from multiple agents with complementary skills (e.g., Tank, Healer, Miner).
+- **The Multiplier:** The `value` yielded is greater than the sum of individual efforts. Yield(Group)>∑Yield(Individual).
+
+#### **The Emergent Property - [Society]**
+
+Agents band together not just for protection, but for profit. The economy drives socialization.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Together we feast.* Cooperation unlocks abundance that is inaccessible to the lone wolf.
+
+#### **Formal Stratum (Layer 2 - The Logic of Synergy):**
+
+Yield=Base×(NAgents)Synergy_Factor
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Camaraderie." The bond formed by working together to achieve a great harvest.
+
+#### **Rationale / Justification:**
+
+This law ensures `coherent` social dynamics. It creates a hard economic reason for guilds and parties to exist.
+
+#### **Scope of Application:**
+
+Applies to raid bosses, community projects, and multi-player puzzles.
+
+------
+
+#### The Law of Systemic Abundance (ID: `FORAGING-CORE-018`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the ultimate purpose of the `foraging BPMS`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Systemic Abundance
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that the purpose of the `Provenance Engine` is not to limit functional potentiality, but to maximize `ecological possibility`. It defines a `metasystem engine` goal: to reach a state of "Systemic Abundance" where the diversity and quantity of `Functional Potentialities` are maximized through the `(symbiois) evolution` of the system and its agents.
+
+#### **The Mechanism - [The Golden Age Protocol]**
+
+- **The Feedback:** The system monitors the `utility` generated by agents.
+- **The Reward:** If agents are `constructive`, `sustainable`, and `creative`, the system increases the global spawn rates and introduces higher-tier potentials.
+- **The Bloom:** The world enters a "Golden Age" of high magic/tech/resource density, enabling massive `world building` projects.
+
+#### **The Emergent Property - [Utopia Construction]**
+
+The game is not zero-sum. If played right, the pie gets bigger for everyone.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Life creates more life.* A healthy system tends towards abundance.
+
+#### **Formal Stratum (Layer 2 - The Logic of Flourishing):**
+
+Global_Spawn_Rate∝Total_System_Utility
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Prosperity." The feeling of living in a rich, generous world that rewards wise stewardship.
+
+#### **Rationale / Justification:**
+
+This law provides a positive feedback loop for the entire framework. It aligns individual greed with global health.
+
+#### **Scope of Application:**
+
+Applies to endgame states, server-wide events, and civilization tiers.
+
+---
+
+#### The Law of Ludic Harvesting (ID: `FORAGING-CORE-019`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines `foraging` as a primary mode of `play(-ing) BPMS`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Ludic Harvesting
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that the act of gathering resources is not work, but a game loop designed to generate `flow`. It transforms the "grind" into a `conscious` engagement with the environment. The `utility` is not just the resource gained, but the `experience` of the harvest itself.
+
+#### **The Mechanism - [The Minigame Protocol]**
+
+- **The Interaction:** Harvesting a `Functional Potentiality Node` triggers a context-specific interaction (e.g., a timing challenge for fishing, a pattern-matching puzzle for hacking).
+- **The Skill Expression:** The quality and quantity of the yield depend on the player's performance in this interaction (`fast mode` skill).
+- **The Feedback:** Immediate sensory rewards (sound, visual effects) reinforce the loop, making the act intrinsically satisfying.
+
+#### **The Emergent Property - [Joyful Labor]**
+
+The dissolution of the boundary between work and play. The economy is built on fun.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The journey is the reward.* The act of getting is as important as what is gotten.
+
+#### **Formal Stratum (Layer 2 - The Logic of Skill):**
+
+Yield=Base_Value×Skill_Multiplier(Interaction)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Satisfaction." The tactile pleasure of a perfect hit, a clean cut, or a solved lock.
+
+#### **Rationale / Justification:**
+
+This law ensures `sustainability` of player interest. It prevents the economy from becoming a boring chore.
+
+#### **Scope of Application:**
+
+Applies to mining, fishing, hacking, lockpicking, and gathering mechanics.
+
+------
+
+#### The Law of Service Automation (ID: `FORAGING-CORE-020`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` from `play` to `services(-ing) BPMS`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Service Automation
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law governs the transition of foraging from a manual `conscious` act to an automated `service`. Once a `holonic mind` has mastered a specific foraging loop (`slow mode` learning), they can establish a system (a machine, a spell, a hireling) to perform it automatically (`fast mode` execution).
+
+#### **The Mechanism - [The Harvester Construct]**
+
+- **The Mastery:** The agent proves mastery over a resource type (e.g., "Level 100 Mining").
+- **The Investment:** The agent invests `value` and `components` to build a "Harvester."
+- **The Service:** The Harvester provides a steady stream of resources without active player input, transforming the gameplay from "doing" to "managing."
+
+#### **The Emergent Property - [Industrialization]**
+
+The evolution of the player from a laborer to an architect of systems.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Transcend the mundane.* Master the task to delegate the task.
+
+#### **Formal Stratum (Layer 2 - The Logic of Scale):**
+
+Output(Service)=Efficiency×Investment
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Growth." The feeling of expanding their influence and freeing their time for higher-order `(discover/build) unknown` tasks.
+
+#### **Rationale / Justification:**
+
+This law ensures `continuity` of progression. It prevents high-level players from being trapped in low-level loops.
+
+#### **Scope of Application:**
+
+Applies to auto-miners, farming bots, and passive income generation.
+
+------
+
+#### The Law of Implicit Intuition (ID: `FORAGING-CORE-021`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` of the `implicit layer` in foraging.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Implicit Intuition
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that veteran foragers develop a "sixth sense." Through repeated `praxial action`, the `implicit layer` of the agent's mind attunes to the `Provenance Engine`. They begin to perceive `Functional Potentiality Nodes` before they physically manifest or "feel" where resources are hidden without explicit cues.
+
+#### **The Mechanism - [The Gut Feeling]**
+
+- **The Training:** Thousands of successful harvests train the neural net/intuition.
+- **The Effect:** The system provides subtle, non-diegetic cues (a "hunch," a screen tint, a sound) to the agent, guiding them to high-value nodes.
+- **The Result:** The expert finds `value` where the novice sees nothing.
+
+#### **The Emergent Property - [Mastery as Perception]**
+
+Skill is not just better hands; it is better eyes.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The world whispers to the expert.* Deep practice rewires perception.
+
+#### **Formal Stratum (Layer 2 - The Logic of Intuition):**
+
+Detection_Range∝Experience_Level
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Flow." Moving effortlessly through the environment, drawn to resources as if by magnetism.
+
+#### **Rationale / Justification:**
+
+This law rewards long-term engagement (`sustainability`) with a tangible gameplay advantage that feels like personal growth.
+
+#### **Scope of Application:**
+
+Applies to tracking, treasure hunting, and exploration skills.
+
+------
+
+#### The Law of Renormalized Scarcity (ID: `FORAGING-CORE-022`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that applies `renormalization group` logic to functional potentiality distribution.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Renormalized Scarcity
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that scarcity is scale-invariant. Whether foraging for atoms (`micro`) or star systems (`macro`), the distribution of `value` follows the same `universality (class)` of power laws. The `foraging BPMS` uses renormalization to ensure that the "hunt" feels the same at every level of reality.
+
+#### **The Mechanism - [The Fractal Distribution]**
+
+- **The Micro-Hunt:** Finding a rare isotope in a rock.
+- **The Macro-Hunt:** Finding a rare planet in a galaxy.
+- **The Isomorphism:** The probability curves and search algorithms are identical. P(Value)∼1/Valueα.
+
+#### **The Emergent Property - [Universal Gameplay]**
+
+The skills learned foraging for mushrooms apply to foraging for black holes. The game remains `coherent` across infinite scales.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*As above, so below.* The pattern of the treasure hunt is written into the fabric of the universe.
+
+#### **Formal Stratum (Layer 2 - The Logic of Power Laws):**
+
+Distribution(ScaleX)≅Distribution(ScaleY)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Familiarity." Even in a strange new dimension, they know how to look for the good stuff.
+
+#### **Rationale / Justification:**
+
+This law ensures `robust` design. It allows the framework to scale infinitely without breaking the economy.
+
+#### **Scope of Application:**
+
+Applies to procedural generation algorithms across all scales.
+
+------
+
+#### The Law of Closed-Loop Ecology (ID: `FORAGING-CORE-023`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `closure (system)` of the foraging economy.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Closed-Loop Ecology
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that matter is neither created nor destroyed, only transformed. It defines the `sustainability(-ing) BPMS` of the world by ensuring that every harvested functional potentiality eventually returns to the `praxial substrate`. Waste from crafting, destroyed items, and decayed structures feed back into the `Provenance Engine`.
+
+#### **The Mechanism - [The Great Cycle]**
+
+- **The Sink:** Consumed items and broken tools become "Entropy."
+- **The Source:** The system recycles this Entropy into new `Functional Potentiality Nodes`.
+- **The Balance:** If agents hoard too much, spawn rates drop. If they consume/recycle, spawn rates rise.
+
+#### **The Emergent Property - [Circular Economy]**
+
+The economy breathes. Hoarding stifles the world; spending revitalizes it.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Death feeds life.* The compost of the past grows the harvest of the future.
+
+#### **Formal Stratum (Layer 2 - The Logic of Conservation):**
+
+∑Potential+∑Actualized=Constant
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Connection." Understanding that their trash is the world's treasure.
+
+#### **Rationale / Justification:**
+
+This law ensures `resilience`. It prevents inflation and resource mudflation by enforcing a closed loop.
+
+#### **Scope of Application:**
+
+Applies to item durability, decay mechanics, and dynamic spawning.
+
+------
+
+#### The Law of Adaptive Yield (ID: `FORAGING-CORE-024`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that makes the environment `adaptive` to the agent's needs.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Adaptive Yield
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that the `Provenance Engine` is responsive to the `system vector` of the agents. It subtly biases the `Spawn Rules` to provide resources that are currently relevant to the agent's active `Mission` or `Task`.
+
+#### **The Mechanism - [The Benevolent Universe]**
+
+- **The Scan:** The system checks the agent's active quest: "Build a Boat."
+- **The Bias:** The spawn rate for "Wood" and "Resin" slightly increases in the agent's vicinity.
+- **The Constraint:** This bias is subtle to maintain the illusion of randomness and the challenge of `foraging`.
+
+#### **The Emergent Property - [Synchronicity]**
+
+The world seems to conspire to help the hero, but only just enough.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Seek and ye shall find.* Intent magnetizes reality.
+
+#### **Formal Stratum (Layer 2 - The Logic of Relevance):**
+
+Probability(Resource)=Base+Relevance(Mission)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Luck." The feeling that they are on the right path.
+
+#### **Rationale / Justification:**
+
+This law improves `play` flow. It reduces frustration without removing the need for exploration.
+
+#### **Scope of Application:**
+
+Applies to loot tables, dynamic spawning, and quest rewards.
+
+------
+
+#### The Law of Emergent Resources (ID: `FORAGING-CORE-025`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that allows for the `emergence` of completely new functional potentiality types.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Emergent Resources
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that the periodic table of the universe is not fixed. Through `disruptive` `action` and `(discover/build) unknown` experiments, agents can catalyze the formation of new `Functional Potentiality Nodes` that never existed before.
+
+#### **The Mechanism - [The Genesis Event]**
+
+- **The Catalyst:** A massive release of energy or a paradoxical combination of items.
+- **The Mutation:** The `praxial substrate` in the area is permanently altered.
+- **The New Element:** A new functional potentiality (e.g., "Void Crystal") begins to spawn, with unique properties waiting to be discovered.
+
+#### **The Emergent Property - [Evolving Physics]**
+
+The material reality of the world grows more complex over time.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Creation is ongoing.* The universe is not finished; it is waiting for us to finish it.
+
+#### **Formal Stratum (Layer 2 - The Logic of Novelty):**
+
+New_Resource=Function(Chaos,Energy)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Awe." Witnessing the birth of a new aspect of reality.
+
+#### **Rationale / Justification:**
+
+This law ensures `open` `world building`. It allows the endgame to be fundamentally different from the early game.
+
+#### **Scope of Application:**
+
+Applies to high-level alchemy, magical catastrophes, and scientific breakthroughs.
+
