@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.5.7 (escape room,foraging,FEF Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.5.8 (escape room,foraging,FEF,holonic minds Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -1708,7 +1708,9 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 ### Module: ['holonic minds'(-ing) BPMS]
 
-*(Existing Settings HOLON-CORE-001 to HOLON-AXIOM-030;HOLON-WILL-031;HOLON-IMMUNE-032)*;
+*(New Integration v3.5.8)* 
+
+*(Existing Settings HOLON-CORE-001 to HOLON-AXIOM-030;HOLON-WILL-031;HOLON-IMMUNE-032;HOLON-MIND-033~42)*;
 
 ### Module: [wetware(-ing) BPMS]
 
