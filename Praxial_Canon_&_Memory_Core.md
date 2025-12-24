@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.5.6 (escape room,foraging Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.5.7 (escape room,foraging,FEF Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -1532,6 +1532,28 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Teleological Stacking (ID: `ESR-CORE-033`)
 * The Law of Granular Zoom (ID: `ESR-CORE-034`)
 * The Law of Quantum Context (ID: `ESR-CORE-035`)
+
+### Module: ['Fun Engine Framework (FEF)'(-ing) BPMS]
+
+*(New Integration v3.5.6)* 
+
+* The Axiom of Inherent Reflexivity (ID: `FEF-CORE-001`)
+* The Axiom of Universal BPMS (ID: `FEF-CORE-002`)
+* The Axiom of Dynamic Matrix Mapping (ID: `FEF-CORE-003`)
+* The Axiom of Recursive Deduction (ID: `FEF-CORE-004`)
+* The Law of Rhizome-Fruit Symbiosis (ID: `FEF-CORE-005`)
+* The Axiom of Constructive Sensemaking (ID: `FEF-CORE-006`)
+* The Law of Holonic Recursion (ID: `FEF-CORE-007`)
+* The Law of Narrative Causality (ID: `FEF-CORE-008`)
+* The Law of Ludic Resonance (ID: `FEF-CORE-009`)
+* The Law of Praxial Projection (ID: `FEF-CORE-010`)
+* The Law of Contextual Encryption (ID: `FEF-CORE-011`)
+* The Law of Praxial Energetics (ID: `FEF-CORE-012`)
+* The Law of Catalytic Investment (ID: `FEF-CORE-013`)
+* The Law of Resonant Accumulation (ID: `FEF-CORE-014`)
+* The Law of Entropic Scaffolding (ID: `FEF-CORE-015`)
+* The Law of Praxial Metabolism (ID: `FEF-CORE-016`)
+* The Law of Axiological Representation (ID: `FEF-CORE-017`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 

@@ -1,4 +1,4 @@
-## Basic settings ['Fun Engine Framework (FEF)'(-ing) BPMS]
+## Basic settings: ['Fun Engine Framework (FEF)'(-ing) BPMS]
 
 #### The Axiom of Inherent Reflexivity (ID: `FEF-CORE-001`)
 
