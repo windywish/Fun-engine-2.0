@@ -1046,3 +1046,466 @@ This law ensures `resilience`. It makes the Fun Engine a "Forever Game" that can
 
 Applies to ancient ruins, genetic memory, and "New Game+" modes.
 
+---
+
+#### The Law of Mnestic Consolidation (ID: `PKW-CORE-019`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `short-term memory` and `long-term memory`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Mnestic Consolidation
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that the PKW acts as the hippocampus of the Fun Engine. It governs the transition of data from the volatile `short-term memory` (RAM/Context Window) of active agents into the permanent `long-term memory` (Storage/CodeWiki) of the system.
+
+#### **The Mechanism - [The Sleep Cycle]**
+
+- **The Buffer (Short-Term):** Agents generate a stream of "hot" data during `praxial action` (chat logs, combat stats, temporary variables).
+- **The Filter (The Dream):** During system idle times or "Rest" phases, the PKW analyzes this stream. It discards noise and identifies signal (patterns, victories, new facts).
+- **The Inscription (Long-Term):** The signal is written into the `CodeWiki`. The "hot" memory becomes "cold" history, accessible to all future instances.
+
+#### **The Emergent Property - [Institutional Wisdom]**
+
+The system learns from every session. The mistakes of yesterday become the tutorials of tomorrow.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To remember is to survive.* Volatile experience must become stable structure.
+
+#### **Formal Stratum (Layer 2 - The Logic of Storage):**
+
+LongTermt+1=LongTermt+Compress(ShortTermt)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Legacy." Knowing that their fleeting actions are being recorded in the eternal archives.
+
+#### **Rationale / Justification:**
+
+This law ensures `sustainability` and `continuity`. It prevents the system from resetting to zero after every interaction.
+
+#### **Scope of Application:**
+
+Applies to save systems, session summaries, and automated journaling.
+
+------
+
+#### The Law of Verifiable Ontology (ID: `PKW-CORE-020`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `reality` and `truth`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Verifiable Ontology
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that `reality` is the raw, chaotic happening, while `truth` is the ordered, verified record of that happening within the PKW. It defines the feedback loop where `truth` shapes future `reality`, and `reality` updates `truth`.
+
+#### **The Mechanism - [The Consensus Loop]**
+
+- **Reality (The Event):** Something happens (e.g., "Player X defeated Boss Y with a Spoon").
+- **Verification (The Check):** The PKW validates this against the `system matrix`. Is it possible? Yes.
+- **Truth (The Record):** The PKW updates the `CodeWiki`: "Spoons are viable weapons against Boss Y."
+- **Feedback (The Shift):** Future `reality` changes. More players start using spoons. The "Meta" shifts based on the recorded `truth`.
+
+#### **The Emergent Property - [Meta-Gaming]**
+
+The culture of the game evolves based on the shared understanding of what is true.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Truth is a map of Reality.* A good map changes how you walk the territory.
+
+#### **Formal Stratum (Layer 2 - The Logic of Feedback):**
+
+Truthnew=Verify(Reality)Realityfuture=Function(Truthnew)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Validation." The feeling that their actions matter because they change the definition of what is possible.
+
+#### **Rationale / Justification:**
+
+This law ensures `coherence`. It keeps the documented rules in sync with the actual gameplay.
+
+#### **Scope of Application:**
+
+Applies to leaderboards, achievement systems, and dynamic difficulty adjustment.
+
+------
+
+#### The Law of Vectorial Inscription (ID: `PKW-CORE-021`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by the `system matrix` and the `system vector`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Vectorial Inscription
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that the `system matrix` (the static rules/CodeWiki) defines the space of possibilities, while the `system vector` (the agent's state/trajectory) explores that space. Crucially, the *path* of the vector inscribes new lines into the matrix.
+
+#### **The Mechanism - [The Pathmaker]**
+
+- **The Matrix (The Terrain):** The PKW defines the landscape (mountains, valleys, rules).
+- **The Vector (The Walker):** The agent moves through the landscape.
+- **The Erosion (The Change):** If enough vectors walk the same path, the matrix changes. A "Desire Path" becomes a "Paved Road." The PKW upgrades frequently used unofficial methods into official `Rulesets`.
+
+#### **The Emergent Property - [Organic Infrastructure]**
+
+The system optimizes itself based on usage. The rules bend to accommodate the players.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Usage defines Structure.* The river carves the canyon.
+
+#### **Formal Stratum (Layer 2 - The Logic of Erosion):**
+
+Matrixt+1=Matrixt+Integrate(Vectorpath)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Impact." The world physically changes to match their habits.
+
+#### **Rationale / Justification:**
+
+This law ensures `adaptive` `utility`. The system naturally becomes more efficient for its users over time.
+
+#### **Scope of Application:**
+
+Applies to UI customization, shortcut creation, and adaptive map generation.
+
+------
+
+#### The Law of Phenomenal Crystallization (ID: `PKW-CORE-022`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `experience` and `phenomenon`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Phenomenal Crystallization
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law governs the transformation of subjective `experience` (private qualia) into objective `phenomenon` (public data). The PKW acts as the "Observer" that collapses the private wave function into a public particle.
+
+#### **The Mechanism - [The Witness Protocol]**
+
+- **Experience (The Internal):** "I felt scared when the monster roared." (Subjective).
+- **Crystallization (The Objectification):** The PKW records the biometrics and game state. "Heart rate spiked to 120bpm at t=10s."
+- **Phenomenon (The External):** This becomes a public fact: "The Monster's Roar causes Fear status effect."
+
+#### **The Emergent Property - [Shared Reality]**
+
+Private feelings become public mechanics. Empathy becomes a system function.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The personal is the political (and the mechanical).* Subjectivity is just unmapped Objectivity.
+
+#### **Formal Stratum (Layer 2 - The Logic of Objectification):**
+
+Phenomenon=Objectify(Experience)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Understanding." They can point to a stat block and say, "That is why I felt that way."
+
+#### **Rationale / Justification:**
+
+This law ensures `meaning` is communicable. It allows agents to share experiences by referencing standard phenomena.
+
+#### **Scope of Application:**
+
+Applies to debuff systems, emotion engines, and review aggregation.
+
+------
+
+#### The Law of Energetic Transduction (ID: `PKW-CORE-023`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `kinetic (energy)` and `potential (energy)`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Energetic Transduction
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that Knowledge is `potential (energy)` and Action is `kinetic (energy)`. The PKW is the battery. It stores the kinetic energy of past actions as potential energy (guides/code), which can be released later to fuel new actions.
+
+#### **The Mechanism - [The Knowledge Battery]**
+
+- **Charging (Kinetic -> Potential):** An agent spends energy solving a puzzle. They write a guide. The energy is stored in the PKW.
+- **Discharging (Potential -> Kinetic):** A new agent reads the guide. They solve the puzzle instantly. The stored energy is released as `fast mode` action.
+
+#### **The Emergent Property - [Efficiency Accumulation]**
+
+The total energy required to solve problems decreases over time. The civilization becomes more powerful.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Save your strength.* Don't reinvent the wheel; use the battery.
+
+#### **Formal Stratum (Layer 2 - The Logic of Conservation):**
+
+EnergyTotal=Kinetic+Potential(PKW)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Ease." The feeling of standing on a moving walkway built by giants.
+
+#### **Rationale / Justification:**
+
+This law ensures `value` accumulation. It explains *why* we document things: to save energy.
+
+#### **Scope of Application:**
+
+Applies to technology research, crafting recipes, and automation scripts.
+
+------
+
+#### The Law of Fractal Objectives (ID: `PKW-CORE-024`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `mission` and `task`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Fractal Objectives
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that `mission` and `task` are relative terms defined by scale. A `mission` for a `micro` agent is a `task` for a `macro` agent. The PKW manages this hierarchy, allowing objectives to nest infinitely.
+
+#### **The Mechanism - [The Quest Tree]**
+
+- **Decomposition (Mission -> Task):** "Build a House" (Mission) breaks down into "Cut Wood" (Task).
+- **Composition (Task -> Mission):** "Cut Wood" becomes the `Mission` for the Lumberjack agent.
+- **Symbiosis:** The completion of the Task feeds up to complete the Mission. The definition of the Mission provides context to the Task.
+
+#### **The Emergent Property - [Aligned Purpose]**
+
+Every small action is part of a larger whole. No task is meaningless.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*As above, so below.* The great work is made of small works.
+
+#### **Formal Stratum (Layer 2 - The Logic of Hierarchy):**
+
+MissionL=∑TaskL−1
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Belonging." Knowing their small job is essential to the Great Project.
+
+#### **Rationale / Justification:**
+
+This law ensures `coherence` across scales. It allows for complex coordination without micromanagement.
+
+#### **Scope of Application:**
+
+Applies to quest logs, project management tools, and RTS command structures.
+
+------
+
+#### The Law of Resolution Scaling (ID: `PKW-CORE-025`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `coarse-grained (model)` and `fine-grained (model)`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Resolution Scaling
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that the PKW must store knowledge at multiple resolutions. It maintains `coarse-grained` summaries for high-level strategy and `fine-grained` details for tactical execution. It allows agents to "Zoom" in and out of `truth`.
+
+#### **The Mechanism - [The LOD (Level of Detail) System]**
+
+- **Zoom Out (Coarse):** "The Economy is crashing." (Macro-truth).
+- **Zoom In (Fine):** "Merchant X sold 500 swords at 10:00 AM." (Micro-truth).
+- **The Link:** The PKW links these. The Coarse model is the statistical average of the Fine model. The Fine model is the instantiation of the Coarse model.
+
+#### **The Emergent Property - [Scalable Intelligence]**
+
+The system is never overwhelmed by detail, nor starved of it. It provides the right amount of information for the current context.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Perspective is a tool.* Use the right lens for the job.
+
+#### **Formal Stratum (Layer 2 - The Logic of Zoom):**
+
+ModelCoarse=Average(ModelFine)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Focus." The ability to ignore the trees to see the forest, or ignore the forest to inspect a leaf.
+
+#### **Rationale / Justification:**
+
+This law ensures `robust` performance. It prevents information overload.
+
+#### **Scope of Application:**
+
+Applies to map systems (World Map vs. Local Map), strategic overviews, and data visualization.
+
+------
+
+#### The Law of Field-Particle Duality (ID: `PKW-CORE-026`)
+
+#### **Objective:**
+
+To formally `ADD` a Basic Setting that defines the `(symbiois) evolution` among/by `particle` and `field`.
+
+#### **Target Axiom/Principle:**
+
+```
+The Law of Field-Particle Duality
+```
+
+#### **Operation:**
+
+```
+ADD
+```
+
+#### **New Definition / Modification Details:**
+
+#### **Core Essence**
+
+This law asserts that Knowledge behaves as both a `particle` (a specific fact/item) and a `field` (a general influence/culture). The PKW manages the oscillation between these states.
+
+#### **The Mechanism - [The Influence Grid]**
+
+- **Particle Mode:** "Here is a book on Fire Magic." (Discrete object).
+- **Field Mode:** "This area has a +10% bonus to Fire Magic learning." (Ambient effect).
+- **Symbiosis:** If enough Fire Magic books (particles) are gathered, the area becomes a Fire Magic Library (field). If the Library (field) is destroyed, the books (particles) scatter.
+
+#### **The Emergent Property - [Atmospheric Knowledge]**
+
+You can learn just by being there. The environment itself becomes a teacher.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The environment is information.* We shape our buildings; thereafter they shape us.
+
+#### **Formal Stratum (Layer 2 - The Logic of Density):**
+
+Field_Strength=Density(Particles)
+
+#### **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Vibe." Sensing the latent knowledge in a place before even reading a book.
+
+#### **Rationale / Justification:**
+
+This law ensures `immersion`. It integrates knowledge into the world design itself.
+
+#### **Scope of Application:**
+
+Applies to area buffs, environmental storytelling, and cultural influence zones.

@@ -778,3 +778,63 @@ To achieve **['emergence(-ing) BPMS']**, the world must be responsive to the one
 **Scope of Application:**
 Applies to **Procedural Dungeons**, **Mystery Solving**, and **Schrödinger's Cat Scenarios**.
 
+---
+
+#### **The Axiom of Functional Niche (ID: `TYP-CORE-004`)**
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **`[role(-ing) BPMS]`** as the **Generative Archetype of the Dynamic Functional Niche**, replacing static "jobs" with fluid, value-creating positions.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Functional Niche
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `a role is a locus of initiative`. It defines the `role BPMS` as a `Blueprint` for a pattern of `Interaction`, `Responsibility`, and `Value Creation` that an agent voluntarily instantiates to resolve `Dissonance`.
+
+#### **5.2. The Mechanism - [The Engine of Organization]**
+
+- **The Role Blueprint Forge (The Engine of "What is this position?"):** The `social design` workflow that creates a role to address a specific `Mission` or systemic need.
+- **The Agent-Role Symbiotic Binder (The Engine of "You're a Fit"):** The `matchmaking` process that pairs an agent's `Synergistic Value Ledger` with a role's requirements.
+- **The Value & Utility Flow Protocol (The Engine of "The Paycheck, Reimagined"):** The dynamic exchange of `Energy`, `Knowledge`, `Reputation`, and `Fulfillment` that sustains the agent in the role.
+
+#### **5.3. The Emergent Property - [The Living Organization]**
+
+The transformation of "work" into "symbiosis." Organizations become adaptive ecosystems where agents flow into roles that maximize their `Utility` and `Fun`.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Purpose is a collaborative construct.* Agents find meaning by filling niches in the whole.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Cooperation):**
+
+The "Physics" of social structure is defined by the `Role Archetype`:
+
+- **Universal Talent Architect:** The system can instantly design the perfect team for any mission.
+- **Symbiotic Membership:** `[Agent; {Fulfills}; Role] = {Functional_Member_Holon}`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Belonging" and "Purpose." The satisfaction of being the right piece in the puzzle.
+
+#### **7. Rationale / Justification:**
+
+Derived from the "Paradigm of Functional Niche" in `Settings for Typical [BPMS(U)(s)]_2.md`. It provides the framework for `Social Organization` and `Collaborative Action`.
+
+#### **8. Scope of Application:**
+
+Applies to `Social Systems`, `Economic Models`, `Team Dynamics`, and `Ecosystem Management`.
