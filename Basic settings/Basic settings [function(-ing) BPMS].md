@@ -59,3 +59,62 @@ Derived from the "Paradigm of Latent Capability" in `Settings for Typical [BPMS(
 
 Applies to all `Agents`, `Tools`, and `Technologies` capable of action or processing.
 
+---
+
+*(New Module Definition based on Paradigm of Latent Capability)*
+
+#### The Axiom of Operational Potential (ID: `FUNC-ACT-001`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Blueprint for Action** as the catalog of latent capabilities ("Verbs") available to agents within the system.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Operational Potential
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Reality is Potential Action**. It defines the `['function'(-ing) BPMS]` as the **Generative Archetype of Operational Potential**. It is the "Verb Engine" that defines what an entity *can do* (Fly, Calculate, Heal, Weave), distinct from what it *is*.
+
+#### **5.2. The Mechanism - [The Capability Forge]**
+
+- **The Forge (Design):** The `Capability Blueprint Forge` crafts executable workflows from intent. It simulates a goal (Move A->B) and generates a `[Function_Blueprint: Fly]`.
+- **The Protocol (Invocation):** The `Function Invocation Protocol` acts as the trigger. An agent selects a function, allocates the necessary energy (Cost), and activates the script.
+- **The Effect (Execution):** The `Effect Generation Engine` runs the blueprint, consuming the energy and modifying the `atomic facts` of the Matrix (changing Location, Health, or Knowledge).
+
+#### **5.3. The Emergent Property - [The Action Space]**
+
+The creation of a defined "Possibility Space" for every agent. By cataloging functions as discrete, evolvable blueprints, the system allows for the rapid acquisition and sharing of skills (e.g., "downloading" the ability to fly).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+Upholds **`['Praxial Logos'(-ing) BPMS]`** (Action is Reality) by formalizing the "Action" component of the Praxial loop.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+Enforces **`['Praxial Trophic Engine'(-ing) BPMS]`** by defining the energy cost associated with every function invocation.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+Validates **`['Praxial Cells'(-ing) BPMS]`** by defining the "Methods" or "Functions" that a Cell can perform.
+
+#### **7. Rationale / Justification:**
+
+Derived from the "Paradigm of Latent Capability" in `Settings for Typical [BPMS(U)(s)]_3.md`. Essential for defining the "Physics" of the Fun Engine—what actions are possible and how they are executed.
+
+#### **8. Scope of Application:**
+
+Applies to skill systems, magic systems, API calls, tool definitions for AI agents, and manufacturing processes.

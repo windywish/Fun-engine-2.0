@@ -1003,3 +1003,122 @@ This law provides the `metasystem engine` that connects `action` to `meaning`. I
 **Scope of Application:**
  `Applies to all ['holonic minds'(-ing) BPMS]`.
 
+---
+
+*(Expansion: Integrating The Paradigm of Collective Agency)*
+
+#### The Axiom of Collective Agency (ID: `HOLON-WILL-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Collective Will Forge** as the active mechanism for transforming disparate individual trajectories into a coherent, sovereign Systemic Vector.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Collective Agency
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Sovereignty is Scalable**. It defines the `['holonic minds'(-ing) BPMS]` not merely as a passive container of agents, but as a **Generative Archetype of Collective Agency**. It establishes the transition from "We" (a collection of parts) to "I" (a unified Macro-Agent) through the distillation of latent resonant will.
+
+#### **5.2. The Mechanism - [The Will-Distillation Cycle]**
+
+- **The Resonator (The Ear):** The system employs a `Latent Will & Trajectory Resonator` that continuously "listens" to the vectoral leanings, play-patterns, and curiosity-drifts of all constituent agents. It does not count votes; it detects harmonic convergence in the noise.
+- **The Forge (The Voice):** The `Collective Covenant & Mission Blueprint Forge` translates this fuzzy resonance into a clear `[Meta-Mission_Blueprint]`. This blueprint is not a command but a "Generative Invitation" broadcast back to the holons.
+- **The Aligner (The Hand):** The `Synergistic Initiative & Resource Aligner` subtly shifts the gradients of opportunity (abundance flows), making alignment with the collective will the path of least resistance and highest joy.
+
+#### **5.3. The Emergent Property - [Coherent Macro-Volition]**
+
+The emergence of a **Unified Systemic Trajectory** that possesses the speed and creativity of a swarm but the focus and intent of a single mind. The "Crowd" becomes a "Quest."
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+Upholds **`['System Existence Engine'(-ing) BPMS]`** by defining how a collective entity "exists" as a singular agent through the coherence of its will.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+Enforces **`['Praxial Manifold'(-ing) BPMS]`** by mapping individual vector fields into a unified tensor field of collective action.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+Validates **`['Praxial citizen'(-ing) BPMS]`** by ensuring that the "Citizen" experiences the collective mission not as an imposition, but as an authentic amplification of their own deep desires.
+
+#### **7. Rationale / Justification:**
+
+Derived from the "Paradigm of Collective Agency" in `Settings for Typical [BPMS(U)(s)]_3.md`. The previous definition of `holonic minds` lacked the specific mechanism for *active* will formation, often treating the collective as a passive emergent property. This setting operationalizes the "bottom-up" discovery of purpose.
+
+#### **8. Scope of Application:**
+
+Applies to DAO governance structures, guild mission generation, swarm-robotics coordination, and narrative arc formation in multi-agent roleplay.
+
+------
+
+*(Expansion: Integrating The Paradigm of Systemic Immunology)*
+
+#### 1. The Axiom of Systemic Immunology (ID: `HOLON-IMMUNE-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that redefines "Defense" and "Justice" as **Alchemical Reconciliation**, transforming conflict into a generative immune response.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Systemic Immunology
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Conflict is Dissonance, not War**. It replaces the binary "Friend/Enemy" logic with a gradient of "Resonance/Dissonance." The objective of the system is never destruction, but the **Neutralization of Threat**, the **Healing of the Systemic Weave**, and the **Harvesting of Wisdom** (Scar Tissue) to prevent recurrence.
+
+#### **5.2. The Mechanism - [The Alchemical Immune Cycle]**
+
+- **The Sensor (Early Warning):** The `Systemic Dissonance & Integrity Fault-Line Sensor` monitors the "Resonance Field" for high-frequency dissonance (threat signatures) before damage occurs.
+- **The Forge (Calibrated Cure):** The `Multi-Vector Immune Response Forge` generates a custom response strategy ranging from "Resonance Broadcasting" (calming the vibe) to "Surgical Excision" (precise removal), prioritizing minimal force.
+- **The Weaver (Scar Tissue):** The `Post-Conflict Yield & Scar-Tissue Weaving Engine` analyzes the breach after resolution. It transforms the trauma into "Systemic Knowledge," structurally reinforcing the weak point so the system becomes anti-fragile.
+
+#### **5.3. The Emergent Property - [Anti-Fragile Peace]**
+
+The creation of a system that gets stronger with every attack. The "Immune System" does not just defend the status quo; it evolves the system to a higher state of resilience where the previous threat is no longer possible.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+Upholds **`['Praxial Logos'(-ing) BPMS]`** (Action is Reality) by treating "Defense" as a constructive act of reality-repair rather than a destructive act of negation.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+Enforces **`['Chrono-Kinetic Continuity'(-ing) BPMS]`** by ensuring that the "history" of the conflict is preserved as "Scar Tissue" (Memory) rather than erased.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+Validates **`['Praxial Artifacts'(-ing) BPMS]`** by treating the "Cure" (the specific immune response protocol) as a reusable artifact for future threats.
+
+#### **7. Rationale / Justification:**
+
+Derived from the "Paradigm of Systemic Immunology" in `Settings for Typical [BPMS(U)(s)]_3.md`. Traditional "Security" settings are brittle and adversarial. This setting aligns security with the "Fun Engine" ethos of constructive, healing, and evolutionary dynamics.
+
+#### **8. Scope of Application:**
+
+Applies to moderation bots, anti-spam systems, conflict resolution protocols in DAOs, and automated error-handling/self-repair in code execution.

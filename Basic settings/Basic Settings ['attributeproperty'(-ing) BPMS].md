@@ -59,3 +59,62 @@ Derived from the "Paradigm of Intrinsic State" in `Settings for Typical [BPMS(U)
 
 Applies to all `System Vectors`, `Holons`, and `Agents` within the Fun Engine Framework.
 
+---
+
+*(New Module Definition based on Paradigm of Intrinsic State)*
+
+#### The Axiom of Intrinsic State (ID: `ATTR-STATE-001`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Unit of Being** as the atomic descriptive layer of the Matrix, responsible for exposing and quantifying the qualities of existence.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Intrinsic State
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **To Be is to have Properties**. It defines the `['attribute/property'(-ing) BPMS]` as the **Generative Archetype of Intrinsic State Description**. It is the "Adjective Engine" that collapses the vague "Potentiality Cloud" of an entity into crisp, measurable values (Color, Mass, Charge, Mood, Skill Level).
+
+#### **5.2. The Mechanism - [The State-Collapse Engine]**
+
+- **Measurement (The Observer):** The `State Measurement Engine` triggers an interaction that collapses a specific vector of a Holon into a defined value (e.g., "Unknown Color" -> "Blue").
+- **Instantiation (The Fact):** The `Property Instantiation Engine` inscribes this value as an `atomic fact`: `[Matrix_Mapping: Holon_ID; Has_Attribute; Value]`.
+- **Manifold (The Identity):** The `State Manifold` aggregates all current attributes into a cohesive "Identity Profile" or "Character Sheet" that serves as the blueprint for the entity's existence in the simulation.
+
+#### **5.3. The Emergent Property - [Quantifiable Ontology]**
+
+The emergence of a "Universal Sensorium" where every aspect of the system—from the physical weight of a stone to the emotional weight of a memory—is accessible, measurable, and actionable by other systems.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+Upholds **`['Ontological Relativity'(-ing) BPMS]`** by acknowledging that attributes are often relative to the observer (Measurement Engine).
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+Enforces **`['Systemic Matrix'(-ing) BPMS]`** by providing the fundamental data structure (Attribute-Value Pairs) that populates the grid.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+Validates **`['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]`** by providing the raw data (Color, Size, Shape) required for rendering.
+
+#### **7. Rationale / Justification:**
+
+Derived from the "Paradigm of Intrinsic State" in `Settings for Typical [BPMS(U)(s)]_3.md`. The Canon references `atomic facts` frequently but lacked the specific "Attribute Engine" definition that generates them. This fills that gap.
+
+#### **8. Scope of Application:**
+
+Applies to character stats, item properties, environmental variables, physics simulations, and metadata tagging.
