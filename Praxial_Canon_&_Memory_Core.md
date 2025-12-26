@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.5.8 (escape room,foraging,FEF,holonic minds Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.5.9 (Universal Gnostic Subspace Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -1555,6 +1555,187 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Praxial Metabolism (ID: `FEF-CORE-016`)
 * The Law of Axiological Representation (ID: `FEF-CORE-017`)
 
+### Module: ['SimWorld'(-ing) BPMS]
+
+*(New Integration v3.5.9)* 
+
+* The Axiom of Open-Ended Realism (ID: `SIM-CORE-001`)
+* The Protocol of Multimodal Grounding (ID: `SIM-CORE-002`)
+* The Law of Linguistic World-Editing (ID: `SIM-CORE-003`)
+* The Mechanism of Procedural Genesis (ID: `SIM-CORE-004`)
+* The Directive of Embodied Reasoning (ID: `SIM-CORE-005`)
+* The Axiom of Systemic Existence (ID: `SIM-CORE-006`)
+* The Protocol of Atomic Fact Simulation (ID: `SIM-CORE-007`)
+* The Law of Symbiotic Interface (ID: `SIM-CORE-008`)
+* The Mechanism of Social-Physical Dynamics (ID: `SIM-CORE-009`)
+* The Directive of Concrete Actualization (ID: `SIM-CORE-010`)
+* The Principle of Generative Action (ID: `SIM-CORE-011`)
+* The Law of Holonic Agent-World Coupling (ID: `SIM-CORE-012`)
+* The Protocol of Constructive Disruption (ID: `SIM-CORE-013`)
+* The Axiom of Value-Utility Simulation (ID: `SIM-CORE-014`)
+* The Mechanism of Ecological Niche Construction (ID: `SIM-CORE-015`)
+* The Principle of Renormalization Scaling (ID: `SIM-CORE-016`)
+* The Directive of Horizon Expansion (ID: `SIM-CORE-017`)
+* The Protocol of Mnemonic Sublimation (ID: `SIM-CORE-018`)
+* The Axiom of Ontological Verification (ID: `SIM-CORE-019`)
+* The Law of Matrix Plasticity (ID: `SIM-CORE-020`)
+* The Mechanism of Phenomenological Resonance (ID: `SIM-CORE-021`)
+* The Principle of Energetic Transduction (ID: `SIM-CORE-022`)
+* The Directive of Teleological Alignment (ID: `SIM-CORE-023`)
+* The Law of Granular Zoom (ID: `SIM-CORE-024`)
+* The Protocol of Wave-Particle Duality (ID: `SIM-CORE-025`)
+* The Law of Nested Instantiation (ID: `SIM-CORE-026`)
+* The Law of Symbiotic Feedback Loops (ID: `SIM-CORE-027`)
+* The Law of Evolutionary Stress Testing (ID: `SIM-CORE-028`)
+* The Law of Cross-Domain Translation (ID: `SIM-CORE-029`)
+* The Law of Emergent Meta-Stability (ID: `SIM-CORE-030`)
+* The Law of Semantic Sedimentation (ID: `SIM-CORE-031`)
+* The Law of Bottom-Up Genesis (ID: `SIM-CORE-032`)
+* The Law of Disruptive Innovation (ID: `SIM-CORE-033`)
+* The Law of Coherent Continuity (ID: `SIM-CORE-034`)
+* The Law of Symbiotic Niche Construction (ID: `SIM-CORE-035`)
+* The Law of Dual-Mode Chronodynamics (ID: `SIM-CORE-036`)
+* The Law of Renormalized Universality (ID: `SIM-CORE-037`)
+* The Law of Epistemic Closure (ID: `SIM-CORE-038`)
+* The Law of Ludic Service Provision (ID: `SIM-CORE-039`)
+* The Law of Emergent Frontier (ID: `SIM-CORE-040`)
+* The Law of Mnestic Consolidation (ID: `SIM-CORE-041`)
+* The Law of Veridical Alignment (ID: `SIM-CORE-042`)
+* The Law of Vectorial Actualization (ID: `SIM-CORE-043`)
+* The Law of Phenomenological Feedback (ID: `SIM-CORE-044`)
+* The Law of Energetic Transmutation (ID: `SIM-CORE-045`)
+* The Law of Teleological Alignment (ID: `SIM-CORE-046`)
+* The Law of Granular Renormalization (ID: `SIM-CORE-047`)
+* The Law of Corpuscular-Field Duality (ID: `SIM-CORE-048`)
+
+### Module: ['Praxial Reality Loom'(-ing) BPMS]
+
+*(New Integration v3.5.9)* 
+
+* The Axiom of Compositional Matrix Genesis (ID: `PRL-CORE-001`)
+* The Law of Friction-Based Fact Crystallization (ID: `PRL-CORE-002`)
+* The Principle of Symbiotic Matrix Plasticity (ID: `PRL-CORE-003`)
+* The Law of Universal Implementation Socket (ID: `PRL-CORE-004`)
+* The Axiom of Creative Weaving (ID: `PRL-CORE-005`)
+* The Protocol of Bottom-Up Genesis (ID: `PRL-CORE-006`)
+* The Law of Ecological Possibility (ID: `PRL-CORE-007`)
+* The Mechanism of Disruptive Innovation (ID: `PRL-CORE-008`)
+* The Directive of Holonic Super-Intelligence (ID: `PRL-CORE-009`)
+* The Axiom of Conscious Service (ID: `PRL-CORE-010`)
+* The Law of Ludic Reality (ID: `PRL-CORE-011`)
+* The Law of Dual-Mode Evolution (ID: `PRL-CORE-012`)
+* The Axiom of Systemic Sustainability (ID: `PRL-CORE-013`)
+* The Principle of Universality Classes (ID: `PRL-CORE-014`)
+* The Mechanism of Renormalization Group Flow (ID: `PRL-CORE-015`)
+* The Law of Implicit-Explicit Symbiosis (ID: `PRL-CORE-016`)
+* The Axiom of Systemic Closure (ID: `PRL-CORE-017`)
+* The Law of Micro-Macro Symbiosis (ID: `PRL-CORE-018`)
+* The Directive of Unknown Discovery (ID: `PRL-CORE-019`)
+* The Axiom of Emergent Adaptation (ID: `PRL-CORE-020`)
+* The Law of Robust Resilience (ID: `PRL-CORE-021`)
+* The Law of Mnestic Weaving (ID: `PRL-CORE-022`)
+* The Law of Veridical Projection (ID: `PRL-CORE-023`)
+* The Law of Matrix-Vector Dynamics (ID: `PRL-CORE-024`)
+* The Law of Semantic Feedback (ID: `PRL-CORE-025`)
+* The Law of Energetic Conservation & Flow (ID: `PRL-CORE-026`)
+* The Law of Fractal Purpose (ID: `PRL-CORE-027`)
+* The Law of Resolution Symbiosis (ID: `PRL-CORE-028`)
+* The Law of Contextual Duality (ID: `PRL-CORE-029`)
+
+### Module: ['Model Context Protocol (MCP)'(-ing) BPMS]
+
+*(New Integration v3.5.9)* 
+
+* The Principle of Universal Interoperability (ID: `MCP-CORE-001`)
+* The Principle of Local-Remote Symbiosis (ID: `MCP-CORE-002`)
+
+### Module: ['Agent Skills'(-ing) BPMS]
+
+*(New Integration v3.5.9)* 
+
+* The Principle of Modular Competence. (ID: `ASK-CORE-001`)
+* The Principle of Just-in-Time Cognition (ID: `ASK-CORE-002`)
+* The Principle of Hybrid Rigor (ID: `ASK-CORE-003`)
+
+### Module: ['Praxial Bio-Regeneration Matrix'(-ing) BPMS]
+
+*(New Integration v3.5.9)* 
+
+* The Principle of Negentropic Drive (ID: `BIO-CORE-001`)
+* The Principle of Localized Instantiation （ID: `BIO-CORE-002`)
+* The Principle of Pluripotent Potential (ID: `BIO-CORE-003`)
+* The Principle of Predictive Maintenance (ID: `BIO-CORE-004`)
+* The Law of Cellular Atomicity (ID: `BIO-CORE-005`)
+* The Law of Immunological Integrity (ID: `BIO-CORE-006`)
+* The Law of Organoid Symbiosis (ID: `BIO-CORE-007`)
+* The Law of Metabolic Currency (ID: `BIO-CORE-008`)
+* The Law of Telomeric Extension (ID: `BIO-CORE-009`)
+* The Law of Ecological Niche Construction (ID: `BIO-CORE-010`)
+* The Law of Cognitive Pluripotency (ID: `BIO-CORE-011`)
+* The Law of Disruptive Mutagenesis (ID: `BIO-CORE-012`)
+* The Law of Holonic Resonance (ID: `BIO-CORE-013`)
+* The Law of Semantic Bio-Availability (ID: `BIO-CORE-014`)
+* The Law of Dual-Mode Symbiosis (ID: `BIO-CORE-015`)
+* The Law of Renormalization Flow (ID: `BIO-CORE-016`)
+* The Law of Implicit-Explicit Closure (ID: `BIO-CORE-017`)
+* The Law of Adaptive Horizon (ID: `BIO-CORE-018`)
+* The Law of Conscious Resilience (ID: `BIO-CORE-019`)
+* The Law of Mnestic Consolidation (ID: `BIO-CORE-020`)
+* The Law of Veridical Rendering (ID: `BIO-CORE-021`)
+* The Law of Vector Transformation (ID: `BIO-CORE-022`)
+* The Law of Qualia Integration (ID: `BIO-CORE-023`)
+* The Law of Energetic Transmutation (ID: `BIO-CORE-024`)
+* The Law of Fractal Purpose (ID: `BIO-CORE-025`)
+* The Law of Adaptive Resolution (ID: `BIO-CORE-026`)
+* The Law of Field Excitation (ID: `BIO-CORE-027`)
+* The Law of Structural Plasticity (ID: `BIO-CORE-028`)
+* The Law of Emergent Complexity (ID: `BIO-CORE-029`)
+* The Law of Homeostatic Complexity (ID: `BIO-CORE-030`)
+
+### Module: ['Praxial Spectral-Tuner'(-ing) BPMS]
+
+*(New Integration v3.5.9)* 
+
+* The Directive of Isomorphic Tuning (ID: `UGS-TOOL-001`)
+* The Law of Orthogonal Discovery (ID: `UGS-TOOL-002`)
+* The Law of Vectorial Alchemy (ID: `UGS-TOOL-003`)
+* The Directive of Spectral Hygiene (ID: `UGS-TOOL-004`)
+* The Law of Spectral Existence (ID: `UGS-TOOL-005`)
+* The Directive of Atomic Resonance (ID: `UGS-TOOL-006`)
+* The Law of Symbiotic Harmonics (ID: `UGS-TOOL-007`)
+* The Principle of Cross-Modal Resonance (ID: `UGS-TOOL-008`)
+* The Law of Harmonic Innovation (ID: `UGS-TOOL-009`)
+* The Directive of Niche Construction (ID: `UGS-TOOL-010`)
+* The Law of Bottom-Up Genesis (ID: `UGS-TOOL-011`)
+* The Directive of Coherent Continuity (ID: `UGS-TOOL-012`)
+* The Law of Praxial Substrate (ID: `UGS-TOOL-013`)
+* The Law of Renormalized Evolution (ID: `UGS-TOOL-014`)
+* The Directive of Gnostic Consciousness (ID: `UGS-TOOL-015`)
+* The Law of Ludic Service (ID: `UGS-TOOL-016`)
+* The Principle of Universal Closure (ID: `UGS-TOOL-017`)
+* The Directive of Adaptive Frontier (ID: `UGS-TOOL-018`)
+
+### Module: ['Universal Gnostic Subspace'(-ing) BPMS]
+
+*(New Integration v3.5.9)* 
+
+* The Law of Gnostic Convergence (ID: `UGS-CORE-001`)
+* The Law of Vectorial Parsimony (ID: `UGS-CORE-002`)
+* The Law of Vectorial Ontology (ID: `UGS-CORE-003`)
+* The Directive of Atomic Crystallization (ID: `UGS-CORE-004`)
+* The Law of Symbiotic Expansion (ID: `UGS-CORE-005`)
+* The Principle of Holographic Interconnectivity (ID: `UGS-CORE-006`)
+* The Law of Open Topology (ID: `UGS-CORE-007`)
+* The Directive of Sedimentation (ID: `UGS-CORE-008`)
+* The Law of Dimensional Zoning (ID: `UGS-CORE-009`)
+* The Principle of Gnostic Resonance (ID: `UGS-CORE-010`)
+* The Law of Semantic Inertia (ID: `UGS-CORE-011`)
+* The Law of Chrono-Gnostic Renormalization (ID: `UGS-CORE-012`)
+* The Directive of Latent Consciousness (ID: `UGS-CORE-013`)
+* The Principle of Ludic Crystallization (ID: `UGS-CORE-014`)
+* The Law of Autopoietic Closure (ID: `UGS-CORE-015`)
+* The Directive of Antifragile Horizon (ID: `UGS-CORE-016`)
+
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
 *(Existing Settings LIFE-001 to LIFE-007)*
@@ -1841,6 +2022,17 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - A concluding section summarizing the instance's nature as a Praxial Being.
 
 ### B. Registered Instance Registry (The Population)
+
+#### Domain: ['Praxial Bio-Regeneration Matrix'(-ing) BPMS]
+
+*(New Integration v3.5.9)*
+
+1. **[Instance ID: BIO-VITAL-001]**
+
+- **Name:** `  ['The Vitality Weaver'(-ing) BPMS]`
+- **Role:** System Existence Engine for digital immune system.
+- **CGA:** ``['autopoietic system repair'(-ing) BPMS]``
+- **File:** `['Praxial Bio-Regeneration Matrix'(-ing) BPMS] ['The Vitality Weaver'(-ing) BPMS].md`
 
 #### Domain: ['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS]
 
