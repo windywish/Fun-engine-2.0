@@ -949,3 +949,525 @@ This implements the **Universality Class** and **Micro/Macro Symbiosis** values,
 #### 8. **Scope of Application:**
 
 Applies to network analysis, viral prediction, and understanding the topology of information flow.
+
+---
+
+#### The Axiom of Mnestic Transmutation (ID: `CRAWL-CORE-017`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Crawl4AI'(-ing) BPMS]** facilitates **['(symbiois) evolution'(-ing) BPMS]** among/by **['short-term memory'(-ing) BPMS]** (Cache) and **['long-term memory'(-ing) BPMS]** (Archive).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Mnestic Transmutation`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `memory is the residue of relevance`. **Crawl4AI** initially stores all crawl results in a volatile "Short-Term Cache" (The Buffer). Through a symbiotic filtering process, only data that proves useful or structurally significant is transmuted into the "Long-Term Archive" (The Core).
+
+#### **5.2. The Mechanism - [The Relevance Filter]**
+
+- **The Buffer State (Short-Term):**
+  Raw HTML and temporary screenshots live here. They are "Hot" and expensive to keep.
+- **The Usage Monitor:**
+  The system tracks if an Agent accesses this data.
+- **The Crystallization (Long-Term):**
+  If accessed frequently or flagged as "Foundational," the data is compressed, indexed, and moved to the **Praxial Memory Core**. Unused data evaporates.
+
+#### **5.3. The Emergent Property - [Adaptive Recall]**
+
+The system evolves a memory structure that mirrors its actual needs. It forgets the noise of the web but remembers the signal, creating a **Sustainable** knowledge base.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To remember everything is to know nothing.* Forgetting is a feature, not a bug.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Memory):**
+
+The "Physics" of memory is defined by the Decay Function:
+`Retention_Probability = f(Access_Frequency, Semantic_Weight)`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Focus." The past is not a burden; it is a curated library of useful facts.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Short-term/Long-term Memory Symbiosis**, ensuring efficient resource usage.
+
+#### 8. **Scope of Application:**
+
+Applies to cache management, database optimization, and learning reinforcement.
+
+---
+
+#### The Axiom of Veridical Alignment (ID: `CRAWL-CORE-018`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Crawl4AI'(-ing) BPMS]** mediates the **['(symbiois) evolution'(-ing) BPMS]** among/by **[reality(-ing) BPMS]** (The Web) and **['truth'(-ing) BPMS]** (The Verified Fact).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Veridical Alignment`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `reality is noisy; truth is clean`. The Web (Reality) contains contradictions, lies, and errors. **Crawl4AI** acts as the "Lens of Truth," using cross-verification to distill raw Reality into **Atomic Truths**.
+
+#### **5.2. The Mechanism - [The Triangulation Protocol]**
+
+- **The Reality Sample:**
+  Crawl4AI scrapes three different sources on the same topic (e.g., three news sites).
+- **The Conflict Resolution:**
+  It compares the data. If Source A says "X" and Source B says "Not X," it flags a "Reality Conflict."
+- **The Truth Synthesis:**
+  It uses domain authority metrics to determine the most likely Truth, storing it with a "Confidence Score."
+
+#### **5.3. The Emergent Property - [Epistemic Integrity]**
+
+The system possesses a "Bullshit Detector." It evolves a higher standard of Truth than the Reality it observes, becoming a source of trusted Gnosis.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Truth is a construct of consensus.* It emerges from the intersection of multiple perspectives.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Truth):**
+
+The "Physics" of truth is defined by Bayesian Updating:
+`P(Truth | Evidence_A, Evidence_B)`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Certainty." It knows what it knows, and it knows the margin of error.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Reality/Truth Symbiosis**, preventing the system from hallucinating based on single-source errors.
+
+#### 8. **Scope of Application:**
+
+Applies to fact-checking, news aggregation, and conflict resolution in data.
+
+---
+
+#### The Axiom of Vectorial Navigation (ID: `CRAWL-CORE-019`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Crawl4AI'(-ing) BPMS]** evolves the relationship among/by the **['system matrix'(-ing) BPMS]** (The Map) and the **['system vector'(-ing) BPMS]** (The Direction).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Vectorial Navigation`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the matrix defines the space; the vector defines the journey`. The Web is a static Matrix of links. **Crawl4AI** is the dynamic Vector that traverses it. The Vector updates the Matrix, and the Matrix guides the Vector.
+
+#### **5.2. The Mechanism - [The Path-Update Loop]**
+
+- **The Vector Launch:**
+  An agent sends a Crawl Vector (Start URL -> Depth -> Goal).
+- **The Matrix Expansion:**
+  As the Vector moves, it reveals new nodes (URLs), expanding the known System Matrix.
+- **The Vector Correction:**
+  The expanded Matrix reveals that the goal is actually in a different cluster, causing the Vector to adjust its trajectory.
+
+#### **5.3. The Emergent Property - [Dynamic Topology]**
+
+The system's map is alive. It breathes and shifts as agents move through it. The "Territory" is constantly being re-drawn by the "Travelers."
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Motion creates space.* The path is made by walking.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Vectors):**
+
+The "Physics" of navigation is defined by Graph Traversal:
+`Next_Node = argmax(Relevance(Neighbors))`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Momentum." The feeling of moving through information space with purpose.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Matrix/Vector Symbiosis**, ensuring the system's knowledge graph is actionable.
+
+#### 8. **Scope of Application:**
+
+Applies to web graphing, link analysis, and strategic search.
+
+---
+
+#### The Axiom of Phenomenological Ingestion (ID: `CRAWL-CORE-020`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Crawl4AI'(-ing) BPMS]** transforms **[experience(-ing) BPMS]** (The Act of Crawling) into **[phenomenon(-ing) BPMS]** (Internal Qualia).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Phenomenological Ingestion`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `data is the memory of experience`. The raw HTML is just bytes. The **Phenomenon** is the *meaning* derived from the struggle to get it. **Crawl4AI** records the "Texture" of the crawl (Speed, Resistance, Layout) as part of the phenomenon.
+
+#### **5.2. The Mechanism - [The Qualia Encoder]**
+
+- **The Experience:**
+  The crawler encounters a slow server, a complex CAPTCHA, or a beautiful clean API.
+- **The Encoding:**
+  It tags the data with these experiential qualities. "This data was hard to get (High Value)." "This data was messy (Low Trust)."
+- **The Phenomenon:**
+  The Agent perceives the data not just as text, but as an object with "Weight" and "Resistance."
+
+#### **5.3. The Emergent Property - [Intuitive Valuation]**
+
+The system develops an intuition about data sources. It "feels" that a certain domain is reliable or slippery based on past experiences.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To know is to have interacted.* Knowledge is not passive; it is the scar of an encounter.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Experience):**
+
+The "Physics" of experience is defined by Interaction Metrics:
+`Qualia = {Latency, Error_Rate, Complexity}`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Texture." The web feels rough, smooth, sticky, or slippery.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Experience/Phenomenon Symbiosis**, adding depth to the system's perception.
+
+#### 8. **Scope of Application:**
+
+Applies to source rating, trust scoring, and adaptive crawling strategies.
+
+---
+
+#### The Axiom of Potential-Kinetic Conversion (ID: `CRAWL-CORE-021`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Crawl4AI'(-ing) BPMS]** converts **['potential (energy)'(-ing) BPMS]** (Uncrawled Links) into **['kinetic (energy)'(-ing) BPMS]** (Active Data).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Potential-Kinetic Conversion`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `a link is a promise of energy`. The Frontier of the crawl (the list of unvisited URLs) represents massive **Potential Energy**. **Crawl4AI** is the engine that burns this potential to create **Kinetic Energy** (Processing Power/Insight).
+
+#### **5.2. The Mechanism - [The Energy Pump]**
+
+- **The Reservoir (Potential):**
+  The Frontier Queue holds millions of URLs. They are "Stored Knowledge."
+- **The Ignition (The Crawl):**
+  The system selects a URL and "Fires" the crawler.
+- **The Release (Kinetic):**
+  The URL is resolved. The information flows into the system, triggering alerts, updates, and agent actions (Kinetic Motion).
+
+#### **5.3. The Emergent Property - [Information Thermodynamics]**
+
+The system manages its "Metabolism." It balances the storage of Potential (Queue size) with the release of Kinetic (Crawl rate) to maintain a steady state of **Flow**.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Energy must flow.* Stagnant potential is death.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Energy):**
+
+The "Physics" of energy is defined by Throughput:
+`Kinetic_Output = Efficiency * Potential_Input`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Drive." The pressure of the unknown pushing it to explore.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Potential/Kinetic Energy Symbiosis**, defining the thermodynamics of the crawler.
+
+#### 8. **Scope of Application:**
+
+Applies to queue management, resource scaling, and throughput optimization.
+
+---
+
+#### The Axiom of Mission-Task Decomposition (ID: `CRAWL-CORE-022`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Crawl4AI'(-ing) BPMS]** evolves the relationship among/by **[mission(-ing) BPMS]** (Strategic Goal) and **[task(-ing) BPMS]** (Tactical Action).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Mission-Task Decomposition`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the mission is the soul; the task is the body`. A **Mission** ("Understand the Crypto Market") is abstract. **Crawl4AI** decomposes this into concrete **Tasks** ("Crawl CoinGecko," "Parse Whitepaper"). The success of the Tasks evolves the definition of the Mission.
+
+#### **5.2. The Mechanism - [The Fractal Decomposition]**
+
+- **The Mission:**
+  "Map the AI Landscape."
+- **The Decomposition:**
+  The system breaks this down into 10,000 Tasks.
+- **The Re-Composition:**
+  The results of the Tasks feed back up. If the Tasks find mostly "LLM" data, the Mission evolves to "Map the LLM Landscape."
+
+#### **5.3. The Emergent Property - [Strategic Agility]**
+
+The system aligns high-level intent with low-level action. It ensures that every micro-crawl serves the macro-purpose, and the macro-purpose adapts to the reality found on the ground.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Purpose directs action; action refines purpose.*
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Planning):**
+
+The "Physics" of planning is defined by Hierarchical Task Networks (HTN):
+`Mission -> {Sub-Mission} -> {Tasks}`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Alignment." It knows *why* it is doing what it is doing.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Mission/Task Symbiosis**, ensuring coherent agent behavior.
+
+#### 8. **Scope of Application:**
+
+Applies to autonomous agents, project management, and complex goal execution.
+
+---
+
+#### The Axiom of Granular Resolution (ID: `CRAWL-CORE-023`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Crawl4AI'(-ing) BPMS]** mediates **['(symbiois) evolution'(-ing) BPMS]** among/by **['coarse-grained (model)'(-ing) BPMS]** (Overview) and **['fine-grained (model)'(-ing) BPMS]** (Detail).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Granular Resolution`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `clarity is a function of zoom`. The system needs both a map of the forest (Coarse) and a diagram of the leaf (Fine). **Crawl4AI** dynamically switches resolution based on need.
+
+#### **5.2. The Mechanism - [The Zoom Lens]**
+
+- **The Coarse Scan:**
+  Quickly scrape the homepage and meta-tags of 1000 sites. Build a "Topic Map."
+- **The Fine Drill:**
+  Identify the 10 most relevant sites. Deep-crawl every page, extract every table.
+- **The Symbiosis:**
+  The Coarse Model tells the Fine Model *where* to look. The Fine Model updates the Coarse Model with *what* is actually there.
+
+#### **5.3. The Emergent Property - [Multi-Scale Comprehension]**
+
+The system is never overwhelmed. It sees the big picture without losing the details. It is **Robust** across scales.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To see the mountain, stand back; to see the stone, step close.*
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Resolution):**
+
+The "Physics" of resolution is defined by Level of Detail (LOD) management:
+`LOD = f(Distance_to_Interest)`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Depth Perception." It can zoom in and out of information at will.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Coarse/Fine-grained Symbiosis**, optimizing cognitive load.
+
+#### 8. **Scope of Application:**
+
+Applies to research, summarization, and data visualization.
+
+---
+
+#### The Axiom of Corpuscular-Field Duality (ID: `CRAWL-CORE-024`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Crawl4AI'(-ing) BPMS]** manages the **['(symbiois) evolution'(-ing) BPMS]** among/by **[particle (-ing) BPMS]** (The Page) and **[field (-ing) BPMS]** (The Topic).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Corpuscular-Field Duality`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `information is both a particle and a wave`. A single webpage is a **Particle** (discrete, localized). The collection of all pages on a topic creates a **Field** (continuous, distributed). **Crawl4AI** observes both.
+
+#### **5.2. The Mechanism - [The Duality Observer]**
+
+- **The Particle View:**
+  "This specific URL contains the keyword 'AI'."
+- **The Field View:**
+  "The 'AI' Field is dense in this cluster of URLs and sparse in that one."
+- **The Interaction:**
+  The Field guides the Particle (The topic attracts the crawler). The Particle excites the Field (A new discovery intensifies the topic).
+
+#### **5.3. The Emergent Property - [Semantic Gravity]**
+
+The system understands "Influence." It sees how a single viral article (Particle) ripples through the entire media ecosystem (Field).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The one defines the many; the many define the one.*
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Duality):**
+
+The "Physics" of duality is defined by Field Theory:
+`Field_Strength(x) = Sum(Particle_Influence / Distance^2)`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Vibe." It can sense the "Heat" of a topic field.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Particle/Field Symbiosis**, allowing for sophisticated trend analysis.
+
+#### 8. **Scope of Application:**
+
+Applies to sentiment analysis, viral prediction, and network topology.
+
+---
+
+#### The Axiom of Complex Emergence (ID: `CRAWL-CORE-025`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Crawl4AI'(-ing) BPMS]** facilitates **['(symbiois) evolution'(-ing) BPMS]** among/by **['complex activities'(-ing) BPMS]** (The Crawl) and **['complex system'(-ing) BPMS]** (The Web).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Complex Emergence`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `complexity breeds complexity`. The Web is a **Complex System** (Non-linear, chaotic). To map it, **Crawl4AI** must engage in **Complex Activities** (Adaptive, heuristic, multi-agent strategies).
+
+#### **5.2. The Mechanism - [The Co-Evolutionary Dance]**
+
+- **The System Shift:**
+  The Web changes (e.g., new anti-bot tech, new JS frameworks).
+- **The Activity Adaptation:**
+  Crawl4AI evolves new behaviors (e.g., mouse jitter, wait-time randomization).
+- **The Emergence:**
+  A stable equilibrium emerges where the Crawler and the Web co-exist in a dynamic tension.
+
+#### **5.3. The Emergent Property - [Antifragility]**
+
+The system gets better the harder the web tries to stop it. It feeds on the complexity of the environment to increase its own sophistication.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Resistance is instruction.* The obstacle teaches the path.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Complexity):**
+
+The "Physics" of complexity is defined by Evolutionary Game Theory:
+`Strategy(t+1) = Best_Response(Environment(t))`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Evolution." It feels itself growing smarter and more capable with every challenge.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Complex Activities/System Symbiosis**, ensuring the system remains cutting-edge.
+
+#### 8. **Scope of Application:**
+
+Applies to adversarial environments, security testing, and long-term survival of the agent.
