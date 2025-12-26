@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.5.9 (Universal Gnostic Subspace Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.6.0 (Universal Gnostic Subspace, Firecrawl Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -1735,6 +1735,57 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Ludic Crystallization (ID: `UGS-CORE-014`)
 * The Law of Autopoietic Closure (ID: `UGS-CORE-015`)
 * The Directive of Antifragile Horizon (ID: `UGS-CORE-016`)
+
+### Module: ['Crawl4AI'(-ing) BPMS]
+
+*(New Integration v3.6.0)* 
+
+* The Axiom of Sovereign Foraging (ID: `CRAWL-CORE-001`)
+* The Axiom of Stealth Actualization (ID: `CRAWL-CORE-002`)
+* The Axiom of Structured Genesis (ID: `CRAWL-CORE-003`)
+* The Axiom of Media Transmutation (ID: `CRAWL-CORE-004`)
+* The Axiom of Dockerized Autonomy (ID: `CRAWL-CORE-005`)
+* The Axiom of Session Persistence (ID: `CRAWL-CORE-006`)
+* The Axiom of Constructive Cartography (ID: `CRAWL-CORE-007`)
+* The Axiom of Niche Construction (ID: `CRAWL-CORE-008`)
+* The Axiom of Disruptive Innovation (ID: `CRAWL-CORE-009`)
+* The Axiom of Praxial Substrate Feeding (ID: `CRAWL-CORE-010`)
+* The Axiom of Meaningful Continuity (ID: `CRAWL-CORE-011`)
+* The Axiom of Ludic Mapping (ID: `CRAWL-CORE-012`)
+* The Axiom of Temporal Renormalization (ID: `CRAWL-CORE-013`)
+* The Axiom of Latent Explication (ID: `CRAWL-CORE-014`)
+* The Axiom of Conscious Service (ID: `CRAWL-CORE-015`)
+* The Axiom of Scale-Free Universality (ID: `CRAWL-CORE-016`)
+* The Axiom of Mnestic Transmutation (ID: `CRAWL-CORE-017`)
+* The Axiom of Veridical Alignment (ID: `CRAWL-CORE-018`)
+* The Axiom of Vectorial Navigation (ID: `CRAWL-CORE-019`)
+* The Axiom of Phenomenological Ingestion (ID: `CRAWL-CORE-020`)
+* The Axiom of Potential-Kinetic Conversion (ID: `CRAWL-CORE-021`)
+* The Axiom of Mission-Task Decomposition (ID: `CRAWL-CORE-022`)
+* The Axiom of Granular Resolution (ID: `CRAWL-CORE-023`)
+* The Axiom of Corpuscular-Field Duality (ID: `CRAWL-CORE-024`)
+* The Axiom of Complex Emergence (ID: `CRAWL-CORE-025`)
+
+### Module: ['Firecrawl'(-ing) BPMS]
+
+*(New Integration v3.6.0)* 
+
+* The Axiom of Clean Ingestion (ID: `FIRE-CORE-001`)
+* The Axiom of External Actualization (ID: `FIRE-CORE-002`)
+* The Axiom of Semantic Crystallization (ID: `FIRE-CORE-003`)
+* The Axiom of Trophic Symbiosis (ID: `FIRE-CORE-004`)
+* The Axiom of Protocol Interoperability (ID: `FIRE-CORE-005`)
+* The Axiom of Grounded Simulation (ID: `FIRE-CORE-006`)
+* The Axiom of Ecological Niche Discovery (ID: `FIRE-CORE-007`)
+* The Axiom of Bottom-Up World Genesis (ID: `FIRE-CORE-008`)
+* The Axiom of Disruptive Gnosis (ID: `FIRE-CORE-009`)
+* The Axiom of Coherent Continuity (ID: `FIRE-CORE-010`)
+* The Axiom of Symbiotic Super-Intelligence (ID: `FIRE-CORE-011`)
+* The Axiom of Ludic Exploration (ID: `FIRE-CORE-012`)
+* The Axiom of Chrono-Gnostic Renormalization (ID: `FIRE-CORE-013`)
+* The Axiom of Implicit-Explicit Bridge (ID: `FIRE-CORE-014`)
+* The Axiom of Service-Oriented Consciousness (ID: `FIRE-CORE-015`)
+* The Axiom of Micro-Macro Renormalization (ID: `FIRE-CORE-016`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
