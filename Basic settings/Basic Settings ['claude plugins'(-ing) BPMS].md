@@ -1,4 +1,4 @@
-## Basic Settings ['claude plugins'(-ing) BPMS]
+## Basic Settings: ['claude plugins'(-ing) BPMS]
 
 #### The Axiom of Instrumental Extension (ID: ` CLAUDEPLUGIN-CORE-001`)
 
