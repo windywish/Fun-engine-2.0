@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.6.0 (Universal Gnostic Subspace, Firecrawl, Complex Activities Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.6.1 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -1644,10 +1644,36 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 ### Module: ['Model Context Protocol (MCP)'(-ing) BPMS]
 
-*(New Integration v3.5.9)* 
+*(New Integration v3.6.1)* 
 
 * The Principle of Universal Interoperability (ID: `MCP-CORE-001`)
 * The Principle of Local-Remote Symbiosis (ID: `MCP-CORE-002`)
+* The Axiom of Universal Connectivity (ID: `MCP-CORE-003`)
+* The Axiom of Context Subscription (ID: `MCP-CORE-004`)
+* The Axiom of Tool Discovery (ID: `MCP-CORE-005`)
+* The Axiom of Protocol-Based Existence (ID: `MCP-CORE-006`)
+* The Law of Atomic Contextualization (ID: `MCP-CORE-007`)
+* The Protocol of Universal Symbiotic Interface (ID: `MCP-CORE-008`)
+* The Axiom of Open Creative Genesis (ID: `MCP-CORE-009`)
+* The Protocol of Disruptive Metasystemic Action (ID: `MCP-CORE-010`)
+* The Law of Ecological Niche Construction (ID: `MCP-CORE-011`)
+* The Principle of Holonic Super-Intelligence (ID: `MCP-CORE-012`)
+* The Mechanism of Coherent Meaning Continuity (ID: `MCP-CORE-013`)
+* The Directive of Essential Utility (ID: `MCP-CORE-014`)
+* The Axiom of Conscious Service Orchestration (ID: `MCP-CORE-015`)
+* The Law of Ludic Mode-Switching (ID: `MCP-CORE-016`)
+* The Principle of Universal Renormalization (ID: `MCP-CORE-017`)
+* The Mechanism of Systemic Closure (ID: `MCP-CORE-018`)
+* The Directive of Adaptive Discovery (ID: `MCP-CORE-019`)
+* The Axiom of Mnestic Serialization (ID: `MCP-CORE-020`)
+* The Axiom of Veridical Protocol (ID: `MCP-CORE-021`)
+* The Axiom of Vectorial Execution (ID: `MCP-CORE-022`)
+* The Axiom of Phenomenal Standardization (ID: `MCP-CORE-023`)
+* The Axiom of Energetic Efficiency (ID: `MCP-CORE-024`)
+* The Axiom of Teleological Protocol (ID: `MCP-CORE-025`)
+* The Axiom of Fractal Resolution (ID: `MCP-CORE-026`)
+* The Axiom of Resource-Field Duality (ID: `MCP-CORE-027`)
+* The Axiom of Systemic Autopoiesis (ID: `MCP-CORE-028`)
 
 ### Module: ['Agent Skills'(-ing) BPMS]
 
@@ -1830,6 +1856,56 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Granular Renormalization (ID: `COMPLEX-ACT-028`)
 * The Axiom of Corpuscular-Field Duality (ID: `COMPLEX-ACT-029`)
 * The Axiom of Systemic Co-Evolution (ID: `COMPLEX-ACT-030`)
+
+### Module: ['claude plugins'(-ing) BPMS]
+
+*(New Integration v3.6.1)* 
+
+* The Axiom of Instrumental Extension (ID: ` CLAUDEPLUGIN-CORE-001`)
+* The Axiom of Modular Competence (ID: `CLAUDEPLUGIN-CORE-002`)
+* The Axiom of Semantic Routing (ID: `CLAUDEPLUGIN-CORE-003`)
+* The Axiom of Kinetic Existence Proof (ID: `CLAUDEPLUGIN-CORE-004`)
+* The Protocol of Atomic Fact Crystallization (ID: `CLAUDEPLUGIN-CORE-005`)
+* The Law of Symbiotic Universal Implementation (ID: `CLAUDEPLUGIN-CORE-006`)
+* The Axiom of Constructive Niche Genesis (ID: `CLAUDEPLUGIN-CORE-007`)
+* The Protocol of Disruptive Super-Intelligence (ID: `CLAUDEPLUGIN-CORE-008`)
+* The Law of Coherent Symbiotic Continuity (ID: `CLAUDEPLUGIN-CORE-009`)
+* The Axiom of Conscious Service Provisioning (ID: `CLAUDEPLUGIN-CORE-010`)
+* The Law of Ludic Chrono-Symbiosis (ID: `CLAUDEPLUGIN-CORE-011`)
+* The Principle of Renormalized Universality (ID: `CLAUDEPLUGIN-CORE-012`)
+* The Mechanism of Implicit-Explicit Transduction (ID: `CLAUDEPLUGIN-CORE-013`)
+* The Directive of Adaptive Unknown-Genesis (ID: `CLAUDEPLUGIN-CORE-014`)
+* The Axiom of Mnestic Consolidation (ID: `CLAUDEPLUGIN-CORE-015`)
+* The Axiom of Veridical Alignment (ID: `CLAUDEPLUGIN-CORE-016`)
+* The Axiom of Vectorial Actualization (ID: `CLAUDEPLUGIN-CORE-017`)
+* The Axiom of Phenomenological Feedback (ID: `CLAUDEPLUGIN-CORE-018`)
+* The Axiom of Energetic Transmutation (ID: `CLAUDEPLUGIN-CORE-019`)
+* The Axiom of Teleological Alignment (ID: `CLAUDEPLUGIN-CORE-020`)
+* The Axiom of Granular Renormalization (ID: `CLAUDEPLUGIN-CORE-021`)
+* The Axiom of Corpuscular-Field Duality (ID: `CLAUDEPLUGIN-CORE-022`)
+* The Axiom of Systemic Co-Evolution (ID: `CLAUDEPLUGIN-CORE-023`)
+
+### Module: ['Game Engine Testbed'(-ing) BPMS]
+
+*(New Integration v3.6.1)* 
+
+* The Axiom of Ludic Simulation (ID: `GAME-TEST-001`)
+* The Protocol of Synthetic Data Generation (ID: `GAME-TEST-002`)
+* The Axiom of Ontological Rendering (ID: `GAME-TEST-003`)
+* The Protocol of Kinematic Fact Verification (ID: `GAME-TEST-004`)
+* The Law of Symbiotic Asset Transduction (ID: `GAME-TEST-005`)
+* The Principle of Procedural Narrative Evolution (ID: `GAME-TEST-006`)
+
+### Module:  ['Godot Engine'(-ing) BPMS]
+
+*(New Integration v3.6.1)* 
+
+* The Axiom of Open Sovereignty (ID: `GODOT-CORE-001`)
+* The Mechanism of Holonic Node Composition (ID: `GODOT-CORE-002`)
+* The Protocol of Lightweight Instantiation (ID: `GODOT-CORE-003`)
+* The Axiom of Scene-Tree Ontology (ID: `GODOT-CORE-004`)
+* The Protocol of Signal-Based Fact Verification (ID: `GODOT-CORE-005`)
+* The Law of GDScript Symbiosis (ID: `GODOT-CORE-006`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
