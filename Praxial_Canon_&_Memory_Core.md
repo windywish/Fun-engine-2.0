@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.6.3 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.6.5 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -1972,6 +1972,67 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 * The Axiom of Declarative Manifestation (ID: `A2UI-CORE-001`)
 * The Protocol of Spatial-Diegetic Extension (ID: `A2UI-CORE-002`)
+
+### Module:  ['Praxial Universal Language Engine (PULE)'(-ing) BPMS]
+
+*(New Integration v3.6.4)* 
+
+* The Axiom of Linguistic Existence (ID: `PULE-CORE-001`)
+* The Protocol of Mathematical Existence (ID: `PULE-MATH-002`)
+* The Law of Physical Facticity (ID: `PULE-PHYS-003`)
+* The Mechanism of Biological Syntax (ID: `PULE-BIO-004`)
+* The Principle of Molecular Grammar (ID: `PULE-CHEM-005`)
+* The Directive of Polyglot Symbiosis (ID: `PULE-SYM-006`)
+* The Axiom of Linguistic World-Building (ID: `PULE-CORE-007`)
+* The Protocol of Atomic Fact Semantics (ID: `PULE-CORE-008`)
+* The Law of Ecological Niche Syntax (ID: `PULE-CORE-009`)
+* The Mechanism of Holonic Grammar (ID: `PULE-CORE-010`)
+* The Directive of Super-Intelligent Discourse (ID: `PULE-CORE-011`)
+* The Principle of Symbiotic Evolution (ID: `PULE-CORE-012`)
+* The Axiom of Praxial Substrate Encoding (ID: `PULE-CORE-013`)
+* The Protocol of Coherent Meaning-Genesis (ID: `PULE-CORE-014`)
+* The Law of Constructive Disruption (ID: `PULE-CORE-015`)
+* The Mechanism of Metasystemic Recursion (ID: `PULE-CORE-016`)
+* The Axiom of Conscious Service (ID: `PULE-CORE-017`)
+* The Principle of Renormalized Universality (ID: `PULE-CORE-018`)
+* The Directive of Adaptive Unknown-Genesis (ID: `PULE-CORE-019`)
+* The Protocol of Mnemonic Sublimation (ID: `PULE-MEM-020`)
+* The Axiom of Ontological Recursion (ID: `PULE-REAL-021`)
+* The Law of Matrix Plasticity (ID: `PULE-MATH-022`)
+* The Mechanism of Phenomenological Resonance (ID: `PULE-PHEN-023`)
+* The Principle of Energetic Transduction (ID: `PULE-ENER-024`)
+* The Directive of Teleological Alignment (ID: `PULE-PURPOSE-025`)
+* The Law of Granular Zoom (ID: `PULE-RES-026`)
+* The Protocol of Wave-Particle Duality (ID: `PULE-PHYS-027`)
+* The Axiom of Systemic Closure (ID: `PULE-SYS-028`)
+
+### Module:   ['FunctionGemma'(-ing) BPMS]
+
+*(New Integration v3.6.5)* 
+
+* The Axiom of Synaptic Transduction (ID: `FUNC-GEMMA-001`)
+* The Protocol of Edge-Native Reflex (ID: `FUNC-GEMMA-002`)
+* The Principle of Cognitive Routing (ID: `FUNC-GEMMA-003`)
+* The Axiom of Executable Ontology (ID: `FUNC-GEMMA-004`)
+* The Protocol of Deterministic Fact Generation (ID: `FUNC-GEMMA-005`)
+* The Law of Schema Symbiosis (ID: `FUNC-GEMMA-006`)
+* The Principle of Combinatorial Praxis (ID: `FUNC-GEMMA-007`)
+* The Protocol of Ecological Affordance (ID: `FUNC-GEMMA-008`)
+* The Axiom of Runtime Ontology Modification (ID: `FUNC-GEMMA-009`)
+* The Principle of Symbiotic Mode Switching (ID: `FUNC-GEMMA-010`)
+* The Protocol of Ludic Service Provision (ID: `FUNC-GEMMA-011`)
+* The Axiom of Renormalized Universality (ID: `FUNC-GEMMA-012`)
+* The Law of Implicit-Explicit Closure (ID: `FUNC-GEMMA-013`)
+* The Principle of Resilient Discovery (ID: `FUNC-GEMMA-014`)
+* The Protocol of Mnemonic Consolidation (ID: `FUNC-GEMMA-015`)
+* The Axiom of Verifiable Realism (ID: `FUNC-GEMMA-016`)
+* The Principle of Vector-Matrix Transduction (ID: `FUNC-GEMMA-017`)
+* The Law of Phenomenal Integration (ID: `FUNC-GEMMA-018`)
+* The Principle of Energetic Transmutation (ID: `FUNC-GEMMA-019`)
+* The Protocol of Mission-Task Alignment (ID: `FUNC-GEMMA-020`)
+* The Axiom of Granular Renormalization (ID: `FUNC-GEMMA-021`)
+* The Principle of Particle-Field Duality (ID: `FUNC-GEMMA-022`)
+* The Law of Complex Emergence (ID: `FUNC-GEMMA-023`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
