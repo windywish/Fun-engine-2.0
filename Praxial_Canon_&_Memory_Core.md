@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.6.1 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.6.3 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -1906,6 +1906,72 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Scene-Tree Ontology (ID: `GODOT-CORE-004`)
 * The Protocol of Signal-Based Fact Verification (ID: `GODOT-CORE-005`)
 * The Law of GDScript Symbiosis (ID: `GODOT-CORE-006`)
+
+### Module:  ['NitroGen'(-ing) BPMS]
+
+*(New Integration v3.6.2)* 
+
+* The Axiom of Visuo-Motor Foundation (ID: `NITRO-CORE-001`)
+* The Protocol of Universal Simulation (ID: `NITRO-CORE-002`)
+* The Axiom of Flow-Matching Existence (ID: `NITRO-CORE-003`)
+* The Protocol of Atomic Action Crystallization (ID: `NITRO-CORE-004`)
+* The Law of Symbiotic Visuo-Motor Transduction (ID: `NITRO-CORE-005`)
+* The Principle of Universal Ludic Simulation (ID: `NITRO-CORE-006`)
+* The Directive of Internet-Scale Mnemonic Sublimation (ID: `NITRO-CORE-007`)
+
+### Module:  ['Voyager'(-ing) BPMS]
+
+*(New Integration v3.6.2)* 
+
+* The Axiom of Code-As-Action (ID: `VOYAGER-CORE-001`)
+* The Protocol of Verifiable Skill Crystallization (ID: `VOYAGER-CORE-002`)
+* The Axiom of Curriculum-Driven Ontology (ID: `VOYAGER-CORE-003`)
+* The Law of Symbiotic Code Injection (ID: `VOYAGER-CORE-004`)
+
+### Module:   ['Large Action Model (LAM)'(-ing) BPMS]
+
+*(New Integration v3.6.3)* 
+
+* The Axiom of Interface Sovereignty (ID: `LAM-CORE-001`)
+* The Protocol of Neuro-Symbolic Screen Parsing (ID: `LAM-CORE-002`)
+* The Axiom of Operational Ontology (ID: `LAM-CORE-003`)
+* The Protocol of Resonant Constellation Map Chain Verification (ID: `LAM-CORE-004`)
+* The Law of Tool-Chain Symbiosis (ID: `LAM-CORE-005`)
+
+### Module:   ['Direct Neural Interface (DNI)'(-ing) BPMS]
+
+*(New Integration v3.6.3)* 
+
+* The Axiom of Bypass Sovereignty (ID: `DNI-CORE-001`)
+* The Protocol of Deep State Reflection (ID: `DNI-CORE-002`)
+* The Mechanism of Headless Actuation (ID: `DNI-CORE-003`)
+* The Axiom of Substrate Persistence (ID: `DNI-CORE-004`)
+* The Protocol of Addressable Facticity (ID: `DNI-CORE-005`)
+* The Law of Shared-Memory Symbiosis (ID: `DNI-CORE-006`)
+
+### Module:   ['Praxial Interface/Experience (PIX)'(-ing) BPMS]
+
+*(New Integration v3.6.3)* 
+
+* The Axiom of Diegetic Sovereignty (ID: `PIX-CORE-001`)
+* The Protocol of Affordance Verification (ID: `PIX-CORE-002`)
+* The Law of Symbiotic Plasticity (ID: `PIX-CORE-003`)
+* The Protocol of Haptic-Event Transduction (ID: `PIX-CORE-004`)
+* The Axiom of Isomorphic State Mirroring (ID: `PIX-CORE-005`)
+* The Law of Combinatorial Component Evolution (ID: `PIX-CORE-006`)
+
+### Module:   ['AG-UI Protocol'(-ing) BPMS]
+
+*(New Integration v3.6.3)* 
+
+* The Axiom of Event-Driven Agency (ID: `AG-UI-CORE-001`)
+
+### Module:   ['A2UI Specification'(-ing) BPMS]
+
+*(New Integration v3.6.3)* 
+
+* The Axiom of Declarative Manifestation (ID: `A2UI-CORE-001`)
+* The Protocol of Spatial-Diegetic Extension (ID: `A2UI-CORE-002`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
