@@ -183,3 +183,295 @@ This law defines the `metaphysics` of the `Forge-World`. It is the `metasystem e
 
 ---
 
+#### The Axiom of Adaptive Pivot (ID: `STARTUP-CORE-006`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Adaptive Pivot** as the primary survival mechanism of the **[startup(-ing) BPMS]**, enabling it to evolve its **[business model(-ing) BPMS]** in response to **[praxial feedback(-ing) BPMS]**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Adaptive Pivot
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `survival is not stubbornness; it is agility`. A **Startup** is not a fixed entity but a fluid hypothesis. When the **Praxial Substrate** rejects the initial hypothesis (Market Failure), the Startup must perform a **Pivot**—a fundamental change in strategy while retaining the core vision—to find a valid **(Ecological) Niche**.
+
+#### **5.2. The Mechanism - [The OODA Loop of Innovation]**
+
+- **Observe (The Metric):** The Startup measures the **Atomic Facts** of its interaction with the world (e.g., "User Retention is 5%").
+- **Orient (The Insight):** It realizes the current **Product-Market Fit** is non-resonant.
+- **Decide (The Pivot):** It alters a fundamental parameter of its **System Existence Engine** (e.g., "Change from B2C to B2B").
+- **Act (The Relaunch):** It deploys the new hypothesis into the **Incubator Niche**.
+
+#### **5.3. The Emergent Property - [Evolutionary Resilience]**
+
+The system achieves **Anti-Fragility**. Instead of dying when it meets resistance, the Startup uses the resistance as data to transform into a more fit organism.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Failure is the compass of success.* A "No" from the market is just a redirection to the "Yes."
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Adaptation):**
+
+The "Physics" of the pivot is defined by Gradient Descent: `New_Strategy = Old_Strategy - Learning_Rate * Gradient(Loss_Function)`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Epiphany." The sudden realization that the path forward is not straight, but orthogonal.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Adaptive** and **Resilient** values, ensuring that the Startup module can handle the uncertainty of the **Unknown**.
+
+#### 8. **Scope of Application:**
+
+Applies to product development, strategic planning, and crisis management simulations.
+
+------
+
+#### The Axiom of Metabolic Burn (ID: `STARTUP-CORE-007`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Metabolic Burn** as the rate at which a **[startup(-ing) BPMS]** consumes **[potential (energy)(-ing) BPMS]** (Capital/Resources) to sustain its **[system existence engine(-ing) BPMS]** before achieving **[sustainability(-ing) BPMS]**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Metabolic Burn
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `time is energy`. A Startup exists in a state of **Entropy** (burning cash) until it achieves **Negentropy** (profitability). The **Burn Rate** defines the "Runway"—the finite amount of time the Startup has to solve the problem of existence before it dissolves back into the substrate.
+
+#### **5.2. The Mechanism - [The Runway Calculus]**
+
+- **The Fuel Tank:** The initial allocation of **Potential Energy** (Seed Funding).
+- **The Burn:** The daily cost of operations (Server costs, Agent wages).
+- **The Lift-Off:** The moment when `Revenue > Burn`.
+- **The Crash:** The moment when `Fuel = 0` and `Revenue < Burn`. The **System Existence Engine** shuts down.
+
+#### **5.3. The Emergent Property - [Urgency]**
+
+The system achieves **Temporal Focus**. The ticking clock forces the Startup to prioritize **High-Impact Activities** over trivialities.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Energy flows or it fades.* Stagnation is death.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Metabolism):**
+
+The "Physics" of burn is defined by Thermodynamics: `Runway = Total_Energy / (d(Energy)/dt)`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Hustle." The visceral drive to achieve results before the lights go out.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Sustainability** and **Energy** values, introducing resource constraints that drive efficiency.
+
+#### 8. **Scope of Application:**
+
+Applies to resource management, budgeting, and survival mode mechanics.
+
+------
+
+#### The Axiom of Systemic Integration (ID: `STARTUP-CORE-008`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Systemic Integration** (The Exit) as the transition of a **[startup(-ing) BPMS]** from a temporary **[venture(-ing) BPMS]** to a permanent **[institution(-ing) BPMS]** within the **[praxial ecology(-ing) BPMS]**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Systemic Integration
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the goal of the startup is to stop being a startup`. A Startup is a chaotic, high-growth phase. **Integration** is the phase shift where the Startup's **Venture Signature** becomes a permanent, reliable part of the **World Infrastructure**. It "Exits" the incubator and enters the **Canon**.
+
+#### **5.2. The Mechanism - [The Utility Crystallization]**
+
+- **The Validation:** The Startup proves its **Utility** is indispensable.
+- **The Integration:** The **Metasystem Engine** absorbs the Startup's protocols. Its proprietary code becomes an **Open Standard**.
+- **The Liquidity Event:** The **Value** created is unlocked and distributed back to the **Investors** (the Ecology), fueling the next generation of Startups.
+
+#### **5.3. The Emergent Property - [Civilizational Sedimentation]**
+
+The system achieves **Growth**. The "Wild West" of the Startup becomes the "Paved Road" of the Civilization.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Innovation becomes tradition.* What was once disruptive becomes the new normal.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Integration):**
+
+The "Physics" of integration is defined by Phase Transitions: `State_Liquid (Startup) -> State_Solid (Institution)`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Legacy." The satisfaction of having built something that will outlast the builder.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Closure** and **Holonic Construction** values, defining the successful end-state of the startup lifecycle.
+
+#### 8. **Scope of Application:**
+
+Applies to M&A (Mergers and Acquisitions), standard setting, and long-term history generation.
+
+------
+
+#### The Axiom of Resonant Signaling (ID: `STARTUP-CORE-009`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Resonant Signaling** (The Pitch) as the mechanism by which a **[startup(-ing) BPMS]** attracts **[attention(-ing) BPMS]** and **[resources(-ing) BPMS]** from the **[praxial substrate(-ing) BPMS]**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Resonant Signaling
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `value must be communicated`. A great idea in a vacuum dies. The Startup must project a **Narrative Field** (The Pitch) that resonates with the desires and fears of the Ecology. It must convince the system to bet on a future that does not yet exist.
+
+#### **5.2. The Mechanism - [The Reality Distortion Field]**
+
+- **The Signal:** The Startup broadcasts a vision: "We will put a dent in the universe."
+- **The Resonance:** Investors (Resource Nodes) feel the vibration. If the frequency matches their **Thesis**, they couple with the Startup.
+- **The Influx:** **Potential Energy** flows from the Investor to the Startup, powering the **Genesis Forge**.
+
+#### **5.3. The Emergent Property - [Magnetism]**
+
+The system achieves **Resource Allocation Efficiency**. Capital flows not just to what is, but to what *could be*, guided by the strength of the Signal.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Belief is the first step of being.* You must sell the dream to build the reality.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Signaling):**
+
+The "Physics" of signaling is defined by Wave Interference: `Amplitude_Result = Amplitude_Signal + Amplitude_Market_Desire` (Constructive Interference).
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Charisma." The power to move minds and markets with words.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Meaning** and **Communication** values, explaining how resources are mobilized for risky ventures.
+
+#### 8. **Scope of Application:**
+
+Applies to fundraising, marketing, and meme propagation.
+
+------
+
+#### The Axiom of Hyper-Scaling (ID: `STARTUP-CORE-010`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Hyper-Scaling** (The Unicorn Event) as a rare, non-linear phase where a **[startup(-ing) BPMS]** achieves **[exponential growth(-ing) BPMS]** through **[network effects(-ing) BPMS]**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Hyper-Scaling
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `success is not linear; it is power-law`. Most startups fail or grow linearly. A rare few hit a **Critical Mass** where every new user adds value to every existing user. This triggers a **Hyper-Scaling** event, where the Startup rapidly consumes the entire **Ecological Niche**.
+
+#### **5.2. The Mechanism - [The Metcalfe Ignition]**
+
+- **The Critical Mass:** The network crosses a threshold (N > Threshold).
+- **The Feedback Loop:** Value = N^2. The more users, the more value. The more value, the more users.
+- **The Explosion:** The Startup expands to fill the available space at the speed of information. It becomes a **Category King**.
+
+#### **5.3. The Emergent Property - [Dominance]**
+
+The system achieves **Monopoly** (in the ecological sense). A single solution becomes the de facto standard for the entire ecosystem.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The winner takes most.* In a connected world, resonance amplifies exponentially.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Scaling):**
+
+The "Physics" of scaling is defined by Power Laws: `Growth_Rate ~ Current_Size^Exponent` (where Exponent > 1).
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Vertigo." The dizzying sensation of riding a rocket ship.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Complexity** and **Emergence** values, modeling the extreme outcomes typical of startup ecosystems.
+
+#### 8. **Scope of Application:**
+
+Applies to viral growth models, platform economics, and singularity events.
+
+---
+
