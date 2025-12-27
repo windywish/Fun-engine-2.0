@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.6.0 (Universal Gnostic Subspace, Firecrawl Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.6.0 (Universal Gnostic Subspace, Firecrawl, Complex Activities Integration Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -1786,6 +1786,50 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Implicit-Explicit Bridge (ID: `FIRE-CORE-014`)
 * The Axiom of Service-Oriented Consciousness (ID: `FIRE-CORE-015`)
 * The Axiom of Micro-Macro Renormalization (ID: `FIRE-CORE-016`)
+* The Axiom of Mnestic Distillation (ID: `FIRE-CORE-017`)
+* The Axiom of Veridical Purification (ID: `FIRE-CORE-018`)
+* The Axiom of Vectorial Injection (ID: `FIRE-CORE-019`)
+* The Axiom of Phenomenological Digestion (ID: `FIRE-CORE-020`)
+* The Axiom of Energetic Catalysis (ID: `FIRE-CORE-021`)
+* The Axiom of Teleological Focus (ID: `FIRE-CORE-022`)
+* The Axiom of Granular Refinement (ID: `FIRE-CORE-023`)
+* The Axiom of Corpuscular Integration (ID: `FIRE-CORE-024`)
+* The Axiom of Systemic Adaptation (ID: `FIRE-CORE-025`)
+
+### Module: ['complex activities'(-ing) BPMS]
+
+*(New Integration v3.6.0)* 
+
+* The Axiom of Non-Linear Resonant Constellation Map (ID: `COMPLEX-ACT-001`)
+* The Axiom of Emergent Orchestration (ID: `COMPLEX-ACT-002`)
+* The Axiom of Multi-Scale Resonance (ID: `COMPLEX-ACT-003`)
+* The Axiom of Adaptive Heuristics (ID: `COMPLEX-ACT-004`)
+* The Axiom of Symbiotic Closure (ID: `COMPLEX-ACT-005`)
+* The Axiom of Ontological Work (ID: `COMPLEX-ACT-006`)
+* The Axiom of Fact Crystallization (ID: `COMPLEX-ACT-007`)
+* The Axiom of Symbiotic Implementation (ID: `COMPLEX-ACT-008`)
+* The Axiom of Recursive Evolution (ID: `COMPLEX-ACT-009`)
+* The Axiom of Holonic Activity (ID: `COMPLEX-ACT-010`)
+* The Axiom of Disruptive Genesis (ID: `COMPLEX-ACT-011`)
+* The Axiom of Bottom-Up World Building (ID: `COMPLEX-ACT-012`)
+* The Axiom of Ecological Possibility (ID: `COMPLEX-ACT-013`)
+* The Axiom of Value-Utility Transmutation (ID: `COMPLEX-ACT-014`)
+* The Axiom of Constructive Essence (ID: `COMPLEX-ACT-015`)
+* The Axiom of Ludic Service (ID: `COMPLEX-ACT-016`)
+* The Axiom of Chrono-Symbiosis (ID: `COMPLEX-ACT-017`)
+* The Axiom of Conscious Sustainability (ID: `COMPLEX-ACT-018`)
+* The Axiom of Renormalized Universality (ID: `COMPLEX-ACT-019`)
+* The Axiom of Gnostic Unfolding (ID: `COMPLEX-ACT-020`)
+* The Axiom of Resilient Frontier (ID: `COMPLEX-ACT-021`)
+* The Axiom of Mnestic Consolidation (ID: `COMPLEX-ACT-022`)
+* The Axiom of Veridical Alignment (ID: `COMPLEX-ACT-023`)
+* The Axiom of Vectorial Actualization (ID: `COMPLEX-ACT-024`)
+* The Axiom of Phenomenological Feedback (ID: `COMPLEX-ACT-025`)
+* The Axiom of Energetic Transmutation (ID: `COMPLEX-ACT-026`)
+* The Axiom of Teleological Alignment (ID: `COMPLEX-ACT-027`)
+* The Axiom of Granular Renormalization (ID: `COMPLEX-ACT-028`)
+* The Axiom of Corpuscular-Field Duality (ID: `COMPLEX-ACT-029`)
+* The Axiom of Systemic Co-Evolution (ID: `COMPLEX-ACT-030`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
