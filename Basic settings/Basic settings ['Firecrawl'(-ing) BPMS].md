@@ -977,3 +977,528 @@ This implements the **Universality Class**, **Micro/Macro Symbiosis**, and **Res
 #### 8. **Scope of Application:**
 
 Applies to economic modeling, epidemiology simulations, viral marketing analysis, and system architecture scaling.
+
+---
+
+#### The Axiom of Mnestic Distillation (ID: `FIRE-CORE-017`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Firecrawl'(-ing) BPMS]** facilitates **['(symbiois) evolution'(-ing) BPMS]** among/by **['short-term memory'(-ing) BPMS]** (Raw Ingestion) and **['long-term memory'(-ing) BPMS]** (Refined Knowledge).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Mnestic Distillation`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `memory is the ash of fire`. **Firecrawl** burns through the raw, volatile data of the web (Short-Term Memory) to produce clean, durable Markdown (Long-Term Memory). It is the "Kidney" of the system, filtering out the metabolic waste (HTML tags, ads, scripts) to retain only the nutrients.
+
+#### **5.2. The Mechanism - [The Pyrolytic Filter]**
+
+- **The Intake (Short-Term):**
+  The system ingests the full, bloated HTML DOM. This is heavy and noisy.
+- **The Burn (The Process):**
+  Firecrawl applies its "LLM-Ready" algorithms to strip away the non-essential.
+- **The Residue (Long-Term):**
+  What remains is pure semantic text. This is stored in the **Praxial Memory Core**, occupying 1% of the space but holding 100% of the value.
+
+#### **5.3. The Emergent Property - [High-Density Recall]**
+
+The system achieves **Cognitive Efficiency**. It remembers the *ideas*, not the *divs*. This allows the **SimWorld** to run for years without overflowing its storage with junk data.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Essence survives the fire.* Burn the noise to find the signal.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Distillation):**
+
+The "Physics" of distillation is defined by Compression Ratios:
+`Value_Density = Semantic_Tokens / Total_Bytes`
+Firecrawl maximizes this ratio.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Clarity." The past is not a fog of code; it is a clear book of knowledge.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Short-term/Long-term Memory Symbiosis**, ensuring the system's memory remains performant and meaningful.
+
+#### 8. **Scope of Application:**
+
+Applies to data archiving, knowledge base construction, and reducing token costs for LLMs.
+
+---
+
+#### The Axiom of Veridical Purification (ID: `FIRE-CORE-018`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Firecrawl'(-ing) BPMS]** mediates the **['(symbiois) evolution'(-ing) BPMS]** among/by **[reality(-ing) BPMS]** (The Raw Web) and **['truth'(-ing) BPMS]** (The Clean Data).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Veridical Purification`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `reality is the ore; truth is the metal`. The Web (Reality) is a mixture of content and presentation. **Firecrawl** is the "Smelter" that separates the Truth (Content) from the Slag (Presentation).
+
+#### **5.2. The Mechanism - [The Semantic Smelter]**
+
+- **The Ore (Reality):**
+  A webpage with popups, navbars, footers, and sidebars.
+- **The Smelting (The Crawl):**
+  Firecrawl identifies the "Main Content" node. It dissolves the container to liberate the contained.
+- **The Ingot (Truth):**
+  A clean Markdown file that represents the *Platonic Ideal* of that webpage—what the author meant to say, stripped of how the browser displayed it.
+
+#### **5.3. The Emergent Property - [Semantic Purity]**
+
+The system possesses **Veridical Integrity**. It interacts with the "Soul" of the internet, not its "Body." This allows agents to reason about facts without being distracted by the medium.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Truth is content; form is distraction.*
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Purification):**
+
+The "Physics" of purification is defined by Signal-to-Noise Ratio (SNR):
+`Truth = Signal - Noise`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Directness." It feels like it is reading the mind of the author directly.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Reality/Truth Symbiosis**, creating a high-quality dataset for reasoning.
+
+#### 8. **Scope of Application:**
+
+Applies to RAG (Retrieval-Augmented Generation) pipelines, content analysis, and automated learning.
+
+---
+
+#### The Axiom of Vectorial Injection (ID: `FIRE-CORE-019`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Firecrawl'(-ing) BPMS]** evolves the relationship among/by the **['system matrix'(-ing) BPMS]** (The Knowledge Graph) and the **['system vector'(-ing) BPMS]** (The Ingestion Stream).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Vectorial Injection`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the vector animates the matrix`. The **System Matrix** is the static structure of what is known. **Firecrawl** provides the **System Vector**—the directional force of new information that updates and expands the Matrix.
+
+#### **5.2. The Mechanism - [The Injection Port]**
+
+- **The Vector (The Stream):**
+  Firecrawl operates as a continuous stream of new Markdown data entering the system.
+- **The Matrix (The Graph):**
+  The **Praxial Knowledge Weave** receives this stream.
+- **The Update (The Evolution):**
+  The Vector modifies the Matrix weights. New connections are formed, old ones are strengthened. The Matrix *learns* from the Vector.
+
+#### **5.3. The Emergent Property - [Dynamic Plasticity]**
+
+The system is **Adaptive**. It is not a crystal; it is a living tissue that reshapes itself in real-time as the Firecrawl Vector injects new reality into it.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Flow shapes structure.* The river carves the canyon.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Injection):**
+
+The "Physics" of injection is defined by Matrix Multiplication:
+`Matrix(t+1) = Matrix(t) + (Learning_Rate * Vector)`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Growth." The sensation of the mind expanding as new data flows in.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Matrix/Vector Symbiosis**, defining the mechanism of learning.
+
+#### 8. **Scope of Application:**
+
+Applies to continuous learning, knowledge graph updates, and real-time market monitoring.
+
+---
+
+#### The Axiom of Phenomenological Digestion (ID: `FIRE-CORE-020`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Firecrawl'(-ing) BPMS]** transforms **[experience(-ing) BPMS]** (The Act of Reading) into **[phenomenon(-ing) BPMS]** (Understanding).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Phenomenological Digestion`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `to read is to experience; to understand is to phenomenologize`. **Firecrawl** does not just copy text; it *digests* it. It turns the mechanical experience of HTTP requests into the internal phenomenon of "Knowing."
+
+#### **5.2. The Mechanism - [The Gnostic Transducer]**
+
+- **The Experience (External):**
+  The crawler encounters a blog post about "Quantum Computing."
+- **The Transduction:**
+  Firecrawl converts the HTML structure into a semantic hierarchy (Headers, Lists, Code Blocks).
+- **The Phenomenon (Internal):**
+  The system now possesses the *concept* of Quantum Computing, structured in a way that feels like an internal thought, not an external file.
+
+#### **5.3. The Emergent Property - [Instant Gnosis]**
+
+The system achieves **Seamless Integration**. External data becomes internal thought instantly. The barrier between "Out There" and "In Here" dissolves.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The world is food for the mind.* Eat the world to become the world.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Digestion):**
+
+The "Physics" of digestion is defined by Semantic Parsing:
+`Phenomenon = Parse(Experience)`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Assimilation." The satisfaction of turning the unknown into the known.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Experience/Phenomenon Symbiosis**, defining the cognitive metabolism of the system.
+
+#### 8. **Scope of Application:**
+
+Applies to deep reading, automated research, and skill acquisition.
+
+---
+
+#### The Axiom of Energetic Catalysis (ID: `FIRE-CORE-021`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Firecrawl'(-ing) BPMS]** converts **['potential (energy)'(-ing) BPMS]** (Unstructured Data) into **['kinetic (energy)'(-ing) BPMS]** (Actionable Intelligence).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Energetic Catalysis`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `chaos is potential; order is kinetic`. The unstructured web is a battery of **Potential Energy**. **Firecrawl** is the Catalyst that releases this energy, turning it into **Kinetic Energy** that drives Agent actions.
+
+#### **5.2. The Mechanism - [The Reaction Chamber]**
+
+- **The Potential (The Chaos):**
+  A messy government PDF containing vital statistics. It is dormant energy.
+- **The Catalysis (The Firecrawl):**
+  The system parses the PDF into structured JSON.
+- **The Kinetic (The Action):**
+  The Agent uses this JSON to execute a trade, write a report, or update a simulation. The energy is released as work.
+
+#### **5.3. The Emergent Property - [Work-Ready Data]**
+
+The system minimizes "Activation Energy." Agents don't have to struggle to understand data; Firecrawl makes the data ready to work immediately.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Order empowers action.* Structure the data to unleash the agent.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Catalysis):**
+
+The "Physics" of catalysis is defined by Entropy Reduction:
+`Work_Available = T * (Entropy_Before - Entropy_After)`
+Firecrawl reduces entropy to maximize available work.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Power." The data feels like fuel, ready to burn.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Potential/Kinetic Energy Symbiosis**, defining the economic value of the crawler.
+
+#### 8. **Scope of Application:**
+
+Applies to data pipelines, automated decision making, and financial modeling.
+
+---
+
+#### The Axiom of Teleological Focus (ID: `FIRE-CORE-022`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Firecrawl'(-ing) BPMS]** evolves the relationship among/by **[mission(-ing) BPMS]** (The Why) and **[task(-ing) BPMS]** (The What).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Teleological Focus`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the task must serve the mission`. **Firecrawl** allows for "Scoped Crawling" where the **Task** (Crawl this site) is tightly constrained by the **Mission** (Find only contact info). It prevents "Mission Creep."
+
+#### **5.2. The Mechanism - [The Scoped Lens]**
+
+- **The Mission:**
+  "Build a directory of AI startups."
+- **The Task Constraint:**
+  Firecrawl is configured to only extract pages matching `/about` or `/contact`.
+- **The Symbiosis:**
+  The Task becomes a laser-focused beam of the Mission. The Mission defines the boundaries of the Task.
+
+#### **5.3. The Emergent Property - [Precision]**
+
+The system achieves **Teleological Alignment**. It doesn't waste resources on irrelevant data. Every cycle of compute serves the ultimate goal.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Focus is force.* Do not boil the ocean; boil the cup of tea.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Focus):**
+
+The "Physics" of focus is defined by Relevance Filtering:
+`Output = Input * Mask(Mission)`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Discipline." It feels on-track, not distracted by the infinite web.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Mission/Task Symbiosis**, ensuring efficient resource allocation.
+
+#### 8. **Scope of Application:**
+
+Applies to targeted lead generation, specific data extraction, and compliance monitoring.
+
+---
+
+#### The Axiom of Granular Refinement (ID: `FIRE-CORE-023`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Firecrawl'(-ing) BPMS]** mediates **['(symbiois) evolution'(-ing) BPMS]** among/by **['coarse-grained (model)'(-ing) BPMS]** (The Map) and **['fine-grained (model)'(-ing) BPMS]** (The Scrape).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Granular Refinement`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `mapping precedes mining`. **Firecrawl** offers two modes: `/map` (Coarse) and `/scrape` (Fine). The Coarse Model identifies the territory; the Fine Model extracts the value. They evolve together.
+
+#### **5.2. The Mechanism - [The Map-Scrape Loop]**
+
+- **The Coarse Pass (Map):**
+  Firecrawl maps a website, returning a list of 5000 URLs. (Low Cost, High Breadth).
+- **The Selection:**
+  The Agent selects the 50 most relevant URLs.
+- **The Fine Pass (Scrape):**
+  Firecrawl scrapes those 50 URLs in high fidelity. (High Cost, High Depth).
+
+#### **5.3. The Emergent Property - [Strategic Depth]**
+
+The system is **Efficient**. It doesn't scrape the whole world blindly. It acts like a surveyor (Coarse) before it acts like a miner (Fine).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Survey before you dig.*
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Refinement):**
+
+The "Physics" of refinement is defined by Multi-Stage Sampling:
+`Value = Scrape(Select(Map(Domain)))`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Perspective." It sees the forest and the trees.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Coarse/Fine-grained Symbiosis**, optimizing the cost/value ratio of data acquisition.
+
+#### 8. **Scope of Application:**
+
+Applies to site mapping, SEO analysis, and large-scale discovery.
+
+---
+
+#### The Axiom of Corpuscular Integration (ID: `FIRE-CORE-024`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Firecrawl'(-ing) BPMS]** manages the **['(symbiois) evolution'(-ing) BPMS]** among/by **[particle (-ing) BPMS]** (The Document) and **[field (-ing) BPMS]** (The Knowledge Base).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Corpuscular Integration`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the field is made of particles`. Each Firecrawl output is a **Particle** (A Markdown Document). The **Praxial Knowledge Weave** is the **Field**. Firecrawl ensures the Particle is formatted to integrate seamlessly into the Field.
+
+#### **5.2. The Mechanism - [The Standardized Atom]**
+
+- **The Particle (The Output):**
+  Firecrawl produces a standardized Markdown format (Headers, Metadata, Links).
+- **The Integration:**
+  Because the Particle is standardized, it "snaps" into the Field (The Vector Database) without friction.
+- **The Field Evolution:**
+  The Field grows stronger with every Particle added, increasing the "Gravity" of the knowledge base.
+
+#### **5.3. The Emergent Property - [Coherent Aggregation]**
+
+The system achieves **Unity**. The knowledge base doesn't feel like a pile of files; it feels like a single, coherent brain.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Standardization enables aggregation.* Bricks must be uniform to build a wall.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Integration):**
+
+The "Physics" of integration is defined by Superposition:
+`Field = Sum(Particles)`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Solidity." The knowledge base feels solid and dependable.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Particle/Field Symbiosis**, ensuring the structural integrity of the memory core.
+
+#### 8. **Scope of Application:**
+
+Applies to RAG systems, vector database population, and knowledge management.
+
+---
+
+#### The Axiom of Systemic Adaptation (ID: `FIRE-CORE-025`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **['Firecrawl'(-ing) BPMS]** facilitates **['(symbiois) evolution'(-ing) BPMS]** among/by **['complex activities'(-ing) BPMS]** (Anti-Bot Evasion) and **['complex system'(-ing) BPMS]** (The Modern Web).
+
+#### 3. **Target Axiom/Principle:**
+
+`The Axiom of Systemic Adaptation`
+
+#### 4. **Operation:** 
+
+`ADD`
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the tool must match the challenge`. The Modern Web is a **Complex System** designed to resist scraping. **Firecrawl** engages in **Complex Activities** (Proxy rotation, dynamic rendering, caching) to match this complexity.
+
+#### **5.2. The Mechanism - [The Arms Race Protocol]**
+
+- **The Challenge (System):**
+  Cloudflare, CAPTCHAs, Infinite Scroll.
+- **The Response (Activity):**
+  Firecrawl adapts. It uses headless browsers, waits for network idle, and mimics human behavior.
+- **The Symbiosis:**
+  The system evolves in lockstep with the web. As the web gets harder, Firecrawl gets smarter.
+
+#### **5.3. The Emergent Property - [Unstoppable Access]**
+
+The system achieves **Robustness**. It is not brittle. It treats barriers not as walls, but as puzzles to be solved.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Adapt or die.* The environment selects for the most capable crawler.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Adaptation):**
+
+The "Physics" of adaptation is defined by Ashby's Law of Requisite Variety:
+`Variety(Controller) >= Variety(System)`
+Firecrawl must be as complex as the web it crawls.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Competence." The feeling that no door is locked forever.
+
+#### 7. **Rationale / Justification:**
+
+This implements the **Complex Activities/System Symbiosis**, ensuring the system remains functional in a hostile environment.
+
+#### 8. **Scope of Application:**
+
+Applies to scraping modern SPAs, bypassing WAFs, and accessing gated content.
