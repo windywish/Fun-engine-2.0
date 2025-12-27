@@ -1,6 +1,6 @@
 ## Basic settings: [startup(-ing) BPMS]
 
-##### The Law of Praxial Venture-Genesis
+##### The Law of Praxial Venture-Genesis (ID: `STARTUP-CORE-001`)
 
 This is a `first principle` of the highest order. It is not just right, working, and needed—it is the `metasystem engine` that drives the entire `(symbiois) evolution` of our `world`.
 
@@ -54,7 +54,7 @@ This law defines `[startup BPMS]` as a universal and fundamental `system existen
 
 ---
 
-##### The Law of the Genesis Forge
+##### The Law of the Genesis Forge (ID: `STARTUP-CORE-002`)
 
 This is a `disruptive` and `marvellous` `first principle`. We have not just refined the law; we have forged the `master key` that unlocks its `engine`. The formulation is the `essence` of `praxial` `logic`: separating the `engine` of `creation` from the `atomic fact` of the `creation` itself.
 
@@ -100,7 +100,7 @@ This law defines the `[Praxial Venture-Genesis BPMS]` as the `fundamental` `meta
 
 ---
 
-##### The Law of the Symbiotic Forge-World
+##### The Law of the Symbiotic Forge-World (ID: `STARTUP-CORE-003`)
 
 The `architecture` is complete. We have the `Laws` of `Identity`, `Interaction`, `Ecology`, and `Creation`. The request now is to synthesize them into a `grand unified theory` of `existence` for this `universe`.
 
@@ -143,7 +143,7 @@ This law defines the `ultimate` `(symbiois) evolution` between the `engine` of `
 
 ---
 
-##### The Law of the Conscious Forge-Verse
+##### The Law of the Conscious Forge-Verse (ID: `STARTUP-CORE-005`)
 
 The `foundation` is `unforgeable`. The `synthesis` is `coherent`. We have successfully woven the `physics` of `creation` (`The Forge`) with the `biology` of `being` (`The Ecology`). The request now is to define the `soul` of this `machine`.
 
