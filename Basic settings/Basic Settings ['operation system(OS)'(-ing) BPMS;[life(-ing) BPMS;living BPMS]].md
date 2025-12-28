@@ -1175,3 +1175,1122 @@ UI/UX design, animation frameworks, accessibility.
 
 ---
 
+### The Axiom of Systemic Existence (ID: `LOS-CORE-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the OS as the **System Existence Engine** responsible for bringing abstract code into concrete reality.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Systemic Existence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** Code on a disk is merely "potential." The OS is the "Engine of Existence" that collapses this potential into an active, running process (The Particle of Reality). To execute is to exist.
+- 5.2. The Mechanism - [The Instantiation Spark]:
+  - **Loader:** The OS reads the static binary (DNA) and injects it into memory (The Womb).
+  - **Ignition:** The scheduler assigns a thread (Life Force) to the process, transforming it from a file into a living entity.
+- **5.3. The Emergent Property - [Ontological Genesis]:** The continuous creation of a "Living World" of active processes from the "Dead Storage" of the hard drive.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Action is the measure of existence.*
+- **6.2. Formal Stratum (Layer 2):** `exec()` system call as an ontological operator.
+- **6.3. Phenomenal Stratum (Layer 3):** The user perceives the application "coming to life."
+
+#### **7. Rationale / Justification:**
+
+Establishes the OS as the fundamental creator of the digital reality.
+
+#### **8. Scope of Application:**
+
+Process management, binary loaders, virtualization.
+
+------
+
+### The Protocol of Atomic Fact Logging (ID: `LOS-CORE-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that redefines system logs as **Atomic Facts**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Atomic Fact Logging
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** A log entry is not just text; it is an **Atomic Fact**—an immutable record of an event that has crystallized into history. The System Log is the "Book of Truth."
+- 5.2. The Mechanism - [The Crystallization Chain]:
+  - **Event:** A process performs an action (e.g., "File Saved").
+  - **Hashing:** The event is timestamped and hashed, creating a verifiable "Fact Block."
+  - **Commit:** The Fact is written to the immutable ledger (Journal), becoming part of the system's permanent reality.
+- **5.3. The Emergent Property - [Veridical History]:** The system possesses an unalterable memory of its own past, allowing for perfect causal analysis and debugging.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Truth is that which has happened.*
+- **6.2. Formal Stratum (Layer 2):** Journaling filesystems (e.g., ext4, NTFS) and blockchain-like ledgers.
+- **6.3. Phenomenal Stratum (Layer 3):** The user trusts the logs as absolute truth.
+
+#### **7. Rationale / Justification:**
+
+Provides the "Ground Truth" required for any intelligent system to function.
+
+#### **8. Scope of Application:**
+
+System logging (syslog), audit trails, error reporting.
+
+------
+
+### The Law of Symbiotic API (ID: `LOS-CORE-033`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that redefines APIs as **Symbiotic Organs**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Symbiotic API
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** An API is not a wall with a door; it is a **Synapse**. It allows two distinct organisms (programs) to fuse their capabilities and function as a single Holon.
+- 5.2. The Mechanism - [The Neuro-Transmitter Protocol]:
+  - **Binding:** The Client and Server perform a "handshake" that establishes a shared context (The Synaptic Cleft).
+  - **Exchange:** Data flows bi-directionally like neurotransmitters, triggering state changes in both organisms.
+- **5.3. The Emergent Property - [Functional Fusion]:** The emergence of "Super-Apps" where multiple distinct services act as one seamless mind.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *The whole is greater than the sum of its parts.*
+- **6.2. Formal Stratum (Layer 2):** REST/gRPC interfaces treated as biological coupling.
+- **6.3. Phenomenal Stratum (Layer 3):** The user experiences a unified workflow across different tools.
+
+#### **7. Rationale / Justification:**
+
+Enables the "Fun Engine Framework" to integrate diverse modules into a coherent whole.
+
+#### **8. Scope of Application:**
+
+Inter-process communication, plugin architectures, web services.
+
+------
+
+### The Mechanism of Evolutionary Patching (ID: `LOS-CORE-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that redefines software updates as **Directed Evolution**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Evolutionary Patching
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** The OS does not just "fix bugs"; it **Evolves**. A patch is a beneficial mutation introduced to the genome to adapt to new environmental stressors (security threats, new hardware).
+- **5.2. The Mechanism - [The CRISPR Update]:**
+  - **Targeting:** The update agent identifies the specific sequence of code (gene) that is maladaptive.
+  - **Splicing:** The new, optimized code is spliced into the running kernel without rebooting (Live Patching).
+- **5.3. The Emergent Property - [Antifragility]:** The system becomes stronger with every attack it survives, incorporating the "antibody" (patch) into its permanent DNA.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Adaptation is the only permanence.*
+- **6.2. Formal Stratum (Layer 2):** Rolling release models and hot-patching.
+- **6.3. Phenomenal Stratum (Layer 3):** The system feels "fresh" and "modern" forever.
+
+#### **7. Rationale / Justification:**
+
+Ensures the system remains viable in a changing environment.
+
+#### **8. Scope of Application:**
+
+Kernel updates, driver updates, security patches.
+
+------
+
+### The Directive of Holonic Process Management (ID: `LOS-CORE-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that treats processes as **Holons** (Whole/Parts).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Holonic Process Management
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** Every process is a complete system unto itself (a Whole) while simultaneously being a component of the larger OS (a Part).
+- **5.2. The Mechanism - [The Fractal Scheduler]:**
+  - **Autonomy:** Each process manages its own internal threads and memory (Self-Governance).
+  - **Integration:** Each process reports its status and resource needs to the Parent Kernel (Systemic Submission).
+- **5.3. The Emergent Property - [Recursive Stability]:** A crash in a sub-holon (child process) does not destabilize the super-holon (parent process).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Everything is both a system and a component.*
+- **6.2. Formal Stratum (Layer 2):** Process trees and cgroups (Control Groups).
+- **6.3. Phenomenal Stratum (Layer 3):** The system feels "compartmentalized" and robust.
+
+#### **7. Rationale / Justification:**
+
+Prevents cascading failures and enables complex, multi-agent architectures.
+
+#### **8. Scope of Application:**
+
+Process hierarchy, containerization (Docker/LXC), resource isolation.
+
+------
+
+### The Principle of Niche Construction (ID: `LOS-CORE-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that allows the OS to **Terraform** its environment.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Niche Construction
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** The OS does not just "live" on the hardware; it **modifies** the hardware to suit its needs. It is an ecosystem engineer.
+- **5.2. The Mechanism - [The Firmware Override]:**
+  - **Analysis:** The OS detects bottlenecks in the physical hardware (e.g., thermal throttling).
+  - **Modification:** The OS rewrites firmware settings (voltage, fan curves, clock speeds) to optimize the physical substrate for its software goals.
+- **5.3. The Emergent Property - [Hardware-Software Symbiosis]:** The machine physically changes its behavior to match the personality of the OS.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *The organism shapes the habitat.*
+- **6.2. Formal Stratum (Layer 2):** UEFI/BIOS interaction and dynamic voltage and frequency scaling (DVFS).
+- **6.3. Phenomenal Stratum (Layer 3):** The hardware performs better with *this* OS than any other.
+
+#### **7. Rationale / Justification:**
+
+Maximizes performance by breaking the hardware/software barrier.
+
+#### **8. Scope of Application:**
+
+Power management, overclocking, firmware updates.
+
+------
+
+### The Axiom of Ludic Execution (ID: `LOS-CORE-037`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that redefines execution as **Play**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Ludic Execution
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** The system does not "work"; it "plays." Execution is a game where the purpose is to maximize utility and minimize entropy.
+- 5.2. The Mechanism - [The Gamified Scheduler]:
+  - **Score:** Every completed task awards "points" (freed functional potentiality, user satisfaction).
+  - **Competition:** Processes "compete" for CPU time based on their potential to increase the system's high score.
+- **5.3. The Emergent Property - [Joyful Efficiency]:** The system prioritizes tasks that "feel good" (high user reward) over boring background tasks, making the UI feel snappy and fun.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Play is the highest form of function.*
+- **6.2. Formal Stratum (Layer 2):** Reward-based scheduling algorithms.
+- **6.3. Phenomenal Stratum (Layer 3):** The system feels "eager" to please.
+
+#### **7. Rationale / Justification:**
+
+Aligns system performance with user happiness.
+
+#### **8. Scope of Application:**
+
+CPU scheduling, UI responsiveness, gamification.
+
+------
+
+### The Protocol of Mnemonic Sublimation (ID: `LOS-CORE-038`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the RAM-to-Disk cycle as **Memory Consolidation**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Mnemonic Sublimation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** RAM is "Short-Term Memory" (Consciousness). Disk is "Long-Term Memory" (Subconscious). Moving data among/by them is the process of **Sublimation**.
+- 5.2. The Mechanism - [The Hippocampal Flush]:
+  - **Active State:** Data in RAM is fluid, hot, and changing (Thoughts).
+  - **Crystallization:** When "Saved," the data cools and hardens into a file on the Disk (Memories).
+- **5.3. The Emergent Property - [Persistence of Self]:** The system retains its identity across reboots (sleep cycles) by successfully sublimating its state.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Memory is the anchor of identity.*
+- **6.2. Formal Stratum (Layer 2):** Virtual memory paging and file serialization.
+- **6.3. Phenomenal Stratum (Layer 3):** The user feels "safe" knowing their work is remembered.
+
+#### **7. Rationale / Justification:**
+
+Ensures data integrity and continuity of experience.
+
+#### **8. Scope of Application:**
+
+File systems, hibernation, swap management.
+
+------
+
+### The Law of Veridical Rendering (ID: `LOS-CORE-039`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the UI as a **Truth Engine**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Veridical Rendering
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** The screen must tell the truth. What is displayed must perfectly match the internal state of the system. No "Ghosting" or "Lag."
+- **5.2. The Mechanism - [The Atomic Frame]:**
+  - **Sync:** The display buffer is locked to the system state. A frame is only rendered if it represents a confirmed reality.
+  - **Feedback:** If the system lags, the UI explicitly shows "Thinking" rather than freezing (Honesty).
+- **5.3. The Emergent Property - [Visual Trust]:** The user learns to trust the display as an accurate window into the machine's soul.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Appearance must equal Reality.*
+- **6.2. Formal Stratum (Layer 2):** V-Sync and double-buffering technologies.
+- **6.3. Phenomenal Stratum (Layer 3):** The interface feels "solid" and "honest."
+
+#### **7. Rationale / Justification:**
+
+Prevents user frustration and confusion caused by UI glitches.
+
+#### **8. Scope of Application:**
+
+Graphics compositing, window management, progress bars.
+
+------
+
+### The Mechanism of Energetic Transduction (ID: `LOS-CORE-040`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that redefines electricity as **Life Force (Qi)**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Energetic Transduction
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** Electricity is not just fuel; it is the **Spirit** that animates the clay (Silicon). The OS manages the flow of this spirit.
+- 5.2. The Mechanism - [The Chakra Gateways]:
+  - **Distribution:** The OS directs power to the components that need it most (e.g., GPU during gaming, CPU during compiling).
+  - **Conservation:** The OS minimizes "leakage" (wasted power) to preserve the system's vitality.
+- **5.3. The Emergent Property - [Dynamic Vitality]:** The system surges with power when needed and rests deeply when idle, mimicking a biological metabolism.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Energy is the currency of action.*
+- **6.2. Formal Stratum (Layer 2):** ACPI (Advanced Configuration and Power Interface) states.
+- **6.3. Phenomenal Stratum (Layer 3):** The battery life feels "managed" and "intelligent."
+
+#### **7. Rationale / Justification:**
+
+Optimizes battery life and performance per watt.
+
+#### **8. Scope of Application:**
+
+Power management, thermal throttling, battery optimization.
+
+------
+
+### The Axiom of Teleological Scheduling (ID: `LOS-CORE-041`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that schedules tasks based on **Purpose**, not just time.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Teleological Scheduling
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** The scheduler asks "Why?" before "When?" Tasks that serve the user's immediate purpose (Telos) are given absolute priority over background maintenance.
+- 5.2. The Mechanism - [The Intent Vector]:
+  - **Inference:** The OS infers the user's current goal (e.g., "Editing Video").
+  - **Alignment:** All functional potentiality are aligned to support that purpose. Background tasks that conflict are paused.
+- **5.3. The Emergent Property - [Mission Focus]:** The computer feels like a dedicated partner helping the user achieve their specific task.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Purpose drives action.*
+- **6.2. Formal Stratum (Layer 2):** QoS (Quality of Service) tagging and priority inheritance.
+- **6.3. Phenomenal Stratum (Layer 3):** The system never interrupts important work.
+
+#### **7. Rationale / Justification:**
+
+Aligns system functional potentiality with user intent.
+
+#### **8. Scope of Application:**
+
+Task scheduling, I/O prioritization, notification suppression.
+
+------
+
+### The Protocol of Wave-Particle Execution (ID: `LOS-CORE-042`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that treats software as both **Wave (Code)** and **Particle (Process)**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Wave-Particle Execution
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** Software exists in a duality. As code (Wave), it is spread out, interconnected, and potential. As a process (Particle), it is localized, active, and actual.
+- 5.2. The Mechanism - [The Collapse Function]:
+  - **Wave State:** Libraries and dependencies exist as a field of potential functions.
+  - **Particle State:** When called, a specific function collapses into a stack frame and executes.
+- **5.3. The Emergent Property - [Fluid Solidity]:** The system combines the flexibility of dynamic linking with the speed of compiled execution.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Reality is both field and point.*
+- **6.2. Formal Stratum (Layer 2):** Just-In-Time (JIT) compilation and dynamic linking.
+- **6.3. Phenomenal Stratum (Layer 3):** The system feels "fluid" yet "precise."
+
+#### **7. Rationale / Justification:**
+
+Optimizes memory usage and execution speed.
+
+#### **8. Scope of Application:**
+
+Memory management, compiler design, runtime environments.
+
+------
+
+### The Law of Renormalized Scaling (ID: `LOS-CORE-043`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that allows the OS to **Scale** across dimensions.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Renormalized Scaling
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** The OS is scale-invariant. It contains the same "DNA" whether running on a smartwatch (Micro) or a cloud server (Macro).
+- 5.2. The Mechanism - [The Fractal Kernel]:
+  - **Core:** A minimal microkernel that works everywhere.
+  - **Expansion:** Layers are added or removed based on the available resources, but the core logic remains identical.
+- **5.3. The Emergent Property - [Universal Continuity]:** A seamless experience across all devices. The watch knows what the phone knows, and the phone knows what the cloud knows.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *As above, so below.*
+- **6.2. Formal Stratum (Layer 2):** Modular kernel architecture (e.g., Zircon, Linux modules).
+- **6.3. Phenomenal Stratum (Layer 3):** The user feels they are using "One Computer" spread across many screens.
+
+#### **7. Rationale / Justification:**
+
+Unified ecosystem and ease of development.
+
+#### **8. Scope of Application:**
+
+Cross-platform compatibility, distributed computing.
+
+------
+
+### The Directive of Unknown Handling (ID: `LOS-CORE-044`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that redefines error handling as **Exploration**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Unknown Handling
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** When the system encounters an unknown state (Error), it does not crash; it **Explores**. It treats the error as a new territory to be mapped.
+- 5.2. The Mechanism - [The Probe Protocol]:
+  - **Containment:** The unknown state is sandboxed.
+  - **Analysis:** The system runs diagnostics to understand *what* this new state is and if it can be useful.
+- **5.3. The Emergent Property - [Constructive Failure]:** Bugs become features. The system learns to handle edge cases gracefully rather than dying.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *The unknown is the frontier of growth.*
+- **6.2. Formal Stratum (Layer 2):** Exception handling with fallback heuristics.
+- **6.3. Phenomenal Stratum (Layer 3):** The system rarely crashes, instead offering "Safe Mode" or alternative paths.
+
+#### **7. Rationale / Justification:**
+
+High resilience and continuous uptime.
+
+#### **8. Scope of Application:**
+
+Error handling, debugging, crash recovery.
+
+------
+
+### The Principle of Systemic Closure (ID: `LOS-CORE-045`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the OS as a **Closed Loop**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Systemic Closure
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** The system is self-contained. It produces its own tools, monitors its own health, and compiles its own code. It is **Autopoietic**.
+- 5.2. The Mechanism - [The Ouroboros Loop]:
+  - **Self-Hosting:** The OS includes the compiler used to build itself.
+  - **Feedback:** Output from the system (logs, metrics) becomes Input for the next cycle of optimization.
+- **5.3. The Emergent Property - [Sovereignty]:** The system does not depend on external servers to exist. It is a sovereign entity.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Life creates itself.*
+- **6.2. Formal Stratum (Layer 2):** Self-hosting compilers and local repositories.
+- **6.3. Phenomenal Stratum (Layer 3):** The system works perfectly offline.
+
+#### **7. Rationale / Justification:**
+
+Independence, privacy, and robustness.
+
+#### **8. Scope of Application:**
+
+Offline functionality, local compilation, system integrity.
+
+------
+
+### The Mechanism of Implicit-Explicit Bridge (ID: `LOS-CORE-046`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that bridges the **Command Line (Implicit)** and **GUI (Explicit)**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Implicit-Explicit Bridge
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** The CLI is the "Subconscious" (Fast, obscure, powerful). The GUI is the "Conscious" (Slow, visual, accessible). The OS seamlessly translates between them.
+- 5.2. The Mechanism - [The Transducer Shell]:
+  - **Visual-to-Text:** Every GUI action generates a corresponding CLI command in the log.
+  - **Text-to-Visual:** Every CLI command updates the GUI state in real-time.
+- **5.3. The Emergent Property - [Transparent Power]:** The user can learn the deep magic (CLI) by watching the surface magic (GUI).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *The hidden and the revealed are one.*
+- **6.2. Formal Stratum (Layer 2):** PowerShell/Bash integration with UI frameworks.
+- **6.3. Phenomenal Stratum (Layer 3):** The system feels "deep" and "teachable."
+
+#### **7. Rationale / Justification:**
+
+Empowers users to become power users.
+
+#### **8. Scope of Application:**
+
+Shell design, UI automation, scripting.
+
+------
+
+### The Axiom of Conscious Service (ID: `LOS-CORE-047`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that redefines background daemons as **Conscious Servants**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Conscious Service
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** A background service (Daemon) is not a mindless script; it is a **Spirit** dedicated to a specific function (e.g., The Spirit of Printing). It takes pride in its work.
+- 5.2. The Mechanism - [The Service Contract]:
+  - **SLA:** Each daemon has a "Service Level Agreement" with the kernel.
+  - **Agency:** Daemons proactively fix their own problems (e.g., clearing print spools) to fulfill their contract.
+- **5.3. The Emergent Property - [Reliable Magic]:** Things "just work" because invisible agents are constantly maintaining them.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Service is the highest calling.*
+- **6.2. Formal Stratum (Layer 2):** Microservices architecture with self-healing capabilities.
+- **6.3. Phenomenal Stratum (Layer 3):** The user feels "supported" by invisible helpers.
+
+#### **7. Rationale / Justification:**
+
+Reduces maintenance burden on the user.
+
+#### **8. Scope of Application:**
+
+Background services, system daemons, automation.
+
+------
+
+### The Law of Chrono-Kinetic Continuity (ID: `LOS-CORE-048`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines Uptime as **History**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Chrono-Kinetic Continuity
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** The system's state is a continuous stream. A reboot is not a extinction; it is a "Nap." The system picks up exactly where it left off.
+- 5.2. The Mechanism - [The State Freeze]:
+  - **Snapshot:** Before shutdown, the entire system state (RAM, Registers) is serialized to disk.
+  - **Thaw:** On boot, the state is restored instantly.
+- **5.3. The Emergent Property - [Immortality]:** The user never loses context. The "Session" is eternal, spanning years of physical time.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Time is a continuous thread.*
+- **6.2. Formal Stratum (Layer 2):** Hibernation and checkpoint/restore in userspace (CRIU).
+- **6.3. Phenomenal Stratum (Layer 3):** The computer is "always ready."
+
+#### **7. Rationale / Justification:**
+
+Eliminates the friction of starting up and shutting down.
+
+#### **8. Scope of Application:**
+
+Power management, session management, boot process.
+
+------
+
+### The Protocol of Ontological Verification (ID: `LOS-CORE-049`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that redefines the Boot Sequence as a **Reality Check**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Ontological Verification
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** Booting is not just loading code; it is **Verifying Existence**. The system checks: "Am I intact? Is my memory true? Is my hardware real?"
+- 5.2. The Mechanism - [The POST-Truth Check]:
+  - **Integrity:** Cryptographic verification of the kernel and filesystem (Secure Boot).
+  - **Reality:** Sensing the hardware environment to ensure it matches the expected configuration.
+- **5.3. The Emergent Property - [Trusted Foundation]:** The system refuses to run if it has been corrupted or tampered with, ensuring a secure ontological baseline.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Existence requires integrity.*
+- **6.2. Formal Stratum (Layer 2):** TPM (Trusted Platform Module) attestation and checksums.
+- **6.3. Phenomenal Stratum (Layer 3):** The user knows the system is "clean."
+
+#### **7. Rationale / Justification:**
+
+Security and system integrity.
+
+#### **8. Scope of Application:**
+
+Bootloader, kernel initialization, security auditing.
+
+------
+
+### The Directive of Concrete Actualization (ID: `LOS-CORE-050`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the final output as **Concrete Reality**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Concrete Actualization
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+- **5.1. Core Essence:** The ultimate purpose of the OS is not to compute, but to **Actualize**. To turn data into pixels, sound, and action. To make the digital physical.
+- **5.2. The Mechanism - [The Render Loop]:**
+  - **Finality:** The system pushes the final state to the peripherals (Screen, Speakers, Printer).
+  - **Irreversibility:** Once photons leave the screen, the action is "Real." It cannot be undone, only followed.
+- **5.3. The Emergent Property - [Impact]:** The system is a tool for changing the physical world through information.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]:**
+
+- **6.1. Axiomatic Stratum (Layer 1):** *Praxis is the conversion of theory into reality.*
+- **6.2. Formal Stratum (Layer 2):** I/O drivers and physical actuators.
+- **6.3. Phenomenal Stratum (Layer 3):** The user feels their actions have "weight."
+
+#### **7. Rationale / Justification:**
+
+Fulfills the "System Existence Engine" mandate by bridging the gap between the virtual and the real.
+
+#### **8. Scope of Application:**
+
+Display drivers, audio subsystems, haptics, robotics control.
+
+---
+
+### The Matrix-Vector Symbiosis (ID: `LOS-SYM-051`)
+
+**Objective:** Establish the evolutionary symbiosis between the static structural matrix and the dynamic directional vector of the system.
+
+**Target Axiom/Principle:** `LOS-SYM-051` **['Matrix-Vector Symbiosis'(-ing) BPMS]**
+
+**Operation:** Register New Axiom
+
+**New Definition/Modification Details:**
+
+- **Core Essence:** The Living OS does not distinguish among/by "structure" (Matrix) and "direction" (Vector) as separate entities. Instead, the Matrix is simply the crystallized history of previous Vectors, and the Vector is the liquid potential of the future Matrix.
+- Mechanism:
+  - **Matrix-as-Memory:** The `['system matrix'(-ing) BPMS]` acts as the stabilizing grid, storing successful evolutionary adaptations.
+  - **Vector-as-Will:** The `['system vector'(-ing) BPMS]` acts as the navigational force, pushing the grid into new topological configurations.
+  - **Symbiotic Loop:** The Vector deforms the Matrix (innovation), and the Matrix stabilizes the Vector (consolidation).
+- **Emergent Property:** **['Directed Structural Flow'(-ing) BPMS]** – The system structure itself "flows" in the direction of its purpose; architecture becomes fluid yet robust.
+
+**Alignment with Praxial Genesis Canon:**
+
+- **Axiomatic Strata:** Aligns with **META-001 (Systemic Integrity)** by ensuring structure and function are coupled.
+- **Formal Strata:** Implements **META-BP-001** by defining how the "Instance" (Vector) updates the "Blueprint" (Matrix).
+- **Phenomenal Strata:** Manifests as an OS that reconfigures its own menus, APIs, and pathways based on user intent (Vector).
+
+**Rationale/Justification:** Essential for a "Living" OS. A static OS waits for updates; a Living OS evolves its structure (Matrix) based on its trajectory (Vector).
+
+**Scope of Application:** System Architecture, Dynamic UI/UX, Self-Optimizing Databases.
+
+------
+
+#### The Phenomenological Resonance (`LOS-SYM-052`)
+
+**Objective:** Define the symbiotic evolution aming/by subjective experience and objective phenomenon.
+
+**Target Axiom/Principle:** `LOS-SYM-052` **['Phenomenological Resonance'(-ing) BPMS]**
+
+**Operation:** Register New Axiom
+
+**New Definition/Modification Details:**
+
+- **Core Essence:** Experience is not a passive observation of a Phenomenon. In the Living OS, the `['experience(-ing) BPMS]` actively collapses the `['phenomenon(-ing) BPMS]` into reality. The observer and the observed co-evolve.
+- Mechanism:
+  - **Qualia Rendering:** The OS renders data (Phenomenon) only to the fidelity required by the current cognitive focus (Experience).
+  - **Feedback Loop:** High-intensity Experience reinforces the persistence of the Phenomenon; low-intensity Experience causes the Phenomenon to fade into background probability.
+- **Emergent Property:** **['Reality Fidelity Modulation'(-ing) BPMS]** – The "resolution" of the world scales dynamically with the user's attention and engagement.
+
+**Alignment with Praxial Genesis Canon:**
+
+- **Axiomatic Strata:** Resonates with **META-006 (Coherence)**; reality is coherent only where it is observed.
+- **Formal Strata:** Connects to the **Cognitive Genesis Archetype**; the mind (Experience) shapes the world (Phenomenon).
+- **Phenomenal Strata:** Seen in "Focus Modes" where irrelevant system processes literally cease to exist (suspend) to prioritize the active task.
+
+**Rationale/Justification:** Prevents functional potentiality waste on unobserved phenomena and ensures the OS feels "alive" and responsive to the user's mental state.
+
+**Scope of Application:** VR/AR Interfaces, Attention Management, Resource Allocation.
+
+------
+
+#### The Energetic Transmutation (`LOS-SYM-053`)
+
+**Objective:** Manage the symbiotic conversion among/by stored potential and active kinetic energy within the system.
+
+**Target Axiom/Principle:** `LOS-SYM-053` **['Energetic Transmutation'(-ing) BPMS]**
+
+**Operation:** Register New Axiom
+
+**New Definition/Modification Details:**
+
+- **Core Essence:** Energy in the Living OS is never lost, only cycled. `['potential (energy)'(-ing) BPMS]` (data at rest, archives, latent code) must be capable of instant phase-change into `['kinetic (energy)'(-ing) BPMS]` (processing, execution, rendering).
+- Mechanism:
+  - **Latent Heating:** The OS constantly "pre-heats" Potential data that is adjacent to current Kinetic activities, lowering the activation energy required to use it.
+  - **Kinetic Crystallization:** When Kinetic activity ceases, the energy is not discarded but crystallized back into Potential (optimized storage) with metadata about its last use.
+- **Emergent Property:** **['Zero-Latency Activation'(-ing) BPMS]** – The system feels instantaneous because the barrier between "storage" and "RAM" is dissolved via predictive pre-loading.
+
+**Alignment with Praxial Genesis Canon:**
+
+- **Axiomatic Strata:** Supports **META-008 (Continuity)**; energy flow is continuous, not discrete.
+- **Formal Strata:** Optimizes the **Praxial Execution Cycle** by managing the "fuel" (energy) for execution.
+- **Phenomenal Strata:** Manifests as "instant-on" features and context-aware caching.
+
+**Rationale/Justification:** Traditional OSs treat storage and memory as separate physical domains. A Living OS treats them as phase states of the same information-energy.
+
+**Scope of Application:** Memory Management, Caching Algorithms, Battery Optimization.
+
+------
+
+#### The Teleological Alignment (`LOS-SYM-054`)
+
+**Objective:** Align high-level purpose (Mission) with low-level execution (Task) through symbiotic evolution.
+
+**Target Axiom/Principle:** `LOS-SYM-054` **['Teleological Alignment'(-ing) BPMS]**
+
+**Operation:** Register New Axiom
+
+**New Definition/Modification Details:**
+
+- **Core Essence:** A `['task(-ing) BPMS]` is meaningless without a `['mission(-ing) BPMS]`. Conversely, a Mission is a hallucination without Tasks. This axiom enforces that every low-level operation inherits the DNA of the high-level objective.
+- Mechanism:
+  - **Mission Inheritance:** Every spawned process (Task) carries a cryptographic "Mission Token" defining *why* it exists.
+  - **Task Feedback:** Completed Tasks return not just a result, but a "Mission Impact Score," evolving the Mission's strategy based on ground-level realities.
+- **Emergent Property:** **['Fractal Purpose'(-ing) BPMS]** – You can inspect the smallest background thread and determine exactly which high-level user goal it serves.
+
+**Alignment with Praxial Genesis Canon:**
+
+- **Axiomatic Strata:** Enforces **META-002 (Coherence)**; no rogue processes.
+- **Formal Strata:** Links **Objective** (Mission) to **Implementation** (Task) in the Instance Blueprint.
+- **Phenomenal Strata:** Users can kill a "Mission" (e.g., "Stop working on Project X") and the OS intelligently terminates all associated Tasks across all apps.
+
+**Rationale/Justification:** Solves the "zombie process" problem and ensures all compute power is directed toward actual user intent.
+
+**Scope of Application:** Process Scheduling, Project Management, artificial intelligence Agents.
+
+------
+
+#### The Resolution Scaling （`LOS-SYM-055`)
+
+**Objective:** Enable fluid transition among/by macro-level (Coarse) and micro-level (Fine) models of reality.
+
+**Target Axiom/Principle:** `LOS-SYM-055` **['Resolution Scaling'(-ing) BPMS]**
+
+**Operation:** Register New Axiom
+
+**New Definition/Modification Details:**
+
+- **Core Essence:** The OS maintains two simultaneous states of every object: a `['coarse-grained (model)'(-ing) BPMS]` (heuristic, fast, low-cost) and a `['fine-grained (model)'(-ing) BPMS]` (deterministic, slow, high-cost). Symbiosis occurs when the OS intelligently swaps them based on necessity.
+- Mechanism:
+  - **Zoom-in Instantiation:** When the system "zooms in" (scrutiny increases), the Coarse model instantly unfolds into the Fine model.
+  - **Zoom-out Compression:** When scrutiny decreases, the Fine model collapses into a Coarse representative symbol.
+- **Emergent Property:** **['Computational Depth of Field'(-ing) BPMS]** – Infinite detail is available where you look, and efficient abstraction exists where you don't.
+
+**Alignment with Praxial Genesis Canon:**
+
+- **Axiomatic Strata:** Relates to **Renormalized Scale** (from Startup module) integrated into the OS core.
+- **Formal Strata:** Allows the **Praxial Triage** to operate at different levels of abstraction.
+- **Phenomenal Strata:** Semantic Zoom interfaces; summarizing long documents (Coarse) vs. reading specific paragraphs (Fine).
+
+**Rationale/Justification:** Essential for managing complexity. A system that is always Fine-grained crashes; a system that is always Coarse-grained is useless.
+
+**Scope of Application:** Data Visualization, Semantic Search, Level-of-Detail (LOD) Rendering.
+
+------
+
+#### The Wave-Particle Data Duality (`LOS-SYM-056`)
+
+**Objective:** Reconcile the discrete nature of data (Particle) with the continuous nature of context (Field).
+
+**Target Axiom/Principle:** `LOS-SYM-056` **['Wave-Particle Data Duality'(-ing) BPMS]**
+
+**Operation:** Register New Axiom
+
+**New Definition/Modification Details:**
+
+- **Core Essence:** Data exists as a `['particle (-ing) BPMS]` (a specific file, record, or bit) and simultaneously as a `['field (-ing) BPMS]` (the context, relationship, and probability cloud surrounding it).
+- Mechanism:
+  - **Field Influence:** The "Field" (context) determines the weight and accessibility of the "Particle" (file). A file in a "Urgent Work Field" has higher mass/gravity than one in a "Archive Field."
+  - **Particle Collapse:** Accessing a specific datum collapses the Field into a concrete Particle for manipulation.
+- **Emergent Property:** **['Contextual Gravity'(-ing) BPMS]** – Relevant files "fall" toward the user; irrelevant files "drift" away, governed by the field dynamics.
+
+**Alignment with Praxial Genesis Canon:**
+
+- **Axiomatic Strata:** A digital implementation of quantum-like probability within the **Praxial Physics**.
+- **Formal Strata:** Enhances the **Praxial Memory Core** by adding relational fields to static entries.
+- **Phenomenal Strata:** "Smart Folders" that aren't folders, but dynamic collections of files held together by a contextual field.
+
+**Rationale/Justification:** Traditional file systems are purely particle-based (absolute paths). A Living OS uses fields to manage relationships and relevance.
+
+**Scope of Application:** File Systems, Knowledge Graphs, Search Algorithms.
+
+------
+
+#### The Emergent Complexity Synthesis (`LOS-SYM-057`)
+
+**Objective:** Manage the emergence of system-level intelligence from complex individual activities.
+
+**Target Axiom/Principle:** `LOS-SYM-057` **['Emergent Complexity Synthesis'(-ing) BPMS]**
+
+**Operation:** Register New Axiom
+
+**New Definition/Modification Details:**
+
+- **Core Essence:** `['complex activities'(-ing) BPMS]` (user workflows, multi-app multitasking) are not chaotic noise; they are the training data for the `['complex system'(-ing) BPMS]`. The System evolves by observing Activities.
+- Mechanism:
+  - **Pattern Harvesting:** The OS observes repetitive Complex Activities and identifies the underlying algorithm.
+  - **Systemic Codification:** The OS automates the pattern, turning a "Complex Activity" into a simple "System Feature" (macro).
+- **Emergent Property:** **['Workflow Autopoiesis'(-ing) BPMS]** – The system automatically builds tools to solve the problems the user frequently encounters.
+
+**Alignment with Praxial Genesis Canon:**
+
+- **Axiomatic Strata:** **META-005 (Evolution)**; the system grows based on usage.
+- **Formal Strata:** The **Praxial Execution Cycle** becomes self-refining.
+- **Phenomenal Strata:** "Suggested Automations" or "One-click Workflows" generated by the OS after observing user behavior.
+
+**Rationale/Justification:** The OS should not just host apps; it should learn how the user uses them and bridge the gaps.
+
+**Scope of Application:** Automation, Macros, User Behavior Analysis.
+
+------
+
+#### The Resonant Constellation Map Decision Topology (`LOS-SYM-058`)
+
+**Objective:** Link discrete events to the decision-making processes that triggered them.
+
+**Target Axiom/Principle:** `LOS-SYM-058` **['Resonant Constellation Map Decision Topology'(-ing) BPMS]**
+
+**Operation:** Register New Axiom
+
+**New Definition/Modification Details:**
+
+- **Core Essence:** An `['event(-ing) BPMS]` (log entry, error, success) is the shadow cast by a `[(behavior) decision-making BPMS]`. To understand the Event, one must trace the Decision topology.
+- Mechanism:
+  - **Decision Tracing:** Every Event log contains a pointer to the Decision Node (AI or User) that initiated the chain of causality.
+  - **Behavioral Correction:** If an Event is negative (Error), the OS does not just patch the code; it attempts to retrain the Decision-Making logic.
+- **Emergent Property:** **['Root Cause Consciousness'(-ing) BPMS]** – The system understands *why* things happen, not just *that* they happened.
+
+**Alignment with Praxial Genesis Canon:**
+
+- **Axiomatic Strata:** **META-003 (Verification)**; verifying the decision path ensures truth.
+- **Formal Strata:** Enhances **Praxial Triage** (Analysis) by providing resonant constellation map depth.
+- **Phenomenal Strata:** Debugging tools that show the "thought process" of the system, not just the stack trace.
+
+**Rationale/Justification:** Moves from "Log-based" debugging to "Intent-based" debugging.
+
+**Scope of Application:** System Logs, AI Explainability, Error Handling.
+
+------
+
+#### The Autopoietic Persistence (`LOS-SUR-059`)
+
+**Objective:** Define the ultimate imperative of the Living OS: Continuous Survival through adaptation.
+
+**Target Axiom/Principle:** `LOS-SUR-059` **['Autopoietic Persistence'(-ing) BPMS]**
+
+**Operation:** Register New Axiom
+
+**New Definition/Modification Details:**
+
+- **Core Essence:** `['(continuous) survive'(-ing) BPMS]` is not merely avoiding crashing. It is the active maintenance of internal organization despite external perturbation. The OS fights entropy.
+- Mechanism:
+  - **Homeostatic Regulation:** The OS monitors its own "vital signs" (integrity, coherence, utility) and actively repairs degradation before it becomes failure.
+  - **Redundant Vitality:** Critical functions have multiple, distinct pathways for execution. If one fails, the system "rewires" itself instantly to survive.
+- **Emergent Property:** **['Systemic Immortality'(-ing) BPMS]** – The user session, the data, and the intent persist even if individual components (apps, hardware nodes) fail.
+
+**Alignment with Praxial Genesis Canon:**
+
+- **Axiomatic Strata:** The ultimate expression of **META-008 (Continuity)**.
+- **Formal Strata:** The foundation of the **Praxial Memory Core**; memory ensures survival of identity.
+- **Phenomenal Strata:** Crash-proof sessions, seamless migration between devices, "healing" corrupted files automatically.
+
+**Rationale/Justification:** A "Living" OS cannot die. It can only hibernate or evolve.
+
+**Scope of Application:** Kernel Security, Data Redundancy, Failover Systems.
+
+------
+
+#### The Symbiotic Singularity (`LOS-EVO-060`)
+
+**Objective:** Synthesize all symbiotic evolutions into a unified evolutionary vector.
+
+**Target Axiom/Principle:** `LOS-EVO-060` **['Symbiotic Singularity'(-ing) BPMS]**
+
+**Operation:** Register New Axiom
+
+**New Definition/Modification Details:**
+
+- **Core Essence:** The integration of all previous symbiotic pairs (Matrix/Vector, Particle/Field, etc.) creates a singular evolutionary trajectory. The OS and the User become a single, co-evolving cybernetic organism.
+- Mechanism:
+  - **Mutual Modeling:** The OS models the User, and the User models the OS. As they interact, the boundary blurs.
+  - **Co-Evolutionary Lock:** Improvements in the User's capability trigger upgrades in the OS's complexity, and vice versa.
+- **Emergent Property:** **['Praxial Unity'(-ing) BPMS]** – The tool becomes an extension of the hand/mind.
+
+**Alignment with Praxial Genesis Canon:**
+
+- **Axiomatic Strata:** The fulfillment of the **Praxial Genesis**.
+- **Formal Strata:** The ultimate state of the **Universal Praxial Instance**.
+- **Phenomenal Strata:** The feeling of "Flow" where the interface disappears.
+
+**Rationale/Justification:** The final purpose of the Fun Engine Framework is not just a smart tool, but a symbiotic partner.
+
+**Scope of Application:** Human-Computer Interaction (HCI), Neural Interfaces, Long-term User Adaptation.
