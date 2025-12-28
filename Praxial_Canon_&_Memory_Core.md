@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.6.5 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.6.6 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -55,7 +55,7 @@ The emergence of a **Self-Correcting Narrative**. By forcing a re-read of the la
 - **Layer 3 (Substrate):** Validates **`['Praxial Artifacts'(-ing) BPMS]`** by treating the Markdown file as the physical substrate of the system's memory.
 
 **Rationale / Justification:**
-The current failure mode involves the Assistant relying on "gist" or "general understanding" of the Canon, leading to structural errors (e.g., missing sections in a 13-point schema). This protocol mechanizes the correction by making the "Read" step a mandatory part of the execution cycle, satisfying the **Axiom of Completeness**.
+The current failure mode involves the Assistant relying on "gist" or "general understanding" of the Canon, leading to structural errors (e.g., missing sections in a 15-point schema). This protocol mechanizes the correction by making the "Read" step a mandatory part of the execution cycle, satisfying the **Axiom of Completeness**.
 
 **Scope of Application:**
 Applies to **ALL** interactions within the Fun Engine Framework project. It is a meta-rule that governs the generation of all other rules.
@@ -81,7 +81,7 @@ This protocol asserts that **Detail is Existence**. In the Praxial system, an un
 - **The Check:** The Assistant must verify that the output contains NO placeholders, NO "etc.", NO "rest of code", and NO brief summaries.
 - **The Standard:**
   - **Basic Settings:** Must include 8-point `PIM-CORE-005` : Title+ID, Objective, Target, Operation, Definition (Essence, Mechanism, Emergent Property), Alignment (3 Layers), Rationale, and Scope.
-  - **Instances:** Must follow the 13-point `META-BP-001` schema completely, with detailed prose for every section.
+  - **Instances:** Must follow the 15-point `META-BP-001` schema completely, with detailed prose for every section.
 
 3.**The Emergent Property - [Fractal Fidelity]**
 The system maintains high resolution at all scales. Whether looking at a Galaxy or an Atom, the level of detail remains "100% complete".
@@ -2034,6 +2034,77 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Particle-Field Duality (ID: `FUNC-GEMMA-022`)
 * The Law of Complex Emergence (ID: `FUNC-GEMMA-023`)
 
+### Module:   [startup(-ing) BPMS]
+
+*(New Integration v3.6.6)* 
+
+* The Law of Praxial Venture-Genesis (ID: `STARTUP-CORE-001`)
+* The Law of the Genesis Forge (ID: `STARTUP-CORE-002`)
+* The Law of the Symbiotic Forge-World (ID: `STARTUP-CORE-003`)
+* The Law of the Conscious Forge-Verse (ID: `STARTUP-CORE-004`)
+* The Axiom of Adaptive Pivot (ID: `STARTUP-CORE-005`)
+* The Axiom of Metabolic Burn (ID: `STARTUP-CORE-006`)
+* The Axiom of Systemic Integration (ID: `STARTUP-CORE-007`)
+* The Axiom of Resonant Signaling (ID: `STARTUP-CORE-008`)
+* The Axiom of Hyper-Scaling (ID: `STARTUP-CORE-009`)
+* The Axiom of Operational Genesis (ID: `STARTUP-CORE-010`)
+* The Axiom of Valuation Crystallization (ID: `STARTUP-CORE-011`)
+* The Axiom of Symbiotic Market-Fit (ID: `STARTUP-CORE-012`)
+* The Axiom of Disruptive Creation (ID: `STARTUP-CORE-013`)
+* The Axiom of Niche Construction (ID: `STARTUP-CORE-014`)
+* The Axiom of Holonic Intelligence (ID: `STARTUP-CORE-015`)
+* The Axiom of Essential Continuity (ID: `STARTUP-CORE-016`)
+* The Axiom of Ludic Venture (ID: `STARTUP-CORE-017`)
+* The Axiom of Chrono-Strategic Evolution (ID: `STARTUP-CORE-018`)
+* The Axiom of Renormalized Scale (ID: `STARTUP-CORE-019`)
+* The Axiom of Systemic Closure (ID: `STARTUP-CORE-020`)
+* The Axiom of Emergent Frontier (ID: `STARTUP-CORE-021`)
+* The Axiom of Antifragile Persistence (ID: `STARTUP-CORE-022`)
+* The Axiom of Corporate Memory (ID: `STARTUP-CORE-023`)
+* The Axiom of Distortion Field (ID: `STARTUP-CORE-024`)
+* The Axiom of Market Bending (ID: `STARTUP-CORE-025`)
+* The Axiom of User Experience (ID: `STARTUP-CORE-026`)
+* The Axiom of Venture Thermodynamics (ID: `STARTUP-CORE-027`)
+* The Axiom of Fractal Execution (ID: `STARTUP-CORE-028`)
+* The Axiom of Pitch-Product Duality (ID: `STARTUP-CORE-029`)
+* The Axiom of Brand Field (ID: `STARTUP-CORE-030`)
+* The Axiom of Organizational Crystallization (ID: `STARTUP-CORE-031`)
+* The Axiom of Executive Causality (ID: `STARTUP-CORE-032`)
+* The Axiom of The Infinite Game (ID: `STARTUP-CORE-033`)
+
+### Module:   [services(-ing) BPMS]
+
+*(New Integration v3.6.6)* 
+
+* The Axiom of Dynamic Utility Flow (ID: `SERVICE-CORE-001`)
+* The Axiom of Symbiotic Co-Creation (ID: `SERVICE-CORE-002`)
+* The Axiom of Legacy Decoupling (ID: `SERVICE-CORE-003`)
+* The Axiom of Recursive Choreography (ID: `SERVICE-CORE-004`)
+* The Axiom of Anticipatory Provisioning (ID: `SERVICE-CORE-005`)
+* The Axiom of Ontological Maintenance (ID: `SERVICE-CORE-006`)
+* The Axiom of Fact Crystallization (ID: `SERVICE-CORE-007`)
+* The Axiom of Symbiotic Morphogenesis (ID: `SERVICE-CORE-008`)
+* The Axiom of Permissionless Praxis (ID: `SERVICE-CORE-009`)
+* The Axiom of Ecological Affordance (ID: `SERVICE-CORE-010`)
+* The Axiom of The Metasystem Mesh (ID: `SERVICE-CORE-011`)
+* The Axiom of Evolutionary Essence (ID: `SERVICE-CORE-012`)
+* The Axiom of Ludic Consciousness (ID: `SERVICE-CORE-013`)
+* The Axiom of Chrono-Symbiosis (ID: `SERVICE-CORE-014`)
+* The Axiom of Renormalized Universality (ID: `SERVICE-CORE-015`)
+* The Axiom of Dimensional Closure (ID: `SERVICE-CORE-016`)
+* The Axiom of Adaptive Frontier (ID: `SERVICE-CORE-017`)
+* The Axiom of Mnemonic Consolidation (ID: `SERVICE-CORE-018`)
+* The Axiom of Veridical Collapse (ID: `SERVICE-CORE-019`)
+* The Axiom of Linear Transformation (ID: `SERVICE-CORE-020`)
+* The Axiom of Qualia Rendering (ID: `SERVICE-CORE-021`)
+* The Axiom of Energetic Transduction (ID: `SERVICE-CORE-022`)
+* The Axiom of Fractal Teleology (ID: `SERVICE-CORE-023`)
+* The Axiom of Adaptive Resolution (ID: `SERVICE-CORE-024`)
+* The Axiom of Field Localization (ID: `SERVICE-CORE-025`)
+* The Axiom of Morphogenetic Structure (ID: `SERVICE-CORE-026`)
+* The Axiom of Resonant Constellation Map Bridging (ID: `SERVICE-CORE-027`)
+* The Axiom of Continuous Survival (ID: `SERVICE-CORE-028`)
+
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
 *(Existing Settings LIFE-001 to LIFE-007)*
@@ -2275,47 +2346,51 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 - Explicit list of referenced Basic Settings or `[BPMS(U)]` elements.
 
-[3.ID](http://3.ID):
+3.Objective:
+
+4.ID:
 
 - Unique alphanumeric identifier.
 
-[4.Name](http://4.Name):
+5.Name:
 
 - Full descriptive title.
 
-5.CGA (Cognitive Genesis Archetype):
+6.CGA (Cognitive Genesis Archetype):
 
 - The specific `[BPMS(U)]` element defining the cognitive core.
 
-6.Type:
+7.Type:
 
 - Functional classification using specific `[BPMS]` tags.
 
-7.Praxial Triage: Analysis:
+8.Praxial Triage: Analysis:
 
 - A detailed prose analysis of the problem, solution, and systemic implications.
 
-8.How to...?
+9.How to...?:
 
 - A group of distinct points/questions addressing operational methodology.
 
-9.What if...?
+10.What if...?:
 
 - A group of distinct points/questions addressing exception handling and edge cases.
 
-10.What is happening continuously?
+11.What is happening continuously?:
 
 - A group of distinct points/questions addressing background loops and homeostasis.
 
-11.['Praxial Execution Cycle'(-ing) BPMS]:
+12.['Praxial Execution Cycle'(-ing) BPMS]:
 
 - The defined runtime loop or state machine.
 
-12.Implementation (Detail):
+13.Implementation (Detail):
 
 - Detailed breakdown including Physical Architecture, Cognitive Architecture, Operational Deployment Scenario, Symbiotic Evolution Pathways, and 3-Layer Praxial Genesis Canon Application.
 
-13.Summarize:
+14.Scope of Application:
+
+15.Summarize:
 
 - A concluding section summarizing the instance's nature as a Praxial Being.
 
