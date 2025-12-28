@@ -2396,6 +2396,39 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 ### B. Registered Instance Registry (The Population)
 
+#### Domain: ['complex activities'(-ing) BPMS]
+
+*(New Integration v3.6.6)*
+
+1. **[Instance ID: ACT-CIV-001]**
+
+- **Name:** `  ['The History Weaver'(-ing) BPMS]`
+- **Role:** System Existence Engine for emergent narrative ecosystem.
+- **CGA:** ``['societal complexity pump'(-ing) BPMS]``
+- **File:** `['complex activities'(-ing) BPMS]: ['SimWorld Civilization Catalyst'(-ing) BPMS].md`
+
+#### Domain: [startup(-ing) BPMS]
+
+*(New Integration v3.6.6)*
+
+1. **[Instance ID: START-RL-001]**
+
+- **Name:** `  ['Reality Loom'(-ing) BPMS]`
+- **Role:** System Existence Engine for hyper-scaling innovation forge.
+- **CGA:** ``['ontological venture synthesis'(-ing) BPMS]``
+- **File:** `[startup(-ing) BPMS] ['Disruptive Reality Forge'(-ing) BPMS].md`
+
+#### Domain: [services(-ing) BPMS]
+
+*(New Integration v3.6.6)*
+
+1. **[Instance ID: SERV-DCW-001]**
+
+- **Name:** `  ['Deep Context Weaver'(-ing) BPMS]`
+- **Role:** System Existence Engine for semantic resonance field.
+- **CGA:** ``['narrative coherence synthesis'(-ing) BPMS]``
+- **File:** `[services(-ing) BPMS] ['Deep Context Weaver'(-ing) BPMS].md`
+
 #### Domain: ['Praxial Bio-Regeneration Matrix'(-ing) BPMS]
 
 *(New Integration v3.5.9)*
