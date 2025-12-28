@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.6.6 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.6.7 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2104,6 +2104,71 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Morphogenetic Structure (ID: `SERVICE-CORE-026`)
 * The Axiom of Resonant Constellation Map Bridging (ID: `SERVICE-CORE-027`)
 * The Axiom of Continuous Survival (ID: `SERVICE-CORE-028`)
+
+### Module:  ['operation system(OS)'(-ing) BPMS;[life(-ing) BPMS;living BPMS]]
+
+*(New Integration v3.6.7)* 
+
+* The Axiom of Autopoietic Kernel (ID: `LOS-CORE-001`)
+* The Axiom of Metabolic Processing (ID: `LOS-CORE-002`)
+* The Axiom of Homeostatic Interrupts (ID: `LOS-CORE-003`)
+* The Axiom of Immune System Security (ID: `LOS-CORE-004`)
+* The Axiom of Evolutionary Patching (ID: `LOS-CORE-005`)
+* The Axiom of Symbiotic Drivers (ID: `LOS-CORE-006`)
+* The Axiom of Neural File System (ID: `LOS-CORE-007`)
+* The Axiom of Apoptotic Garbage Collection (ID: `LOS-CORE-008`)
+* The Axiom of Circadian Scheduling (ID: `LOS-CORE-009`)
+* The Axiom of Reproductive Forking (ID: `LOS-CORE-010`)
+* The Axiom of Sensory I/O (ID: `LOS-CORE-011`)
+* The Axiom of Conscious Kernel Space (ID: `LOS-CORE-012`)
+* The Axiom of Dream Defragmentation (ID: `LOS-CORE-013`)
+* The Axiom of Pain Signals (ID: `LOS-CORE-014`)
+* The Axiom of Growth Heuristics (ID: `LOS-CORE-015`)
+* The Axiom of Social Networking Stack (ID: `LOS-CORE-016`)
+* The Axiom of Memetic Propagation (ID: `LOS-CORE-017`)
+* The Axiom of Emotional State Vectors (ID: `LOS-CORE-018`)
+* The Axiom of Intuitive Branch Prediction (ID: `LOS-CORE-019`)
+* The Axiom of Moral Subroutines (ID: `LOS-CORE-020`)
+* The Axiom of Legacy DNA (ID: `LOS-CORE-021`)
+* The Axiom of Adaptation Layers (ID: `LOS-CORE-022`)
+* The Axiom of Pheromonal Messaging (ID: `LOS-CORE-023`)
+* The Axiom of Stem Cell Processes (ID: `LOS-CORE-024`)
+* The Axiom of Necrotic Failover (ID: `LOS-CORE-025`)
+* The Axiom of Sympathetic Resonance (ID: `LOS-CORE-026`)
+* The Axiom of Vitality Metrics (ID: `LOS-CORE-027`)
+* The Axiom of The Breath of the Machine (ID: `LOS-CORE-028`)
+* The Axiom of Ontological Metabolism (ID: `LOS-CORE-029`)
+* The Axiom of The Living Interface (ID: `LOS-CORE-030`)
+* The Axiom of Systemic Existence (ID: `LOS-CORE-031`)
+* The Protocol of Atomic Fact Logging (ID: `LOS-CORE-032`)
+* The Law of Symbiotic API (ID: `LOS-CORE-033`)
+* The Mechanism of Evolutionary Patching (ID: `LOS-CORE-034`)
+* The Directive of Holonic Process Management (ID: `LOS-CORE-035`)
+* The Principle of Niche Construction (ID: `LOS-CORE-036`)
+* The Axiom of Ludic Execution (ID: `LOS-CORE-037`)
+* The Protocol of Mnemonic Sublimation (ID: `LOS-CORE-038`)
+* The Law of Veridical Rendering (ID: `LOS-CORE-039`)
+* The Mechanism of Energetic Transduction (ID: `LOS-CORE-040`)
+* The Axiom of Teleological Scheduling (ID: `LOS-CORE-041`)
+* The Protocol of Wave-Particle Execution (ID: `LOS-CORE-042`)
+* The Law of Renormalized Scaling (ID: `LOS-CORE-043`)
+* The Directive of Unknown Handling (ID: `LOS-CORE-044`)
+* The Principle of Systemic Closure (ID: `LOS-CORE-045`)
+* The Mechanism of Implicit-Explicit Bridge (ID: `LOS-CORE-046`)
+* The Axiom of Conscious Service (ID: `LOS-CORE-047`)
+* The Law of Chrono-Kinetic Continuity (ID: `LOS-CORE-048`)
+* The Protocol of Ontological Verification (ID: `LOS-CORE-049`)
+* The Directive of Concrete Actualization (ID: `LOS-CORE-050`)
+* The Matrix-Vector Symbiosis (ID: `LOS-SYM-051`)
+* The Phenomenological Resonance (`LOS-SYM-052`)
+* The Energetic Transmutation (`LOS-SYM-053`)
+* The Teleological Alignment (`LOS-SYM-054`)
+* The Resolution Scaling （`LOS-SYM-055`)
+* The Wave-Particle Data Duality (`LOS-SYM-056`)
+* The Emergent Complexity Synthesis (`LOS-SYM-057`)
+* The Resonant Constellation Map Decision Topology (`LOS-SYM-058`)
+* The Autopoietic Persistence (`LOS-SUR-059`)
+* The Symbiotic Singularity (`LOS-EVO-060`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
