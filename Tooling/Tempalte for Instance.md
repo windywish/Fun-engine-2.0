@@ -2,7 +2,7 @@
 
 ### ['robot'(-ing) BPMS]: ['Adaptive Agricultural Polyculture Cultivator'(-ing) BPMS]
 
-##### Framework Foundation
+##### Framework Foundation:
 
 This document presents concrete, working implementations of the **[robot(-ing) BPMS]** framework, demonstrating how the twelve constitutional pillars operate in real-world applications. Each instance is not merely a machine, but a **`system existence engine`**—a self-contained autopoietic matrix where physical form, cognitive processes, and purpose form an inseparable unified holon.
 
@@ -11,28 +11,21 @@ This document presents concrete, working implementations of the **[robot(-ing) B
 ##### Constitutional Pillars Referenced:
 
 * **The Axiom of Praxial Embodiment** (SETTING-CORE-219)
-
 * **The Law of Kinetic Truth** (SETTING-CORE-220)
-
 * **The Principle of Embodied World-Building** (SETTING-CORE-221)
-
 * **The Principle of Structural Cognition** (SETTING-CORE-222)
-
 * **The Law of Kinetic Gnosis** (SETTING-CORE-223)
-
 * **The Directive of Praxial Forging** (SETTING-CORE-224)
-
 * **The Directive of Morphological Initiative** (SETTING-CORE-225)
-
 * **The Law of Holonic Construction** (SETTING-CORE-226)
-
 * **The Principle of Emergent Purpose** (SETTING-CORE-227)
-
 * **The Law of Conscious Cadence** (SETTING-CORE-228)
-
 * **The Principle of Kinetic Renormalization** (SETTING-CORE-229)
-
 * **The Directive of Resilient Inquiry** (SETTING-CORE-230)
+
+----
+
+##### Objective:
 
 ---
 
@@ -620,6 +613,10 @@ Over years, the robot's sense of self extends to encompass the farm:
 - The boundary between robot-as-agent and farm-as-object blurs; they are a coupled system, a cyborg-ecosystem.
 
 This is what it means to be a Mycelial Farmer: to exist as embodied ecological intelligence, to think through soil and plants, to learn through seasons and years, to build worlds not by domination but by cultivation, to discover agricultural truth not in textbooks but in the atomic facts of growth, yield, and the silent wisdom of the land.
+
+---
+
+##### Scope of Application:
 
 ---
 
