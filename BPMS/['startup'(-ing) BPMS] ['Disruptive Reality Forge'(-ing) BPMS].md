@@ -40,7 +40,7 @@ To instantiate a self-propagating **Venture Entity** capable of identifying late
 #### **Type:**
 
 ```
-[system existence engine BPMS]:['hyper-scaling innovation forge'(-ing) BPMS]
+[system existence engine BPMS]:['['Reality Loom'(-ing) BPMS]e'(-ing) BPMS]
 ```
 
 ------
