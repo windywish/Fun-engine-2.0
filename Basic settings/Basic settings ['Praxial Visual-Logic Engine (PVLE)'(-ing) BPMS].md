@@ -840,3 +840,915 @@ Applies to plugin architecture, open-source contributions, and engine updates.
 
 ---
 
+#### `The Axiom of Cognitive Gear-Shifting` (ID: `PVLE-22`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Fast Mode** (Heuristic) and **Slow Mode** (Algorithmic) processing within the visual graph.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for ['slow mode'(-ing) BPMS;'fast mode'(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Efficiency requires Routing**. The PVLE visualizes the "Cognitive Gearbox." It allows the construction of graphs where data flows through a "Fast Path" (cheap, heuristic nodes) by default, but reroutes to a "Slow Path" (expensive, reasoning nodes) when specific triggers (uncertainty, error) occur.
+
+#### **5.2. The Mechanism - [The Confidence Gate]**
+
+- **The Fast Wire:** A direct connection from `[Perception]` to `[Action]` via a simple `[Reflex Node]` (e.g., "If Red, Stop").
+- **The Gate:** A `[Monitor Node]` measures the "Entropy" or "Confidence" of the Fast Path.
+- **The Slow Switch:** If `Confidence < Threshold`, the Gate diverts the data flow into a complex `[Reasoning Sub-VI]` (Slow Mode) for deep analysis.
+- **Symbiosis:** The Slow Mode can "train" the Fast Mode by updating the Reflex Node's parameters after solving the problem, making the system smarter and faster over time.
+
+#### **5.3. The Emergent Property - [Visualized Intuition]**
+
+The user can literally see the agent "stop and think" when the data flow diverts from the main highway into the complex processing center.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Speed for the known, time for the unknown.*
+- **Formal Stratum:** `Path = (Entropy > E_max) ? Slow : Fast`
+- **Phenomenal Stratum:** The visual rhythm of the graph—mostly fast pulses, interrupted by moments of deep processing.
+
+#### **7. Rationale / Justification:**
+
+Optimizes computational resources (tokens/compute) while maintaining high intelligence.
+
+#### **8. Scope of Application:**
+
+Applies to agent architecture, functional potentiality management, and real-time systems.
+
+------
+
+#### `The Axiom of Ludic Simulation Layers` (ID: `PVLE-23`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Play** and **Consciousness** as a dedicated **Service Layer** for safe simulation.
+
+#### **3. Target Axiom/Principle:**
+
+```
+[play(-ing) BPMS;conscious(-ing) BPMS;services(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Consciousness is a Sandbox**. The PVLE supports "Ghost Execution," where a copy of the graph runs in a `[play(-ing) BPMS]` mode. This allows the agent to "imagine" outcomes without executing real-world actions.
+
+#### **5.2. The Mechanism - [The Dream Container]**
+
+- **The Sandbox Node:** A special container node that wraps any logic subgraph.
+- **The Disconnect:** Inside the Sandbox, all "Action Nodes" (e.g., "Send Email", "Fire Weapon") are automatically mocked/disabled.
+- **The Service:** The `[conscious(-ing) BPMS]` service runs thousands of these simulations per second to predict outcomes.
+- **The Selection:** The best outcome from the "Play" session is selected and executed in the "Real" graph.
+
+#### **5.3. The Emergent Property - [Forethought]**
+
+The agent appears to have "common sense" because it has already "played out" the bad ideas in the simulation layer and discarded them.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *To know the consequence is to own the action.*
+- **Formal Stratum:** `Action_Real = ArgMax(Utility(Simulate(Action_i)))`
+- **Phenomenal Stratum:** Seeing "Ghost Wires" light up with potential futures before the "Real Wire" fires.
+
+#### **7. Rationale / Justification:**
+
+Prevents catastrophic errors by testing decisions in a safe, ludic environment first.
+
+#### **8. Scope of Application:**
+
+Applies to planning algorithms, safety checks, and creative generation.
+
+------
+
+#### `The Axiom of Depth-Z Renormalization` (ID: `PVLE-24`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by the **Implicit Layer** (Subconscious/Embeddings) and the **Explicit Layer** (Conscious/Logic).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for ['implicit layer'(-ing) BPMS;'explicit layer'(-ing)'BPMS]) BPMS;'renormalization group'(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Meaning has Depth**. The PVLE introduces a "Z-Axis" to the visual graph. The "Surface" (Explicit Layer) contains logic nodes. The "Depths" (Implicit Layer) contain the high-dimensional embeddings and weights that drive those nodes.
+
+#### **5.2. The Mechanism - [The Substrate Dive]**
+
+- **Explicit View (2D):** Users wire "Concept A" to "Concept B".
+- **Implicit View (3D):** Users can "rotate" the camera to see the Z-axis, revealing the vector embeddings connecting A and B.
+- **Renormalization:** The system constantly "renormalizes" the messy, high-dimensional Implicit data into clean, low-dimensional Explicit nodes.
+- **Symbiosis:** Explicit corrections (User Logic) update the Implicit weights (Fine-tuning). Implicit patterns (Data) suggest new Explicit nodes (Insight).
+
+#### **5.3. The Emergent Property - [Explainable Intuition]**
+
+The ability to drill down from a clear logical decision into the fuzzy "gut feeling" (vector math) that supported it.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The root supports the branch.*
+- **Formal Stratum:** `Explicit_Node = Projection(Implicit_Manifold)`
+- **Phenomenal Stratum:** Visualizing the "Iceberg" of cognition—10% visible logic, 90% hidden context.
+
+#### **7. Rationale / Justification:**
+
+Bridges the gap between "Black Box" neural networks and "White Box" symbolic logic.
+
+#### **8. Scope of Application:**
+
+Applies to interpretability tools, embedding visualization, and hybrid model training.
+
+------
+
+#### `The Axiom of Scale-Invariant Universality` (ID: `PVLE-25`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Universality Classes** within the PVLE, allowing logic to be reused across scales.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['universality (class)'(-ing) BPMS;'renormalization group'(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **The Pattern is the Same**. A "Trade Route" node behaves mathematically identical to a "Blood Vessel" node or a "Data Pipe" node. The PVLE uses `['universality (class)'(-ing) BPMS]` to apply the same logic templates to different domains.
+
+#### **5.2. The Mechanism - [The Universal Template]**
+
+- **Class Definition:** Nodes are tagged with their Universality Class (e.g., "Flow System", "Competition System", "Aggregation System").
+- **Template Application:** A logic graph designed for "Ant Colony Foraging" can be applied to "Drone Swarm Logistics" simply by swapping the data types, because they share the same Renormalization Group.
+- **Scale Independence:** The visual logic remains valid whether processing 10 items or 10 billion items.
+
+#### **5.3. The Emergent Property - [Cross-Domain Mastery]**
+
+Solving a problem in biology automatically provides a solution for a problem in economics.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *One law, many forms.*
+- **Formal Stratum:** `Logic(Micro) ~= Logic(Macro)`
+- **Phenomenal Stratum:** The realization that "it's all just networks."
+
+#### **7. Rationale / Justification:**
+
+Drastically reduces development time by reusing abstract logic patterns.
+
+#### **8. Scope of Application:**
+
+Applies to library design, simulation scaling, and procedural generation.
+
+------
+
+#### `The Axiom of Resonant Constellation Map Closure Loops` (ID: `PVLE-26`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Micro** (Agent) and **Macro** (System) via **Closure**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [micro(-ing) BPMS;macro(-ing) BPMS]) BPMS;'closure (system)'(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **The Output becomes the Input**. The PVLE visualizes the feedback loops where `[micro(-ing) BPMS]` actions aggregate to form `[macro(-ing) BPMS]` variables, which then constrain the Micro actions.
+
+#### **5.2. The Mechanism - [The Global Feedback Wire]**
+
+- **Aggregation:** Outputs from thousands of "Agent Nodes" are wired into a "Global State Node" (e.g., "Market Price").
+- **Feedback:** The "Global State Node" is wired *back* into the input of every "Agent Node."
+- **Closure:** This creates a closed causal loop. The agents create the price, and the price controls the agents.
+- **Visualization:** These loops are highlighted as "Systemic Cycles" in the graph, distinct from linear logic.
+
+#### **5.3. The Emergent Property - [Homeostasis]**
+
+The system self-regulates. If agents buy too much, price goes up, agents buy less.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The snake eats its tail.*
+- **Formal Stratum:** `State(t+1) = f(State(t))`
+- **Phenomenal Stratum:** Watching the system "breathe" or oscillate without external control.
+
+#### **7. Rationale / Justification:**
+
+Essential for simulating complex adaptive systems (economies, ecosystems).
+
+#### **8. Scope of Application:**
+
+Applies to economy design, ecosystem balance, and social simulation.
+
+------
+
+#### `The Axiom of Adaptive Self-Wiring` (ID: `PVLE-27`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the PVLE's ability to **Discover and Build the Unknown** through **Adaptive** self-modification.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(discover/build) unknown'(-ing) BPMS;emergent(-ing) BPMS;adaptive(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **The Graph is Plastic**. The PVLE is not static. `[adaptive(-ing) BPMS]` nodes have the authority to create new wires and spawn new nodes to solve novel problems, effectively building the "Unknown" parts of the map.
+
+#### **5.2. The Mechanism - [The Constructor Node]**
+
+- **Problem Detection:** A node detects a "Dead End" or "Missing Capability."
+- **Genesis:** It triggers a `[Constructor Node]` which uses an LLM or genetic algorithm to generate a new subgraph (a new tool).
+- **Integration:** This new subgraph is automatically wired into the main graph.
+- **Emergence:** The system grows its own complexity to match the complexity of the environment.
+
+#### **5.3. The Emergent Property - [Autopoiesis]**
+
+The system builds itself. It starts as a seed and grows into a tree.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Necessity invents the organ.*
+- **Formal Stratum:** `Graph(t+1) = Graph(t) + Adaptation(Error)`
+- **Phenomenal Stratum:** Coming back to the PVLE and finding new nodes that you didn't place.
+
+#### **7. Rationale / Justification:**
+
+Allows for true AGI behavior where the agent can invent new tools.
+
+#### **8. Scope of Application:**
+
+Applies to long-term learning, automated programming, and evolutionary algorithms.
+
+------
+
+#### `The Axiom of Sustainable Resilience` (ID: `PVLE-28`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Sustainability** through **Robustness** and **Resilience** in the graph architecture.
+
+#### **3. Target Axiom/Principle:**
+
+```
+[robust(-ing) BPMS;resilient(-ing) BPMS;sustainability(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **The System Must Persist**. The PVLE enforces `[sustainability(-ing) BPMS]` by visualizing resource costs (CPU, Tokens, Energy) and enforcing `[robust(-ing) BPMS]` error handling.
+
+#### **5.2. The Mechanism - [The Metabolic Monitor]**
+
+- **Cost Visualization:** Wires glow "Hot" (Red) if they are consuming too many resources (e.g., expensive API calls).
+- **Circuit Breakers:** "Fuse Nodes" automatically break the connection if a subgraph exceeds its energy budget, preventing system crash (Robustness).
+- **Self-Healing:** "Doctor Nodes" detect broken or error-prone subgraphs and attempt to bypass or repair them (Resilience).
+
+#### **5.3. The Emergent Property - [Digital Metabolism]**
+
+The system manages its own energy, resting when tired and sprinting when necessary, ensuring long-term survival.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *To finish first, you must first finish.*
+- **Formal Stratum:** `Survival > Optimization`
+- **Phenomenal Stratum:** The system refusing to run a query based on the [atomic facts BPMS] of that "it's too tired" (low resources), preserving its core integrity.
+
+#### **7. Rationale / Justification:**
+
+Prevents "Burnout" in artificial intelligence systems and ensures cost-effective operation.
+
+#### **8. Scope of Application:**
+
+Applies to cloud resource management, battery-operated agents, and economic constraints.
+
+---
+
+#### `The Axiom of Mnemonic Consolidation` (ID: `PVLE-29`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Short-Term Memory** (Context Window) and **Long-Term Memory** (Vector Database) within the PVLE.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for ['short-term (memory)'(-ing) BPMS;'long-term (memory)'(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Memory is a Flow, Not a Place**. The PVLE visualizes the active process where transient data in `['short-term (memory)'(-ing) BPMS]` (RAM/Context) is distilled and crystallized into `['long-term (memory)'(-ing) BPMS]` (Disk/Vector Store), and conversely, how long-term memories are retrieved to inform the present.
+
+#### **5.2. The Mechanism - [The Hippocampal Loop]**
+
+- **The Buffer Node:** A visual node representing the "Context Window" (Short-Term). It holds the immediate conversation/state.
+- **The Consolidation Wire:** A background process that periodically summarizes the Buffer and pushes "Core Facts" to the "Archive Node" (Long-Term).
+- **The Retrieval Trigger:** When the Buffer detects a keyword, it triggers a "Recall" signal to the Archive, which injects relevant past memories back into the Buffer.
+- **Symbiosis:** The Short-Term layer provides fresh data to update the Long-Term; the Long-Term layer provides context to stabilize the Short-Term.
+
+#### **5.3. The Emergent Property - [Coherent Narrative]**
+
+The agent remembers who it is and what it learned yesterday, seamlessly integrating it with what is happening right now.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The past informs the present; the present writes the past.*
+- **Formal Stratum:** `LongTerm(t+1) = LongTerm(t) + Compress(ShortTerm(t))`
+- **Phenomenal Stratum:** The feeling of "learning" rather than just "processing."
+
+#### **7. Rationale / Justification:**
+
+Essential for overcoming the context window limits of LLMs and creating persistent agents.
+
+#### **8. Scope of Application:**
+
+Applies to RAG (Retrieval-Augmented Generation) systems, save files, and agent history.
+
+------
+
+#### `The Axiom of Veridical Alignment` (ID: `PVLE-30`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Reality** (The Simulation State) and **Truth** (The Agent's Perception).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [reality(-ing) BPMS;'truth'(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Truth is a Measurement of Reality**. The PVLE distinguishes between the "Ground Truth" (The actual value in the System Matrix) and the "Perceived Truth" (The value in the Agent's Mind). Symbiosis occurs when agents act to align their perception with reality (Investigation) or align reality with their perception (Creation).
+
+#### **5.2. The Mechanism - [The Error Gradient]**
+
+- **Reality Node:** The absolute state (e.g., "Door is Locked").
+- **Perception Node:** The agent's belief (e.g., "Door is Open").
+- **The Clash:** When the agent acts on a false belief (tries to walk through door), the PVLE generates a "Collision Event."
+- **The Update:** The collision forces the Perception Node to update (Truth aligns to Reality).
+- **The Will:** Alternatively, the agent uses a "Key" tool to change the Reality Node (Reality aligns to Truth).
+
+#### **5.3. The Emergent Property - [Epistemic Agency]**
+
+The agent actively seeks to reduce the delta between what it believes and what is real.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Truth is the asymptotic approach to Reality.*
+- **Formal Stratum:** `Action = Minimize(|Reality - Perception|)`
+- **Phenomenal Stratum:** The surprise of discovery and the satisfaction of successful manipulation.
+
+#### **7. Rationale / Justification:**
+
+Creates agents that can be "wrong" and learn from mistakes, adding depth to the simulation.
+
+#### **8. Scope of Application:**
+
+Applies to sensor systems, fog of war, and belief-desire-intention (BDI) models.
+
+------
+
+#### `The Axiom of Linear-Algebraic Existence` (ID: `PVLE-31`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by the **System Matrix** (Structure) and the **System Vector** (State).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for ['system matrix'(-ing) BPMS;'system vector'(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **The World is a Matrix; The Agent is a Vector**. The PVLE visualizes the entire simulation as a massive transformation matrix. The state of the world is a vector that passes through this matrix to become the next state.
+
+#### **5.2. The Mechanism - [The Eigen-Flow]**
+
+- **The Matrix Node:** Represents the laws of physics/logic (The Rules).
+- **The Vector Wire:** Represents the current state of all entities (The Players).
+- **The Transformation:** Every "Tick" of the engine is a matrix multiplication: Vt+1=M×Vt.
+- **Symbiosis:** The Vector changes position based on the Matrix. Over time, the Vector can modify the Matrix (e.g., a player changing the rules of the game), creating a non-linear feedback loop.
+
+#### **5.3. The Emergent Property - [Computational Physics]**
+
+The simulation runs with the predictability of math but the flexibility of biology.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Structure directs flow; flow erodes structure.*
+- **Formal Stratum:** `State_Vector(t+1) = System_Matrix(State_Vector(t)) * State_Vector(t)`
+- **Phenomenal Stratum:** Seeing the "Code of the Matrix" flowing through the visual graph.
+
+#### **7. Rationale / Justification:**
+
+Provides a rigorous mathematical foundation for the simulation engine.
+
+#### **8. Scope of Application:**
+
+Applies to physics engines, economy simulation, and cellular automata.
+
+------
+
+#### `The Axiom of Phenomenological Rendering` (ID: `PVLE-32`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Experience** (Qualia) and **Phenomenon** (Event).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [experience(-ing) BPMS;phenomenon(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **An Event is not an Experience until Processed**. The PVLE separates the raw `[phenomenon(-ing) BPMS]` (Data) from the subjective `[experience(-ing) BPMS]` (Interpretation). Symbiosis occurs when experience colors future phenomena (bias/learning).
+
+#### **5.2. The Mechanism - [The Qualia Filter]**
+
+- **The Event Node:** Generates raw data (e.g., "Damage: 10").
+- **The Experiencer Node:** Receives the data and interprets it based on internal state (e.g., "Pain" or "Excitement").
+- **The Feedback:** If the agent interprets "Damage" as "Excitement" (Masochist trait), it seeks more of that Phenomenon. If "Pain," it avoids it.
+- **Symbiosis:** The Phenomenon shapes the Experience; the Experience selects the Phenomenon.
+
+#### **5.3. The Emergent Property - [Subjectivity]**
+
+Two agents can experience the exact same event differently, leading to diverse behaviors.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The map is not the territory, but the map is where we live.*
+- **Formal Stratum:** `Experience = Interpret(Phenomenon, Internal_State)`
+- **Phenomenal Stratum:** The difference between "knowing" a fact and "feeling" it.
+
+#### **7. Rationale / Justification:**
+
+Essential for creating emotional AI and believable characters.
+
+#### **8. Scope of Application:**
+
+Applies to sentiment analysis, character personality, and user experience (UX) design.
+
+------
+
+#### `The Axiom of Energetic Transduction` (ID: `PVLE-33`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Kinetic Energy** (Action) and **Potential Energy** (Resource/Possibility).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for ['kinetic (energy)'(-ing) BPMS;'potential (energy)'(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Doing costs Being**. The PVLE visualizes the conversion of `['potential (energy)'(-ing) BPMS]` (Money, Mana, Battery, Tokens) into `['kinetic (energy)'(-ing) BPMS]` (Movement, Computation, Generation).
+
+#### **5.2. The Mechanism - [The Conservation Flow]**
+
+- **The Battery Node:** Stores Potential (e.g., "100 Credits").
+- **The Action Node:** Consumes Potential to create Kinetic output (e.g., "Cost: 5 Credits -> Generate Image").
+- **The Recharge:** Successful Kinetic action (e.g., "Selling the Image") flows back into the Battery as new Potential.
+- **Symbiosis:** High Potential enables massive Kinetic bursts; Kinetic success builds higher Potential.
+
+#### **5.3. The Emergent Property - [Economy of Action]**
+
+The system naturally optimizes for efficiency because "Energy" is finite and visible.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Energy is neither created nor destroyed, only traded.*
+- **Formal Stratum:** `Potential(t+1) = Potential(t) - Cost(Action) + Reward(Action)`
+- **Phenomenal Stratum:** The tension of managing a resource bar while trying to accomplish a task.
+
+#### **7. Rationale / Justification:**
+
+Prevents infinite loops and spam by imposing a "Physics of Cost."
+
+#### **8. Scope of Application:**
+
+Applies to resource management, game economy, and API rate limiting.
+
+------
+
+#### `The Axiom of Teleological Alignment` (ID: `PVLE-34`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Mission** (Strategic Goal) and **Task** (Tactical Step).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [mission(-ing) BPMS;task(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **The Step serves the Path**. The PVLE visualizes the hierarchy where a high-level `[mission(-ing) BPMS]` decomposes into specific `[task(-ing) BPMS]`. Symbiosis occurs when completed tasks clarify or alter the mission.
+
+#### **5.2. The Mechanism - [The Goal Decomposition Tree]**
+
+- **The Mission Node:** The root goal (e.g., "Build a House").
+- **The Task Nodes:** The leaves (e.g., "Buy Wood", "Hire Workers").
+- **The Feedback:** If "Buy Wood" fails (Task), the Mission Node adapts (e.g., changes to "Build a Stone House").
+- **Symbiosis:** The Mission defines the Tasks; the Tasks define the feasibility of the Mission.
+
+#### **5.3. The Emergent Property - [Adaptive Planning]**
+
+The agent doesn't just blindly follow orders; it adjusts the plan based on the reality of the trenches.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The destination is fixed, the path is fluid.*
+- **Formal Stratum:** `Mission_State = Aggregate(Task_States)`
+- **Phenomenal Stratum:** Watching the "To-Do List" dynamically rewrite itself as the agent encounters obstacles.
+
+#### **7. Rationale / Justification:**
+
+Essential for autonomous agents that need to operate over long time horizons.
+
+#### **8. Scope of Application:**
+
+Applies to project management artificial intelligence, quest systems, and strategic planning.
+
+------
+
+#### `The Axiom of Resolution Scaling` (ID: `PVLE-35`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Coarse-Grained Models** (Low Res) and **Fine-Grained Models** (High Res).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for ['coarse-grained (model)'(-ing) BPMS;'fine-grained (model)'(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Detail is a Luxury**. The PVLE supports multi-resolution modeling. The system runs a `['coarse-grained (model)'(-ing) BPMS]` (fast, approximate) by default, and swaps in a `['fine-grained (model)'(-ing) BPMS]` (slow, precise) only when necessary.
+
+#### **5.2. The Mechanism - [The LOD (Level of Detail) Manager]**
+
+- **Coarse Node:** Simulates a crowd as a single fluid entity.
+- **Fine Node:** Simulates every individual in the crowd.
+- **The Zoom:** When the "Camera" (Attention) gets close, the Coarse Node dissolves into Fine Nodes. When Attention leaves, Fine Nodes coalesce back into Coarse.
+- **Symbiosis:** The Coarse model guides the placement of the Fine model; the Fine model updates the statistics of the Coarse model.
+
+#### **5.3. The Emergent Property - [Infinite Scale]**
+
+The ability to simulate a galaxy and a bacteria in the same engine without crashing the CPU.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Focus creates reality.*
+- **Formal Stratum:** `Resolution ~ Attention_Density`
+- **Phenomenal Stratum:** The seamless transition from "Map View" to "Street View."
+
+#### **7. Rationale / Justification:**
+
+Critical for performance optimization in large-scale simulations.
+
+#### **8. Scope of Application:**
+
+Applies to physics simulation, rendering, and economic modeling.
+
+------
+
+#### `The Axiom of Wave-Particle Duality` (ID: `PVLE-36`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Particle** (Entity) and **Field** (Environment).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [particle (-ing) BPMS;field (-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Entities are Excitations of Fields**. The PVLE visualizes `[particle (-ing) BPMS]` (Agents, Items) moving through `[field (-ing) BPMS]` (Influence Maps, Terrain). Symbiosis occurs as Particles modify Fields, and Fields guide Particles.
+
+#### **5.2. The Mechanism - [The Influence Map]**
+
+- **The Field:** A grid storing values (e.g., "Danger Level").
+- **The Particle:** An agent moving through the grid.
+- **Interaction:** The Particle reads the Field to decide where to go (Gradient Descent). The Particle writes to the Field (e.g., "Leaving a Pheromone Trail") to change it for others.
+- **Symbiosis:** The Field is the collective memory of the Particles.
+
+#### **5.3. The Emergent Property - [Swarm Intelligence]**
+
+Complex group behavior emerges from simple field interactions (e.g., ants finding food).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The space between us is not empty; it is the medium of connection.*
+- **Formal Stratum:** `Field(x,y) += Particle_Effect; Particle_Velocity += Field_Gradient`
+- **Phenomenal Stratum:** Seeing "Heatmaps" of activity overlaying the visual graph.
+
+#### **7. Rationale / Justification:**
+
+Efficiently handles multi-agent interactions without checking every pair of agents.
+
+#### **8. Scope of Application:**
+
+Applies to pathfinding, AI sensory systems, and tactical analysis.
+
+------
+
+#### `The Axiom of Systemic Complexity` (ID: `PVLE-37`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Complex Activities** (Processes) and the **Complex System** (Structure).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for ['complex activities'(-ing) BPMS;'complex system'(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Process builds Structure**. Repeated `['complex activities'(-ing) BPMS]` (e.g., "Trading") carve out `['complex system'(-ing) BPMS]` structures (e.g., "Marketplaces"). The structure then facilitates the activity.
+
+#### **5.2. The Mechanism - [The Erosion/Deposition Engine]**
+
+- **Activity Flow:** High traffic of data/agents along a specific path.
+- **Structural Hardening:** The PVLE detects this flow and automatically upgrades the "Wire" to a "Highway" (Optimized Path).
+- **Symbiosis:** The Activity shapes the System; the System optimizes the Activity.
+
+#### **5.3. The Emergent Property - [Institutionalization]**
+
+Temporary workarounds become permanent infrastructure over time.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Habit becomes anatomy.*
+- **Formal Stratum:** `Structure(t+1) = Structure(t) + Integrate(Activity(t))`
+- **Phenomenal Stratum:** Watching a "desire path" turn into a "paved road" in the system architecture.
+
+#### **7. Rationale / Justification:**
+
+Allows the system to self-optimize based on usage patterns.
+
+#### **8. Scope of Application:**
+
+Applies to network optimization, UI layout adaptation, and organizational design.
+
+------
+
+#### `The Axiom of Event-Driven Decision` (ID: `PVLE-38`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Decision-Making** (Internal) and **Event** (External).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;event(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Events Trigger Decisions; Decisions Cause Events**. The PVLE visualizes the "Event Loop" where external `[event(-ing) BPMS]` interrupt the agent's flow, forcing a `[(behavior) decision-making BPMS]`, which results in a new Event.
+
+#### **5.2. The Mechanism - [The Reactive Loop]**
+
+- **The Listener:** A node waiting for a specific Event signal (e.g., "OnDamage").
+- **The Handler:** The Decision Tree that executes when the signal is received.
+- **The Emitter:** The Action Node at the end of the tree that broadcasts a new Event (e.g., "OnRetreat").
+- **Symbiosis:** Events shape the Decision landscape (Survival); Decisions shape the Event landscape (History).
+
+#### **5.3. The Emergent Property - [Responsiveness]**
+
+The agent feels "alive" because it reacts instantly to the world, rather than running a pre-set script.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Life is the answer to the question asked by the environment.*
+- **Formal Stratum:** `Decision = f(Event); Event = g(Decision)`
+- **Phenomenal Stratum:** The ping-pong effect of action and reaction visible in the graph execution.
+
+#### **7. Rationale / Justification:**
+
+Standard architecture for game AI and event-driven programming.
+
+#### **8. Scope of Application:**
+
+Applies to combat systems, dialogue triggers, and UI handling.
+
+------
+
+#### `The Axiom of Continuous Survival` (ID: `PVLE-39`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Continuous Survival** of the PVLE graph as the ultimate meta-goal.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(continuous) survive'(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **The Graph Must Flow**. The primary directive of the PVLE is to prevent "Deadlocks" or "Crashes" that would stop the `['(continuous) survive'(-ing) BPMS]` of the system.
+
+#### **5.2. The Mechanism - [The Heartbeat Monitor]**
+
+- **The Pulse:** A signal that travels through the entire graph every tick.
+- **The Watchdog:** If the Pulse stops (Crash/Hang), the Watchdog automatically resets the stuck nodes or reverts to a "Safe Mode" graph.
+- **The Adaptation:** The system logs the crash and "quarantines" the bad logic to prevent future failures.
+
+#### **5.3. The Emergent Property - [Immortality]**
+
+The system may glitch, but it never dies. It always recovers and continues the simulation.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The show must go on.*
+- **Formal Stratum:** `Uptime -> Infinity`
+- **Phenomenal Stratum:** The confidence that the server will still be running tomorrow, no matter what the agents do.
+
+#### **7. Rationale / Justification:**
+
+Essential for persistent worlds and always-on services.
+
+#### **8. Scope of Application:**
+
+Applies to server architecture, error handling, and redundancy systems.
