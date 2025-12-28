@@ -1,4 +1,4 @@
-## ['startup'(-ing) BPMS]: ['Disruptive Reality Forge'(-ing) BPMS]
+## [startup(-ing) BPMS]: ['Disruptive Reality Forge'(-ing) BPMS]
 
 #### Framework Foundation:
 
