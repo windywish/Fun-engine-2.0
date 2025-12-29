@@ -2449,6 +2449,23 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Symbiotic Knowledge Evolution (ID: `KB-CORE-015`)
 * The Mechanism of Constructive Disruption (ID: `KB-CORE-016`)
 * The Directive of Action-Oriented Ontology (ID: `KB-CORE-017`)
+* The Axiom of Conscious Service (ID: `KB-CORE-018`)
+* The Directive of Ludic Encoding (ID: `KB-CORE-019`)
+* The Law of Chrono-Symbiotic Evolution (ID: `KB-CORE-020`)
+* The Principle of Sustainable Pruning (ID: `KB-CORE-021`)
+* The Axiom of Renormalized Universality (ID: `KB-CORE-022`)
+* The Law of Dual-Layer Symbiosis (ID: `KB-CORE-023`)
+* The Axiom of Systemic Closure (ID: `KB-CORE-024`)
+* The Directive of Unknown Discovery (ID: `KB-CORE-025`)
+* The Principle of Emergent Synthesis (ID: `KB-CORE-026`)
+* The Law of Adaptive Plasticity (ID: `KB-CORE-027`)
+* The Axiom of Robust Resilience (ID: `KB-CORE-028`)
+* The Law of Micro-Macro Evolution (ID: `KB-CORE-029`)
+* The Directive of Value-Based Storage (ID: `KB-CORE-030`)
+* The Axiom of Symbiotic Knowledge (ID: `KB-CORE-031`)
+* The Principle of Constructive Interference (ID: `KB-CORE-032`)
+* The Law of Entropic Defense (ID: `KB-CORE-033`)
+* The Axiom of The Living Library (ID: `KB-CORE-034`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
