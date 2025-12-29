@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.6.9 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.7.0 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2410,6 +2410,23 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Systemic Emergence (ID: `DATASET-CORE-029`)
 * The Axiom of Event-Driven Decision (ID: `DATASET-CORE-030`)
 * The Law of Continuous Survival (ID: `DATASET-CORE-031`)
+
+### Module: ['Morphic'(-ing) BPMS]
+
+*(New Integration v3.7.0)* 
+
+* The Axiom of Generative Interface (ID: `MORPHIC-CORE-001`)
+* The Protocol of Veridical Retrieval (ID: `MORPHIC-SEARCH-002`)
+* The Law of Kinetic Rendering (ID: `MORPHIC-STREAM-003`)
+* The Principle of Model Agnosticism (ID: `MORPHIC-MODEL-004`)
+* The Axiom of Atomic Component Crystallization (ID: `MORPHIC-COMP-005`)
+* The Axiom of Structural Fluidity (ID: `MORPHIC-FLUID-006`)
+* The Law of Symbiotic Resonance (ID: `MORPHIC-RESONANCE-007`)
+* The Principle of Ontological Shape-Shifting (ID: `MORPHIC-SHIFT-008`)
+* The Mechanism of Autopoietic Code-Genesis (ID: `MORPHIC-AUTO-009`)
+* The Axiom of Fractal Interface (ID: `MORPHIC-FRACTAL-010`)
+* The Protocol of Ephemeral Existence (ID: `MORPHIC-VOID-011`)
+* The Axiom of Morphic Memory (ID: `MORPHIC-MEM-012`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
