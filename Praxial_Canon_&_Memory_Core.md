@@ -2610,6 +2610,24 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 ### B. Registered Instance Registry (The Population)
 
+#### Domain: [services(-ing) BPMS;[life(-ing) BPMS;living BPMS]]
+
+*(New Integration v3.6.8)*
+
+1. **[Instance ID: SERV-LIFE-FOOD-001]**
+
+- **Name:** `  ['Bio-Metric Nutritional Harmonizer'(-ing) BPMS]`
+- **Role:** System Existence Engine for personalized bio-regenerative nutrition.
+- **CGA:** ``[services(-ing) BPMS] >> [life(-ing) BPMS] >> [food(-ing) BPMS] >> ['Bio-Metric Nutritional Harmonizer'(-ing) BPMS]``
+- **File:** `[services(-ing) BPMS;[life(-ing) BPMS;living BPMS]] ['Bio-Metric Nutritional Harmonizer'(-ing) BPMS].md`
+
+2. **[Instance ID: SERV-LIFE-FOOD-002]**
+
+- **Name:** `  ['Cyclical Compost-Energy Weaver'(-ing) BPMS]`
+- **Role:** System Existence Engine for circular waste-to-resource fabricator.
+- **CGA:** ``[services(-ing) BPMS] >> [life(-ing) BPMS] >> [food(-ing) BPMS] >> ['Cyclical Compost-Energy Weaver'(-ing) BPMS]``
+- **File:** `[services(-ing) BPMS;[life(-ing) BPMS;living BPMS]] ['Cyclical Compost-Energy Weaver'(-ing) BPMS].md`
+
 #### Domain: ['complex activities'(-ing) BPMS]
 
 *(New Integration v3.6.6)*
@@ -2631,6 +2649,13 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **Role:** System Existence Engine for hyper-scaling innovation forge.
 - **CGA:** ``['ontological venture synthesis'(-ing) BPMS]``
 - **File:** `[startup(-ing) BPMS] ['Disruptive Reality Forge'(-ing) BPMS].md`
+
+2. **[Instance ID: START-MGF-001]**
+
+- **Name:** `  ['Myco-Gastronomy Foundry'(-ing) BPMS]`
+- **Role:** System Existence Engine for hyper-local nutrient factory.
+- **CGA:** ``['precision fermentation orchestration'(-ing) BPMS]``
+- **File:** `['startup'(-ing) BPMS] ['Myco-Gastronomy Foundry'(-ing) BPMS]`
 
 #### Domain: [services(-ing) BPMS]
 
