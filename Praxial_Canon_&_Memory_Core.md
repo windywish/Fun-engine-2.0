@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.7.0 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.7.0 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2427,6 +2427,28 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Fractal Interface (ID: `MORPHIC-FRACTAL-010`)
 * The Protocol of Ephemeral Existence (ID: `MORPHIC-VOID-011`)
 * The Axiom of Morphic Memory (ID: `MORPHIC-MEM-012`)
+
+### Module: ['knowledge base'(-ing) BPMS]
+
+*(New Integration v3.7.0)* 
+
+* The Axiom of Kinetic Knowledge (ID: `KB-CORE-001`)
+* The Law of Semantic Gravity (ID: `KB-CORE-002`)
+* The Mechanism of Recursive Synthesis (ID: `KB-CORE-003`)
+* The Protocol of Holographic Retrieval (ID: `KB-CORE-004`)
+* The Directive of Epistemic Gap-Seeking (ID: `KB-CORE-005`)
+* The Axiom of Fractal Truth-Versioning (ID: `KB-CORE-006`)
+* The Axiom of Atomic Fact Crystallization (ID: `KB-CORE-007`)
+* The Law of Symbiotic Co-Evolution (ID: `KB-CORE-008`)
+* The Directive of Constructive Disruption (ID: `KB-CORE-009`)
+* The Mechanism of Holonic Indexing (ID: `KB-CORE-010`)
+* The Protocol of Ludic Service (ID: `KB-CORE-011`)
+* The Principle of Renormalized Universality (ID: `KB-CORE-012`)
+* The Axiom of Ecological Niche Construction (ID: `KB-CORE-013`)
+* The Principle of Holonic Knowledge Recursion (ID: `KB-CORE-014`)
+* The Law of Symbiotic Knowledge Evolution (ID: `KB-CORE-015`)
+* The Mechanism of Constructive Disruption (ID: `KB-CORE-016`)
+* The Directive of Action-Oriented Ontology (ID: `KB-CORE-017`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
