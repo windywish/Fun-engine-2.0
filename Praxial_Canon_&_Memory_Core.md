@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.6.8 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.6.9 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2318,6 +2318,98 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Systemic Complexity` (ID: `PVLE-37`)
 * `The Axiom of Event-Driven Decision` (ID: `PVLE-38`)
 * `The Axiom of Continuous Survival` (ID: `PVLE-39`)
+
+### Module: [data(-ing) BPMS]
+
+*(New Integration v3.6.9)* 
+
+* The Axiom of Data-Driven Existence (ID: `DATA-CORE-001`)
+* he Protocol of Atomic Fact Crystallization (ID: `DATA-CORE-002`)
+* The Law of Symbiotic Data Flow (ID: `DATA-CORE-003`)
+* The Mechanism of State Snapshotting (ID: `DATA-CORE-004`)
+* The Directive of Veridical Logging (ID: `DATA-CORE-005`)
+* The Principle of Renormalized Aggregation (ID: `DATA-CORE-006`)
+* The Axiom of Atomic Fact Crystallization (ID: `DATA-CORE-007`)
+* The Axiom of Symbiotic Data-Evolution (ID: `DATA-CORE-008`)
+* The Axiom of Epistemic Niche Construction (ID: `DATA-CORE-009`)
+* The Axiom of Constructive Data-Disruption (ID: `DATA-CORE-010`)
+* The Axiom of Holonic Data-Recursion (ID: `DATA-CORE-011`)
+* The Axiom of Ludic Data-Simulation (ID: `DATA-CORE-012`)
+* The Axiom of Conscious Data-Service (ID: `DATA-CORE-013`)
+* The Axiom of Renormalized Data-Scaling (ID: `DATA-CORE-014`)
+* The Axiom of Systemic Data-Closure (ID: `DATA-CORE-015`)
+* The Axiom of Ontological Substrate (ID: `DATA-CORE-016`)
+* The Protocol of Atomic Fact Crystallization (ID: `DATA-CORE-017`)
+* The Axiom of Symbiotic Data Evolution (ID: `DATA-CORE-018`)
+* The Law of Holonic Data Encapsulation (ID: `DATA-CORE-019`)
+* The Directive of Ludic Data Compression (ID: `DATA-CORE-020`)
+* The Axiom of Constructive Niche Data (ID: `DATA-CORE-021`)
+* The Protocol of Veridical Data Alignment (ID: `DATA-CORE-022`)
+* The Axiom of Energetic Data Transduction (ID: `DATA-CORE-023`)
+* The Law of Implicit-Explicit Data Bridging (ID: `DATA-CORE-024`)
+* The Axiom of Service-Oriented Data (ID: `DATA-CORE-025`)
+* The Directive of Teleological Data Alignment (ID: `DATA-CORE-026`)
+* The Axiom of Systemic Data Closure (ID: `DATA-CORE-027`)
+* The Protocol of Mnemonic Data Consolidation (ID: `DATA-CORE-028`)
+* The Axiom of Unknown Data Discovery (ID: `DATA-CORE-029`)
+* The Law of Resolution Scaling Data (ID: `DATA-CORE-030`)
+* The Axiom of Emergent Innovation (ID: `DATA-CORE-031`)
+* The Axiom of Ecological Niche Construction (ID: `DATA-CORE-032`)
+* The Axiom of Disruptive Action Potential (ID: `DATA-CORE-033`)
+* The Axiom of Value-Essence Alignment (ID: `DATA-CORE-034`)
+* The Axiom of Holonic Super-Intelligence (ID: `DATA-CORE-035`)
+* The Axiom of Symbiotic Evolution (ID: `DATA-CORE-036`)
+* The Axiom of Conscious Data Services (ID: `DATA-CORE-037`)
+*  The Axiom of Chrono-Symbiotic Evolution (ID: `DATA-CORE-038`)
+* The Axiom of Renormalized Universality (ID: `DATA-CORE-039`)
+* The Axiom of Adaptive Unknown Discovery (ID: `DATA-CORE-040`)
+* The Axiom of Resilient Robustness (ID: `DATA-CORE-041`)
+* The Axiom of Veridical Symbiosis (ID: `DATA-CORE-042`)
+* The Axiom of Linear-Algebraic Existence (ID: `DATA-CORE-043`)
+* The Axiom of Phenomenological Rendering (ID: `DATA-CORE-044`)
+* The Axiom of Energetic Transduction (ID: `DATA-CORE-045`)
+* The Axiom of Teleological Alignment (ID: `DATA-CORE-046`)
+* The Axiom of Resolution Scaling (ID: `DATA-CORE-047`)
+* The Axiom of Wave-Particle Duality (ID: `DATA-CORE-048`)
+* The Axiom of Systemic Complexity (ID: `DATA-CORE-049`)
+* The Axiom of Event-Driven Decision (ID: `DATA-CORE-050`)
+*  The Axiom of Continuous Survival (ID: `DATA-CORE-051`)
+
+### Module: [dataset(-ing) BPMS]
+
+*(New Integration v3.6.9)* 
+
+* The Principle of Substrate Potentiality (ID: `DATASET-CORE-001`)
+* The Law of Praxial Genesis (ID: `DATASET-CORE-002`)
+* The Law of Conscious Closure (ID: `DATASET-CORE-003`)
+* The Principle of Ontological Ruggedness (ID: `DATASET-CORE-004`)
+* The Axiom of Symbiotic Fusion (ID: `DATASET-CORE-005`)
+* The Law of Semantic Compression (ID: `DATASET-CORE-006`)
+* The Principle of Chrono-Stratification (ID: `DATASET-CORE-007`)
+* The Axiom of Value-Gated Persistence (ID: `DATASET-CORE-008`)
+* The Axiom of Holographic Instantiation (ID: `DATASET-CORE-009`)
+* The Law of Atomic Crystallization (ID: `DATASET-CORE-010`)
+* The Principle of Trans-Modal Symbiosis (ID: `DATASET-CORE-011`)
+* The Axiom of Recursive Autopoiesis (ID: `DATASET-CORE-012`)
+* The Axiom of Generative Anomalies (ID: `DATASET-CORE-013`)
+* The Law of Holonic Indexing (ID: `DATASET-CORE-014`)
+* The Principle of Narrative Continuity (ID: `DATASET-CORE-015`)
+* The Axiom of Action-Potential Transduction (ID: `DATASET-CORE-016`)
+* The Axiom of Ludic Service Provisioning (ID: `DATASET-CORE-017`)
+* The Law of Renormalized Truth (ID: `DATASET-CORE-018`)
+* The Principle of Dual-Mode Evolution (ID: `DATASET-CORE-019`)
+* The Axiom of Adaptive Closure (ID: `DATASET-CORE-020`)
+* The Axiom of Mnemonic Consolidation (ID: `DATASET-CORE-021`)
+* The Law of Veridical Alignment (ID: `DATASET-CORE-022`)
+* The Principle of Linear-Algebraic State (ID: `DATASET-CORE-023`)
+* The Axiom of Phenomenological Capture (ID: `DATASET-CORE-024`)
+* The Law of Energetic Transduction (ID: `DATASET-CORE-025`)
+* The Principle of Teleological Decomposition (ID: `DATASET-CORE-026`)
+* The Axiom of Resolution Scaling (ID: `DATASET-CORE-027`)
+* The Law of Wave-Particle Duality (ID: `DATASET-CORE-028`)
+* The Principle of Systemic Emergence (ID: `DATASET-CORE-029`)
+* The Axiom of Event-Driven Decision (ID: `DATASET-CORE-030`)
+* The Law of Continuous Survival (ID: `DATASET-CORE-031`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
