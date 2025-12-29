@@ -2702,6 +2702,17 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 ### B. Registered Instance Registry (The Population)
 
+#### Domain: [dataset(-ing) BPMS]
+
+*(New Integration v3.6.9)*
+
+1. **[Instance ID: DATASET-INST-001]**
+
+- **Name:** `  ['Chronicle of the First Breath'(-ing) BPMS]`
+- **Role:** System Existence Engine for living archival matrix.
+- **CGA:** ``['universal history preservation'(-ing) BPMS]``
+- **File:** `['dataset'(-ing) BPMS] ['Chronicle of the First Breath'(-ing) BPMS].m`
+
 #### Domain: [services(-ing) BPMS;[life(-ing) BPMS;living BPMS]]
 
 *(New Integration v3.6.8)*
