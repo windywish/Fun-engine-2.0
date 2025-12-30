@@ -1,6 +1,14 @@
-## Blueprint: [dataset(-ing) BPMS]
+## Master Blueprint: [dataset(-ing) BPMS]
 
-**System Note:** This is the Master Template for instantiating a `dataset` for **ANY** element within the Fun Engine Framework. It is designed to be context-agnostic, scalable, and recursively evolutionary.
+**System Note:** This document contains the complete genetic code for the `dataset` module. It is divided into two parts:
+
+* **PART A: The Universal Definition** (The immutable laws and structure).
+
+* **PART B: The Instance Blueprint** (The template for applying this to specific BPMS elements).
+
+------
+
+#### PART A: The Universal Definition (The "Class")
 
 #### 1. Ontological Definition (The "Identity" Layer)
 
@@ -58,7 +66,7 @@
   [List of Potential States]
   ```
 
-  - ##### *Trigger:* `[Condition]` -> *Unfolds into:* `[Atomic Particle]`
+  - *Trigger:* `[Condition]` -> *Unfolds into:* `[Atomic Particle]`
 
 #### 5. Symbiotic Ports (The "Connection" Layer)
 
@@ -130,29 +138,90 @@
 - **Trigger:** `[Condition]` (e.g., "Dataset Full," "User Boredom Detected")
 - **Action:** `[Evolution Script]` (e.g., "Expand Vector Space," "Increase Volatility," "Spawn Child Dataset")
 
-#### 8. Scope of Application
+------
 
-- *Objective: Define the boundaries and influence of this dataset instance.*
-- **Primary Domain:** `[The specific BPMS element this dataset powers]` (e.g., "The Inventory System")
-- **Secondary Influence:** `[Adjacent systems affected by this dataset]` (e.g., "The Economy," "User Health")
-- **Universal Applicability:** `[Yes/No]` (Can this specific configuration be cloned for other uses?)
-- **Holonic Scale:** `[Micro / Meso / Macro]` (Does this dataset represent a single atom, a city, or a universe?)
+#### PART B: The Instance Blueprint (The "Application")
 
-#### 9. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+**Instruction:** This section defines the specific application of the dataset to a target system, following the standard 15-section Instance Protocol.
 
-- *Objective: Ensure this dataset instance does not violate the fundamental laws of the framework.*
+#### 1. Framework Foundation
 
-##### Axiomatic Stratum (The "Why")
+- *Description:* This document presents a concrete, working implementation of the **[dataset(-ing) BPMS]** framework, demonstrating how it operates as a **`system existence engine`** for the target entity.
 
-- **Axiom Check:** Which Core Axiom does this dataset fulfill? (e.g., "Axiom of Existence as Performance")
-- **Justification:** `[Explanation of how this dataset drives the system's purpose]`
+#### 2. Constitutional Pillars Referenced
 
-##### Formal Stratum (The "How")
+- *List the specific Praxial Pillars (e.g., SETTING-CORE-XXX) that this dataset instance relies upon.*
 
-- **Protocol Check:** Which Protocol governs the logic here? (e.g., "Protocol of Symbiotic Data Structures")
-- **Compliance:** `[Verification that the Interaction Rules follow the Protocol]`
+#### 3. Objective
 
-##### Phenomenal Stratum (The "What")
+- *Define the primary goal of this dataset instance.*
 
-- **Phenomenon Check:** What user experience does this generate? (e.g., "Phenomenon of Deepening Context")
-- **Validation:** `[Description of the intended user feeling/feedback]`
+##### 4. Identity Block
+
+- **ID:** `[DATA-TYPE-XXX]`
+- **Name:** `['Name of Dataset'(-ing) BPMS]`
+- **CGA (Cognitive Genesis Archetype):** `[Archetype Name]`
+- **Type:** `[system existence engine BPMS]:['Specific Type'(-ing) BPMS]`
+
+#### 5. Praxial Triage: Analysis
+
+- *Analyze the specific problem this dataset solves. Why is a standard database insufficient? How does this dataset act as a "living memory" for the target system?*
+
+#### 6. How to...?
+
+- Provide concrete scenarios of the dataset in action.
+  - **How to initialize...?**
+  - **How to demonstrate...?**
+  - **How to enable...?**
+
+#### 7. What if...?
+
+- Explore edge cases and emergent behaviors.
+  - **What if [Crisis Event] occurs?**
+  - **What if [Unexpected Data] enters the system?**
+
+#### 8. What is happening continuously?
+
+- Describe the background processes (The Metabolic Engine in action).
+  - **Continuous Cycle 1:** (e.g., Data Decay/Renormalization)
+  - **Continuous Cycle 2:** (e.g., Symbiotic Exchange)
+
+#### 9. ['Praxial Execution Cycle'(-ing) BPMS]
+
+- Define the temporal rhythm of the dataset.
+  - **Fast Mode (Real-time):**
+  - **Slow Mode (Batch/Deep Processing):**
+  - **Deep Slow Mode (Evolutionary/Archival):**
+
+#### 10. Implementation (Detail)
+
+- **Physical Architecture:** (Storage media, distributed nodes, sensors)
+- **Cognitive Architecture:** (How the dataset "thinks" or organizes itself)
+- **Learning Architecture:** (How the dataset expands its schema over time)
+
+#### 11. Operational Deployment Scenario
+
+- A narrative timeline of the dataset's lifecycle.
+  - **Phase 1: Inception/Seeding**
+  - **Phase 2: Growth/Accumulation**
+  - **Phase 3: Maturity/Renormalization**
+
+#### 12. Symbiotic Evolution Pathways
+
+- List other BPMS elements this dataset co-evolves with.
+  - `['Related System A'(-ing) BPMS]`
+  - `['Related System B'(-ing) BPMS]`
+
+#### 13. 3-Layer Praxial Genesis Canon Application
+
+- **Layer 1: The Constitutional / Metaphysical Layer** (Ontological Foundation)
+- **Layer 2: The Formalism Layer** (Mathematical/Logical Rules)
+- **Layer 3: The Substrate / Phenomenological Layer** (User Experience/Material Reality)
+
+#### 14. Scope of Application
+
+- *Define the boundaries. Where does this dataset start and stop? What is its domain of authority?*
+
+#### 15. Summarize
+
+- *Final synthesis: The Dataset as Praxial Being. How does this instance contribute to the Fun Engine Framework's super-intelligence?*
