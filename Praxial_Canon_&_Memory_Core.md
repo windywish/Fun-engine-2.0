@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.7.0 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.7.2 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2797,6 +2797,34 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **Role:** System Existence Engine for emergent narrative ecosystem.
 - **CGA:** ``['societal complexity pump'(-ing) BPMS]``
 - **File:** `['complex activities'(-ing) BPMS]: ['SimWorld Civilization Catalyst'(-ing) BPMS].md`
+
+2. **[Instance ID: COMPLEX-SKO-001]**
+
+- **Name:** `   ['The Alchemical Maître D''(-ing) BPMS]`
+- **Role:** System Existence Engine for adaptive gastronomic startup.
+- **CGA:** ``['culinary orchestration & business evolution'(-ing) BPMS]``
+- **File:** `['complex activities'(-ing) BPMS] ['Symbiotic Kitchen Operator'(-ing) BPMS].md`
+
+3. **[Instance ID: COMPLEX-SIO-001]**
+
+- **Name:** `   ['The Synaptic Inventory Oracle'(-ing) BPMS]`
+- **Role:** System Existence Engine for economic-material bridge.
+- **CGA:** ``['predictive supply-demand homogenization'(-ing) BPMS]``
+- **File:** `['complex activities'(-ing) BPMS] ['Synaptic Inventory Oracle'(-ing) BPMS].md`
+
+4. **[Instance ID: COMPLEX-BMF-004]**
+
+- **Name:** `   ['The Bio-Metric Fueling Protocol'(-ing) BPMS]`
+- **Role:** System Existence Engine for life-integration.
+- **CGA:** ``['biological optimization service'(-ing) BPMS]``
+- **File:** `['complex activities'(-ing) BPMS]  ['The Bio-Metric Fueling Protocol'(-ing) BPMS] (version 1.0).md`
+
+5. **[Instance ID: COMPLEX-BMF-005]**
+
+- **Name:** `   ['The Bio-Metric Fueling Protocol'(-ing) BPMS]`
+- **Role:** System Existence Engine for life-integration.
+- **CGA:** ``['biological optimization service'(-ing) BPMS]``
+- **File:** `['complex activities'(-ing) BPMS]  ['The Bio-Metric Fueling Protocol'(-ing) BPMS].md
 
 #### Domain: [startup(-ing) BPMS]
 
