@@ -1,4 +1,4 @@
-## Template for Basic settings
+## Blueprint: Basic settings
 
 ### Module: ['Praxial Interaction Manifold (PIM)'(-ing) BPMS]
 

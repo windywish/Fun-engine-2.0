@@ -1,4 +1,4 @@
-## Template for Instance
+## Blueprint: Instance
 
 ### ['robot'(-ing) BPMS]: ['Adaptive Agricultural Polyculture Cultivator'(-ing) BPMS]
 
