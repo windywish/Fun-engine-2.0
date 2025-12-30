@@ -2824,7 +2824,7 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **Name:** `   ['The Bio-Metric Fueling Protocol'(-ing) BPMS]`
 - **Role:** System Existence Engine for life-integration.
 - **CGA:** ``['biological optimization service'(-ing) BPMS]``
-- **File:** `['complex activities'(-ing) BPMS]  ['The Bio-Metric Fueling Protocol'(-ing) BPMS].md
+- **File:** `['complex activities'(-ing) BPMS]  ['The Bio-Metric Fueling Protocol'(-ing) BPMS].md`
 
 #### Domain: [startup(-ing) BPMS]
 
