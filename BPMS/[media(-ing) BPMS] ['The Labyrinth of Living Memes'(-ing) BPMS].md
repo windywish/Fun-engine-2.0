@@ -204,9 +204,11 @@ Month 4: The Hibernation (System dormancy, passive lore only, preparing for next
 
 This implementation—**The Labyrinth of Living Memes**—demonstrates the power of the **Fun Engine Framework** to re-enchant reality. It fuses:
 
-1. **Media:** As a living, reactive substance.
-2. **Symbiosis:** As a deep coupling between player and system.
-3. **Foraging/Escape:** As the fundamental loops of seeking and transcending.
+* **Media:** As a living, reactive substance.
+
+* **Symbiosis:** As a deep coupling between player and system.
+
+* **Foraging/Escape:** As the fundamental loops of seeking and transcending.
 
 It transforms the user from a passive consumer into an active **Reality Forager**. It proves that the most immersive graphics card is the human imagination, and the best open world is the one outside your door.
 
