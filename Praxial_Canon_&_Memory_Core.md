@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.7.5 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.7.6 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge  integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2526,6 +2526,55 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Atomic Facticity (ID: `LDS-CORE-023`)
 * The Law of Symbiotic Parameterization (ID: `LDS-CORE-024`)
 * The Principle of Cross-Modal Transmutation (ID: `LDS-CORE-025`)
+
+### Module: [media(-ing) BPMS]
+
+*(New Integration v3.7.6)*
+
+* The Axiom of Active Substrate (ID: `MEDIA-001`)
+* The Axiom of Trans-Diegetic Permeability (ID: `MEDIA-002`)
+* The Axiom of Recursive Production (ID: `MEDIA-003`)
+* The Axiom of Diegetic Instantiation (ID: `MEDIA-004`)
+* The Axiom of The Holographic Witness (ID: `MEDIA-005`)
+* The Axiom of Mythic Feedback (ID: `MEDIA-006`)
+* The Axiom of Holonic World-Weaving (ID: `MEDIA-007`)
+* The Axiom of Cognitive Terraforming (ID: `MEDIA-008`)
+* The Axiom of Hyperstitional Action (ID: `MEDIA-009`)
+* The Axiom of Dual-Mode Resonance (ID: `MEDIA-010`)
+* The Axiom of Renormalized Meaning (ID: `MEDIA-011`)
+* The Axiom of Ludic Discovery (ID: `MEDIA-012`)
+* The Axiom of Mnemonic Resonance (ID: `MEDIA-013`)
+* The Axiom of Vectorial Manifestation (ID: `MEDIA-014`)
+* The Axiom of Fractal Resolution (ID: `MEDIA-015`)
+* The Axiom of Teleological Survival (ID: `MEDIA-016`)
+
+### Module:  ['Real2Render2Real (R2R2R)'(-ing) BPMS]
+
+*(New Integration v3.7.6)*
+
+* The Axiom of Kinematic Transduction (ID: `R2R-CORE-001`)
+* The Axiom of Synthetic Ontology (ID: `R2R-CORE-002`)
+* The Axiom of The Ostensive Atom (ID: `R2R-CORE-003`)
+* The Axiom of Latent Symbiosis (ID: `R2R-CORE-004`)
+
+### Module:  ['Praxial Learning Forge'(-ing) BPMS]
+
+*(New Integration v3.7.6)*
+
+* The Axiom of Accelerated Mastery (ID: `FORGE-001`)
+* The Axiom of Operational Ontology (ID: `FORGE-002`)
+* The Axiom of Ostensive Grounding (ID: `FORGE-003`)
+* The Axiom of Recursive Competence (ID: `FORGE-004`)
+* The Axiom of Crystallized Skill (ID: `FORGE-005`)
+* The Axiom of Vectorial Collapse (ID: `FORGE-006`)
+* The Axiom of Fractal Competence (ID: `FORGE-007`)
+* The Axiom of Adaptive Survival (ID: `FORGE-008`)
+* The Axiom of Generative Disruption (ID: `FORGE-009`)
+* The Axiom of Holonic Intelligence (ID: `FORGE-010`)
+* The Axiom of Ecological Possibility (ID: `FORGE-011`)
+* The Axiom of Temporal Symbiosis (ID: `FORGE-012`)
+* The Axiom of Renormalized Universality (ID: `FORGE-013`)
+* The Axiom of Emergent Discovery (ID: `FORGE-014`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
