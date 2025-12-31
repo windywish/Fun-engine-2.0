@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.7.2 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.7.5 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2430,7 +2430,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 ### Module: ['knowledge base'(-ing) BPMS]
 
-*(New Integration v3.7.0)* 
+*(New Integration v3.7.2)* 
 
 * The Axiom of Kinetic Knowledge (ID: `KB-CORE-001`)
 * The Law of Semantic Gravity (ID: `KB-CORE-002`)
@@ -2466,6 +2466,66 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Constructive Interference (ID: `KB-CORE-032`)
 * The Law of Entropic Defense (ID: `KB-CORE-033`)
 * The Axiom of The Living Library (ID: `KB-CORE-034`)
+
+### Module: ['(ecological) possibility'(-ing) BPMS;dataset(-ing) BPMS]
+
+*(New Integration v3.7.3)* 
+
+* The Axiom of Potential Ecology (ID: `ECO-POSS-001`)
+* The Law of Ontological Pressure (ID: `ECO-POSS-002`)
+* The Axiom of Symbiotic Facticity (ID: `ECO-POSS-003`)
+* The Axiom of Holonic Resonance (ID: `ECO-POSS-004`)
+* The Protocol of Disruptive Genesis (ID: `ECO-POSS-005`)
+* The Law of Coherent Continuity (ID: `ECO-POSS-006`)
+* The Axiom of Playful Consciousness (ID: `ECO-POSS-007`)
+* The Protocol of Dual-Mode Symbiosis (ID: `ECO-POSS-008`)
+* The Law of Renormalized Universality (ID: `ECO-POSS-009`)
+* The Protocol of Mnestic Consolidation (ECO-POSS-010)
+* The Axiom of Veridical Resonance (ECO-POSS-011)
+* The Law of Vector Navigation (ECO-POSS-012)
+* The Interface of Qualia (ECO-POSS-013)
+* The Conservation of Narrative Energy (ECO-POSS-014)
+* The Fractal Purpose Alignment (ECO-POSS-015)
+* The Zoom-Lens Renormalization (ECO-POSS-016)
+* The Contextual Wave Function (ECO-POSS-017)
+* The Autopoietic Churn (ECO-POSS-018)
+* The Resonant Constellation Map Knot (ECO-POSS-019)
+* The Imperative of Existential Inertia (ECO-POSS-020)
+* The Protocol of Dimensional Folding (ECO-POSS-021)
+* The Law of Narrative Gravity (ECO-POSS-022)
+* The Axiom of Trophic Data Cascades (ECO-POSS-023)
+* The Protocol of Memetic Mutation (ECO-POSS-024)
+* The Law of Entropy Recycling (ECO-POSS-025)
+
+### Module: ['(lightweight) dataset'(-ing) BPMS]
+
+*(New Integration v3.7.5)* 
+
+* The Axiom of Inertial Fact (ID: `LDS-CORE-001`)
+* The Law of Metabolic Uptake (ID: `LDS-CORE-002`)
+* The Principle of Schema Resonance (ID: `LDS-CORE-003`)
+* The Axiom of Contextual Liberation (ID: `LDS-CORE-004`)
+* The Axiom of Holographic Seeding (ID: `LDS-CORE-005`)
+* The Law of Cognitive Artifacts (ID: `LDS-CORE-006`)
+* The Principle of Narrative Fossilization (ID: `LDS-CORE-007`)
+* The Axiom of Dual-Mode Resonance (ID: `LDS-CORE-008`)
+* The Principle of Renormalization Compression (ID: `LDS-CORE-009`)
+* The Law of Latent Discovery (ID: `LDS-CORE-010`)
+* The Principle of Mnestic Consolidation (ID: `LDS-CORE-011`)
+* The Axiom of Truth-Reality Duality (ID: `LDS-CORE-012`)
+* The Law of Vector-Matrix Symbiosis (ID: `LDS-CORE-013`)
+* The Principle of Granular Zoom (ID: `LDS-CORE-014`)
+* The Axiom of Kinetic-Potential Exchange (ID: `LDS-CORE-015`)
+* The Principle of Phenomenological Anchoring (ID: `LDS-CORE-016`)
+* The Axiom of Fractal Task Decomposition (ID: `LDS-CORE-017`)
+* The Law of Particle-Field Duality (ID: `LDS-CORE-018`)
+* The Principle of Emergent Complexity (ID: `LDS-CORE-019`)
+* The Axiom of Event-Decision Loop (ID: `LDS-CORE-020`)
+* The Directive of Continuous Survival (ID: `LDS-CORE-021`)
+* The Axiom of Existence-by-Definition (ID: `LDS-CORE-022`)
+* The Principle of Atomic Facticity (ID: `LDS-CORE-023`)
+* The Law of Symbiotic Parameterization (ID: `LDS-CORE-024`)
+* The Principle of Cross-Modal Transmutation (ID: `LDS-CORE-025`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
@@ -2758,6 +2818,24 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 ### B. Registered Instance Registry (The Population)
 
+#### Domain: ['(lightweight) dataset'(-ing) BPMS]
+
+*(New Integration v3.6.9)*
+
+1. **[Instance ID: LDS-BPMS-SPOTIFY-001]**
+
+- **Name:** `  ['Global Rhythm Matrix'(-ing) BPMS]`
+- **Role:** System Existence Engine for Cultural Rhythm Matrix.
+- **CGA:** `['Cultural Fossil'(-ing) BPMS]`
+- **File:** `['(lightweight) dataset'(-ing) BPMS] ['Global Rhythm Matrix'(-ing) BPMS].md`
+
+2. **[Instance ID: LDS-BPMS-001-INST-001]**
+
+- **Name:** `  ['The Codex of Alchemical Physics'(-ing) BPMS]`
+- **Role:** System Existence Engine for Physics Matrix.
+- **CGA:** `['Holographic Seed'(-ing) BPMS]`
+- **File:** `['(lightweight) dataset'(-ing) BPMS] ['The Codex of Alchemical Physics'(-ing) BPMS].md`
+
 #### Domain: [dataset(-ing) BPMS]
 
 *(New Integration v3.6.9)*
@@ -2767,7 +2845,28 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **Name:** `  ['Chronicle of the First Breath'(-ing) BPMS]`
 - **Role:** System Existence Engine for living archival matrix.
 - **CGA:** ``['universal history preservation'(-ing) BPMS]``
-- **File:** `['dataset'(-ing) BPMS] ['Chronicle of the First Breath'(-ing) BPMS].m`
+- **File:** `['dataset'(-ing) BPMS] ['Chronicle of the First Breath'(-ing) BPMS].md`
+
+2. **[Instance ID: DATA-CTX-001]**
+
+- **Name:** `  ['Holographic Context Lattice'(-ing) BPMS]`
+- **Role:** System Existence Engine for Living Knowledge Graph.
+- **CGA:** `['Semantic Geometry'(-ing) BPMS]`
+- **File:** `[dataset(-ing) BPMS] ['Holographic Context Lattice'(-ing) BPMS].md`
+
+3. **[Instance ID: DATA-INV-001]**
+
+- **Name:** `  ['Synaptic Inventory Lattice'(-ing) BPMS]`
+- **Role:** System Existence Engine for Material Resource Graph.
+- **CGA:** 
+- **File:** `[dataset(-ing) BPMS] ['Synaptic Inventory Lattice'(-ing) BPMS].md`
+
+4. **[Instance ID: DATA-OPS-LOG-001]**
+
+- **Name:** `  ['Kinetic Shop Chronicle'(-ing) BPMS]`
+- **Role:** System Existence Engine for Business Metabolism Tracker.
+- **CGA:** `['Operational Reflex'(-ing) BPMS]`
+- **File:** `[dataset(-ing) BPMS] ['Kinetic Shop Chronicle'(-ing) BPMS].md`
 
 #### Domain: [services(-ing) BPMS;[life(-ing) BPMS;living BPMS]]
 
