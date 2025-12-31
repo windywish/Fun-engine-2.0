@@ -10,10 +10,16 @@
 
 ### 2. Ontological Definition (The "Identity")
 
+- **ID:** `LDS-BPMS-001-INST-001`
+- **Name:** `['The Codex of Alchemical Physics'(-ing) BPMS]`
+- **CGA (Cognitive Genesis Archetype):** `The Holographic Seed`
+- **Type:** `['system existence engine'(-ing) BPMS]:['Physics Matrix'(-ing) BPMS]`
+
 - **Target Entity:** `Codex_Alchemy_v1.json`
 - **Existence Mode:** `[x] Dynamic Anchor (Source of Truth)`
 - **Universal Class:** `Class: Physics_Matrix`
 - **Praxial Role:** The **Legislator** of the Chemical World. It dictates what happens when matter collides.
+- **Objective:** To define and enforce the immutable laws of chemical interaction and transmutation within the simulation, serving as the physics engine for crafting and magic.
 
 ### 3. The Form (The "Container")
 
@@ -27,9 +33,9 @@
 
 - Physics Matrix:
 
-   Defines the combinatorial logic of the world.
+  Defines the combinatorial logic of the world.
 
-  - *Entry Example:* `{"input": ["Fire", "Water"], "output": "Steam", "energy": 10, "color": "#FFFFFF", "sound": "hiss.wav"}`
+  - *Entry Example:* `{"input": ["Fire", "Water"], "output": "Steam", "energy": 10, "color": "#FFFF", "sound": "hiss.wav"}`
 
 - **Cognitive Artifact:** AI Agents carry this file. An NPC "Alchemist" is smart only because they possess this specific dataset. If you steal their Codex (delete the file from their inventory), they forget how to make potions.
 
@@ -46,7 +52,7 @@
 
 - Integration:
 
-  - Feeds `['visual(-ing) BPMS]` with color data (`#FFFFFF`).
+  - Feeds `['visual(-ing) BPMS]` with color data (`#FFFF`).
   - Feeds `['audio(-ing) BPMS]` with sound data (`hiss.wav`).
   - Feeds `['complex activities'(-ing) BPMS]` (Crafting System) with logic.
 
