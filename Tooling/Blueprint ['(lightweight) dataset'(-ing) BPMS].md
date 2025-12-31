@@ -47,11 +47,15 @@
 ### 2. Ontological Definition (The "Identity")
 
 * **ID:** 
+* **Name:**
+* **CGA (Cognitive Genesis Archetype):**
+* **Type:**
 
 - **Target Entity:** `['(lightweight) dataset'(-ing) BPMS]`
 - **Existence Mode:** `[x] Dynamic Anchor (Source of Truth)`
 - **Universal Class:** `Class: System_Existence_Engine` (It defines what exists).
 - **Praxial Role:** The **DNA** of the Simulation.
+- **Objective**
 
 ### 3. The Form (The "Container")
 
