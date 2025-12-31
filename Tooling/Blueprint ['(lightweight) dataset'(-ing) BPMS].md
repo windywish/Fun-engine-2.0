@@ -55,7 +55,7 @@
 - **Existence Mode:** `[x] Dynamic Anchor (Source of Truth)`
 - **Universal Class:** `Class: System_Existence_Engine` (It defines what exists).
 - **Praxial Role:** The **DNA** of the Simulation.
-- **Objective**
+- **Objective:**
 
 ### 3. The Form (The "Container")
 
