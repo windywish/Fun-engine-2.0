@@ -46,16 +46,16 @@
 
 ### 2. Ontological Definition (The "Identity")
 
-* **ID:** 
-* **Name:**
-* **CGA (Cognitive Genesis Archetype):**
-* **Type:**
+- **ID:** `LDS-BPMS-001`
+- **Name:** `['(lightweight) dataset'(-ing) BPMS]`
+- **CGA (Cognitive Genesis Archetype):** `The Holographic Seed`
+- **Type:** `['system existence engine'(-ing) BPMS] or ['atomic facts'(-ing) BPMS]:['(lightweight) dataset'(-ing) BPMS]`
 
 - **Target Entity:** `['(lightweight) dataset'(-ing) BPMS]`
 - **Existence Mode:** `[x] Dynamic Anchor (Source of Truth)`
 - **Universal Class:** `Class: System_Existence_Engine` (It defines what exists).
 - **Praxial Role:** The **DNA** of the Simulation.
-- **Objective:**
+- **Objective:** To serve as the fundamental, portable, and active substrate that defines existence, preserves memory, and enforces the laws of physics within the Fun Engine Framework.
 
 ### 3. The Form (The "Container")
 
