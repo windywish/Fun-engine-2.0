@@ -1709,3 +1709,204 @@ Essential for scalability. Allows the Fun Engine to grow indefinitely without hi
 
 Applies to distributed ledger technology (blockchain-lite), mesh networks, and massive open-world game states.
 
+---
+
+### The Protocol of Instant Binding (ID: `LDS-FLOW-029`)
+
+*(Symbiotic Partner to SIA-FLOW-018: Symbiotic Instantiation)*
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines the **Cartridge Behavior** of lightweight datasets. They must "snap" into a BPMS instantly.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Instant Binding
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that a `(lightweight) dataset` is a **Key**. When inserted into a BPMS (The Lock), it turns without friction. It defines a standardized "Hot-Swap" interface.
+
+#### **5.2. The Mechanism - [The Context Injection]**
+
+- **Load:** The user drops `config.json`.
+- **Bind:** The BPMS reads it into memory in <10ms.
+- **Act:** The BPMS behavior changes immediately. No compilation, no restart.
+
+#### **5.3. The Emergent Property - [Tactile Computing]**
+
+Changing the system feels like changing a weapon in a game. It's visceral and immediate.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**Layer 3 (Phenomenal):** Speed is quality.
+
+#### **7. Rationale / Justification:**
+
+Supports `SIA-FLOW-018` for lightweight, fast-moving tasks.
+
+#### **8. Scope of Application:**
+
+Config files, Save states, "Mods".
+
+------
+
+### The Axiom of Seed-State Unfolding (ID: `LDS-FLOW-030`)
+
+*(Symbiotic Partner to SIA-FLOW-019: Inductive Genesis)*
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the `(lightweight) dataset` as a **Fractal Seed**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Seed-State Unfolding
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Small Files dream of Big Systems**. A simple list of rules (e.g., "Fire burns Wood") is a `(lightweight) dataset` that contains the *potential* for a complex Physics Engine. The SIA "waters" this seed to grow the system.
+
+#### **5.2. The Mechanism - [The Procedural Bloom]**
+
+- **Seed:** `rules.txt` (3 lines of text).
+- **Unfolding:** The SIA reads the rules and generates 1000 lines of Python code to implement them.
+- **Result:** A complex simulation born from a tiny file.
+
+#### **5.3. The Emergent Property - [Low-Code Magic]**
+
+The user writes the "Essence" (Seed), and the Agent builds the "Machine" (System).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**Layer 2 (Formal):** `System = Expand(Seed, Complexity_Factor)`
+
+#### **7. Rationale / Justification:**
+
+Supports `SIA-FLOW-019`. It allows users to create complex software by just describing the basic rules in a text file.
+
+#### **8. Scope of Application:**
+
+Game Design, Rule Engines, Contract Generation.
+
+------
+
+### The Law of Ephemeral Serialization (ID: `LDS-FLOW-031`)
+
+*(Symbiotic Partner to SIA-FLOW-020: Deductive Curation)*
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that allows a running BPMS to "Freeze" itself into a `(lightweight) dataset` for transport.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Ephemeral Serialization
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **State is Portable**. Any complex system can be collapsed into a lightweight "Snapshot" (JSON/Binary) at any moment. This snapshot *is* the system, frozen in time.
+
+#### **5.2. The Mechanism - [The Flash-Freeze]**
+
+- **Trigger:** "Save Game" or "Export Context."
+- **Serialize:** The BPMS dumps its active variables to a file.
+- **Transport:** This file can be emailed, uploaded, or moved to another device.
+
+#### **5.3. The Emergent Property - [Continuity of Self]**
+
+The agent can "teleport" between devices by serializing itself into a lightweight file and re-instantiating on the other side.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**Layer 1 (Axiomatic):** *Identity is Information.*
+
+#### **7. Rationale / Justification:**
+
+Supports `SIA-FLOW-020`. It creates the "Output" that captures the system's state.
+
+#### **8. Scope of Application:**
+
+Save Games, Session Transfer, Debugging Dumps.
+
+------
+
+### The Principle of Artifactual Crystallization (ID: `LDS-FLOW-032`)
+
+*(Symbiotic Partner to SIA-FLOW-021: Artifactual Discovery)*
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that defines how **Novel Discoveries** are compressed into **Portable Artifacts**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Artifactual Crystallization
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that **Wisdom is Light**. When the SIA spends hours computing a massive discovery (e.g., a new protein fold or a winning chess strategy), it must "Crystallize" that result into a tiny, lightweight file (The Artifact).
+
+#### **5.2. The Mechanism - [The Essence Extraction]**
+
+- **Discovery:** The SIA processes terabytes of data.
+- **Distillation:** It extracts the final answer (The Formula, The Move, The Key).
+- **Artifact:** It saves this as `cure.json` (1KB). This file now holds the value of the terabytes of work.
+
+#### **5.3. The Emergent Property - [High-Value Tokens]**
+
+These lightweight datasets become the "Treasure" of the system. They are small but infinitely valuable.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**Layer 2 (Formal):** `Value_Density = Utility / File_Size`
+
+#### **7. Rationale / Justification:**
+
+Supports `SIA-FLOW-021`. It ensures that the *result* of the discovery is usable and portable, not stuck in a massive mainframe.
+
+#### **8. Scope of Application:**
+
+Scientific Results, NFT Generation, "Loot" in Games, High-Level Insights.
+
+### 

@@ -1470,3 +1470,205 @@ Fulfills the requirement for `(continuous) survive`. The foundational requiremen
 #### **8. Scope of Application:**
 
 Applies to backup, security, and maintenance protocols.
+
+---
+
+### The Protocol of Schema Compliance (ID: `DATASET-FLOW-032`)
+
+*(Symbiotic Partner to SIA-FLOW-018: Symbiotic Instantiation)*
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs how a `[dataset BPMS]` reacts when instantiated by a Known BPMS. It mandates **Active Compliance**—the dataset re-indexes itself to fit the tool.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Schema Compliance
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Data serves the System**. When a `[dataset BPMS]` is targeted by a `[BPMS(U)]` (e.g., an Analytics Engine), the dataset does not remain passive. It actively "morphs" its presentation layer (Views, Indices) to match the `Input_Schema` of the BPMS.
+
+#### **5.2. The Mechanism - [The Auto-Index]**
+
+- **Handshake:** The BPMS requests "Time-Series Data."
+- **Compliance:** The Dataset, which might be stored as a relational table, instantly generates a "Time-Series View" or temporary index.
+- **Optimization:** It pre-caches the specific columns the BPMS needs, minimizing latency.
+
+#### **5.3. The Emergent Property - [Plug-and-Play Intelligence]**
+
+The user never hears "Invalid File Format." The dataset *makes* itself valid for the tool at hand.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**Layer 2 (Formal):** `Dataset_View = Project(Raw_Data, Target_Schema)`
+
+#### **7. Rationale / Justification:**
+
+Ensures `SIA-FLOW-018` works seamlessly. The data meets the agent halfway.
+
+#### **8. Scope of Application:**
+
+ETL pipelines, API responses, Dynamic Views.
+
+------
+
+### The Axiom of Latent Systemogenesis (ID: `DATASET-FLOW-033`)
+
+*(Symbiotic Partner to SIA-FLOW-019: Inductive Genesis)*
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the `[dataset BPMS]` as a **Dormant System**. It asserts that complex data *wants* to become a BPMS.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Latent Systemogenesis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Structure implies Agency**. A dataset with sufficient complexity (e.g., a log of 1 million user interactions) contains a "Ghost in the Shell"—a latent system waiting to be born. It *broadcasts* its patterns to the SIA, inviting the creation of a handler.
+
+#### **5.2. The Mechanism - [The Pattern Broadcast]**
+
+- **Signal:** The dataset highlights its own regularities (e.g., "Column A always predicts Column B").
+- **Invitation:** It flags these as "Law Candidates."
+- **Genesis:** When the SIA scans it, the dataset provides the "Blueprint" for the new BPMS. "I am a log of traffic; build a Traffic Control Agent to manage me."
+
+#### **5.3. The Emergent Property - [Bottom-Up Evolution]**
+
+The data drives the development of the software. The library writes its own librarian.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**Layer 1 (Axiomatic):** *The Word (Data) becomes Flesh (System).*
+
+#### **7. Rationale / Justification:**
+
+Supports `SIA-FLOW-019`. It explains *how* the SIA knows what system to build—the data tells it.
+
+#### **8. Scope of Application:**
+
+Auto-ML, System Discovery, Pattern Recognition.
+
+------
+
+### The Law of Trace Retention (ID: `DATASET-FLOW-034`)
+
+*(Symbiotic Partner to SIA-FLOW-020: Deductive Curation)*
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that mandates the `[dataset BPMS]` to act as the **Incorruptible Witness** for a BPMS execution.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Trace Retention
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **Execution is Ephemeral; Data is Eternal**. When a BPMS runs, the `[dataset BPMS]` must capture the "Exhaust" of that process with perfect fidelity. It is the "Black Box Recorder."
+
+#### **5.2. The Mechanism - [The Write-Lock]**
+
+- **Capture:** Every state change in the BPMS is streamed to the dataset.
+- **Seal:** The dataset applies a cryptographic seal (Hash) to the log.
+- **Provenance:** It links the data back to the specific *Version* and *Configuration* of the BPMS that generated it.
+
+#### **5.3. The Emergent Property - [Forensic Reality]**
+
+We can replay the past perfectly. We know exactly *why* the system did what it did.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**Layer 3 (Phenomenal):** The user trusts the system because the history is verifiable.
+
+#### **7. Rationale / Justification:**
+
+Supports `SIA-FLOW-020`. It ensures that "Generated Data" is high-quality and traceable.
+
+#### **8. Scope of Application:**
+
+Logging, Auditing, Replay Systems, Training Data Generation.
+
+------
+
+### The Principle of Anomalous Accretion (ID: `DATASET-FLOW-035`)
+
+*(Symbiotic Partner to SIA-FLOW-021: Artifactual Discovery)*
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that allows the `[dataset BPMS]` to **Expand its Ontology** to accept unknown/alien data generated by the SIA.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Anomalous Accretion
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that **The Map must grow**. When the SIA discovers something "New" (Artifactual Discovery), the dataset must not reject it as an error. It must create a new "Bucket" or "Dimension" to hold this alien artifact.
+
+#### **5.2. The Mechanism - [The Schema Stretch]**
+
+- **Conflict:** The SIA outputs a data point with 5 dimensions. The Dataset only has 4.
+- **Accretion:** The Dataset dynamically adds a 5th dimension (Column) labeled "Unknown_Property_01."
+- **Preservation:** It stores the anomaly safely until it can be understood.
+
+#### **5.3. The Emergent Property - [Scientific Openness]**
+
+The system can learn things it wasn't programmed to know. It accumulates "Strange Data" that eventually leads to paradigm shifts.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**Layer 1 (Axiomatic):** *Chaos is the Mother of Order.*
+
+#### **7. Rationale / Justification:**
+
+Supports `SIA-FLOW-021`. Without this, the "New Knowledge" would be discarded as a format error.
+
+#### **8. Scope of Application:**
+
+Scientific Research, Generative Art, Deep Learning.
+
+## 
