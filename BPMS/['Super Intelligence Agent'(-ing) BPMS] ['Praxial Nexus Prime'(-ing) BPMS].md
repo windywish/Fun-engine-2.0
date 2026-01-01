@@ -1,4 +1,4 @@
-## ['Super Intelligence Agent'(-ing) BPMS]: ['Universal Reality Constructor'(-ing) BPMS]
+## ['Super Intelligence Agent'(-ing) BPMS]: ['Praxial Nexus Prime'(-ing) BPMS]
 
 #### Framework Foundation:
 
