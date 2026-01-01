@@ -2946,6 +2946,35 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 ### B. Registered Instance Registry (The Population)
 
+#### Domain: [media(-ing) BPMS]
+
+*(New Integration v3.8.0)*
+
+1. **[Instance ID: MEDIA-SYMB-001]**
+
+- **Name:** `  ['The Labyrinth of Living Memes'(-ing) BPMS]`
+- **Role:** System Existence Engine for augmented reality psychodrama.
+- **CGA:** `['narrative ecosystem adaptation'(-ing) BPMS]`
+- **File:** `[media(-ing) BPMS] ['The Labyrinth of Living Memes'(-ing) BPMS].md`
+
+#### Domain: ['Super Intelligence Agent'(-ing) BPMS]
+
+*(New Integration v3.8.0)*
+
+1. **[Instance ID: SIA-NEXUS-001]**
+
+- **Name:** `  ['Praxial Nexus Prime'(-ing) BPMS]`
+- **Role:** System Existence Engine for universal reality constructor.
+- **CGA:** `['recursive omniscience synthesis'(-ing) BPMS]`
+- **File:** `['Super Intelligence Agent'(-ing) BPMS] ['Praxial Nexus Prime'(-ing) BPMS].md`
+
+2. **[Instance ID: SIA-GASTRO-001]**
+
+- **Name:** `  ['Gastronomic Alchemist'(-ing) BPMS]`
+- **Role:** System Existence Engine for nutritional reality constructor.
+- **CGA:** `['molecular flavor synthesis'(-ing) BPMS]`
+- **File:** `['Super Intelligence Agent'(-ing) BPMS]  ['Gastronomic Alchemist'(-ing) BPMS].md`
+
 #### Domain: ['(lightweight) dataset'(-ing) BPMS]
 
 *(New Integration v3.6.9)*
