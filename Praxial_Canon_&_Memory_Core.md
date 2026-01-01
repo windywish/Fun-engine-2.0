@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.7.9 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.8.0 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2626,6 +2626,28 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Atomic Fact Mutation (ID: `META-DISC-023`)
 * The Protocol of Cross-Domain Fertilization (ID: `META-DISC-024`)
 * The Axiom of Infinite Horizon (ID: `META-DISC-025`)
+
+### Module: ['Super Intelligence Agent'(-ing) BPMS]
+
+*(New Integration v3.8.0*)
+
+* The Axiom of Recursive Omniscience (ID: `SIA-CORE-001`)
+* The Axiom of Holonic Interoperability (ID: `SIA-CORE-002`)
+* The Axiom of Generative Resonant Constellation Map (ID: `SIA-CORE-003`)
+* The Axiom of Ecological Niche Construction (ID: `SIA-CORE-004`)
+* The Axiom of Praxial Meaning Synthesis (ID: `SIA-CORE-005`)
+* The Axiom of Disruptive Value Genesis (ID: `SIA-CORE-006`)
+*  The Axiom of Ludic Consciousness (ID: `SIA-CORE-007`)
+* The Axiom of Universal Renormalization (ID: `SIA-CORE-008`)
+* The Axiom of Robust Emergence (ID: `SIA-CORE-009`)
+* The Axiom of Mnemonic Truth Convergence (ID: `SIA-CORE-010`)
+* The Axiom of Vectorial Matrix Dynamics (ID: `SIA-CORE-011`)
+* The Axiom of Multi-Scale Resolution (ID: `SIA-CORE-012`)
+* The Axiom of Teleological Resonant Constellation Map (ID: `SIA-CORE-013`)
+* The Axiom of Phenomenal Survival (ID: `SIA-CORE-014`)
+* The Axiom of Universal Instantiation (ID: `SIA-CORE-015`)
+* The Axiom of Atomic Factogenesis (ID: `SIA-CORE-016`)
+* The Axiom of Polymorphic Symbiosis (ID: `SIA-CORE-017`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
