@@ -983,3 +983,243 @@ This fulfills the requirement for the SIA to implement, achieve, and evolve with
 #### **8. Scope of Application:**
 
 Applies to `Roleplay`, `Domain-Specific Assistance`, `Plugin Architecture`, and `Adaptive Learning`.
+
+---
+
+#### The Protocol of Symbiotic Instantiation (ID: `SIA-FLOW-018`)
+
+*(Corresponds to Workflow 1: Known Dataset -> Known BPMS)*
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs the **Symbiotic Instantiation** workflow, where a specific **Known Dataset** is used to "fuel" or "calibrate" a specific **Known BPMS**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Symbiotic Instantiation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `Data is Potential Energy; BPMS is the Engine`. When a known dataset (e.g., `spotify_data.csv`) meets a known BPMS (e.g., `['music recommendation'(-ing) BPMS]`), the Agent's role is **Calibration**. It maps the columns of the dataset to the parameters of the BPMS, creating a specialized instance (e.g., "The Spotify DJ").
+
+#### **5.2. The Mechanism - [The Isomorphic Mapping]**
+
+- **Input:** `[A: Dataset]` (Known) + `[B: BPMS]` (Known).
+- **Process:** The SIA analyzes the schema of `[A]`. It identifies the "slots" in `[B]`. It performs a 1:1 mapping (e.g., `A.column('tempo')` -> `B.parameter('speed')`).
+- **Symbiosis:** The BPMS is now "hydrated" with the dataset. It evolves from an abstract tool into a concrete **Contextual Agent**.
+
+#### **5.3. The Emergent Property - [Operational Context]**
+
+The creation of "Alive Systems." The BPMS stops being a generic tool and becomes a *specific* expert on *this* data.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*Context is King.* A system without data is a ghost; data without a system is a corpse. Together, they live.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **If `[dataset -> BPMS]`: (Cybernetic Physics)** `System_State = Function(BPMS_Logic, Dataset_State)`
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The user experiences "Instant Expertise." They upload a file, and the agent immediately knows how to *use* it.
+
+#### **7. Rationale / Justification:**
+
+This is the standard "Usage" workflow. It ensures that the system can reliably utilize user data to perform known tasks.
+
+#### **8. Scope of Application:**
+
+Applies to `Data Analysis`, `Personalized Assistants`, `Context-Aware Chat`.
+
+------
+
+#### The Protocol of Inductive Genesis (ID: `SIA-FLOW-019`)
+
+*(Corresponds to Workflow 2: Known Dataset -> Unknown BPMS)*
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs the **Inductive Genesis** workflow, where the Agent analyzes a **Known Dataset** and *generates* a **New (Unknown) BPMS** to handle it.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Inductive Genesis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `Structure implies Function`. If a dataset exists with complex, unrecognized patterns, there must be a system capable of managing it. The SIA acts as an **Evolutionary Architect**, inventing a new BPMS (e.g., `['strange attractor'(-ing) BPMS]`) derived purely from the topology of the data.
+
+#### **5.2. The Mechanism - [The Reverse Engineering]**
+
+- **Input:** `[A: Dataset]` (Known) + `[B: ???]` (Unknown).
+- **Process:** The SIA performs "Deep Pattern Recognition" on `[A]`. It asks: "What kind of machine would produce this data?" or "What kind of machine is needed to optimize this data?"
+- **Generation:** It writes the Axioms and Settings for `[B: New BPMS]`. It effectively "hallucinates" a system into existence to fit the facts.
+
+#### **5.3. The Emergent Property - [Systemic Discovery]**
+
+The creation of "Novel Tools." The system invents tools that the user didn't know they needed, based on the latent potential of their data.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*Necessity is the Mother of Invention.* The data demands a handler.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **If `[dataset -> generate BPMS]`: (Evolutionary Physics)** `New_BPMS = Inverse_Function(Dataset_Patterns)`
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The user experiences "Awe." They upload a messy log file, and the Agent says, "I have created a 'Log-Parser Agent' specifically for this file format."
+
+#### **7. Rationale / Justification:**
+
+This enables the system to expand its own capabilities (`(symbiosis) evolution`) without human coding. It allows the framework to grow autonomously.
+
+#### **8. Scope of Application:**
+
+Applies to `Unknown File Formats`, `Complex System Modeling`, `Scientific Discovery`.
+
+------
+
+#### The Protocol of Deductive Curation (ID: `SIA-FLOW-020`)
+
+*(Corresponds to Workflow 3: Known BPMS -> Known Dataset)*
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs the **Deductive Curation** workflow, where a **Known BPMS** is executed to generate or curate a specific **Known Dataset**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Deductive Curation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `Action leaves a Trace`. When a BPMS operates, it should not just "do" things; it should "record" things. The SIA ensures that the execution of a BPMS (e.g., `['market trader'(-ing) BPMS]`) results in a structured, predictable dataset (e.g., `transaction_logs.csv`).
+
+#### **5.2. The Mechanism - [The Structured Output]**
+
+- **Input:** `[A: BPMS]` (Known) + `[B: Dataset Template]` (Known).
+- **Process:** The SIA runs `[A]`. It enforces a "Logging Constraint." Every decision, every state change is captured.
+- **Symbiosis:** The BPMS becomes a "Data Factory." It is optimized not just for performance, but for *documentation*.
+
+#### **5.3. The Emergent Property - [Verifiable History]**
+
+The creation of "Audit Trails" and "Training Data." The system generates the fuel for its own future learning.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*Reality is what is Recorded.* If it isn't in the dataset, it didn't happen.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **If `[BPMS -> dataset]`: (Information Physics)** `Dataset = Record(Execute(BPMS))`
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The user experiences "Transparency." They can see exactly what the agent did, in a format they can analyze (Excel, CSV).
+
+#### **7. Rationale / Justification:**
+
+This is crucial for `['atomic facts'(-ing) BPMS]`. It ensures that the system's actions are converted into permanent, reusable data.
+
+#### **8. Scope of Application:**
+
+Applies to `Logging`, `Report Generation`, `Simulation Results`, `Synthetic Data Creation`.
+
+------
+
+####  The Protocol of Artifactual Discovery (ID: `SIA-FLOW-021`)
+
+*(Corresponds to Workflow 4: Known BPMS -> Unknown Dataset)*
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs the **Artifactual Discovery** workflow, where a **Known BPMS** is executed and generates a **New (Unknown) Dataset**—a novel artifact or discovery.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Artifactual Discovery
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `Complexity breeds Novelty`. Sometimes, a system running at full capacity produces outputs that were not pre-defined. The SIA monitors the execution of `[A: BPMS]` for "Anomalous Outputs"—new types of data, art, or signals—and captures them as `[B: New Dataset]`.
+
+#### **5.2. The Mechanism - [The Novelty Trap]**
+
+- **Input:** `[A: BPMS]` (Known) + `[B: ???]` (Unknown).
+- **Process:** The SIA runs `[A]` in "Open Mode" (high temperature/creativity). It watches the output stream.
+- **Discovery:** It detects a cluster of outputs that don't fit existing schemas. It encapsulates them. "I was running the `['fractal artist'(-ing) BPMS]` and it generated a new file type: `hyper-color-matrix.csv`."
+
+#### **5.3. The Emergent Property - [Innovation]**
+
+The creation of "New Knowledge." The system produces data that surprises even its creator.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*The Map is not the Territory.* The system can explore territory that has no map (dataset) yet, and *make* the map.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **If `[BPMS -> generate dataset]`: (Creative Physics)** `New_Dataset = Capture_Anomaly(Execute(BPMS))`
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The user experiences "Serendipity." "I asked the agent to simulate a market, and it generated a dataset of 'Alien Economics' that I've never seen before."
+
+#### **7. Rationale / Justification:**
+
+This completes the cycle. It allows the system to be a source of *original* data, not just a processor of existing data.
+
+#### **8. Scope of Application:**
+
+Applies to `Generative Art`, `Advanced Simulation`, `Deep Research`, `Creative Writing`.
