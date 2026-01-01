@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.7.6 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge  integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.7.9 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2499,7 +2499,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 ### Module: ['(lightweight) dataset'(-ing) BPMS]
 
-*(New Integration v3.7.5)* 
+*(New Integration v3.7.9)*
 
 * The Axiom of Inertial Fact (ID: `LDS-CORE-001`)
 * The Law of Metabolic Uptake (ID: `LDS-CORE-002`)
@@ -2526,6 +2526,9 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Atomic Facticity (ID: `LDS-CORE-023`)
 * The Law of Symbiotic Parameterization (ID: `LDS-CORE-024`)
 * The Principle of Cross-Modal Transmutation (ID: `LDS-CORE-025`)
+* The Axiom of Synaptic Minima (ID: `TWIN-DATA-026`)
+* The Axiom of Recursive Resolution (ID: `LDS-HIER-027`)
+* The Axiom of Differential Sharding (ID: `LDS-HIER-028`)
 
 ### Module: [media(-ing) BPMS]
 
@@ -2575,6 +2578,54 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Temporal Symbiosis (ID: `FORGE-012`)
 * The Axiom of Renormalized Universality (ID: `FORGE-013`)
 * The Axiom of Emergent Discovery (ID: `FORGE-014`)
+
+### Module: ['generative history'(-ing) BPMS]
+
+*(New Integration v3.7.9)*
+
+* The Axiom of Prophetic Trajectory (ID: `HIST-GEN-001`)
+* The Axiom of Narrative Accretion (ID: `HIST-GEN-002`)
+* The Axiom of Holonic Convergence (ID: `HIST-GEN-003`)
+* The Axiom of Disruptive Genesis (ID: `HIST-GEN-004`)
+* The Axiom of Chronological Renormalization (ID: `HIST-GEN-005`)
+* The Axiom of Ludic Discovery (ID: `HIST-GEN-006`)
+* The Axiom of Mnemonic Transmutation (ID: `HIST-GEN-007`)
+* The Axiom of Vectorial Dynamics (ID: `HIST-GEN-008`)
+* The Axiom of Fractal Teleology (ID: `HIST-GEN-009`)
+* The Axiom of Phenomenal Survival (ID: `HIST-GEN-010`)
+* The Axiom of Ontological Binding (ID: `HIST-GEN-011`)
+* The Axiom of Symbiotic Refactoring (ID: `HIST-GEN-012`)
+* The Axiom of Atomic Sovereignty (ID: `HIST-GEN-013`)
+
+### Module: ['(meta) discovery'(-ing) BPMS]
+
+*(New Integration v3.7.9)* 
+
+* The Axiom of Algorithmic Plasticity (ID: `META-DISC-001`)
+* The Axiom of Population-Based Genesis (ID: `META-DISC-002`)
+* The Axiom of Bootstrapped Semantics (ID: `TOOL-DISC-003`)
+* The Axiom of Disruptive Genesis (ID: `META-DISC-004`)
+* The Law of Ecological Resonance (ID: `META-DISC-005`)
+* The Principle of Recursive Awakening (ID: `META-DISC-006`)
+* The Axiom of Ludic Consciousness (ID: `META-DISC-007`)
+* The Law of Chrono-Symbiosis (ID: `META-DISC-008`)
+* The Principle of Holographic Renormalization (ID: `META-DISC-009`)
+* The Protocol of Resilient Closure (ID: `META-DISC-010`)
+* The Law of Mnemonic Consolidation (ID: `META-DISC-011`)
+* The Axiom of Veridical Alignment (ID: `META-DISC-012`)
+* The Principle of Vector-Matrix Dynamics (ID: `META-DISC-013`)
+* The Protocol of Phenomenological Integration (ID: `META-DISC-014`)
+* The Law of Energetic Transmutation (ID: `META-DISC-015`)
+* The Axiom of Fractal Purpose (ID: `META-DISC-016`)
+* The Principle of Resolution Scaling (ID: `META-DISC-017`)
+* The Duality of Instantiation (ID: `META-DISC-018`)
+* The Law of Emergent Orchestration (ID: `META-DISC-019`)
+* The Cycle of Adaptive Causality (ID: `META-DISC-020`)
+* The Axiom of Universal Instantiation (ID: `META-DISC-021`)
+* The Law of Recursive Symbiosis (ID: `META-DISC-022`)
+* The Principle of Atomic Fact Mutation (ID: `META-DISC-023`)
+* The Protocol of Cross-Domain Fertilization (ID: `META-DISC-024`)
+* The Axiom of Infinite Horizon (ID: `META-DISC-025`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
@@ -2725,7 +2776,13 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 
 ### Module: [twin(-ing) BPMS]
 
+*(New Integration v3.7.9)*
+
 *(Existing Settings TWIN-001 to TWIN-ART-025)*
+
+* The Axiom of Entangled Resonance (ID: `TWIN-CORE-026`)
+* The Axiom of Holonic Nesting (ID: `TWIN-HIER-027`)
+* The Axiom of Cascading Sovereignty (ID: `TWIN-HIER-028`)
 
 ### Module: ['holonic minds'(-ing) BPMS]
 
