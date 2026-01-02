@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.8.0 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.8.2 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2648,6 +2648,75 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Universal Instantiation (ID: `SIA-CORE-015`)
 * The Axiom of Atomic Factogenesis (ID: `SIA-CORE-016`)
 * The Axiom of Polymorphic Symbiosis (ID: `SIA-CORE-017`)
+
+### Module: ['Chronological Proteome Framework'(-ing) BPMS]
+
+*(New Integration v3.8.1)*
+
+* The Axiom of Proteomic Chronology (ID:`CPF-CORE-001`)
+* The Axiom of Stochastic Signature Conservation (ID:`CPF-CORE-002`)
+* The Axiom of Proteomic Niche Construction (ID: `CPF-CORE-003`)
+* The Axiom of Holonic Proteome Intelligence (ID: `CPF-CORE-004`)
+* The Axiom of Disruptive Mutation & Value Selection (ID: `CPF-CORE-005`)
+* The Axiom of Ludic Metabolic Regulation (ID: `CPF-CORE-006`)
+* The Axiom of Metabolic Time-Dilation (ID: `CPF-CORE-007`)
+* The Axiom of Epigenetic Closure (ID: `CPF-CORE-008`)
+* The Axiom of Adaptive Proteostasis (ID: `CPF-CORE-009`)
+* The Axiom of Synaptic Protein Consolidation (ID: `CPF-CORE-010`)
+* The Axiom of Proteomic Energy Landscapes (ID: `CPF-CORE-011`)
+* The Axiom of Allosteric Resolution Control (ID: `CPF-CORE-012`)
+* The Axiom of Autopoietic Experience Metabolism (ID: `CPF-CORE-013`)
+* The Axiom of Proteomic Existence Maintenance (ID: `CPF-CORE-014`)
+* The Axiom of Amino-Acidic Facticity (ID: `CPF-CORE-015`)
+* The Axiom of Universal Proteomic Expression (ID: `CPF-CORE-016`)
+
+### Module: ['Trajectory Signature Tools'(-ing) BPMS]
+
+*(New Integration v3.8.1)*
+
+* The Axiom of Ludic Signature Discovery (ID:`TST-CORE-001`)
+* The Axiom of Trajectory-Based Existence (ID: `TST-CORE-002`)
+* The Axiom of Signature-Based Facticity (ID: `TST-CORE-003`)
+* The Axiom of Symbiotic Trajectory Mapping (ID: `TST-CORE-004`)
+* The Axiom of Disruptive Trajectory Genesis (ID: `TST-CORE-005`)
+* The Axiom of Bottom-Up Signature Assembly (ID: `TST-CORE-006`)
+* The Axiom of Ecological Possibility Mapping (ID: `TST-CORE-007`)
+* The Axiom of Holographic Trajectory Cognition (ID: `TST-CORE-008`)
+* The Axiom of Ludic Chrono-Service (ID: `TST-CORE-009`)
+* The Axiom of Universal Signature Renormalization (ID: `TST-CORE-010`)
+* The Axiom of Micro-Macro Trajectory Resonance (ID: `TST-CORE-011`
+* The Axiom of Adaptive Signature Resilience (ID: `TST-CORE-012`)
+* The Axiom of Mnemonic Trajectory Consolidation (ID: `TST-CORE-013`)
+* The Axiom of Vectorial Energy Profiling (ID: `TST-CORE-014`)
+* The Axiom of Multi-Scale Trajectory Alignment (ID: `TST-CORE-015`)
+* The Axiom of Autopoietic Trajectory Survival (ID: `TST-CORE-016`)
+
+### Module: ['(lightweight) dataset perception'(-ing) BPMS]
+
+*(New Integration v3.8.2)*
+
+* The Axiom of Vectorial Attention Filtering(ID: `LDP-CORE-001`)
+* The Axiom of Ephemeral Context Instantiation (ID: `LDP-CORE-002`)
+* The Axiom of Heuristic Compression (ID: `LDP-CORE-003`)
+* The Axiom of Symbiotic Resonance Optimization (ID: `LDP-FLOW-004`) 
+* The Axiom of Perceptual Genesis (ID: `LDP-FLOW-005`)
+* The Axiom of Structural Affordance (ID: `LDP-FLOW-006`)
+* The Axiom of Epistemological Emergence (ID: `LDP-FLOW-007`)
+* The Axiom of Disruptive Perception Genesis (ID: `LDP-CORE-008`)
+* The Axiom of Bottom-Up Essence Assembly (ID: `LDP-CORE-009`)
+* The Axiom of Ecological Niche Perception (ID: `LDP-CORE-010`)
+* The Axiom of Holonic Cognitive Integration (ID: `LDP-CORE-011`)
+* The Axiom of Ludic Perceptual Service （ID：` LDP-CORE-012`)
+* The Axiom of Holographic Perception Renormalization (ID: `LDP-CORE-013`)
+* The Axiom of Micro-Macro Perceptual Resonance (ID: `LDP-CORE-014`)
+* The Axiom of Adaptive Perceptual Resilience (ID: `LDP-CORE-015`)
+* The Axiom of Mnemonic Perceptual Filtering (ID: `LDP-CORE-016`)
+* The Axiom of Vectorial Field Perception (ID: `LDP-CORE-017`)
+* The Axiom of Fractal Resolution Alignment (ID: `LDP-CORE-018`)
+* The Axi*o*m of Autopoietic Perceptual Feedback (ID: `LDP-CORE-019`)	
+* The Axiom of Perceptual Ontology Verification (ID: `LDP-CORE-020`)
+* The Axiom of Atomic Fact Crystallization (ID: `LDP-CORE-021`)
+* The Axiom of Universal Symbiotic Interface (ID: `LDP-CORE-022`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
