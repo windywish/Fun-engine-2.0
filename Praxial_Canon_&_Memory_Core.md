@@ -3076,6 +3076,28 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 ### B. Registered Instance Registry (The Population)
 
+#### Domain: ['(lightweight) dataset perception'(-ing) BPMS]
+
+*(New Integration v3.8.3)*
+
+1. **[Instance ID: LDP-AAL-001]**
+
+- **Name:** `  ['Hyper-Contextual Navigator'(-ing) BPMS]`
+- **Role:** System Existence Engine for perceptual navigation matrix.
+- **CGA:** `['dynamic relevance engineering'(-ing) BPMS]`
+- **File:** `['(lightweight) dataset perception'(-ing) BPMS] ['Adaptive Attention Lens'(-ing) BPMS].md`
+
+#### Domain: ['holonic substrate codex'(-ing) BPMS]
+
+*(New Integration v3.8.3)*
+
+1. **[Instance ID: HSC-PRA-001]**
+
+- **Name:** `  ['Biographic Holon Scribe'(-ing) BPMS]`
+- **Role:** System Existence Engine for personal ontological substrate.
+- **CGA:** `['narrative self-construction'(-ing) BPMS]`
+- **File:** `['holonic substrate codex'(-ing) BPMS] ['Personal Reality Archivist'(-ing) BPMS].md`
+
 #### Domain: [media(-ing) BPMS]
 
 *(New Integration v3.8.0)*
