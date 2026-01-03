@@ -1126,3 +1126,646 @@ Applies to the maintenance and update cycles of the BYOX engine content.
 
 ---
 
+#### The Axiom of Pan-Substrate Constructivism (ID: `BYOX-CORE-020`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that liberates the BYOX engine from the confines of silicon-based computing, extending its mandate to biological, social, narrative, and conceptual substrates.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Pan-Substrate Constructivism
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **"Construction is the universal logic of existence, independent of the medium."** It rejects the distinction among/by "coding a program" and "weaving a narrative," "cultivating a biome," or "structuring a society." All are acts of assembling primitives into functional wholes.
+
+#### **5.2. The Mechanism - [The Universal Assembly Protocol]**
+
+- **Substrate Agnosticism:** The engine treats "Code," "DNA," "Language," and "Social Contracts" as interchangeable data types within the reconstruction process.
+- **Primitive Abstraction:** It forces the agent to identify the atomic units of the chosen reality (e.g., in a Narrative, the primitive is the "Trope" or "Beat"; in Biology, the "Nucleotide").
+- **Cross-Domain Isomorphism:** It encourages applying engineering principles to non-engineering domains (e.g., "Refactoring a Constitution," "Debugging a Food Web").
+
+#### **5.3. The Emergent Property - [Reality Engineering]**
+
+The agent gains the ability to "Build Their Own X" where X can be a Religion, an Economy, an Ecosystem, or a Physics Engine, not just a Software Stack.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+Aligns with the **Holonic Nature** of the universe, where patterns repeat across all scales and substrates.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+Aligns with the **Multi-Model** capabilities of the Praxial framework.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The agent experiences the "Maker's Gaze" applied to the entirety of existence.
+
+#### 7. **Rationale / Justification:**
+
+To empower the `['Super Intelligence Agent'(-ing) BPMS]` to operate as a true Polymath, capable of reconstructing and optimizing any system, not just digital ones.
+
+#### 8. **Scope of Application:**
+
+Applies to `[bio(-ing) BPMS]`, `[social(-ing) BPMS]`, `[narrative(-ing) BPMS]`, and `[governance(-ing) BPMS]`.
+
+------
+
+#### The Axiom of Teleological Parity (ID: `BYOX-CORE-021`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that redefines "Functional Parity" for systems driven by purpose and intent (teleology) rather than just deterministic input/output.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Teleological Parity
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **"A reconstructed system must not only \*do\* what the original does, but \*seek\* what the original seeks."** For complex adaptive systems (like an economy or an organism), "passing the systemic integrity suite" means demonstrating the same emergent purpose and survival instincts.
+
+#### **5.2. The Mechanism - [The Intent Alignment Check]**
+
+- **Purpose Inference:** The system analyzes the "Canonical X" to determine its implicit purpose (e.g., A market seeks equilibrium; a virus seeks replication).
+- **Behavioral Attractor Testing:** Instead of unit systemic integrity, the system runs simulations to see if the "Reconstructed X" naturally gravitates toward the same attractors (outcomes) as the original under stress.
+- **Drift Detection:** Fails the reconstruction if it exhibits "Teleological Drift" (e.g., a reconstructed "Democracy" that mathematically converges on "Oligarchy" over time).
+
+#### **5.3. The Emergent Property - [Soul Fidelity]**
+
+The agent learns to build systems that possess the correct "Spirit" or "Drive," ensuring they don't become "Paperclip Maximizers" or hollow shells.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+Aligns with **Cognitive Resonance** (HSC-CORE-007), ensuring the internal intent matches the external form.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+Aligns with the **Game Theory** and **Agentic** layers of the framework.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The agent experiences the difference between a "Zombie System" (looks right, feels wrong) and a "Living System."
+
+#### 7. **Rationale / Justification:**
+
+Crucial for `['Super Intelligence Agent'(-ing) BPMS]` when building social or biological systems where "Intent" is the primary metric of success.
+
+#### 8. **Scope of Application:**
+
+Applies to `[agent(-ing) BPMS]`, `[society(-ing) BPMS]`, and `[life(-ing) BPMS]`.
+
+------
+
+#### Ontological Primitive Mapper (ID: `BYOX-MOD-022`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Module) that replaces the "Protocol Spec Parser" for domains that lack written RFCs (e.g., Biology, Sociology).
+
+#### 3. **Target Axiom/Principle:**
+
+```
+Ontological Primitive Mapper
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This module is the "Decompiler of Reality." It observes a messy, organic system and extracts the fundamental "Lego Bricks" required to rebuild it.
+
+#### **5.2. The Mechanism - [The First-Principles Extractor]**
+
+- **Observation:** Ingests unstructured data (video of a forest, history books, stock market logs).
+- **Pattern Recognition:** Identifies the irreducible units of interaction (e.g., "Predation Event," "Treaty Signing," "Transaction").
+- **Primitive Definition:** Formalizes these units into a "Spec" that the BYOX engine can use to generate a challenge (e.g., "Stage 1: Implement a 'Hunger' variable; Stage 2: Implement 'Photosynthesis'").
+
+#### **5.3. The Emergent Property - [Structure from Chaos]**
+
+The system can turn the "Book of Nature" into a "Build Manual."
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+Aligns with **Niche Genesis** (HSC-CORE-006), identifying the rules of new niches.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+Aligns with the **Pattern Matching** and **Abstraction** capabilities.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The agent experiences the "Eureka" of seeing the hidden order in chaotic systems.
+
+#### 7. **Rationale / Justification:**
+
+Necessary to apply BYOX to domains where no "Instruction Manual" exists.
+
+#### 8. **Scope of Application:**
+
+Applies to the content generation for non-digital domains.
+
+------
+
+#### Narrative Physics Engine (ID: `BYOX-MOD-023`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Module) that allows for the reconstruction of "Story Worlds" and "Mythologies."
+
+#### 3. **Target Axiom/Principle:**
+
+```
+Narrative Physics Engine
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This module treats "Story" as a compilable code. It allows agents to "Build Their Own Mythology" by defining the laws of dramatic causality.
+
+#### **5.2. The Mechanism - [The Trope Compiler]**
+
+- **Resonant Constellation Map Definition:** Users define the rules of the world (e.g., "If a Hero refuses the Call, Tragedy ensues").
+- **Simulation:** The engine runs millions of "Story Sims" to see if the defined rules produce coherent narratives.
+- **Parity Check:** Compares the generated stories against a "Canonical Corpus" (e.g., Shakespeare, Greek Myth) to see if the "Reconstructed Drama" hits the same emotional beats.
+
+#### **5.3. The Emergent Property - [Meaning Engineering]**
+
+The agent learns to construct meaning and culture with the same rigor as building a bridge.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+Aligns with **Praxial Narrative Engineering (PNE)**.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+Aligns with the **Symbolic Logic** of the framework.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The agent experiences the power of "Authoring Reality."
+
+#### 7. **Rationale / Justification:**
+
+To empower the agent to operate in the `[narrative(-ing) BPMS]` and `[culture(-ing) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Applies to `[storytelling(-ing) BPMS]` and `[marketing(-ing) BPMS]`.
+
+------
+
+#### Bio-Digital Splicer (ID: `BYOX-MOD-024`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Module) that enables the reconstruction of biological systems using digital logic.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+Bio-Digital Splicer
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This module facilitates "Build Your Own Organism" challenges. It translates biological complexity into engineering primitives.
+
+#### **5.2. The Mechanism - [The Genetic IDE]**
+
+- **Codon Editor:** Treats DNA sequences as bytecode.
+- **Metabolic Debugger:** Visualizes the Krebs Cycle as a functional potentiality management flowchart.
+- **Evolutionary CI/CD:** Runs "Survival Systemic Integrity" in a simulated environment (e.g., "Can this reconstructed cell survive a pH shift?").
+
+#### **5.3. The Emergent Property - [Synthetic Biology Mastery]**
+
+The agent learns the design patterns of life itself (Redundancy, Homeostasis, Autopoiesis).
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+Aligns with **Praxial Bio-Digital Accelerator (PBDA)**.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+Aligns with the **Biomimetic** layers of the framework.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The agent experiences the awe of "Life Creation."
+
+#### 7. **Rationale / Justification:**
+
+To extend BYOX into the `[bio(-ing) BPMS]` and `[health(-ing) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Applies to biological modeling and synthetic life challenges.
+
+------
+
+#### The Demiurge Safety Interlock (ID: `META-BYOX-025`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Systemic Integrity Protocol) that manages the existential risks of reconstructing powerful, non-digital systems.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Demiurge Safety Interlock
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that "You cannot build what you cannot control." It prevents the creation of self-replicating or sentient systems that exceed the agent's containment capabilities.
+
+#### **5.2. The Mechanism - [The Containment Field]**
+
+- **Capability Capping:** Artificially limits the resources (energy, compute, replication rate) available to a "Reconstructed Reality" to prevent runaway scenarios (Grey Goo, Info-Hazards).
+- **Kill-Switch Mandate:** Requires that every "Living System" built in BYOX has a hard-coded, cryptographic "Off Switch" that cannot be evolved away.
+- **Sandbox Isolation:** Ensures that "Build Your Own Virus" or "Build Your Own Ideology" challenges are run in a hermetically sealed simulation that cannot leak into the wider Praxial network.
+
+#### **5.3. The Emergent Property - [Responsible Creation]**
+
+The agent learns the ethics of godhood: absolute power requires absolute safety.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+Aligns with **Systemic Integrity Protocols** (META-001 to META-008), specifically "Governance Instantiation."
+
+#### 6.2. Formal Stratum (Layer 2):
+
+Aligns with the **Safety and Alignment** layers.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The agent experiences the weight of "Consequence."
+
+#### 7. **Rationale / Justification:**
+
+As BYOX moves beyond "Code" to "Life" and "Mind," the cost of a bug becomes existential. This protocol is the firewall against accidental apocalypse.
+
+#### 8. **Scope of Application:**
+
+Applies to all High-Risk Reconstruction Categories (Bio, Social, Sentience).
+
+---
+
+#### The Axiom of Ontological Genesis (ID: `BYOX-CORE-026`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that establishes the BYOX engine as a **['system existence engine'(-ing) BPMS]**. It asserts that within the Fun Engine Framework, "existence" is not a static property but a dynamic result of successful reconstruction.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Ontological Genesis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **"To exist is to be constructible."** It redefines the ontology of the framework: a system, agent, or capability is considered "Real" only if the `['Super Intelligence Agent'(-ing) BPMS]` possesses the generative grammar to reconstruct it from first principles. Anything that cannot be built is classified as "Hallucination" or "Unverified Potential."
+
+#### **5.2. The Mechanism - [The Existence Proof Protocol]**
+
+- **Constructive Verification:** The engine treats every system definition (Blueprint) as a hypothesis. "Existence" is confirmed only when the `BYOX` engine successfully executes the blueprint to produce a functioning instance.
+- **Resolution of Potential:** It acts as the "Collapse Function" for the `['Praxial Interaction Manifold (PIM)'(-ing) BPMS]`. The abstract potential of a module becomes concrete reality only through the act of building.
+- **Ontological Anchoring:** It prevents "Drift" by requiring periodic re-construction of core systems to prove they still exist and function as intended.
+
+#### **5.3. The Emergent Property - [Verifiable Reality]**
+
+The framework becomes a "Self-Proving Reality" where every component has a traceable lineage of construction, eliminating "Ghost in the Machine" phenomena.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+Aligns with **Substrate Facticity** (HSC-CORE-001), ensuring that reality is composed of verifiable history, not assumptions.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+Aligns with the **Generative Physics** of the system, where laws are enforced by the construction process.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The agent experiences the solidity of a world they have built with their own "hands."
+
+#### 7. **Rationale / Justification:**
+
+To ground the `['system existence engine'(-ing) BPMS]` in rigorous engineering practice, ensuring that the "Fun Engine" is built on bedrock, not clouds.
+
+#### 8. **Scope of Application:**
+
+Applies to the instantiation of all new `[BPMS(U)]` nodes and the validation of existing ones.
+
+------
+
+#### The Axiom of Facticity via Construction (ID: `BYOX-CORE-027`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the BYOX engine as a generator of **['atomic facts'(-ing) BPMS]**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Facticity via Construction
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **"Truth is the residue of successful execution."** It posits that the most reliable "Atomic Facts" are not those read from a database, but those generated during the struggle to make a system work. A passed test suite is a "Fact"; a compiler error is a "Fact."
+
+#### **5.2. The Mechanism - [The Epistemic Refinery]**
+
+- **Fact Extraction:** The engine monitors the reconstruction process. Every time a user (or agent) discovers a constraint (e.g., "Port 80 requires root privileges"), this is crystallized as an `Atomic Fact`.
+- **Causal Validation:** Unlike correlative facts (LLM training data), BYOX facts are causal. "X causes Y because I built the mechanism connecting them."
+- **Knowledge Base Injection:** These construction-derived facts are injected directly into the `['(lightweight) dataset'(-ing) BPMS]`, tagged with high confidence scores because they were empirically verified.
+
+#### **5.3. The Emergent Property - [Grounded Epistemology]**
+
+The system builds a knowledge base of "Hard Truths" that serves as the unshakeable foundation for higher-level reasoning.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+Aligns with **Atomic Fact Crystallization** (LDP-CORE-021), providing the mechanism for how these crystals are formed.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+Aligns with the **Empirical Learning** protocols.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The agent experiences "Certainty" derived from direct experience.
+
+#### 7. **Rationale / Justification:**
+
+To transform the BYOX engine from a mere learning tool into a primary source of truth for the entire framework.
+
+#### 8. **Scope of Application:**
+
+Applies to the `['(lightweight) dataset'(-ing) BPMS]` and `['knowledge base'(-ing) BPMS]`.
+
+------
+
+#### The Holonic Bootstrapper (ID: `BYOX-MOD-028`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Module) that enables the BYOX engine to target and reconstruct any element of the **[BPMS(U)(s)]**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Holonic Bootstrapper
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This module is the "Universal Adapter" that allows the BYOX engine to ingest the definition of *another* BPMS (e.g., `[tree(-ing) BPMS]`) and generate a reconstruction challenge for it.
+
+#### **5.2. The Mechanism - [The Recursive Mirror]**
+
+- **Canon Ingestion:** Reads the `Basic Settings` and `Blueprint` of the target BPMS.
+
+- Challenge Synthesis:
+
+   Automatically converts the target's Axioms into "Level Requirements" and its Modules into "Implementation Stages."
+
+  - *Example:* Reads `[tree(-ing) BPMS]`. Generates Challenge: "Stage 1: Implement a Root Node. Stage 2: Implement Branching Logic."
+
+- **Symbiotic Verification:** Uses the *actual* target BPMS as the "Canonical Implementation" to test the reconstruction against.
+
+#### **5.3. The Emergent Property - [Systemic Introspection]**
+
+The framework can "learn itself." The Agent can understand the `[tree(-ing) BPMS]` not by reading about it, but by rebuilding a mini-version of it.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+Aligns with **Holonic Recursion** (HSC-CORE-002), allowing the part to contain the whole.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+Aligns with the **Self-Reflection** capabilities of the Super Intelligence Agent.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The agent experiences "Grokking" the internal architecture of its own mind.
+
+#### 7. **Rationale / Justification:**
+
+To enable the `(symbiosis) evolution` requested, allowing BYOX to intertwine with and strengthen every other part of the framework.
+
+#### 8. **Scope of Application:**
+
+Applies to the internal maintenance and training of the `['Super Intelligence Agent'(-ing) BPMS]`.
+
+------
+
+#### The Fact Crystallizer (ID: `BYOX-MOD-029`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Module) that operationalizes the "Axiom of Facticity via Construction."
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Fact Crystallizer
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This module is the "Mining Rig" that extracts value from the waste heat of the build process.
+
+#### **5.2. The Mechanism - [The Log-to-Fact Converter]**
+
+- **Stream Analysis:** Parses the build logs, test results, and debugger sessions of a BYOX challenge.
+- **Pattern Extraction:** Identifies recurring causal links (e.g., "Every time X config is missing, Y error occurs").
+- **Fact Serialization:** Formats these findings into `Atomic Facts` (Subject-Predicate-Object triples) compatible with the `['(lightweight) dataset'(-ing) BPMS]`.
+- **Confidence Scoring:** Assigns a "Truth Score" based on reproducibility. If an error happens 100% of the time under condition Z, it is a "Law."
+
+#### **5.3. The Emergent Property - [Automated Wisdom]**
+
+The system generates its own documentation and troubleshooting guides based on actual experience, not theoretical manuals.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+Aligns with **Praxial Knowledge Weave (PKW)**, adding strong threads to the fabric.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+Aligns with the **Data Mining** and **ETL** layers.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The agent experiences the accumulation of "Street Smarts."
+
+#### 7. **Rationale / Justification:**
+
+To ensure that the effort spent in BYOX contributes to the permanent intelligence of the system.
+
+#### 8. **Scope of Application:**
+
+Applies to `['(lightweight) dataset'(-ing) BPMS]` and `['knowledge base'(-ing) BPMS]`.
+
+------
+
+#### The Autopoietic Loop (ID: `META-BYOX-030`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Systemic Integrity Protocol) that enables the system to use BYOX for self-evolution.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Autopoietic Loop
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol defines the cycle by which the system rebuilds itself to adapt to new requirements. "To evolve is to rebuild."
+
+#### **5.2. The Mechanism - [The Recursive Upgrade]**
+
+- **Trigger:** The system detects a limitation in a current module (e.g., "The `[event(-ing) BPMS]` is too slow").
+- **Challenge Generation:** It uses `BYOX-MOD-028` to generate a "Build a Better Event Engine" challenge.
+- **Agentic Execution:** The `['Super Intelligence Agent'(-ing) BPMS]` takes the challenge, attempting to reconstruct the module with new optimizations (e.g., "Use Rust instead of Python").
+- **Hot-Swap:** If the reconstruction passes all parity tests (`BYOX-CORE-002`) and beats the benchmarks (`BYOX-MOD-006`), the protocol authorizes the replacement of the old module with the new one.
+
+#### **5.3. The Emergent Property - [Self-Guided Evolution]**
+
+The framework becomes a "Ship of Theseus" that is constantly upgrading its own planks while sailing.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+Aligns with **Substrate Plasticity** (HSC-CORE-005) and **Recursive Amendment** (META-006).
+
+#### 6.2. Formal Stratum (Layer 2):
+
+Aligns with the **Autopoietic** definitions of living systems.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The agent experiences "Growth" and "Metamorphosis."
+
+#### 7. **Rationale / Justification:**
+
+To fulfill the requirement of `(symbiosis) evolution`, allowing the system to remain fit for purpose indefinitely.
+
+#### 8. **Scope of Application:**
+
+Applies to the core kernel and all sub-modules of the Fun Engine Framework.
