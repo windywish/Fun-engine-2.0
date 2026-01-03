@@ -3087,6 +3087,13 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - **CGA:** `['dynamic relevance engineering'(-ing) BPMS]`
 - **File:** `['(lightweight) dataset perception'(-ing) BPMS] ['Adaptive Attention Lens'(-ing) BPMS].md`
 
+2. **[Instance ID: LDP-TREE-002]**
+
+- **Name:** `  ['Dendritic Knowledge Weaver'(-ing) BPMS]`
+- **Role:** System Existence Engine for arboreal epistemic structure.
+- **CGA:** `['fractal context branching'(-ing) BPMS]`
+- **File:** `['(lightweight) dataset perception'(-ing) BPMS] ['Dendritic Knowledge Weaver'(-ing) BPMS].md`
+
 #### Domain: ['holonic substrate codex'(-ing) BPMS]
 
 *(New Integration v3.8.3)*
