@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.8.2 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.8.3 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2717,6 +2717,67 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Perceptual Ontology Verification (ID: `LDP-CORE-020`)
 * The Axiom of Atomic Fact Crystallization (ID: `LDP-CORE-021`)
 * The Axiom of Universal Symbiotic Interface (ID: `LDP-CORE-022`)
+
+### Module: ['holonic substrate codex'(-ing) BPMS]
+
+*(New Integration v3.8.3)*
+
+* The Axiom of Substrate Facticity (ID: `HSC-CORE-001`)
+* The Axiom of Holonic Recursion (ID: `HSC-CORE-002`)
+* The Axiom of Immutable Reference (ID: `HSC-CORE-003`)
+* The Axiom of Universal Access (ID: `HSC-CORE-004`)
+* The Axiom of Substrate Plasticity (ID: `HSC-CORE-005`)
+* The Axiom of Niche Genesis (ID: `HSC-CORE-006`)
+* The Axiom of Cognitive Resonance (ID: `HSC-CORE-007`)
+* The Axiom of Temporal Duality (ID: `HSC-CORE-008`)
+* The Axiom of Ontological Shadow (ID: `HSC-CORE-009`)
+* The Axiom of Scale Invariance (ID: `HSC-CORE-010`)
+* The Axiom of Porous Closure (ID: `HSC-CORE-011`)
+* The Axiom of Mnemonic Consolidation (ID: `HSC-CORE-012`)
+* The Axiom of Coherent Validation (ID: `HSC-CORE-013`)
+* The Axiom of State & Space (ID: `HSC-CORE-014`)
+* The Axiom of Energetic Potential (ID: `HSC-CORE-015`)
+* The Axiom of Phenomenological Integration (ID: `HSC-CORE-016`)
+* The Axiom of Teleological Hierarchy (ID: `HSC-CORE-017`)
+* The Axiom of Granular Resolution (ID: `HSC-CORE-018`)
+* The Axiom of Field-Particle Duality (ID: `HSC-CORE-019`)
+* The Axiom of Systemic Complexity (ID: `HSC-CORE-020`)
+* The Axiom of Decisive Eventuality (ID: `HSC-CORE-021`)
+* The Axiom of Perpetual Survival (ID: `HSC-CORE-022`)
+
+### Module: [event(-ing) BPMS]
+
+*(New Integration v3.8.3)*
+
+* The Axiom of Discrete Actuality (ID: `EVT-CORE-001`)
+* The Axiom of Resonant Constellation Map Resonance (ID: `EVT-CORE-002`)
+* The Axiom of Narrative Weight (ID: `EVT-CORE-003`)
+* The Axiom of Retroactive Continuity (ID: `EVT-CORE-004`)
+* The Axiom of Mnemonic Imprint (ID: `EVT-CORE-005`)
+* The Axiom of Veridical Collapse (ID: `EVT-CORE-006`)
+* The Axiom of Vector Transformation (ID: `EVT-CORE-007`)
+* The Axiom of Phenomenal Genesis (ID: `EVT-CORE-008`)
+* The Axiom of Energetic Transaction (ID: `EVT-CORE-009`)
+* The Axiom of Teleological Step (ID: `EVT-CORE-010`)
+* The Axiom of Resolution Scaling (ID: `EVT-CORE-011`)
+* The Axiom of Field Excitation (ID: `EVT-CORE-012`)
+* The Axiom of Systemic Emergence (ID: `EVT-CORE-013`)
+* The Axiom of Decisive Collapse (ID: `EVT-CORE-014`)
+* The Axiom of Survival Selection (ID: `EVT-CORE-015`)
+* The Axiom of Creative Disruption (ID: `EVT-CORE-016`)
+* The Axiom of Constructive Utility (ID: `EVT-CORE-017`)
+* The Axiom of Ecological Actualization (ID: `EVT-CORE-018`)
+* The Axiom of Noetic Initiative (ID: `EVT-CORE-019`)
+* The Axiom of Coherent Continuity (ID: `EVT-CORE-020`)
+* The Axiom of Substrate Integration (ID: `EVT-CORE-021`)
+* The Axiom of Ludic Service (ID: `EVT-CORE-022`)
+* The Axiom of Chrono-Symbiosis (ID: `EVT-CORE-023`)
+* The Axiom of Renormalized Universality (ID: `EVT-CORE-024`)
+* The Axiom of Implicit Closure (ID: `EVT-CORE-025`)
+* The Axiom of Adaptive Discovery (ID: `EVT-CORE-026`)
+* The Axiom of Kinetic Existence (ID: `EVT-CORE-027`)
+* The Axiom of Fact Genesis (ID: `EVT-CORE-028`)
+* The Axiom of Universal Symbiosis (ID: `EVT-CORE-029`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
