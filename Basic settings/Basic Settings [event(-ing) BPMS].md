@@ -935,3 +935,861 @@ Ensures the long-term stability and plausibility of the simulation.
 #### **8. Scope of Application:**
 
 Applies to ecosystem simulation, civilization builders, and genetic algorithms.
+
+---
+
+#### The Axiom of Creative Disruption (ID: `EVT-CORE-016`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that integrates `creative(-ing)`, `innovative(-ing)`, `disruptive(-ing)`, and `'bottom-up'(-ing)` dynamics into the event generation process.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Creative Disruption
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `innovation requires the disruption of pattern`. It defines a specific class of `event`—the **Disruptive Event**—which originates `bottom-up` to break existing cycles and introduce `creative` novelty into the system.
+
+#### **5.2. The Mechanism - [The Mutation Vector]**
+
+- **The Stagnation Check:** The system detects when `events` have become repetitive or predictable (Low Entropy).
+- **The Disruptive Injection:** A `bottom-up` agent or process initiates a `disruptive` `event` (e.g., "The peasant refuses to bow," "The algorithm tries a random path").
+- **The Innovative Evaluation:** The system observes the outcome. If this `disruptive` `event` solves a problem better than the old method, it is flagged as `innovative`.
+- **The New Norm:** The `innovative` `event` becomes the new standard, completing the `creative` cycle.
+
+#### **5.3. The Emergent Property - [Evolutionary Leaps]**
+
+The system does not just iterate; it jumps. By allowing `disruptive` `events`, the framework avoids local optima and discovers entirely new ways of being.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Order breeds habit; chaos breeds life.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Innovation):**
+
+- **If `[genetic algorithms(-ing) BPMS]`: (Mutation)** Randomly flipping a bit (`disruptive event`) allows the algorithm to escape a local maximum.
+- **If `[sociology(-ing) BPMS]`: (Social Movement)** A protest (`disruptive event`) challenges the status quo, leading to legislative reform (`innovation`).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The shock of the new. The realization that "we don't have to do it this way anymore."
+
+#### **7. Rationale / Justification:**
+
+Essential for preventing the simulation from becoming stale and for enabling true `super intelligence` to emerge from `bottom-up` processes.
+
+#### **8. Scope of Application:**
+
+Applies to artificial intelligence learning rates, procedural generation variance, and dynamic narrative twists.
+
+------
+
+#### The Axiom of Constructive Utility (ID: `EVT-CORE-017`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines `action(-ing)`, `value(-ing)`, `utility(-ing)`, and `constructive(-ing)` dynamics as the drivers of event selection.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Constructive Utility
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `action is the generator of value`. It defines the `event` as a `constructive` operation that transforms raw resources into `utility`. Every `event` is an investment of energy with the expectation of a return in `value`.
+
+#### **5.2. The Mechanism - [The Utility Calculus]**
+
+- **The Proposal:** An agent proposes an `action` `event` ("Build Bridge").
+- **The Utility Forecast:** The system calculates the potential `utility` (Access to new area, Trade route).
+- **The Constructive Execution:** The `event` consumes resources (Wood, Stone, Time) and produces a `value` asset (The Bridge).
+- **The Value Realization:** Future `events` (Crossing the bridge) validate the `utility` of the initial `constructive` `event`.
+
+#### **5.3. The Emergent Property - [Civilization]**
+
+The world accumulates `value` over time. It is not a zero-sum game; through `constructive` `events`, the total `utility` of the system increases.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To build is to enrich.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Value):**
+
+- **If `[economics(-ing) BPMS]`: (Production Function)** `Output = f(Capital, Labor)`. The `event` is the application of `f`.
+- **If `[crafting(-ing) BPMS]`: (Synthesis)** Ingredients + Action (`event`) = Potion (`value`).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The pride of creation. Looking at a structure and knowing "I made this."
+
+#### **7. Rationale / Justification:**
+
+Provides the economic and productive backbone of the framework, ensuring that actions have tangible results.
+
+#### **8. Scope of Application:**
+
+Applies to crafting systems, city-building mechanics, and economic simulations.
+
+------
+
+#### The Axiom of Ecological Actualization (ID: `EVT-CORE-018`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that integrates `world building`, `'ecological possibility'`, `'(ecological) niche'`, and `open(-ing)` systems into the event structure.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Ecological Actualization
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `possibility demands an event to become reality`. It defines the `event` as the mechanism that fills an `'(ecological) niche'` within the `open` space of `'ecological possibility'`, effectively performing `world building` in real-time.
+
+#### **5.2. The Mechanism - [The Niche Filler]**
+
+- **The Void:** The `world building` engine defines an empty `niche` (e.g., "No predator in the forest").
+- **The Possibility Space:** The `open` system allows for multiple solutions (Wolf? Bear? Dragon?).
+- **The Actualization Event:** An `event` occurs (A wolf pack migrates in).
+- **The Closure:** The `niche` is filled. The `'ecological possibility'` collapses into a specific ecological reality.
+
+#### **5.3. The Emergent Property - [Living Ecosystem]**
+
+The world feels "full" and responsive. Nature abhors a vacuum, and `events` are the way the system rushes to fill those vacuums.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The potential seeks the actual.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Ecology):**
+
+- **If `[biology(-ing) BPMS]`: (Adaptive Radiation)** Species evolve (`events`) to exploit empty niches.
+- **If `[narrative(-ing) BPMS]`: (The Plot Hole)** A character takes action (`event`) to resolve an unexplained gap in the story (`niche`).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The sense of discovery. Finding that every corner of the world has something living in it.
+
+#### **7. Rationale / Justification:**
+
+Essential for procedural generation and dynamic ecosystem management.
+
+#### **8. Scope of Application:**
+
+Applies to creature spawning, faction territory control, and procedural storytelling.
+
+------
+
+#### The Axiom of Noetic Initiative (ID: `EVT-CORE-019`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the role of `'holonic minds'`, `initiative(-ing)`, `'super intelligence'`, and `'praxial cognition'` in generating events.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Noetic Initiative
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `mind precedes event`. It defines `initiative` as the capacity of `'holonic minds'` (and potentially `'super intelligence'`) to spontaneously generate `events` based on `'praxial cognition'`, rather than just reacting to stimuli.
+
+#### **5.2. The Mechanism - [The Cognitive Spark]**
+
+- **The Cognition:** The `'holonic mind'` processes the state of the world via `'praxial cognition'`.
+- **The Strategy:** It formulates a plan (a sequence of potential `events`).
+- **The Initiative:** It exerts will to trigger the first `event` in the chain ("I start the project").
+- **The Super-Optimization:** A `'super intelligence'` can simulate millions of `event` chains to select the one with the highest probability of success before taking `initiative`.
+
+#### **5.3. The Emergent Property - [Agency]**
+
+The world is driven by intent. Things happen because someone (or something) *wanted* them to happen.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*I think, therefore I act.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Will):**
+
+- **If `[artificial intelligence(-ing) BPMS]`: (Goal-Oriented Action Planning)** The artificial intelligence formulates a goal and initiates the necessary `events`.
+- **If `[gameplay(-ing) BPMS]`: (Player Input)** The player presses a button (`initiative`), causing an `event`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of control. The power to shape the world through one's will.
+
+#### **7. Rationale / Justification:**
+
+Defines the interface between the mind (AI or Player) and the physics of the world.
+
+#### **8. Scope of Application:**
+
+Applies to artificial intelligence behavior, player controllers, and strategic simulations.
+
+------
+
+#### The Axiom of Coherent Continuity (ID: `EVT-CORE-020`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that ensures `essence(-ing)`, `'atomic facts'`, `meaning(-ing)`, `continuity(-ing)`, and `coherent(-ing)` through event chains.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Coherent Continuity
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `meaning is the coherence of events`. It defines the `event` not just as a change in data, but as a preserver of `essence`. A valid `event` must maintain the `continuity` of the entity's `atomic facts`, ensuring a `coherent` narrative.
+
+#### **5.2. The Mechanism - [The Consistency Validator]**
+
+- **The Proposed Event:** "The Pacifist Monk kills the child."
+- **The Essence Check:** The system compares this `event` against the entity's `essence` (Atomic Facts: `Trait: Pacifist`).
+- The Coherence Calculation:
+  - If inconsistent: The `event` is rejected or flagged as a "Psychotic Break" (requiring a `disruptive` tag).
+  - If consistent: The `event` is allowed, preserving `continuity`.
+- **The Meaning Generation:** The sequence of `coherent` `events` generates `meaning` ("He remained true to his vows").
+
+#### **5.3. The Emergent Property - [Narrative Integrity]**
+
+The world makes sense. Characters act in character; physics obeys laws. The stream of `events` tells a story, not just a random sequence of things.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*A thing must be true to itself.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Consistency):**
+
+- **If `[database(-ing) BPMS]`: (Referential Integrity)** Foreign keys must match; data must not contradict itself.
+- **If `[literature(-ing) BPMS]`: (Character Arc)** Actions must flow logically from established character traits.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The satisfaction of a well-told story. The absence of "immersion-breaking" moments.
+
+#### **7. Rationale / Justification:**
+
+Crucial for maintaining immersion and the logical integrity of the simulation.
+
+#### **8. Scope of Application:**
+
+Applies to narrative engines, dialogue generation, and physics constraints.
+
+------
+
+#### The Axiom of Substrate Integration (ID: `EVT-CORE-021`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that integrates the `'metasystem engine'`, `'system existence engine'`, `'praxial substrate'`, and `'(symbiois) evolution'` into the final event validation loop.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Substrate Integration
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the event is the ink of the substrate`. It defines the ultimate role of the `event` as the mechanism by which the `'system existence engine'` writes to the `'praxial substrate'`, regulated by the `'metasystem engine'` to ensure global `'(symbiois) evolution'`.
+
+#### **5.2. The Mechanism - [The Metasystem Loop]**
+
+- **The Event Stream:** All `events` from all modules flow into the `'metasystem engine'`.
+- **The Substrate Write:** Validated `events` are etched into the `'praxial substrate'` (The Codex). This is the "Save Game" of the universe.
+- **The Existence Pulse:** The `'system existence engine'` uses these `events` to confirm that entities are still active and relevant.
+- **The Symbiotic Feedback:** The `'metasystem engine'` analyzes the aggregate `event` data to adjust global parameters (e.g., "Too much war; increase resource scarcity to force peace"), driving the `'(symbiois) evolution'` of the entire framework.
+
+#### **5.3. The Emergent Property - [Universal Homeostasis]**
+
+The framework is self-regulating. It uses `events` not just to change the state, but to monitor and evolve its own rules, ensuring long-term stability and growth.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The part shapes the whole; the whole guides the part.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Governance):**
+
+- **If `[operating system(-ing) BPMS]`: (Kernel Space)** The Kernel (`metasystem`) manages how processes (`events`) access hardware (`substrate`).
+- **If `[ecology(-ing) BPMS]`: (Gaia Hypothesis)** The biosphere regulates the climate through the aggregate actions (`events`) of life forms.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of being part of a grand design. The intuition that there is a "logic" to the universe beyond immediate cause and effect.
+
+#### **7. Rationale / Justification:**
+
+The capstone setting that ties the Event module back to the highest levels of the Praxial architecture.
+
+#### **8. Scope of Application:**
+
+Applies to global difficulty scaling, dynamic world events, and server-side physics authority.
+
+---
+
+#### The Axiom of Ludic Service (ID: `EVT-CORE-022`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that integrates `conscious(-ing)`, `services(-ing)`, and `play(-ing)` into the event structure, defining events as the fundamental transactions of fun and utility.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Ludic Service
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `play is the service of consciousness`. It defines a specific class of `event`—the **Ludic Event**—where a `conscious` entity engages with a `services` module (like a game mechanic or a shop) purely for the sake of `play`.
+
+#### **5.2. The Mechanism - [The Joy Loop]**
+
+- **The Service Offer:** The system presents a `service` (e.g., "A puzzle to solve" or "A monster to fight").
+- **The Conscious Engagement:** The `conscious` agent initiates a `play` `event` (engaging with the mechanic).
+- **The Feedback:** The `event` generates immediate feedback (Fun/Reward).
+- **The Symbiosis:** The `conscious` agent gains enjoyment (Utility), and the `service` module gains relevance (Existence).
+
+#### **5.3. The Emergent Property - [Flow State]**
+
+When `Ludic Events` are perfectly tuned to the agent's skill level, the system enters a state of "Flow," where `consciousness` merges with the `event` stream.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The universe plays hide and seek with itself.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Engagement):**
+
+- **If `[game design(-ing) BPMS]`: (The Core Loop)** Action -> Reward -> Upgrade -> Action. The `event` is the heartbeat of this loop.
+- **If `[economics(-ing) BPMS]`: (Service Economy)** The exchange of value (`event`) is based on experience (`play`) rather than goods.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of "Just one more turn." The immersion of play.
+
+#### **7. Rationale / Justification:**
+
+Essential for the "Fun Engine" aspect of the framework, ensuring that events are not just functional but enjoyable.
+
+#### **8. Scope of Application:**
+
+Applies to gamification layers, entertainment systems, and user engagement metrics.
+
+------
+
+#### The Axiom of Chrono-Symbiosis (ID: `EVT-CORE-023`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the `'(symbiois) evolution'` among/by `'slow mode'` (History) and `'fast mode'` (Action) via `events`, ensuring `sustainability`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Chrono-Symbiosis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `speed feeds stability`. It defines the `event` as the metabolic converter that takes high-frequency `'fast mode'` data (twitch reactions, physics ticks) and compresses it into low-frequency `'slow mode'` wisdom (lore, stats), ensuring the `sustainability` of the system's resources.
+
+#### **5.2. The Mechanism - [The Time Dilation Filter]**
+
+- **Fast Mode Input:** Thousands of micro-`events` occur per second (physics collisions, particle effects).
+- **The Compression Event:** A "Summary `Event`" is triggered (e.g., "Battle Concluded").
+- **Slow Mode Output:** Only the Summary `Event` is written to the `'slow mode'` database. The micro-`events` are discarded.
+- **Sustainability:** This prevents database bloat, allowing the system to run indefinitely (`sustainability`).
+
+#### **5.3. The Emergent Property - [Deep Time]**
+
+The system can simulate eons of history without crashing, because it intelligently forgets the noise of `'fast mode'` while keeping the signal of `'slow mode'`.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The days are long, but the years are short.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Time):**
+
+- **If `[database(-ing) BPMS]`: (Rollups)** Aggregating raw logs (`fast`) into daily summaries (`slow`).
+- **If `[neuroscience(-ing) BPMS]`: (Sleep Consolidation)** Moving daily memories (`fast`) into permanent storage (`slow`) during sleep.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of looking back at a chaotic year and seeing a clear narrative.
+
+#### **7. Rationale / Justification:**
+
+Crucial for performance optimization and long-term data management.
+
+#### **8. Scope of Application:**
+
+Applies to history generation, save systems, and server archival processes.
+
+------
+
+#### The Axiom of Renormalized Universality (ID: `EVT-CORE-024`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines `'(symbiois) evolution'` among/by `micro` and `macro` scales using `'renormalization group'` logic and `'universality (class)'` concepts.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Renormalized Universality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the large is a reflection of the small`. It uses the `'renormalization group'` framework to define how `micro` `events` (individual actions) scale up to become `macro` `events` (historical trends), revealing `'universality (class)'` behaviors that are independent of the specific details.
+
+#### **5.2. The Mechanism - [The Scaling Ladder]**
+
+- **Micro Events:** Individual agents trade goods.
+- **Renormalization Step:** The system averages these interactions over a region.
+- **Macro Event:** A "Recession" or "Boom" emerges.
+- **Universality:** The "Boom" follows the same mathematical curve (`universality class`) whether the agents are trading corn, stocks, or favors. The `event` structure is scale-invariant.
+
+#### **5.3. The Emergent Property - [Predictable Chaos]**
+
+While individual `micro` `events` are unpredictable, the `macro` `events` follow robust, universal laws.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*As above, so below.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Scale):**
+
+- **If `[physics(-ing) BPMS]`: (Phase Transitions)** Water freezing is a `macro event` driven by `micro` molecular alignments.
+- **If `[sociology(-ing) BPMS]`: (Crowd Dynamics)** Individual panic (`micro`) leads to a stampede (`macro`).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The realization that "history repeats itself." Seeing the big picture.
+
+#### **7. Rationale / Justification:**
+
+Provides the mathematical justification for high-level simulation mechanics based on low-level agent behavior.
+
+#### **8. Scope of Application:**
+
+Applies to economy balancing, crowd simulation, and weather patterns.
+
+------
+
+#### The Axiom of Implicit Closure (ID: `EVT-CORE-025`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the `'(symbiois) evolution'` among/by the `'implicit layer'` (Hidden) and `'explicit layer'` (Visible), ensuring `'closure (system)'`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Implicit Closure
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the hidden drives the visible`. It defines the `event` as the moment of `'closure (system)'` where `'implicit'` variables (hidden motives, background calculations) manifest as `'explicit'` outcomes.
+
+#### **5.2. The Mechanism - [The Reveal Protocol]**
+
+- **Implicit State:** An NPC has a hidden variable `Trust: Low`.
+- **The Trigger:** The player asks for a favor.
+- **The Event:** The NPC refuses (Explicit Action).
+- **The Closure:** The `event` closes the loop. The `'implicit'` distrust is now `'explicitly'` known. The system state is consistent.
+- **Evolution:** The player now knows the hidden state and adapts.
+
+#### **5.3. The Emergent Property - [Subtext]**
+
+The world has depth. Not everything is on the surface. `Events` are the tips of the iceberg that hint at the massive `'implicit layer'` beneath.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Secrets demand to be told.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Hidden States):**
+
+- **If `[poker(-ing) BPMS]`: (The Showdown)** Hidden cards (`implicit`) are revealed (`explicit`) at the end of the hand (`event`).
+- **If `[mystery(-ing) BPMS]`: (The Clue)** A clue (`event`) makes a hidden fact (`implicit`) visible (`explicit`).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of intuition. Reading between the lines.
+
+#### **7. Rationale / Justification:**
+
+Essential for complex social interactions, stealth games, and mystery narratives.
+
+#### **8. Scope of Application:**
+
+Applies to artificial intelligence disposition systems, fog of war, and hidden object mechanics.
+
+------
+
+#### The Axiom of Adaptive Discovery (ID: `EVT-CORE-026`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that integrates `'(discover/build) unknown'`, `emergent`, `adaptive`, `robust`, `resilient`, and `sustainability` into the event generation process.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Adaptive Discovery
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the unknown is the fuel of resilience`. It defines a class of `events`—**Exploratory Events**—that specifically target the `unknown` regions of the possibility space. By `discovering` or `building` new paths, the system becomes more `adaptive` and `robust`.
+
+#### **5.2. The Mechanism - [The Resilience Loop]**
+
+- **The Stressor:** A new threat appears (e.g., a virus or a glitch).
+- **The Adaptive Event:** The system/agent tries a random or calculated new strategy (`discover/build unknown`).
+- **The Emergence:** A new solution `emerges` from this trial.
+- **The Resilience:** This solution is integrated. The system is now `robust` against that specific threat.
+- **Sustainability:** Continuous adaptation ensures the system survives indefinitely.
+
+#### **5.3. The Emergent Property - [Antifragility]**
+
+The system gets stronger when attacked. `Events` that challenge the system force it to evolve and expand its capabilities.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*What does not kill me makes me stronger.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Adaptation):**
+
+- **If `[immune system(-ing) BPMS]`: (Antibodies)** Exposure to a pathogen (`event`) creates immunity (`resilience`).
+- **If `[machine learning(-ing) BPMS]`: (Adversarial Training)** Training against attacks (`events`) makes the model `robust`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The confidence of a veteran. "I've seen this before, and I know what to do."
+
+#### **7. Rationale / Justification:**
+
+Ensures the framework can handle unexpected inputs and evolve over time without collapsing.
+
+#### **8. Scope of Application:**
+
+Applies to difficulty scaling, artificial intelligence learning, and system security protocols.
+
+---
+
+#### The Axiom of Kinetic Existence (ID: `EVT-CORE-027`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that establishes the **`[event(-ing) BPMS]`** as a dynamic implementation of the **`['system existence engine'(-ing) BPMS]`**, asserting that existence is maintained through continuous interaction.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Kinetic Existence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `to exist is to participate`. It defines the `event` as the "Keep-Alive" signal for the `['system existence engine'(-ing) BPMS]`. Static entities eventually fade; only entities involved in `events` are prioritized by the engine for rendering and processing.
+
+#### **5.2. The Mechanism - [The Activity Heartbeat]**
+
+- **The Stasis Timer:** Every entity has a "Time Since Last Event" counter.
+
+- **The Event Reset:** When an entity participates in an `event` (as subject or object), this counter resets.
+
+- The Existence Check:
+
+   The 
+
+  ```
+  ['system existence engine']
+  ```
+
+   scans these counters.
+
+  - **Active:** High event frequency -> High priority (Full Physics/AI).
+  - **Dormant:** Low event frequency -> Low priority (Cached/Abstracted).
+  - **Dead:** Zero events for threshold -> De-resolution (Garbage Collection).
+
+#### **5.3. The Emergent Property - [Performance Optimization]**
+
+The system naturally focuses its computational power on the "living" parts of the world—where things are happening—while efficiently archiving the static parts.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Life is motion.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Activity):**
+
+- **If `[server architecture(-ing) BPMS]`: (Session Timeout)** Users are logged out (`de-resolved`) if they don't send a request (`event`) within a timeframe.
+- **If `[physics(-ing) BPMS]`: (Observer Effect)** Particles exist in a definite state only when they interact (`event`) with a system.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of being "in the thick of it." The world feels most real when it is moving fast.
+
+#### **7. Rationale / Justification:**
+
+Fulfills the requirement to implement the `['system existence engine']` via dynamic action, complementing the static verification of the Codex.
+
+#### **8. Scope of Application:**
+
+Applies to LOD (Level of Detail) systems, server culling logic, and simulation focus management.
+
+------
+
+#### The Axiom of Fact Genesis (ID: `EVT-CORE-028`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that establishes the **`[event(-ing) BPMS]`** as the primary generator and modifier of **`['atomic facts'(-ing) BPMS]`**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Fact Genesis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `facts are the footprints of events`. It defines the `event` as the *only* valid mechanism for creating, updating, or deleting `atomic facts` within the `holonic substrate codex`. Direct database editing is forbidden; change must flow through an `event`.
+
+#### **5.2. The Mechanism - [The Transactional Write]**
+
+- **The Pre-State:** `Fact_A: Health = 100`.
+- **The Event:** `Event_Damage(Amount: 10)`.
+- **The Processing:** The `event` logic calculates the new state. `100 - 10 = 90`.
+- **The Post-State:** The `event` commits the new `atomic fact`: `Fact_A: Health = 90`.
+- **The Audit Trail:** The `event` ID is linked to the fact change, creating a permanent history of *why* the fact changed.
+
+#### **5.3. The Emergent Property - [Causal Integrity]**
+
+The state of the world is never arbitrary. Every number, every status, every location can be traced back to the specific `event` that caused it.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Nothing changes without cause.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Mutation):**
+
+- **If `[database(-ing) BPMS]`: (Event Sourcing)** The state of the database is derived by replaying the log of `events`.
+- **If `[law(-ing) BPMS]`: (Chain of Evidence)** A fact is only valid if the chain of custody (`events`) is intact.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The sense of fairness. "I took damage because I got hit," not "I took damage because the game decided to hurt me."
+
+#### **7. Rationale / Justification:**
+
+Fulfills the requirement to implement `['atomic facts']` generation, ensuring data integrity and historical traceability.
+
+#### **8. Scope of Application:**
+
+Applies to combat systems, economy transactions, inventory management, and save game architecture.
+
+------
+
+#### The Axiom of Universal Symbiosis (ID: `EVT-CORE-029`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that establishes the **`[event(-ing) BPMS]`** as the universal interface for **`'(symbiois) evolution'`** with *any* other `[BPMS(U)]` element.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Universal Symbiosis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the event is the common language of the universe`. It defines a standardized `Event Protocol` that allows any two disparate modules (e.g., `Music` and `Combat`, or `Weather` and `Economy`) to communicate, interact, and co-evolve without needing to know each other's internal logic.
+
+#### **5.2. The Mechanism - [The Symbiotic Bus]**
+
+- **The Publisher:** Module A (`Weather`) publishes an `event`: `Event_Storm(Severity: High)`.
+- **The Subscriber:** Module B (`Economy`) subscribes to `Storm` events.
+- **The Reaction:** Module B processes the `event` and triggers its own internal logic: `Price_Wheat: +20%`.
+- **The Co-Evolution:** Over time, Module B evolves a "Disaster Preparedness" trait based on the frequency of Module A's events. Module A might evolve "Seasonal Patterns" based on Module B's resource usage.
+
+#### **5.3. The Emergent Property - [Interconnectedness]**
+
+The framework becomes a single, breathing organism. You cannot touch one part without sending ripples (`events`) through the whole.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Everything touches everything.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Integration):**
+
+- **If `[software engineering(-ing) BPMS]`: (Microservices)** Independent services communicate via asynchronous `events` (Kafka/RabbitMQ).
+- **If `[ecology(-ing) BPMS]`: (Trophic Cascades)** The reintroduction of wolves (`event`) changes the flow of rivers (via deer behavior and vegetation).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The delight of unexpected connections. "The rain made the road muddy, which slowed down the caravan, which raised the price of swords."
+
+#### **7. Rationale / Justification:**
+
+Fulfills the requirement to implement `'(symbiois) evolution'` across the entire framework, making the `[event(-ing) BPMS]` the glue that holds the Fun Engine together.
+
+#### **8. Scope of Application:**
+
+Applies to cross-module interactions, complex system simulation, and emergent gameplay loops.
