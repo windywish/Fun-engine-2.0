@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.8.3 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.8.4 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2778,6 +2778,59 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Kinetic Existence (ID: `EVT-CORE-027`)
 * The Axiom of Fact Genesis (ID: `EVT-CORE-028`)
 * The Axiom of Universal Symbiosis (ID: `EVT-CORE-029`)
+
+### Module: ['Praxial Reconstruction Engine (BYOX)'(-ing) BPMS]
+
+*(New Integration v3.8.4)*
+
+* The Axiom of Recursive Reconstruction (ID: `BYOX-SYS-001`)
+* The Axiom of Demystification (ID: `BYOX-CORE-002`)
+* The Axiom of Functional Parity (ID: `BYOX-CORE-003`)
+* The Axiom of Incremental Complexity (ID: `BYOX-CORE-004`)
+* The Axiom of Language Agnosticism (ID: `BYOX-CORE-005`)
+* The Axiom of Minimal Dependency (ID: `BYOX-CORE-006`)
+* The Axiom of Failure-Driven Insight (ID: `BYOX-CORE-007`)
+* Protocol Spec Parser (ID: `BYOX-MOD-008`)
+* Skeleton Generator (ID: `BYOX-MOD-009`)
+* Stage-Gate Sentinel (ID: `BYOX-MOD-010`)
+* Traffic Replay Engine (ID: `BYOX-MOD-011`)
+* Chaos Monkey Lite (ID: `BYOX-MOD-012`)
+* Benchmark Comparator (ID: `BYOX-MOD-013`)
+* Socratic Debugger (ID: `BYOX-MOD-014`)
+* Concept Visualizer (ID: `BYOX-MOD-015`)
+* Polyglot Transpiler (ID: `BYOX-MOD-016`)
+* The "Not Invented Here" Balancer (ID: `META-BYOX-017`)
+* The Deep Dive Limit (ID: `META-BYOX-018`)
+* The Living Spec Sync (ID: `META-BYOX-019`)
+* The Axiom of Pan-Substrate Constructivism (ID: `BYOX-CORE-020`)
+* The Axiom of Teleological Parity (ID: `BYOX-CORE-021`)
+* Ontological Primitive Mapper (ID: `BYOX-MOD-022`)
+* Narrative Physics Engine (ID: `BYOX-MOD-023`)
+* Bio-Digital Splicer (ID: `BYOX-MOD-024`)
+* The Demiurge Safety Interlock (ID: `META-BYOX-025`)
+* The Axiom of Ontological Genesis (ID: `BYOX-CORE-026`)
+* The Axiom of Facticity via Construction (ID: `BYOX-CORE-027`)
+* The Holonic Bootstrapper (ID: `BYOX-MOD-028`)
+* The Fact Crystallizer (ID: `BYOX-MOD-029`)
+* The Autopoietic Loop (ID: `META-BYOX-030`)
+* The Axiom of Mnemonic Reconstruction (ID: `BYOX-CORE-031`)
+* The Axiom of Truth-Reality Convergence (ID: `BYOX-CORE-032`)
+* The Matrix-Vector Instantiator (ID: `BYOX-MOD-033`)
+* The Phenomenological Renderer (ID: `BYOX-MOD-034`)
+* The Energy Transducer (ID: `BYOX-MOD-035`)
+* The Teleological Constructor (ID: `BYOX-MOD-036`)
+* The Granularity Zoom-Lens (ID: `BYOX-MOD-037`)
+* The Particle-Field Dualizer (ID: `META-BYOX-038`)
+* The Complexity Weaver (ID: `BYOX-MOD-039`)
+* The Decision-Event Loop (ID: `BYOX-MOD-040`)
+* The Survival Monitor (ID: `BYOX-MOD-041`)
+* The Axiom of Disruptive Genesis (ID: `BYOX-CORE-042`)
+* The Axiom of Essential Utility (ID: `BYOX-CORE-043`)
+* The Metasystem Architect (ID: `BYOX-MOD-044`)
+* The Ecological Niche Carver (ID: `BYOX-MOD-045`)
+* The Holonic Mind Weaver (ID: `BYOX-MOD-046`)
+* The Meaning-Continuity Bridge (ID: `BYOX-MOD-047`)
+* The Initiative Protocol (ID: `META-BYOX-048`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
