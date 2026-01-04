@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.8.4 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.8.5 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2410,6 +2410,10 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Systemic Emergence (ID: `DATASET-CORE-029`)
 * The Axiom of Event-Driven Decision (ID: `DATASET-CORE-030`)
 * The Law of Continuous Survival (ID: `DATASET-CORE-031`)
+* The Protocol of Schema Compliance (ID: `DATASET-FLOW-032`)
+* The Axiom of Latent Systemogenesis (ID: `DATASET-FLOW-033`)
+* The Law of Trace Retention (ID: `DATASET-FLOW-034`)
+* The Principle of Anomalous Accretion (ID: `DATASET-FLOW-035`)
 
 ### Module: ['Morphic'(-ing) BPMS]
 
@@ -2529,6 +2533,10 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Synaptic Minima (ID: `TWIN-DATA-026`)
 * The Axiom of Recursive Resolution (ID: `LDS-HIER-027`)
 * The Axiom of Differential Sharding (ID: `LDS-HIER-028`)
+* The Protocol of Instant Binding (ID: `LDS-FLOW-029`)
+* The Axiom of Seed-State Unfolding (ID: `LDS-FLOW-030`)
+* The Law of Ephemeral Serialization (ID: `LDS-FLOW-031`)
+* The Principle of Artifactual Crystallization (ID: `LDS-FLOW-032`)
 
 ### Module: [media(-ing) BPMS]
 
@@ -2637,7 +2645,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Ecological Niche Construction (ID: `SIA-CORE-004`)
 * The Axiom of Praxial Meaning Synthesis (ID: `SIA-CORE-005`)
 * The Axiom of Disruptive Value Genesis (ID: `SIA-CORE-006`)
-*  The Axiom of Ludic Consciousness (ID: `SIA-CORE-007`)
+* The Axiom of Ludic Consciousness (ID: `SIA-CORE-007`)
 * The Axiom of Universal Renormalization (ID: `SIA-CORE-008`)
 * The Axiom of Robust Emergence (ID: `SIA-CORE-009`)
 * The Axiom of Mnemonic Truth Convergence (ID: `SIA-CORE-010`)
@@ -2648,6 +2656,13 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Universal Instantiation (ID: `SIA-CORE-015`)
 * The Axiom of Atomic Factogenesis (ID: `SIA-CORE-016`)
 * The Axiom of Polymorphic Symbiosis (ID: `SIA-CORE-017`)
+* The Protocol of Symbiotic Instantiation (ID: `SIA-FLOW-018`)
+* The Protocol of Inductive Genesis (ID: `SIA-FLOW-019`)
+* The Protocol of Deductive Curation (ID: `SIA-FLOW-020`)
+* The Protocol of Artifactual Discovery (ID: `SIA-FLOW-021`)
+* The Axiom of Recursive Cognition (ID: `SIA-CORE-022`)
+* The Axiom of Goal Orthogonality (ID: `SIA-CORE-023`)
+* The Axiom of Contextual Fluidity (ID: `SIA-CORE-024`)
 
 ### Module: ['Chronological Proteome Framework'(-ing) BPMS]
 
@@ -2831,6 +2846,47 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Holonic Mind Weaver (ID: `BYOX-MOD-046`)
 * The Meaning-Continuity Bridge (ID: `BYOX-MOD-047`)
 * The Initiative Protocol (ID: `META-BYOX-048`)
+
+### Module: ['Praxial Coordination Physics'(-ing) BPMS]
+
+*(New Integration v3.8.5)*
+
+* The Axiom of Coordination Physics (ID: `PCP-CORE-001`)
+* The Axiom of Adaptive Baiting (ID: `PCP-CORE-002`)
+* The Axiom of Socratic Filtration (ID: `PCP-CORE-003`)
+* The Axiom of Transactional Lineage (ID: `PCP-CORE-004`)
+* The Axiom of Modulated Contentiousness (ID: `PCP-CORE-005`)
+* The Axiom of Phase-State Governance (ID: `PCP-CORE-006`)
+* The Axiom of Temporal Renormalization (ID: `PCP-CORE-007`)
+* The Axiom of Ludic Resonance (ID: `PCP-CORE-008`)
+* The Axiom of Porous Closure (ID: `PCP-CORE-009`)
+* The Axiom of Dual-Layer Symbiosis (ID: `PCP-CORE-010`)
+* The Axiom of Service Ecology (ID: `PCP-CORE-011`)
+* The Axiom of Mnemonic Consolidation (ID: `PCP-CORE-012`)
+* The Axiom of Coherent Validation (ID: `PCP-CORE-013`)
+* The Axiom of Vectorial State (ID: `PCP-CORE-014`)
+* The Axiom of Phenomenal Grounding (ID: `PCP-CORE-015`)
+* The Axiom of Energetic Transmutation (ID: `PCP-CORE-016`)
+* The Axiom of Teleological Alignment (ID: `PCP-CORE-017`)
+* The Axiom of Granular Duality (ID: `PCP-CORE-018`)
+* The Axiom of Wave-Particle Duality (ID: `PCP-CORE-019`)
+* The Axiom of Complexity Metabolism (ID: `PCP-CORE-020`)
+* The Axiom of Event-Decision Coupling (ID: `PCP-CORE-021`)
+* The Axiom of Homeostatic Persistence (ID: `PCP-CORE-022`)
+* The Axiom of Existential Compilation (ID: `PCP-CORE-023`)
+* The Axiom of Atomic Facticity (ID: `PCP-CORE-024`)
+* The Axiom of Universal Symbiosis (ID: `PCP-CORE-025`)
+* The Axiom of Recursive Autopoiesis (ID: `PCP-CORE-026`)
+* The Axiom of Signal Coherence (ID: `PCP-CORE-027`)
+* The Axiom of Consensus Reality (ID: `PCP-CORE-028`)
+* The Axiom of Frictionless Handoff (ID: `PCP-CORE-029`)
+* The Axiom of Swarm Intelligence (ID: `PCP-CORE-030`)
+
+### Module: [tools(-ing) BPMS]
+
+*(New Integration v3.8.5)*
+
+* The Axiom of Instrumental Extension (ID: `TOOL-CORE-001`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
@@ -3128,6 +3184,17 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - A concluding section summarizing the instance's nature as a Praxial Being.
 
 ### B. Registered Instance Registry (The Population)
+
+#### Domain: ['Praxial Reconstruction Engine (BYOX)'(-ing) BPMS]
+
+*(New Integration v3.8.4)*
+
+1. **[Instance ID: BYOX-EVT-RECON-001]**
+
+- **Name:** `  ['The Chronos Smith'(-ing) BPMS]`
+- **Role:** System Existence Engine for temporal infrastructure forge.
+- **CGA:** `['resonant constellation map fabricator'(-ing) BPMS]`
+- **File:** `['Praxial Reconstruction Engine (BYOX)'(-ing) BPMS] ['The Chronos Smith'(-ing) BPMS].md`
 
 #### Domain: ['(lightweight) dataset perception'(-ing) BPMS]
 
