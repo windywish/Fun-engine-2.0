@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.8.5 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.8.7 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -2887,6 +2887,76 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 *(New Integration v3.8.5)*
 
 * The Axiom of Instrumental Extension (ID: `TOOL-CORE-001`)
+
+### Module: ['Web World Models'(-ing) BPMS]
+
+*(New Integration v3.8.6)* 
+
+* The Axiom of Hybrid Reality Synthesis (ID: `WWM-CORE-001`)
+* The Axiom of Typed Ontological Binding (ID: `WWM-CORE-002`)
+* The Axiom of Chronos-Spatial Hashing (ID: `WWM-CORE-003`)
+* The Axiom of Symbiotic Fidelity Sliding (ID: `WWM-CORE-004`)
+* The Axiom of Emergent Resonant Constellation Map Loops (ID: `WWM-CORE-005`)
+* The Axiom of Renormalized Universality (ID: `WWM-CORE-006`)
+* The Axiom of Implicit-Explicit Closure (ID: `WWM-CORE-007`)
+* The Axiom of Service-Oriented Play (ID: `WWM-CORE-008`)
+* The Axiom of Mnemonic Resonance (ID: `WWM-CORE-009`)
+* The Axiom of Vector-Matrix Duality (ID: `WWM-CORE-010`)
+* The Axiom of Phenomenal Field Collapse (ID: `WWM-CORE-011`)
+* The Axiom of Kinetic-Potential Transmutation (ID: `WWM-CORE-012`)
+* The Axiom of Coarse-Fine Renormalization (ID: `WWM-CORE-013`)
+* The Axiom of Recursive Implementation (ID: `WWM-CORE-014`)
+* The Axiom of Atomic Fact Crystallization (ID: `WWM-CORE-015`)
+* The Axiom of Symbiotic Matrix Evolution (ID: `WWM-CORE-016`)
+* The Axiom of Holonic Mind Integration (ID: `WWM-CORE-017`)
+* The Axiom of Emergent Complexity Stacking (ID: `WWM-CORE-018`)
+* The Axiom of Resonant Constellation Map Decision Topology (ID: `WWM-CORE-019`)
+* The Axiom of Continuous Existential Loop (ID: `WWM-CORE-020`)
+
+### Module: ['Bayesian Population Intelligence'(-ing) BPMS]
+
+*(New Integration v3.8.7)* 
+
+* The Axiom of Latent Persona Manifold (ID: `BPI-CORE-001`)
+* The Axiom of Temporal Hypothesis Consistency (ID: `BPI-CORE-002`)
+* The Axiom of Population-Driven Exploration (ID: `BPI-CORE-003`)
+* The Axiom of Symbiotic Bias Tuning (ID: `BPI-CORE-004`)
+* The Axiom of Stochastic Existence (ID: `BPI-CORE-005`)
+* The Protocol of Atomic Crystallization (ID: `BPI-CORE-006`)
+* The Mechanism of Symbiotic Drift (ID: `BPI-CORE-007`)
+* The Engine of Holonic Consensus (ID: `BPI-CORE-008`)
+* The Axiom of Bottom-Up Genesis (ID: `BPI-CORE-009`)
+* The Protocol of Ecological Niche Partitioning (ID: `BPI-CORE-010`)
+* The Mechanism of Praxial Cognition Loops (ID: `BPI-CORE-011`)
+* The Engine of Essence Distillation (ID: `BPI-CORE-012`)
+* The Axiom of Conscious Play (ID: `BPI-CORE-013`)
+* The Protocol of Renormalization Scaling (ID: `BPI-CORE-014`)
+* The Mechanism of Layered Closure (ID: `BPI-CORE-015`)
+* The Engine of Adaptive Emergence (ID: `BPI-CORE-016`)
+
+### Module: ['Praxial Persona Engine'(-ing) BPMS]
+
+*(New Integration v3.8.7)* 
+
+* The Axiom of Holographic Identity Projection (ID: `PPE-CORE-001`)
+
+### Module: ['Consensus Truth'(-ing) BPMS]
+
+*(New Integration v3.8.7)* 
+
+* The Axiom of Bayesian Verification (ID: `CT-CORE-001`)
+
+### Module: ['Evolutionary Strategy'(-ing) BPMS]
+
+*(New Integration v3.8.7)* 
+
+* The Axiom of Parameter-Space Mutation (ID: `ES-CORE-001`)
+
+### Module: ['Creative Divergence'(-ing) BPMS]
+
+*(New Integration v3.8.7)* 
+
+* The Axiom of Orthogonal Inspiration (ID: `CD-CORE-001`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
