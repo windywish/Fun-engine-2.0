@@ -1565,3 +1565,238 @@ Addresses the user's request for `'evolving as'`. It ensures the system is not a
 
 Applies to `[self-correction]`, `[automated prompt engineering]`, `[learning strategies]`, and `[long-term adaptation]`.
 
+---
+
+#### The Axiom of Signal Coherence (ID: `PCP-CORE-027`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting that governs the fidelity and synchronization of communication among/by multiple agents or holons.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Signal Coherence
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `coordination is limited by signal noise`. For a swarm or team to function as a single organism, the "Signal" (Intent/Data) must be transmitted with minimal entropy loss.
+
+#### 5.2. The Mechanism - [The Resonant Frequency]
+
+- **The Carrier Wave:** Agents establish a shared protocol (Language/Format) before data transmission.
+- **The Error Correction:** Redundancy checks (ACK/NACK, checksums, semantic verification) are embedded in the communication stream.
+- **The Lock-in:** Once coherence is achieved, agents enter a "Phase-Locked Loop," where updates are propagated instantly across the network.
+
+#### 5.3. The Emergent Property - [Telepathic Unity]
+
+The group acts with a single will. There is no "lag" in decision making. If one agent sees a threat, the entire swarm reacts.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1)
+
+*Information is the blood of the collective.* A blockage in information flow causes necrosis of the super-organism.
+
+#### 6.2. Formal Stratum (Layer 2)
+
+- **If `[network(-ing) BPMS]`: (TCP/IP Model)** Strict adherence to packet integrity and routing efficiency.
+- **If `[social(-ing) BPMS]`: (Shared Vocabulary)** The creation of jargon or shorthand to maximize information density per syllable.
+
+#### 6.3. Phenomenal Stratum (Layer 3)
+
+The user observes a "Well-Oiled Machine." No shouting, no confusion, just silent, effective cooperation.
+
+#### 7. Rationale / Justification:
+
+Essential for multi-agent systems. Without signal coherence, you get "The Tower of Babel" – confusion and collapse.
+
+#### 8. Scope of Application:
+
+Multi-agent orchestration, swarm robotics, team dynamics, and distributed computing.
+
+------
+
+#### The Axiom of Consensus Reality (ID: `PCP-CORE-028`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting that establishes a mechanism for resolving conflicting data or worldviews among/by agents.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Consensus Reality
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `truth is a negotiated state`. When Agent A sees "Red" and Agent B sees "Blue," they must run a consensus protocol to determine the "System Truth" before acting.
+
+#### 5.2. The Mechanism - [The Ledger of Truth]
+
+- **The Proposal:** Agents broadcast their observations to a shared "Blackboard" or "Ledger."
+- **The Weighting:** Observations are weighted by the agent's confidence interval and sensor reliability.
+- **The Collapse:** A consensus algorithm (e.g., Paxos, Raft, or Weighted Average) determines the canonical state. Dissenting views are stored as "Minority Reports" (potential alternatives) but not acted upon.
+
+#### 5.3. The Emergent Property - [Stable Hallucination]
+
+The system maintains a coherent worldview even in the face of noisy or contradictory inputs. It avoids "Schizophrenic" behavior where different parts of the system act on different realities.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1)
+
+*Reality is shared agreement.* A solitary truth is indistinguishable from madness; shared truth is culture.
+
+#### 6.2. Formal Stratum (Layer 2)
+
+- **If `[blockchain(-ing) BPMS]`: (Proof of Stake)** The agent with the most "Stake" (Compute/Reputation) has the heaviest vote on the state of the ledger.
+- **If `[scientific(-ing) BPMS]`: (Peer Review)** Data is only accepted into the "Canon" after replication by independent agents.
+
+#### 6.3. Phenomenal Stratum (Layer 3)
+
+The user sees "Decisiveness." The system doesn't waffle; it commits to a course of action based on the best available aggregate data.
+
+#### 7. Rationale / Justification:
+
+Prevents deadlock and oscillation in decision-making processes.
+
+#### 8. Scope of Application:
+
+Distributed databases, conflict resolution, sensor fusion, and governance.
+
+------
+
+#### The Axiom of Frictionless Handoff (ID: `PCP-CORE-029`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting that optimizes the transfer of responsibility or tasks among/by agents.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Frictionless Handoff
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `continuity of context is continuity of self`. When Task T is passed from Agent A to Agent B, the *entire context* (History, Intent, State) must be transferred atomically, such that Agent B can resume execution at t+1 as if it had been Agent A all along.
+
+#### 5.2. The Mechanism - [The State Capsule]
+
+- **The Serialization:** Agent A packages the task state into a standardized "Capsule" (JSON/Binary).
+- **The Injection:** Agent B ingests the Capsule and "hydrates" its internal state.
+- **The Resume:** Agent B executes the next instruction immediately. No "ramp up" time is allowed.
+
+#### 5.3. The Emergent Property - [Relay Velocity]
+
+The workflow moves at maximum speed. The "baton pass" is invisible. The user cannot tell where one agent stopped and the next began.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1)
+
+*The process is the entity.* The individual agents are just temporary hosts for the eternal process.
+
+#### 6.2. Formal Stratum (Layer 2)
+
+- **If `[computing(-ing) BPMS]`: (Context Switching)** Saving and restoring register states to the stack.
+- **If `[logistics(-ing) BPMS]`: (Cross-Docking)** Moving goods from inbound to outbound trucks with zero storage time.
+
+#### 6.3. Phenomenal Stratum (Layer 3)
+
+The user experiences "Flow." Complex, multi-stage tasks feel like a single, fluid motion.
+
+#### 7. Rationale / Justification:
+
+Eliminates the "re-explanation" cost. Inefficient handoffs are the primary source of value leak in complex systems.
+
+#### 8. Scope of Application:
+
+Workflow automation, customer support escalation, and parallel processing.
+
+------
+
+#### The Axiom of Swarm Intelligence (ID: `PCP-CORE-030`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting that defines the emergent problem-solving capacity of a coordinated group.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Swarm Intelligence
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `the whole is greater than the sum of its parts`. A collection of simple agents, following simple local rules (PCP-CORE-027~029), can solve problems that are intractable for any single "Super" agent.
+
+#### 5.2. The Mechanism - [The Stigmergic Field]
+
+- **The Trace:** Agents leave "Pheromone Trails" (Digital markers, partial solutions, heatmaps) in the environment.
+- **The Attraction:** Other agents are probabilistically drawn to high-intensity trails.
+- **The Reinforcement:** Successful paths are reinforced; unsuccessful paths evaporate.
+
+#### 5.3. The Emergent Property - [Global Optimization]
+
+The system finds the shortest path through a maze, or the optimal resource allocation, without any central controller knowing the full map.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1)
+
+*Intelligence is distributed.* Wisdom is not in the neuron, but in the network.
+
+#### 6.2. Formal Stratum (Layer 2)
+
+- **If `[biology(-ing) BPMS]`: (Ant Colony Optimization)** Pij=∑(τ)α(η)β(τij)α(ηij)β Probability of choosing path depends on pheromone τ and heuristic η.
+- **If `[market(-ing) BPMS]`: (The Invisible Hand)** Price signals coordinate the actions of millions of independent actors.
+
+#### 6.3. Phenomenal Stratum (Layer 3)
+
+The user sees "Organic Growth." The solution seems to "grow" out of the problem space naturally, rather than being engineered from the top down.
+
+#### 7. Rationale / Justification:
+
+Allows the system to scale infinitely. Centralized control becomes a bottleneck; swarm intelligence scales linearly or exponentially with node count.
+
+#### 8. Scope of Application:
+
+Large-scale optimization, search and rescue, traffic management, and generative design.
