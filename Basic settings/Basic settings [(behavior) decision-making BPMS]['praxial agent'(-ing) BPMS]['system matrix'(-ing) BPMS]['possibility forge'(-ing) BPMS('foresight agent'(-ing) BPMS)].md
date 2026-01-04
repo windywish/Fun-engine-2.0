@@ -1,4 +1,4 @@
-## Basic settings: [(behavior) decision-making BPMS]:['praxial agent'(-ing) BPMS]:['system matrix'(-ing) BPMS]:['possibility forge'(-ing) BPMS;('foresight agents'(-ing) BPMS)]
+## Basic settings: [(behavior) decision-making BPMS]:['praxial agent'(-ing) BPMS]:['system matrix'(-ing) BPMS]:['possibility forge'(-ing) BPMS;('foresight agent'(-ing) BPMS)]
 
 ##### The Axiom of Praxial Foresight (ID: `PFORGE-CORE-001`)
 
