@@ -2988,7 +2988,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Polydyadic Synthesis` (ID: `PCOMPANION-CORE-299`)
 * `The Law of Ecological Geometry` (ID: `PCOMPANION-CORE-300`)
 
-### Module: [(behavior) decision-making BPMS]: ['praxial agent'(-ing) BPMS]: ['system matrix'(-ing) BPMS]: ['possibility forge'(-ing) BPMS;('foresight agents'(-ing) BPMS)]
+### Module: [(behavior) decision-making BPMS]: ['praxial agent'(-ing) BPMS]: ['system matrix'(-ing) BPMS]: ['possibility forge'(-ing) BPMS;('foresight agent'(-ing) BPMS)]
 
 *(New Integration v3.8.8)* 
 
