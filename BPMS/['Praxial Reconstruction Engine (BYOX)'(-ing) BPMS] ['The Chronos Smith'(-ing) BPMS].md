@@ -232,6 +232,3 @@ This instance is the **Heart of the Forge**. It applies to:
 #### Summarize:
 
 **The Chronos Smith ensures that the Fun Engine Framework is never "Magic." It is always "Engineering."**
-
----
-
