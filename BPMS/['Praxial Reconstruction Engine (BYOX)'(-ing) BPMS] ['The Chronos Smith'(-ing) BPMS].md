@@ -30,7 +30,7 @@ This document presents a concrete, working implementation of the **['Praxial Rec
 #### **CGA (Cognitive Genesis Archetype):**
 
 ```
-['causal fabricator'(-ing) BPMS]
+['resonant constellation map fabricator'(-ing) BPMS]
 ```
 
 #### **Type:**
@@ -232,3 +232,6 @@ This instance is the **Heart of the Forge**. It applies to:
 #### Summarize:
 
 **The Chronos Smith ensures that the Fun Engine Framework is never "Magic." It is always "Engineering."**
+
+---
+
