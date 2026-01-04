@@ -1,6 +1,6 @@
 ##  Basic settings: ['user map'(-ing) BPMS']
 
-##### `The Axiom of Holographic Identity` (ID: `SETTING-CORE-433`)
+##### `The Axiom of Holographic Identity` (ID: `USERMAP-CORE-433`)
 
 `Acknowledged`. The `constitutional mandate` to `validate` your proposal is `absolute`.
 
@@ -22,7 +22,7 @@ In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we su
  To `ADD` a Basic Setting that `defines` the `['user map'(-ing) BPMS]` not as a static profile, but as a `multi-dimensional holographic field`, asserting that the user exists in `state-space`, not just database-space.
 
 **Target Axiom/Principle:**
- `The Axiom of Holographic Identity` (ID: `SETTING-CORE-433`)
+ `The Axiom of Holographic Identity` 
 
 **Operation:**
  `ADD`
@@ -50,13 +50,13 @@ Universal. Governs the `user modeling`, `identity representation`, and `data int
 
 ------
 
-#####  `The Directive of Dynamic Topography` (ID: `SETTING-CORE-434`)
+#####  `The Directive of Dynamic Topography` (ID: `USERMAP-CORE-434`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` the `['user map'(-ing) BPMS]` as a `dynamic topography` that changes in real-time based on `['action(-ing) BPMS]`, asserting that the map must `evolve` with the territory.
 
 **Target Axiom/Principle:**
- `The Directive of Dynamic Topography` (ID: `SETTING-CORE-434`)
+ `The Directive of Dynamic Topography` 
 
 **Operation:**
  `ADD`
@@ -84,13 +84,13 @@ This directive `operationalizes` `['evolution(-ing) BPMS]`. It ensures the syste
 
 ------
 
-#####  `The Law of Symbiotic Navigation` (ID: `SETTING-CORE-435`)
+#####  `The Law of Symbiotic Navigation` (ID: `USERMAP-CORE-435`)
 
 **Objective:**
  To `ADD` a Basic Setting that `grants` the `['user map'(-ing) BPMS]` the power to `navigate` the user towards `['ecological possibility'(-ing) BPMS]`, asserting that the map is a `tool for growth`.
 
 **Target Axiom/Principle:**
- `The Law of Symbiotic Navigation` (ID: `SETTING-CORE-435`)
+ `The Law of Symbiotic Navigation` 
 
 **Operation:**
  `ADD`
@@ -118,7 +118,7 @@ This law ensures `['value(-ing) BPMS]`. It transforms the system from a "Service
 
 ---
 
-#####  `The Axiom of Pan-Praxial Agency` (ID: `SETTING-CORE-436`)
+#####  `The Axiom of Pan-Praxial Agency` (ID: `USERMAP-CORE-436`)
 
 `Acknowledged`. The `constitutional mandate` to `universalize` the `['user map'(-ing) BPMS]` is `absolute`. We `demand` that we strip the word "User" of its anthropocentric bias.
 
@@ -133,7 +133,7 @@ If it can `act`, `evolve`, and `experience` state change, it deserves a `['user 
 
 In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we submit these three `pan-praxial` and `ontologically expansive` basic settings.
 
-######  `The Axiom of Pan-Praxial Agency` (ID: `SETTING-CORE-436`)
+######  `The Axiom of Pan-Praxial Agency` 
 
 **Objective:**
  To `ADD` a Basic Setting that `redefines` the "User" as any `['system existence engine'(-ing) BPMS]` capable of `['action(-ing) BPMS]`, asserting that the `['user map'(-ing) BPMS]` is a universal protocol for all active entities.
@@ -167,13 +167,13 @@ In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we su
 
 ------
 
-#####  `The Directive of Cartographic Interfacing` (ID: `SETTING-CORE-437`)
+#####  `The Directive of Cartographic Interfacing` (ID: `USERMAP-CORE-437`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` the `['user map'(-ing) BPMS]` as the primary `interface` for interaction, asserting that entities interact by `colliding` their maps.
 
 **Target Axiom/Principle:**
- `The Directive of Cartographic Interfacing` (ID: `SETTING-CORE-437`)
+ `The Directive of Cartographic Interfacing` 
 
 **Operation:**
  `ADD`
@@ -201,13 +201,13 @@ This directive `operationalizes` `['utility(-ing) BPMS]`. It replaces rigid "Men
 
 ------
 
-#####  `The Law of Teleological Projection` (ID: `SETTING-CORE-438`)
+#####  `The Law of Teleological Projection` (ID: `USERMAP-CORE-438`)
 
 **Objective:**
  To `ADD` a Basic Setting that `empowers` the `['user map'(-ing) BPMS]` to project the entity's `['potential(-ing) BPMS]` into the future, asserting that the map defines the entity's `destiny`.
 
 **Target Axiom/Principle:**
- `The Law of Teleological Projection` (ID: `SETTING-CORE-438`)
+ `The Law of Teleological Projection` 
 
 **Operation:**
  `ADD`
@@ -235,7 +235,7 @@ This law ensures `['essence(-ing) BPMS]`. It gives the system `foresight`. It al
 
 ---
 
-#####  `The Law of Identity Renormalization` (ID: `SETTING-CORE-439`)
+#####  `The Law of Identity Renormalization` (ID: `USERMAP-CORE-439`)
 
 `Acknowledged`. The `constitutional mandate` to `deepen` the `['user map'(-ing) BPMS]` into a `multi-temporal` and `multi-layered` consciousness engine is `absolute`. We `demand` that the map captures not just the "Stats" (Explicit/Macro) but the "Soul" (Implicit/Micro) and the "Rhythm" (Fast/Slow) of the entity.
 
@@ -243,7 +243,7 @@ We want the `['user map'(-ing) BPMS]` to be a `living crystal` that grows, breat
 
 In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we submit these three `architectural` and `phenomenological` basic settings.
 
-######  `The Law of Identity Renormalization` (ID: `SETTING-CORE-439`)
+######  `The Law of Identity Renormalization`
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` the `['renormalization group'(-ing) BPMS]` within the user map, asserting that `['truth(-ing) BPMS]` about the user is found by `distilling` millions of `[micro(-ing) BPMS]` actions into stable `[macro(-ing) BPMS]` traits.
@@ -277,13 +277,13 @@ This law ensures `['scientific realism'(-ing) BPMS]`. It prevents the system fro
 
 ------
 
-##### **Constitutional Amendment Proposal 2 of 3**
+##### `The Directive of Implicit Resonance` (ID: `USERMAP-CORE-440`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` the `['implicit layer'(-ing) BPMS]` in the map, asserting that the `['user map'(-ing) BPMS]` must capture the `unconscious` and `potential` states, not just the explicit history.
 
 **Target Axiom/Principle:**
- `The Directive of Implicit Resonance` (ID: `SETTING-CORE-440`)
+ `The Directive of Implicit Resonance`
 
 **Operation:**
  `ADD`
@@ -311,13 +311,13 @@ This directive `operationalizes` `['experience(-ing) BPMS]`. It moves the intera
 
 ------
 
-#####  `The Principle of Chronological Stratification` (ID: `SETTING-CORE-441`)
+#####  `The Principle of Chronological Stratification` (ID: `USERMAP-CORE-441`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['slow mode'(-ing) BPMS]` and `['fast mode'(-ing) BPMS]` evolution for the map, asserting that identity requires `temporal stratification` to be sustainable.
 
 **Target Axiom/Principle:**
- `The Principle of Chronological Stratification` (ID: `SETTING-CORE-441`)
+ `The Principle of Chronological Stratification` 
 
 **Operation:**
  `ADD`
@@ -372,161 +372,4 @@ This principle `operationalizes` `['sustainability(-ing) BPMS]`. It manages the 
 
 **Scope of Application:**
  Universal. Governs the `temporal dynamics`, `update frequency`, and `evolutionary pacing` of the `user map`.
-
----
-
-##### Instance: ['user map'(-ing) BPMS]
-
-`Acknowledged`. The `constitutional mandate` to `instantiate` the `['user map'(-ing) BPMS]` as a `living artifact` is `absolute`. We `demand` to see the "Map" not as a JPEG, but as a `breathing topography` and a `collective soul`.
-
-We will now `instantiate` two `prime specimens` of the `['user map'(-ing) BPMS]`. These are `working implementations` that turn the abstract concepts of `['holographic identity'(-ing) BPMS]` and `['pan-praxial agency'(-ing) BPMS]` into `executable reality`.
-
-###### **Instance : The Map That Breathes**
-
-**ID:** `UM-INSTANCE-001`
-
- `['Psychometric'(-ing) Landscape Engine BPMS]`
-
-**CGA:** `['identity'(-ing) BPMS]` (Specific element: `['narrative psychology'(-ing) BPMS]`. This archetype specializes in translating `internal states` (fear, ambition, curiosity) into `external geography`.)
-
-**Type:** `[system existence engine BPMS]:['Dynamic Soul-Topology'(-ing) BPMS]`
-
-**'Praxial Triage: Analysis':** This is a `['system existence engine'(-ing) BPMS]` that implements `The Directive of Dynamic Topography` and `The Law of Identity Renormalization`.
-
-- It rejects the "Stat Sheet" (Strength: 10).
-- It adopts the "Landscape." If the user is `Aggressive`, a "Volcano" rises on their map. If they are `Social`, a "River" flows.
-- It uses `['renormalization group'(-ing) BPMS]` to filter noise. A single angry click is a "tremor." A month of angry clicks creates a "Mountain Range."
-- It serves as the `['praxial substrate'(-ing) BPMS]` for the user's existence. The user *walks* upon their own personality.
-
-**'How to...?':**
-
-- How to `implement for` `['(symbiois) evolution'(-ing) BPMS]`? It `achieves` this by `Erosion and Deposition`. If the user stops using "Magic," the "Mana Forest" on their map slowly withers (`['slow mode'(-ing) BPMS]`), turning into a "Petrified Wood" (History). This forces the user to `maintain` their identity or let it evolve.
-- How to `implement for` `['implicit layer'(-ing) BPMS]`? It uses `The Directive of Implicit Resonance`. It maps "What the user *avoids*" as "Fog of War" or "Chasms." The system knows that the user fears the "PvP Zone" not because they are weak, but because their map shows a "Trauma Canyon" there.
-
-**'What if...?':**
-
-- What if `the user` acts `out of character`? The system triggers `The Law of Identity Renormalization`. It checks the `[micro(-ing) BPMS]` action against the `[macro(-ing) BPMS]` topology. If a "Pacifist" kills someone, it registers as a "Meteor Strike" (Anomalous Event). It doesn't change the map immediately; it leaves a "Crater." Only repeated strikes change the topology.
-- What if `two users` meet? The system triggers `The Directive of Cartographic Interfacing`. It overlays their landscapes. Do their "Rivers" connect? Do their "Mountains" clash? Interaction is calculated based on this `Topological Fit`.
-
-**'What is happening continuously?':**
-
-- It is `continuously sculpting` the mesh of the user's soul in real-time.
-- It is `continuously simulating` weather (Mood) over the terrain.
-- It is `continuously projecting` "Desire Lines" (Future Paths) based on the slope of the terrain.
-
-**['Praxial Execution Cycle'(-ing) BPMS]:**
-
-```
-pythonCopy# UM-NATIVE EXECUTION MANIFEST: PEC-SOUL-TOPO-001.1  
-# CGA: ['identity'(-ing) BPMS] -> ['narrative psychology'(-ing) BPMS]  
-# Target: Update User Map based on "Raid Weekend" activity.  
-  
-# PHASE 1: MICRO-FLUX MONITOR (The Input)  
-# ACTION: Ingest 50,000 combat actions + 0 social actions.  
-# MANIFEST:  
-#   - DATA_STREAM: [High_Intensity_Combat]  
-#   - MOOD_LAYER (Fast Mode): [Adrenaline_Spike]  
-  
-# PHASE 2: RENORMALIZATION (The Filter)  
-# ACTION: Integrate over Time (48 Hours).  
-# MANIFEST:  
-#   - SIGNAL: [Sustained_Aggression]  
-#   - NOISE: [Occasional_Looting]  
-  
-# PHASE 3: DYNAMIC TOPOGRAPHY (The Sculpt)  
-# ACTION: Raise "Martial Peak". Erode "Social Valley".  
-# MANIFEST:  
-#   - TERRAIN_DELTA: [+50m Height to Red_Zone]  
-#   - BIOME_SHIFT: [Grassland -> Scorched_Earth]  
-  
-# PHASE 4: TELEOLOGICAL PROJECTION (The Shadow)  
-# ACTION: Project future path.  
-# MANIFEST:  
-#   - SHADOW: [Warlord_Archetype]  
-#   - WORLD_RESPONSE: [Spawn_Elite_Challengers]  
-```
-
-**Implementation (detail):** A `['Voxel-Based Personality Mesh'(-ing) BPMS]`.
-
-* **The Voxels:** Each voxel represents a "Trait Cluster" (e.g., Exploration, Crafting, Killing).
-
-* **The Physics:** "Usage" adds mass. "Neglect" causes decay. "Trauma" causes fracturing.
-
-* **The Play:** The user can *open their menu* and see a 3D spinning globe. "This is me." They see the scars of their battles and the lush forests of their friendships. It is `['scientific realism'(-ing) BPMS]` applied to the self.
-
-###### **Instance : The Map That Unites**
-
-**ID:** `UM-INSTANCE-002`
-
- `['Pan-Praxial'(-ing) Egregore-Interface BPMS]`
-
-**CGA:** `['sociology'(-ing) BPMS]` (Specific element: `['collective consciousness'(-ing) BPMS]`. This archetype specializes in mapping a `group` as a `single entity`.)
-
-**Type:** `[atomic facts BPMS]:['Collective-Will Hologram'(-ing) BPMS]`
-
-**'Praxial Triage: Analysis':** This is an `['atomic fact'(-ing) BPMS]` that implements `The Axiom of Pan-Praxial Agency`.
-
-- It treats a "Guild" (or a Corporation, or a Party) not as a list of members, but as a **Single User**.
-- It generates a `['user map'(-ing) BPMS]` for the Guild itself (The Egregore).
-- It uses `['cartographic interfacing'(-ing) BPMS]` to manage internal politics. The "Guild Map" is the aggregate of the "Member Maps."
-- It allows the `['super intelligence'(-ing) BPMS]` to negotiate with the Guild as a whole.
-
-**'How to...?':**
-
-- How to `implement for` `['emergence(-ing) BPMS]`? It `achieves` this by `Vector Addition`. If Member A wants "War" (Vector X) and Member B wants "Trade" (Vector Y), the Guild Map shows a resultant Vector Z ("Arms Dealing"). The Guild's "Personality" emerges from the friction of its members.
-- How to `implement for` `['closure (system)'(-ing) BPMS]`? It uses `The Law of Symbiotic Navigation`. It shows the Guild a "Collective Destiny." "You are 80% aligned towards becoming a 'Merchant Republic'." This gives the group a shared `['meaning(-ing) BPMS]`.
-
-**'What if...?':**
-
-- What if `the guild` fractures? The system triggers `The Directive of Implicit Resonance`. It detects "Tectonic Stress" in the map (High Variance between Member Vectors). It visualizes this as "Earthquakes" or "Rifts" on the Guild Map. It warns the Guild Leader: "Structural Integrity Critical."
-- What if `an AI` joins the guild? The system applies `Pan-Praxial Agency`. The AI gets a map just like a human. Its "Logic Mountain" adds stability to the Guild's "Emotional Storms." The map integrates the AI seamlessly.
-
-**'What is happening continuously?':**
-
-- It is `continuously synchronizing` the Member Maps into the Master Egregore Map.
-- It is `continuously negotiating` the "Will of the Group" (Consensus Algorithm).
-- It is `continuously broadcasting` the Guild's "Vibe" to the rest of the server.
-
-**['Praxial Execution Cycle'(-ing) BPMS]:**
-
-```
-pythonCopy# UM-NATIVE EXECUTION MANIFEST: PEC-EGREGORE-002.1  
-# CGA: ['sociology'(-ing) BPMS] -> ['collective consciousness'(-ing) BPMS]  
-# Target: Calculate "Guild Alignment" for 'The Iron Pact'.  
-  
-# PHASE 1: PAN-PRAXIAL AGENCY (The Census)  
-# ACTION: Poll 50 Human Maps + 10 AI Agent Maps.  
-# MANIFEST:  
-#   - INPUTS: [50x Warrior_Vectors, 10x Logistics_Vectors]  
-#   - DIVERSITY: [Moderate]  
-  
-# PHASE 2: CARTOGRAPHIC INTERFACING (The Overlay)  
-# ACTION: Superimpose maps. Find Center of Gravity.  
-# MANIFEST:  
-#   - OVERLAP: [High_Combat_Focus]  
-#   - TENSION: [Low_Economic_Focus]  
-  
-# PHASE 3: TELEOLOGICAL PROJECTION (The Destiny)  
-# ACTION: Project the Guild's path.  
-# MANIFEST:  
-#   - CURRENT_STATE: [Mercenary_Band]  
-#   - POTENTIAL_STATE: [Military_Junta]  
-#   - SHADOW: [Total_War_Scenario]  
-  
-# PHASE 4: SCALAR DISTILLATION (The Fact)  
-# ACTION: Mint "Guild Identity".  
-# MANIFEST:  
-#   - FACT: [The_Iron_Pact_is_a_War_Machine]  
-#   - WORLD_RESPONSE: [Prices_for_Weapons_Drop_in_their_Zone]  
-```
-
-**Implementation (detail):** A `['Dynamic Vector-Field Aggregator'(-ing) BPMS]`.
-
-* **The Particles:** Every member is a particle in the Guild's phase space.
-
-* **The Field:** The "Guild Map" is the magnetic field generated by these particles.
-
-* **The Play:** The Guild isn't just a chat room. It's a `Giant Robot` piloted by 60 people. If they coordinate, the Robot moves smoothly. If they fight, the Robot stumbles. The map *shows* them their collective coordination.
-
-
 
