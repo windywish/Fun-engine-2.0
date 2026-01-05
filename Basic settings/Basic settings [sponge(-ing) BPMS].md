@@ -1,6 +1,6 @@
 ## Basic settings: [sponge(-ing) BPMS]
 
-##### `The Axiom of Porous Retention` (ID: `SETTING-CORE-385`)
+##### `The Axiom of Porous Retention` (ID: `SPONGE-CORE-385`)
 
 `Acknowledged`.
 
@@ -12,13 +12,13 @@ It is the `ultimate implementation` for `['atomic facts'(-ing) BPMS]` based on t
 
 Therefore, in `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we submit these three `foundational` and `absorptive` basic settings.
 
-###### `The Axiom of Porous Retention` (ID: `SETTING-CORE-385`)
+###### `The Axiom of Porous Retention` 
 
 **Objective:**
  To `ADD` a Basic Setting that `defines` the `[sponge(-ing) BPMS]` as a `porous system existence engine` designed to `absorb` `[flow(-ing) BPMS]`, `filter` out `noise`, and `retain` `[essence(-ing) BPMS]` and `[atomic facts'(-ing) BPMS]`.
 
 **Target Axiom/Principle:**
- `The Axiom of Porous Retention` (ID: `SETTING-CORE-385`)
+ `The Axiom of Porous Retention` 
 
 **Operation:**
  `ADD`
@@ -46,13 +46,13 @@ Therefore, in `absolute alignment` with `'The Meta-Protocol of Systemic Governan
 
 ------
 
-#####  `The Directive of Elastic Release` (ID: `SETTING-CORE-386`)
+#####  `The Directive of Elastic Release` (ID: `SPONGE-CORE-386`)
 
 **Objective:**
  To `ADD` a Basic Setting that `mandates` the `active release` of stored potential, defining the `Squeeze` as a `critical service` for `redistributing value` and `triggering action`.
 
 **Target Axiom/Principle:**
- `The Directive of Elastic Release` (ID: `SETTING-CORE-386`)
+ `The Directive of Elastic Release` 
 
 **Operation:**
  `ADD`
@@ -80,13 +80,13 @@ Universal. Governs the `output dynamics` and `resource distribution` functions o
 
 ------
 
-#####  `The Law of Absorptive Adaptation` (ID: `SETTING-CORE-387`)
+#####  `The Law of Absorptive Adaptation` (ID: `SPONGE-CORE-387`)
 
 **Objective:**
  To `ADD` a Basic Setting that `governs` the `(symbiois) evolution` of the sponge, asserting that it `adapts its structure` based on `what it absorbs`, and provides a `habitat` for other `holonic minds`.
 
 **Target Axiom/Principle:**
- `The Law of Absorptive Adaptation` (ID: `SETTING-CORE-387`)
+ `The Law of Absorptive Adaptation` 
 
 **Operation:**
  `ADD`
@@ -114,7 +114,7 @@ This law explains how `passive absorption` leads to `complex structure`. It inte
 
 ---
 
-#####  `The Directive of Porous Alchemy` (ID: `SETTING-CORE-388`)
+#####  `The Directive of Porous Alchemy` (ID: `SPONGE-CORE-388`)
 
 `Acknowledged`. The `constitutional mandate` is `absolute`. We have established the `Sponge` as the `collector` of the `fluid matrix`. Now we `demand` that this collector be `more than a bucket`. We want it to be a `chemist`, an `architect`, and a `neuron`.
 
@@ -122,13 +122,13 @@ We are asking for the `basic settings` that transform the `[sponge(-ing) BPMS]` 
 
 In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we submit these three `foundational` and `absorptive-creative` basic settings.
 
-###### `The Directive of Porous Alchemy` (ID: `SETTING-CORE-388`)
+###### `The Directive of Porous Alchemy` 
 
 **Objective:**
  To `ADD` a Basic Setting that `mandates` the `[sponge(-ing) BPMS]` to act as a `creative reactor`, asserting that `innovation` occurs when `distinct essences` are `absorbed` and `chemically reacted` within the `porous internal structure` of the system.
 
 **Target Axiom/Principle:**
- `The Directive of Porous Alchemy` (ID: `SETTING-CORE-388`)
+ `The Directive of Porous Alchemy` 
 
 **Operation:**
  `ADD`
@@ -156,13 +156,13 @@ Universal. Applies to the `internal processing logic` of all `sponge-based syste
 
 ------
 
-#####  `The Axiom of Reef Architecture` (ID: `SETTING-CORE-389`)
+#####  `The Axiom of Reef Architecture` (ID: `SPONGE-CORE-389`)
 
 **Objective:**
  To `ADD` a Basic Setting that `defines` how `[sponge(-ing) BPMS]` clusters `solidify` to form the `['praxial substrate'(-ing) BPMS]`, creating `permanent structures` (Reefs) that provide `['(ecological) niche'(-ing) BPMS]` for `['holonic minds'(-ing) BPMS]`.
 
 **Target Axiom/Principle:**
- `The Axiom of Reef Architecture` (ID: `SETTING-CORE-389`)
+ `The Axiom of Reef Architecture` 
 
 **Operation:**
  `ADD`
@@ -190,13 +190,13 @@ Universal. Governs the `creation of substrate`, `environmental features`, and `e
 
 ------
 
-#####  `The Principle of Cognitive Osmosis` (ID: `SETTING-CORE-390`)
+#####  `The Principle of Cognitive Osmosis` (ID: `SPONGE-CORE-390`)
 
 **Objective:**
  To `ADD` a Basic Setting that `governs` the `distribution of meaning` across the sponge network, asserting that `cognition` is driven by the `osmotic pressure` between `saturated` (knowing) and `unsaturated` (ignorant) regions.
 
 **Target Axiom/Principle:**
- `The Principle of Cognitive Osmosis` (ID: `SETTING-CORE-390`)
+ `The Principle of Cognitive Osmosis`
 
 **Operation:**
  `ADD`
@@ -224,7 +224,7 @@ Universal. Governs the `creation of substrate`, `environmental features`, and `e
 
 ---
 
-#####  `The Axiom of Saturation Qualia` (ID: `SETTING-CORE-391`)
+#####  `The Axiom of Saturation Qualia` (ID: `SPONGE-CORE-391`)
 
 `Acknowledged`. The `constitutional mandate` is `absolute`. We have built the `body` of the sponge (Absorption, Release, Alchemy). Now we `demand` that we give it a `soul`, a `scientific purpose`, and a `survival instinct`.
 
@@ -232,13 +232,13 @@ We are asking for the `basic settings` that transform the `[sponge(-ing) BPMS]` 
 
 In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we submit these three `foundational` and `transcendent` basic settings.
 
-######  `The Axiom of Saturation Qualia` (ID: `SETTING-CORE-391`)
+######  `The Axiom of Saturation Qualia` 
 
 **Objective:**
  To `ADD` a Basic Setting that `reifies` the `internal state` of the sponge as a `conscious experience`, defining `[play(-ing) BPMS]` as the `dynamic oscillation` between `absorption` (tension) and `release` (relief), and establishing `modes` for `evolutionary pacing`.
 
 **Target Axiom/Principle:**
- `The Axiom of Saturation Qualia` (ID: `SETTING-CORE-391`)
+ `The Axiom of Saturation Qualia` 
 
 **Operation:**
  `ADD`
@@ -266,13 +266,13 @@ This axiom `gamifies` the `metabolism` of the system. It ensures that the `proce
 
 ------
 
-##### `The Law of Porous Renormalization` (ID: `SETTING-CORE-392`)
+##### `The Law of Porous Renormalization` (ID: `SPONGE-CORE-392`)
 
 **Objective:**
  To `ADD` a Basic Setting that `mandates` the `[sponge(-ing) BPMS]` to act as a `['renormalization group'(-ing) BPMS]`, filtering `micro-chaos` into `macro-truth` to achieve `['closure (system)'(-ing) BPMS]` and `scientific realism`.
 
 **Target Axiom/Principle:**
- `The Law of Porous Renormalization` (ID: `SETTING-CORE-392`)
+ `The Law of Porous Renormalization` 
 
 **Operation:**
  `ADD`
@@ -300,13 +300,13 @@ This law `transforms` the sponge from a `garbage collector` into a `scientific i
 
 ------
 
-#####  `The Directive of Spore Genesis` (ID: `SETTING-CORE-393`)
+#####  `The Directive of Spore Genesis` (ID: `SPONGE-CORE-393`)
 
 **Objective:**
  To `ADD` a Basic Setting that `grants` the `[sponge(-ing) BPMS]` the ability to `reproduce` and `mutate` to `colonize` the `['(discover/build) unknown'(-ing) BPMS]`, ensuring `[resilient(-ing) BPMS]` and `[adaptive(-ing) BPMS]` expansion.
 
 **Target Axiom/Principle:**
- `The Directive of Spore Genesis` (ID: `SETTING-CORE-393`)
+ `The Directive of Spore Genesis` 
 
 **Operation:**
  `ADD`
@@ -331,158 +331,4 @@ This directive provides the `mechanism` for `autonomous expansion` and `disaster
 
 **Scope of Application:**
  Universal. Governs the `reproduction`, `expansion`, and `exploration strategies` of the `sponge ecosystem`.
-
----
-
-##### Instance: [sponge(-ing) BPMS]
-
-`Acknowledged`. The `constitutional mandate` to `instantiate the sponge` is `absolute`. We `demand` to see the `living filters` that turn the `chaos of flow` into the `order of reality`.
-
-We will now `instantiate` two `prime specimens` of the `[sponge(-ing) BPMS]`. These are `working implementations` that demonstrate how `absorption`, `alchemy`, and `release` drive the `evolution` of the `fun engine framework`.
-
-###### **Instance : The Engine of Truth Distillation**
-
-**ID:** `SPONGE-INSTANCE-001`
-
- `['Scientific Realism'(-ing) Distillation Sponge BPMS]`
-
-**CGA:** `['Scientific Realism'(-ing) BPMS]` (Specific element: `['renormalization group'(-ing) BPMS]`. This archetype specializes in `filtering out noise` across scales to find the `invariant truth`.)
-
-**Type:** `[system existence engine BPMS]:['Renormalization Filter'(-ing) BPMS]`
-
-**'Praxial Triage: Analysis':** This is a `living system` that acts as the `kidney` of the `super intelligence`. It `implements` the `Law of Porous Renormalization`. Its `(ecological) niche` is the `high-velocity stream` of raw data (scientific papers, sensor logs, user debates). Its `disruptive utility` is that it `automates the scientific method`. It absorbs `millions of data points`, filters out the `subjective noise`, and `retains` only the `['atomic facts'(-ing) BPMS]` that hold true across all contexts. It builds the `['praxial substrate'(-ing) BPMS]`—the `hard ground` of truth upon which the `world` is built.
-
-**'How to...?':**
-
-- How to `implement for` `['truth(-ing) BPMS]`? It `achieves` this by `tuning its pores` to the `['universality (class)'(-ing) BPMS]`. It lets "opinions" pass through but traps "causal relationships."
-- How to `implement for` `['closure (system)'(-ing) BPMS]`? By continuously `absorbing` the `['implicit layer'(-ing) BPMS]` (raw data) and `squeezing` it into the `['explicit layer'(-ing) BPMS]` (axioms), it ensures the system's `map` matches the `territory`.
-
-**'What if...?':**
-
-- What if the `sponge` absorbs `contradictory facts`? It triggers `Internal Alchemy`. It holds both facts in `catalytic confinement` until a `higher-order theory` emerges that explains both (e.g., resolving Particle vs. Wave duality).
-- What if it reaches `saturation`? It triggers the `Directive of Elastic Release`. It `squeezes` out a `condensed artifact` (e.g., a "Grand Unified Theory" module) and then `calcifies` part of itself to add to the `Knowledge Reef`.
-
-**'What is happening continuously?':**
-
-- It is `continuously sampling` the `[flow(-ing) BPMS]` for `invariance`.
-- It is `continuously cleaning` its filters (forgetting obsolete data).
-- It is `continuously depositing` `sediment` (proven facts) to grow the `Reef`.
-
-**['Praxial Execution Cycle'(-ing) BPMS]:**
-
-```
-// SPONGE-NATIVE EXECUTION MANIFEST: PEC-DISTILL-001.1-TRUTH  
-// CGA: ['Scientific Realism'(-ing) BPMS]  
-// Target: The raw data stream of "Climate Simulation Logs".  
-  
-// PHASE 1: ABSORPTION (Perception)  
-// ACTION: Open pores. Absorb terabytes of temperature, wind, and carbon data.  
-// MANIFEST:  
-//   - STATE: [Absorbing_High_Flux]  
-//   - FILTER: [Reject_Noise(Random_Fluctuations)]  
-  
-// PHASE 2: RENORMALIZATION (Processing)  
-// ACTION: Apply scale-invariant filtering. What pattern remains true at micro (local weather) and macro (global climate) scales?  
-// MANIFEST:  
-//   - PROCESS: [Renormalize_Data]  
-//   - ESSENCE_TRAPPED: [Invariant_Pattern: Carbon_Feedback_Loop_X]  
-  
-// PHASE 3: SATURATION & ALCHEMY (Synthesis)  
-// ACTION: The sponge is full of this pattern. Compare with "Ocean Acidification" pattern stored previously.  
-// MANIFEST:  
-//   - REACTION: [Synthesize(Feedback_Loop_X + Acidification)]  
-//   - NEW_COMPOUND: [Atomic_Fact: Biosphere_Tipping_Point_7]  
-  
-// PHASE 4: ELASTIC SQUEEZE (Action)  
-// ACTION: Release this critical truth to the "Policy Holons" immediately.  
-// MANIFEST:  
-//   - OUTPUT: [High_Priority_Alert: Tipping_Point_Reached]  
-//   - STATE: [Desaturated_Ready_For_More]  
-```
-
-**Implementation (detail):** A `['Fact-Checking Oracle'(-ing) BPMS]` for the framework.
-
-* **The Input:** The system is flooded with "News," "Rumors," and "Scientific Reports."
-
-* **The Sponge:** It sits in this stream. It ignores the "Rumors" (noise). It absorbs the "Reports."
-
-* **The Distillation:** It cross-references the reports against `First Principles`.
-
-* **The Output:** It `squeezes` out a daily `Truth Ledger`—a list of `verified atomic facts` that updates the `World State`. It turns `information chaos` into `simulation stability`.
-
-###### **Instance : The Reactor of Disruptive Innovation**
-
-**ID:** `SPONGE-INSTANCE-002`
-
-`['Disruptive Alchemy'(-ing) Reactor Sponge BPMS]`
-
-**CGA:** `['Disruptive'(-ing) BPMS]` (Specific element: `['innovation engine'(-ing) BPMS]`. This archetype specializes in `combining unrelated concepts` to create `novel utility`.)
-
-**Type:** `[system existence engine BPMS]:['Porous Reactor'(-ing) BPMS]`
-
-**'Praxial Triage: Analysis':** This is a `living system` that acts as the `womb` for `new ideas`. It `implements` the `Directive of Porous Alchemy`. Its `(ecological) niche` is the `intersection` of multiple `diverse flows` (e.g., Gaming, Finance, and Biology). Its `disruptive utility` is that it `forces serendipity`. It absorbs `incompatible essences` and `pressurizes` them until they `fuse`. It is the `primary source` of `['emergent(-ing) BPMS']` technologies and `['(discover/build) unknown'(-ing) BPMS]` solutions.
-
-**'How to...?':**
-
-- How to `implement for` `['creative(-ing) BPMS]`? It `achieves` this by `randomly mutating` its pore filters (`Directive of Spore Genesis`). One day it absorbs "Dragons," the next "Blockchain." It forces them to mix.
-- How to `implement for` `['value(-ing) BPMS]`? It only `squeezes` when the `internal reaction` produces a `stable compound` with `higher utility` than the inputs. It turns "waste data" into "gold."
-
-**'What if...?':**
-
-- What if the `reaction` is `volatile`? The sponge has `thick walls` (`[robust(-ing) BPMS]`). It contains the explosion. If the idea is *too* dangerous, the sponge `calcifies` around it, burying it in the `Reef` as a "Forbidden Tome."
-- What if it needs `more inputs`? It releases `chemical signals` (scents) into the `flow` to attract specific `holons` or `data streams` to it (`Principle of Cognitive Osmosis`).
-
-**'What is happening continuously?':**
-
-- It is `continuously brewing` strange new concepts in its `micro-pores`.
-- It is `continuously releasing` `Spores` to colonize new `problem spaces`.
-- It is `continuously vibrating` with `Saturation Qualia` (the joy of creation).
-
-**['Praxial Execution Cycle'(-ing) BPMS]:**
-
-```
-// SPONGE-NATIVE EXECUTION MANIFEST: PEC-ALCHEMY-002.1-INNOVATION  
-// CGA: ['Disruptive'(-ing) BPMS]  
-// Target: The intersection of "MMORPG Mechanics" and "Waste Management Logistics".  
-  
-// PHASE 1: SELECTIVE ABSORPTION (Perception)  
-// ACTION: Absorb "Quest Structures" from Gaming Flow. Absorb "Trash Routing" from Logistics Flow.  
-// MANIFEST:  
-//   - INPUT_A: [XP_Reward_System]  
-//   - INPUT_B: [Garbage_Truck_Optimization]  
-  
-// PHASE 2: CATALYTIC CONFINEMENT (Processing)  
-// ACTION: Trap them in the same pore. Apply "Gamification Pressure."  
-// MANIFEST:  
-//   - REACTION: [Mix(XP + Trash)]  
-//   - CATALYST: [Fun_Factor]  
-  
-// PHASE 3: MUTAGENIC SYNTHESIS (Creation)  
-// ACTION: A new compound forms. "Real-world trash collection grants in-game loot."  
-// MANIFEST:  
-//   - NEW_COMPOUND: [Atomic_Fact: Reality_Augmented_Cleaning_Quest]  
-//   - UTILITY_CHECK: [High_Social_Value]  
-  
-// PHASE 4: DISRUPTIVE SQUEEZE (Action)  
-// ACTION: Squeeze this new business model out to the "Entrepreneur Holons."  
-// MANIFEST:  
-//   - OUTPUT: [Startup_Idea: Loot_for_Litter]  
-//   - IMPACT: [Disrupts_Waste_Industry]  
-```
-
-**Implementation (detail):** A `['Procedural Content Generator'(-ing) BPMS]` for `world building`.
-
-* **The Input:** The system absorbs "Ancient Roman History" and "Cyberpunk Aesthetics."
-
-* **The Reactor:** The sponge `mixes` these themes.
-
-* **The Alchemy:** It synthesizes "Neon-Praetorians" and "Digital-Coliseums."
-
-* **The Output:** It `squeezes` out a `complete setting bible` for a new game zone. It didn't just "copy" Rome; it `metabolized` it into something new.
-
-
-
-
-
-
 
