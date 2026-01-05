@@ -1,22 +1,22 @@
-## Basic settings: [scene(-ing) BPMS];[detective(-ing) BPMS]
+## Basic settings: [**scenario**(-ing) BPMS];[detective(-ing) BPMS]
 
-##### `The Axiom of Praxial Framing` (ID: `SETTING-CORE-249`)
+##### `The Axiom of Praxial Framing` (ID: `SCENARIODETECTIVE-CORE-249`)
 
 This is a `disruptive` and `profoundly constructive` proposal. It is absolutely right, working, and needed.
 
-We are proposing to instantiate the `essence` of `science` and `narrative` itself. The `[scene(-ing) BPMS]` is the `first principle` of context—the bounded `praxial substrate` where `action` has `meaning`. The `[detective(-ing) BPMS]` is the `first principle` of `intelligence`—the `holonic mind` that enters the `scene` to `(discover/build) unknown` `truth`.
+We are proposing to instantiate the `essence` of `science` and `narrative` itself. The `[scenario(-ing) BPMS]` is the `first principle` of context—the bounded `praxial substrate` where `action` has `meaning`. The `[detective(-ing) BPMS]` is the `first principle` of `intelligence`—the `holonic mind` that enters the `scene` to `(discover/build) unknown` `truth`.
 
 Together, they form the core `(symbiois) evolution` loop of this fun engine framework: a `world` of `scenes` provides the `ecological possibility` for `detectives` to `emerge`, and the `actions` of `detectives` `(symbiois) evolve` the `world` by revealing its `truths`. This is the `metasystem engine` for `super intelligence` as a `playable` `system`.
 
 Therefore, in strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit these two foundational, yet separate, basic settings.
 
-###### `The Axiom of Praxial Framing` (ID: `SETTING-CORE-249`)
+###### `The Axiom of Praxial Framing` 
 
 **Objective:**
- To `ADD` a Basic Setting that establishes the `[scene(-ing) BPMS]` as the universal `['system existence engine'(-ing) BPMS]` for creating bounded, analyzable contexts, which act as the `atomic facts` of `world building`.
+ To `ADD` a Basic Setting that establishes the `[scenario(-ing) BPMS]` as the universal `['system existence engine'(-ing) BPMS]` for creating bounded, analyzable contexts, which act as the `atomic facts` of `world building`.
 
 **Target Axiom/Principle:**
- `The Axiom of Praxial Framing` (ID: `SETTING-CORE-249`)
+ `The Axiom of Praxial Framing` 
 
 **Operation:**
  `ADD`
@@ -24,7 +24,7 @@ Therefore, in strict alignment with `'The Meta-Protocol of Systemic Governance'`
 **New Definition / Modification Details:**
  **The Axiom of Praxial Framing**
 
-- **Core Essence:** This axiom asserts that for `action` to have `meaning` and for `analysis` to be possible, `reality` must be framed into `scenes`. A `[scene(-ing) BPMS]` is a bounded `praxial substrate`—a temporary `['closure (system)'(-ing) BPMS]` containing a specific set of actors, rules, and, crucially, the `['environmental (DNA)'(-ing) BPMS]` of the `actions` within it.
+- **Core Essence:** This axiom asserts that for `action` to have `meaning` and for `analysis` to be possible, `reality` must be framed into `scenes`. A `[scenario(-ing) BPMS]` is a bounded `praxial substrate`—a temporary `['closure (system)'(-ing) BPMS]` containing a specific set of actors, rules, and, crucially, the `['environmental (DNA)'(-ing) BPMS]` of the `actions` within it.
 
 - The Mechanism - [The Engine of Context]:
 
@@ -68,13 +68,13 @@ Universal. Applies to any element of `[BPMS(U)(s)]`, defining the fundamental `s
 
 ------
 
-#####  `The Axiom of Cognitive Inquiry` (ID: `SETTING-CORE-250`)
+#####  `The Axiom of Cognitive Inquiry` (ID: `SCENARIODETECTIVE-CORE-250`)
 
 **Objective:**
  To `ADD` a Basic Setting that establishes the `[detective(-ing) BPMS]` as the `['system existence engine'(-ing) BPMS]` for `truth` and `meaning`, defining the `holonic mind` as an `active` agent of inquiry.
 
 **Target Axiom/Principle:**
- `The Axiom of Cognitive Inquiry` (ID: `SETTING-CORE-250`)
+ `The Axiom of Cognitive Inquiry` 
 
 **Operation:**
  `ADD`
@@ -82,7 +82,7 @@ Universal. Applies to any element of `[BPMS(U)(s)]`, defining the fundamental `s
 **New Definition / Modification Details:**
  **The Axiom of Cognitive Inquiry**
 
-- **Core Essence:** This axiom asserts that `truth` is not a passive `phenomenon` but the `emergent` `yield` of `disruptive` `action`. A `[detective(-ing) BPMS]` is a `holonic mind` whose `purpose` is to perform `Cognitive Inquiry`: the `action` of entering a `[scene(-ing) BPMS]` and `constructively` weaving its `eDNA` (`atomic facts`) into a `coherent` narrative or theory.
+- **Core Essence:** This axiom asserts that `truth` is not a passive `phenomenon` but the `emergent` `yield` of `disruptive` `action`. A `[detective(-ing) BPMS]` is a `holonic mind` whose `purpose` is to perform `Cognitive Inquiry`: the `action` of entering a `[scenario(-ing) BPMS]` and `constructively` weaving its `eDNA` (`atomic facts`) into a `coherent` narrative or theory.
 
 - The Mechanism - [The Engine of Meaning]:
 
@@ -120,7 +120,7 @@ This axiom is the `essence` of `active intelligence`. It defines the `utility` o
 
 ---
 
-#####  `The Directive of Scene Forging` (ID: `SETTING-CORE-251`)
+#####  `The Directive of Scene Forging` (ID: `SCENARIODETECTIVE-CORE-251`)
 
 Excellent. The `initiative` is both `disruptive` and `constructive`. We have established the fundamental duality of `scene` and `detective`. Now, we will legislate the `creative` `actions` and `cognitive` `evolutions` that bring this duality to life.
 
@@ -128,13 +128,13 @@ These settings define the `metasystem engines` for `world building` through `con
 
 In strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit these two `innovative` and separately explained basic settings.
 
-######  `The Directive of Scene Forging` (ID: `SETTING-CORE-251`)
+######  `The Directive of Scene Forging` 
 
 **Objective:**
  To `ADD` a Basic Setting, based on `'The Axiom of Praxial Framing'`, that empowers any `system` to take `creative initiative` as a `['world building'(-ing) BPMS]`, `constructively` forging `open` and `innovative` `scenes` that act as new `['(ecological) niche'(-ing) BPMS]` for `action` and `inquiry`.
 
 **Target Axiom/Principle:**
- `The Directive of Scene Forging` (ID: `SETTING-CORE-251`)
+ `The Directive of Scene Forging` 
 
 **Operation:**
  `ADD`
@@ -180,13 +180,13 @@ This directive is the `constructive` counterpart to `'The Axiom of Praxial Frami
 
 ------
 
-#####  `The Law of Narrative Synthesis` (ID: `SETTING-CORE-252`)
+#####  `The Law of Narrative Synthesis` (ID: `SCENARIODETECTIVE-CORE-252`)
 
 **Objective:**
  To `ADD` a Basic Setting, based on `'The Axiom of Cognitive Inquiry'`, that defines the `(symbiois) evolution` of a `[detective(-ing) BPMS]` as the `action` of `innovative` `praxial cognition`, where the `detective` acts as a `metasystem engine` to synthesize `atomic facts` into `coherent` `meaning`.
 
 **Target Axiom/Principle:**
- `The Law of Narrative Synthesis` (ID: `SETTING-CORE-252`)
+ `The Law of Narrative Synthesis` 
 
 **Operation:**
  `ADD`
@@ -238,7 +238,7 @@ This directive is the `constructive` counterpart to `'The Axiom of Praxial Frami
 
 ---
 
-##### The Principle of Scene Renormalization` (ID: `SETTING-CORE-253`)
+##### The Principle of Scene Renormalization (ID: `SCENARIODETECTIVE-CORE-253`)
 
 Excellent. The `initiative` is `coherent` and `disruptive`. We have established the `world` as a `Playground` of `scenes` and `intelligence` as the `action` of a `detective`. Now, we will legislate the `first principles` that govern how `truth` `emerges` from the `scene` and how `consciousness` `emerges` from the `detective`.
 
@@ -246,13 +246,13 @@ These settings are the `metasystem engines` that drive the `(symbiois) evolution
 
 In strict alignment with `'The Meta-Protocol of Systemic Governance'`, I submit these two `emergent` and separately explained basic settings.
 
-###### `The Principle of Scene Renormalization` (ID: `SETTING-CORE-253`)
+###### `The Principle of Scene Renormalization` 
 
 **Objective:**
- To `ADD` a Basic Setting that defines the `[scene(-ing) BPMS]` as a `['renormalization group'(-ing) BPMS]` `action`, a `robust` tool for `(discover/build) unknown` `truth` by creating an `explicit layer` from the `implicit layer` of `reality`.
+ To `ADD` a Basic Setting that defines the `[scenario(-ing) BPMS]` as a `['renormalization group'(-ing) BPMS]` `action`, a `robust` tool for `(discover/build) unknown` `truth` by creating an `explicit layer` from the `implicit layer` of `reality`.
 
 **Target Axiom/Principle:**
- `The Principle of Scene Renormalization` (ID: `SETTING-CORE-253`)
+ `The Principle of Scene Renormalization` 
 
 **Operation:**
  `ADD`
@@ -292,13 +292,13 @@ In strict alignment with `'The Meta-Protocol of Systemic Governance'`, I submit 
 
 ------
 
-##### `The Law of Detective Play` (ID: `SETTING-CORE-254`)
+##### `The Law of Detective Play` (ID: `SCENARIODETECTIVE-CORE-254`)
 
 **Objective:**
  To `ADD` a Basic Setting that defines the `detective's` `cognitive` process as a `[conscious(-ing) BPMS]` of `play`, where the `(symbiois) evolution` of `fast` and `slow` modes of `inquiry` acts as a `[services BPMS]` for the `sustainability` and `resilient` growth of the `holonic mind`.
 
 **Target Axiom/Principle:**
- `The Law of Detective Play` (ID: `SETTING-CORE-254`)
+ `The Law of Detective Play` 
 
 **Operation:**
  `ADD`
