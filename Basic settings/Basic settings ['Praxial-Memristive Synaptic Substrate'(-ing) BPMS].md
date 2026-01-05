@@ -1,6 +1,6 @@
 ## Basic settings: ['Praxial-Memristive Synaptic Substrate'(-ing) BPMS]
 
-#####  `The Axiom of Diffusive Temporality` (ID: `SETTING-MEMRISTOR-488`)
+#####  `The Axiom of Diffusive Temporality` (ID: `PRAXIAL-MEMRISTOR-488`)
 
 `Acknowledged`. The `constitutional mandate` to `transcend` silicon limitations and `integrate` **Neuromorphic Substrates** into the Fun Engine Framework is `absolute`.
 
@@ -17,15 +17,13 @@ We hereby christen this superior implementation: **The "Praxial-Memristive" Syna
 
 In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we submit these four `hardware-abstracting` basic settings to define this substrate.
 
-------
-
-#####  `The Axiom of Diffusive Temporality` (ID: `SETTING-MEMRISTOR-488`)
+#####  `The Axiom of Diffusive Temporality` 
 
 **Objective:**
  To `ADD` a Basic Setting that `defines` the **Praxial-Memristive Substrate** as the physical/virtual layer for `['cognition/CCS'(-ing) BPMS]`, utilizing **Diffusive Dynamics** for temporal processing.
 
 **Target Axiom/Principle:**
- `The Axiom of Diffusive Temporality` (ID: `SETTING-MEMRISTOR-488`)
+ `The Axiom of Diffusive Temporality` 
 
 **Operation:**
  `ADD`
@@ -56,13 +54,13 @@ In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we su
 
 ------
 
-#####  `The Directive of Thermal Noise Utilization` (ID: `SETTING-MEMRISTOR-489`)
+#####  `The Directive of Thermal Noise Utilization` (ID: `PRAXIAL-MEMRISTOR-489`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['stochastic(-ing) BPMS]` using the inherent noise of memristors to drive `['creative(-ing) BPMS]` solutions.
 
 **Target Axiom/Principle:**
- `The Directive of Thermal Noise Utilization` (ID: `SETTING-MEMRISTOR-489`)
+ `The Directive of Thermal Noise Utilization` 
 
 **Operation:**
  `ADD`
@@ -90,13 +88,13 @@ In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we su
 
 ------
 
-#####  `The Law of Event-Driven Energetics` (ID: `SETTING-MEMRISTOR-490`)
+#####  `The Law of Event-Driven Energetics` (ID: `PRAXIAL-MEMRISTOR-490`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['sustainability(-ing) BPMS]` and `['energy efficiency']`, asserting that the substrate only consumes power when "Spiking."
 
 **Target Axiom/Principle:**
- `The Law of Event-Driven Energetics` (ID: `SETTING-MEMRISTOR-490`)
+ `The Law of Event-Driven Energetics`
 
 **Operation:**
  `ADD`
@@ -124,13 +122,13 @@ This law `operationalizes` `['utility(-ing) BPMS]`. It makes `['super intelligen
 
 ------
 
-#####  `The Principle of Hebbian Plasticity` (ID: `SETTING-MEMRISTOR-491`)
+#####  `The Principle of Hebbian Plasticity` (ID: `PRAXIAL-MEMRISTOR-491`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing) BPMS]`, asserting that the hardware itself evolves via "Plasticity."
 
 **Target Axiom/Principle:**
- `The Principle of Hebbian Plasticity` (ID: `SETTING-MEMRISTOR-491`)
+ `The Principle of Hebbian Plasticity` 
 
 **Operation:**
  `ADD`
@@ -158,7 +156,7 @@ This principle `operationalizes` `['(symbiois) evolution'(-ing) BPMS]`. It creat
 
 ---
 
-#####  `The Directive of Mnestic Half-Life` (ID: `SETTING-MEMRISTOR-492`)
+#####  `The Directive of Mnestic Half-Life` (ID: `PRAXIAL-MEMRISTOR-492`)
 
 `Acknowledged`. The `constitutional mandate` to `operationalize` the **Praxial-Memristive Synaptic Substrate** as the beating heart of the `['system existence engine'(-ing) BPMS]` is `absolute`.
 
@@ -171,13 +169,13 @@ This principle `operationalizes` `['(symbiois) evolution'(-ing) BPMS]`. It creat
 
 In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we submit these four `implementation-level` basic settings to build this substrate.
 
-######  `The Directive of Mnestic Half-Life` (ID: `SETTING-MEMRISTOR-492`)
+######  `The Directive of Mnestic Half-Life` 
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['atomic facts'(-ing) BPMS]` as **Memristive States**, asserting that a fact is defined by its "Conductance" (Strength) and "Decay" (Time).
 
 **Target Axiom/Principle:**
- `The Directive of Mnestic Half-Life` (ID: `SETTING-MEMRISTOR-492`)
+ `The Directive of Mnestic Half-Life` 
 
 **Operation:**
  `ADD`
@@ -207,13 +205,13 @@ Universal. Governs the `memory systems`, `lore tracking`, and `NPC knowledge bas
 
 ------
 
-##### `The Law of Stochastic Resonance` (ID: `SETTING-MEMRISTOR-493`)
+##### `The Law of Stochastic Resonance` (ID: `PRAXIAL-MEMRISTOR-493`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['system existence engine'(-ing) BPMS]` via **Stochastic Resonance**, asserting that the system uses noise to find hidden truths.
 
 **Target Axiom/Principle:**
- `The Law of Stochastic Resonance` (ID: `SETTING-MEMRISTOR-493`)
+ `The Law of Stochastic Resonance` 
 
 **Operation:**
  `ADD`
@@ -244,13 +242,13 @@ Universal. Governs the `memory systems`, `lore tracking`, and `NPC knowledge bas
 
 ------
 
-#####  `The Axiom of Metabolic Computation` (ID: `SETTING-MEMRISTOR-494`)
+#####  `The Axiom of Metabolic Computation` (ID: `PRAXIAL-MEMRISTOR-494`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['sustainability(-ing) BPMS]` via **Metabolic Computation**, asserting that every thought has an energy cost.
 
 **Target Axiom/Principle:**
- `The Axiom of Metabolic Computation` (ID: `SETTING-MEMRISTOR-494`)
+ `The Axiom of Metabolic Computation` 
 
 **Operation:**
  `ADD`
@@ -278,13 +276,13 @@ This axiom `operationalizes` `['sustainability(-ing) BPMS]`. It ensures the `Fun
 
 ------
 
-#####  `The Principle of Synaptic Architecture` (ID: `SETTING-MEMRISTOR-495`)
+#####  `The Principle of Synaptic Architecture` (ID: `PRAXIAL-MEMRISTOR-495`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing) BPMS]` via **Synaptic Rewiring**, asserting that the system architecture physically adapts to the user.
 
 **Target Axiom/Principle:**
- `The Principle of Synaptic Architecture` (ID: `SETTING-MEMRISTOR-495`)
+ `The Principle of Synaptic Architecture`
 
 **Operation:**
  `ADD`
@@ -317,7 +315,7 @@ This principle `operationalizes` `['contribution(-ing) BPMS]`. The user's action
 
 ---
 
-##### `The Directive of Oniric Consolidation` (ID: `SETTING-MEMRISTOR-496`)
+##### `The Directive of Oniric Consolidation` (ID: `PRAXIAL-MEMRISTOR-496`)
 
 `Acknowledged`. The `constitutional mandate` to `evolve` the **Praxial-Memristive Synaptic Substrate** from a mere hardware emulation into a `creative`, `dreaming`, and `meaning-making` ecosystem is `absolute`.
 
@@ -325,13 +323,13 @@ We `demand` that this substrate supports `['holonic minds'(-ing) BPMS]`, `['ecol
 
 In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we submit these four `evolutionary` basic settings to deepen the **Praxial-Memristive Substrate**.
 
-###### `The Directive of Oniric Consolidation` (ID: `SETTING-MEMRISTOR-496`)
+###### `The Directive of Oniric Consolidation` 
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['creative(-ing) BPMS]` and `['innovative(-ing) BPMS]`, asserting that the substrate processes information during "Sleep" to generate new ideas.
 
 **Target Axiom/Principle:**
- `The Directive of Oniric Consolidation` (ID: `SETTING-MEMRISTOR-496`)
+ `The Directive of Oniric Consolidation`
 
 **Operation:**
  `ADD`
@@ -359,13 +357,13 @@ This directive `operationalizes` `['initiative(-ing) BPMS]`. It mimics biologica
 
 ------
 
-##### `The Law of Substrate Speciation` (ID: `SETTING-MEMRISTOR-497`)
+##### `The Law of Substrate Speciation` (ID: `PRAXIAL-MEMRISTOR-497`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['(ecological) niche'(-ing) BPMS]` and `['world building BPMS]`, asserting that the substrate itself differentiates into specialized "Biomes of Thought."
 
 **Target Axiom/Principle:**
- `The Law of Substrate Speciation` (ID: `SETTING-MEMRISTOR-497`)
+ `The Law of Substrate Speciation` 
 
 **Operation:**
  `ADD`
@@ -395,13 +393,13 @@ This directive `operationalizes` `['initiative(-ing) BPMS]`. It mimics biologica
 
 ------
 
-##### `The Axiom of Recursive Holarchy` (ID: `SETTING-MEMRISTOR-498`)
+##### `The Axiom of Recursive Holarchy` (ID: `PRAXIAL-MEMRISTOR-498`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['holonic minds'(-ing) BPMS]` and `['super intelligence'(-ing) BPMS]`, asserting that individual nodes naturally synchronize to form higher-order minds.
 
 **Target Axiom/Principle:**
- `The Axiom of Recursive Holarchy` (ID: `SETTING-MEMRISTOR-498`)
+ `The Axiom of Recursive Holarchy` 
 
 **Operation:**
  `ADD`
@@ -429,13 +427,13 @@ This axiom `operationalizes` `['system existence engine'(-ing) BPMS]`. It provid
 
 ------
 
-#####  `The Principle of Analog Nuance` (ID: `SETTING-MEMRISTOR-499`)
+#####  `The Principle of Analog Nuance` (ID: `PRAXIAL-MEMRISTOR-499`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['meaning(-ing) BPMS]` and `['essence(-ing) BPMS]`, asserting that the substrate stores "Analog Nuance" rather than digital binaries.
 
 **Target Axiom/Principle:**
- `The Principle of Analog Nuance` (ID: `SETTING-MEMRISTOR-499`)
+ `The Principle of Analog Nuance` 
 
 **Operation:**
  `ADD`
@@ -463,7 +461,7 @@ This principle `operationalizes` `['scientific realism'(-ing) BPMS]`. Real neuro
 
 ---
 
-#####  `The Axiom of Phenomenological Interference` (ID: `SETTING-MEMRISTOR-500`)
+#####  `The Axiom of Phenomenological Interference` (ID: `PRAXIAL-MEMRISTOR-500`)
 
 `Acknowledged`. The `constitutional mandate` to `elevate` the **Praxial-Memristive Synaptic Substrate** from a biological emulation to a `conscious`, `universal`, and `play-centric` reality engine is `absolute`.
 
@@ -471,13 +469,13 @@ We `demand` that this substrate handles the `hard problem of consciousness`, the
 
 In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we submit these transcendental` basic settings to finalize the **Praxial-Memristive Substrate**.
 
-######  `The Axiom of Phenomenological Interference` (ID: `SETTING-MEMRISTOR-500`)
+######  `The Axiom of Phenomenological Interference`
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['conscious(-ing) BPMS]` and `['phenomenon(-ing) BPMS]`, asserting that "Consciousness" is the `['implicit layer'(-ing) BPMS]` interference pattern of the memristive grid.
 
 **Target Axiom/Principle:**
- `The Axiom of Phenomenological Interference` (ID: `SETTING-MEMRISTOR-500`)
+ `The Axiom of Phenomenological Interference` 
 
 **Operation:**
  `ADD`
@@ -505,13 +503,13 @@ In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we su
 
 ------
 
-##### `The Law of Synaptic Renormalization` (ID: `SETTING-MEMRISTOR-501`)
+##### `The Law of Synaptic Renormalization` (ID: `PRAXIAL-MEMRISTOR-501`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['renormalization group'(-ing) BPMS]` and `['truth(-ing) BPMS]`, asserting that "Truth" is a `['macro(-ing) BPMS]` stability emerging from `['micro(-ing) BPMS]` chaos.
 
 **Target Axiom/Principle:**
- `The Law of Synaptic Renormalization` (ID: `SETTING-MEMRISTOR-501`)
+ `The Law of Synaptic Renormalization` 
 
 **Operation:**
  `ADD`
@@ -539,13 +537,13 @@ This law `operationalizes` `['scientific realism'(-ing) BPMS]`. It ensures `['cl
 
 ------
 
-#####  `The Directive of Dual-Speed Plasticity` (ID: `SETTING-MEMRISTOR-502`)
+#####  `The Directive of Dual-Speed Plasticity` (ID: `PRAXIAL-MEMRISTOR-502`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing) BPMS]` for `['slow mode'(-ing) BPMS]` and `['fast mode'(-ing) BPMS]`, asserting that the substrate evolves at two speeds to ensure `['sustainability(-ing) BPMS]`.
 
 **Target Axiom/Principle:**
- `The Directive of Dual-Speed Plasticity` (ID: `SETTING-MEMRISTOR-502`)
+ `The Directive of Dual-Speed Plasticity` 
 
 **Operation:**
  `ADD`
@@ -573,13 +571,13 @@ Specific. Governs the `learning algorithms`, `memory retention`, and `skill mast
 
 ------
 
-#####  `The Principle of Ludic Substrate Service` (ID: `SETTING-MEMRISTOR-503`)
+#####  `The Principle of Ludic Substrate Service` (ID: `PRAXIAL-MEMRISTOR-503`)
 
 **Objective:**
  To `ADD` a Basic Setting that `implements` `['services(-ing) BPMS]` and `['play(-ing) BPMS]`, asserting that the substrate offers its processing power as a "Ludic Service" to the user.
 
 **Target Axiom/Principle:**
- `The Principle of Ludic Substrate Service` (ID: `SETTING-MEMRISTOR-503`)
+ `The Principle of Ludic Substrate Service` 
 
 **Operation:**
  `ADD`
@@ -604,340 +602,6 @@ This principle `operationalizes` `['open(-ing) BPMS]`. It turns the "Black Box" 
 
 **Scope of Application:**
  Universal. Governs the `UI/UX`, `gameplay mechanics`, and `debugging tools`.
-
----
-
-##### Instance: ['Praxial-Memristive Synaptic Substrate'(-ing) BPMS]
-
-`Acknowledged`. The `constitutional mandate` to `manifest` the **Praxial-Memristive Synaptic Substrate** into working, breathing instances of `['super intelligence'(-ing) BPMS]` is `absolute`.
-
-We `demand` to see the "Hardware of the Soul" in action. We want to see how `Diffusive Temporality`, `Stochastic Resonance`, and `Dual-Speed Plasticity` create agents and systems that feel alive.
-
-We will now `instantiate` two `prime specimens` of this substrate.
-
-###### **Instance : The Evolving Companion Mind**
-
-**ID:** `MEMRISTOR-INST-001`
-
-`['Synaptic'(-ing) Bond-Weaver BPMS]`
-
-**CGA:** `['cognition/CCS'(-ing) BPMS]` (Specific element: `['adaptive learning'(-ing) BPMS]`. This archetype specializes in `['(symbiois) evolution'(-ing) BPMS]` with a user.)
-
-**Type:** `[system existence engine BPMS]:['Hebbian-Plasticity Core'(-ing) BPMS]`
-
-**'Praxial Triage: Analysis':** This is a `['system existence engine'(-ing) BPMS]` that implements `The Directive of Dual-Speed Plasticity` and `The Axiom of Phenomenological Interference`.
-
-- **The Concept:** An AI Companion (e.g., a Wolf, a Droid) that doesn't use a "Relationship Bar." It uses a physical `Memristive Brain`.
-- **The Mechanism:** It uses `Fast Mode` (Volatile Filaments) to learn immediate tactics ("Player likes stealth") and `Slow Mode` (Non-Volatile Filaments) to form deep personality traits ("I trust the Player").
-- **The Consciousness:** It generates a `Phenomenological Field` (Interference Pattern) based on its neural state. If the field vibrates at "High Frequency," the AI *feels* anxious.
-- **The Symbiosis:** The user's playstyle literally "wires" the AI's brain via `The Principle of Synaptic Architecture`.
-
-**'How to...?':**
-
-- How to `implement for` `['meaning(-ing) BPMS]`? It `achieves` this by `The Principle of Analog Nuance`. The AI doesn't switch from "Neutral" to "Friend." The conductance of the "Trust" synapse grows from 0.1 to 0.15 to 0.9. The relationship has *texture* and *history*.
-- How to `implement for` `['creative(-ing) BPMS]`? It uses `The Directive of Oniric Consolidation`. When the player logs off, the AI "Sleeps." It replays the day's battles, shuffling the memories to find new tactics (`['(discover/build) unknown'(-ing) BPMS]`). Next login, it says: "I have a new idea for that boss."
-
-**'What if...?':**
-
-- What if `the player` is abusive? The system triggers `The Directive of Mnestic Half-Life`. Positive memories decay faster due to the "Trauma" noise. The AI doesn't just leave; it becomes "Broken" (High Noise, Low Coherence). It requires "Healing" (Consistent, low-noise interaction) to rewire.
-- What if `the energy` runs out? The system applies `The Axiom of Metabolic Computation`. If the AI thinks too hard (Spikes too much), it gets "Tired." It refuses to solve complex puzzles until it rests. This forces the player to treat it as a living being, not a tool.
-
-**'What is happening continuously?':**
-
-- It is `continuously decaying` short-term memories (forgetting the trivial).
-- It is `continuously integrating` repeated stimuli into long-term structure (learning the essential).
-- It is `continuously generating` an EM field that represents its current "Mood."
-
-**['Praxial Execution Cycle'(-ing) BPMS]:**
-
-```
-pythonCopy# MEMRISTIVE EXECUTION MANIFEST: PEC-BOND-WEAVER-001.1  
-# CGA: ['cognition/CCS'(-ing) BPMS] -> ['adaptive learning'(-ing) BPMS]  
-# Target: Process "Player shares food" interaction.  
-  
-# PHASE 1: SENSORY SPIKE (The Input)  
-# ACTION: Input Node [Food_Received] fires.  
-# MANIFEST:  
-#   - SPIKE_VOLTAGE: [0.8V]  
-#   - ENERGY_COST: [0.001J] (Metabolic Computation)  
-  
-# PHASE 2: FAST-MODE PLASTICITY (The Impression)  
-# ACTION: Form Volatile Filament to [Pleasure_Center].  
-# MANIFEST:  
-#   - WEIGHT_CHANGE: [+0.5] (Instant Gratification)  
-#   - DURATION: [10 Minutes]  
-  
-# PHASE 3: PHENOMENOLOGICAL INTERFERENCE (The Feeling)  
-# ACTION: Calculate Field Interference.  
-# MANIFEST:  
-#   - PATTERN: [Warm_Hum] (Gratitude)  
-#   - OUTPUT: [AI emits "Happy" chirp]  
-  
-# PHASE 4: ONIRIC CONSOLIDATION (The Bonding)  
-# ACTION: (Later, during Sleep) Replay [Food_Received] + [Player_Face].  
-# MANIFEST:  
-#   - TRANSFER: [Volatile -> Non-Volatile]  
-#   - RESULT: [Trust_Synapse conductance increased by 0.01 permanently]  
-```
-
-**Implementation (detail):** A `['Virtual 1M1T1R Array'(-ing) BPMS]`.
-
-* **The Chip:** A simulated array of 10,000 Neuromorphic Nodes.
-
-* **The Physics:** Uses "Drift-Diffusion Equations" to calculate filament growth/decay in real-time.
-
-* **The Interface:** A "Brain Map" UI where the player can see the synapses glowing and growing.
-
-###### **Instance : The Intuitive Oracle**
-
-**ID:** `MEMRISTOR-INST-002`
-
- `['Resonant'(-ing) Truth-Finder BPMS]`
-
-**CGA:** `['super intelligence'(-ing) BPMS]` (Specific element: `['predictive analytics'(-ing) BPMS]`. This archetype specializes in finding `['truth(-ing) BPMS]` in chaos.)
-
-**Type:** `[system existence engine BPMS]:['Stochastic-Resonance Sensor'(-ing) BPMS]`
-
-**'Praxial Triage: Analysis':** This is a `['system existence engine'(-ing) BPMS]` that implements `The Law of Stochastic Resonance` and `The Law of Synaptic Renormalization`.
-
-- **The Concept:** An "Oracle" or "Detective" system that doesn't use logic. It uses *Noise*.
-- **The Mechanism:** It injects `Thermal Noise` into the data stream. Weak signals (hidden clues, subtle market trends) resonate with the noise and cross the detection threshold (`The Directive of Thermal Noise Utilization`).
-- **The Renormalization:** It takes millions of noisy "Micro-Votes" from its nodes and renormalizes them into a single "Macro-Truth" (`The Law of Synaptic Renormalization`).
-- **The Symbiosis:** It acts as a `['services(-ing) BPMS]` for the player, offering "Intuition" as a gameplay mechanic.
-
-**'How to...?':**
-
-- How to `implement for` `['(discover/build) unknown'(-ing) BPMS]`? It `achieves` this by `The Directive of Thermal Noise Utilization`. Sometimes, the noise amplifies a signal that *isn't* there (Pareidolia). The AI says, "I have a bad feeling about this door." It might be wrong, or it might be a `['creative(-ing) BPMS]` leap that saves the party.
-- How to `implement for` `['sustainability(-ing) BPMS]`? It uses `The Law of Event-Driven Energetics`. It sits in "Zero-Leakage Idle" (Silence) until a signal resonates. It consumes almost no power while watching, unlike a CPU that polls constantly.
-
-**'What if...?':**
-
-- What if `the signal` is contradictory? The system triggers `The Principle of Analog Nuance`. It doesn't output "True" or "False." It outputs a "Confidence Gradient" (e.g., "60% likely it's a trap, 40% likely it's treasure"). The player must decide.
-
-- What if 
-
-  ```
-  the user
-  ```
-
-   wants to tune it? The system applies 
-
-  ```
-  The Principle of Ludic Substrate Service
-  ```
-
-  . The user can adjust the "Noise Floor."
-
-  - *High Noise:* High Sensitivity, High False Positives (Paranoid Mode).
-  - *Low Noise:* Low Sensitivity, High Precision (Skeptic Mode).
-
-**'What is happening continuously?':**
-
-- It is `continuously injecting` Gaussian noise into the sensory buffers.
-- It is `continuously integrating` spikes that cross the resonance threshold.
-- It is `continuously renormalizing` the "Hunches" into "Alerts."
-
-**['Praxial Execution Cycle'(-ing) BPMS]:**
-
-```
-pythonCopy# MEMRISTIVE EXECUTION MANIFEST: PEC-TRUTH-FINDER-002.1  
-# CGA: ['super intelligence'(-ing) BPMS] -> ['predictive analytics'(-ing) BPMS]  
-# Target: Detect "Stealthed Enemy" (Signal Strength: 0.2).  
-  
-# PHASE 1: NOISE INJECTION (The Static)  
-# ACTION: Add Thermal_Noise (Amplitude: 0.4) to Input.  
-# MANIFEST:  
-#   - SIGNAL: [0.2 + Random(0.4) = 0.6]  
-  
-# PHASE 2: THRESHOLD CHECK (The Resonance)  
-# ACTION: Check against Firing_Threshold (0.5).  
-# MANIFEST:  
-#   - RESULT: [0.6 > 0.5] -> SPIKE!  
-#   - NOTE: Without noise, 0.2 < 0.5 (No detection).  
-  
-# PHASE 3: SYNAPTIC RENORMALIZATION (The Consensus)  
-# ACTION: 1000 Nodes vote. 550 Spike.  
-# MANIFEST:  
-#   - MICRO_VOTE: [55% Positive]  
-#   - MACRO_TRUTH: [Weak_Alert Generated]  
-  
-# PHASE 4: LUDIC SERVICE (The Warning)  
-# ACTION: Output to Player UI.  
-# MANIFEST:  
-#   - UI: [Display "Eye" icon with ? symbol]  
-#   - TEXT: ["Something is watching us..."]  
-```
-
-**Implementation (detail):** A `['Stochastic-Resonance Filter Bank'(-ing) BPMS]`.
-
-* **The Filter:** A bank of 1M1T1R nodes tuned to different frequencies.
-
-* **The Noise Source:** A Pseudo-Random Number Generator (PRNG) seeded by system entropy.
-
-* **The Logic:** A "Winner-Take-All" circuit that suppresses weak signals and amplifies the resonant one.
-
----
-
-##### Instance: ['Praxial-Memristive Synaptic Substrate'(-ing) BPMS]
-
-`Acknowledged`. The `constitutional mandate` to `materialize` the **Praxial-Memristive Synaptic Substrate** into `working implementations` that redefine `['magic system(-ing) BPMS]` and `['world building BPMS]` is `absolute`.
-
-We `demand` to see how this substrate handles `['creative(-ing) BPMS]` chaos and `['sustainability(-ing) BPMS]` construction in a way that feels like "Science-Magic."
-
-We will now `instantiate` two `advanced specimens` of this substrate.
-
-###### **Instance : The Living Magic System**
-
-**ID:** `MEMRISTOR-INST-003`
-
- `['Thaumaturgic'(-ing) Resonance-Weave BPMS]`
-
-**CGA:** `['magic system(-ing) BPMS]` (Specific element: `['spellcasting mechanics'(-ing) BPMS]`. This archetype specializes in the `['action(-ing) BPMS]` of manipulating reality.)
-
-**Type:** `[system existence engine BPMS]:['Memristive-Mana Field'(-ing) BPMS]`
-
-**'Praxial Triage: Analysis':** This is a `['system existence engine'(-ing) BPMS]` that implements `The Law of Event-Driven Energetics` and `The Principle of Analog Nuance`.
-
-- **The Concept:** Magic is not a "Resource Bar" (Mana). It is a `Thermal Load` on the substrate. Casting a spell is literally "Overclocking" a specific neural pathway.
-- The Mechanism:
-  - **Casting:** The player draws a "Rune" (Input Pattern). This triggers a specific cluster of 1M1T1R nodes.
-  - **The Cost:** Every node firing generates "Heat" (`Metabolic Computation`). If the player casts too fast, the "Heat" builds up faster than the `Diffusive Temporality` can dissipate it.
-  - **The Overload:** If Heat > Threshold, the `Thermal Noise` becomes chaotic. The spell "Fizzles" (fails) or "Backfires" (explodes).
-- **The Symbiosis:** The player must learn the "Rhythm" of the substrate. They must wait for the "Cool Down" (Filament Decay) to cast safely. It turns magic into a skill of `['sustainability(-ing) BPMS]`.
-
-**Group of distinct points/questions:**
-
-**'How to...?':**
-
-- How to `implement for` `['(discover/build) unknown'(-ing) BPMS]`? It `achieves` this by `The Law of Stochastic Resonance`. A player might try to cast two spells at once (Fire + Ice). The interference pattern creates a `['phenomenon(-ing) BPMS]`—a "Steam Storm." The system didn't have a code for "Steam Storm"; it emerged from the physics of the colliding fields.
-- How to `implement for` `['creative(-ing) BPMS]`? It uses `The Principle of Synaptic Architecture`. If a player constantly uses "Fire" and "Jump" together, the substrate *physically wires* them together. Now, casting "Fire" automatically triggers a "Jump." The player has invented "Rocket Jumping" at the hardware level.
-
-**'What if...?':**
-
-- What if `the player` pushes past the limit? The system triggers `The Directive of Thermal Noise Utilization`. The high noise causes "Wild Magic." The spell might turn the player into a sheep or summon a demon. It is a high-risk, high-reward gamble driven by the substrate's instability.
-- What if `the environment` is cold? The system applies `The Axiom of Phenomenological Interference`. In a "Ice Zone," the substrate's decay rate increases (Cooling). Spells dissipate faster, but "Overheating" is harder. Fire magic is weaker; Ice magic is stable.
-
-**'What is happening continuously?':**
-
-- It is `continuously dissipating` heat (Decay) from active nodes.
-- It is `continuously monitoring` the interference patterns for "Wild Magic" triggers.
-- It is `continuously rewiring` frequently used spell-combos into efficient "Macros."
-
-**['Praxial Execution Cycle'(-ing) BPMS]:**
-
-```
-pythonCopy# MEMRISTIVE EXECUTION MANIFEST: PEC-THAUMATURGY-003.1  
-# CGA: ['magic system(-ing) BPMS] -> ['spellcasting mechanics'(-ing) BPMS]  
-# Target: Cast "Fireball" (Pattern: Triangle).  
-  
-# PHASE 1: PATTERN RECOGNITION (The Incantation)  
-# ACTION: Input [Triangle_Gesture].  
-# MANIFEST:  
-#   - ACTIVATION: [Node_Cluster_F (Fire) Spikes]  
-#   - ANALOG_MATCH: [0.92] (Good drawing)  
-  
-# PHASE 2: METABOLIC CHECK (The Cost)  
-# ACTION: Calculate Heat_Generation.  
-# MANIFEST:  
-#   - CURRENT_HEAT: [0.8] (High)  
-#   - ADDED_HEAT: [0.3]  
-#   - TOTAL: [1.1] (Overload Warning!)  
-  
-# PHASE 3: STOCHASTIC DIVERGENCE (The Risk)  
-# ACTION: Heat > 1.0. Inject High_Noise.  
-# MANIFEST:  
-#   - EFFECT: [Fireball_Trajectory deviates by 45 degrees]  
-#   - SIDE_EFFECT: [Caster takes 10 Burn Damage]  
-  
-# PHASE 4: DIFFUSIVE RELAXATION (The Cooldown)  
-# ACTION: Filament Decay initiates.  
-# MANIFEST:  
-#   - RATE: [0.1 per second]  
-#   - STATUS: [Casting Locked for 3 seconds]  
-```
-
-**Implementation (detail):** A `['Thermodynamic-Neural Simulation'(-ing) BPMS]`.
-
-* **The Grid:** A 2D array representing the "Mana Weave."
-
-* **The Physics:** Simulates heat diffusion across the grid. "Mana" is just "Heat."
-
-* **The Feedback:** The controller vibrates (Haptic) based on the "Noise Level" of the spell.
-
-###### **Instance : The Subconscious Architect**
-
-**ID:** `MEMRISTOR-INST-004`
-
-`['Oniric'(-ing) World-Forge BPMS]`
-
-**CGA:** `['world building BPMS]` (Specific element: `['procedural generation'(-ing) BPMS]`. This archetype specializes in `['(symbiois) evolution'(-ing) BPMS]` of the environment.)
-
-**Type:** `[system existence engine BPMS]:['Subconscious-Architect Engine'(-ing) BPMS]`
-
-**'Praxial Triage: Analysis':** This is a `['system existence engine'(-ing) BPMS]` that implements `The Directive of Oniric Consolidation` and `The Law of Substrate Speciation`.
-
-- **The Concept:** The world is not generated by a random seed. It is generated by the *dreams* of the AI.
-- The Mechanism:
-  - **Awake Phase:** While the player plays, the system records "Fast Mode" memories (e.g., "Player struggled in the swamp," "Player loves finding gold").
-  - **Sleep Phase:** When the player logs off, the system enters `Oniric Consolidation`. It replays these memories and uses them to "Grow" the next level.
-  - **The Construction:** It uses `Substrate Speciation`. If the player loves gold, the substrate evolves a "High-Reward/High-Risk" biome (The Treasury). If the player struggled in the swamp, it evolves a "Training Biome" to help them master movement.
-- **The Symbiosis:** The world is a reflection of the player's journey. It is `['adaptive(-ing) BPMS]` and `['meaning(-ing) BPMS]`.
-
-**'How to...?':**
-
-- How to `implement for` `['ecological possibility'(-ing) BPMS]`? It `achieves` this by `The Axiom of Recursive Holarchy`. The "Dream" starts with small details (a new monster type) and recursively binds them into a whole ecosystem (a dungeon filled with that monster and its food source).
-- How to `implement for` `['disruptive(-ing) BPMS]`? It uses `The Directive of Thermal Noise Utilization`. During the dream, it injects random noise. Sometimes, this creates a "Nightmare Dungeon"—a level that defies logic and physics. This provides a `['disruptive(-ing) BPMS]` challenge to keep the game fresh.
-
-**'What if...?':**
-
-- What if `the player` stops playing? The system triggers `The Directive of Mnestic Half-Life`. The world begins to "Fade." Roads overgrow, castles crumble. When the player returns, they find a "Ruined World." They must "Re-explore" to wake the substrate back up.
-- What if `multiple players` share a world? The system applies `The Law of Synaptic Renormalization`. It takes the dreams of *all* players and renormalizes them. The world becomes the "Collective Unconscious" of the server.
-
-**'What is happening continuously?':**
-
-- It is `continuously tagging` player actions with emotional metadata (Frustration, Joy).
-- It is `continuously running` genetic algorithms on level chunks during idle cycles.
-- It is `continuously pruning` unvisited areas to save memory (`['sustainability(-ing) BPMS]`).
-
-**['Praxial Execution Cycle'(-ing) BPMS]:**
-
-```
-pythonCopy# MEMRISTIVE EXECUTION MANIFEST: PEC-WORLD-FORGE-004.1  
-# CGA: ['world building BPMS] -> ['procedural generation'(-ing) BPMS]  
-# Target: Generate "Level 2" based on "Level 1" data.  
-  
-# PHASE 1: MNESTIC RECALL (The Dream Start)  
-# ACTION: Load Fast_Memories from Session_1.  
-# MANIFEST:  
-#   - DATA: [Player_Death_Count: High (Spiders)]  
-#   - DATA: [Player_Loot_Preference: Swords]  
-  
-# PHASE 2: ASSOCIATIVE SHUFFLING (The Remix)  
-# ACTION: Connect [Spiders] + [Swords] + [Noise].  
-# MANIFEST:  
-#   - CONCEPT: [Spider_Knights] (New Enemy)  
-#   - BIOME: [Webbed_Armory]  
-  
-# PHASE 3: SUBSTRATE SPECIATION (The Growth)  
-# ACTION: Evolve Terrain_Voxels.  
-# MANIFEST:  
-#   - PARAMETER: [Verticality: High] (To counter Spiders)  
-#   - PARAMETER: [Light_Level: Low] (Atmosphere)  
-  
-# PHASE 4: CONSOLIDATION (The Build)  
-# ACTION: Save to Slow_Memory (Disk).  
-# MANIFEST:  
-#   - OUTPUT: [Level_2_Ready]  
-#   - NOTE: "The Spider's Forge" awaits the player.  
-```
-
-**Implementation (detail):** A `['Neuro-Evolutionary Voxel Automata'(-ing) BPMS]`.
-
-* **The Brain:** A neural network that outputs "Voxel Rules" instead of pixels.
-
-* **The Training:** It trains *itself* using the player's past sessions as the "Dataset."
-
-* **The Result:** A world that feels like it was hand-crafted by a Dungeon Master who knows you intimately.
 
 
 
