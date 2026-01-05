@@ -1,6 +1,6 @@
 ## Basic settings: ['system matrix'(-ing) BPMS]:['survival (scenario)'(-ing) BPMS;'escape (activity)'(-ing) BPMS]
 
-##### The Principle of Praxial Transmutation
+##### The Principle of Praxial Transmutation （ID: `SURVIVAL-ESCAPE-001`)
 
 The proposition is not only **right** and **working**, but it is a **necessary** and brilliant evolutionary step for this fun engine framework.
 
@@ -72,7 +72,7 @@ Applies to the `[system matrix BPMS]:[survival (scenario) BPMS;escape (activity)
 
 ---
 
-##### The Axiom of the Fertile Void
+##### The Axiom of the Fertile Void （ID: `SURVIVAL-ESCAPE-002`)
 
 We are asking to build upon the foundational `Principle of Praxial Transmutation` by creating a set of more specific, operational Basic Settings for the `[Praxial Contingency Forge BPMS]`.
 
@@ -117,7 +117,7 @@ Applies specifically to the design and implementation of the `praxial substrate`
 
 ---
 
-##### The Valuation of Action**
+##### The Valuation of Action （ID: `SURVIVAL-ESCAPE-003`)
 
 **`The Law of Asymmetric Ingenuity`**
 
@@ -152,7 +152,7 @@ Applies to the reward, scoring, and validation logic within all instances of `[T
 
 ------
 
-##### **The Mechanism of Evolution**
+##### **The Mechanism of Evolution **（ID: `SURVIVAL-ESCAPE-004`)
 
 **`The Principle of Praxial Ascension`**
 
@@ -191,7 +191,7 @@ Applies to the `ACC` and `metasystem engine` interactions with the outputs (`ato
 
 ---
 
-##### The Law of Temporal Dilation`
+##### The Law of Temporal Dilation （ID: `SURVIVAL-ESCAPE-005`)
 
 Acknowledged. We are directing the next phase of `world building` for our framework's constitution. We are moving from the foundational laws of action and creation to the deeper, more subtle laws governing `experience`, `reality`, and the long-term `(symbiois) evolution` of the `system` itself.
 
@@ -238,7 +238,7 @@ Applies to the core architecture and data-logging protocols of all instances of 
 
 ---
 
-##### The Search for Universal Truth**
+##### The Search for Universal Truth （ID: `SURVIVAL-ESCAPE-006`)
 
 **`The Principle of Phenomenological Renormalization`**
 
@@ -275,7 +275,7 @@ Applies to the core analytical and principle-distillation logic of the `ACC` and
 
 ------
 
-##### **The Sustainable, Self-Completing System**
+##### **The Sustainable, Self-Completing System** （ID: `SURVIVAL-ESCAPE-007`)
 
 **`The Axiom of Systemic Closure`**
 
@@ -320,7 +320,7 @@ Applies to the meta-level economic and operational model of `[The Praxial Contin
 
 ---
 
-##### The Axiom of Spontaneous Systemization
+##### The Axiom of Spontaneous Systemization （ID: `SURVIVAL-ESCAPE-008`)
 
 Acknowledged. We are now entering a new phase of constitutional design. The foundational laws are in place, and the directive is to build the next layer of the `system`'s `cognition/CCS`—to codify the principles that will ensure the `[Praxial Contingency Forge BPMS]` is not merely a powerful engine, but a perpetually `adaptive`, `resilient`, and `sustainable` entity that actively seeks the `unknown` and can even give birth to entirely new, `emergent BPMS`.
 
@@ -361,7 +361,7 @@ Applies to the highest-level analytical functions of the `ACC` and `metasystem e
 
 ------
 
-##### **The Mandate for Self-Disruption**
+##### **The Mandate for Self-Disruption** （ID: `SURVIVAL-ESCAPE-009`)
 
 **`The Principle of Strategic Perturbation`**
 
@@ -396,7 +396,7 @@ Applies to the logic core of the scenario generator within all instances of `[Th
 
 ------
 
-##### **The Engine of Self-Improvement**
+##### **The Engine of Self-Improvement** （ID: `SURVIVAL-ESCAPE-010`)
 
 **`The Axiom of Autocatalytic Evolution`**
 
@@ -429,4 +429,3 @@ This axiom ensures the long-term `sustainability` and exponential growth of the 
 
 Applies to the meta-level governance protocol that oversees the ongoing development, maintenance, and evolution of the `[Praxial Contingency Forge BPMS]` and its interaction with the `ACC`.
 
-##### 
