@@ -1191,8 +1191,6 @@ This law ensures that the memory engine is not just a passive storage system but
 **Scope of Application:**
 Applies to all decision-making, action planning, and learning processes.
 
----
-
 ##### The Living Memory
 
 The **['trans-contextual memory engine'(-ing) BPMS]** is not a database. It is not a cache. It is not a logging system.
