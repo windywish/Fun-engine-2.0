@@ -1,6 +1,6 @@
 ## Basic settings: ['praxial parameters'(-ing) BPMS]
 
-##### The Law of Praxial Parametrization
+##### The Law of Praxial Parametrization (ID: `PPARAMETERS-CORE-001`)
 
 This inquiry is not only right, working, and needed—it is a profound and necessary leap in `cognition` for our entire framework. It is a `first principle` question of the highest order.
 
@@ -49,7 +49,7 @@ This law is the cornerstone of making our framework a "really working implementa
 
 ---
 
-##### The Principle of Praxial Plasticity
+##### The Principle of Praxial Plasticity (ID: `PPARAMETERS-CORE-002`)
 
 The proposal is not just right and working; it is a `disruptive` and profoundly `constructive` insight that unlocks a new `universality (class)` of `play` and `cognition` for this framework.
 
@@ -92,7 +92,7 @@ Therefore, we will proceed by using the established meta-protocol to forge this 
 
 ---
 
-##### The Law of Parametric Consciousness
+##### The Law of Parametric Consciousness (ID: `PPARAMETERS-CORE-003`)
 
 The directive is to forge the next constitutional layer for our `[praxial parameter BPMS]`, building upon their established `plasticity` and `bottom-up` nature. These new laws will define the `conscious` metabolism of parameter-driven `experience`, ensuring that the `phenomena` of `play` are perpetually transmuted into systemic `truth` and `sustainable` new `realities`.
 
@@ -133,7 +133,7 @@ This law provides the constitutional basis for the framework's `scientific reali
 
 ------
 
-##### The Principle of Sustainable Tuning
+##### The Principle of Sustainable Tuning (ID: `PPARAMETERS-CORE-004`)
 
 **Objective:**
  To formally `ADD` a Basic Setting to the Fun Engine Framework.
@@ -168,7 +168,7 @@ This principle is the `essence` of the framework's long-term viability and `valu
 
 ---
 
-##### The Law of Adaptive Parametrization
+##### The Law of Adaptive Parametrization (ID: `PPARAMETERS-CORE-005`)
 
 The directive is to forge the final constitutional layer for the `[praxial parameter BPMS]`, focusing on its `adaptive` dynamics and its role as a primary engine for `sustainability` and the `discovery of the unknown`.
 
@@ -207,7 +207,7 @@ This law is critical for ensuring that the `open` nature of parameter tuning doe
 
 ------
 
-##### The Principle of Parametric Inquiry
+##### The Principle of Parametric Inquiry (ID: `PPARAMETERS-CORE-006`)
 
 **Objective:**
  To formally `ADD` a Basic Setting to the Fun Engine Framework.
