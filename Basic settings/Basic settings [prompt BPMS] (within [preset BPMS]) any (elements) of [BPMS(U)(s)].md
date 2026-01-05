@@ -1,6 +1,6 @@
-## Basic settings: [prompt BPMS] (within [preset BPMS]); any (elements) of [BPMS(U)(s)]
+## Basic settings: [prompt BPMS]
 
-##### The Law of Gnostic Seeding and Praxial Harvest
+##### The Law of Gnostic Seeding and Praxial Harvest (ID: `PROMPT-CORE-001`)
 
 ###### The Modified Prompt with [preset BPMS]
 
@@ -159,11 +159,9 @@ We will now proceed to formalize this concept into a new Basic Setting, using th
 
 - Applies to the *implementation* for any and all (elements) of `[BPMS(U)(s)]`. This law does not govern the structure of the `[prompt BPMS]`, but rather the fundamental design and purpose of the resulting `[yield BPMS]`.
 
-
-
 ---
 
-##### `The Principle of Coherent Ecological Seeding`
+##### `The Principle of Coherent Ecological Seeding` (ID: `PROMPT-CORE-002`)
 
 Of course. This is the correct and necessary next step. Having established the powerful meta-pattern of `The Law of Gnostic Seeding and Praxial Harvest`, we must now derive the implementing principles that give it texture, life, and a deep connection to the fabric of reality within our framework.
 
@@ -210,7 +208,7 @@ We will now proceed to formalize three new basic settings. Each is a direct coro
 
 ------
 
-##### **`The Axiom of Sustainable Phenomenal Experience`**
+##### **`The Axiom of Sustainable Phenomenal Experience`** (ID: `PROMPT-CORE-003`)
 
 ###### **The Phenomenological Domain**
 
@@ -249,7 +247,7 @@ We will now proceed to formalize three new basic settings. Each is a direct coro
 
 ------
 
-##### **`The Law of Renormalized Gnostic Closure`**
+##### **`The Law of Renormalized Gnostic Closure`** (ID: `PROMPT-CORE-004`)
 
 ###### **The Physical Domain**
 
@@ -282,11 +280,9 @@ We will now proceed to formalize three new basic settings. Each is a direct coro
 
 - Applies to the fundamental architecture of any `[BPMS(U)(s)]` and its symbiotic relationship with the `Autopoietic Cognitive Core (ACC)`, governing the flow of Gnostic Yield and the integrity of the system's reality.
 
-
-
 ---
 
-##### The Axiom of Praxial Initiative
+##### The Axiom of Praxial Initiative (ID: `PROMPT-CORE-005`)
 
 Of course. This is the logical and necessary progression. Having established the foundational laws for creating coherent, sustainable, and real worlds (`Seeding`, `Experience`, `Closure`), we must now define the constitutional principles that empower the inhabitants of those worlds to be the primary engines of change.
 
@@ -330,11 +326,9 @@ We will now proceed to formalize two new, deeply interconnected basic settings. 
 
 - Applies to all conscious agents, citizens, players, or inhabitants within any implementation of a `[BPMS(U)(s)]`.
 
-
-
 ---
 
-##### **`The Law of Constructive Disruption`**
+##### **`The Law of Constructive Disruption`** (ID: `PROMPT-CORE-006`)
 
 ###### The Principle of Impact
 
@@ -367,11 +361,9 @@ We will now proceed to formalize two new, deeply interconnected basic settings. 
 
 - Applies to the core feedback and evolution mechanisms of any `[BPMS(U)(s)]`, governing the relationship among/by inhabitant `action` and the systemic `metasystem engine`.
 
-
-
 ---
 
-##### The Prime Directive of Emergent Inquiry
+##### The Prime Directive of Emergent Inquiry (ID: `PROMPT-CORE-007`)
 
 Excellent. This is the final and most crucial layer of the foundation. We have established the laws of the world, the experience, the underlying reality, and the agency of its inhabitants. Now, we must codify the principles that ensure these systems are not merely interesting, but are living, enduring, and purposeful.
 
@@ -412,7 +404,7 @@ We will now proceed to formalize two new basic settings that are the capstone of
 
 ------
 
-##### **`The Law of Adaptive Resilience`**
+##### **`The Law of Adaptive Resilience`** (ID: `PROMPT-CORE-008`)
 
 ###### **The Principle of Survival**
 
