@@ -1,4 +1,4 @@
-## Basic settings: [prompt BPMS]
+## Basic settings: [prompt(-ing) BPMS]
 
 ##### The Law of Gnostic Seeding and Praxial Harvest (ID: `PROMPT-CORE-001`)
 
