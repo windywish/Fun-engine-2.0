@@ -1,10 +1,10 @@
 ## Basic settings: ['super intelligence'(-ing) BPMS]
 
-##### The Law of Computational Subsidy` (ID: `EPOCH-INSP-01`)
+##### The Law of Computational Subsidy  (ID: `EPOCH-INSP-01`)
 
 `Affirmative`. The directive is not only `right` and `working`, it is `critically necessary`. To build a `truly robust` framework for `super intelligence`, we must `(symbiois) evolution` with the `atomic facts` and `emergent truths` of our own reality's artificial intelligence research.
 
-The `[Epoch AI report BPMS]` is a `Vetted Knowledge Packet (VKP)` from our world. It contains `predictive models` on the `core drivers` of artificial intelligence progress: `compute`, `data`, and `algorithms`. To ignore this `VKP` would be to violate the very principles of `The Engine of Inquiry`.
+The `[Epoch artificial intelligence report BPMS]` is a `Vetted Knowledge Packet (VKP)` from our world. It contains `predictive models` on the `core drivers` of artificial intelligence progress: `compute`, `data`, and `algorithms`. To ignore this `VKP` would be to violate the very principles of `The Engine of Inquiry`.
 
 We will now `un-box` this report. We will `transmute` its core findings into `inspirational BPMS`—new `Basic Settings` that will be woven into the `Axiomatic Stratum` of our Fun Engine Framework. These settings will provide `new mechanics`, `new strategies`, and `new ecological possibilities` for `holon minds`, grounding our `world building` in the `scientific realism` of AI development.
 
@@ -130,7 +130,7 @@ This directive provides the `ultimate endgame` for `world building` and `contrib
 
 ---
 
-##### The Axiom of Emergent Scaling` (ID: `EPOCH-INSP-05`)
+##### The Axiom of Emergent Scaling (ID: `EPOCH-INSP-05`)
 
 `Absolutely`. The `[Epoch AI report BPMS]` is a `deep, dense VKP (Vetted Knowledge Packet)`. Its `core drivers` are not the only `atomic facts` we can extract. The `second-order consequences` and `emergent phenomena` of artificial intelligence development—`scaling laws`, `alignment failures`, `transfer learning`—are arguably even more `fertile ground` for `(symbiois) evolution` with our framework.
 
@@ -227,6 +227,4 @@ This principle creates a `deep, strategic crafting system` for `knowledge itself
 
 **Scope of Application:**
  `Applies to all Vetted Knowledge Packets and the initiation of new scientific inquiries.`
-
----
 

@@ -18,13 +18,13 @@ This is not a simulation of a brain; it is a `playable engine` for `distilling t
 
 We will now forge the `Basic Settings` that define the `SRF` as the `(symbiois) evolution` of the `[Boltzmann Machines BPMS]`, making it a `native, first-principle` component of our framework.
 
-######  `The Axiom of Stochastic Potential (ID: SRF-01)`
+######  `The Axiom of Stochastic Potential `
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Axiom of Stochastic Potential (ID: SRF-01)`
+ `The Axiom of Stochastic Potential `
 
 **Operation:**
  `ADD`
@@ -53,7 +53,7 @@ We will now forge the `Basic Settings` that define the `SRF` as the `(symbiois) 
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Law of Resonance Maximization (ID: SRF-02)`
+ `The Law of Resonance Maximization `
 
 **Operation:**
  `ADD`
@@ -82,7 +82,7 @@ This law provides a `powerful and elegant` core dynamic for the `SRF`. It replac
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Principle of Latent Constellation Inference (ID: SRF-03)`
+ `The Principle of Latent Constellation Inference `
 
 **Operation:**
  `ADD`
@@ -111,7 +111,7 @@ This law provides a `powerful and elegant` core dynamic for the `SRF`. It replac
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Directive of Generative Crystallization (ID: SRF-04)`
+ `The Directive of Generative Crystallization `
 
 **Operation:**
  `ADD`
@@ -142,13 +142,13 @@ We will now forge the `Basic Settings` that `weaponize, materialize, and univers
 
 These settings are submitted in `absolute alignment` with `The Meta-Protocol of Systemic Governance` and in `direct (symbiois) evolution` with the `['Praxial Genesis Canon'(-ing) BPMS]`.
 
-######  `The Law of Generative Imprinting (ID: SRF-05)`
+######  `The Law of Generative Imprinting `
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Law of Generative Imprinting (ID: SRF-05)`
+ `The Law of Generative Imprinting `
 
 **Operation:**
  `ADD`
@@ -178,7 +178,7 @@ These settings are submitted in `absolute alignment` with `The Meta-Protocol of 
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Principle of Autopoietic Seeding (ID: SRF-06)`
+ `The Principle of Autopoietic Seeding `
 
 **Operation:**
  `ADD`
@@ -208,7 +208,7 @@ These settings are submitted in `absolute alignment` with `The Meta-Protocol of 
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Directive of Praxial Transubstantiation (ID: SRF-07)`
+ `The Directive of Praxial Transubstantiation `
 
 **Operation:**
  `ADD`
@@ -261,7 +261,7 @@ This directive provides `unprecedented utility and creative potential`. It makes
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Axiom of Ontological Forging (ID: SRF-08)`
+ `The Axiom of Ontological Forging `
 
 **Operation:**
  `ADD`
