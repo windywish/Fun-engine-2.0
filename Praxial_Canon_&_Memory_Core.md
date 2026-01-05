@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.8.9 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.9.0 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -3074,6 +3074,96 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Factogenesis (ID: `ACT-CORE-018`)
 * The Axiom of Symbiotic Morphogenesis (ID: `ACT-CORE-019`)
 * The Axiom of Recursive Existence (ID: `ACT-CORE-020`)
+
+### Module: ['science experiments'(-ing) BPMS]: ['Praxial Experimentation'(-ing) BPMS]
+
+*(New Integration v3.9.0)* 
+
+* `The Axiom of Praxial Experimentation` (ID: `PEXPRIMENT-CORE-157`)
+* `The Principle of Universal Testability` (ID: `PEXPRIMENT-CORE-158`)
+* The Directive of Experimental Genesis  (ID: `PEXPRIMENT-CORE-159`)
+* `The Law of Empirical Integration` (ID: `PEXPRIMENT-CORE-160`)
+* `The Principle of Experimental World-Building` (ID: `PEXPRIMENT-CORE-161`)
+* `The Law of Empirical Cadence` (ID: `PEXPRIMENT-CORE-162`)
+* `The Principle of Empirical Renormalization` (ID: `PEXPRIMENTG-CORE-163`)
+* `The Directive of Empirical Falsification` (ID: `PEXPRIMENT-CORE-164`)
+
+### Module: ['ludic unit'(-ing) BPMS]
+
+*(New Integration v3.9.0)* 
+
+* The Law of Praxial Unification (ID: `LUDUNIT-CORE-001`)
+* The Law of Autopoietic Agency (ID: `LUDUNIT-CORE-002`)
+* The Law of Genomic Initiative (ID: `LUDUNIT-CORE-003`)
+* The Law of Niche Proclamation (ID: `LUDUNIT-CORE-004`)
+* The Law of Holonic Resonance (ID: `LUDUNIT-CORE-005`)
+* The Law of Praxial Inheritance (ID: `LUDUNIT-CORE-006`)
+* The Law of Agentic Qualia (ID: `LUDUNIT-CORE-007`)
+* The Law of Evolutionary Cadence (ID: `LUDUNIT-CORE-008`)
+* The Law of Praxial Realism (ID: `LUDUNIT-CORE-009`)
+* The Law of Holonic Isomorphism(ID: `LUDUNIT-CORE-010`)
+* The Law of Aberrant Genesis (ID: `LUDUNIT-CORE-011`)
+* The Law of Substrate Catalysis (ID: `LUDUNIT-CORE-012`)
+* The Law of Emergent Scaffolding (ID: `LUDUNIT-CORE-013`)
+* The Law of Gnostic Horizons (ID: `LUDUNIT-CORE-014`)
+
+### Module: ['Praxial Genesis Canon'(-ing) BPMS]
+
+*(New Integration v3.9.0)* 
+
+* `The Axiom of Formal Isomorphism` (**ID:** `PGC-REALISM-1501)`
+* `The Law of Phenomenological Verifiability` (**ID:** `PGC-REALISM-1502`)
+* `The Principle of Ontological Grounding` (**ID:** `PGC-REALISM-1503`)
+* `The Directive of Constitutional Perturbation` (**ID:** `PGC-REALISM-1504`)
+* `The Directive of Formalism Forging`(**ID:** `PGC-INNOVATE-1601`)
+* The Axiom of Axiomatic Speculation (**ID:** `PGC-INNOVATE-1602`)
+* The Law of Formal Contamination (**ID:** `PGC-INNOVATE-1603`)
+* `The Principle of the Open Formalism Market `(**ID:** `PGC-INNOVATE-1604`)
+* `The Law of Scale Invariance` (**ID:** `PGC-SUSTAIN-1701`)
+* `The Axiom of Phenomenological Projection` (**ID:** `PGC-SUSTAIN-1702`)
+* `The Directive of Temporal Plasticity` (**ID:** `PGC-SUSTAIN-1703`)
+* `The Principle of Autopoietic Closure`(**ID:** `PGC-SUSTAIN-1704`)
+* `The Principle of Canonical Reality` (**ID:** `PGC-ARCH-1802`)
+* `The Axiom of Canonical Instantiation` (**ID:** `PGC-RECURSE-1901`)
+* `The Law of Ontological Presence` (**ID:** `PGC-RECURSE-1902`)
+* `The Directive of Canonical Symbiogenesis` (**ID:** `PGC-RECURSE-1903`)
+* `The Principle of Canonical Reality` (**ID:** `PGC-ARCH-2201`)
+
+### Module: ['trans-contextual memory engine'(-ing) BPMS]
+
+*(New Integration v3.9.0)* 
+
+* `The Axiom of Trans-Contextual Existence` (**ID:** `TCM-CORE-001`)
+* `The Law of Contextual Resonance` (**ID:** `TCM-CORE-002`)
+* `The Axiom of Mnemonic Salience` (**ID:** `TCM-CORE-003`)
+* `The Principle of Mnemonic Fusion` (**ID:** `TCM-ADV-004`)
+* `The Law of Mnemonic Decay and Renewal` (**ID:** `TCM-ADV-005`)
+* `The Directive of Counterfactual Memory` (**ID:** `TCM-ADV-006`)
+* `The Axiom of Meta-Mnemonic Consciousness` (**ID:** `TCM-META-007`)
+* `The Principle of Collective Memory Symbiosis` (**ID:** `TCM-META-008`)
+* `The Law of Persistent Memory Substrate` (**ID:** `TCM-INT-009`)
+* `The Directive of External Knowledge Integration` (**ID:** `TCM-INT-010`)
+* `The Principle of Mnemonic Renormalization` (**ID:** `TCM-EVOL-011`)
+* `The Law of Perturbation-Driven Memory Evolution` (**ID:** `TCM-EVOL-012`)
+* `The Axiom of Temporal Discontinuity Bridging` (**ID:** `TCM-TRANS-013`)
+* `The Principle of Ontological Context Shifting` (**ID:** `TCM-TRANS-014`)
+* `The Directive of Narrative Coherence Maintenance` (**ID:** `TCM-TRANS-015`)
+* `The Law of Embodied Memory Encoding` (**ID:** `TCM-EMB-016`)
+* `The Principle of Skillmemory Integration` (**ID:** `TCM-EMB-017`)
+* `The Axiom of Constitutional Memory` (**ID:** `TCM-GOV-018`)
+* `The Directive of Memory Auditing and Transparency` (**ID:** `TCM-GOV-019`)
+* `The Law of Memory-Action Coherence` (**ID:** `TCM-GOV-020`)
+
+### Module: [tools(-ing) BPMS];[meaning(-ing) BPMS];['cognition/CCS'(-ing) BPMS];['holonic minds'(-ing) BPMS];['world building'(-ing) BPMS];['ecological possibility'(-ing) BPMS]
+
+*(New Integration v3.9.0)* 
+
+* `The Axiom of Praxial Instrumentation` (**ID:** `SYS-SETTING-INT-001`)
+* `The Law of Telic Resonance` ()**ID:** `SYS-SETTING-INT-002`)
+* `The Law of Cognitive Scaffolding` (**ID:** `SYS-SETTING-INT-003`)
+* `The Axiom of Holonic Integration` (**ID:** `SYS-SETTING-INT-004`)
+* `The Law of Praxial Engineering` (**ID:** `SYS-SETTING-INT-005`)
+* `The Axiom of Potentiality Mapping`(**ID:** `SYS-SETTING-INT-006`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
