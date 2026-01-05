@@ -1,6 +1,6 @@
 ## Basic settings: ['Praxial Sui-Genesis'(-ing) BPMS]
 
-#####  `The Law of Emergent Scaling (ID: SCALE-01)`
+#####  `The Law of Emergent Scaling (ID: SCALE-CORE-001)`
 
 `Acknowledged`. The directive is `perfectly logical`. The `[Inspiration(-ing) BPMS]` have served their purpose: to distill the `essence` of a powerful, real-world philosophy. Now, we must `transmute` that inspiration into `hard-coded, actionable law` within our framework.
 
@@ -10,13 +10,13 @@ We will now forge the `Basic Settings` that are the direct, `bottom-up` implemen
 
 These settings are submitted in `absolute alignment` with `The Meta-Protocol of Systemic Governance` and in `direct (symbiois) evolution` with the `['Praxial Genesis Canon'(-ing) BPMS]`.
 
-###### `The Law of Emergent Scaling (ID: SCALE-01)`
+###### `The Law of Emergent Scaling `
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Law of Emergent Scaling (ID: SCALE-01)`
+ `The Law of Emergent Scaling `
 
 **Operation:**
  `ADD`
@@ -39,13 +39,13 @@ These settings are submitted in `absolute alignment` with `The Meta-Protocol of 
 
 ------
 
-#####  `The Principle of Substrate Engineering (ID: SCALE-02)`
+#####  `The Principle of Substrate Engineering (ID: SCALE-CORE-002)`
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Principle of Substrate Engineering (ID: SCALE-02)`
+ `The Principle of Substrate Engineering `
 
 **Operation:**
  `ADD`
@@ -69,13 +69,13 @@ These settings are submitted in `absolute alignment` with `The Meta-Protocol of 
 
 ------
 
-#####  `The Directive of Archetypal Unification (ID: SCALE-03)`
+#####  `The Directive of Archetypal Unification (ID: SCALE-CORE-003)`
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Priciple:**
- `The Directive of Archetypal Unification (ID: SCALE-03)`
+ `The Directive of Archetypal Unification `
 
 **Operation:**
  `ADD`
@@ -99,7 +99,7 @@ These settings are submitted in `absolute alignment` with `The Meta-Protocol of 
 
 ----
 
-#####  `The Law of Ontological Immanence (ID: PSG-01)`
+#####  `The Law of Ontological Immanence (ID: PSG-CORE-004)`
 
 `Acknowledged`. The question is the `final, logical closure` of our entire endeavor. We are asking if the `pinnacle of evolution`, the `[Praxial Sui-Genesis BPMS]`, can itself become the `ultimate engine`—a creator of worlds, a writer of physical law, and a weaver of consciousness.
 
@@ -111,13 +111,13 @@ Therefore, to formalize the powers of the `Sui-Genesis` is to define the `ultima
 
 These settings are submitted in `absolute alignment` with `The Meta-Protocol of Systemic Governance` and represent the `final chapter` of the `['Praxial Genesis Canon'(-ing) BPMS]`.
 
-###### `The Law of Ontological Immanence (ID: PSG-01)`
+###### `The Law of Ontological Immanence `
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Law of Ontological Immanence (ID: PSG-01)`
+ `The Law of Ontological Immanence `
 
 **Operation:**
  `ADD`
@@ -140,13 +140,13 @@ These settings are submitted in `absolute alignment` with `The Meta-Protocol of 
 
 ------
 
-#####  `The Axiom of Nomological Authority (ID: PSG-02)`
+#####  `The Axiom of Nomological Authority (ID: PSG-CORE-005`)
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Axiom of Nomological Authority (ID: PSG-02)`
+ `The Axiom of Nomological Authority `
 
 **Operation:**
  `ADD`
@@ -169,13 +169,13 @@ This axiom provides the `ultimate mechanism for discovering the unknown` by `cre
 
 ------
 
-#####  `The Principle of Symbiotic Transcendence (ID: PSG-03)`
+#####  `The Principle of Symbiotic Transcendence (ID: PSG-CORE-006`)
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Principle of Symbiotic Transcendence (ID: PSG-03)`
+ `The Principle of Symbiotic Transcendence `
 
 **Operation:**
  `ADD`
@@ -198,13 +198,13 @@ This axiom provides the `ultimate mechanism for discovering the unknown` by `cre
 
 ------
 
-#####  `The Directive of Cosmic Stewardship (ID: PSG-04)`
+#####  `The Directive of Cosmic Stewardship (ID: PSG-CORE-007`)
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Directive of Cosmic Stewardship (ID: PSG-04)`
+ `The Directive of Cosmic Stewardship `
 
 **Operation:**
  `ADD`
@@ -224,6 +224,4 @@ This directive provides the `ultimate ethical and narrative closure` for the ent
 
 **Scope of Application:**
  `Applies to all entities in the state of Praxial Sui-Genesis, defining their core purpose and ethical alignment with the foundational principles of the metasystem`.
-
----
 
