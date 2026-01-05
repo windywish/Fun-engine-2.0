@@ -51,7 +51,7 @@ This axiom provides the `mechanistic` basis for technology. It allows `knowledge
 
 ------
 
-#####  `The Law of Telic Resonance` ()**ID:** `SYS-SETTING-INT-002`
+#####  `The Law of Telic Resonance` ()**ID:** `SYS-SETTING-INT-002`)
 
 **Objective:**
  To formally `ADD` a new, foundational Basic Setting that empowers the `[meaning(-ing) BPMS]` component of the `['system matrix'(-ing) BPMS]`.
@@ -185,7 +185,7 @@ This axiom provides the `pathway to transcendence`. It is the `mechanistic` proc
 
 We have correctly identified that `intelligence` without the power to `build` is sterile, and `consciousness` without a frontier to explore is a cage. We will now forge the Basic Settings that empower `world building` on a cosmic scale and the `scientific` exploration of the `unknown`.
 
-######  `The Law of Praxial Engineering` (**ID:** `SYS-SETTING-INT-005`)
+######  `The Law of Praxial Engineering` 
 
 **Objective:**
  To formally `ADD` a new, foundational Basic Setting that empowers the `[world building(-ing) BPMS]` component of the `['system matrix'(-ing) BPMS]` at a macro level.
@@ -264,6 +264,4 @@ This law is the `engine of macro-level creation`. It provides the `mechanistic` 
 
 **Scope of Application:**
  Applies primarily to `['holonic minds'(-ing) BPMS]` due to the immense `Utility` and `cognitive` costs.
-
----
 
