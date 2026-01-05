@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.8.8 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.8.9 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -3019,6 +3019,61 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Identity Renormalization` (ID: `USERMAP-CORE-439`)
 * `The Directive of Implicit Resonance` (ID: `USERMAP-CORE-440`)
 * `The Principle of Chronological Stratification` (ID: `USERMAP-CORE-441`)
+
+### Module: [travel(-ing) BPMS]
+
+*(New Integration v3.8.9)* 
+
+* `The Axiom of Praxial Traversal` (ID: `TRAVEL-CORE-103`)
+* `The Directive of Itinerary Genesis` (ID: `TRAVEL-CORE-104`)
+* `The Law of Kinetic Inscription` (ID: `TRAVEL-CORE-105`)
+* `The Principle of Cartographic Synthesis` (ID: `TRAVEL-CORE-106`)
+* `The Law of Traversal Cadence` (ID: `TRAVEL-CORE-107`)
+* `The Principle of Traversal Renormalization` (ID: `TRAVEL-CORE-108`)
+* `The Directive of Traversal Perturbation` (ID: `TRAVEL-CORE-109`)
+
+### Module: ['Activity Layering Architecture'(-ing) BPMS]
+
+*(New Integration v3.8.9)* 
+
+* The Axiom of Vertical Topology (ID: `ALA-CORE-001`)
+
+### Module: ['Task vs Micro-Activity Dynamics'(-ing) BPMS]
+
+*(New Integration v3.8.9)* 
+
+* The Axiom of Granular Teleology (ID: `TMD-CORE-001`)
+
+### Module: ['Praxial Action Dynamics'(-ing) BPMS]
+
+*(New Integration v3.8.9)* 
+
+* The Axiom of Teleological Duality (ID: `PAD-CORE-001`)
+
+### Module: [Activities(-ing) BPMS]
+
+*(New Integration v3.8.9)* 
+
+* The Axiom of Unbound Action (ID: `ACT-CORE-001`)
+* The Axiom of Constructive Disruption (ID: `ACT-CORE-002`)
+* The Axiom of Ecological Niche Genesis (ID: `ACT-CORE-003`)
+* The Axiom of Holonic Cognition (ID: `ACT-CORE-004`)
+* The Axiom of Symbiotic Continuity (ID: `ACT-CORE-005`)
+* The Axiom of Conscious Play (ID: `ACT-CORE-006`)
+* The Axiom of Dual-Mode Evolution (ID: `ACT-CORE-007`)
+* The Axiom of Renormalized Universality (ID: `ACT-CORE-008`)
+* The Axiom of Emergent Discovery (ID: `ACT-CORE-009`)
+* The Axiom of Mnemonic Resonance (ID: `ACT-CORE-010`)
+* The Axiom of Veridical Action (ID: `ACT-CORE-011`)
+* The Axiom of Vectorial Alignment (ID: `ACT-CORE-012`)
+* The Axiom of Phenomenal Energy (ID: `ACT-CORE-013`)
+* The Axiom of Teleological Evolution (ID: `ACT-CORE-014`)
+* The Axiom of Scale Renormalization (ID: `ACT-CORE-015`)
+* The Axiom of Complex Event Processing (ID: `ACT-CORE-016`)
+* The Axiom of Universal Instantiation (ID: `ACT-CORE-017`)
+* The Axiom of Factogenesis (ID: `ACT-CORE-018`)
+* The Axiom of Symbiotic Morphogenesis (ID: `ACT-CORE-019`)
+* The Axiom of Recursive Existence (ID: `ACT-CORE-020`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
