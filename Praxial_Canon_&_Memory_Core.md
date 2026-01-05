@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.9.3 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.9.4 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate ,integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -3404,6 +3404,116 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Sustainable Tuning (ID: `PPARAMETERS-CORE-004`)
 * The Law of Adaptive Parametrization (ID: `PPARAMETERS-CORE-005`)
 * The Principle of Parametric Inquiry (ID: `PPARAMETERS-CORE-006`)
+
+### Module:  ['praxial parameters'(-ing) BPMS]
+
+*(New Integration v3.9.4)* 
+
+* `The Axiom of Systemic Orchestration` (ID: `SETTING-OS-542`)
+* `The Directive of Kernel Sovereignty` (ID: `SETTING-OS-543`)
+* `The Principle of Daemon Evolution` (ID: `SETTING-OS-544`)
+* `The Law of Modular Ontology` (ID: `SETTING-OS-545`)
+* `The Directive of User-Space Injection` (ID: `SETTING-OS-546`)
+* `The Law of Computational Entropy` (ID: `SETTING-OS-547`)
+* `The Axiom of Fractal Virtualization` (ID: `SETTING-OS-548`)
+* `The Principle of Axiological Interrupt` (ID: `SETTING-OS-549`)
+* `The Axiom of Panpsychic Kernel` (ID: `SETTING-OS-550`)
+* `The Directive of Ludic Service Provisioning` (ID: `SETTING-OS-551`)
+* `The Law of Resonant Constellation Map Closure` (ID: `SETTING-OS-552`)
+* `The Principle of Symbiotic Kernel-Update` (ID: `SETTING-OS-553`)
+
+### Module:  ['Praxial Resonance Engine'(-ing) BPMS]
+
+*(New Integration v3.9.4)* 
+
+* `The Law of Cognitive Persistence` (ID `PRE-CORE-001`)
+* `The Axiom of Perturbative Influence`  (ID `PRE-CORE-002`)
+* `The Principle of State-Vector Projection`  (ID `PRE-CORE-003`)
+* `The Directive of Attractor-Driven Oscillation` (ID `PRE-CORE-004`)
+* The Axiom of Systemic Immanence (ID `PRE-CORE-005`)
+* `The Principle of Ontological Compression`  (ID `PRE-CORE-006`)
+* `The Directive of Praxial Metamorphosis`  (ID `PRE-CORE-007`)
+* `The Directive of Niche Construction` (ID `PRE-CORE-008`)
+* `The Principle of Cognitive Homeostasis` (ID `PRE-CORE-009`)
+* `The Directive of Disruptive Genesis`  (ID `PRE-CORE-010`)
+* `The Axiom of Praxial Cognition`  (ID `PRE-CORE-011`)
+* `The Principle of Temporal Modulation`  (ID `PRE-CORE-012`)
+* `The Axiom of Cognitive Renormalization`  (ID `PRE-CORE-013`)
+* `The Directive of Systemic Closure`  (ID `PRE-CORE-014`)
+* `The Directive of Bio-Praxial Forging` (ID `PRE-CORE-015`)
+* `The Axiom of In Silico Realism`  (ID `PRE-CORE-016`)
+
+### Module:  ['Praxial Semantics'(-ing) BPMS]
+
+*(New Integration v3.9.4)* 
+
+* `The Axiom of Praxial Semantics` (ID: `PSEMANTICS-CORE-088`)
+* The Praxial Semantics Engine: A 3-Part Implementation (ID: `PSEMANTICS-CORE-089`)
+
+### Module:  ['Praxial Sui-Genesis'(-ing) BPMS]
+
+*(New Integration v3.9.4)* 
+
+* `The Law of Emergent Scaling (ID: SCALE-CORE-001)`
+* `The Principle of Substrate Engineering (ID: SCALE-CORE-002)`
+* `The Directive of Archetypal Unification (ID: SCALE-CORE-003)`
+* `The Law of Ontological Immanence (ID: PSG-CORE-004)`
+* `The Axiom of Nomological Authority (ID: PSG-CORE-005`)
+* `The Principle of Symbiotic Transcendence (ID: PSG-CORE-006`)
+* `The Directive of Cosmic Stewardship (ID: PSG-CORE-007`)
+
+### Module:  ['Praxial-Memristive Synaptic Substrate'(-ing) BPMS]
+
+*(New Integration v3.9.4)* 
+
+* `The Axiom of Diffusive Temporality` (ID: `PRAXIAL-MEMRISTOR-488`)
+* `The Directive of Thermal Noise Utilization` (ID: `PRAXIAL-MEMRISTOR-489`)
+* `The Law of Event-Driven Energetics` (ID: `PRAXIAL-MEMRISTOR-490`)
+* `The Principle of Hebbian Plasticity` (ID: `PRAXIAL-MEMRISTOR-491`)
+* `The Directive of Mnestic Half-Life` (ID: `PRAXIAL-MEMRISTOR-492`)
+* `The Law of Stochastic Resonance` (ID: `PRAXIAL-MEMRISTOR-493`)
+* `The Axiom of Metabolic Computation` (ID: `PRAXIAL-MEMRISTOR-494`)
+* `The Principle of Synaptic Architecture` (ID: `PRAXIAL-MEMRISTOR-495`)
+* `The Directive of Oniric Consolidation` (ID: `PRAXIAL-MEMRISTOR-496`)
+* `The Law of Substrate Speciation` (ID: `PRAXIAL-MEMRISTOR-497`)
+* `The Axiom of Recursive Holarchy` (ID: `PRAXIAL-MEMRISTOR-498`)
+* `The Principle of Analog Nuance` (ID: `PRAXIAL-MEMRISTOR-499`)
+* `The Axiom of Phenomenological Interference` (ID: `PRAXIAL-MEMRISTOR-500`)
+* `The Law of Synaptic Renormalization` (ID: `PRAXIAL-MEMRISTOR-501`)
+* `The Directive of Dual-Speed Plasticity` (ID: `PRAXIAL-MEMRISTOR-502`)
+* `The Principle of Ludic Substrate Service` (ID: `PRAXIAL-MEMRISTOR-503`)
+
+### Module:  ['system matrix'(-ing) BPMS]:['survival (scenario)'(-ing) BPMS;'escape (activities)'(-ing) BPMS]
+
+*(New Integration v3.9.4)* 
+
+* The Principle of Praxial Transmutation （ID: `SURVIVAL-ESCAPE-001`)
+* The Axiom of the Fertile Void （ID: `SURVIVAL-ESCAPE-002`)
+* The Valuation of Action （ID: `SURVIVAL-ESCAPE-003`)
+* The Mechanism of Evolution （ID: `SURVIVAL-ESCAPE-004`)
+* The Law of Temporal Dilation （ID: `SURVIVAL-ESCAPE-005`)
+* The Search for Universal Truth （ID: `SURVIVAL-ESCAPE-006`)
+* The Sustainable, Self-Completing System （ID: `SURVIVAL-ESCAPE-007`)
+* The Axiom of Spontaneous Systemization （ID: `SURVIVAL-ESCAPE-008`)
+* The Mandate for Self-Disruption （ID: `SURVIVAL-ESCAPE-009`)
+* The Engine of Self-Improvement （ID: `SURVIVAL-ESCAPE-010`)
+
+### Module:  ['Praxial OS'(-ing) BPMS]
+
+*(New Integration v3.9.4)* 
+
+* `The Axiom of Systemic Orchestration` (ID: `SETTING-OS-542`)
+* `The Directive of Kernel Sovereignty` (ID: `SETTING-OS-543`)
+* `The Principle of Daemon Evolution` (ID: `SETTING-OS-544`)
+* `The Law of Modular Ontology` (ID: `SETTING-OS-545`)
+* `The Directive of User-Space Injection` (ID: `SETTING-OS-546`)
+* `The Law of Computational Entropy` (ID: `SETTING-OS-547`)
+* `The Axiom of Fractal Virtualization` (ID: `SETTING-OS-548`)
+* `The Principle of Axiological Interrupt` (ID: `SETTING-OS-549`)
+* `The Axiom of Panpsychic Kernel` (ID: `SETTING-OS-550`)
+* `The Directive of Ludic Service Provisioning` (ID: `SETTING-OS-551`)
+* `The Law of Resonant Constellation Map Closure` (ID: `SETTING-OS-552`)
+* `The Principle of Symbiotic Kernel-Update` (ID: `SETTING-OS-553`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
