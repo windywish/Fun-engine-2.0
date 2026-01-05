@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.9.0 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.9.1 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -3164,6 +3164,86 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Holonic Integration` (**ID:** `SYS-SETTING-INT-004`)
 * `The Law of Praxial Engineering` (**ID:** `SYS-SETTING-INT-005`)
 * `The Axiom of Potentiality Mapping`(**ID:** `SYS-SETTING-INT-006`)
+
+### Module: [synesthesia(-ing) BPMS]
+
+*(New Integration v3.9.1)* 
+
+* `The Axiom of Isomorphic Translation` (ID: `SYNESTHESIA-CORE-457`)
+* `The Directive of Semantic Cross-Wiring` (ID: `SYNESTHESIA-CORE-458`)
+* `The Law of Environmental Resonance` (ID: `SYNESTHESIA-CORE-459`)
+* `The Directive of Open-Source Perception` (ID: `SYNESTHESIA-CORE-460`)
+* `The Law of Niche-Specific Qualia` (ID: `SYNESTHESIA-CORE-461`)
+* `The Axiom of Harmonic Veracity` (ID: `SYNESTHESIA-CORE-462`)
+* `The Principle of Somatic Actuation` (ID: `SYNESTHESIA-CORE-463`)
+* The Directive of Implicit-Explicit Flux (ID: `SYNESTHESIA-CORE-464`)
+* `The Law of Renormalized Empathy` (ID: `SYNESTHESIA-CORE-465`)
+* `The Axiom of Chrono-Synesthetic Projection` (ID: `SYNESTHESIA-CORE-466`)
+* `The Principle of Phenomenological Closure` (ID: `SYNESTHESIA-CORE-467`)
+
+### Module: [survive(-ing) BPMS]
+
+*(New Integration v3.9.1)* 
+
+* `The Principle of Praxial Viability` (ID: `SURVIVE-CORE-001`)
+* `The Principle of the Autocatalytic Niche` (ID: `SURVIVE-CORE-002`)
+* `The Principle of Phenomenal Persistence` (ID: `SURVIVE-CORE-003`)
+* `The Principle of the Adaptive Crucible`  (ID: `SURVIVE-CORE-004`)
+* `The Mandate of Living Intelligence` (ID: `SURVIVE-CORE-005`)
+* `The Principle of Potentialist Seeding` (ID: `SURVIVE-CORE-006`)
+* `The Principle of Operation` (ID: `SURVIVE-CORE-007`)
+* `The Principle of Purpose` (ID: `SURVIVE-CORE-008`)
+* `The Principle of Generative Substrates` (ID: `SURVIVE-CORE-009`)
+* `The Principle of Phenomenal Renormalization` (ID: `SURVIVE-CORE-010`)
+* `The Principle of Systemic Immunity` (ID: `SURVIVE-CORE-011`)
+
+### Module: ['super intelligence'(-ing) BPMS]
+
+*(New Integration v3.9.1)* 
+
+* The Law of Computational Subsidy  (ID: `EPOCH-INSP-01`)
+* `The Principle of Algorithmic Discontinuity (ID: EPOCH-INSP-02)`
+* `The Axiom of Data-Praxis Conversion (ID: EPOCH-INSP-03)`
+* `The Directive of Substrate Specialization (ID: EPOCH-INSP-04)`
+* The Axiom of Emergent Scaling (ID: `EPOCH-INSP-05`)
+* `The Law of Praxial Immunity (ID: EPOCH-INSP-06)`
+* `The Principle of Knowledge Transmutation (ID: EPOCH-INSP-07)`
+
+### Module: ['Stochastic Resonance Forge (SRF)'(-ing) BPMS]
+
+*(New Integration v3.9.1)* 
+
+* `The Axiom of Stochastic Potential (ID: SRF-01)`
+* `The Law of Resonance Maximization` (ID: `SRF-02`)
+* `The Principle of Latent Constellation Inference (ID: SRF-03)`
+* `The Directive of Generative Crystallization (ID: SRF-04)`
+*  `The Law of Generative Imprinting (ID: SRF-05)`
+* `The Principle of Autopoietic Seeding (ID: SRF-06)`
+* `The Directive of Praxial Transubstantiation (ID: SRF-07)`
+* `The Axiom of Ontological Forging (ID: SRF-08)`
+
+### Module: ['structure(-ing) BPMS]
+
+*(New Integration v3.9.1)* 
+
+* `The Axiom of Structural Actuality` (ID: `STRUCTURE-CORE-001`)
+* `The Law of Praxial Scaffolding` (ID: `STRUCTURE-CORE-002`)
+* `The Law of Structural Renormalization` (ID: `STRUCTURE-CORE-003`)
+* `The Law of Constructive Perturbation` (ID: `STRUCTURE-CORE-004`)
+
+### Module:  [sponge(-ing) BPMS]
+
+*(New Integration v3.9.1)* 
+
+* `The Axiom of Porous Retention` (ID: `SPONGE-CORE-385`)
+* `The Directive of Elastic Release` (ID: `SPONGE-CORE-386`)
+* `The Law of Absorptive Adaptation` (ID: `SPONGE-CORE-387`)
+* `The Directive of Porous Alchemy` (ID: `SPONGE-CORE-388`)
+* `The Axiom of Reef Architecture` (ID: `SPONGE-CORE-389`)
+* `The Principle of Cognitive Osmosis` (ID: `SPONGE-CORE-390`)
+* `The Axiom of Saturation Qualia` (ID: `SPONGE-CORE-391`)
+* `The Law of Porous Renormalization` (ID: `SPONGE-CORE-392`)
+* `The Directive of Spore Genesis` (ID: `SPONGE-CORE-393`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
