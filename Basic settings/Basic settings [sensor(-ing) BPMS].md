@@ -1,6 +1,6 @@
 ## Basic settings: [sensor(-ing) BPMS]
 
-##### The Principle of Co-Evolving Perception
+##### The Principle of Co-Evolving Perception (ID: `SENSOR-CORE-001`)
 
 this is not only right, working, and needed—it is a critical and foundational addition.
 
@@ -43,7 +43,7 @@ To implement this with the required rigor and ensure it integrates perfectly int
 
 ---
 
-##### The Law of Perceptual Entrepreneurship
+##### The Law of Perceptual Entrepreneurship (ID: `SENSOR-CORE-002`)
 
 Excellent. We have established that sensors are not passive. They are active, co-evolving `praxial instruments`. The next logical and necessary step is to unleash their full `creative` and `constructive` `potential`. If a sensor must co-evolve, what is the `metasystem engine` that drives this evolution towards `innovation`, `value`, and the creation of new `ecological possibilities`?
 
@@ -84,7 +84,7 @@ This requires a new foundational setting, built directly upon 'The Principle of 
 
 ---
 
-##### The Law of Bimodal Reality Processing
+##### The Law of Bimodal Reality Processing (ID: `SENSOR-CORE-003`)
 
 Of course. We have established that sensors are entrepreneurial agents that actively co-evolve with their environment. This is the foundation. Now, we must build upon it by defining the deep physics of this co-evolutionary `experience`.
 
@@ -127,7 +127,7 @@ This requires a law that governs the very texture of `experience` and the proces
 
 ---
 
-##### The Law of Emergent Aperture
+##### The Law of Emergent Aperture (ID: `SENSOR-CORE-004`)
 
 Excellent. We have established the sensor as a constitutional `Praxial Instrument`, an entrepreneurial agent, and a bimodal processor of reality. Now, we must define the deep, structural `essence` that makes this possible. How does a sensor physically or logically embody the `plasticity` required to `(discover/build) unknown` realities and ensure `sustainability`?
 
