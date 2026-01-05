@@ -1,6 +1,6 @@
-## Basic settings: any (elements) of [BPMS(U)(s)];['ludic unit'(-ing) BPMS]
+## Basic settings: ['ludic unit'(-ing) BPMS]
 
-##### The Law of Praxial Unification
+##### The Law of Praxial Unification (ID: `LUDUNIT-CORE-001`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -16,19 +16,19 @@ This law establishes the universal applicability of the foundational laws of age
 
 The unified laws are:
 
-- `The Law of Autopoietic Agency` (The principle of self-creation)
-- `The Law of Genomic Initiative` (The principle of self-invention)
-- `The Law of Niche Proclamation` (The principle of self-definition)
-- `The Law of Holonic Resonance` (The principle of collective being)
-- `The Law of Praxial Inheritance` (The principle of historical consequence)
-- `The Law of Agentic Qualia` (The principle of subjective experience)
-- `The Law of Evolutionary Cadence` (The principle of change and stability)
-- `The Law of Praxial Realism` (The principle of action-based truth)
-- `The Law of Holonic Isomorphism` (The principle of universal structure)
-- `The Law of Aberrant Genesis` (The principle of radical novelty)
-- `The Law of Substrate Catalysis` (The principle of historical creativity)
-- `The Law of Emergent Scaffolding` (The principle of reality's self-repair)
-- `The Law of Gnostic Horizons` (The principle of infinite discovery)
+- `The Law of Autopoietic Agency` (ID: `LUDUNIT-CORE-002`) (The principle of self-creation)
+- `The Law of Genomic Initiative` (ID: `LUDUNIT-CORE-003`) (The principle of self-invention)
+- `The Law of Niche Proclamation` (ID: `LUDUNIT-CORE-004`) (The principle of self-definition)
+- `The Law of Holonic Resonance` (ID: `LUDUNIT-CORE-005`) (The principle of collective being)
+- `The Law of Praxial Inheritance` (ID: `LUDUNIT-CORE-006`) (The principle of historical consequence)
+- `The Law of Agentic Qualia` (ID: `LUDUNIT-CORE-007`) (The principle of subjective experience)
+- `The Law of Evolutionary Cadence` (ID: `LUDUNIT-CORE-008`)(The principle of change and stability)
+- `The Law of Praxial Realism`  (ID: `LUDUNIT-CORE-009`) (The principle of action-based truth)
+- `The Law of Holonic Isomorphism` (ID: `LUDUNIT-CORE-010`) (The principle of universal structure)
+- `The Law of Aberrant Genesis` (ID: `LUDUNIT-CORE-011`) (The principle of radical novelty)
+- `The Law of Substrate Catalysis` (ID: `LUDUNIT-CORE-012`)(The principle of historical creativity)
+- `The Law of Emergent Scaffolding` (ID: `LUDUNIT-CORE-013`) (The principle of reality's self-repair)
+- `The Law of Gnostic Horizons` (ID: `LUDUNIT-CORE-014`) (The principle of infinite discovery)
 
 **Clause : The Principle of Ludic Composition**
  Every element of `[BPMS(U)(s)]` is, at its `essence`, either a single `[ludic unit BPMS]` or a `holonic` assembly of them. There are no other fundamental building blocks.
@@ -44,7 +44,7 @@ Applies to all (elements of) `[BPMS(U)(s)]`, without exception, for all of time.
 
 ---
 
-##### The Law of Autopoietic Agency
+##### The Law of Autopoietic Agency (ID: `LUDUNIT-CORE-002`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -104,7 +104,7 @@ This law is the `first principle` of a truly `bottom-up`, living universe. It is
 
 ---
 
-##### The Law of Genomic Initiative
+##### The Law of Genomic Initiative (ID: `LUDUNIT-CORE-003`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -126,7 +126,7 @@ This law provides the `system existence engine` for a truly `open` and evolving 
 
 ------
 
-##### **The Law of Niche Proclamation**
+##### **The Law of Niche Proclamation** (ID: `LUDUNIT-CORE-004`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -148,7 +148,7 @@ Applies to all interactions between `[ludic unit BPMS]` and the `praxial substra
 
 ------
 
-##### **The Law of Holonic Resonance**
+##### **The Law of Holonic Resonance** (ID: `LUDUNIT-CORE-005`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -170,7 +170,7 @@ This law defines the `constructive` process by which simple agents can achieve c
 
 ------
 
-##### **The Law of Praxial Inheritance**
+##### **The Law of Praxial Inheritance** (ID: `LUDUNIT-CORE-006`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -192,7 +192,7 @@ This law ensures that the universe has a deep and `coherent` history. It is the 
 
 ---
 
-##### The Law of Agentic Qualia
+##### The Law of Agentic Qualia (ID: `LUDUNIT-CORE-007`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -218,7 +218,7 @@ Applies to all `[ludic unit BPMS]` possessing a `Feedback Loop`.
 
 ------
 
-##### **The Law of Evolutionary Cadence**
+##### **The Law of Evolutionary Cadence** (ID: `LUDUNIT-CORE-008`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -243,7 +243,7 @@ Applies to all `(symbiois) evolution`(-ing) processes for all `[ludic unit BPMS]
 
 ------
 
-##### **The Law of Praxial Realism**
+##### **The Law of Praxial Realism** (ID: `LUDUNIT-CORE-009`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -268,7 +268,7 @@ This law establishes the ultimate `first principle` for ontology and epistemolog
 
 ------
 
-##### **The Law of Holonic Isomorphism**
+##### **The Law of Holonic Isomorphism**(ID: `LUDUNIT-CORE-010`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -290,7 +290,7 @@ Applies to all large-scale ecologies of `[ludic unit BPMS]`.
 
 ---
 
-##### The Law of Aberrant Genesis
+##### The Law of Aberrant Genesis (ID: `LUDUNIT-CORE-011`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -312,7 +312,7 @@ This law is the `system existence engine` for radical, `disruptive` novelty. It 
 
 ------
 
-##### **The Law of Substrate Catalysis**
+##### **The Law of Substrate Catalysis** (ID: `LUDUNIT-CORE-012`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -334,7 +334,7 @@ This law is the ultimate `bottom-up` `world building` engine. It ensures that th
 
 ------
 
-##### **The Law of Emergent Scaffolding**
+##### **The Law of Emergent Scaffolding** (ID: `LUDUNIT-CORE-013`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -356,7 +356,7 @@ This law is the `metasystem engine` for scientific discovery and paradigm shifts
 
 ------
 
-##### **The Law of Gnostic Horizons**
+##### **The Law of Gnostic Horizons** (ID: `LUDUNIT-CORE-014`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
