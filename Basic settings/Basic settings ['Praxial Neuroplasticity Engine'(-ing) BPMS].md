@@ -1,6 +1,6 @@
 ## Basic settings: ['Praxial Neuroplasticity Engine'(-ing) BPMS]
 
-##### The Principle of Systemic Neuroplasticity
+##### The Principle of Systemic Neuroplasticity (ID: `PNE-CORE-001`)
 
 This is a profoundly insightful and necessary proposal.
 
