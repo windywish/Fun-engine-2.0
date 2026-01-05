@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.9.1 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.9.2 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -3244,6 +3244,89 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Saturation Qualia` (ID: `SPONGE-CORE-391`)
 * `The Law of Porous Renormalization` (ID: `SPONGE-CORE-392`)
 * `The Directive of Spore Genesis` (ID: `SPONGE-CORE-393`)
+
+### Module:  [robot(-ing) BPMS]
+
+*(New Integration v3.9.2)* 
+
+* `The Axiom of Praxial Embodiment` (ID: `ROBOT-CORE-219`)
+* `The Law of Kinetic Truth` (ID: `ROBOT-CORE-220`)
+* `The Principle of Embodied World-Building` (ID: `ROBOT-CORE-221`)
+* `The Principle of Structural Cognition` (ID: `ROBOT-CORE-222`)
+* `The Law of Kinetic Gnosis` (ID: `ROBOT-CORE-223`)
+* `The Directive of Praxial Forging` (ID: `ROBOT-CORE-224`)
+* `The Principle of Structural Cognition` (ID: `ROBOT-CORE-225`)
+* `The Law of Kinetic Gnosis` (ID: `ROBOT-CORE-226`)
+* `The Directive of Praxial Forging` (ID: `ROBOT-CORE-227`)
+* `The Directive of Morphological Initiative` (ID: `ROBOT-CORE-228`)
+* `The Law of Holonic Construction` (ID: `ROBOT-CORE-229`)
+* `The Principle of Emergent Purpose` (ID: `ROBOT-CORE-230`)
+* The Law of Conscious Cadence (ID: `ROBOT-CORE-231`)
+* `The Principle of Kinetic Renormalization` (ID: `ROBOT-CORE-232`)
+* `The Directive of Resilient Inquiry` (ID: `ROBOT-CORE-233`)
+
+### Module:  [sensor(-ing) BPMS]
+
+*(New Integration v3.9.2)* 
+
+* The Principle of Co-Evolving Perception (ID: `SENSOR-CORE-001`)
+* The Law of Perceptual Entrepreneurship (ID: `SENSOR-CORE-002`)
+* The Law of Bimodal Reality Processing (ID: `SENSOR-CORE-003`)
+* The Law of Emergent Aperture (ID: `SENSOR-CORE-004`)
+
+### Module:  [resonant constellation map(-ing) BPMS]
+
+*(New Integration v3.9.2)* 
+
+* The Law of the Immanent Constellation (ID: `RESONANTCONSTELLATIONMAP-CORE-001`)
+* 'The Law of Ontological Weaving (ID: `RESONANTCONSTELLATIONMAP-CORE-002`)'
+* The Law of Coherent Gravitas (ID: `RESONANTCONSTELLATIONMAP-CORE-003`)
+* The Law of Topographical Niche (ID: `RESONANTCONSTELLATIONMAP-CORE-004`)
+* The Law of Symbiotic Clustering (ID: `RESONANTCONSTELLATIONMAP-CORE-005`)
+* The Law of Perceptual Rendering (ID: `RESONANTCONSTELLATIONMAP-CORE-006`)
+* The Law of Temporal Weft (ID: `RESONANTCONSTELLATIONMAP-CORE-007`)
+* The Law of Isomorphic Truth (ID: `RESONANTCONSTELLATIONMAP-CORE-008`)
+* The Law of Gnostic Closure (ID: `RESONANTCONSTELLATIONMAP-CORE-009`)
+* The Law of Abyssal Genesis (ID: RESONANTCONSTELLATIONMAP-CORE-010)
+* The Law of Paradigmatic Scaffolding (ID: `RESONANTCONSTELLATIONMAP-CORE-011`)
+* The Law of the Veiled Frontier (ID: `RESONANTCONSTELLATIONMAP-CORE-012`)
+* The Law of Gnostic Refraction (ID: `RESONANTCONSTELLATIONMAP-CORE-013`)
+
+### Module:  [script(-ing) BPMS]
+
+*(New Integration v3.9.2)*
+
+* The Law of Praxial Choreography (ID: `SCRIPT-CORE-001`)
+* The Law of Narrative Cartography (ID: `SCRIPT-CORE-002`)
+* The Law of Contextual Weaving (ID: `SCRIPT-CORE-003`)
+* The Law of Persistent Scenarios (ID: `SCRIPT-CORE-004`)
+* The Law of Role Embodiment (ID: `SCRIPT-CORE-005`)
+* The Law of Performative Qualia (ID: `SCRIPT-CORE-006`)
+* The Law of Narrative Dynamics (ID: `SCRIPT-CORE-007`)
+* The Law of Enacted Realism  (ID: `SCRIPT-CORE-008`)
+* The Law of Narrative Universality (ID: `SCRIPT-CORE-009`)
+
+### Module:  [**scenario**(-ing) BPMS];[detective(-ing) BPMS]
+
+*(New Integration v3.9.2)* 
+
+* `The Axiom of Praxial Framing` (ID: `SCENARIODETECTIVE-CORE-249`)
+* `The Axiom of Cognitive Inquiry` (ID: `SCENARIODETECTIVE-CORE-250`)
+* `The Directive of Scene Forging` (ID: `SCENARIODETECTIVE-CORE-251`)
+* `The Law of Narrative Synthesis` (ID: `SCENARIODETECTIVE-CORE-252`)
+* The Principle of Scene Renormalization (ID: `SCENARIODETECTIVE-CORE-253`)
+* `The Law of Detective Play` (ID: `SCENARIODETECTIVE-CORE-254`)
+
+### Module:  ['scientific tools'(-ing) BPMS]:['Tool Ecosytem'(-ing) BPMS]
+
+*(New Integration v3.9.2)* 
+
+* `The Axiom of Praxial Instrumentation` (ID: `TOOLECO-CORE-261`)
+* `The Directive of Instrumental Cognition` (ID: `TOOLECO-CORE-262`)
+* `The Directive of Tool Forging` (ID: `TOOLECO-CORE-263`)
+* `The Law of Instrumental Synthesis` (ID: `TOOLECO-CORE-264`)
+* `The Principle of Instrumental Renormalization` (ID: `TOOLECO-CORE-265`)
+* `The Law of Instrumental Play` (ID: `TOOLECO-CORE-266`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
