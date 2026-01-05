@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.9.4 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate ,integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.9.5 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate, (continuous) survive experiments, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -3514,6 +3514,31 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Ludic Service Provisioning` (ID: `SETTING-OS-551`)
 * `The Law of Resonant Constellation Map Closure` (ID: `SETTING-OS-552`)
 * `The Principle of Symbiotic Kernel-Update` (ID: `SETTING-OS-553`)
+
+### Module:  ['(continuous) survive experiments(-ing) BPMS]
+
+*(New Integration v3.9.5)* 
+
+* The Axiom of Continuous Viability Systemic Integrity-ing (ID: `CSE-CORE-001`)
+* The Protocol of Constructive Disruption (ID: `CSE-CORE-002`)
+* The Law of Ecological Niche Construction (ID: `CSE-CORE-003`)
+* The Axiom of Atomic Fact Crystallization (ID: `CSE-CORE-004`)
+* The Directive of Holonic Symbiosis (ID: `CSE-CORE-005`)
+* The Principle of Ludic Consciousness (ID: `CSE-CORE-006`)
+* The Law of Dual-Speed Symbiosis (ID: `CSE-CORE-007`)
+* The Axiom of Renormalized Universality (ID: `CSE-CORE-008`)
+* The Directive of Implicit-Explicit Closure (ID: `CSE-CORE-009`)
+* The Protocol of Unknown Horizons (ID: `CSE-CORE-010`)
+* The Directive of Mnestic Symbiosis (ID: `CSE-CORE-011`)
+* The Axiom of Veridical Alignment (ID: `CSE-CORE-012`)
+* The Law of Vectorial Matrix Dynamics (ID: `CSE-CORE-013`)
+* The Principle of Phenomenological Feedback (ID: `CSE-CORE-014`)
+* The Directive of Energetic Transmutation (ID: `CSE-CORE-015`)
+* The Protocol of Teleological Alignment (ID: `CSE-CORE-016`)
+* The Law of Granular Renormalization (ID: `CSE-CORE-017`)
+* The Axiom of Field-Particle Duality (ID: `CSE-CORE-018`)
+* The Directive of Structural Plasticity (ID: `CSE-CORE-019`)
+* The Principle of Resonant Constellation Map Recursion (ID: `CSE-CORE-020`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
