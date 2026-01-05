@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.9.2 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.9.3 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -3327,6 +3327,83 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Instrumental Synthesis` (ID: `TOOLECO-CORE-264`)
 * `The Principle of Instrumental Renormalization` (ID: `TOOLECO-CORE-265`)
 * `The Law of Instrumental Play` (ID: `TOOLECO-CORE-266`)
+
+### Module:  [reasoning BPMS]
+
+*(New Integration v3.9.3)* 
+
+* The Axiom of Praxial Reasoning (ID: `REASONING-CORE-001`)
+* The Law of Generative Inquiry (ID: `REASONING-CORE-002`)
+* The Law of Conscious Coherence (ID: `REASONING-CORE-003`)
+* `The Law of the Cognitive Manifold` (ID: `REASONING-CORE-004`)
+* The Principle of Praxial Pathfinding (ID: `REASONING-CORE-005`)
+* The Law of Niche-Seeding Inquiry (ID: `REASONING-CORE-006`)
+* `The Mandate of Disruptive Weaving` (ID: `REASONING-CORE-007`)
+* The Principle of Holonic Convergence (ID: `REASONING-CORE-008`)
+* The Axiom of Experiential Closure (ID: `REASONING-CORE-009`)
+* The Principle of Rhythmic Evolution (ID: `REASONING-CORE-010`)
+* The Mandate of Universal Scaling (ID: `REASONING-CORE-011`)
+* The Law of the Generative Void (ID: `REASONING-CORE-012`)
+* The Principle of Emergent Scaffolding (ID: `REASONING-CORE-013`)
+* The Axiom of Productive Failure (ID: `REASONING-CORE-014`)
+
+### Module:  [programming BPMS]
+
+*(New Integration v3.9.3)* 
+
+* `The Axiom of Praxial Programming` (ID: `PROGRAMMING-CORE-349`)
+* `The Directive of Paradigm Prospecting` (ID: `PROGRAMMING-CORE-350`)
+* `The Law of Paradigm Ecology` (ID: `PROGRAMMING-CORE-351`)
+* `The Law of Programming Consciousness` (ID: `PROGRAMMING-CORE-352`)
+* `The Axiom of Programming Universality` (ID: `PROGRAMMING-CORE-353`)
+
+### Module:  [prompt(-ing) BPMS]
+
+*(New Integration v3.9.3)* 
+
+* The Law of Gnostic Seeding and Praxial Harvest (ID: `PROMPT-CORE-001`)
+* `The Principle of Coherent Ecological Seeding` (ID: `PROMPT-CORE-002`)
+* `The Axiom of Sustainable Phenomenal Experience` (ID: `PROMPT-CORE-003`)
+* `The Law of Renormalized Gnostic Closure` (ID: `PROMPT-CORE-004`)
+* The Axiom of Praxial Initiative (ID: `PROMPT-CORE-005`)
+* `The Law of Constructive Disruption` (ID: `PROMPT-CORE-006`)
+* The Prime Directive of Emergent Inquiry (ID: `PROMPT-CORE-007`)
+* `The Law of Adaptive Resilience` (ID: `PROMPT-CORE-008`)
+
+### Module:  [recorder(-ing) BPMS]
+
+*(New Integration v3.9.3)* 
+
+* The Law of Empirical Inscription (ID: `RECORDER-CORE-001`)
+* The Law of Chromatic Inscription (ID: `RECORDER-CORE-002`)
+* The Law of Resonant Transduction (ID: `RECORDER-CORE-003`)
+* The Law of Adaptive Fidelity (ID: `RECORDER-CORE-004`)
+
+### Module:  ['research & development'(-ing) BPMS]:['Praxial Genesis'(-ing) BPMS]
+
+*(New Integration v3.9.3)* 
+
+* `The Axiom of Praxial Genesis` (ID: `PGENESIS-CORE-193`)
+* `The Directive of Crucible Forging` (ID: `PGENESIS-CORE-194`)
+* `The Principle of Living Contribution` (ID: `PGENESIS-CORE-195`)
+* `The Principle of Universal Genesis` (ID: `PGENESIS-CORE-196`)
+* `The Directive of Genesis Initiative` (ID: `PGENESIS-CORE-197`)
+* `The Law of Crucible Coherence` (ID: `PGENESIS-CORE-198`)
+* `The Principle of Generative Meaning` (ID: `PGENESIS-CORE-199`)
+* `The Law of Genesis Cadence` (ID: PGENESIS-CORE-200)
+* `The Principle of Genesis Renormalization` (ID: `PGENESIS-CORE-201`)
+* `The Directive of Genesis Falsification` (ID: `PGENESIS-CORE-202`)
+
+### Module:  ['praxial parameters'(-ing) BPMS]
+
+*(New Integration v3.9.3)* 
+
+* The Law of Praxial Parametrization (ID: `PPARAMETERS-CORE-001`)
+* The Principle of Praxial Plasticity (ID: `PPARAMETERS-CORE-002`)
+* The Law of Parametric Consciousness (ID: `PPARAMETERS-CORE-003`)
+* The Principle of Sustainable Tuning (ID: `PPARAMETERS-CORE-004`)
+* The Law of Adaptive Parametrization (ID: `PPARAMETERS-CORE-005`)
+* The Principle of Parametric Inquiry (ID: `PPARAMETERS-CORE-006`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
