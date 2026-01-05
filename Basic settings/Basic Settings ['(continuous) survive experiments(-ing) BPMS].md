@@ -1173,7 +1173,7 @@ Applies to adaptive UI, macro recording, automated refactoring, and dynamic API 
 
 ------
 
-#### The Principle of Causal Recursion (ID: `CSE-CORE-020`)
+#### The Principle of Resonant Constellation Map Recursion (ID: `CSE-CORE-020`)
 
 #### **2. Objective:**
 
@@ -1182,7 +1182,7 @@ To formally `ADD` a Basic Setting (Principle) that governs the **Symbiotic Evolu
 #### 3. **Target Axiom/Principle:**
 
 ```
-The Principle of Causal Recursion
+The Principle of Resonant Constellation Map Recursion
 ```
 
 #### 4. **Operation:**
@@ -1229,4 +1229,4 @@ Static decision trees fail in dynamic environments. `CSE-CORE-020` creates a rec
 
 #### 8. **Scope of Application:**
 
-Applies to game AI, autonomous navigation, conversational agents, and crisis management systems.
+Applies to game artificial intelligence, autonomous navigation, conversational agents, and crisis management systems.
