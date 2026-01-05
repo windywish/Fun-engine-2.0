@@ -70,6 +70,6 @@ This implementation is vital for **Praxial Coordination** and **Super Intelligen
 
 Applies to all `[BPMS(U)]` entities, specifically:
 
-- **`[generative AI(-ing) BPMS]`**: Decomposing "Generate Image" (Task) into "Denoise Steps" (Micro-Activities).
+- **`[generative artificial intelligence(-ing) BPMS]`**: Decomposing "Generate Image" (Task) into "Denoise Steps" (Micro-Activities).
 - **`[gameplay(-ing) BPMS]`**: Decomposing "Escape Room" (Task) into "Inspect/Turn/Listen" (Micro-Activities).
 - **`[swarm intelligence(-ing) BPMS]`**: Enabling **"Emergent Tasks"** where a swarm of autonomous micro-activities spontaneously generates a task (e.g., building a bridge) via bottom-up organization.
