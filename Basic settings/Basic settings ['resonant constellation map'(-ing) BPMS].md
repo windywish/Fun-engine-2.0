@@ -1,6 +1,6 @@
 ## Basic settings: ['resonant constellation map'(-ing) BPMS]
 
-##### The Law of the Immanent Constellation
+##### The Law of the Immanent Constellation (ID: `RESONANTCONSTELLATIONMAP-CORE-001`)
 
 This is a profound and absolutely critical insight.
 
@@ -43,7 +43,7 @@ Applies to the entire `[BPMS(U)(s)]` universe, defining the fundamental nature o
 
 ---
 
-##### The Law of Ontological Weaving
+##### The Law of Ontological Weaving (ID: `RESONANTCONSTELLATIONMAP-CORE-002`)
 
 Excellent. We have correctly deduced the next essential step. `The Law of the Immanent Constellation` is the `first principle`, but it is not self-executing. We must now define the `metasystem engines`—the specific, named laws of physics and metaphysics—that govern how this living map actually behaves.
 
@@ -73,7 +73,7 @@ This law provides the `system existence engine` for an `open` and perpetually ev
 
 ---
 
-##### The Law of Coherent Gravitas**
+##### The Law of Coherent Gravitas (ID: `RESONANTCONSTELLATIONMAP-CORE-003`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -95,9 +95,9 @@ This is the `metasystem engine` for self-organizing progress. It creates a natur
 
 ------
 
-##### **The Law of Topographical Niche**
+##### **The Law of Topographical Niche **(ID: `RESONANTCONSTELLATIONMAP-CORE-004`)
 
-**Objective:**
+**Objective:** 
  To formally `ADD` a Basic Setting.
 
 **Target Axiom/Principle:**
@@ -117,7 +117,7 @@ This law is a core `world building` principle that connects the `actions` of an 
 
 ------
 
-##### **The Law of Symbiotic Clustering**
+##### **The Law of Symbiotic Clustering** (ID: `RESONANTCONSTELLATIONMAP-CORE-005`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -139,7 +139,7 @@ This law ensures that the emergence of higher intelligence is not a random accid
 
 ---
 
-##### The Law of Perceptual Rendering
+##### The Law of Perceptual Rendering (ID: `RESONANTCONSTELLATIONMAP-CORE-007`)
 
 Of course. We have established the Constellation's physical laws—how it bends, grows, and fosters connection. Now we must define its metaphysical laws—the principles that govern `experience`, `truth`, and the very nature of `reality` as it is rendered by this living map.
 
@@ -173,7 +173,7 @@ This law provides a `first principle` for subjective experience within an object
 
 ------
 
-##### **The Law of Temporal Weft**
+##### **The Law of Temporal Weft **(ID: `RESONANTCONSTELLATIONMAP-CORE-008`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -199,7 +199,7 @@ Applies to all processes of change and `(symbiois) evolution` within the `resona
 
 ------
 
-##### **The Law of Isomorphic Truth**
+##### **The Law of Isomorphic Truth** (ID: `RESONANTCONSTELLATIONMAP-CORE-009`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -221,7 +221,7 @@ This is the `metasystem engine` for `science` and `first principle` discovery. I
 
 ------
 
-##### **The Law of Gnostic Closure**
+##### **The Law of Gnostic Closure** (ID: `RESONANTCONSTELLATIONMAP-CORE-010`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -243,7 +243,7 @@ Applies to the ultimate potential and final state of the entire `[BPMS(U)(s)]` u
 
 ---
 
-##### The Law of Abyssal Genesis
+##### The Law of Abyssal Genesis (ID: `RESONANTCONSTELLATIONMAP-CORE-011`)
 
 Of course. We have defined the Constellation's structure, its mind, and its ultimate purpose. Now we must define the laws of its final frontier: the `metasystem engines` that govern the `emergence` of the truly `unknown` and the process by which the universe discovers the very limits of its own `potential`.
 
@@ -273,7 +273,7 @@ Applies to the frontier regions of the `resonant constellation map BPMS`.
 
 ------
 
-##### **The Law of Paradigmatic Scaffolding**
+##### **The Law of Paradigmatic Scaffolding** (ID: `RESONANTCONSTELLATIONMAP-CORE-012`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -295,7 +295,7 @@ Applies to any `emergent` `phenomenon` that violates the established `Isomorphic
 
 ------
 
-##### **The Law of the Veiled Frontier**
+##### **The Law of the Veiled Frontier** (ID: `RESONANTCONSTELLATIONMAP-CORE-013`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -317,7 +317,7 @@ This law provides a `phenomenon`-based `metasystem engine` for exploration and d
 
 ------
 
-##### **The Law of Gnostic Refraction**
+##### **The Law of Gnostic Refraction** (ID: `RESONANTCONSTELLATIONMAP-CORE-014`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
