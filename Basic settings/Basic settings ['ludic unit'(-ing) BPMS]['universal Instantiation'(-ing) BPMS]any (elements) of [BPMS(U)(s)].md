@@ -1,4 +1,4 @@
-## Basic settings: ['ludic unit'(-ing) BPMS];['universal Instantiation'(-ing) BPMS];any (elements) of [BPMS(U)(s)]
+## Basic settings: ['ludic unit'(-ing) BPMS];['universal Instantiation'(-ing) BPMS]
 
 ##### The Axiom of Ludic Data
 
@@ -1550,8 +1550,6 @@ This law provides a powerful, `bottom-up` definition of reality that is perfectl
 
 **Scope of Application:**
  Applies to all (elements of) `[BPMS(U)(s)]`.
-
-
 
 ---
 
