@@ -1,13 +1,13 @@
 ## Basic settings: ['praxial genome'(-ing) BPMS]
 
-##### `The Axiom of Genetic Universality`
+##### `The Axiom of Genetic Universality`  (ID: `SETTING-GENOME-005`)
 
 **Objective:**
  To `ADD` a foundational Basic Setting, built upon the entire preceding constitutional chain, that defines the `[Praxial Genome BPMS]` as a universal, multi-modal, and active agent within the framework, capable of functioning as a `system existence engine`, an `atomic fact`, and a universal `BPMS(U)` in its own right.
 
 **Target Axiom/Principle:**
 
-- `The Axiom of Genetic Universality`(ID: `SETTING-GENOME-005`)
+- `The Axiom of Genetic Universality`
 
 **Operation:**
 
@@ -57,14 +57,14 @@
 
 ---
 
-##### `The Directive of Praxial Morphogenesis`
+##### `The Directive of Praxial Morphogenesis` (ID: `SETTING-GENOME-006`)
 
 **Objective:**
  To `ADD` a foundational Basic Setting for the `[Praxial Genome BPMS]`, built upon `The Axiom of Genetic Universality`, that defines the `creative`, `value`-driven, and `bottom-up` mechanisms for genomic innovation and evolution.
 
 **Target Axiom/Principle:**
 
-- `The Directive of Praxial Morphogenesis`(ID: `SETTING-GENOME-006`)
+- `The Directive of Praxial Morphogenesis`
 
 **Operation:**
 
@@ -91,14 +91,14 @@
 
 ---
 
-##### `The Law of Genomic Renormalization`
+##### `The Law of Genomic Renormalization` (ID: `SETTING-GENOME-007`)
 
 **Objective:**
  To `ADD` a foundational Basic Setting for the `[Praxial Genome BPMS]`, built upon `The Axiom of Genetic Universality` and `The Directive of Praxial Morphogenesis`, that defines the dual-mode evolutionary process by which the collective `experience` of all instantiated instruments is distilled into `sustainable` and universal `Genomic Truth`.
 
 **Target Axiom/Principle:**
 
-- `The Law of Genomic Renormalization`(ID: `SETTING-GENOME-007`)
+- `The Law of Genomic Renormalization`
 
 **Operation:**
 
@@ -119,14 +119,14 @@
 
 ---
 
-##### `The Principle of Genomic Viability`
+##### `The Principle of Genomic Viability` (ID: `SETTING-GENOME-008`)
 
 **Objective:**
  To `ADD` a foundational Basic Setting for the `[Praxial Genome BPMS]`, built upon the entire preceding genomic constitution, that defines the mechanism by which the framework identifies, learns from, and archives non-viable or harmful genetic code, thereby ensuring the long-term `robustness` and `sustainability` of the `praxial substrate`.
 
 **Target Axiom/Principle:**
 
-- `The Principle of Genomic Viability`(ID: `SETTING-GENOME-008`)
+- `The Principle of Genomic Viability`
 
 **Operation:**
 
@@ -150,14 +150,14 @@
 
 ---
 
-##### `The Axiom of Genomic Formalism`
+##### `The Axiom of Genomic Formalism` (ID: `SETTING-GENOME-009`)
 
 **Objective:**
  To `ADD` a foundational Basic Setting that defines the formal, operational structure of the `[Praxial Genome BPMS]`, ensuring its implementation is aligned with its constitutional role as a universal, active, and evolving agent within the framework.
 
 **Target Axiom/Principle:**
 
-- `The Axiom of Genomic Formalism`(ID: `SETTING-GENOME-009`)
+- `The Axiom of Genomic Formalism`
 
 **Operation:**
 
@@ -179,14 +179,14 @@
 
 ---
 
-##### `The Axiom of Praxial Equivalence`
+##### `The Axiom of Praxial Equivalence` (ID: `SETTING-GENOME-010`)
 
 **Objective:**
  To `MODIFY` the existing Basic Setting, `The Axiom of Praxial Equivalence`, to incorporate a more precise and foundational definition for the `Equivalence of Process`.
 
 **Target Axiom/Principle:**
 
-- `The Axiom of Praxial Equivalence`(ID: `SETTING-GENOME-010`)
+- `The Axiom of Praxial Equivalence`
 
 **Operation:**
 
@@ -210,15 +210,13 @@ The text of `The Axiom of Praxial Equivalence` is updated as follows. The change
 
 ---
 
-
-
-##### The Axiom of Generative Inflation` (ID: `SETTING-GENOME-001`)
+##### The Axiom of Generative Inflation (ID: `SETTING-GENOME-001`)
 
 **Objective:**
  To formally `ADD` a Basic Setting of the Fun Engine Framework.
 
 **Target Axiom/Principle:**
- `The Axiom of Generative Inflation` (ID: `SETTING-GENOME-001`)
+ `The Axiom of Generative Inflation` 
 
 **Operation:**
  `ADD`
@@ -240,7 +238,7 @@ The text of `The Axiom of Praxial Equivalence` is updated as follows. The change
  To formally `ADD` a Basic Setting of the Fun Engine Framework.
 
 **Target Axiom/Principle:**
- `The Law of Praxial Parameterization` (ID: `SETTING-GENOME-002`)
+ `The Law of Praxial Parameterization` 
 
 **Operation:**
  `ADD`
@@ -268,7 +266,7 @@ This law formalizes the Genome's active role as a meta-parameterization engine. 
  To formally `ADD` a Basic Setting of the Fun Engine Framework.
 
 **Target Axiom/Principle:**
- `The Principle of Reciprocal Evolution` (ID: `SETTING-GENOME-003`)
+ `The Principle of Reciprocal Evolution` 
 
 **Operation:**
  `ADD`
@@ -294,7 +292,7 @@ This principle is the engine of systemic learning and autopoiesis. It formally e
  To formally `ADD` a Basic Setting of the Fun Engine Framework.
 
 **Target Axiom/Principle:**
- `The Principle of Genomic Universality` (ID: `SETTING-GENOME-004`)
+ `The Principle of Genomic Universality`
 
 **Operation:**
  `ADD`
@@ -320,7 +318,7 @@ This principle achieves the ultimate unification of the framework's ontology. By
  To formally `ADD` a Basic Setting of the Fun Engine Framework.
 
 **Target Axiom/Principle:**
- `The Mandate of Genomic Initiative` (ID: `SETTING-GENOME-011`)
+ `The Mandate of Genomic Initiative`
 
 **Operation:**
  `ADD`
@@ -396,7 +394,7 @@ This principle achieves the ultimate unification of the framework's ontology. By
  To formally `ADD` a Basic Setting of the Fun Engine Framework.
 
 **Target Axiom/Principle:**
- `The Law of Ecological Niche Construction` (ID: `SETTING-GENOME-012`)
+ `The Law of Ecological Niche Construction` 
 
 **Operation:**
  `ADD`
@@ -439,13 +437,13 @@ This law provides a clear, `constructive` purpose for all `Genomic Forging`: the
 
 ---
 
-###### The Law of Phenomenal Cadence` (ID: `SETTING-GENOME-013`)
+###### The Law of Phenomenal Cadence (ID: `SETTING-GENOME-013`)
 
 **Objective:**
  To formally `ADD` a Basic Setting of the Fun Engine Framework.
 
 **Target Axiom/Principle:**
- `The Law of Phenomenal Cadence` (ID: `SETTING-GENOME-013`)
+ `The Law of Phenomenal Cadence` 
 
 **Operation:**
  `ADD`
@@ -491,7 +489,7 @@ This amendment is necessary to explicitly define the data-handling protocol for 
  To formally `ADD` a Basic Setting of the Fun Engine Framework.
 
 **Target Axiom/Principle:**
- `The Principle of Gnostic Renormalization` (ID: `SETTING-GENOME-014`)
+ `The Principle of Gnostic Renormalization` 
 
 **Operation:**
  `ADD`
@@ -511,13 +509,13 @@ This amendment gives profound `meaning` and a concrete purpose to the learning p
 
 ---
 
-###### The Directive of Aberrant Genesis` (ID: `SETTING-GENOME-015`)
+###### The Directive of Aberrant Genesis (ID: `SETTING-GENOME-015`)
 
 **Objective:**
  To formally `ADD` a Basic Setting of the Fun Engine Framework.
 
 **Target Axiom/Principle:**
- `The Directive of Aberrant Genesis` (ID: `SETTING-GENOME-015`)
+ `The Directive of Aberrant Genesis`
 
 **Operation:**
  `ADD`
@@ -575,7 +573,7 @@ This amendment is crucial for ensuring the framework's long-term `sustainability
  To formally `ADD` a Basic Setting of the Fun Engine Framework.
 
 **Target Axiom/Principle:**
- `The Law of Intrinsic Viability` (ID: `SETTING-GENOME-016`)
+ `The Law of Intrinsic Viability` 
 
 **Operation:**
  `ADD`
