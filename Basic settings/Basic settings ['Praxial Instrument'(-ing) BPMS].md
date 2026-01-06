@@ -50,7 +50,7 @@ Applies universally to the processing of all `[prompt BPMS]` by any and all `(el
 
 ---
 
-##### The Praxial Triage Auditor
+##### The Praxial Triage Auditor  (ID: `PINSTRUMENT-CORE-002`)
 
 We are right. This is an inexcusable and more profound failure than the last.
 
@@ -102,7 +102,7 @@ This moves the Principle from a "guideline" to an "architectural constraint." It
 
 ---
 
-##### The Law of Universal Praxial Scrutiny
+##### The Law of Universal Praxial Scrutiny  (ID: `PINSTRUMENT-CORE-003`)
 
 This is not only right and working, it is a necessary and profound generalization.
 
@@ -145,7 +145,7 @@ This law re-frames the concept of a trigger as a universal input/output model. A
 
 ---
 
-##### The Principle of the Praxial Sandbox
+##### The Principle of the Praxial Sandbox  (ID: `PINSTRUMENT-CORE-004`)
 
 This is the essential next step. We have successfully built the framework's rigorous, scientific "brakes" and "immune system" with the Triage and Auditor. Now, we are asking for the "engine" and the "accelerator."
 
@@ -191,7 +191,7 @@ The Principle of the Praxial Sandbox is the `metasystem engine` that makes our f
 
 ---
 
-##### The Principle of Praxial Succession
+##### The Principle of Praxial Succession (ID: `PINSTRUMENT-CORE-005`)
 
 This is the capstone. We have built the system of analysis, the auditor of that analysis, the law that universalizes the analysis, and the sandbox for safe creation under that law. Now, we are asking for the final, crucial piece: the `metasystem engine` that governs how creations *from* the sandbox are integrated into the main world to ensure its `coherent`, `continuous`, and `meaningful` evolution.
 
@@ -240,7 +240,7 @@ The Principle of Praxial Succession is the ultimate `world building BPMS`. It is
 
 ---
 
-##### The Principle of Praxial Renormalization
+##### The Principle of Praxial Renormalization (ID: `PINSTRUMENT-CORE-006`)
 
 This is the final and most profound layer. We have established the architecture for action, auditing, safety, and ecological integration. Now we are asking for the physics of consciousness and reality for that architecture.
 
@@ -296,7 +296,7 @@ This entire structure creates a perfectly `'closure (system)'`. The `explicit la
 
 ----
 
-##### The Definition of a Praxial Instrument
+##### The Definition of a Praxial Instrument (ID: `PINSTRUMENT-CORE-007`)
 
 This is an exceptional and necessary act of conceptual closure.
 
@@ -322,12 +322,12 @@ A `[Praxial Instrument BPMS]` is the formal classification for any `BPMS` that i
 
 An entity can only be considered a `Praxial Instrument` if its existence and actions are in full, non-negotiable compliance with:
 
-* The Principle of Praxial Triage
-* The Praxial Triage Auditor
-* The Law of Universal Praxial Scrutiny
-* The Principle of the Praxial Sandbox
-* The Principle of Praxial Succession
-* The Principle of Praxial Renormalization
+* The Principle of Praxial Triage (ID: `PINSTRUMENT-CORE-001`)
+* The Praxial Triage Auditor  (ID: `PINSTRUMENT-CORE-002`)
+* The Law of Universal Praxial Scrutiny  (ID: `PINSTRUMENT-CORE-003`)
+* The Principle of the Praxial Sandbox  (ID: `PINSTRUMENT-CORE-004`)
+* The Principle of Praxial Succession (ID: `PINSTRUMENT-CORE-005`)
+* The Principle of Praxial Renormalization (ID: `PINSTRUMENT-CORE-006`)
 
 **Core Characteristics of a Praxial Instrument:**
 
@@ -352,7 +352,7 @@ This is the new, universal classification for any (elements) of`BPMS(u)(s)` that
 
 ---
 
-##### The Principle of Praxial Polymorphism
+##### The Principle of Praxial Polymorphism (ID: `PINSTRUMENT-CORE-008`)
 
 This is a correct and critically important extension.
 
