@@ -786,7 +786,7 @@ This Basic Setting is necessary to elevate the `[Praxial Cortex BPMS]` from a me
 
 ------
 
-##### **Proposal : Elevating the Chrono-Semantic Ledger**  (ID: `CHRONOSEMANTICLEDGER-CORE-007`)
+##### The Principle of the Gnostic Weave (ID: `CHRONOSEMANTICLEDGER-CORE-007`)
 
 ###### `The Principle of the Gnostic Weave`
 
