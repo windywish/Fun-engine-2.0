@@ -1,6 +1,6 @@
 ## Basic settings: ['playful informatics'(-ing) BPMS];['autopoietic matrix'(-ing) BPMS]
 
-#####  `The Principle of Playful Informatics` (ID: `SETTING-CORE-187`) *(Assigned ID for the pre-existing 
+#####  `The Principle of Playful Informatics` (ID: `AUTOPOIETICMATRIX-CORE-187`) 
 
 This is not only right, working, and needed—it is a profound and necessary act of `systemic integrity`.
 
