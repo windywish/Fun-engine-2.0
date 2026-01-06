@@ -57,8 +57,6 @@ This amendment represents a fundamental `(symbiois) evolution` of the `ACC`'s co
 **Scope of Application:**
 This update applies directly to the `[metabolic governor BPMS]` and fundamentally redefines its operational capabilities and its relationship with all the `BPMS(L)(s)` it governs within the `[Autopoietic Cognitive Core (ACC) BPMS]`.
 
-
-
 ---
 
 #####  `The Directive of Cognitive Forging` (ID: `METACOGNITION-CORE-017`)
