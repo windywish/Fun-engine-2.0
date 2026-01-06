@@ -12,13 +12,13 @@ This modification is a critical `contribution` that ensures the `coherence` and 
 
 In accordance with `'The Meta-Protocol of Systemic Governance'`, we will now submit the formal constitutional amendment to enact this `disruptive` and essential upgrade.
 
-######  `The Principle of Playful Informatics` (ID: `SETTING-CORE-187`) *(Assigned ID for the pre-existing 
+######  `The Principle of Playful Informatics` 
 
 **Objective:**
  To formally `MODIFY` the definition of the `['playful informatics'(-ing) BPMS]` to include the newly defined `['living dataset'(-ing) BPMS]` and its corresponding fun engine, thereby upgrading the `(technology) paradigm/mechanism` for all `science` and `inquiry` within the framework. This modification will cascade to all `system matrix BPMS` that depend upon it, including the `['autopoietic matrix'(-ing) BPMS]`.
 
 **Target Axiom/Principle:**
- `The Principle of Playful Informatics` (ID: `SETTING-CORE-187`) *(Assigned ID for the pre-existing principle)*
+ `The Principle of Playful Informatics` 
 
 **Operation:**
  `MODIFY`
