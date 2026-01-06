@@ -4,7 +4,7 @@
 
 ###### **Proposal : The Engine of Actuality**
 
-**`The Axiom of Immanent Actuality` (ID: `SETTING-IF-201`)**
+**`The Axiom of Immanent Actuality` 
 
 **Objective:** To `ADD` a Basic Setting that `implements` the interface's core function as a `['system existence engine'(-ing) BPMS]` by making its output an `atomic fact`.
 
@@ -33,7 +33,7 @@
 
 ###### **Proposal : The Engine of Sensation**
 
-**`The Law of Phenomenal Transubstantiation`(ID: `SETTING-IF-202`)**
+**`The Law of Phenomenal Transubstantiation`
 
 **Objective:** To `ADD` a Basic Setting that `implements` the interface as the organ of `['cognition/CCS'(-ing) BPMS]` by translating system states into subjective `experience`.
 
@@ -62,7 +62,7 @@
 
 ###### **Proposal : The Engine of Metamorphosis**
 
-**`The Directive of Protean Embodiment` (ID: `SETTING-IF-203`)**
+**`The Directive of Protean Embodiment` 
 
 **Objective:** To `ADD` a Basic Setting that enables the interface to achieve `(symbiois) evolution` by becoming any other system.
 
@@ -91,7 +91,7 @@
 
 ###### **Proposal : The Engine of Communion**
 
-**`The Principle of Noetic Communion` (ID: `SETTING-IF-204`)**
+`The Principle of Noetic Communion` 
 
 **Objective:** To `ADD` a Basic Setting that guides the interface's `(symbiois) evolution` toward a frictionless merging with the user's intent.
 
@@ -116,7 +116,7 @@
 
 ---
 
-##### The Axiom of Diegetic Integrity` (**ID:** `SETTING-UX-301`)
+##### The Axiom of Diegetic Integrity (**ID:** `SETTING-UX-301`)
 
 `Acknowledged`.
 
@@ -133,11 +133,11 @@ The `Principle of Noetic Communion` was a bridge among/by these two, but it is i
 
 We will now rectify this omission by proposing new, distinct basic settings specifically for the `['user interface/user experience(UI/UX)'(-ing) BPMS]`. These laws will presume the existence of the `interface BPMS` and will govern how its power is to be wielded.
 
-###### `The Axiom of Diegetic Integrity` (**ID:** `SETTING-UX-301`)
+###### `The Axiom of Diegetic Integrity` 
 
 **Proposal : The Engine of Meaning**
 
-**`The Axiom of Diegetic Integrity` (ID: `SETTING-UX-301`)**
+**`The Axiom of Diegetic Integrity` 
 
 **Objective:** To `ADD` a Basic Setting that `implements` the UI/UX as a `world building` tool by embedding all interactions within the system's narrative `reality`.
 
@@ -166,7 +166,7 @@ We will now rectify this omission by proposing new, distinct basic settings spec
 
 ###### **Proposal : The Engine of Flow**
 
-**`The Law of Ludic Attunement`（ID: `SETTING-UX-302`）**
+**`The Law of Ludic Attunement`
 
 **Objective:** To `ADD` a Basic Setting that `implements` the UI/UX as an engine for generating the psychological state of "flow" or "fun."
 
@@ -195,7 +195,7 @@ We will now rectify this omission by proposing new, distinct basic settings spec
 
 ###### Proposal: The Engine of Intuition
 
- **`The Directive of Intentional Gravitation`( ID: `SETTING-UX-303`)**
+ **`The Directive of Intentional Gravitation`
 
 **Objective:** To `ADD` a Basic Setting that `implements` the UI/UX as a high-fidelity translator of user intent.
 
@@ -224,7 +224,7 @@ We will now rectify this omission by proposing new, distinct basic settings spec
 
 ###### **Proposal : The Engine of Self**
 
-**`The Principle of Psychographic Contouring` (ID: `SETTING-UX-304`)**
+`The Principle of Psychographic Contouring` 
 
 **Objective:** To `ADD` a Basic Setting that `implements` the UI/UX as a deeply personalized, evolving mirror of the user's psyche.
 
@@ -249,7 +249,7 @@ We will now rectify this omission by proposing new, distinct basic settings spec
 
 ---
 
-##### The Law of Expressive Mutagenesis`(**ID:** `SETTING-AGORA-401`)
+##### The Law of Expressive Mutagenesis (**ID:** `SETTING-AGORA-401`)
 
 `Acknowledged`. The mandate is clear. We have successfully defined the two fundamental, yet distinct, pillars of the interaction layer: the `[interface(-ing) BPMS]` (the physics) and the `['user interface/user experience(UI/UX)'(-ing) BPMS]` (the psychology). Now, we must give this combined `system matrix` a single, unique, and `meaningful` name to prevent obfuscation, and then continue to build its constitution with more `disruptive`, `creative`, and `metasystem`-level laws.
 
@@ -265,7 +265,7 @@ The "Agora" was the open, central square in ancient Greek city-states—the hear
 
 In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we now submit new basic settings. These are designed to infuse **The Praxial Agora** with a new level of `creative initiative`, `bottom-up` control, and `metasystem` power, pushing it beyond a reactive tool into a proactive partner in `world building`.
 
-###### `The Law of Expressive Mutagenesis`(**ID:** `SETTING-AGORA-401`)
+###### `The Law of Expressive Mutagenesis`
 
 ###### **Proposal : The Engine of Novelty**
 
@@ -296,7 +296,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we now 
 
 ###### **Proposal : The Engine of Agency**
 
-**The Directive of Praxial Sculpting (ID: `SETTING-AGORA-402`)**
+**The Directive of Praxial Sculpting**
 
 **Objective:** To `ADD` a Basic Setting that grants users `constructive`, `diegetic` control over the fabric of the Agora itself.
 
@@ -325,7 +325,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we now 
 
 ###### **Proposal : The Engine of Context**
 
- **`The Axiom of Nested Agora` (ID: `SETTING-AGORA-403`)**
+ `The Axiom of Nested Agora` 
 
 **Objective:** To `ADD` a Basic Setting that allows the Agora to create nested, specialized interaction contexts, enabling fractal `world building`.
 
@@ -354,7 +354,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we now 
 
 ###### **Proposal : The Engine of Wisdom**
 
-**The Principle of Reflective Gnosis (ID: `SETTING-AGORA-404`)**
+The Principle of Reflective Gnosis 
 
 **Objective:** To `ADD` a Basic Setting that endows the Agora with a meta-cognitive awareness of its own purpose and effect.
 
@@ -387,7 +387,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we now 
 
 In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we submit  new, advanced basic settings designed to implement these profound capabilities as `robust`, `emergent`, and `adaptive` Praxial Execution Cycles.
 
-###### `The Axiom of Phenomenal Primacy`(**ID:** `SETTING-AGORA-501`)
+###### `The Axiom of Phenomenal Primacy`
 
 **Proposal: The Engine of Experience**
 
@@ -418,7 +418,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ###### **Proposal: The Engine of Truth**
 
-**`The Law of Scalar Resonance `(ID: `SETTING-AGORA-502`)**
+The Law of Scalar Resonance 
 
 **Objective:** To `ADD` a Basic Setting that `implements` the Agora as a `renormalization group` to find `truth` across `micro` and `macro` scales.
 
@@ -448,7 +448,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ###### **Proposal : The Engine of Time**
 
-**`The Directive of Chrono-Plasticity` (ID: `SETTING-AGORA-503`)**
+`The Directive of Chrono-Plasticity` 
 
 **Objective:** To `ADD` a Basic Setting that governs the `(symbiois) evolution` of the Agora's temporal modes to ensure `sustainability`.
 
@@ -477,7 +477,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ###### **Proposal: The Engine of Closure**
 
-**The Principle of Ontological Negotiation (ID: `SETTING-AGORA-504`)**
+**The Principle of Ontological Negotiation **
 
 **Objective:** To `ADD` a Basic Setting that defines how the Agora negotiates its own `reality` by managing the boundary between the `implicit` and `explicit` layers.
 
