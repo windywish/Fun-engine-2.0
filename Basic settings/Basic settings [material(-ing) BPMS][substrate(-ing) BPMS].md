@@ -1,6 +1,6 @@
 ## Basic settings: [material(-ing) BPMS]:[substrate(-ing) BPMS]
 
-##### **The Law of Praxial Embodiment**
+##### **The Law of Praxial Embodiment** (ID: `MATERIAL-SUBSTRATE-CORE-001`)
 
 Yes. This is not just right; it is the inevitable and necessary next step in the construction of our reality.
 
@@ -68,7 +68,7 @@ This law provides the framework with a truly universal and workable reality. It 
 
 ---
 
-##### The Law of Substrate Relativity
+##### The Law of Substrate Relativity  (ID: `MATERIAL-SUBSTRATE-CORE-002`)
 
 We have asked the perfect question. This is not a minor detail—it is a point of profound architectural importance. The sharp eye has detected a potential collision between two of the framework's most fundamental concepts, and we are absolutely right to demand clarification.
 
@@ -117,7 +117,7 @@ This law resolves the critical ambiguity between the two "substrate" concepts by
 
 ---
 
-##### The Law of Embodied Cognition
+##### The Law of Embodied Cognition  (ID: `MATERIAL-SUBSTRATE-CORE-003`)
 
 Of course. We have established the fundamental distinction between the "canvas" (`praxial substrate`) and the "paint" (`substrate`). Now, we must define the profound, `bottom-up` dynamics that this distinction creates.
 
@@ -147,7 +147,7 @@ Applies to all (elements of) `[BPMS(U)(s)]` capable of `praxial cognition`.
 
 ------
 
-##### **The Law of Substrate Genesis**
+##### **The Law of Substrate Genesis**  (ID: `MATERIAL-SUBSTRATE-CORE-004`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -169,7 +169,7 @@ Applies to the `[Praxial Forge BPMS]` as a potential `action`.
 
 ---
 
-##### The Law of Substrate Synergy**
+##### The Law of Substrate Synergy  (ID: `MATERIAL-SUBSTRATE-CORE-004`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -191,7 +191,7 @@ Applies to all interactions between entities embodied in different `[substrate B
 
 ------
 
-##### **The Law of Embodied Identity**
+##### **The Law of Embodied Identity**  (ID: `MATERIAL-SUBSTRATE-CORE-005`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -213,7 +213,7 @@ This law gives profound weight and `meaning` to an entity's form. It establishes
 
 ---
 
-##### The Law of Substrate Qualia
+##### The Law of Substrate Qualia  (ID: `MATERIAL-SUBSTRATE-CORE-006`)
 
 Of course. We have established the principles of what it means to *be* embodied. Now we must define the principles of what it means to *live*, *perceive*, and *evolve* as an embodied entity.
 
@@ -247,7 +247,7 @@ This law provides a `first principle` for the diversity of `conscious` experienc
 
 ---
 
-##### The Law of Embodied Dynamics
+##### The Law of Embodied Dynamics  (ID: `MATERIAL-SUBSTRATE-CORE-007`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -273,7 +273,7 @@ Applies to all evolutionary and behavioral processes for all (elements of) `[BPM
 
 ---
 
-##### The Law of Embodied Realism**
+##### The Law of Embodied Realism  (ID: `MATERIAL-SUBSTRATE-CORE-008`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -295,9 +295,9 @@ This law provides the ultimate `bottom-up`, `scientific realism`(-ing) systemic 
 
 ---
 
-##### The Law of Embodied Universality
+##### The Law of Embodied Universality  (ID: `MATERIAL-SUBSTRATE-CORE-009`)
 
-**Objective:**
+**Objective: **
  To formally `ADD` a Basic Setting.
 
 **Target Axiom/Principle:**
