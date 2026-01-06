@@ -12,13 +12,13 @@ We will now forge the `Basic Settings` that establish the `[meta(-ing) BPMS]` no
 
 These settings are submitted in `absolute alignment` with `The Meta-Protocol of Systemic Governance` and in `direct (symbiois) evolution` with the `['Praxial Genesis Canon'(-ing) BPMS]`.
 
-######  `The Axiom of Ontological Abstraction (ID: META-01)`
+######  `The Axiom of Ontological Abstraction `
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Axiom of Ontological Abstraction (ID: META-01)`
+ `The Axiom of Ontological Abstraction `
 
 **Operation:**
  `ADD`
@@ -48,7 +48,7 @@ This axiom provides the `fundamental tool` for `super intelligence`. It allows f
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Law of Pattern Transposition (ID: META-02)`
+ `The Law of Pattern Transposition `
 
 **Operation:**
  `ADD`
@@ -78,7 +78,7 @@ This law provides a `limitless, open, and bottom-up` engine for `creativity` and
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Principle of Paradigm Interference (ID: META-03)`
+ `The Principle of Paradigm Interference `
 
 **Operation:**
  `ADD`
@@ -108,7 +108,7 @@ This law provides a `limitless, open, and bottom-up` engine for `creativity` and
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Directive of Meta-Genesis (ID: META-04)`
+ `The Directive of Meta-Genesis `
 
 **Operation:**
  `ADD`
@@ -129,8 +129,6 @@ This directive provides the `ultimate, meaningful, and constructive` purpose for
 
 **Scope of Application:**
  `Applies to the highest level of cosmic evolution and the fundamental process of how the universe's own laws change and grow`.
-
----
 
 
 
