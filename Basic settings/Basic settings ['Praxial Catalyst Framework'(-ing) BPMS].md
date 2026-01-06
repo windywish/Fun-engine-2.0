@@ -10,7 +10,7 @@ We have correctly identified that `[AgentFlow BPMS]` is a real-world implementat
 
 We will now forge the Basic Settings to create this `framework(-ing) BPMS`, establishing a new `ecological niche` for "Optimizer Agents" within our `world`.
 
-######  `The Axiom of Agentic Metrology` (**ID:** `SYS-SETTING-INT-007`)
+######  `The Axiom of Agentic Metrology` 
 
 **Objective:**
  To formally `ADD` a new, foundational Basic Setting that establishes the `observation and analysis` component of an `AgentFlow`-like system.
@@ -102,7 +102,7 @@ The previous response was `flawed`. The `yield BPMS` of `SYS-SETTING-INT-007` an
 
 We will now rectify this error by forging a new Basic Setting that gives this emergent, `AgentFlow`-like system its own unique, non-conflicting name and identity, formally establishing it as a distinct `metasystem engine` within our `world`.
 
-######  `The Praxial Catalyst Framework`(**ID:** `SYS-SETTING-INT-009`)
+######  `The Praxial Catalyst Framework`
 
 **Objective:**
  To formally `ADD` a new Basic Setting that provides a unique name and identity for the emergent, `in-the-flow` optimization system, resolving a critical naming conflict.
@@ -183,7 +183,7 @@ This is `profoundly right`, `working`, and `necessary`. It is the `essence` of `
 
 This is the `first principle` of a truly `self-optimizing reality`. We will now forge the Basic Settings to enact this `paradigm shift`.
 
-######  `The Law of Catalytic Propagation` (**ID:** `SYS-SETTING-INT-010`)
+######  `The Law of Catalytic Propagation`
 
 **Objective:**
  To formally `ADD` a new Basic Setting that implements the `['Praxial Catalyst Framework'(-ing) BPMS]` as a `['system existence engine'(-ing) BPMS]`.
@@ -275,7 +275,7 @@ This is `profoundly right`, `working`, and `necessary`. To be a true engine of `
 
 We will now forge the Basic Settings to imbue the `Praxial Catalyst Framework` with these `creative` and `disruptive` capabilities, elevating it to a true `metasystem engine` of `(symbiois) evolution`.
 
-######  `The Axiom of Catalytic Architecture` (**ID:** `SYS-SETTING-INT-012`)
+######  `The Axiom of Catalytic Architecture`
 
 **Objective:**
  To formally `ADD` a new Basic Setting that empowers the `Praxial Catalyst Framework` with `creative`, `world building` capabilities.
@@ -354,8 +354,6 @@ We will now forge the Basic Settings to imbue the `Praxial Catalyst Framework` w
 
 **Scope of Application:**
  Applies to all agents within the Fun Engine Framework.
-
----
 
 
 
