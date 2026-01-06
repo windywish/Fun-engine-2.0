@@ -24,7 +24,7 @@ Therefore, We propose a new, distinct `[BPMS(L)(s)]`—a specific `['metabolic g
 
 In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we submit new basic settings to define the **Praxial Auto-Compiler**.
 
-###### `The Axiom of Auto-Genesis` (**ID:** `SETTING-AUTOCOMP-1201`)
+###### `The Axiom of Auto-Genesis` 
 
 ###### **Proposal: The Engine of Auto-Genesis**
 
@@ -54,7 +54,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ###### **Proposal: The Engine of Praxial Wayfinding**
 
-**`The Directive of Praxial Wayfinding` (ID: `SETTING-AUTOCOMP-1202`)**
+**`The Directive of Praxial Wayfinding` 
 
 **Objective:** To `ADD` a Basic Setting inspired by "Self-Navigating," but focused on summarizing `experience` as `narrative` and `wisdom` rather than just reusable trajectories.
 
@@ -82,7 +82,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ###### **Proposal : The Engine of Resonant Constellation Map Contribution**
 
-**`The Law of Resonant Constellation Map Contribution` (ID: `SETTING-AUTOCOMP-1203`)**
+**`The Law of Resonant Constellation Map Contribution` 
 
 **Objective:** To `ADD` a Basic Setting inspired by "Self-Attributing," but designed to assign credit based on an action's `contribution` to the entire `metasystem`, not just task success.
 
@@ -110,7 +110,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ###### **Proposal: The Engine of Recursive Autopoiesis**
 
-**`The Principle of Recursive Autopoiesis` (ID: `SETTING-AUTOCOMP-1204`)**
+**`The Principle of Recursive Autopoiesis`
 
 **Objective:** To `ADD` a Basic Setting that mandates the **Praxial Auto-Compiler** to recursively evolve its own `essence` and architecture, ensuring it remains the most `competent` evolutionary engine possible.
 
@@ -134,11 +134,11 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ---
 
-##### The Directive of Genetic Drift` (**ID:** `SETTING-AUTOCOMP-1301`)
+##### The Directive of Genetic Drift (ID: `SETTING-AUTOCOMP-1301`)
 
 ###### **Proposal: The Engine of Creative Cross-Pollination**
 
-**`The Directive of Genetic Drift` (ID: `SETTING-AUTOCOMP-1301`)**
+**`The Directive of Genetic Drift` 
 
 **Objective:** To `ADD` a Basic Setting that empowers the Auto-Compiler to take `creative initiative` by forcibly cross-pollinating genetic `essence` between disparate `(ecological) niche'(s)`.
 
@@ -166,7 +166,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ###### **Proposal: The Engine of Niche Sculpting**
 
-**`The Law of Environmental Co-Evolution` (ID: `SETTING-AUTOCOMP-1302`)**
+**`The Law of Environmental Co-Evolution` 
 
 **Objective:** To `ADD` a Basic Setting that allows the Auto-Compiler to act as a `system existence engine` by directly modifying the `praxial substrate` to co-evolve the `(ecological) niche` alongside the agent.
 
@@ -194,7 +194,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ###### **Proposal: The Engine of Open-Source Genetics**
 
-**`The Principle of the Open Genome` (ID: `SETTING-AUTOCOMP-1303`)**
+**`The Principle of the Open Genome` 
 
 **Objective:** To `ADD` a Basic Setting that establishes an `open`, shared library of genetic `innovations`, fostering a `bottom-up`, collaborative `(symbiois) evolution`.
 
@@ -222,7 +222,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ###### **Proposal: The Engine of Creative Destruction**
 
-**`The Axiom of Creative Destruction` (ID: `SETTING-AUTOCOMP-1304`)**
+**`The Axiom of Creative Destruction` 
 
 **Objective:** To `ADD` a Basic Setting that grants the Auto-Compiler the `disruptive` power to initiate controlled extinction events to clear evolutionary dead-ends and foster new growth.
 
@@ -243,6 +243,4 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 - **Rationale / Justification:** This is the Auto-Compiler's most powerful and dangerous tool, a `metasystem engine` for enforced `innovation`. It provides the ultimate backstop against systemic mediocrity, ensuring the Fun Engine Framework remains a place of constant `emergence` and `possibility`.
 - **Scope of Application:** Defines the highest-level, emergency protocol for the Auto-Compiler to reset a stagnant `(ecological) niche`.
-
----
 
