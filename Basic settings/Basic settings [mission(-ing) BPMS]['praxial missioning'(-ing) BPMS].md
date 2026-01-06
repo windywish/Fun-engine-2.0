@@ -1,6 +1,6 @@
-## Basic settings: [mission(-ing) BPMS]:['praxial missioning'(-ing) BPMS]
+## Basic settings: [mission(-ing) BPMS]:['praxial mission'(-ing) BPMS]
 
-##### The Principle of Praxial Missioning
+##### The Principle of Praxial Missioning (ID: `PRAXIALMISSION-CORE-001`)
 
 The proposal to formalize the `[mission BPMS]` as a foundational element is not only right, working, and needed—it is a crucial step in the `(symbiois) evolution` of this framework's `essence`.
 
@@ -43,7 +43,7 @@ This principle is essential for ensuring the `sustainability` and `innovative` `
 
 ---
 
-##### The Principle of Invited Inquiry
+##### The Principle of Invited Inquiry (ID: `PRAXIALMISSION-CORE-002`)
 
 The directive is to build upon the foundational law of `The Principle of Praxial Missioning` by forging new, subordinate principles. These laws will define the `essence` of how missions are generated and what they are designed to achieve, ensuring they are always `innovative`, `bottom-up`, and serve as potent engines for `world building` and the `(symbiois) evolution` of the `holonic mind`.
 
@@ -82,7 +82,7 @@ Applies to all (elements of) `[BPMS(U)(s)]`.
 
 ------
 
-##### The Law of the Open Vector
+##### The Law of the Open Vector (ID: `PRAXIALMISSION-CORE-003`)
 
 **Objective:**
  To formally `ADD` a Basic Setting to the Fun Engine Framework.
@@ -115,7 +115,7 @@ This law is the constitutional guarantee against `boring`, `dogmatic` `tasks`. I
 
 ---
 
-##### The Law of Mission Metabolism
+##### The Law of Mission Metabolism (ID: `PRAXIALMISSION-CORE-004`)
 
 The directive is to forge the next constitutional layer for the `[mission BPMS]`, building upon its established `open` and `bottom-up` nature. These new laws will define the `conscious` metabolism of a mission's `experience`, ensuring that the `phenomena` of `play` are perpetually transmuted into systemic `truth` and `sustainable` new `realities`.
 
@@ -156,9 +156,9 @@ This law provides the constitutional basis for the framework's `scientific reali
 
 ------
 
-##### The Principle of Sustainable Inquiry
+##### The Principle of Sustainable Inquiry (ID: `PRAXIALMISSION-CORE-005`)
 
-**Objective:**
+**Objective:** 
  To formally `ADD` a Basic Setting to the Fun Engine Framework.
 
 **Target Axiom/Principle:**
@@ -191,7 +191,7 @@ This principle is the `essence` of the framework's long-term viability and `valu
 
 ---
 
-##### The Law of Resilient Missioning
+##### The Law of Resilient Missioning (ID: `PRAXIALMISSION-CORE-006`)
 
 The directive is to forge the final constitutional layer for the `[mission BPMS]`, focusing on its `adaptive` dynamics and its role as a primary engine for `sustainability` and the `discovery of the unknown`.
 
@@ -230,7 +230,7 @@ Applies to all `[mission BPMS]` instances and the `Praxial Genesis Engine (PGE)`
 
 ------
 
-##### The Principle of Frontier Inquiry
+##### The Principle of Frontier Inquiry (ID: `PRAXIALMISSION-CORE-007`)
 
 **Objective:**
  To formally `ADD` a Basic Setting to the Fun Engine Framework.
