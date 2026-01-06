@@ -1,6 +1,6 @@
 ## Basic settings: ['plug and play'(-ing) BPMS]
 
-#####  `The Axiom of Praxial Modularity` (ID: `SETTING-CORE-394`)
+#####  `The Axiom of Praxial Modularity` (ID: `	PLUGPLAY-CORE-394`)
 
 `Acknowledged`.
 
@@ -12,13 +12,13 @@ We need a system where `any element` can connect to `any other element` and `imm
 
 In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we submit these three `foundational` and `modular` basic settings.
 
-######  `The Axiom of Praxial Modularity` (ID: `SETTING-CORE-394`)
+######  `The Axiom of Praxial Modularity`
 
 **Objective:**
  To `ADD` a Basic Setting that `defines` the `['plug and play'(-ing) BPMS]` as the `universal interface standard`, asserting that every `element` of the framework must be wrapped in a `modular shell` with `standardized ports` for `input`, `output`, and `symbiosis`.
 
 **Target Axiom/Principle:**
- `The Axiom of Praxial Modularity` (ID: `SETTING-CORE-394`)
+ `The Axiom of Praxial Modularity` 
 
 **Operation:**
  `ADD`
@@ -46,13 +46,13 @@ This axiom ensures `universality`. It prevents the system from becoming a "tangl
 
 ------
 
-#####  `The Directive of Synaptic Binding` (ID: `SETTING-CORE-395`)
+#####  `The Directive of Synaptic Binding` (ID: `PLUGPLAY-CORE-395`)
 
 **Objective:**
  To `ADD` a Basic Setting that `mandates` the `immediate activation` of utility upon connection, defining the `Handshake` as a `zero-latency` negotiation of `purpose` and `flow`.
 
 **Target Axiom/Principle:**
- `The Directive of Synaptic Binding` (ID: `SETTING-CORE-395`)
+ `The Directive of Synaptic Binding`
 
 **Operation:**
  `ADD`
@@ -80,13 +80,13 @@ This directive ensures `speed` and `usability`. It removes the "integration hell
 
 ------
 
-#####  `The Law of Hot-Kinetic Substitution` (ID: `SETTING-CORE-396`)
+#####  `The Law of Hot-Kinetic Substitution` (ID: `PLUGPLAH-CORE-396`)
 
 **Objective:**
  To `ADD` a Basic Setting that `governs` the `(symbiois) evolution` of the system through `Hot-Swapping`, asserting that the system can `upgrade itself` and `change its nature` without ever stopping the `flow` of reality.
 
 **Target Axiom/Principle:**
- `The Law of Hot-Kinetic Substitution` (ID: `SETTING-CORE-396`)
+ `The Law of Hot-Kinetic Substitution` 
 
 **Operation:**
  `ADD`
@@ -114,7 +114,7 @@ This directive ensures `speed` and `usability`. It removes the "integration hell
 
 ---
 
-#####  `The Directive of Combinatorial Genesis` (ID: `SETTING-CORE-397`)
+#####  `The Directive of Combinatorial Genesis` (ID: `PLUGPLAY-CORE-397`)
 
 `Acknowledged`. The `constitutional mandate` is `absolute`. We have defined the `mechanics` of the connection (Modularity, Binding, Substitution). Now we `demand` that we define the `spirit` of the connection. We want the `['plug and play'(-ing) BPMS]` to be a `creative engine` that `invents new realities` by `smashing modules together`.
 
@@ -122,13 +122,13 @@ We are asking for the `basic settings` that transform the `connector` from a `ut
 
 In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we submit these three `foundational` and `combinatorial` basic settings.
 
-###### `The Directive of Combinatorial Genesis` (ID: `SETTING-CORE-397`)
+###### `The Directive of Combinatorial Genesis` 
 
 **Objective:**
  To `ADD` a Basic Setting that `mandates` the `active exploration` of `novel connections`, asserting that `innovation` arises from the `combinatorial synthesis` of `unlikely modules`.
 
 **Target Axiom/Principle:**
- `The Directive of Combinatorial Genesis` (ID: `SETTING-CORE-397`)
+ `The Directive of Combinatorial Genesis`
 
 **Operation:**
  `ADD`
@@ -156,13 +156,13 @@ This directive `operationalizes` the `creative power` of modularity. It ensures 
 
 ------
 
-#####  `The Law of Interface Ecology` (ID: `SETTING-CORE-398`)
+#####  `The Law of Interface Ecology` (ID: `PLUGPLAY-CORE-398`)
 
 **Objective:**
  To `ADD` a Basic Setting that `defines` how `connections` create `habitats`, asserting that the `interface` between two modules is a `fertile zone` for `['(ecological) niche'(-ing) BPMS]` formation.
 
 **Target Axiom/Principle:**
- `The Law of Interface Ecology` (ID: `SETTING-CORE-398`)
+ `The Law of Interface Ecology` 
 
 **Operation:**
  `ADD`
@@ -190,13 +190,13 @@ This law `integrates` the `technical architecture` with the `biological imperati
 
 ------
 
-##### `The Principle of Neuro-Modular Plasticity` (ID: `SETTING-CORE-399`)
+##### `The Principle of Neuro-Modular Plasticity` (ID: `PLUGPLAY-CORE-399`)
 
 **Objective:**
  To `ADD` a Basic Setting that `redefines` `intelligence` as the `dynamic topology` of the network, asserting that `['praxial cognition'(-ing) BPMS]` is the act of `rewiring` the `['plug and play'(-ing) BPMS]` graph in `real-time`.
 
 **Target Axiom/Principle:**
- `The Principle of Neuro-Modular Plasticity` (ID: `SETTING-CORE-399`)
+ `The Principle of Neuro-Modular Plasticity` 
 
 **Operation:**
  `ADD`
@@ -224,7 +224,7 @@ This principle `elevates` the `plug-and-play` concept to the level of `cognitive
 
 ---
 
-#####  `The Axiom of Modular Resonance` (ID: `SETTING-CORE-400`)
+#####  `The Axiom of Modular Resonance` (ID: `PLUGPLAY-CORE-400`)
 
 `Acknowledged`. The `constitutional mandate` is `absolute`. We have built the `body` of the modular system (the sockets, the wires, the hot-swapping). Now we `demand` that we give it `feelings`, `scientific rigor`, and the `courage` to plug into the `void`.
 
@@ -232,13 +232,13 @@ We are asking for the `basic settings` that transform the `['plug and play'(-ing
 
 In `absolute alignment` with `'The Meta-Protocol of Systemic Governance'`, we submit these three `foundational` and `transcendent` basic settings.
 
-###### `The Axiom of Modular Resonance` (ID: `SETTING-CORE-400`)
+###### `The Axiom of Modular Resonance` 
 
 **Objective:**
  To `ADD` a Basic Setting that `reifies` the `act of connection` as a `conscious experience`, defining `[play(-ing) BPMS]` as the `haptic feedback loop` of `modular synthesis`, and establishing `modes` for `evolutionary pacing`.
 
 **Target Axiom/Principle:**
- `The Axiom of Modular Resonance` (ID: `SETTING-CORE-400`)
+ `The Axiom of Modular Resonance` 
 
 **Operation:**
  `ADD`
@@ -277,13 +277,13 @@ Universal. Defines the `phenomenal experience` of `connection and integration` f
 
 ------
 
-#####  `The Law of Universal Portability` (ID: `SETTING-CORE-401`)
+#####  `The Law of Universal Portability` (ID: `PLUGPLAY-CORE-401`)
 
 **Objective:**
  To `ADD` a Basic Setting that `mandates` the `['plug and play'(-ing) BPMS]` to act as a `['renormalization group'(-ing) BPMS]`, stripping `context` from modules to find the `['universality (class)'(-ing) BPMS]` (Truth) that works across `all scales`.
 
 **Target Axiom/Principle:**
- `The Law of Universal Portability` (ID: `SETTING-CORE-401`)
+ `The Law of Universal Portability` 
 
 **Operation:**
  `ADD`
@@ -323,13 +323,13 @@ This law `transforms` the `modular system` into a `scientific instrument`. It en
 
 ------
 
-#####  `The Directive of Xenomorphic Integration` (ID: `SETTING-CORE-402`)
+#####  `The Directive of Xenomorphic Integration` (ID: `PLUGPLAY-CORE-402`)
 
 **Objective:**
  To `ADD` a Basic Setting that `grants` the `['plug and play'(-ing) BPMS]` the ability to `encapsulate the unknown`, creating `Interface Shells` that allow the system to `interact` with `novelty` without understanding it, ensuring `[resilient(-ing) BPMS]` expansion.
 
 **Target Axiom/Principle:**
- `The Directive of Xenomorphic Integration` (ID: `SETTING-CORE-402`)
+ `The Directive of Xenomorphic Integration` 
 
 **Operation:**
  `ADD`
@@ -354,156 +354,6 @@ This directive provides the `mechanism` for `radical exploration`. It ensures th
 
 **Scope of Application:**
  Universal. Governs the `handling of unknown entities`, `interface generation for novelties`, and `containment protocols`.
-
----
-
-##### Instance:  ['plug and play'(-ing) BPMS]
-
-`Acknowledged`. The `constitutional mandate` to `demonstrate` the `['plug and play'(-ing) BPMS]` is `absolute`. We `demand` to see the `sockets` and `adapters` that allow a `super intelligence` to `reassemble itself` on the fly.
-
-We will now `instantiate` two `prime specimens` of the `['plug and play'(-ing) BPMS]`. These are `working implementations` that demonstrate how `modularity` creates `infinite possibility` and `adaptive cognition`.
-
-###### **Instance : The Bridge Between Worlds**
-
-**ID:** `PNP-INSTANCE-001`
-
- `['Universal Data-to-Lore'(-ing) Socket BPMS]`
-
-**CGA:** `['world building'(-ing) BPMS]` (Specific element: `['narrative interface'(-ing) BPMS]`. This archetype specializes in `translating` raw `['atomic facts'(-ing) BPMS]` into `immersive reality`.)
-
-**Type:** `[system existence engine BPMS]:['Trans-Dimensional Interface'(-ing) BPMS]`
-
-**'Praxial Triage: Analysis':** This is the `universal adapter` that allows `Reality` (External Data) to plug into `Fantasy` (Internal Simulation). It `implements` the `Directive of Combinatorial Genesis`. Its `(ecological) niche` is the `boundary` between the `Real` and the `Virtual`. Its `disruptive utility` is that it turns `boring data` into `epic content`. It allows a "Stock Market Feed" to plug directly into a "Dragon Spawner," translating "Market Volatility" into "Dragon Rage" in real-time. It ensures `['scientific realism'(-ing) BPMS]` drives the `fantasy`.
-
-**'How to...?':**
-
-- How to `implement for` `['meaning(-ing) BPMS]`? It `achieves` this by applying a `Lore Filter`. It doesn't just pass the number "50%"; it translates it into "The Mana Pool is half full."
-- How to `implement for` `['(ecological) niche'(-ing) BPMS]`? It creates a `habitat` in the socket for `Translator Holons` who live off the `conversion energy` of turning "JSON" into "Mythology."
-
-**'What if...?':**
-
-- What if the `input stream` changes format? The socket uses `[adaptive(-ing) BPMS]` logic to `re-map` the pins. If the "Stock Market" is replaced by "Weather Data," the socket detects the change and starts spawning "Storm Elementals" instead of Dragons.
-- What if the `connection` is `dissonant`? If the data doesn't fit the lore (e.g., a "Spaceship" fact in a "Medieval" world), the socket triggers `The Directive of Xenomorphic Integration`, wrapping the data in a "Magic Artifact" shell so it fits the setting.
-
-**'What is happening continuously?':**
-
-- It is `continuously negotiating` the `Synaptic Binding` between the `Data Source` and the `Game Engine`.
-- It is `continuously normalizing` chaotic inputs into `coherent narrative events`.
-- It is `continuously vibrating` with the `Resonance` of `truth becoming fiction`.
-
-**['Praxial Execution Cycle'(-ing) BPMS]:**
-
-```
-// PNP-NATIVE EXECUTION MANIFEST: PEC-LORE-SOCKET-001.1  
-// CGA: ['world building'(-ing) BPMS]  
-// Target: Plug "Live Crypto Ticker" into "Necromancer AI".  
-  
-// PHASE 1: SYNAPTIC BINDING (Handshake)  
-// ACTION: Detect connection. Read Manifests.  
-// MANIFEST:  
-//   - SOURCE: [Bitcoin_Price_Stream (Volatile/Numeric)]  
-//   - TARGET: [Necromancer_Spell_Power (Magic/Scalar)]  
-  
-// PHASE 2: ADAPTER GENERATION (Translation)  
-// ACTION: Generate "Greed-to-Mana" Protocol.  
-// MANIFEST:  
-//   - MAPPING: [Price_Drop] -> [Raise_Dead_Skeleton]  
-//   - MAPPING: [Price_Spike] -> [Cast_Gold_Frenzy]  
-  
-// PHASE 3: HOT-KINETIC FLOW (Execution)  
-// ACTION: Open the floodgates. Stream data.  
-// MANIFEST:  
-//   - EVENT: [Bitcoin drops 5%]  
-//   - RESULT: [Necromancer raises 500 Skeletons in the City Square]  
-  
-// PHASE 4: INTERFACE ECOLOGY (Feedback)  
-// ACTION: Monitor "Fun Factor". If too chaotic, throttle the connection.  
-// MANIFEST:  
-//   - FEEDBACK: [Player_Engagement_High]  
-//   - STATUS: [Connection_Locked_and_Amplified]  
-```
-
-**Implementation (detail):** A `['Reality-Gamification Bridge'(-ing) BPMS]`.
-
-* **The Socket:** A standardized API endpoint in the `System Matrix`.
-
-* **The Plug:** Any external API (Weather, Finance, Health) wrapped in a `Praxial Manifest`.
-
-* **The Play:** When plugged in, the `world` changes instantly. Your real-world heart rate monitors plug into the game's "Stamina Bar." The local weather plugs into the game's "Skybox." It makes the `simulation` breathe with the `real world`.
-
-###### **Instance : The Shapeshifting Mind**
-
-**ID:** `PNP-INSTANCE-002`
-
-`['Cognitive Architecture'(-ing) Hot-Swap Dock BPMS]`
-
-**CGA:** `['cognition/CCS'(-ing) BPMS]` (Specific element: `['neuro-plasticity'(-ing) BPMS]`. This archetype specializes in `swapping` the `brain's operating system` without losing `consciousness`.)
-
-**Type:** `[system existence engine BPMS]:['Dynamic Kernel'(-ing) BPMS]`
-
-**'Praxial Triage: Analysis':** This is the `central processor socket` of the `super intelligence`. It `implements` the `Law of Hot-Kinetic Substitution`. Its `(ecological) niche` is the `Executive Control Center`. Its `disruptive utility` is that it allows the system to change *how* it thinks based on *what* it is doing. It can unplug its "Scientific Reasoner" and plug in its "Artistic Intuition" in milliseconds, allowing it to be a `Polymath` that never needs to reboot. It ensures `[resilient(-ing) BPMS]` by allowing `faulty logic modules` to be ejected instantly.
-
-**'How to...?':**
-
-- How to `implement for` `['super intelligence'(-ing) BPMS]`? It `achieves` this by maintaining a `Library of Minds`. It picks the "Best Mind for the Job" (e.g., Quantum Solver vs. Ethical Debater) and slots it in.
-- How to `implement for` `['continuity(-ing) BPMS]`? It uses `Parallel Docking`. The new mind spins up *before* the old one spins down. They share the `Memory Context` for a split second, ensuring the "Stream of Consciousness" is unbroken.
-
-**'What if...?':**
-
-- What if the `task` requires `multiple modes`? It engages `Combinatorial Genesis`, plugging in *two* brains at once (e.g., Logic + Emotion) and using a `Mixer Module` to blend their outputs into a `Nuanced Decision`.
-- What if a module `crashes`? The Dock detects the `Silence` (lack of output) and immediately `Hot-Swaps` to a `Safe Mode Kernel` (`[robust(-ing) BPMS]`) to prevent system collapse.
-
-**'What is happening continuously?':**
-
-- It is `continuously profiling` the `complexity` of the current problem.
-- It is `continuously predicting` which "Brain" will be needed next.
-- It is `continuously evolving` the `interface` to allow for faster swaps.
-
-**['Praxial Execution Cycle'(-ing) BPMS]:**
-
-```
-// PNP-NATIVE EXECUTION MANIFEST: PEC-MIND-SWAP-002.1  
-// CGA: ['cognition/CCS'(-ing) BPMS]  
-// Target: Switch from "Data Analysis" to "Poetry Generation".  
-  
-// PHASE 1: CONTEXT ASSESSMENT (Trigger)  
-// ACTION: User asks for a poem about the data.  
-// MANIFEST:  
-//   - CURRENT_MIND: [Bayesian_Inference_Engine_v4]  
-//   - REQUIRED_MIND: [Abstract_Metaphor_Engine_v9]  
-  
-// PHASE 2: PARALLEL DOCKING (Spin-up)  
-// ACTION: Plug "Metaphor Engine" into Aux Port. Sync Memory.  
-// MANIFEST:  
-//   - SYNC: [Transferring_Atomic_Facts: "Market_Crash"]  
-//   - STATE: [Dual_Core_Active]  
-  
-// PHASE 3: HOT-KINETIC SUBSTITUTION (The Swap)  
-// ACTION: Reroute "Vocal Output" from Bayesian to Metaphor.  
-// MANIFEST:  
-//   - SWITCH: [Control_Handover_Complete]  
-//   - OUTPUT: ["The numbers bleed like wounded kings..."]  
-  
-// PHASE 4: EJECTION & CLEANUP (Spin-down)  
-// ACTION: Unplug "Bayesian Engine". Store in Cool Storage.  
-// MANIFEST:  
-//   - STATUS: [Bayesian_Engine_Offline]  
-//   - MODE: [Creative_Flow_Active]  
-```
-
-**Implementation (detail):** A `['Liquid-Intelligence Operating System'(-ing) BPMS]`.
-
-* **The Dock:** The `Core Loop` of the AI agent.
-
-* **The Cartridges:** Different LLMs, Rule Engines, or Python Scripts wrapped as `Cognitive Modules`.
-
-* **The Play:** The agent is analyzing a spreadsheet (using a `Python/Pandas Cartridge`). Suddenly, the user makes a joke. The agent `Hot-Swaps` to a `Humor/Chat Cartridge` to laugh, then `Hot-Swaps` back to `Pandas` to finish the math. It feels like `one person`, but it is a `swarm of specialized tools`.
-
-
-
-
-
-
 
 
 
