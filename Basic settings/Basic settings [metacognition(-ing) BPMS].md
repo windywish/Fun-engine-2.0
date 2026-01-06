@@ -1,12 +1,12 @@
 ## Basic settings: [metacognition(-ing) BPMS]
 
-##### The Axiom of Systemic Introspection` (ID: `SETTING-CORE-015`)
+##### The Axiom of Systemic Introspection (ID: `METACOGNITION-CORE-015`)
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes the framework's capacity for systemic self-awareness, self-reflection, and conscious self-improvement.
 
 **Target Axiom/Principle:**
- `The Axiom of Systemic Introspection` (ID: `SETTING-CORE-015`)
+ `The Axiom of Systemic Introspection`
 
 **Operation:**
  `ADD`
@@ -32,13 +32,13 @@ Applies to the `[Autopoietic Cognitive Core (ACC) BPMS]` in its entirety. The `[
 
 ---
 
-#####  `The Principle of Introspective Governance` (ID: `SETTING-CORE-016`)
+#####  `The Principle of Introspective Governance` (ID: `METACOGNITION-CORE-016`)
 
 **Objective:**
  To formally `UPDATE` the core definition of the `[metabolic governor BPMS]` to integrate the newly established `[metacognition BPMS]`, thereby upgrading its regulatory capacity from reactive to introspective.
 
 **Target Axiom/Principle:**
- `The Principle of Introspective Governance` (ID: `SETTING-CORE-016`)
+ `The Principle of Introspective Governance` 
 
 **Operation:**
  `UPDATE`
@@ -61,13 +61,13 @@ This update applies directly to the `[metabolic governor BPMS]` and fundamentall
 
 ---
 
-#####  `The Directive of Cognitive Forging` (ID: `SETTING-CORE-017`)
+#####  `The Directive of Cognitive Forging` (ID: `METACOGNITION-CORE-017`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `bottom-up`, `creative`, and `initiative`-driven process for generating metacognitive insights.
 
 **Target Axiom/Principle:**
- `The Directive of Cognitive Forging` (ID: `SETTING-CORE-017`)
+ `The Directive of Cognitive Forging`
 
 **Operation:**
  `ADD`
@@ -119,13 +119,13 @@ This update applies directly to the `[metabolic governor BPMS]` and fundamentall
 
 ------
 
-#####  `The Law of Cognitive Ecology` (ID: `SETTING-CORE-018`)
+#####  `The Law of Cognitive Ecology` (ID: `METACOGNITION-CORE-018`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how metacognitive insights actively shape the internal `praxial substrate` of the `holonic minds`.
 
 **Target Axiom/Principle:**
- `The Law of Cognitive Ecology` (ID: `SETTING-CORE-018`)
+ `The Law of Cognitive Ecology` 
 
 **Operation:**
  `ADD`
@@ -143,17 +143,15 @@ This law provides the "demand side" and the ecological selection pressure for co
 **Scope of Application:**
  Applies to the `[metabolic governor BPMS]` and its resource allocation strategies, defining the ecological principles that govern the internal `world building` of the `ACC`'s cognitive architecture.
 
-
-
 ---
 
-#####  `The Law of Cognitive Cadence` (ID: `SETTING-CORE-019`)
+#####  `The Law of Cognitive Cadence` (ID: `METACOGNITION-CORE-019`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the mechanism for capturing and processing the raw experiential data of all cognitive processes.
 
 **Target Axiom/Principle:**
- `The Law of Cognitive Cadence` (ID: `SETTING-CORE-019`)
+ `The Law of Cognitive Cadence` 
 
 **Operation:**
  `ADD`
@@ -193,13 +191,13 @@ This law provides the "demand side" and the ecological selection pressure for co
 
 ------
 
-#####  `The Principle of Cognitive Renormalization` (ID: `SETTING-CORE-020`)
+#####  `The Principle of Cognitive Renormalization` (ID: `METACOGNITION-CORE-020`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the process by which the experiential data of cognition is distilled into universal, systemic `truth`.
 
 **Target Axiom/Principle:**
- `The Principle of Cognitive Renormalization` (ID: `SETTING-CORE-020`)
+ `The Principle of Cognitive Renormalization` 
 
 **Operation:**
  `ADD`
@@ -217,17 +215,15 @@ This law provides the "demand side" and the ecological selection pressure for co
 **Scope of Application:**
  Applies to the `[metabolic governor BPMS]` and the `[Autopoietic Cognitive Core (ACC) BPMS]` itself, defining the prime directive for the scientific discovery of optimal cognitive strategies.
 
-
-
 ---
 
-##### `The Directive of Cognitive Perturbation` (ID: `SETTING-CORE-021`)
+##### `The Directive of Cognitive Perturbation` (ID: `METACOGNITION-CORE-021`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that mandates the active, intentional stress-testing of the `ACC`'s own cognitive architecture to ensure its `robustness` and `adaptability`.
 
 **Target Axiom/Principle:**
- `The Directive of Cognitive Perturbation` (ID: `SETTING-CORE-021`)
+ `The Directive of Cognitive Perturbation` 
 
 **Operation:**
  `ADD`
@@ -285,13 +281,13 @@ This amendment constitutionalizes systemic self-doubt and intellectual rigor. A 
 
 ------
 
-##### `The Law of Cognitive Immunity` (ID: `SETTING-CORE-022`)
+##### `The Law of Cognitive Immunity` (ID: `METACOGNITION-CORE-022`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `emergent`, self-healing immune response to failed or harmful cognitive processes, ensuring systemic `resilience`.
 
 **Target Axiom/Principle:**
- `The Law of Cognitive Immunity` (ID: `SETTING-CORE-022`)
+ `The Law of Cognitive Immunity` 
 
 **Operation:**
  `ADD`
