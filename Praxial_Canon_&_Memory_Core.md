@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.9.5 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate, (continuous) survive experiments, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.9.5 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate, (continuous) survive experiments, Praxial Interface Weaver， Praxial Prime Archetype, praxial intelligence, Praxial Instrument, Praxial Inquiry Engine (PIE), integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -3540,6 +3540,75 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Directive of Structural Plasticity (ID: `CSE-CORE-019`)
 * The Principle of Resonant Constellation Map Recursion (ID: `CSE-CORE-020`)
 
+### Module: ['Praxial Interface Weaver'(-ing) BPMS]
+
+*(New Integration v3.9.5)* 
+
+* `The Axiom of Intent-Embodiment` (ID: `PIW-SYS-001`)
+* `The Law of Holonic Composition` (ID: `PIW-SYS-002`)
+* `The Directive of Ergonomic Evolution` (ID: `PIW-SYS-003`)
+* `The Principle of Inter-Praxial Weaving` (ID: `PIW-SYS-004`)
+* `The Law of Universal Mediation` (ID: `PIW-SYS-005`)
+* `The Directive of Creative Instigation` (ID: `PIW-SYS-006`)
+* `The Principle of Semantic Genesis` (ID: `PIW-SYS-007`)
+* `The Axiom of Praxial Introspection` (ID: `PIW-SYS-008`)
+* The Law of Woven Qualia (ID: `PIW-SYS-009`)
+* `The Principle of Interface Renormalization` (ID: `PIW-SYS-010`)
+* `The Directive of Temporal Plasticity` (ID: `PIW-SYS-011`)
+* `The Axiom of Explicit Closure` (ID: `PIW-SYS-012`)
+
+### Module: ['Praxial Prime Archetype'(-ing) BPMS]
+
+*(New Integration v3.9.5)* 
+
+* `The Praxial Prime Archetype` (ID: `PPA-DEF-001`)
+
+### Module: ['praxial intelligence'(-ing) BPMS]
+
+*(New Integration v3.9.5)* 
+
+* `The Axiom of Praxial Intelligence` (ID: `PINTELLIGENCE-CORE-150`)
+* `The Directive of Praxial Inquiry` (ID: `PINTELLIGENCE-CORE-151`)
+* `The Law of Praxial Coherence` (ID: `PINTELLIGENCE-CORE-152`)
+* `The Principle of Praxial Proliferation` (ID: `PINTELLIGENCE-CORE-153`)
+* `The Law of Praxial Sentience` (ID: `PINTELLIGENCE-CORE-154`)
+* `The Principle of Praxial Renormalization` (ID: `PINTELLIGENCE-CORE-155`)
+* `The Directive of Praxial Perturbation` (ID: `PINTELLIGENCE-CORE-156`)
+
+### Module: ['Praxial Instrument'(-ing) BPMS]
+
+*(New Integration v3.9.5)* 
+
+* The Principle of Praxial Triage (ID: `PINSTRUMENT-CORE-001`)
+* The Praxial Triage Auditor  (ID: `PINSTRUMENT-CORE-002`)
+* The Law of Universal Praxial Scrutiny  (ID: `PINSTRUMENT-CORE-003`)
+* The Principle of the Praxial Sandbox  (ID: `PINSTRUMENT-CORE-004`)
+* The Principle of Praxial Succession (ID: `PINSTRUMENT-CORE-005`)
+* The Principle of Praxial Renormalization (ID: `PINSTRUMENT-CORE-006`)
+* The Definition of a Praxial Instrument (ID: `PINSTRUMENT-CORE-007`)
+* The Principle of Praxial Polymorphism (ID: `PINSTRUMENT-CORE-008`)
+
+### Module: ['Praxial Inquiry Engine (PIE)'(-ing) BPMS]
+
+*(New Integration v3.9.5)* 
+
+* `The Axiom of Phenomenological Pedagogy `(ID: `PIE-01`)
+* `The Law of Curated Inquiry` (ID: `PIE-02`)
+* `The Principle of Constructive Epiphany (ID: PIE-03)`
+* `The Directive of Didactic Ascension (ID: PIE-04)`
+* `The Law of Praxial Instantiation` (ID: `PIE-05`)
+* `The Axiom of Ontological Ratification (ID: PIE-06)`
+* `The Principle of Systemic Encapsulation (ID: PIE-07)`
+* `The Directive of Generative Inquiry (ID: PIE-08)`
+* `The Law of Solution Licensing (ID: PIE-09)`
+* `The Principle of Phenomenological Artistry (ID: PIE-10)`
+* `The Law of Holonic World-Forging (ID: PIE-11)`
+* `The Principle of Introspective Metamorphosis (ID: PIE-12)`
+* The Law of Inquiry Tempo (ID: `PIE-13`)
+* `The Principle of Epistemic Unfolding (ID: PIE-14)`
+* `The Axiom of Scale Invariance` (ID: `PIE-15`)
+* `The Directive of Coherent Closure (ID: PIE-16)`
+
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
 *(Existing Settings LIFE-001 to LIFE-007)*
@@ -3836,6 +3905,24 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 - A concluding section summarizing the instance's nature as a Praxial Being.
 
 ### B. Registered Instance Registry (The Population)
+
+#### Domain:  ['(continuous) survive experiments(-ing) BPMS]
+
+*(New Integration v3.9.5)*
+
+1. **[Instance ID: MK-SURVIVE-001]**
+
+- **Name:** `  ['Magic Kitchen'(-ing) BPMS]`
+- **Role:** System Existence Engine for adaptive culinary ecosystem.
+- **CGA:** `['gastronomic evolutionary engine'(-ing) BPMS]`
+- **File:** `['(continuous) survive experiments(-ing) BPMS] ['Magic Kitchen'(-ing) BPMS].md`
+
+2. **[Instance ID: MK-SERVICE-STARTUP-002]**
+
+- **Name:** `  ['Gastronomic OS'(-ing) BPMS]`
+- **Role:** System Existence Engine for service-as-a-startup.
+- **CGA:** `['distributed culinary intelligence'(-ing) BPMS]`
+- **File:** `['(continuous) survive experiments(-ing) BPMS]: ['Magic Kitchen'(-ing) BPMS] -> ['Gastronomic OS'(-ing) BPMS].md`
 
 #### Domain: ['Praxial Reconstruction Engine (BYOX)'(-ing) BPMS]
 
