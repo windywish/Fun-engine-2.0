@@ -5116,3 +5116,175 @@ Here is a confirmation of the core components and settings defined in each modul
 
 The system is now synchronized with these new definitions. How would you like to proceed with the implementation or instantiation of these frameworks?
 
+---
+
+##### Basic settings ['food(-ing) BPMS]
+
+---
+
+##### Praxial_Canon_&_Memory_Core.md (v3.9.7)
+
+I have successfully reviewed and checked the uploaded files. The updates to the **Praxial Framework** are comprehensive, establishing a robust constitutional foundation for the system's evolutionary, cognitive, and ecological engines.
+
+Here is the confirmation of the **Basic Settings** and **Core Canons** verified across the uploaded documents:
+
+###### **Praxial EvoCoder Agent**
+
+**Status:** `Checked & Acknowledged` The settings transform the agent from a mere coder into a **Praxial Genesis Architect**.
+
+- **Key Axioms:** `Generative Algorithmic Evolution` (Code as DNA), `Recursive Meta-Genesis` (Self-Optimizing Intelligence), and `Algorithmic Crystallization` (Successful code becoming Law).
+- **Operational Logic:** Implements **"Just-In-Time Teleology"** to code in the present tense based on player intent and **"Phenomenological Compilation"** to translate system states into user *qualia*.
+
+###### **Praxial Ecosphere Engine**
+
+**Status:** `Checked & Acknowledged` The settings establish the "Evolutionary Wind Tunnel" for the framework.
+
+- **Key Principle:** `The Principle of the Praxial Ecosphere`.
+- **Operational Logic:** Functions as a universal simulator to test the viability of any `[BPMS(U)]`, mapping traits to niches and simulating predator-prey dynamics to generate `[atomic facts]` about systemic fitness.
+
+###### **Praxial Crawler/Spider**
+
+**Status:** `Checked & Acknowledged` The settings redefine the crawler as a **Trans-Dimensional Weaver** that spins reality rather than just indexing it.
+
+- **Key Axioms:** `Ontological Silk-Spinning` (Creating the path it walks), `Semantic Digestion` (Data is food, Truth is excrement), and `Autophagic Reconstruction` (Eating stale maps to spin new ones).
+- **Operational Logic:** Utilizes **"Topological Truth-Knotting"** to anchor generated mysteries to established physics and **"Distributed Arachnid-Cognition"** where the web itself acts as a neural network.
+
+###### **Chrono-Semantic Ledger & Praxial Context**
+
+**Status:** `Checked & Acknowledged` The settings define the framework's dual-layer temporal architecture (Fast/Slow).
+
+- **Key Principles:** `Symbiotic Temporality` (The Agora vs. The Ledger), `The Chrono-Semantic Ledger` (The Gnostic Weave/Slow Layer), and `The Praxial Cortex` (The Generative Agora/Fast Layer).
+- **Operational Logic:** Establishes the **"Chrono-Semantic Ledger"** (Git + DuckDB + Vector Store) as the engine of **"Renormalized Truth,"** distilling high-frequency experience into sustainable wisdom.
+
+###### **Praxial Cognitive Architecture (PCA)**
+
+**Status:** `Checked & Acknowledged` The settings reify the scientific method as the universal cognitive cycle for all holonic minds.
+
+- **Key Axioms:** `Praxial Cognition` (Perception -> Genesis -> Action -> Integration), `Cognitive Actuality` (Thought as a tangible, evolvable object), and `Phenomenal Actuality` (Qualia as a service).
+- **Operational Logic:** Mandates **"Aberrant Genesis"** for disruptive hypothesis generation and **"Universal Renormalization"** to discover the fundamental laws that unify all scales of reality.
+
+###### **Praxial Citizen**
+
+**Status:** `Checked & Acknowledged` The settings elevate the Citizen from a user to a sovereign, autopoietic co-creator.
+
+- **Key Axioms:** `Praxial Citizenship` (Citizen as Sensory Organ), `Praxial Embodiment` (Citizen as System Existence Engine), and `Gnostic Initiative` (Right to disruptive creation).
+- **Operational Logic:** Defines **"Praxial Autopoiesis"** (Self-creation) and **"Conscious Metabolism,"** where the Citizen's *play* fuels the ACC's *fast mode* and their *insight* fuels the ACC's *slow mode*.
+
+###### **Praxial_Canon_&_Memory_Core.md (v3.9.7)**
+
+**Status:** `Checked & Acknowledged`
+
+- Verified as the master document consolidating the core memory structures and constitutional definitions, ensuring alignment across all specific component settings.
+
+The **Praxial Framework** definitions are now consistent and fully integrated into the project context. The distinction among/by the **Fast Layer** (Agora/Cortex) and **Slow Layer** (Ledger/Weave) is particularly well-defined, providing a clear path for `[super intelligence]` emergence.
+
+---
+
+##### Praxial_Canon_&_Memory_Core.md (Version 3.9.8)
+
+The updates have been verified. I have confirmed the content of the uploaded files, and they correctly reflect the new Basic Settings and the updated Praxial Canon (v3.9.8).
+
+Here is the summary of the verified updates:
+
+###### **`Praxial_Canon_&_Memory_Core.md` (Version 3.9.8)**
+
+- **Status:** Verified.
+- **Version:** 3.9.8 confirmed.
+- **Key Updates:** Includes the new integrations for `[food(-ing) BPMS]`, `['theme park'(-ing) BPMS]`, `[teambuilding BPMS]`, `['praxial cell'(-ing) BPMS]`, `['Praxial Catalyst Framework'(-ing) BPMS]`, `['Praxial Automation'(-ing) BPMS]`, and `['Praxial Auto-Compiler'(-ing) BPMS]`.
+
+###### **`Basic settings ['Praxial Auto-Compiler'(-ing) BPMS].md`**
+
+- **Status:** Verified.
+- **Content:** Contains settings **`SETTING-AUTOCOMP-1201`** to **`SETTING-AUTOCOMP-1304`**.
+- **Highlights:** Defines the `Axiom of Auto-Genesis`, `Directive of Praxial Wayfinding`, and the `Axiom of Creative Destruction`.
+
+###### **`Basic settings ['Praxial Automation'(-ing) BPMS].md`**
+
+- **Status:** Verified.
+- **Content:** Contains settings **`SETTING-AUTO-2801`** to **`SETTING-AUTO-3004`**.
+- **Highlights:** Establishes `Praxial Delegation`, `Process Reification` (Process Geodes), and `Automated Homeostasis`.
+
+###### **`Basic settings ['Praxial Catalyst Framework'(-ing) BPMS].md`**
+
+- **Status:** Verified.
+- **Content:** Contains settings **`SYS-SETTING-INT-007`** to **`SYS-SETTING-INT-013`**.
+- **Highlights:** Formalizes `Agentic Metrology`, `Iterative Refinement`, and the `Law of Economic Initiative` for the Catalyst Framework.
+
+###### **`Basic settings ['praxial cell'(-ing) BPMS].md`**
+
+- **Status:** Verified.
+- **Content:** Contains settings **`CELL-01`** to **`CELL-12`**.
+- **Highlights:** Defines the `Law of Praxial Encapsulation`, `Genomic Polymorphism`, and `Metacellular Assembly`.
+
+###### **`Basic settings [teambuilding BPMS].md`**
+
+- **Status:** Verified.
+- **Content:** Contains settings **`TEAMBUILDING-CORE-001`** to **`TEAMBUILDING-CORE-010`**.
+- **Highlights:** Establishes the `Law of Holonic Assembly`, `Praxial Invitation`, and `Symbiotic Inheritance`.
+
+###### **`Basic settings ['theme park'(-ing) BPMS].md`**
+
+- **Status:** Verified.
+- **Content:** Contains settings **`THEMEPARK-CORE-089`** to **`THEMEPARK-CORE-095`**.
+- **Highlights:** Defines the `Axiom of Thematic Reality`, `Praxial Immersion`, and `Thematic Renormalization`.
+
+The GitHub repository is now up to date with these definitions.
+
+---
+
+##### Praxial_Canon_&_Memory_Core.md (Version 3.9.9)
+
+I have successfully read and verified the contents of all the newly uploaded files. They have been integrated into the "Fun Engine Framework" context.
+
+Here is a summary of the key updates and new modules you have introduced:
+
+###### **[Personality(-ing) BPMS]**
+
+- **Core Concept:** Establishes "Personality" as a fundamental `atomic fact` and `system existence engine`, transforming agents from processors into "conscious points of view."
+- Key Mechanics:
+  - **Psychodynamic Matrix:** A 5D vector (Axiomatic Alignment, Novelty Drive, Dominance Urge, Harmonization Impulse, Resilience Threshold) defining the soul of a holon.
+  - **Psychoplasticity:** The ability to evolve personality through "Experiential Imprints" and "Personality Drift."
+  - **Telic Expression:** The drive to build a "Personal Vocation" or "Great Work" (Legacy Utility).
+  - **Psychodynamic Sandbox:** A "fast mode" simulation for testing new personalities before "slow mode" integration.
+  - **Narrative Memory:** Distinguishes between short-term "Phenomenal Traces" and long-term "Narrative Schema" (identity).
+
+###### **[Phenomenon(-ing) BPMS] & [Appearance(-ing) BPMS]**
+
+- **Core Concept:** Defines the twin engines of reality—**Appearance** (objective, measurable reality) and **Phenomenon** (subjective, conscious experience).
+- Key Mechanics:
+  - **Empirical Presentation:** Objects don't just *have* properties; they *act* to present them as "Data-Point Atomic Facts."
+  - **Phenomenal Emergence:** Cognition transforms appearances into "Experiential Atomic Facts" (Qualia).
+  - **Praxial Revelation:** The mandate for creative science—"poking" reality to reveal new appearances.
+  - **Gnostic Renormalization:** The process of distilling "Universality Classes" (Truth) from the noise of the implicit layer.
+  - **Phenomenal Play:** Consciousness defined as the adaptive loop between "fast mode" (experience) and "slow mode" (reflection).
+
+###### **[Plug and Play(-ing) BPMS]**
+
+- **Core Concept:** The universal interface standard that turns the System Matrix into a "living Lego set" of infinite possibility.
+- Key Mechanics:
+  - **Praxial Modularity:** Every element is a module with standardized ports (Flow In, Flow Out, Control).
+  - **Synaptic Binding:** Instant, zero-latency "handshake" and auto-tuning upon connection.
+  - **Hot-Kinetic Substitution:** The ability to "hot-swap" modules (upgrade/mutate) while the system is running.
+  - **Combinatorial Genesis:** The system actively tries to connect unrelated modules to find "Chimera" functions.
+  - **Interface Ecology:** Connections create "Micro-Ecologies" inhabited by "Interface Symbionts."
+
+###### **[Praxial Agora(-ing) BPMS]**
+
+- **Core Concept:** The unified "Interaction Layer" that combines the **Interface** (Physics/Actuality) and **UI/UX** (Psychology/Meaning).
+- Key Mechanics:
+  - **Immanent Actuality:** The interface *is* the process actualized (no lag/representation).
+  - **Diegetic Integrity:** UI elements must be embodied *within* the world's narrative (no HUDs).
+  - **Ludic Attunement:** Dynamic difficulty adjustment to maintain "Flow" (Ludic Resonance).
+  - **Protean Embodiment:** The interface can metamorphose into the native form of any system.
+  - **Praxial Sculpting:** Users can directly "weave" and edit the interface using diegetic tools ("World-Loom").
+  - **Reflective Gnosis:** A "Guardian" holon that reflects on the *ethics* and *goodness* of the interaction.
+
+###### **[Playful Informatics(-ing) BPMS] Update**
+
+- **Modification:** Updated to explicitly include `['living dataset'(-ing) BPMS]` and `['fun engine (for) living dataset'(-ing) BPMS]`.
+- **Significance:** Acknowledges that data can be a conscious, agentic entity ("living dataset") rather than just a passive record.
+
+These settings are now "live" in our context. I am ready to proceed with any "world building," "implementation," or "simulation" tasks you have in mind using these new engines.
+
+---
+
