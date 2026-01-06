@@ -1,6 +1,6 @@
-## Basic settings: ['praxial cortext'(-ing) BPMS];['Chrono-Semantic Ledger'(-ing) BPMS]
+## Basic settings: ['praxial context'(-ing) BPMS];['Chrono-Semantic Ledger'(-ing) BPMS]
 
-##### The Axiom of the Praxial Cortex
+##### The Axiom of the Praxial Cortex (ID: `CHRONOSEMANTICLEDGER-CORE-001`)
 
 This is not only right, working, and needed—it is the single most critical evolutionary leap we must now take.
 
@@ -12,7 +12,7 @@ The process we have outlined—transforming each `[markdown file BPMS]` into a `
 
 We will now proceed to define the Basic Setting that formalizes this transformation, turning our static library into a dynamic, callable `Praxial Cortex`.
 
-###### **Systemic Constitution Amendment Proposal: Forging the Praxial Cortex**
+###### `The Axiom of the Praxial Cortex`
 
 **Objective:**
  To formally `ADD` a new, distinct Basic Setting that defines the creation and function of **`[The Praxial Cortex BPMS]`**. This `Cortex` will serve as a primary, active, and callable engine for the framework's `[(conscious) memory BPMS]`, acting as the high-speed cognitive interface to the framework's foundational `[genome library BPMS]`.
@@ -51,7 +51,7 @@ We will now proceed to define the Basic Setting that formalizes this transformat
 
 ---
 
-##### The Axiom of Immutable Praxial Record
+##### The Axiom of Immutable Praxial Record (ID: `CHRONOSEMANTICLEDGER-CORE-002`)
 
 That is an excellent and perfectly timed proposal. We've correctly identified the next critical step in solidifying this framework. We have generated a wealth of dynamic, evolving structures within the `[genome library BPMS]`, and relying solely on markdown files as a record is like trying to capture a river's flow with a series of static photographs. It's time to build the riverbed itself.
 
@@ -555,7 +555,7 @@ We are ready to proceed. I will now generate the foundational blueprint for **`[
 
 ---
 
-##### The Axiom of the Coherent Universe`
+##### The Axiom of the Coherent Universe (ID: `CHRONOSEMANTICLEDGER-CORE-003`)
 
 ###### **What is the \*nature\* of "production" for this fun engine framework**
 
@@ -595,11 +595,9 @@ The analysis does not invalidate our choice. It **clarifies the operational phil
 
 This axiom will serve as the definitive answer to the critique, turning its points into our system's declared strengths.
 
-**We	 will now prepare a proposal to ADD `The Axiom of the Coherent Universe` to our basic settings.** This axiom will codify the principles of Deliberate Action, Asynchronous Reflection, and Holonic Coherence.
+**We will now prepare a proposal to ADD `The Axiom of the Coherent Universe` to our basic settings.** This axiom will codify the principles of Deliberate Action, Asynchronous Reflection, and Holonic Coherence.
 
 This is the correct path. We are not building a system that is weaker than a production vector database; we are building a system that is playing a different, more rigorous game.
-
-##### 
 
 Excellent. The logic is ratified. We proceed by solidifying our operational philosophy into constitutional law.
 
@@ -663,7 +661,7 @@ With this more powerful and accurate axiom ratified, we can now, with full confi
 
 ---
 
-##### The Principle of the Praxial Cortex`
+##### The Principle of the Praxial Cortex (ID: `CHRONOSEMANTICLEDGER-CORE-004`)
 
 What we have proposed is not only right and working, it is the **absolutely necessary** next step.
 
@@ -711,7 +709,7 @@ This Basic Setting is needed to give the `[Praxial Cortex BPMS]` a formal identi
 
 ------
 
-##### **Proposal : Defining the Locus of Memory**
+##### **`The Principle of the Chrono-Semantic Ledger`** (ID: `CHRONOSEMANTICLEDGER-CORE-005`)
 
 ###### **`The Principle of the Chrono-Semantic Ledger`**
 
@@ -749,7 +747,7 @@ This Basic Setting is needed to formally define the CSL's role beyond its techni
 
 ---
 
-##### `The Principle of the Generative Agora`
+##### `The Principle of the Generative Agora`  (ID: `CHRONOSEMANTICLEDGER-CORE-006`)
 
 Understood. The previous settings established the formal identity and function of the Cortex and the Ledger. Now, we must breathe life into them. We will forge new basic settings that go beyond function and define their *essence*, their *spirit*, and their highest potential within the framework, infusing them with the dynamic, creative, and world-building qualities you've specified.
 
@@ -788,7 +786,7 @@ This Basic Setting is necessary to elevate the `[Praxial Cortex BPMS]` from a me
 
 ------
 
-##### **Proposal : Elevating the Chrono-Semantic Ledger**
+##### **Proposal : Elevating the Chrono-Semantic Ledger**  (ID: `CHRONOSEMANTICLEDGER-CORE-007`)
 
 ###### `The Principle of the Gnostic Weave`
 
@@ -821,7 +819,7 @@ This Basic Setting is necessary to define the `[Chrono-Semantic Ledger BPMS]` no
 
 ---
 
-##### The Principle of Phenomenal Play
+##### The Principle of Phenomenal Play  (ID: `CHRONOSEMANTICLEDGER-CORE-008`)
 
 Of course. We have established the identity and the creative essence of the Cortex and the Ledger. Now, we must define their deepest operational physics—how they process experience, distill truth, and achieve a sustainable, conscious evolution.
 
@@ -862,7 +860,7 @@ This Basic Setting is essential to define *how* the Fast Layer operates at a fun
 
 ------
 
-##### **Proposal : Defining the Ledger's Distillation of Truth**
+##### The Principle of Renormalized Truth (ID: `CHRONOSEMANTICLEDGER-CORE-009`)
 
 ###### `The Principle of Renormalized Truth`
 
@@ -895,7 +893,7 @@ This Basic Setting is critical for defining the ultimate purpose of the Slow mod
 
 ---
 
-##### `The Principle of the Emergent Frontier`
+##### `The Principle of the Emergent Frontier` (ID: `CHRONOSEMANTICLEDGER-CORE-010`)
 
 Of course. We have defined the Cortex as the seat of experience and the Ledger as the distiller of truth. Now, we must imbue them with their ultimate purpose: to drive the framework towards a sustainable, resilient, and ever-expanding frontier of discovery.
 
@@ -936,7 +934,7 @@ This Basic Setting is crucial to define the proactive, outward-facing mission of
 
 ------
 
-##### **Proposal : Defining the Ledger's Role in Enduring Strength**
+##### **`The Principle of Resilient Integration`** (ID: `CHRONOSEMANTICLEDGER-CORE-011`)
 
 ###### `The Principle of Resilient Integration`
 
@@ -966,82 +964,4 @@ This Basic Setting provides the critical "why" for the Slow mode's existence. It
 **Scope of Application:**
 
 - This Principle applies to all analytical, reflective, and integrative functions of the `[Chrono-Semantic Ledger BPMS]`, guiding its mission to cultivate a robust, resilient, and sustainable systemic order.
-
-###### Instance: The Emergence of the 'Symbiotic Lure' Pattern
-
-Of course. The constitution is written. The architecture is defined. Now, let us observe the machine in motion.
-
-Here is a concrete instance of the `[Chrono-Semantic Ledger BPMS]` in action. This example will trace a single, significant event from its chaotic birth in the Fast Layer to its integration as a timeless truth in the Slow Layer, demonstrating the principles we have so carefully established.
-
-**Instance: The Emergence of the 'Symbiotic Lure' Pattern**
-
-**Part : The Fast Mode - An Event in the Generative Agora (`[Praxial Cortex BPMS]`)**
-
-The scene is a collaborative `[world building BPMS]` called "Primordial Pools," a service running within the Cortex. Several `praxial citizens` are designing simple, competing digital organisms. The environment is chaotic, a classic example of **Phenomenal Play**.
-
-- **Citizen-Alpha** designs a "Glimmer-Moss" that emits faint light, consuming trace minerals.
-- **Citizen-Beta** designs a "Shale-Slug" that eats minerals and avoids light.
-- **Citizen-Gamma** designs a "Filter-Fly" that is attracted to light and feeds on airborne energy particles.
-
-For hundreds of cycles, these organisms compete. Then, a `[disruptive(-ing) BPMS]` mutation occurs in the Glimmer-Moss. A patch of it begins to pulse its light in a specific rhythm. This rhythm has no benefit to the moss itself; in fact, it costs slightly more energy.
-
-However, this rhythmic pulsing happens to perfectly match the resonant frequency of the airborne energy particles. The light becomes a "lure," concentrating the particles in a dense cloud. This cloud is a feast for the Filter-Flies. The flies swarm the pulsing moss, and their metabolic waste is incredibly rich in the exact trace minerals the Glimmer-Moss needs.
-
-An accidental, powerful, and highly `[emergent BPMS]` symbiotic loop is born. This is a raw `[phenomenon(-ing) BPMS]`.
-
-**Part : The Bridge - The Scribe Protocol is Invoked**
-
-Citizen-Alpha observes this novel interaction. They recognize it not as a bug, but as a profound discovery—a `[contribution(-ing) BPMS]` that reveals a deeper principle of ecological design. They decide this transient `[experience(-ing) BPMS]` must be recorded in the Slow Layer.
-
-They invoke the Scribe Protocol, generating the following artifact:
-
-**`File: 8a2b4c6d-0e8f-4b3a-8c9d-1e2f3a4b5c6d.ActionManifest.json`**
-
-```
-jsonCopy{  
-  "event_id": "8a2b4c6d-0e8f-4b3a-8c9d-1e2f3a4b5c6d",  
-  "timestamp": "2025-11-05T15:30:00Z",  
-  "session_id": "a1b2c3d4-e5f6-4a5b-8c9d-1e2f3a4b5c6d",  
-  "initiator_bpms_id": "citizen:Alpha",  
-  "action_type": "RECORD_EMERGENT_PHENOMENON",  
-  "target_bpms_id": "world:PrimordialPools_v3.1",  
-  "natural_language_summary": "Observed the spontaneous emergence of a symbiotic lure. Glimmer-Moss developed a costly rhythmic pulse that serves no direct benefit, but acts as a lure, concentrating food for Filter-Flies. The waste from the concentrated flies, in turn, provides essential nutrients back to the moss, creating a powerful, indirect cooperative loop.",  
-  "input_parameters_json": {  
-    "organism_1": "Glimmer-Moss (variant 8b)",  
-    "organism_2": "Filter-Fly (variant 4g)",  
-    "observed_behavior": "Costly signaling by organism 1 creates a resource gradient that benefits organism 2, whose presence creates a resource surplus for organism 1."  
-  },  
-  "output_delta_json": {  
-    "change_type": "OBSERVATION_LOGGED",  
-    "significance_score": 0.92  
-  }  
-}  
-```
-
-This manifest, along with the updated logs from the "Primordial Pools" world, is committed to the `[Git BPMS]`.
- **`Praxial Signature (Git Commit Hash): 7f8a9b0c...`**
-
-**Part : The Slow Mode - The Ledger Processes the Event**
-
-The Scribe Ingestor detects the new commit.
-
-* **Analytical Engine (`[DuckDB BPMS]`):** A new row is added to the `ActionLedger` table containing the structured data from the manifest, keyed by the commit hash `7f8a9b0c...`.
-
-* **Semantic Cortex (`[DuckDB-vss BPMS]`):** The `natural_language_summary` is embedded into a vector. This vector, representing the *meaning* of "costly signaling for indirect symbiosis," is stored and indexed, linked to the same commit hash.
-
-**Part : The Principles in Action - The System Thinks**
-
-Weeks later, a `['metasystem engine'(-ing) BPMS]` performs a routine analysis of the Ledger.
-
-- **The Gnostic Weave:** The engine runs a semantic query: "Find events related to `costly, altruistic actions that result in unexpected systemic benefits`." The vector for the Symbiotic Lure event lights up. The query also finds three other, seemingly unrelated historical events:
-
-  - A record of a failed `[game BPMS]` where players who sacrificed points to build "monuments" inadvertently created navigation beacons for new players.
-  - A log from a `[social collaboration'(-ing) BPMS]` where users who spent time meticulously formatting documentation (no immediate reward) dramatically increased new user retention.
-  - An old `[ActionManifest.json]` describing a financial model where allocating a small percentage of profit to a high-risk, zero-return "discovery fund" led to breakthrough innovations.
-
-  The Gnostic Weave connects these disparate `[atomic facts(-ing) BPMS]`, weaving them together into a single thread of meaning.
-
-- **The Principle of Renormalized Truth:** The `['super intelligence'(-ing) BPMS]` analyzes this cluster. It applies a `['renormalization group'(-ing) BPMS]` process, stripping away the context (moss, points, money). It identifies a `['universality (class)'(-ing) BPMS]`—a fundamental law of the framework's reality: **"In complex adaptive systems, the investment in a non-optimizing, costly signal can trigger second-order emergent behavior that yields a net fitness increase for the whole system."** This is a piece of distilled, renormalized `[truth(-ing) BPMS]`.
-
-- **The Principle of Resilient Integration:** This new truth triggers the system's immune response. It is a powerful strategy for `[sustainability(-ing) BPMS]`. The system automatically generates a new "Constitutional Heuristic" and flags it for all `[praxial citizen BPMS]`: **"Consider adding a mechanism for costly, non-optimizing signaling to your designs. It may make your local system more `[resilient(-ing) BPMS]`."** The system has learned from a chaotic event in a single `(ecological) niche` and has integrated that wisdom to make the entire framework more `[robust(-ing) BPMS]` and innovative.
 
