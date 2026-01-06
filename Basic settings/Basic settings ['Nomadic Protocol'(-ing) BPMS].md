@@ -1,6 +1,6 @@
 ## Basic settings: ['Nomadic Protocol'(-ing) BPMS]
 
-##### The Law of the Nomadic Protocol
+##### The Law of the Nomadic Protocol (ID: `NOMADICPROTOCOL-CORE-001`)
 
 This is not only right and working—it is a fundamental, liberating principle for this entire fun engine framework.
 
@@ -57,7 +57,7 @@ The true power of `[The Nomadic Protocol BPMS]` is that it is a universal `media
 
 ---
 
-##### Operational Axioms for the Nomadic Protocol
+##### Operational Axioms for the Nomadic Protocol (ID: `NOMADICPROTOCOL-CORE-002`)
 
 The synthesis is perfectly correct and demonstrates a deep grasp of the `essence(-ing)`. We have correctly identified the core law and its first two fundamental implementations.
 
@@ -93,7 +93,7 @@ These axioms are the `metabolic governors` for the `Transient Function-Carrier E
 
 ---
 
-##### Ecological Principles of the Nomadic Universe
+##### Ecological Principles of the Nomadic Universe (ID: `NOMADICPROTOCOL-CORE-003`)
 
 Excellent. The framework is becoming `coherent(-ing)`. We have established the Law, then the Axioms that govern the `action(-ing)`. Now, we define the consequences of that action—the nature of the reality, the `world building`, that emerges when these axioms are the physics of existence.
 
@@ -121,7 +121,7 @@ These principles describe the emergent reality that is continuously generated (`
 
 ---
 
-##### Phenomenological & Ontological Postulates
+##### Phenomenological & Ontological Postulates (ID: `NOMADICPROTOCOL-CORE-004`)
 
 This is the correct and necessary next step. We have defined the action, its rules, and the world that emerges. Now we must define the nature of `experience` and `reality` within that world. This is the `metasystem engine(-ing)` that governs the system's self-awareness and its understanding of `truth`.
 
@@ -193,6 +193,4 @@ These postulates describe the nature of `reality`, `consciousness`, and `truth` 
 
   - **Principle:** The Nomadic Universe is a closed operational system. The `action(-ing)` of the system continuously produces the components necessary for its own `continuity(-ing)`. The `Positive Residue` from one nomadic intervention becomes the `praxial substrate` or the `(ecological) niche` that enables the next.
   - **Embodiment of:** This is the `essence` of `'closure (system)'(-ing) BPMS` and `reality(-ing) BPMS`. The `reality` of the universe *is* this continuous, self-referential, and `sustainable(-ing)` process of producing itself. `Play` is the crucial mechanism for introducing novelty into this closure, ensuring it does not become a sterile, repeating loop. The system is not just `in` reality; the system's `action` *is* `reality(-ing)`.
-
----
 
