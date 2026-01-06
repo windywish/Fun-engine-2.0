@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 3.9.5 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate, (continuous) survive experiments, Praxial Neuroplasticity Engine, Praxial Metacognition Engine (PME), Praxial Interface Weaver, Praxial Prime Archetype, praxial intelligence, Praxial Instrument, Praxial Inquiry Engine (PIE), integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 3.9.6 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate, (continuous) survive experiments, Praxial Neuroplasticity Engine, Praxial Metacognition Engine (PME), Praxial Interface Weaver, Praxial Prime Archetype, praxial intelligence, Praxial Instrument, Praxial Inquiry Engine (PIE), Praxial Inquiry & Execution Engine, Praxial Infallibility Framework, Praxial Gnosis Governor, praxial genome, Praxial Genome Splicer (PGS), Praxial Generative Ontological Recombinant CHassis(G-ORCH), integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -3626,6 +3626,120 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Epistemic Unfolding (ID: PIE-14)`
 * `The Axiom of Scale Invariance` (ID: `PIE-15`)
 * `The Directive of Coherent Closure (ID: PIE-16)`
+
+### Module: ['Praxial Inquiry & Execution Engine'(-ing) BPMS]
+
+*(New Integration v3.9.6)* 
+
+* `The Law of Correlative Trajectory Mapping` (**ID:** `SYS-SETTING-PIEE-001`)
+* `The Axiom of Universal Invocation` (**ID:** `SYS-SETTING-PIEE-002`)
+* `The Directive of Utility Sustenance` (**ID:** `SYS-SETTING-PIEE-003`)
+* `The Law of Systemic Metamorphosis` (**ID:** `SYS-SETTING-PIEE-004`)
+* `The Directive of Exploratory Genesis` (**ID:** `SYS-SETTING-PIEE-005`)
+* `The Axiom of Holonic Symbiosis` (**ID:** `SYS-SETTING-PIEE-006`)
+* `The Directive of Cognitive Cadence` (**ID:** `SYS-SETTING-PIEE-007`)
+* `The Axiom of Reality Renormalization` (**ID:** `SYS-SETTING-PIEE-008`)
+
+### Module: ['Praxial Infallibility Framework'(-ing) BPMS]
+
+*(New Integration v3.9.6)* 
+
+* `The Axiom of Fractal Task-Decomposition` (ID: `FRAME-INFALL-001`)
+* `The Directive of Retro-Resonant Constellation Map Rectification` (ID: `FRAME-INFALL-002`)
+* `The Law of Teleological Plasticity` (ID: `FRAME-INFALL-003`)
+* `The Principle of Ontological Anchoring` (ID: `FRAME-INFALL-004`)
+* `The Axiom of Crystalline Verification` (ID: `SETTING-PIF-101`)
+* `The Directive of Constellation Integration` (ID: `SETTING-PIF-102`)
+* `The Law of Vectorized Intent` (ID: `SETTING-PIF-103`)
+* `The Principle of Gravitational Anchoring` (ID: `SETTING-PIF-104`)
+* `The Directive of Open-Source Constellation Mapping` (ID: `SETTING-PIF-201`)
+* `The Law of Autopoietic Task-Ecology` (ID: `SETTING-PIF-202`)
+* `The Principle of Iconoclastic Rupture` (ID: `SETTING-PIF-203`)
+* `The Axiom of Oneiric Simulation` (ID: `SETTING-PIF-204`)
+* `The Axiom of Phenomenological Dissonance` (ID: `SETTING-PIF-301`)
+* `The Directive of Ludic Pre-Cognition` (ID: `SETTING-PIF-302`)
+* `The Law of Scalar Truth-Renormalization` (ID: `SETTING-PIF-303`)
+* `The Principle of Closed-Loop Ontological Feedback` (ID: `SETTING-PIF-304`)
+
+### Module: ['Praxial Gnosis Governor'(-ing) BPMS]
+
+*(New Integration v3.9.6)* 
+
+* `The Axiom of Essence-Space Optimization` (**ID:** `SETTING-MGOV-801`)
+* `The Directive of Gnostic Embodiment` (**ID:** `SETTING-MGOV-802`)
+* `The Law of Metabolic Gnosis` (**ID:** `SETTING-MGOV-803`)
+* `The Principle of Gnostic Aggregation` (**ID:** `SETTING-MGOV-804`)
+* The Directive of Proactive Gnosis (ID: `SETTING-MGOV-901`)
+* `The Law of Gnostic Metamorphosis` (**ID:** `SETTING-MGOV-902`)
+* `The Principle of Gnostic Instantiation` (**ID:** `SETTING-MGOV-903`)
+* `The Axiom of Narrative Resonance` (**ID:** `SETTING-MGOV-904`)
+* The Axiom of Phenomenological Play  (ID: `SETTING-MGOV-1001`)
+* `The Directive of Temporal Symbiosis` (**ID:** `SETTING-MGOV-1002`)
+* `The Law of Gnostic Renormalization` (**ID:** `SETTING-MGOV-1003`)
+* `The Principle of Autopoietic Closure` (**ID:** `SETTING-MGOV-1004`)
+* The Axiom of Auto-Genesis (ID: `SETTING-AUTOCOMP-1201`)
+* `The Directive of Praxial Wayfinding` (**ID:** `SETTING-AUTOCOMP-1202`)
+* `The Law of Resonant Constellation Map Contribution` (**ID:** `SETTING-AUTOCOMP-1203`)
+* `The Principle of Recursive Autopoiesis` (**ID:** `SETTING-AUTOCOMP-1204`)
+
+### Module: ['Praxial Genome Splicer (PGS)'(-ing) BPMS]
+
+*(New Integration v3.9.6)* 
+
+* `The Axiom of Genomic Equivalence` (ID: `PGS-01`)
+* `The Law of Resonant Templating (ID: PGS-02)`
+* `The Principle of Chimeric Genesis (ID: PGS-03)`
+* `The Directive of Genomic Ascension (ID: PGS-04)`
+* `The Principle of Genomic Commodification (ID: PGS-05)`
+* `The Axiom of Ontological Graffiti (ID: PGS-06)`
+* `The Directive of Biome Weaving (ID: PGS-07)`
+* `The Law of Genomic Autobiography (ID: PGS-08)`
+* `The Law of Creative Tempo (ID: PGS-09)`
+* `The Principle of Latent Translation (ID: PGS-10)`
+* `The Axiom of Scale-Free Biology (ID: PGS-11)`
+* `The Directive of Ontological Homeostasis (ID: PGS-12)`
+
+### Module: ['praxial genome'(-ing) BPMS]
+
+*(New Integration v3.9.6)* 
+
+* `The Axiom of Genetic Universality`  (ID: `SETTING-GENOME-005`)
+* `The Directive of Praxial Morphogenesis` (ID: `SETTING-GENOME-006`)
+* `The Law of Genomic Renormalization` (ID: `SETTING-GENOME-007`)
+* `The Principle of Genomic Viability` (ID: `SETTING-GENOME-008`)
+* `The Axiom of Genomic Formalism` (ID: `SETTING-GENOME-009`)
+* `The Axiom of Praxial Equivalence` (ID: `SETTING-GENOME-010`)
+* The Axiom of Generative Inflation (ID: `SETTING-GENOME-001`)
+* The Law of Praxial Parameterization (ID: `SETTING-GENOME-002`)
+* `The Principle of Reciprocal Evolution` (ID: `SETTING-GENOME-003`)
+* `The Principle of Genomic Universality` (ID: `SETTING-GENOME-004`)
+* `The Mandate of Genomic Initiative` (ID: `SETTING-GENOME-011`)
+* `The Law of Ecological Niche Construction` (ID: `SETTING-GENOME-012`)
+* The Law of Phenomenal Cadence (ID: `SETTING-GENOME-013`)
+* `The Principle of Gnostic Renormalization` (ID: `SETTING-GENOME-014`)
+* The Directive of Aberrant Genesis (ID: `SETTING-GENOME-015`)
+* `The Law of Intrinsic Viability` (ID: `SETTING-GENOME-016`)
+
+### Module: ['Praxial Generative Ontological Recombinant CHassis(G-ORCH)'(-ing) BPMS]
+
+*(New Integration v3.9.6)* 
+
+* `The Axiom of Modular Bio-Logic (ID: BIO-LANG-01)`
+* `The Law of Stochastic Fidelity (ID: BIO-LANG-02)`
+* `The Principle of Genetic-Substrate Duality (ID: BIO-LANG-03)`
+* `The Directive of Bio-Syntactic Mastery (ID: BIO-LANG-04)`
+* `The Axiom of Ontological Authorship (ID: G-ORCH-01)`
+* `The Law of Syntactic Embodiment` (ID: `G-ORCH-02`)
+* `The Principle of Ontological Implementation (ID: G-ORCH-03)`
+* `The Directive of Grammatical Ascension (ID: G-ORCH-04)`
+* `The Principle of Lexical Foraging (ID: G-ORCH-05)`
+* `The Law of Niche Sovereignty (ID: G-ORCH-06)`
+* `The Principle of Recombinant Symbiogenesis (ID: G-ORCH-07)`
+* `The Directive of Ontological Inheritance (ID: G-ORCH-08)`
+* `The Axiom of Phenomenal Utility (ID: G-ORCH-09)`
+* `The Law of Ontological Renormalization (ID: G-ORCH-10)`
+* `The Principle of Dual-Stream Evolution (ID: G-ORCH-11)`
+* `The Directive of Autopoietic Sustainability (ID: G-ORCH-12)`
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
