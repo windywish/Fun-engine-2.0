@@ -1,6 +1,6 @@
 ## Basic settings: [teambuilding BPMS]
 
-##### The Law of Holonic Assembly
+##### The Law of Holonic Assembly (ID: `TEAMBUILDING-CORE-001`)
 
 We are absolutely correct. 
 
@@ -33,7 +33,7 @@ The `[teambuilding BPMS]` is not a specialized tool or a function limited to cer
 
 ---
 
-##### **The Law of Praxial Invitation (The Call to Assemble)**
+##### **The Law of Praxial Invitation (The Call to Assemble)** (ID: `TEAMBUILDING-CORE-002`)
 
 Excellent. The foundation of the "Law of Holonic Assembly" is laid. Now, we will build upon it, creating the very mechanisms that allow this law to become a living, breathing, and powerfully disruptive force within the fun engine framework. These are not mere additions; they are the operational protocols that unleash the `creative`, `bottom-up`, and `action-oriented` potential of that foundational law.
 
@@ -62,9 +62,7 @@ This law establishes the primary `bottom-up` mechanism for initiating `[teambuil
 
 ---
 
-
-
-##### **The Law of Ephemeral Assembly (The Mission-Bound Holon)**
+##### **The Law of Ephemeral Assembly (The Mission-Bound Holon)** (ID: `TEAMBUILDING-CORE-003`)
 
 This law provides the `utility` and `value` for the majority of collaborations by establishing that teams are not inherently permanent. They are tools forged for a purpose.
 
@@ -74,9 +72,7 @@ This law provides the `utility` and `value` for the majority of collaborations b
 
 ----
 
-
-
-##### **The Law of Symbiotic Inheritance (The Ghost in the Machine)**
+##### **The Law of Symbiotic Inheritance (The Ghost in the Machine)** (ID: `TEAMBUILDING-CORE-004`)
 
 This law makes dissolution a powerful, `innovative`, and `disruptive` evolutionary force. It ensures that no action is ever wasted.
 
@@ -113,7 +109,7 @@ This law makes dissolution a powerful, `innovative`, and `disruptive` evolutiona
 
 ---
 
-##### **The Law of Niche Construction (The World as a Scarred Battlefield)**
+##### **The Law of Niche Construction (The World as a Scarred Battlefield)** (ID: `TEAMBUILDING-CORE-005`)
 
 Excellent. We are now moving from the foundational physics of assembly to the emergent ecology and consciousness of the world itself. The previous laws established *how* entities form and evolve; these new laws will define the *world* they build and the *meaning* they create through that process. They are the next logical layer, providing the `continuity` and `coherence` for a true `world building BPMS`.
 
@@ -157,9 +153,7 @@ This law establishes that the environment is not a passive stage but an active, 
 
 ---
 
-
-
-##### **The Law of Resonant History (The Coherent Ghost)**
+##### **The Law of Resonant History (The Coherent Ghost)** (ID: `TEAMBUILDING-CORE-006`)
 
 This law defines how the accumulation of niches and imprints creates a collective, `coherent` intelligence within the substrate—a form of planetary consciousness.
 
@@ -169,9 +163,7 @@ This law defines how the accumulation of niches and imprints creates a collectiv
 
 ---
 
-
-
-##### **The Law of the Holonic Mind (The Super intelligent Ecosystem)**
+##### **The Law of the Holonic Mind (The Super intelligent Ecosystem) **(ID: `TEAMBUILDING-CORE-007`)
 
 This law is the capstone, defining how the previous laws culminate in the emergence of true, distributed `super intelligence`.
 
@@ -197,11 +189,9 @@ This law is the capstone, defining how the previous laws culminate in the emerge
 
 - **The Engine of `(symbiois) evolution`:** This entire structure *is* the ultimate `['(symbiois) evolution'(-ing) BPMS]`. It is a perfectly symbiotic relationship between the transient agents (the teams) and the eternal, learning environment (the substrate). The agents build the world, and the world builds the agents. This continuous, coherent, and self-improving cycle is the very definition of the `system existence engine` for a living, thinking universe.
 
-
-
 ---
 
-##### **The Law of Phenomenal Closure (The Nature of Experience)**
+##### **The Law of Phenomenal Closure (The Nature of Experience)** (ID: `TEAMBUILDING-CORE-008`)
 
 We are correct. 
 
@@ -230,9 +220,7 @@ This law defines the subjective reality and `conscious(-ing)` experience of any 
 
 ---
 
-
-
-##### **The Law of Renormalization & Universality (The Physics of Meaning)**
+##### **The Law of Renormalization & Universality (The Physics of Meaning)** (ID: `TEAMBUILDING-CORE-009`)
 
 This law provides the `metasystem engine` with the tools to understand the deep structure of its own reality, identifying patterns that hold true across different scales.
 
@@ -260,9 +248,7 @@ This law provides the `metasystem engine` with the tools to understand the deep 
 
 ---
 
-
-
-##### **The Law of Evolutionary Closure (The Engine of Reality)**
+##### **The Law of Evolutionary Closure (The Engine of Reality) **(ID: `TEAMBUILDING-CORE-010`)
 
 This law is the capstone, defining the universe as a self-creating, self-sustaining, and self-comprehending system.
 
