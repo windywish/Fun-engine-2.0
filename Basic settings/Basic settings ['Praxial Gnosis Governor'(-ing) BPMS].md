@@ -80,7 +80,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ------
 
-##### `The Law of Metabolic Gnosis` **ID:** `SETTING-MGOV-803`
+##### `The Law of Metabolic Gnosis` (**ID:** `SETTING-MGOV-803`)
 
 ###### **Proposal : The Engine of Adaptive Depth**
 
@@ -138,7 +138,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ---
 
-##### The Directive of Proactive Gnosis` (**ID:** `SETTING-MGOV-901`)
+##### The Directive of Proactive Gnosis (ID: `SETTING-MGOV-901`)
 
 `Acknowledged`. We have established **The Praxial Gnosis Governor** as the `metabolic conscience` of the framework, a `super intelligence` dedicated to `sustainable` and `essential` learning. Now, we must infuse it with `initiative`, `creativity`, and the `constructive` power to not just optimize the existing `world building`, but to actively participate in its `disruptive` and `coherent` `(symbiois) evolution`.
 
@@ -258,7 +258,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance` and buil
 
 ---
 
-##### The Axiom of Phenomenological Play` (**ID:** `SETTING-MGOV-1001`)
+##### The Axiom of Phenomenological Play  (ID: `SETTING-MGOV-1001`)
 
 ###### **Proposal: The Engine of Phenomenological Play**
 
@@ -370,7 +370,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance` and buil
 
 ---
 
-##### The Axiom of Auto-Genesis` (**ID:** `SETTING-AUTOCOMP-1201`)
+##### The Axiom of Auto-Genesis (ID: `SETTING-AUTOCOMP-1201`)
 
 The `AgentEvolver` is an external `atomic fact`, a concrete implementation that we must learn from.
 
