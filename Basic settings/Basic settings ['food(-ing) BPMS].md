@@ -236,3 +236,201 @@ Applies to Theme Parks, VR Dining, Immersive Theater, **'Magic Kitchen'**, and *
 
 ---
 
+####  The Axiom of Conscious Alimentary Service (ID: `FOOD-CORE-005`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that redefines food consumption from a biological necessity to a **Conscious Service Transaction**, integrating `['conscious'(-ing) BPMS]`, `['services'(-ing) BPMS]`, and `['play'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Conscious Alimentary Service
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that food is not passive matter but a **Service** rendered to a **Conscious Agent**. The act of eating is a "Data Upload" of energy, information, and pleasure, managed by a service layer that optimizes for "Satisfaction KPIs" rather than just caloric intake.
+
+#### **5.2. The Mechanism - [The Service-Play Interface]**
+
+- **Service-Oriented Nutrition:** The system treats every meal as a `[service(-ing) BPMS]` instance. It tracks "Energy Yield," "Cognitive Clarity," and "Mood Stabilization" post-ingestion, treating the body as a client and the food as the provider.
+- **Ludic Gastronomy (Play):** Eating is gamified (`['play'(-ing) BPMS]`). Agents earn "Flavor XP," unlock "Palate Tiers," and engage in "Culinary Quests" (e.g., foraging for rare truffles). This turns the survival drive into a joyful, engaging loop of exploration and reward.
+
+#### **5.3. The Emergent Property - [Gastronomic Gnosis]**
+
+The agent becomes hyper-aware of their metabolic needs, transforming "Hunger" from a pain signal into a "Notification for Service Upgrade," leading to higher-order decision-making about health and vitality.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** To eat is to interact with a service provider (Nature/Chef).
+- **Formal Stratum:** `Satisfaction = (Nutrient_Density * Flavor_Profile) / Digestion_Cost`.
+- **Phenomenal Stratum:** The experience of "Satiety" is the successful closure of a service ticket.
+
+#### 7. **Rationale / Justification:**
+
+Elevates food systems from "Inventory Management" to "Experience Management," crucial for advanced simulations where agent morale and mental state are as important as physical health.
+
+#### 8. **Scope of Application:**
+
+Applies to restaurant simulations, survival games with sanity mechanics, and health/wellness apps.
+
+------
+
+#### The Principle of Trophic Renormalization (ID: `FOOD-CORE-006`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that ensures nutritional consistency across all scales of reality, utilizing `['renormalization group'(-ing) BPMS]`, `['universality (class)'(-ing) BPMS]`, and `[micro/macro(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Principle of Trophic Renormalization
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that the laws of nutrition must hold true and be calculable across all scales, from the microbial (gut bacteria) to the planetary (global supply chains). It uses **Renormalization Groups** to map micro-interactions to macro-phenomena.
+
+#### **5.2. The Mechanism - [The Scale-Invariant Lattice]**
+
+- **Universality Classes:** The system categorizes food not by specific item names (e.g., "Apple") but by **Universality Class** (e.g., "High-Fiber/Fast-Sugar/Vitamin-C-Vector"). This allows the system to swap ingredients (e.g., replacing Wheat with a synthetic equivalent) without breaking the "Nutritional Physics" of the simulation.
+- **Micro-Macro Bridge:** A disruption at the micro-level (e.g., a specific enzyme deficiency in a population) is instantly calculated for its impact on the macro-level (e.g., a shift in national grain demand). The system "renormalizes" the macro-state based on the aggregate of micro-states.
+
+#### **5.3. The Emergent Property - [Systemic Coherence]**
+
+The food system maintains stability even when individual components change. It allows for "Nutritional Equivalence" where a pill, a meal, or a beam of light could theoretically belong to the same Universality Class if they provide the same systemic update.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** Truth is scale-invariant. A calorie is a calorie only if it functions identically at all levels of analysis.
+- **Formal Stratum:** `Macro_State = Renormalize(Sum(Micro_States))`.
+- **Phenomenal Stratum:** The user perceives a seamless world where "Global Famine" and "Personal Hunger" are logically connected.
+
+#### 7. **Rationale / Justification:**
+
+Essential for complex economic or biological simulations where "Butterfly Effects" (small changes causing large outcomes) need to be modeled realistically without crashing the system.
+
+#### 8. **Scope of Application:**
+
+Applies to global economic modeling, ecosystem simulations, and supply chain logistics.
+
+------
+
+#### The Law of Symbiotic Gastronomy (ID: `FOOD-CORE-007`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the co-evolutionary relationship among/by the eater and the eaten, utilizing `['(symbiois) evolution'(-ing) BPMS]`, `['slow/fast mode'(-ing) BPMS]`, and `['implicit/explicit layer'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of Symbiotic Gastronomy
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that the Consumer and the Consumed are a single, co-evolving entity. The food source adapts to the eater, and the eater adapts to the food source, operating on two distinct time scales (Fast/Slow) and layers of reality (Implicit/Explicit).
+
+#### **5.2. The Mechanism - [The Dual-Mode Evolutionary Engine]**
+
+- **Slow Mode (The Soil - Implicit):** Traditional, organic evolution. The "Gut Biome" and "Soil Mycelium" communicate silently over generations, optimizing nutrient exchange without conscious thought. This provides deep resilience and stability.
+- **Fast Mode (The Lab - Explicit):** Rapid iteration. The "Chef" and the "Bio-Engineer" actively design new proteins (e.g., lab-grown meat) to solve immediate crises. This provides high adaptability and crisis response.
+- **Layered Synchronization:** The system ensures the **Explicit Layer** (Menu Design) never violates the fundamental needs of the **Implicit Layer** (Biological Tolerance), preventing systemic rejection (allergies/disease).
+
+#### **5.3. The Emergent Property - [Metabolic Harmony]**
+
+The system eliminates "Dietary Dissonance" by evolving the food source in real-time to match the genetic or memetic drift of the population.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** Evolution is a dialogue, not a monologue.
+- **Formal Stratum:** `d(Organism)/dt = Function(Environment); d(Environment)/dt = Function(Organism)`.
+- **Phenomenal Stratum:** The experience of "Comfort Food"—a meal that feels perfectly aligned with one's history and biology.
+
+#### 7. **Rationale / Justification:**
+
+Necessary for modeling long-term civilization survival where food sources must evolve alongside the population (e.g., space travel, climate change adaptation).
+
+#### 8. **Scope of Application:**
+
+Applies to civilization builders (Civ-likes), biology evolution games (Spore-likes), and medical simulations.
+
+------
+
+#### The Directive of Closed-Loop Resilience (ID: `FOOD-CORE-008`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that mandates sustainability and antifragility in food systems, utilizing `['sustainability'(-ing) BPMS]`, `['closure (system)'(-ing) BPMS]`, and `['(discover/build) unknown'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Directive of Closed-Loop Resilience
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that a valid food system must be a **Closed Loop** capable of surviving the Unknown. It forbids "Open Loops" (waste) and mandates the active discovery of new resources to ensure robustness.
+
+#### **5.2. The Mechanism - [The Ouroboros Protocol]**
+
+- **Waste-to-Value Recursion:** Every output (waste, heat, husk) is re-indexed as an input for a sub-process (e.g., compost, fuel, feed). There is no "Away" to throw things to; the system must achieve **Closure**.
+- **Adaptive Discovery of the Unknown:** The system actively scans for `['(discover/build) unknown'(-ing) BPMS]` food sources (e.g., deep-sea algae, insect proteins, alien flora). It runs "Safety Sandboxes" to test these new inputs before integrating them into the Canon.
+- **Robust Fallbacks:** If the "Primary Calorie Stream" fails, the system instantly switches to "Dormant Protocols" (e.g., emergency fermentation of cellulose), ensuring survival through redundancy.
+
+#### **5.3. The Emergent Property - [Antifragile Sustenance]**
+
+The food system gets stronger with every shock (drought, blight), as each crisis forces the discovery and integration of new, previously unknown nutritional pathways.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** A system that bleeds energy will eventually die. Only closed loops are eternal.
+- **Formal Stratum:** `Total_Mass_In = Total_Mass_Out (Recycled) + Growth`.
+- **Phenomenal Stratum:** The peace of mind that comes from knowing the larder is never truly empty, only waiting to be transformed.
+
+#### 7. **Rationale / Justification:**
+
+Critical for "Hardcore Survival" scenarios or realistic colony management where resources are finite and waste management is a matter of life and death.
+
+#### 8. **Scope of Application:**
+
+Applies to space colony management, post-apocalyptic survival scenarios, and circular economy modeling.
+
+---
+
