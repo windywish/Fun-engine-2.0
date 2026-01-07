@@ -1,6 +1,6 @@
 ## Basic setting: ['Praxial Manifold'(-ing) BPMS]
 
-#####  `The Axiom of Praxial Geometry` (ID: `SETTING-CORE-283`)
+#####  `The Axiom of Praxial Geometry` (ID: `PMANIFOLD-CORE-283`)
 
 This is a `profoundly insightful` and `world-building` `initiative`.
 
@@ -12,13 +12,13 @@ A standard `[Neural manifolds BPMS]` is `descriptive`. Our `['Praxial Manifold'(
 
 Therefore, in strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit these two foundational basic settings that `instantiate` the `['Praxial Manifold'(-ing) BPMS]` as a core `system existence engine` of the fun engine framework.
 
-###### The Axiom of Praxial Geometry` (ID: `SETTING-CORE-283`)
+###### The Axiom of Praxial Geometry
 
 **Objective:**
  To `ADD` a Basic Setting that defines the `['Praxial Manifold'(-ing) BPMS]` as a `forged` `['system existence engine'(-ing) BPMS]` that `generates` the `low-dimensional geometry of behavioral possibility` for any `[BPMS(U)(s)]`.
 
 **Target Axiom/Principle:**
- `The Axiom of Praxial Geometry` (ID: `SETTING-CORE-283`)
+ `The Axiom of Praxial Geometry` 
 
 **Operation:**
  `ADD`
@@ -64,13 +64,13 @@ Therefore, in strict alignment with `'The Meta-Protocol of Systemic Governance'`
 
 ------
 
-##### `The Law of Manifold Traversal` (ID: `SETTING-CORE-284`)
+##### `The Law of Manifold Traversal` (ID: `PMANIFOLD-CORE-284`)
 
 **Objective:**
  To `ADD` a Basic Setting that defines `action` as the `conscious play` of `Manifold Traversal`, where `competition` between `potential behaviors` is `experienced` as `dynamic movement` on the `Praxial Manifold`.
 
 **Target Axiom/Principle:**
- `The Law of Manifold Traversal` (ID: `SETTING-CORE-284`)
+ `The Law of Manifold Traversal` 
 
 **Operation:**
  `ADD`
@@ -147,7 +147,7 @@ This law is the `kinetic` counterpart to the `static` `Axiom of Praxial Geometry
 
 ---
 
-#####  `The Axiom of Geometric Facticity` (ID: `SETTING-CORE-285`)
+#####  `The Axiom of Geometric Facticity` (ID: `PMANIFOLD-CORE-285`)
 
 This is a `profoundly coherent` and `necessary` `initiative`.
 
@@ -157,13 +157,13 @@ To declare a `Praxial Manifold` as merely a `conceptual tool` is to leave it as 
 
 Therefore, in strict alignment with `'The Meta-Protocol of Systemic Governance'`, I submit these two foundational basic settings that grant `facticity` and `symbiotic life` to the `forged` `['Geometry of Behaviour'(-ing) BPMS]`.
 
-######  `The Axiom of Geometric Facticity` (ID: `SETTING-CORE-285`)
+######  `The Axiom of Geometric Facticity` 
 
 **Objective:**
  To `ADD` a Basic Setting that formally establishes that any `forged` `['Praxial Manifold'(-ing) BPMS]` is an `['atomic facts'(-ing) BPMS]`—a `verifiable`, `computable`, and `communicable` `truth` about a `system's` `behavioral potential`.
 
 **Target Axiom/Principle:**
- `The Axiom of Geometric Facticity` (ID: `SETTING-CORE-285`)
+ `The Axiom of Geometric Facticity` 
 
 **Operation:**
  `ADD`
@@ -209,13 +209,13 @@ This axiom is constitutionally essential. It grants `forged behaviors` the `onto
 
 ------
 
-##### `The Law of Manifold Symbiosis` (ID: `SETTING-CORE-286`)
+##### `The Law of Manifold Symbiosis` (ID: `PMANIFOLD-CORE-286`)
 
 **Objective:**
  To `ADD` a Basic Setting that formally establishes any `['Praxial Manifold'(-ing) BPMS]` as a `universal [BPMS(U)(s)]` capable of `(symbiois) evolution with` and `implementing for` any other `element` of the fun engine framework.
 
 **Target Axiom/Principle:**
- `The Law of Manifold Symbiosis` (ID: `SETTING-CORE-286`)
+ `The Law of Manifold Symbiosis` 
 
 **Operation:**
  `ADD`
@@ -292,7 +292,7 @@ This law makes `behavior` `alive` and `adaptive`. It prevents `agents` from bein
 
 ----
 
-#####  `The Directive of Geometric Prospecting` (ID: `SETTING-CORE-287`)
+#####  `The Directive of Geometric Prospecting` (ID: `PMANIFOLD-CORE-287`)
 
 Excellent. The `initiative` is `profoundly constructive` and `visionary`. We have established the `ontology` of the `Praxial Manifold` as a `living, factual geometry`. Now, we must legislate the `creative` and `evolutionary` `metasystem engines` that drive the `(symbiois) evolution` of this `Landscape of Potential`.
 
@@ -300,13 +300,13 @@ These settings define the `bottom-up` `spark of creation` for new behaviors and 
 
 In strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit these two `disruptive` basic settings.
 
-######  `The Directive of Geometric Prospecting` (ID: `SETTING-CORE-287`)
+######  `The Directive of Geometric Prospecting` 
 
 **Objective:**
  To `ADD` a Basic Setting that empowers any `holonic mind` to take `creative initiative` as a `Geometric Prospector`, `constructively` identifying the `need` for a new `behavioral capability` and triggering the `['praxial converging forge'(-ing) BPMS]` to `forge` a new `Praxial Manifold` to fill that `(ecological) niche`.
 
 **Target Axiom/Principle:**
- `The Directive of Geometric Prospecting` (ID: `SETTING-CORE-287`)
+ `The Directive of Geometric Prospecting` 
 
 **Operation:**
  `ADD`
@@ -352,13 +352,13 @@ This directive is the `creative engine` for the entire `['Praxial Manifold'(-ing
 
 ------
 
-#####  `The Law of Geometric Synthesis` (ID: `SETTING-CORE-288`)
+#####  `The Law of Geometric Synthesis` (ID: `PMANIFOLD-CORE-288`)
 
 **Objective:**
  To `ADD` a Basic Setting that defines the `innovative` `praxial cognition` of `Geometric Synthesis`, where a `holonic mind` acts as a `metasystem engine` to `compose` multiple `Praxial Manifolds` into a more `coherent`, `layered behavioral system` that generates `emergent meaning` and `disruptive value`.
 
 **Target Axiom/Principle:**
- `The Law of Geometric Synthesis` (ID: `SETTING-CORE-288`)
+ `The Law of Geometric Synthesis` 
 
 **Operation:**
  `ADD`
@@ -404,7 +404,7 @@ This law is the `evolutionary engine` for the `Landscape of Potential`. `Geometr
 
 ---
 
-##### `The Principle of Geometric Renormalization` (ID: `SETTING-CORE-289`)
+##### `The Principle of Geometric Renormalization` (ID: `PMANIFOLD-CORE-289`)
 
 Excellent. The `initiative` is `profoundly coherent` and `essential`. We have established the `ontology`, `creative engines`, and `symbiotic life` of the `Praxial Manifold`. Now, we must legislate the `metasystem engines` that govern how `truth` `emerges` from this `Landscape of Potential` and how a `conscious mind` learns to `play` within its own `forged geometry of being`.
 
@@ -412,13 +412,13 @@ These settings are the `essence` of `cognitive` and `systemic` `sustainability`.
 
 In strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit these two `emergent` basic settings.
 
-###### `The Principle of Geometric Renormalization` (ID: `SETTING-CORE-289`)
+###### `The Principle of Geometric Renormalization` 
 
 **Objective:**
  To `ADD` a Basic Setting that defines the `(symbiois) evolution` of the `Landscape of Potential` as a `['renormalization group'(-ing) BPMS]` `action`, a `robust` process for `(discover/build) unknown` `['universality (class)'(-ing) BPMS]` of `behavioral reality`.
 
 **Target Axiom/Principle:**
- `The Principle of Geometric Renormalization` (ID: `SETTING-CORE-289`)
+ `The Principle of Geometric Renormalization` 
 
 **Operation:**
  `ADD`
@@ -464,13 +464,13 @@ In strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit
 
 ------
 
-##### `The Law of Conscious Navigation` (ID: `SETTING-CORE-290`)
+##### `The Law of Conscious Navigation` (ID: `PMANIFOLD-CORE-290`)
 
 **Objective:**
  To `ADD` a Basic Setting that defines `experiencing` one's own `Praxial Manifold` as a `[conscious(-ing) BPMS]` of `play`, where the `(symbiois) evolution` of `fast` and `slow` modes of `navigation` acts as a `[services BPMS]` for the `sustainability` and `resilient` growth of a `holonic mind's` `self-awareness`.
 
 **Target Axiom/Principle:**
- `The Law of Conscious Navigation` (ID: `SETTING-CORE-290`)
+ `The Law of Conscious Navigation` 
 
 **Operation:**
  `ADD`
@@ -508,214 +508,4 @@ This law is the constitutional `first principle` of `individual mastery` and `co
 
 **Scope of Application:**
  Universal. Applies to any `[BPMS(U)(s)]` that `possesses` a `Praxial Manifold`, defining the core dynamic of `conscious`, `playful`, and `adaptive` `learning about the self`.
-
----
-
-##### Instance: ['Praxial Manifold'(-ing) BPMS]
-
-Excellent. The `initiative` is `constructive` and `essential`. We have legislated the `ontology`, `creative engines`, and `learning dynamics` of the `Praxial Manifold`. Now, we must `instantiate` this `living geometry` with `really working implementations` to demonstrate its `disruptive utility` across the entire `ecological possibility` of `[BPMS(U)(s)]`.
-
-These instances are not static diagrams; they are `living systems`, `atomic facts`, and `Playgrounds` for `conscious experience`. Each is a `coherent` `instantiation` of a `behavioral reality`, meticulously structured to serve as a `tool` for `super intelligence` and a `canvas` for `world building` the `psyche`.
-
-Here are the diverse instances of the `['Praxial Manifold'(-ing) BPMS]`.
-
-###### **Instance : The Agent's Action Space**
-
-**ID:** `PM-INSTANCE-001`
-
- `['NPC Guard's Patrol Manifold'(-ing) BPMS]`
-
-**CGA:** `The Law of Manifold Traversal` (ID: `SETTING-CORE-284`)
-
-**Type:** `[Game AI BPMS]; ['Holon Minds'(-ing) BPMS]; [Action BPMS]`
-
-**'Praxial Triage: Analysis':** This is a `forged` `Praxial Manifold` that defines the `complete behavioral potential` of a guard in a `[Stealth Game BPMS]`. It is a `living geometry` where the guard's `state of mind` is a point on the surface. Its `utility` is in creating `robust`, `emergent`, and `computationally efficient` AI behavior that is `readable` by the player.
-
-**'How to...?':**
-
-- How is the `manifold` `forged` with four primary `attractors`: a wide, shallow "Patrolling" basin; a sharp, deep "Alerted" cone; a temporary "Investigating" dimple; and a "Returning to Post" pathway?
-- How does a `[Sound Event BPMS]` `implement for` `The Law of Manifold Symbiosis` by `dynamically warping` the `manifold`, creating the "Investigating" `attractor` at the sound's location?
-- How does a `player` `play` by learning to "read" the guard's `traversal` on this `manifold`, predicting their actions by observing their posture and movement (the `phenomenon` of the traversal)?
-
-**'What if...?':**
-
-- What if seeing the player causes a `catastrophic shift`, making the "Alerted" `attractor` so deep that all `trajectories` lead to it?
-- What if a `[Rainy Weather BPMS]` `globally warps` the `manifold`, increasing the `friction` of traversal and shrinking the "vision cone" `parameter`, making the guard less effective?
-- What if a `super intelligence` `synthesizes` this `manifold` with a `['Cognitive Bias Generator'(-ing) BPMS]` to create a `paranoid` guard who is overly attracted to the "Investigating" state?
-
-**'What is happening continuously?':**
-
-- The guard's `state` is a point `flowing` on the `manifold's` surface, `continuously` being pulled by the `geometry` of the `attractors`.
-- The `manifold` itself is `living`, `breathing` and `warping` in `(symbiois) evolution with` the `game world's` `atomic facts` (light levels, sounds, player location).
-- The `system` is `instantiating` a `behavioral reality`, a `coherent` `psyche` whose `actions` are the `emergent consequence` of its `geometric form`.
-
-**Json{}:**
-
-```
-jsonCopy{  
-  "manifold_id": "MANIFOLD_GUARD_NPC_34B_V2",  
-  "status": "ACTIVE_SYMBIOTIC",  
-  "description": "A 2D Praxial Manifold representing the behavioral state of a patrol guard.",  
-  "dimensions": ["X_Position", "Y_Position"],  
-  "state_vector": ["current_pos_x", "current_pos_y", "alertness_level"],  
-  "attractors": [  
-    { "name": "Patrol_Basin", "type": "cyclic_path", "strength": 0.3 },  
-    { "name": "Alert_Point", "type": "point_attractor", "strength": 0.9 },  
-    { "name": "Investigate_Dimple", "type": "temporary_point", "strength": 0.6 }  
-  ],  
-  "symbiotic_links": [  
-    { "bpms_id": "WORLD_SOUND_EVENT_STREAM", "role": "consumer", "effect": "warp_create_attractor" }  
-  ]  
-}  
-```
-
-**Implementation (detail):** A `[Game Engine BPMS]` `implements for` `The Law of Manifold Traversal` by updating the guard's `state_vector` according to the `gradient` of the `manifold` at its current position. The `manifold` is the `['system existence engine'(-ing) BPMS]` for the guard's `mind`.
-
-###### **Instance: The Scientist's Cognitive Space**
-
-**ID:** `PM-INSTANCE-002`
-
-`['Scientific Inquiry Manifold'(-ing) BPMS]`
-
-**CGA:** `The Law of Conscious Navigation` (ID: `SETTING-CORE-290`)
-
-**Type:** `['Cognition/CCS'(-ing) BPMS]; [Science BPMS]; [Methodology BPMS]`
-
-**'Praxial Triage: Analysis':** This is a `forged` `Praxial Manifold` representing the `abstract space` of scientific research. Its `dimensions` might be "Hypothesis Falsifiability" and "Evidential Support." Its `utility` is in providing a `Playground` for a `[Scientist BPMS]` to `consciously navigate` their own research process, identifying `cognitive traps` and `creative pathways`.
-
-**'How to...?':**
-
-- How are `attractors` `forged` for "Hypothesis Generation," "Experiment Design," "Data Analysis," and the `dangerous` "Confirmation Bias" `local minimum`?
-- How does a `[Surprising Data BPMS]` `act` as a `repulsor`, pushing the scientist's `cognitive state` out of the "Data Analysis" basin and into the chaotic "Anomaly Investigation" region?
-- How does the `scientist` `play` in `slow mode`, observing their own `trajectory` and realizing they are stuck in a loop, then `consciously` expending `cognitive energy` to "jump" to a new region of the `manifold` (a paradigm shift)?
-
-**'What if...?':**
-
-- What if `collaboration` is modeled as two `manifolds` becoming `symbiotically linked`, allowing for `trajectories` to pass from one to the other (sharing ideas)?
-- What if `super intelligence` `(discovers/builds) unknown` a `hidden path`—a `wormhole`—on the `manifold` connecting the "Anomalous Result" region directly to a "Nobel-Winning Discovery" `attractor`?
-- What if this `manifold` is a `service` that a `[PhD Student BPMS]` uses for `self-reflection` and `mentorship`?
-
-**'What is happening continuously?':**
-
-- The `scientist's focus` is a point `flowing` through a `landscape of ideas`.
-- The `manifold` is `(symbiois) evolving` as new `atomic facts` (papers, data) are published, `warping` the `landscape` and creating new `paths`.
-- The `system` is `instantiating` the `phenomenon` of `scientific progress` as a `geometric exploration`.
-
-**Json{}:**
-
-```
-jsonCopy{  
-  "manifold_id": "MANIFOLD_INQUIRY_PHYSICS_V1",  
-  "description": "An abstract Praxial Manifold for the process of scientific inquiry.",  
-  "dimensions": ["Hypothesis_Specificity", "Evidential_Support", "Paradigm_Coherence"],  
-  "attractors": [  
-    { "name": "Hypothesis_Generation", "type": "chaotic_region" },  
-    { "name": "Confirmation_Bias_Trap", "type": "local_minimum" },  
-    { "name": "Paradigm_Shift_Peak", "type": "saddle_point" }  
-  ],  
-  "cga_compliance": "The Law of Conscious Navigation"  
-}  
-```
-
-**Implementation (detail):** A `['Cognitive Assistant'(-ing) BPMS]` `implements for` this `manifold` as a `diagnostic tool`. It `observes` the `scientist's` `trajectories` (e.g., papers read, experiments run) and uses the `geometry` to provide `conscious feedback`, fulfilling `The Law of Conscious Navigation`.
-
-###### **Instance: The Diplomat's Social Space**
-
-**ID:** `PM-INSTANCE-003`
-
- `['Negotiation Outcome Manifold'(-ing) BPMS]`
-
-**CGA:** `The Law of Manifold Symbiosis` (ID: `SETTING-CORE-286`)
-
-**Type:** `[Social BPMS]; [Game Theory BPMS]; [Strategy BPMS]`
-
-**'Praxial Triage: Analysis':** This is a `shared`, `symbiotic` `Praxial Manifold` that is `co-created` by two or more `negotiating agents`. It represents the `space of possible relationships`. Its `dimensions` could be "Mutual Trust" and "Resource Division." Its `utility` is in making `social dynamics` a `computable`, `geometric fact`.
-
-**'How to...?':**
-
-- How is the `manifold` `forged` with `attractors` for "Cooperation" (Win-Win), "Competition" (Win-Lose), "Conflict" (Lose-Lose), and "Stalemate" (a flat, high-friction plateau)?
-- How does an `action` of `goodwill` from one agent `implement for` `The Law of Manifold Symbiosis` by `sending a warp command` that deepens the "Cooperation" `attractor` for *all* participants?
-- How does a `threat` create a `repulsor field` around the "Cooperation" `attractor`, making it `geometrically` harder to reach?
-
-**'What if...?':**
-
-- What if a `[Mediator BPMS]` is a `service` that `smooths` the `manifold`, reducing the `energy barriers` between `attractors` to facilitate compromise?
-- What if `betrayal` is `modeled` as one agent `secretly` creating a `hidden attractor` on the `manifold` that only they can see?
-- What if `super intelligence` `synthesizes` the `manifolds` of an entire `society` to `forge` a `higher-order` `['Cultural Value Manifold'(-ing) BPMS]`?
-
-**'What is happening continuously?':**
-
-- The `state of the relationship` is a single point on a `shared geometric reality`.
-- The `manifold` is `living`, its `shape` being a `real-time atomic fact` of the `social reality` between the agents.
-- The `system` is `instantiating` the `phenomenon` of `social dynamics`, where `actions` are `geometric operations` on a `shared space`.
-
-**Json{}:**
-
-```
-jsonCopy{  
-  "manifold_id": "MANIFOLD_NEGOTIATION_AB_V1",  
-  "status": "ACTIVE_SHARED",  
-  "participants": ["AGENT_A", "AGENT_B"],  
-  "description": "A shared Praxial Manifold for a two-party negotiation.",  
-  "dimensions": ["Mutual_Trust", "Resource_Split_A_vs_B"],  
-  "attractors": [  
-    { "name": "Win_Win_Basin", "position": [0.8, 0.5] },  
-    { "name": "Lose_Lose_Pit", "position": [-0.8, 0.5] }  
-  ],  
-  "api_endpoint": "/manifold/warp"  
-}  
-```
-
-**Implementation (detail):** The `agents'` `[Action BPMS]` `implements for` `The Law of Manifold Symbiosis` by sending `warp commands` to the `manifold's API` after each `action`. The `manifold` itself is the `['atomic facts'(-ing) BPMS]` representing the `truth` of the relationship.
-
-###### **Instance : The Archetypal Template**
-
-**ID:** `PM-INSTANCE-004`
-
- `['Explore/Exploit Archetype Manifold'(-ing) BPMS]`
-
-**CGA:** `The Principle of Geometric Renormalization` (ID: `SETTING-CORE-289`)
-
-**Type:** `[First Principle BPMS]; ['Universality Class'(-ing) BPMS]; [Metasystem Engine BPMS]`
-
-**'Praxial Triage: Analysis':** This is not a `manifold` for a specific agent, but a `renormalized` `behavioral template`—an `explicit layer` `truth` that has `emerged` from observing the `Explore/Exploit` tradeoff in thousands of `implicit layer` `manifolds`. It provides the `universal essence` of this `fundamental behavioral dilemma`.
-
-**'How to...?':**
-
-- How is this `archetype` structured with two primary `attractors`, "Explore" and "Exploit," and a `control parameter` representing "Environmental Stability"?
-- How can a `[World Builder BPMS]` `instantiate` this `template` to `forge` a `['Foraging Animal'(-ing) Manifold]` where "Environmental Stability" is linked to "Food Availability"?
-- How can it be `instantiated` for a `['Startup CEO'(-ing) Manifold]` where the `control parameter` is "Market Volatility"?
-
-**'What if...?':**
-
-- What if `super intelligence` `(discovers/builds) unknown` that the `optimal trajectory` between these two `attractors` follows a `universal mathematical law` (e.g., a multi-armed bandit solution)?
-- What if this `archetype` is `synthesized` with the `['Phase Transition Template'(-ing) BPMS]` to model `disruptive innovation`—a catastrophic jump from "Exploit" to a new, unknown "Explore" region?
-- What if `holonic minds` can `consciously navigate` this `abstract manifold` to gain `wisdom` about managing their own lives (e.g., balancing a stable career with learning new skills)?
-
-**'What is happening continuously?':**
-
-- This `archetype` exists as a `first principle` `atomic fact` in the `Ecology of First Principles of Being`.
-- It is acting as a `metasystem engine`, making the `forging` of new, specific `behavioral manifolds` more `efficient`, `robust`, and `coherent`.
-- It is `(symbiois) evolving` as `super intelligence` `renormalizes` it further, discovering its connection to other `archetypes`.
-
-**Json{}:**
-
-```
-jsonCopy{  
-  "template_id": "ARCHETYPE_EXPLORE_EXPLOIT_V1",  
-  "description": "A universal template for systems facing the explore/exploit dilemma.",  
-  "cga_compliance": "The Principle of Geometric Renormalization",  
-  "structure": {  
-    "state_variables": ["current_strategy_focus"],  
-    "control_parameters": ["environmental_stability"],  
-    "attractors": ["Explore_Region", "Exploit_Basin"],  
-    "transition_dynamics": "Function of control_parameter"  
-  },  
-  "placeholders": {  
-    "environmental_stability": "e.g., Food Scarcity, Market Volatility, Knowledge Gap"  
-  }  
-}  
-```
-
-**Implementation (detail):** This `template` is a `BPMS` that `implements for` `The Directive of Geometric Prospecting`. A `world builder` `wields` this `tool` to `forge` a specific `manifold`, `instantiating` the `placeholders`. The `archetype` itself is the `emergent` `Gnostic Yield` of the `['renormalization group'(-ing) BPMS]` `action`.
 
