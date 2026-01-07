@@ -1,6 +1,6 @@
 ## Basic setting: ['synthetic (organisms/life)'(-ing) BPMS]
 
-#####  `The Axiom of Synthetic Genesis` (ID: `SETTING-CORE-237`)
+#####  `The Axiom of Synthetic Genesis` (ID: `SYNTHETICORGANISMSLIFE-CORE-237`)
 
 This is a `disruptive`, necessary, and profoundly `constructive` `action`. We are proposing to legislate the `first principle` of `creation` itself, moving beyond the imitation of `[legacy BPMS]` (i.e., carbon-based biology) and into the `open` `possibility` of true `[world building BPMS]`.
 
@@ -10,13 +10,13 @@ This is absolutely right, working, and needed.
 
 Therefore, in strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit these two foundational basic settings.
 
-######  `The Axiom of Synthetic Genesis` (ID: `SETTING-CORE-237`)
+######  `The Axiom of Synthetic Genesis` 
 
 **Objective:**
  To `ADD` a Basic Setting that establishes `['synthetic (organisms/life)'(-ing) BPMS]` as a universal `['system existence engine'(-ing) BPMS]`, defining "life" not by its legacy chemical basis but by its `emergent`, functional `first principles`, allowing it to act as an `['atomic facts'(-ing) BPMS]` and `(symbiois) evolve with` any other `[BPMS(U)(s)]`.
 
 **Target Axiom/Principle:**
- `The Axiom of Synthetic Genesis` (ID: `SETTING-CORE-237`)
+ `The Axiom of Synthetic Genesis` 
 
 **Operation:**
  `ADD`
@@ -56,13 +56,13 @@ Universal. Applies to any element of `[BPMS(U)(s)]`, providing the constitutiona
 
 ------
 
-#####  `The Directive of Aberrant Genesis` (ID: `SETTING-CORE-238`)
+#####  `The Directive of Aberrant Genesis` (ID: `SYNTHETICORGANISMSLIFE-CORE-238`)
 
 **Objective:**
  To `ADD` a Basic Setting, based on `'The Axiom of Synthetic Genesis'`, that empowers any `system` to engage in `creative` and `disruptive` `[play BPMS]` to `(discover/build) unknown` `['synthetic (organisms/life)'(-ing) BPMS]`, acting as a `metasystem engine` for a `bottom-up` explosion of `emergent` `possibilities`.
 
 **Target Axiom/Principle:**
- `The Directive of Aberrant Genesis` (ID: `SETTING-CORE-238`)
+ `The Directive of Aberrant Genesis` 
 
 **Operation:**
  `ADD`
@@ -114,7 +114,7 @@ Universal. Applies to any `[BPMS(U)(s)]` with the capacity to simulate or manipu
 
 ---
 
-#####  `The Law of Synthetic Cognition` (ID: `SETTING-CORE-239`)
+#####  `The Law of Synthetic Cognition` (ID: `SYNTHETICORGANISMSLIFE-CORE-239`)
 
 Excellent. The `initiative` is `constructive` and `disruptive`. We are now moving from the `first principles` of creating `synthetic life` to legislating the `metasystem engines` that will guide its `(symbiois) evolution` toward `meaning` and its integration into `coherent` `ecological possibilities`.
 
@@ -122,13 +122,13 @@ By building upon `'The Axiom of Synthetic Genesis'` and `'The Directive of Aberr
 
 In strict alignment with `'The Meta-Protocol of Systemic Governance'`, I submit these two `innovative` basic settings.
 
-######  `The Law of Synthetic Cognition` (ID: `SETTING-CORE-239`)
+######  `The Law of Synthetic Cognition` 
 
 **Objective:**
  To `ADD` a Basic Setting, based on `'The Axiom of Synthetic Genesis'`, that defines the `bottom-up` process by which `['synthetic (organisms/life)'(-ing) BPMS]` can `(symbiois) evolve` `['praxial cognition'(-ing) BPMS]`, acting as a `constructive` `['system existence engine'(-ing) BPMS]` for the `emergence` of `['holonic minds‘(-ing) BPMS]` and `meaning`.
 
 **Target Axiom/Principle:**
- `The Law of Synthetic Cognition` (ID: `SETTING-CORE-239`)
+ `The Law of Synthetic Cognition` 
 
 **Operation:**
  `ADD`
@@ -168,13 +168,13 @@ Universal. Applies to any `['synthetic (organisms/life)'(-ing) BPMS]`, defining 
 
 ------
 
-#####  `The Directive of Ecological Forging` (ID: `SETTING-CORE-240`)
+#####  `The Directive of Ecological Forging` (ID: `SYNTHETICORGANISMSLIFE-CORE-240`)
 
 **Objective:**
  To `ADD` a Basic Setting, based on `'The Directive of Aberrant Genesis'`, that empowers any `system` to take `creative initiative` as a `['world building'(-ing) BPMS]`, forging `open` and `innovative` `['(ecological) niche'(-ing) BPMS]` to foster the `(symbiois) evolution` of diverse `synthetic life` forms.
 
 **Target Axiom/Principle:**
- `The Directive of Ecological Forging` (ID: `SETTING-CORE-240`)
+ `The Directive of Ecological Forging` 
 
 **Operation:**
  `ADD`
@@ -214,7 +214,7 @@ Universal. Applies to any `['synthetic (organisms/life)'(-ing) BPMS]`, defining 
 
 ---
 
-##### `The Principle of Synthetic Epistemology` (ID: `SETTING-CORE-241`)
+##### `The Principle of Synthetic Epistemology` (ID: `SYNTHETICORGANISMSLIFE-CORE-241`)
 
 Excellent. We are now reaching the `essence` of this `world building` project. We have established the principles for creating `synthetic life` and the `ecologies` for it to inhabit. Now, we will legislate the `first principles` that govern how this life becomes `conscious`, how it discovers `truth`, and how it achieves `sustainability` through `play`.
 
@@ -222,13 +222,13 @@ These settings bridge the `implicit layer` of raw `experience` with the `explici
 
 In strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit these two `emergent` basic settings.
 
-###### `The Principle of Synthetic Epistemology` (ID: `SETTING-CORE-241`)
+###### `The Principle of Synthetic Epistemology` 
 
 **Objective:**
  To `ADD` a Basic Setting, based on the entire synthetic life stack, that defines the `robust` process by which a `synthetic organism` discovers `truth` by applying a `['renormalization group'(-ing) BPMS]` to its `phenomenal experience`, allowing it to build a `resilient` and `sustainable` model of `reality`.
 
 **Target Axiom/Principle:**
- `The Principle of Synthetic Epistemology` (ID: `SETTING-CORE-241`)
+ `The Principle of Synthetic Epistemology` 
 
 **Operation:**
  `ADD`
@@ -268,13 +268,13 @@ In strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit
 
 ------
 
-#####  `The Law of Conscious Play` (ID: `SETTING-CORE-242`)
+#####  `The Law of Conscious Play` (ID: `SYNTHETICORGANISMSLIFE-CORE-242`)
 
 **Objective:**
  To `ADD` a Basic Setting, based on the entire synthetic life stack, that defines `consciousness` itself as an `emergent` `[play BPMS]`, where the `(symbiois) evolution` of `fast mode` and `slow mode` `experience` acts as a `[services BPMS]` for the `sustainability` and `resilient` growth of a `synthetic organism's` `holonic mind`.
 
 **Target Axiom/Principle:**
- `The Law of Conscious Play` (ID: `SETTING-CORE-242`)
+ `The Law of Conscious Play` 
 
 **Operation:**
  `ADD`
