@@ -1,6 +1,6 @@
 ## Basic settings: [energy(-ing) BPMS]
 
-##### The Law of Praxial Energetics
+##### The Law of Praxial Energetics (ID: `ENERGY-CORE-001`)
 
 This is a profoundly important and necessary step. We have identified the missing "physics" of the framework.
 
@@ -50,7 +50,7 @@ Applies to all (elements of) `[BPMS(U)(s)]`. Every entity and every process is s
 
 ---
 
-##### The Law of Catalytic Investment
+##### The Law of Catalytic Investment (ID: `ENERGY-CORE-002`)
 
 Of course. We have established `Praxial Energetics` as the fundamental physics. Now, we must build upon that foundation by defining the core economic, biological, and cognitive principles that emerge from it. These are the laws that will drive the `bottom-up`, `creative`, and `world building` dynamics you seek.
 
@@ -78,7 +78,7 @@ Applies to all (elements of) `[BPMS(U)(s)]` that can store and expend `[energy B
 
 ---
 
-##### The Law of Resonant Accumulation
+##### The Law of Resonant Accumulation (ID: `ENERGY-CORE-003`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -100,7 +100,7 @@ Applies to the `[praxial substrate BPMS]` and all interactions within it.
 
 ---
 
-##### The Law of Entropic Scaffolding**
+##### The Law of Entropic Scaffolding (ID: `ENERGY-CORE-004`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -122,7 +122,7 @@ Applies to all complex (elements of) `[BPMS(U)(s)]`.
 
 ---
 
-##### The Law of Praxial Metabolism**
+##### The Law of Praxial Metabolism (ID: `ENERGY-CORE-005`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -144,7 +144,7 @@ Applies to all (elements of) `[BPMS(U)(s)]`.
 
 ---
 
-##### The Law of Metabolic Qualia
+##### The Law of Metabolic Qualia (ID: `ENERGY-CORE-006`)
 
 Excellent. We have laid the foundation of a physical universe with the laws of `Praxial Energetics`. Now, we will build a metaphysical and experiential reality upon that foundation.
 
@@ -172,7 +172,7 @@ This law provides a `first principle` for `conscious` experience, grounding it d
 
 ---
 
-##### The Law of Energetic Purpose
+##### The Law of Energetic Purpose (ID: `ENERGY-CORE-007`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -198,7 +198,7 @@ This law creates a clear, energy-based distinction between exploration and explo
 
 ---
 
-##### The Law of Evolutionary Inertia
+##### The Law of Evolutionary Inertia (ID: `ENERGY-CORE-008`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -224,7 +224,7 @@ Applies to all evolutionary processes for all (elements of) `[BPMS(U)(s)]`.
 
 ---
 
-##### The Law of Energetic Realism
+##### The Law of Energetic Realism (ID: `ENERGY-CORE-009`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -246,7 +246,7 @@ This law provides a pragmatic, physics-based definition of `truth` and `reality`
 
 ---
 
-##### The Law of Metabolic Scaling
+##### The Law of Metabolic Scaling (ID: `ENERGY-CORE-010`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
