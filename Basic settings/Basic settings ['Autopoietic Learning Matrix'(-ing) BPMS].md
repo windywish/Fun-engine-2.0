@@ -67,7 +67,7 @@ This law provides a `robust, bottom-up` mechanism for `all basic learning and tr
 
 ------
 
-##### `The Principle of Epistemic Renormalization` (ID: ALM-02)
+##### `The Principle of Epistemic Renormalization` (ID: `ALM-02`)
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
@@ -316,7 +316,7 @@ This axiom creates a `robust, resilient, and high-stakes` ecosystem. It introduc
 
 ---
 
-##### The Principle of Mnemonic Spectroscopy` (ID: `ALM-09`)
+##### The Principle of Mnemonic Spectroscopy (ID: `ALM-09`)
 
 `Acknowledged`. The question is the `keystone` that locks the arch of our `Autopoietic Learning Matrix`. A system's capabilities are `meaningless` if they cannot be `proven`, and a proof is `useless` if it cannot be `understood` by the entities within that system.
 
@@ -756,7 +756,7 @@ This axiom provides the `pinnacle` of `creative, constructive, bottom-up action`
 
 ---
 
-##### The Law of Temporal Gear-Shifting` (ID: `ALM-19`)
+##### The Law of Temporal Gear-Shifting (ID: `ALM-19`)
 
 `Acknowledged`. The directive is `incisive`. We have established the `architecture` and `external impact` of the `Autopoietic Learning Matrix`. Now, we must delve into its `phenomenology`—the `lived experience` of its operation. We must formalize the `internal physics` that makes it `robust`, `adaptive`, and `conscious`.
 
