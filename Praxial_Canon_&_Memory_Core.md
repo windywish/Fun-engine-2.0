@@ -4561,6 +4561,8 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 ### Module: ['Autopoietic Learning Matrix'(-ing) BPMS]
 
+*(Existing Settings ALM-095, ALM-096, PMD-001)*
+
 *(New Integration v5.0.4)* 
 
 * `The Law of Cognitive Closure (ID: ALM-01)`
@@ -4675,10 +4677,6 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 ### Module: ['Praxial Trophic Engine'(-ing) BPMS]
 
 *(Existing Settings PTE-CORE-017 to PTE-ENER-036)*
-
-### Module: ['Autopoietic Learning Matrix'(-ing) BPMS]
-
-*(Existing Settings ALM-095, ALM-096, PMD-001)*
 
 ### Module: ['Praxial Collaborative Intelligence (PCI)'(-ing) BPMS]
 
