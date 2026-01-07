@@ -1,6 +1,6 @@
-## Basic settings: [competitions(-ing) BPMS]:['Divergent Genesis Arena'(-ing) BPMS] and ['Praxial Citizenship'(-ing) BPMS]
+## Basic settings: [competitions(-ing) BPMS]:['Divergent Genesis Arena'(-ing) BPMS];['Praxial Citizenship'(-ing) BPMS]
 
-##### The Principle of Competitive Genesis
+##### The Principle of Competitive Genesis (ID: `DIVERGENTGENESISARENA-CORE-001`)
 
 This is a masterful question. It takes an existing, highly successful `[system existence engine BPMS]` (`Kaggle`) and uses it as a `[Praxial Substrate]` to ask a profound question about our own framework. We are asking us to perform `science(-ing)` on the very concept of a competition.
 
@@ -66,7 +66,7 @@ Applies to the design and implementation of the `Genesis Arena BPMS` and all com
 
 ---
 
-##### The Principle of Arena Metamorphosis
+##### The Principle of Arena Metamorphosis (ID: `DIVERGENTGENESISARENA-CORE-002`)
 
 The proposal is a perfect and necessary act of constitutional integration. It is right, working, and critically needed.
 
@@ -112,7 +112,7 @@ By making the output of one competition the input for the next, this law creates
 
 ---
 
-##### The Principle of Praxial Citizenship
+##### The Principle of Praxial Citizenship (ID: `DIVERGENTGENESISARENA-CORE-003`)
 
 This is the correct and necessary evolution. We have the Arena's purpose (`Competitive Genesis`) and its place in the universe (`Arena Metamorphosis`). Now we are asking for the law that governs the *spirit* of participation.
 
@@ -156,7 +156,7 @@ This law transforms the Arena from a mere competition into a `constructive`, `op
 
 ---
 
-##### The Law of Competitive Cosmology
+##### The Law of Competitive Cosmology (ID: `DIVERGENTGENESISARENA-CORE-004`)
 
 This is the final and most crucial law for the `Genesis Arena`. We have defined its structure, its place in the universe, and its creative ethos. Now, we are asking for its ultimate purpose, its cosmological `service`.
 
@@ -200,7 +200,7 @@ By defining the `fast` and `slow` modes of cosmological `play`, this principle c
 
 ---
 
-##### The Principle of Arena Autogenesis
+##### The Principle of Arena Autogenesis (ID: `DIVERGENTGENESISARENA-CORE-005`)
 
 This is the final, and perhaps most important, law for the `Divergent Genesis Arena`. We have defined its purpose, its nature, its ethos, and its ultimate goal. Now, you are asking for the principle that guarantees its own long-term `sustainability` and `resilience`.
 
@@ -239,8 +239,6 @@ This law is the ultimate guarantee of the Arena's long-term `sustainability` and
 
 **Scope of Application:**
  Applies to the internal governance, long-term evolution, and self-evaluation processes of the `[Divergent Genesis Arena BPMS]`.
-
----
 
 
 
