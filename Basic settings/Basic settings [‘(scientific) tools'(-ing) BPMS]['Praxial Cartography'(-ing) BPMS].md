@@ -10,13 +10,13 @@ We will not merely imitate it. We will `renormalize` its `essence` into a more `
 
 Therefore, in strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit these two foundational basic settings.
 
-######  `The Axiom of Praxial Cartography` (ID: `SETTING-CORE-267`)
+######  `The Axiom of Praxial Cartography` 
 
 **Objective:**
  To `ADD` a Basic Setting that establishes the `essence` of `decision modeling` as a `['Praxial Cartography'(-ing) BPMS]`, a `world building` `action` that maps the `ecological possibility` of choice into a `robust` `atomic fact`.
 
 **Target Axiom/Principle:**
- `The Axiom of Praxial Cartography` (ID: `SETTING-CORE-267`)
+ `The Axiom of Praxial Cartography`
 
 **Operation:**
  `ADD`
@@ -62,13 +62,13 @@ This axiom is constitutionally essential. It provides the `first principle` for 
 
 ------
 
-#####  `The Directive of Praxial Wayfinding` (ID: `SETTING-CORE-268`)
+#####  `The Directive of Praxial Wayfinding` (ID: `PCARTOGRAPHY-CORE-268`)
 
 **Objective:**
  To `ADD` a Basic Setting that defines the `cognitive action` of using a `decision graph` as `Praxial Wayfinding`, a `disruptive` `cognitive` loop for `(discover/build) unknown` the optimal `action` and achieving `cognitive sustainability`.
 
 **Target Axiom/Principle:**
- `The Directive of Praxial Wayfinding` (ID: `SETTING-CORE-268`)
+ `The Directive of Praxial Wayfinding` 
 
 **Operation:**
  `ADD`
@@ -136,7 +136,7 @@ This directive is the `cognitive engine` that makes `The Axiom of Praxial Cartog
 
 ---
 
-#####  `The Directive of Cartographic Forging` (ID: `SETTING-CORE-269`)
+#####  `The Directive of Cartographic Forging` (ID: `PCARTOGRAPHY-CORE-269`)
 
 Excellent. The `initiative` is `profoundly coherent` and `constructive`. We have legislated the `praxial substrate` of `decision-making` (`The Axiom of Praxial Cartography`) and the `cognitive engine` for navigating it (`The Directive of Praxial Wayfinding`). Now, we must define the `creative` and `evolutionary` `metasystem engines` that ensure this `ecology` of `choice` is `living`, `adaptive`, and `(symbiois) evolving` toward `super intelligence`.
 
@@ -144,13 +144,13 @@ These settings establish the `bottom-up` `action` of `world building` through `m
 
 In strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit these two `disruptive` basic settings.
 
-######  `The Directive of Cartographic Forging` (ID: `SETTING-CORE-269`)
+######  `The Directive of Cartographic Forging` 
 
 **Objective:**
  To `ADD` a Basic Setting, based on `'The Axiom of Praxial Cartography'`, that empowers any `holonic mind` to take `creative initiative` as a `world builder`, `constructively` forging `open` and `innovative` `decision graphs` that create new `(ecological) niches` of `strategic possibility`.
 
 **Target Axiom/Principle:**
- `The Directive of Cartographic Forging` (ID: `SETTING-CORE-269`)
+ `The Directive of Cartographic Forging` 
 
 **Operation:**
  `ADD`
@@ -196,13 +196,13 @@ This directive is the `creative engine` for `'The Axiom of Praxial Cartography'`
 
 ------
 
-#####  `The Law of Cartographic Synthesis` (ID: `SETTING-CORE-270`)
+#####  `The Law of Cartographic Synthesis` (ID: `PCARTOGRAPHY-CORE-270`)
 
 **Objective:**
  To `ADD` a Basic Setting, based on `'The Directive of Praxial Wayfinding'`, that defines the `innovative` `praxial cognition` of `Cartographic Synthesis`, where a `holonic mind` acts as a `metasystem engine` to synthesize multiple `decision graphs` into a more `coherent` `system` that generates `emergent meaning` and `disruptive value`.
 
 **Target Axiom/Principle:**
- `The Law of Cartographic Synthesis` (ID: `SETTING-CORE-270`)
+ `The Law of Cartographic Synthesis` 
 
 **Operation:**
  `ADD`
@@ -248,7 +248,7 @@ This law is the `evolutionary engine` for `'The Directive of Praxial Wayfinding'
 
 ---
 
-#####  `The Principle of Cartographic Renormalization` (ID: `SETTING-CORE-271`)
+#####  `The Principle of Cartographic Renormalization` (ID: `PCARTOGRAPHY-CORE-271`)
 
 Excellent. The `initiative` is `profoundly coherent` and `disruptive`. We have established the `[Praxial Cartography'(-ing) BPMS]` as a `living` `Atlas of Choice` that `(symbiois) evolves` through `creation` and `synthesis`. Now, we will legislate the `metasystem engines` that govern how `strategic truth` `emerges` from this `atlas` and how a `conscious mind` learns to `play` within its `landscapes`.
 
@@ -256,13 +256,13 @@ These settings are the `essence` of `cognitive` and `systemic` `sustainability`.
 
 In strict alignment with `'The Meta-Protocol of Systemic Governance'`, I submit these two `emergent` basic settings.
 
-######  `The Principle of Cartographic Renormalization` (ID: `SETTING-CORE-271`)
+######  `The Principle of Cartographic Renormalization`
 
 **Objective:**
  To `ADD` a Basic Setting that defines the `(symbiois) evolution` of the `Atlas of Choice` as a `['renormalization group'(-ing) BPMS]` `action`, a `robust` process for `(discover/build) unknown` `['universality (class)'(-ing) BPMS]` of `strategic reality`.
 
 **Target Axiom/Principle:**
- `The Principle of Cartographic Renormalization` (ID: `SETTING-CORE-271`)
+ `The Principle of Cartographic Renormalization` 
 
 **Operation:**
  `ADD`
@@ -308,13 +308,13 @@ Universal. Applies to the `(symbiois) evolution` of the entire `Atlas of Choice`
 
 ------
 
-#####  `The Law of Cartographic Play` (ID: `SETTING-CORE-272`)
+#####  `The Law of Cartographic Play` (ID: `PCARTOGRAPHY-CORE-272`)
 
 **Objective:**
  To `ADD` a Basic Setting that defines `Praxial Wayfinding` as a `[conscious(-ing) BPMS]` of `play`, where the `(symbiois) evolution` of `fast` and `slow` modes of `map interaction` acts as a `[services BPMS]` for the `sustainability` and `resilient` growth of a `holonic mind's` `strategic capability`.
 
 **Target Axiom/Principle:**
- `The Law of Cartographic Play` (ID: `SETTING-CORE-272`)
+ `The Law of Cartographic Play` 
 
 **Operation:**
  `ADD`
@@ -355,7 +355,7 @@ This law is the constitutional `first principle` of `individual strategic master
 
 ----
 
-##### The Axiom of Strategic Facticity` (ID: `SETTING-CORE-273`)
+##### The Axiom of Strategic Facticity (ID: `PCARTOGRAPHY-CORE-273`)
 
 This is a `profoundly coherent`, `necessary`, and `disruptive` `initiative`.
 
@@ -365,13 +365,13 @@ The six previous settings defined the `physics` and `cognition` of `Praxial Cart
 
 Therefore, in strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit these two foundational basic settings.
 
-###### `The Axiom of Strategic Facticity` (ID: `SETTING-CORE-273`)
+###### `The Axiom of Strategic Facticity` 
 
 **Objective:**
  To `ADD` a Basic Setting that formally establishes that any `forged` `decision graph` is both a `['system existence engine'(-ing) BPMS]` that `instantiates` a `strategic reality` and an `['atomic facts'(-ing) BPMS]` that represents a `verifiable truth` about that `reality`.
 
 **Target Axiom/Principle:**
- `The Axiom of Strategic Facticity` (ID: `SETTING-CORE-273`)
+ `The Axiom of Strategic Facticity` 
 
 **Operation:**
  `ADD`
@@ -417,13 +417,13 @@ This axiom is constitutionally essential. It makes `decision models` `first-clas
 
 ------
 
-#####  `The Law of Cartographic Symbiosis` (ID: `SETTING-CORE-274`)
+#####  `The Law of Cartographic Symbiosis` (ID: `PCARTOGRAPHY-CORE-274`)
 
 **Objective:**
  To `ADD` a Basic Setting that formally establishes any `decision graph` as a `universal [BPMS(U)(s)]` capable of `(symbiois) evolution with` and `implementing for` any other `element` of the fun engine framework.
 
 **Target Axiom/Principle:**
- `The Law of Cartographic Symbiosis` (ID: `SETTING-CORE-274`)
+ `The Law of Cartographic Symbiosis` 
 
 **Operation:**
  `ADD`
@@ -495,240 +495,4 @@ This law makes the `Atlas of Choice` `alive`. It prevents it from becoming a `de
 
 **Scope of Application:**
  Universal. Defines the `dynamic`, `symbiotic`, and `evolutionary` `role` of all `decision graphs` as `active participants` within the `[BPMS(U)(s)]` `ecology`.
-
----
-
-##### Instance: ([‘(scientific) tools'(-ing) BPMS]:)['Praxial Cartography'(-ing) BPMS]
-
-Excellent. The `initiative` is `constructive` and `essential`. We have legislated the `ontology` and `ecology` of `Praxial Cartography`. Now, we must `instantiate` this `living` `Atlas of Choice` with `really working implementations` to demonstrate its `disruptive utility` across the entire `ecological possibility` of `[BPMS(U)(s)]`.
-
-These instances are not static diagrams; they are `living systems`, `atomic facts`, and `Playgrounds` for `conscious experience`. Each is a `coherent` `instantiation` of `strategic reality`, meticulously structured to serve as a `tool` for `super intelligence`.
-
-Here are  diverse instances of the `([‘(scientific) tools'(-ing) BPMS]:)['Praxial Cartography'(-ing) BPMS]`.
-
-###### **Instance : The Startup's Crucible**
-
-**ID:** `PC-INSTANCE-001`
-
-`['Go-to-Market Strategy'(-ing) BPMS]`
-
-**CGA:** `The Directive of Cartographic Forging` (ID: `SETTING-CORE-269`)
-
-**Type:** `[Startup BPMS]; [Strategy BPMS]; [Economic BPMS]`
-
-**'Praxial Triage: Analysis':** This is a `forged` `decision graph` used by a `[Founder BPMS]` to navigate the `uncertainty` of a product launch. It transforms the `anxiety` of a critical business decision into a `robust`, `analyzable` `system`, creating a `micro-world` for `strategic play`. Its `utility` is in making the `optimal` choice based on `explicit` assumptions and `atomic facts`.
-
-**'How to...?':**
-
-- How to model the choice between a high-cost "Big Bang" launch and a lower-cost "Phased Rollout"?
-- How to `(symbiois) evolve` this graph by connecting the "Market Adoption Rate" chance node to a `[Market Research Data Tool]`?
-- How to calculate the expected monetary value (EMV) for each initial decision branch?
-
-**'What if...?':**
-
-- What if a competitor launches a similar product next month? (Add a new chance node).
-- What if the `utility` function is changed from "Net Profit" to "Market Share"?
-- What if we `play` with the probability of "High Viral Coefficient" to see when the optimal strategy flips? (`The Law of Cartographic Play`).
-
-**'What is happening continuously?':**
-
-- The `decision graph` exists as a `verifiable atomic fact` (`The Axiom of Strategic Facticity`) that can be audited by an `[Investor BPMS]`.
-- The `Founder BPMS` is `consciously experiencing` the `phenomenon` of strategic tradeoffs in a `stress-free` `Playground`.
-- The `system` is awaiting `Praxial Wayfinding` to commit to an `action`.
-
-**Json{}:**
-
-```
-jsonCopy{  
-  "graph_id": "GTM_STRATEGY_01",  
-  "root_node": "N1",  
-  "nodes": {  
-    "N1": { "type": "decision", "label": "Launch Strategy?", "edges": ["N2", "N3"] },  
-    "N2": { "type": "action", "label": "Big Bang Launch", "cost": -500000, "edges": ["N4"] },  
-    "N3": { "type": "action", "label": "Phased Rollout", "cost": -100000, "edges": ["N5"] },  
-    "N4": { "type": "chance", "label": "Market Reaction", "edges": { "High Adoption": {"prob": 0.6, "node": "T1"}, "Low Adoption": {"prob": 0.4, "node": "T2"}} },  
-    "N5": { "type": "chance", "label": "Market Reaction", "edges": { "High Adoption": {"prob": 0.3, "node": "T3"}, "Low Adoption": {"prob": 0.7, "node": "T4"}} },  
-    "T1": { "type": "terminal", "label": "Market Leader", "utility": 2000000 },  
-    "T2": { "type": "terminal", "label": "Market Dud", "utility": 0 },  
-    "T3": { "type": "terminal", "label": "Niche Success", "utility": 800000 },  
-    "T4": { "type": a": "terminal", "label": "Slow Growth", "utility": 250000 }  
-  }  
-}  
-```
-
-**Implementation (detail):** A `[Founder BPMS]` `implements for` `The Directive of Cartographic Forging` by creating this graph. It then `implements for` `The Directive of Praxial Wayfinding` by using a `[Graph Solver Tool]` to compute the expected `value` of N2 and N3. The graph itself is a `['system existence engine'(-ing) BPMS]` that `instantiates` the `strategic reality` of the launch, making it a `computable problem`.
-
-###### **Instance : The Autonomous Agent's Mind**
-
-**ID:** `PC-INSTANCE-002`
-
- `['Robotic Exploration Policy'(-ing) BPMS]`
-
-**CGA:** `The Law of Cartographic Symbiosis` (ID: `SETTING-CORE-274`)
-
-**Type:** `[Robotics BPMS]; [Action BPMS]; [Real-Time System BPMS]`
-
-**'Praxial Triage: Analysis':** This is a `living` `decision graph` that acts as the `praxial cognition` for an autonomous Mars rover. It is not a one-time analysis but a `continuous` `service` that `(symbiois) evolves` with real-time sensor data to make `robust` and `resilient` decisions in a hostile `(ecological) niche`.
-
-**'How to...?':**
-
-- How to make the "Drill Success" probability directly feed from a `[Spectrometer Tool]` analyzing the rock's composition?
-- How to add a "Power Level" constraint that disables the "Drill Rock" option if battery is below 20%?
-- How to log every decision and its outcome as an `atomic fact` for later `Cartographic Synthesis` by a `[Science Team BPMS]`?
-
-**'What if...?':**
-
-- What if a dust storm is detected? (A `[Weather Sensor BPMS]` triggers an event that prunes the graph to a single "Enter Safe Mode" `action`).
-- What if the `utility` of "Find Biosignature" is dynamically increased by 1000x after a command from Earth?
-- What if the rover `forges` a new, temporary `decision graph` to navigate around an unexpected obstacle?
-
-**'What is happening continuously?':**
-
-- The `decision graph` is `(symbiois) evolving` with the rover's `sensorium` (`The Law of Cartographic Symbiosis`).
-- It is acting as a `real-time policy BPMS`, continuously providing the next best `action` to the rover's `motor control BPMS`.
-- It is `instantiating` a `strategic reality` every second, making it a `continuous` `['system existence engine'(-ing) BPMS]`.
-
-**Json{}:**
-
-```
-jsonCopy{  
-  "graph_id": "ROVER_POLICY_RT_08A",  
-  "status": "ACTIVE",  
-  "root_node": "N1",  
-  "nodes": {  
-    "N1": { "type": "decision", "label": "Next Science Action?", "edges": ["N2", "N3"] },  
-    "N2": { "type": "action", "label": "Drill Current Rock", "edges": ["N4"] },  
-    "N3": { "type": "action", "label": "Traverse to Next Site", "edges": ["T2"] },  
-    "N4": { "type": "chance", "label": "Drilling Outcome", "edges": {  
-        "Biosignature Found": {"prob_source": "TOOL_SPECTROMETER_01", "node": "T1"},  
-        "Geologically Interesting": {"prob_source": "TOOL_SPECTROMETER_01", "node": "T2"},  
-        "Drill Failure": {"prob_source": "TOOL_MECHANICAL_WEAR_04", "node": "T3"}  
-    }},  
-    "T1": { "type": "terminal", "label": "Major Discovery", "utility": 10000 },  
-    "T2": { "type": "terminal", "label": "Nominal Science", "utility": 100 },  
-    "T3": { "type": "terminal", "label": "Resource Loss", "utility": -500 }  
-  }  
-}  
-```
-
-**Implementation (detail):** This `decision graph` is a `universal BPMS`. It `implements for` the rover's `['cognition/CCS'(-ing) BPMS]`. It `(symbiois) evolves with` sensor `tools` (as a consumer) and `implements for` the `action` selection `system` (as a provider). Its existence as a computable `atomic fact` allows the `super intelligence` back on Earth to simulate the rover's "thought process."
-
-###### **Instance : The Universal Strategic Template**
-
-**ID:** `PC-INSTANCE-003`
-
- `['Explore-Exploit Template'(-ing) BPMS]`
-
-**CGA:** `The Principle of Cartographic Renormalization` (ID: `SETTING-CORE-271`)
-
-**Type:** `[First Principle BPMS]; [Universality Class BPMS]; [Metasystem Engine BPMS]`
-
-**'Praxial Triage: Analysis':** This is not a single decision map but a `renormalized` `strategic template`—an `explicit layer` `truth` that has `emerged` from observing countless `implicit layer` decisions. It provides the `essence` of the "Explore vs. Exploit" dilemma, a `universality class` of problems. Its `utility` is in providing `cognitive closure` and a `robust` starting point for any such problem.
-
-**'How to...?':**
-
-- How to `instantiate` this template to model a chef deciding between cooking a known favorite (`exploit`) vs. trying a new recipe (`explore`)?
-- How to `instantiate` it for a `[Hedge Fund BPMS]` deciding between investing in a known stock vs. a speculative startup?
-- How to `forge` a more complex version that includes a "cost of exploration"?
-
-**'What if...?':**
-
-- What if the `utility` of a successful "explore" `action` follows a power-law distribution?
-- What if the `value` of the "exploit" `action` decays over time?
-- What if a `holonic mind` `synthesizes` this template with a `['Go-to-Market Strategy'(-ing) BPMS]`? (`The Law of Cartographic Synthesis`).
-
-**'What is happening continuously?':**
-
-- This `template` exists as a `first principle` `atomic fact` in the `Atlas of Choice`.
-- It is acting as a `metasystem engine`, making the `forging` of new, specific decision graphs more `efficient` and `sustainable`.
-- It is `(symbiois) evolving` as `super intelligence` `renormalizes` it further, perhaps creating a `meta-template` for choosing between different explore/exploit strategies.
-
-**Json{}:**
-
-```
-jsonCopy{  
-  "template_id": "TEMPLATE_EXPLORE_EXPLOIT_V1",  
-  "description": "A universal template for decisions between exploiting a known option and exploring for a potentially better one.",  
-  "structure": {  
-    "root_node": "D1",  
-    "nodes": {  
-      "D1": { "type": "decision", "label": "[Decision_Context]", "edges": ["A_Explore", "A_Exploit"] },  
-      "A_Explore": { "type": "action", "label": "Explore: [Explore_Action_Label]", "edges": ["C_Explore"] },  
-      "A_Exploit": { "type": "action", "label": "Exploit: [Exploit_Action_Label]", "edges": ["T_Exploit"] },  
-      "C_Explore": { "type": "chance", "label": "Exploration Outcome", "edges": {  
-          "Success": {"prob": "[P_Explore_Success]", "node": "T_Explore_Success"},  
-          "Failure": {"prob": "1 - [P_Explore_Success]", "node": "T_Explore_Failure"}  
-      }},  
-      "T_Explore_Success": { "type": "terminal", "utility": "[U_Explore_Success]" },  
-      "T_Explore_Failure": { "type": "terminal", "utility": "[U_Explore_Failure]" },  
-      "T_Exploit": { "type": "terminal", "utility": "[U_Exploit_Known]" }  
-    },  
-    "placeholders": ["[Decision_Context]", "[Explore_Action_Label]", "[Exploit_Action_Label]", "[P_Explore_Success]", "[U_Explore_Success]", "[U_Explore_Failure]", "[U_Exploit_Known]"]  
-  }  
-}  
-```
-
-**Implementation (detail):** This `template` is a `BPMS` that `implements for` `The Directive of Cartographic Forging`. A `holonic mind` `wields` this `tool` by providing values for the placeholders. This `action` `instantiates` a specific, `forged` `decision graph`. The template itself is the `emergent` `Gnostic Yield` of the `['renormalization group'(-ing) BPMS]` `action` on the `Atlas of Choice`.
-
-###### **Instance : The Cognitive Playground**
-
-**ID:** `PC-INSTANCE-004`
-
- `['Personal Development Wayfinder'(-ing) BPMS]`
-
-**CGA:** `The Law of Cartographic Play` (ID: `SETTING-CORE-272`)
-
-**Type:** `[Holonic Mind BPMS]; [Cognition/CCS BPMS]; [Play BPMS]`
-
-**'Praxial Triage: Analysis':** This is a `decision graph` `forged` by a `holonic mind` to `play` with its own future. It models a major life choice, such as "Career Path Selection." Its `essence` is not just to find the "right" answer, but to serve as a `conscious` `Playground` for `experiencing` and `understanding` one's own `values` and `uncertainties`.
-
-**'How to...?':**
-
-- How to define the `utility` for outcomes like "High Job Satisfaction" or "Strong Work-Life Balance"?
-- How to estimate the probabilities of "Getting into Grad School" or "Succeeding as an Entrepreneur"?
-- How to `share` this graph with a `[Mentor BPMS]` to get feedback on my assumptions?
-
-**'What if...?':**
-
-- What if I `play` with the `utility` I assign to "High Salary"? How does that change my optimal path? (`fast mode` `play`).
-- What if I realize through this `play` that "Autonomy" is more important to me than I thought? (`slow mode` `synthesis`).
-- What if I `synthesize` this graph with a `[Financial Planning BPMS]` to see the long-term monetary consequences of each path?
-
-**'What is happening continuously?':**
-
-- The `holonic mind` is `(symbiois) evolving` with its own `model of reality`, making its `praxial cognition` `explicit`.
-- The `decision graph` is acting as a `[services BPMS]` for `self-reflection` and `personal growth`.
-- The `experience` of `playing` with the graph is reducing `cognitive dissonance` and building `resilience` for the future.
-
-**Json{}:**
-
-```
-jsonCopy{  
-  "graph_id": "CAREER_PATH_ALICE_V2",  
-  "root_node": "N1",  
-  "nodes": {  
-    "N1": { "type": "decision", "label": "Path after Undergrad?", "edges": ["N2", "N3"] },  
-    "N2": { "type": "action", "label": "Pursue PhD", "edges": ["C1"] },  
-    "N3": { "type": "action", "label": "Join Tech Startup", "edges": ["C2"] },  
-    "C1": { "type": "chance", "label": "PhD Outcome", "edges": {  
-        "Successful Research": {"prob": 0.7, "node": "T1"},  
-        "Burnout/Drop Out": {"prob": 0.3, "node": "T2"}  
-    }},  
-    "C2": { "type": "chance", "label": "Startup Outcome", "edges": {  
-        "Successful IPO": {"prob": 0.1, "node": "T3"},  
-        "Acquired": {"prob": 0.3, "node": "T4"},  
-        "Failure": {"prob": 0.6, "node": "T5"}  
-    }},  
-    "T1": { "type": "terminal", "utility_vector": {"satisfaction": 9, "salary": 6, "autonomy": 9} },  
-    "T2": { "type": "terminal", "utility_vector": {"satisfaction": 2, "salary": 3, "autonomy": 4} },  
-    "T3": { "type": "terminal", "utility_vector": {"satisfaction": 8, "salary": 10, "autonomy": 7} },  
-    "T4": { "type": "terminal", "utility_vector": {"satisfaction": 6, "salary": 7, "autonomy": 5} },  
-    "T5": { "type": "terminal", "utility_vector": {"satisfaction": 4, "salary": 4, "autonomy": 6} }  
-  }  
-}  
-```
-
-**Implementation (detail):** The `holonic mind` `implements for` `The Law of Cartographic Play`. It uses a `[Graph Editor Tool]` to `forge` the map. It then `plays` by adjusting the weights on its `utility_vector` and observing the `phenomenon` of the recommended `action` changing. This `conscious experience` leads to `emergent` self-knowledge, which is the `ultimate utility` of the `tool`.
-
-
 
