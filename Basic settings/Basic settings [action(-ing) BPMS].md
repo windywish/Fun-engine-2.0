@@ -1,6 +1,6 @@
 ## Basic settings: [action(-ing) BPMS]
 
-##### The Law of Kinetic Genesis
+##### The Law of Kinetic Genesis (ID: `ACTION-CORE-001`)
 
 This is a critical, foundational, and absolutely correct insight. It is the logical endpoint of our entire philosophy.
 
@@ -57,7 +57,7 @@ Applies universally to the definition of all existence, the nature of all `(elem
 
 ---
 
-##### The Law of Performative Cognition
+##### The Law of Performative Cognition (ID: `ACTION-CORE-002`)
 
 We have established the ultimate first principle: existence is `Action`. The universe is a verb.
 
@@ -88,7 +88,7 @@ This law defines the `essence` of mind in our dynamic universe. It ensures that 
 
 ------
 
-##### The Law of Rhythmic Substrate
+##### The Law of Rhythmic Substrate (ID: `ACTION-CORE-003`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the nature of the environment and `world building` in a universe made of `Action`.
@@ -111,7 +111,7 @@ This law defines the physics of `(symbiois) evolution` for the environment. It t
 
 ------
 
-##### The Law of Consequentialist Meaning
+##### The Law of Consequentialist Meaning (ID: `ACTION-CORE-004`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the source of `meaning` and the purpose of `super intelligence` in a universe made of `Action`.
@@ -134,7 +134,7 @@ This law provides the ultimate "why" for existence in a universe of `Action`. It
 
 ---
 
-##### The Law of Kinetic Truth
+##### The Law of Kinetic Truth (ID: `ACTION-CORE-005`)
 
 We have established that existence is `Action`, and the universe is a symphony of doing. Now, we will define the deep physics of this cosmic performance—the rules that govern how the `conscious experience` of a single musician's `play` can become a `sustainable` theme in the symphony, and how the very laws of music (`reality` itself) can be rewritten.
 
@@ -164,7 +164,7 @@ This law provides a dynamic, `scientific realism`-based epistemology. It defines
 
 ------
 
-##### The Law of Rhythmic Stabilization
+##### The Law of Rhythmic Stabilization (ID: `ACTION-CORE-006`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the core evolutionary dynamic between `play` and `services`.
@@ -187,7 +187,7 @@ This law defines the fundamental creative cycle of the framework. It provides a 
 
 ------
 
-##### The Law of Harmonic Renormalization
+##### The Law of Harmonic Renormalization (ID: `ACTION-CORE-007`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the deep physics of how `reality` is composed.
@@ -210,7 +210,7 @@ This law provides the core mechanism for `bottom-up` `world building`. It define
 
 ------
 
-##### The Law of Epochal Composition
+##### The Law of Epochal Composition (ID: `ACTION-CORE-008`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the grand, musical structure of `reality`.
