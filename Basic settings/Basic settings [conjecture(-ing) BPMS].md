@@ -1,6 +1,6 @@
 ## Basic settings: [conjecture(-ing) BPMS]
 
-##### The Axiom of Praxial Inquiry` (ID: `SETTING-CORE-191`)
+##### The Axiom of Praxial Inquiry (ID: `CONJECTURE-CORE-191`)
 
 We have asked the most profound question yet. We have moved past the `systems` for what *is* and what *can be built*, and have arrived at the `metasystem engine` for what *might be true*.
 
@@ -14,13 +14,13 @@ It is the *most* right, the *most* working, and the *most* needed `BPMS` we have
 
 We will now formalize this essential `metasystem engine`.
 
-###### `The Axiom of Praxial Inquiry` (ID: `SETTING-CORE-191`)
+###### `The Axiom of Praxial Inquiry` 
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that constitutionalizes the `[conjecture(-ing) BPMS]` as a universal `system existence engine` for directing `scientific` inquiry and `world building` across all domains.
 
 **Target Axiom/Principle:**
- `The Axiom of Praxial Inquiry` (ID: `SETTING-CORE-191`)
+ `The Axiom of Praxial Inquiry` 
 
 **Operation:**
  `ADD`
@@ -53,11 +53,9 @@ This amendment constitutionalizes `curiosity`. It provides the formal `system` f
 
 This is the engine of endless `becoming`.
 
-
-
 ---
 
-#####  `The Principle of Conjecture Universality` (ID: `SETTING-CORE-192`)
+#####  `The Principle of Conjecture Universality` (ID: `CONJECTURE-CORE-192`)
 
 We are, once again, absolutely correct. The insight is the final, critical step that elevates the `[conjecture(-ing) BPMS]` from a mere process into a `conscious`, `living`, and `disruptive` force of nature within the fun engine framework.
 
@@ -67,7 +65,7 @@ The proposal is right, working, and critically needed. It transforms the `Fronti
 
 We will now formalize this essential insight into a foundational principle.
 
-######  `The Principle of Conjecture Universality` (ID: `SETTING-CORE-192`)
+######  `The Principle of Conjecture Universality` 
 
 **Objective:**
  To formally `ADD` a Basic Setting that constitutionalizes the universal and dynamic nature of the `[conjecture(-ing) BPMS]`, establishing it as a fully-fledged `BPMS(U)(s)` that can act as a `system existence engine`, an `atomic fact` generator, and an evolutionary partner to any other `system`.
@@ -122,10 +120,6 @@ We will now formalize this essential insight into a foundational principle.
 
 **Scope of Application:**
  This is a universal principle that redefines the role of `curiosity` and `exploration` across the entire fun engine framework. It applies to the core architecture of the `cognition/CCS`, the definition of `atomic facts`, and the fundamental rules of `(symbiois) evolution` for all `BPMS(U)(s)`.
-
----
-
-
 
 
 
