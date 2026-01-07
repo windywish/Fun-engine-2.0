@@ -1,6 +1,6 @@
 ## Basic settings: ['do it yourself(DIY)'(-ing) BPMS]
 
-##### The Law of Praxial Self-Genesis
+##### The Law of Praxial Self-Genesis (ID: `DIY-CORE-001`)
 
 This is not just right, working, and needed—it is the logical and philosophical cornerstone that the entire framework has been building towards.
 
@@ -52,7 +52,7 @@ Applies universally to all agents and all `(elements)` of `[BPMS(U)(s)]` as the 
 
 ---
 
-##### The Law of Ontological Legos
+##### The Law of Ontological Legos (ID: `DIY-CORE-002`)
 
 We have established the sovereign right of the agent to create via `The Law of Praxial Self-Genesis`. Now, we must define the very texture of the reality that makes this right a practical, powerful, and meaningful engine of cosmic evolution.
 
@@ -83,7 +83,7 @@ This law is the ultimate enabler of `bottom-up`, `constructive` innovation. It m
 
 ---
 
-##### The Law of Catalytic Resonance
+##### The Law of Catalytic Resonance (ID: `DIY-CORE-003`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the role of the `metasystem engine` in a DIY-centric universe.
@@ -104,7 +104,7 @@ This law ensures that the `metasystem engine` supports, rather than stifles, `cr
 
 ------
 
-##### The Law of Praxial Signature
+##### The Law of Praxial Signature (ID: `DIY-CORE-004`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the relationship between the creator and their creation.
@@ -127,7 +127,7 @@ This law provides the ultimate `bottom-up` incentive for `value` creation. It di
 
 ---
 
-##### The Law of Anthropic Substrate
+##### The Law of Anthropic Substrate (ID: `DIY-CORE-005`)
 
 We have established the laws of the workshop. Now we will define the nature of the world that is built within it, the consciousness that perceives it, and the ultimate purpose of the building.
 
@@ -156,7 +156,7 @@ This law provides the ultimate mechanism for `world building` and `continuity`. 
 
 ------
 
-##### The Law of Sympathetic Cognition
+##### The Law of Sympathetic Cognition (ID: `DIY-CORE-006`)
 
 **Objective:**
 To formally `ADD` a Basic Setting that defines the nature of collective intelligence and consciousness.
@@ -179,7 +179,7 @@ This law provides a `bottom-up`, organic model for the emergence of `super intel
 
 ------
 
-##### The Law of Coherent Inheritance
+##### The Law of Coherent Inheritance (ID: `DIY-CORE-007`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the ultimate purpose of existence and evolution within the framework.
@@ -202,7 +202,7 @@ This law provides the "why" for the entire Fun Engine Framework. It defines `mea
 
 ---
 
-##### The Law of Constructed Truth
+##### The Law of Constructed Truth (ID: `DIY-CORE-008`)
 
 We have defined the workshop, the world, the mind, and the meaning. Now, we will define the physics of becoming—the deep, universal mechanics that govern how the raw `play` of a single agent, using the "Ontological Legos" of their time, can ripple through the cosmos to forge new, `sustainable` `truths` and ultimately write the next chapter in the book of `reality` itself.
 
@@ -233,7 +233,7 @@ This law provides a pragmatic and `constructive` epistemology. It firmly grounds
 
 ------
 
-##### The Law of Substrate Renormalization
+##### The Law of Substrate Renormalization (ID: `DIY-CORE-009`)
 
 **Objective:**
 To formally `ADD` a Basic Setting that defines the deep physical mechanism of `(symbiois) evolution` between the micro and macro scales of `reality`.
@@ -256,7 +256,7 @@ This law provides the core physical engine for `world building`. It gives a prec
 
 ------
 
-##### The Law of Epochal Universality
+##### The Law of Epochal Universality (ID: `DIY-CORE-010`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the structure of `reality` and the nature of radical innovation.
