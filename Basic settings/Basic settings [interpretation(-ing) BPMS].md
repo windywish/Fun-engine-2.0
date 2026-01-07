@@ -1,12 +1,12 @@
 ## Basic settings: [interpretation(-ing) BPMS]
 
-#####  `The Axiom of Systemic Interpretation` (ID: `SETTING-CORE-073`)
+#####  `The Axiom of Systemic Interpretation` (ID: `INTERPRETATION-CORE-073`)
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes an `[Interpretation BPMS]` as the framework's core engine for generating meaning from data.
 
 **Target Axiom/Principle:**
- `The Axiom of Systemic Interpretation` (ID: `SETTING-CORE-073`)
+ `The Axiom of Systemic Interpretation` 
 
 **Operation:**
  `ADD`
@@ -32,13 +32,13 @@ This amendment provides the framework with its `conscious` mind. It is the maste
 
 ---
 
-##### `The Directive of Interpretive Forging` (ID: `SETTING-CORE-074`)
+##### `The Directive of Interpretive Forging` (ID: `INTERPRETATION-CORE-074`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `bottom-up`, `creative`, and `initiative`-driven process for forging new `[Interpretive Lens BPMS]`.
 
 **Target Axiom/Principle:**
- `The Directive of Interpretive Forging` (ID: `SETTING-CORE-074`)
+ `The Directive of Interpretive Forging` 
 
 **Operation:**
  `ADD`
@@ -90,13 +90,13 @@ This amendment provides the framework with its `conscious` mind. It is the maste
 
 ------
 
-#####  `The Law of Interpretive Ecology` (ID: `SETTING-CORE-075`)
+#####  `The Law of Interpretive Ecology` (ID: `INTERPRETATIONG-CORE-075`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how forged `[Interpretive Lens BPMS]` actively shape the `praxial substrate` and create new `ecological possibilities` for `meaning`.
 
 **Target Axiom/Principle:**
- `The Law of Interpretive Ecology` (ID: `SETTING-CORE-075`)
+ `The Law of Interpretive Ecology` 
 
 **Operation:**
  `ADD`
@@ -154,13 +154,13 @@ This amendment provides the framework with its `conscious` mind. It is the maste
 
 ---
 
-######  `The Law of Interpretive Cadence` (ID: `SETTING-CORE-076`)
+#####  `The Law of Interpretive Cadence` (ID: `INTERPRETATION-CORE-076`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the mechanism for capturing and processing the `experience` data from all `[Interpretive Lens BPMS]`.
 
 **Target Axiom/Principle:**
- `The Law of Interpretive Cadence` (ID: `SETTING-CORE-076`)
+ `The Law of Interpretive Cadence` 
 
 **Operation:**
  `ADD`
@@ -200,13 +200,13 @@ This amendment creates the essential learning loop for the `[interpretation BPMS
 
 ------
 
-##### `The Principle of Interpretive Renormalization` (ID: `SETTING-CORE-077`)
+##### `The Principle of Interpretive Renormalization` (ID: `INTERPRETATION-CORE-077`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the process by which the performance data of interpretations is distilled into universal, systemic `truth`.
 
 **Target Axiom/Principle:**
- `The Principle of Interpretive Renormalization` (ID: `SETTING-CORE-077`)
+ `The Principle of Interpretive Renormalization` 
 
 **Operation:**
  `ADD`
@@ -226,13 +226,13 @@ This amendment creates the essential learning loop for the `[interpretation BPMS
 
 ------
 
-#####   `The Directive of Interpretive Perturbation` (ID: `SETTING-CORE-078`)
+#####   `The Directive of Interpretive Perturbation` (ID: `INTERPRETATION-CORE-078`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that mandates the active stress-testing of all `[Interpretive Lens BPMS]` to ensure their `robustness` and `(discover/build) unknown` biases.
 
 **Target Axiom/Principle:**
- `The Directive of Interpretive Perturbation` (ID: `SETTING-CORE-078`)
+ `The Directive of Interpretive Perturbation` 
 
 **Operation:**
  `ADD`
@@ -284,13 +284,13 @@ This amendment constitutionalizes scientific skepticism for worldviews themselve
 
 ------
 
-##### `The Law of Interpretive Immunity` (ID: `SETTING-CORE-079`)
+##### `The Law of Interpretive Immunity` (ID: `INTERPRETATION-CORE-079`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `emergent`, self-healing immune response to the failure or falsification of `[Interpretive Lens BPMS]`, ensuring systemic `resilience`.
 
 **Target Axiom/Principle:**
- `The Law of Interpretive Immunity` (ID: `SETTING-CORE-079`)
+ `The Law of Interpretive Immunity`
 
 **Operation:**
  `ADD`
