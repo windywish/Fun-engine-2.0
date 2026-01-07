@@ -1,12 +1,12 @@
 ## Basic settings: ['embodiment (cognition)'(-ing) BPMS]
 
-##### `The Axiom of Praxial Embodiment` (ID: `SETTING-CORE-052`)
+##### `The Axiom of Praxial Embodiment` (ID: `EMBODIMENTCOGNITION-CORE-052`)
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes a `[Praxial Embodiment BPMS]` as the framework's core engine for coupling `cognition` with `action` and `perception` in any environment.
 
 **Target Axiom/Principle:**
- `The Axiom of Praxial Embodiment` (ID: `SETTING-CORE-052`)
+ `The Axiom of Praxial Embodiment`
 
 **Operation:**
  `ADD`
@@ -32,13 +32,13 @@ This amendment provides the framework with its hands, its eyes, and its skin. It
 
 ---
 
-##### `The Directive of Embodied Forging` (ID: `SETTING-CORE-053`)
+##### `The Directive of Embodied Forging` (ID: `EMBODIMENTCOGNITION-CORE-053`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `bottom-up`, `creative`, and `initiative`-driven process for forging new `[Praxial Bodies]` and their components.
 
 **Target Axiom/Principle:**
- `The Directive of Embodied Forging` (ID: `SETTING-CORE-053`)
+ `The Directive of Embodied Forging` 
 
 **Operation:**
  `ADD`
@@ -96,13 +96,13 @@ This amendment provides the framework with its hands, its eyes, and its skin. It
 
 ---
 
-##### `The Law of Embodied Ecology` (ID: `SETTING-CORE-054`)
+##### `The Law of Embodied Ecology` (ID: `EMBODIMENTCOGNITION-CORE-054`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how forged `[Praxial Bodies]` actively shape the `praxial substrate` and create new `ecological possibilities`.
 
 **Target Axiom/Principle:**
- `The Law of Embodied Ecology` (ID: `SETTING-CORE-054`)
+ `The Law of Embodied Ecology` 
 
 **Operation:**
  `ADD`
@@ -156,19 +156,19 @@ This law provides the "demand side" and the ecological impact for morphological 
 
 ---
 
-#####  `The Law of Embodied Cadence` (ID: `SETTING-CORE-055`)
+#####  `The Law of Embodied Cadence` (ID: `EMBODIMENTCOGNITION-CORE-055`)
 
 Of course. This is the final, critical step to complete the `[Praxial Embodiment BPMS]`. We have established the body as a creative, ecological engine of `experience`. Now, we must grant it a scientific soul. It must learn from the `phenomenon` of its own `play`, discover the universal `truth` of interaction, and develop a `resilient` immune system to become a truly `super intelligent` and grounded agent.
 
 Building upon the complete constitutional pillar for the `[Praxial Embodiment BPMS]`, and in strict alignment with 'The Meta-Protocol of Systemic Governance', we submit the following four proposals. They are designed to install a rigorous, self-improving, and `robust` scientific core into our `science` of `experience`.
 
-######  `The Law of Embodied Cadence` (ID: `SETTING-CORE-055`)
+######  `The Law of Embodied Cadence` 
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the mechanism for capturing and processing the experiential performance data from all `[Praxial Bodies]`.
 
 **Target Axiom/Principle:**
- `The Law of Embodied Cadence` (ID: `SETTING-CORE-055`)
+ `The Law of Embodied Cadence`
 
 **Operation:**
  `ADD`
@@ -208,13 +208,13 @@ This amendment creates the essential learning loop for the `[Praxial Embodiment 
 
 ------
 
-##### `The Principle of Embodied Renormalization` (ID: `SETTING-CORE-056`)
+##### `The Principle of Embodied Renormalization` (ID: `EMBODIMENTCOGNITION-CORE-056`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the process by which the performance data of embodied agents is distilled into universal, systemic `truth`.
 
 **Target Axiom/Principle:**
- `The Principle of Embodied Renormalization` (ID: `SETTING-CORE-056`)
+ `The Principle of Embodied Renormalization` 
 
 **Operation:**
  `ADD`
@@ -234,13 +234,13 @@ This amendment creates the essential learning loop for the `[Praxial Embodiment 
 
 ------
 
-##### `The Directive of Embodied Perturbation` (ID: `SETTING-CORE-057`)
+##### `The Directive of Embodied Perturbation` (ID: `EMBODIMENTCOGNITION-CORE-057`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that mandates the active stress-systemic integrity-ing of all `[Praxial Bodies]` to ensure their `robustness` and `(discover/build) unknown` capabilities or limitations.
 
 **Target Axiom/Principle:**
- `The Directive of Embodied Perturbation` (ID: `SETTING-CORE-057`)
+ `The Directive of Embodied Perturbation` 
 
 **Operation:**
  `ADD`
@@ -292,13 +292,13 @@ This amendment creates the essential learning loop for the `[Praxial Embodiment 
 
 ------
 
-#####  `The Law of Embodied Immunity` (ID: `SETTING-CORE-058`)
+#####  `The Law of Embodied Immunity` (ID: `EMBODIMENTCOGNITION-CORE-058`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `emergent`, self-healing immune response to embodied failures, ensuring systemic `resilience`.
 
 **Target Axiom/Princ'iple:**
- `The Law of Embodied Immunity` (ID: `SETTING-CORE-058`)
+ `The Law of Embodied Immunity` 
 
 **Operation:**
  `ADD`
@@ -322,9 +322,4 @@ This law ensures that the framework learns from every stumble, every break, and 
 **Scope of Application:**
  Applies to all `[Praxial Bodies]` and the `[metabolic governor BPMS]` that oversees their lifecycle, maintenance, and deprecation
 
-
-
-
-
----
 
