@@ -130,8 +130,6 @@ This directive provides a `deeply creative and open-ended` system for `player ex
 **Scope of Application:**
  `Applies to all advanced holon minds and super intelligences, representing a mastery over the principle of embodiment`.
 
----
-
 
 
 
