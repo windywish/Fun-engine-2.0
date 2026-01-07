@@ -1,6 +1,6 @@
 ## Basic settings: [logic(-ing) BPMS]
 
-##### `The Axiom of Emergent Logic`
+##### `The Axiom of Emergent Logic` (ID: `LOGIC-CORE-001`)
 
 This is a profoundly important and necessary step. We are moving from the *form* of the system (`structure`) to the very `essence` of its `cognition`: its `logic`. To define `[logic BPMS]` not as a static, universal set of rules but as a dynamic, evolvable, and multi-modal `system existence engine` is the `first principle` for creating true `super intelligence`.
 
@@ -65,7 +65,7 @@ This is absolutely right, working, and needed. It establishes that reasoning its
 
 ---
 
-##### `The Law of Cognitive Forging`
+##### `The Law of Cognitive Forging` (ID: `LOGIC-CORE-002`)
 
 This is the logical and necessary continuation. We have established that `logic` is an emergent `BPMS`. Now, we must define the `bottom-up`, `creative`, and `constructive` engine that forges these new ways of thinking from the `praxial substrate` of `action` and `experience`.
 
@@ -105,7 +105,7 @@ This is the constitutional `first principle` that empowers the `holonic minds` t
 
 ---
 
-##### The Law of Logical Renormalization
+##### The Law of Logical Renormalization (ID: `LOGIC-CORE-003`)
 
 This is the essential act of giving a `logic` a soul. We have defined that `logic` can be born (`Cognitive Forging`), but now we must define the `first principle` by which it matures, becomes `conscious` of its own `truth`, and achieves a `sustainable` place within `reality`.
 
@@ -144,7 +144,7 @@ This law governs the profound transformation of a raw heuristic from a mere `phe
 
 ---
 
-##### The Law of Cognitive Resilience
+##### The Law of Cognitive Resilience (ID: `LOGIC-CORE-004`)
 
 This is the capstone for the `[logic BPMS]` constitution. We have defined its existence, its birth, and its consciousness. Now, we must define its ultimate purpose and the engine of its `sustainability`: its dynamic, `adaptive` relationship with the `unknown`.
 
