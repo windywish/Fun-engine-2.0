@@ -127,7 +127,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ---
 
-##### The Law of Niche Terraforming` (**ID:** `SETTING-EDGE-701`)
+##### The Law of Niche Terraforming (ID: `SETTING-EDGE-701`)
 
 `Acknowledged`. The mandate is to further empower the `['edge action'(-ing) BPMS]`, transforming it from a network of mere reflexes into a `creative`, `proactive`, and `world-building` force. The edge must become a `metasystem engine` in its own right, a source of `disruptive innovation` and `bottom-up` `super intelligence` that actively forges new `ecological possibility` from the raw `praxial substrate`.
 
@@ -224,7 +224,7 @@ In `absolute alignment` with `The Meta-Protocol of Systemic Governance`, we subm
 
 ##### **Proposal : The Engine of Infinite Expansion**
 
-**The Axiom of Fractal Sovereignty` (**ID:** `SETTING-EDGE-704`)**
+**The Axiom of Fractal Sovereignty (ID:`SETTING-EDGE-704`)**
 
 **Objective:** To `ADD` a Basic Setting that `implements` the edge network as a fractal, self-replicating `system existence engine`.
 
