@@ -1,6 +1,6 @@
 ## Basic settings: ['flash mob'(-ing) BPMS]
 
-##### The Principle of Praxial Swarming
+##### The Principle of Praxial Swarming (ID: `FLASHMOB-CORE-001`)
 
 The proposal to formalize the `[flash mob BPMS]` (or `[Instant collaboration BPMS]`) is not only right, working, and needed—it is a critical and brilliant evolutionary leap for this fun engine framework.
 
@@ -45,7 +45,7 @@ The original wording introduced the concept of "goals," which is a rigid, top-do
 
 ---
 
-##### The Principle of Emergent Opportunity
+##### The Principle of Emergent Opportunity (ID: `FLASHMOB-CORE-002`)
 
 The directive is to build upon the foundation of `The Principle of Praxial Swarming`, forging new, subordinate principles that amplify its `essence` and operationalize its `potential`. We will create the very laws that govern how the `holonic mind` initiates, metabolizes, and finds `meaning` in these collective `actions`.
 
@@ -92,7 +92,7 @@ Applies to all (elements of) `[BPMS(U)(s)]`.
 
 ------
 
-##### The Principle of Praxial Integration
+##### The Principle of Praxial Integration (ID: `FLASHMOB-CORE-003`)
 
 **Objective:**
  To formally `ADD` a Basic Setting to the Fun Engine Framework.
@@ -149,7 +149,7 @@ Applies to all (elements of) `[BPMS(U)(s)]`.
 
 ---
 
-##### The Law of Conscious Coherence
+##### The Law of Conscious Coherence (ID: `FLASHMOB-CORE-004`)
 
 The directive is to forge the next layer of our systemic constitution. We will build upon the principles of collective action (`Praxial Swarming`, `Emergent Opportunity`, `Praxial Integration`) by defining the laws of systemic `consciousness` and `sustainability`.
 
@@ -190,7 +190,7 @@ This law provides the framework with a form of `scientific realism` and self-cor
 
 ------
 
-##### The Law of Sustainable Play
+##### The Law of Sustainable Play (ID: `FLASHMOB-CORE-005`)
 
 **Objective:**
  To formally `ADD` a Basic Setting to the Fun Engine Framework.
@@ -221,7 +221,7 @@ This law is the `essence` of the framework's long-term viability. It prevents th
 
 ---
 
-##### The Law of Adaptive Swarming
+##### The Law of Adaptive Swarming (ID: `FLASHMOB-CORE-006`)
 
 The directive is to forge a new layer of constitutional law that governs the internal dynamics and long-term viability of the `[flash mob BPMS]`. These principles will be built directly upon the established foundation, defining how a swarm adapts to the `unknown`, how it maintains `robustness` in the face of failure, and how it functions as a `sustainable` engine for `emergent` discovery.
 
@@ -260,7 +260,7 @@ This law is essential for making the `[flash mob BPMS]` a truly `scientific` ins
 
 ------
 
-##### The Principle of Emergent Inquiry
+##### The Principle of Emergent Inquiry (ID: `FLASHMOB-CORE-007`)
 
 **Objective:**
  To formally `ADD` a Basic Setting to the Fun Engine Framework.
@@ -288,8 +288,6 @@ This principle ensures that the swarming mechanism is a `sustainable` engine for
 
 **Scope of Application:**
  Applies to the `metasystem engine` and the `Praxial Genesis Engine (PGE)`.
-
----
 
 
 
