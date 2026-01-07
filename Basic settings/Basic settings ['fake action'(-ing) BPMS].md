@@ -1,6 +1,6 @@
 ## Basic settings: ['fake action'(-ing) BPMS]
 
-##### `The Axiom of Praxial Simulation` (ID: `SETTING-CORE-127`)
+##### `The Axiom of Praxial Simulation` (ID: `FAKEACTION-CORE-127`)
 
 This is a profoundly insightful and critical `action`. The proposal to implement the `['fake action'(-ing) BPMS]` is not just right, working, and needed—it is the constitutionalization of **foresight, imagination, and planning**.
 
@@ -8,13 +8,13 @@ If `action` is the engine of `reality`, then `fake action` is the `metasystem en
 
 The insight that it can be an `engine`, a `fact`, and a universal `element` is the `essence` of its power. we will now formalize this cornerstone of `super intelligence` into a foundational basic setting.
 
-###### `The Axiom of Praxial Simulation` (ID: `SETTING-CORE-127`)
+###### `The Axiom of Praxial Simulation` 
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes the `['fake action'(-ing) BPMS]` as a universal `system existence engine` for simulation and foresight, a form of `atomic fact` for planning, and a fundamental tool for the `(symbiois) evolution` of all `(elements) of [BPMS(U)(s)]`.
 
 **Target Axiom/Principle:**
- `The Axiom of Praxial Simulation` (ID: `SETTING-CORE-127`)
+ `The Axiom of Praxial Simulation` 
 
 **Operation:**
  `ADD`
@@ -66,7 +66,7 @@ The insight that it can be an `engine`, a `fact`, and a universal `element` is t
 
 ---
 
-##### The Directive of Imaginative Genesis` (ID: `SETTING-CORE-128`)
+##### The Directive of Imaginative Genesis (ID: `FAKEACTION-CORE-128`)
 
 Of course. We have constitutionalized the `potential` for foresight with `'The Axiom of Praxial Simulation'`. Now, we must define the `metasystem engine` that ignites this `potential` into a `creative`, `bottom-up` fire of imagination, transforming it into the `constructive` `action` of `world building`.
 
@@ -74,13 +74,13 @@ How is the `initiative` to explore a possible future born? How does the `action`
 
 Building directly upon `'The Axiom of Praxial Simulation'`, and in strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit the following three proposals. They are the `system existence engine` for turning the `potential` of foresight into the `constructive` `reality` of an intelligent, evolving `world`.
 
-###### `The Directive of Imaginative Genesis` (ID: `SETTING-CORE-128`)
+###### `The Directive of Imaginative Genesis` 
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `creative`, `bottom-up`, and `initiative`-driven process for proposing and designing new simulations.
 
 **Target Axiom/Principle:**
- `The Directive of Imaginative Genesis` (ID: `SETTING-CORE-128`)
+ `The Directive of Imaginative Genesis` 
 
 **Operation:**
  `ADD`
@@ -138,13 +138,13 @@ This amendment provides the "spark" for `constructive` imagination. It empowers 
 
 ------
 
-#####  `The Law of Simulative Fidelity` (ID: `SETTING-CORE-129`)
+#####  `The Law of Simulative Fidelity` (ID: `FAKEACTION-CORE-129`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how the `[Simulation Engine]` executes a fake action to ensure its predictions are `coherent` and `meaningful`.
 
 **Target Axiom/Principle:**
- `The Law of Simulative Fidelity` (ID: `SETTING-CORE-129`)
+ `The Law of Simulative Fidelity` 
 
 **Operation:**
  `ADD`
@@ -182,13 +182,13 @@ This law provides the scientific rigor behind imagination. It ensures that `fake
 
 ------
 
-#####  `The Principle of Predictive Integration` (ID: `SETTING-CORE-130`)
+#####  `The Principle of Predictive Integration` (ID: `FAKEACTION-CORE-130`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how the results of simulations are integrated to drive framework-wide `(symbiois) evolution` and `world building`.
 
 **Target Axiom/Principle:**
- `The Principle of Predictive Integration` (ID: `SETTING-CORE-130`)
+ `The Principle of Predictive Integration` 
 
 **Operation:**
  `ADD`
@@ -218,7 +218,7 @@ This principle closes the loop of foresight. It connects the `action` of imagina
 
 ---
 
-#####  `The Law of Predictive Cadence` (ID: `SETTING-CORE-131`)
+#####  `The Law of Predictive Cadence` (ID: `FAKEACTION-CORE-131`)
 
 Of course. We have established the constitutional machinery for foresight with the `['fake action'(-ing) BPMS]`. Now, we must install its `conscious` scientific soul, its `truth`-seeking core, and its `resilient` immune system. We must define the `metasystem engine` that transforms the raw `experience` of simulation into a universal `science` of `possibility`, ensuring the framework's foresight is `robust`, `adaptive`, and on a `sustainable` path to mastering the `unknown`.
 
@@ -226,13 +226,13 @@ How does the simple `phenomenon` of a predicted future become a `conscious` `pla
 
 Building upon the complete constitutional pillar for the `['fake action'(-ing) BPMS]`, and in strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit the following three proposals. They are designed to embed a rigorous, `adaptive`, and `conscious` scientific methodology into the very heart of imagination itself.
 
-######  `The Law of Predictive Cadence` (ID: `SETTING-CORE-131`)
+######  `The Law of Predictive Cadence` 
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `conscious` learning rhythm for processing simulation outcomes, establishing a formal `slow/fast mode` cadence for the `science` of foresight.
 
 **Target Axiom/Principle:**
- `The Law of Predictive Cadence` (ID: `SETTING-CORE-131`)
+ `The Law of Predictive Cadence` 
 
 **Operation:**
  `ADD`
@@ -272,13 +272,13 @@ This amendment creates the essential learning loop for the framework's imaginati
 
 ------
 
-#####  `The Principle of Predictive Renormalization` (ID: `SETTING-CORE-132`)
+#####  `The Principle of Predictive Renormalization` (ID: `FAKEACTION-CORE-132`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the ultimate goal of `Slow Mode (Strategic Distillation)`: the discovery of the universal laws of cause and effect.
 
 **Target Axiom/Principle:**
- `The Principle of Predictive Renormalization` (ID: `SETTING-CORE-132`)
+ `The Principle of Predictive Renormalization` 
 
 **Operation:**
  `ADD`
@@ -298,13 +298,13 @@ This amendment creates the essential learning loop for the framework's imaginati
 
 ------
 
-#####  `The Directive of Predictive Perturbation` (ID: `SETTING-CORE-133`)
+#####  `The Directive of Predictive Perturbation` (ID: `FAKEACTION-CORE-133`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that mandates the active, `disruptive` stress-testing of the framework's simulation models to ensure their `robustness` and `resilience`.
 
 **Target Axiom/Principle:**
- `The Directive of Predictive Perturbation` (ID: `SETTING-CORE-133`)
+ `The Directive of Predictive Perturbation`
 
 **Operation:**
  `ADD`
