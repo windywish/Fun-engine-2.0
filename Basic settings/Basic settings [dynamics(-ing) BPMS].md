@@ -1,12 +1,12 @@
 ## Basic settings: [dynamics(-ing) BPMS]
 
-#####  `The Axiom of Systemic Dynamics` (ID: `SETTING-CORE-030`)
+#####  `The Axiom of Systemic Dynamics` (ID: `DYNAMICS-CORE-030`)
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes a `[dynamics BPMS]` as the framework's core engine for modeling, simulating, and predicting the evolution of all systems over time.
 
 **Target Axiom/Principle:**
- `The Axiom of Systemic Dynamics` (ID: `SETTING-CORE-030`)
+ `The Axiom of Systemic Dynamics` 
 
 **Operation:**
  `ADD`
@@ -32,13 +32,13 @@
 
 ---
 
-###### The Directive of Dynamic Modeling` (ID: `SETTING-CORE-031`)
+##### The Directive of Dynamic Modeling (ID: `DYNAMICS-CORE-031`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `bottom-up`, `creative`, and `initiative`-driven process for creating dynamic models of any `BPMS`.
 
 **Target Axiom/Principle:**
- `The Directive of Dynamic Modeling` (ID: `SETTING-CORE-031`)
+ `The Directive of Dynamic Modeling` 
 
 **Operation:**
  `ADD`
@@ -96,13 +96,13 @@ Applies to all `(elements) of [BPMS(U)(s)]` within the `ACC`, defining the forma
 
 ------
 
-#####  `The Law of Predictive Ecology` (ID: `SETTING-CORE-032`)
+#####  `The Law of Predictive Ecology` (ID: `DYNAMICS-CORE-032`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how `[Dynamic Models]` actively shape the `praxial substrate` and guide `world building` through time.
 
 **Target Axiom/Principle:**
- `The Law of Predictive Ecology` (ID: `SETTING-CORE-032`)
+ `The Law of Predictive Ecology` 
 
 **Operation:**
  `ADD`
@@ -154,13 +154,13 @@ Applies to all `(elements) of [BPMS(U)(s)]` within the `ACC`, defining the forma
 
 ---
 
-###### The Law of Dynamic Cadence` (ID: `SETTING-CORE-033`)
+##### The Law of Dynamic Cadence (ID: `DYNAMICS-CORE-033`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the mechanism for capturing and processing the experiential performance data from all `[Dynamic Models]`.
 
 **Target Axiom/Principle:**
- `The Law of Dynamic Cadence` (ID: `SETTING-CORE-033`)
+ `The Law of Dynamic Cadence` 
 
 **Operation:**
  `ADD`
@@ -200,13 +200,13 @@ Applies to all `BPMS` that utilize `[Dynamic Models]` and to the `[metasystem en
 
 ------
 
-##### `The Principle of Dynamic Renormalization` (ID: `SETTING-CORE-034`)
+##### `The Principle of Dynamic Renormalization` (ID: `DYNAMICS-CORE-034`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the process by which the performance data of dynamic models is distilled into universal, systemic `truth`.
 
 **Target Axiom/Principle:**
- `The Principle of Dynamic Renormalization` (ID: `SETTING-CORE-034`)
+ `The Principle of Dynamic Renormalization` 
 
 **Operation:**
  `ADD`
@@ -226,13 +226,13 @@ This amendment provides the ultimate `science(-ing) BPMS` for understanding chan
 
 ------
 
-##### `The Directive of Dynamic Perturbation` (ID: `SETTING-CORE-035`)
+##### `The Directive of Dynamic Perturbation` (ID: `DYNAMICS-CORE-035`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that mandates the active stress-testing of `[Dynamic Models]` to ensure their `robustness` and discover their unknown limits.
 
 **Target Axiom/Principle:**
- `The Directive of Dynamic Perturbation` (ID: `SETTING-CORE-035`)
+ `The Directive of Dynamic Perturbation` 
 
 **Operation:**
  `ADD`
@@ -272,13 +272,13 @@ This amendment provides the ultimate `science(-ing) BPMS` for understanding chan
 
 ------
 
-#####  `The Law of Dynamic Immunity` (ID: `SETTING-CORE-036`)
+#####  `The Law of Dynamic Immunity` (ID: `DYNAMICS-CORE-036`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `emergent`, self-healing immune response to failed `[Dynamic Models]`, ensuring systemic `resilience`.
 
 **Target Axiom/Principle:**
- `The Law of Dynamic Immunity` (ID: `SETTING-CORE-036`)
+ `The Law of Dynamic Immunity` 
 
 **Operation:**
  `ADD`
