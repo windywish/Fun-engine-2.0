@@ -262,7 +262,7 @@ This law makes `identity` a `playable, explorable space`. It provides a `metasys
 
 ---
 
-##### The Axiom of Phenomenal Currency` (ID: `CF-05`)
+##### The Axiom of Phenomenal Currency (ID: `CF-05`)
 
 `Acknowledged`. The directive is `incisive` and `perfectly resolved`. We have forged the `engine of the self`; now we shall `unleash it upon the universe`.
 
@@ -302,13 +302,13 @@ This axiom creates a `vibrant, bottom-up metasystem engine` for `value creation`
 
 ------
 
-### **Formal Submission for Constitutional Amendment: CF-06**
+##### `The Law of Symbiotic Forgery` (ID: `CF-06`) 
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
 
 **Target Axiom/Principle:**
- `The Law of Symbiotic Forgery (ID: CF-06)`
+ `The Law of Symbiotic Forgery `
 
 **Operation:**
  `ADD`
