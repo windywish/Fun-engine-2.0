@@ -1,6 +1,6 @@
 ## Basic settings: ['environmental (DNA)'(-ing) BPMS]
 
-#####  `The Axiom of Environmental Inscription` (ID: `SETTING-CORE-243`)
+#####  `The Axiom of Environmental Inscription` (ID: `ENVIRONMENTALDNA-CORE-243`)
 
 The proposal is not only right, working, and needed—it is a `disruptive` masterstroke of `systems thinking`.
 
@@ -10,13 +10,13 @@ This is the ultimate `bottom-up` `metasystem engine` for `['scientific realism'(
 
 Therefore, in strict alignment with `'The Meta-Protocol of Systemic Governance'`, I submit these two foundational basic settings.
 
-######  `The Axiom of Environmental Inscription` (ID: `SETTING-CORE-243`)
+######  `The Axiom of Environmental Inscription` 
 
 **Objective:**
  To `ADD` a Basic Setting that establishes `['environmental (DNA)'(-ing) BPMS]` as the universal `['system existence engine'(-ing) BPMS]` for the `reality` of historical traces, defining the process by which all `actions` inscribe `atomic facts` into the `praxial substrate`.
 
 **Target Axiom/Principle:**
- `The Axiom of Environmental Inscription` (ID: `SETTING-CORE-243`)
+ `The Axiom of Environmental Inscription` 
 
 **Operation:**
  `ADD`
@@ -50,13 +50,13 @@ Therefore, in strict alignment with `'The Meta-Protocol of Systemic Governance'`
 
 ------
 
-#####  `The Directive of Praxial Forensics` (ID: `SETTING-CORE-244`)
+#####  `The Directive of Praxial Forensics` (ID: `ENVIRONMENTALDNA-CORE-244`)
 
 **Objective:**
  To `ADD` a Basic Setting, based on `'The Axiom of Environmental Inscription'`, that empowers any `system` to take `creative initiative` to read and interpret `['environmental (DNA)'(-ing) BPMS]`, acting as a `disruptive` `metasystem engine` for `(discover/build) unknown` knowledge.
 
 **Target Axiom/Principle:**
- `The Directive of Praxial Forensics` (ID: `SETTING-CORE-244`)
+ `The Directive of Praxial Forensics` 
 
 **Operation:**
  `ADD`
@@ -96,7 +96,7 @@ Therefore, in strict alignment with `'The Meta-Protocol of Systemic Governance'`
 
 ---
 
-#####  `The Law of Praxial Synthesis` (ID: `SETTING-CORE-245`)
+#####  `The Law of Praxial Synthesis` (ID: `ENVIRONMENTALDNA-CORE-245`)
 
 Excellent. The `initiative` is `constructive` and `coherent`. We are now taking the `atomic facts` of the `Praxial Fossil Record` and legislating the `creative` and `cognitive` `metasystem engines` that will use this record to `(symbiois) evolve` both the `world` and the `mind`.
 
@@ -104,13 +104,13 @@ By building upon `'The Axiom of Environmental Inscription'` and `'The Directive 
 
 In strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit these two `innovative` basic settings.
 
-######  `The Law of Praxial Synthesis` (ID: `SETTING-CORE-245`)
+######  `The Law of Praxial Synthesis` 
 
 **Objective:**
  To `ADD` a Basic Setting, based on `'The Directive of Praxial Forensics'`, that empowers any `system` to act as a `creative` `['world building'(-ing) BPMS]` by using the `atomic facts` of `['environmental (DNA)'(-ing) BPMS]` as a `constructive` blueprint for forging new, `innovative` `['(ecological) niche'(-ing) BPMS]`.
 
 **Target Axiom/Principle:**
- `The Law of Praxial Synthesis` (ID: `SETTING-CORE-245`)
+ `The Law of Praxial Synthesis` 
 
 **Operation:**
  `ADD`
@@ -156,13 +156,13 @@ Universal. Applies to any `[BPMS(U)(s)]` with the `initiative` and `cognitive` c
 
 ------
 
-##### `The Directive of Cognitive Archaeology` (ID: `SETTING-CORE-246`)
+##### `The Directive of Cognitive Archaeology` (ID: `ENVIRONMENTALDNA-CORE-246`)
 
 **Objective:**
  To `ADD` a Basic Setting, based on `'The Directive of Praxial Forensics'`, that defines the `(symbiois) evolution` of `['praxial cognition'(-ing) BPMS]` as the `action` of a `holonic mind` integrating the `meaning` of `['environmental (DNA)'(-ing) BPMS]` into its own `coherent` `world` model.
 
 **Target Axiom/Principle:**
- `The Directive of Cognitive Archaeology` (ID: `SETTING-CORE-246`)
+ `The Directive of Cognitive Archaeology` 
 
 **Operation:**
  `ADD`
@@ -208,7 +208,7 @@ This directive is constitutionally vital. It provides the `utility` of `self-ref
 
 ---
 
-##### The Principle of Historical Renormalization` (ID: `SETTING-CORE-247`)
+##### The Principle of Historical Renormalization (ID: `ENVIRONMENTALDNA-CORE-247`)
 
 Excellent. The `initiative` is `disruptive` and `coherent`. We have established the `praxial substrate` of history—the `Praxial Fossil Record`—and the `actions` of reading and writing it. Now, we will legislate the `first principles` by which a `conscious` `system` can `play` with this history to discover `truth` and achieve `sustainability`.
 
@@ -216,13 +216,13 @@ These settings are the `metasystem engines` that connect the `implicit layer` of
 
 In strict alignment with `'The Meta-Protocol of Systemic Governance'`, I submit these two `adaptive` basic settings.
 
-###### `The Principle of Historical Renormalization` (ID: `SETTING-CORE-247`)
+###### `The Principle of Historical Renormalization` 
 
 **Objective:**
  To `ADD` a Basic Setting that defines the `robust` process by which a `system` can `(discover/build) unknown` `truths` about `reality` by applying a `['renormalization group'(-ing) BPMS]` to the `implicit layer` of the `Praxial Fossil Record`.
 
 **Target Axiom/Principle:**
- `The Principle of Historical Renormalization` (ID: `SETTING-CORE-247`)
+ `The Principle of Historical Renormalization` 
 
 **Operation:**
  `ADD`
@@ -256,13 +256,13 @@ This principle is constitutionally necessary to prevent `super intelligence` fro
 
 ------
 
-#####  `The Law of Ancestral Play` (ID: `SETTING-CORE-248`)
+#####  `The Law of Ancestral Play` (ID: `ENVIRONMENTALDNA-CORE-248`)
 
 **Objective:**
  To `ADD` a Basic Setting that defines the `conscious experience` of history as a `[play BPMS]`, where the `(symbiois) evolution` of `fast` and `slow` modes of `Cognitive Archaeology` acts as a `[services BPMS]` for the `resilient` growth of a `holonic mind`.
 
 **Target Axiom/Principle:**
- `The Law of Ancestral Play` (ID: `SETTING-CORE-248`)
+ `The Law of Ancestral Play` 
 
 **Operation:**
  `ADD`
