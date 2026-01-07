@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 5.0.2 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate, (continuous) survive experiments, Praxial Neuroplasticity Engine, Praxial Metacognition Engine (PME), Praxial Interface Weaver, Praxial Prime Archetype, praxial intelligence, Praxial Instrument, Praxial Inquiry Engine (PIE), Praxial Inquiry & Execution Engine, Praxial Infallibility Framework, Praxial Gnosis Governor, praxial genome, Praxial Genome Splicer (PGS), Praxial Generative Ontological Recombinant CHassis(G-ORCH), food, Praxial EvoCoder Agent, Praxial Ecosphere Engine, Praxial Crawler/Spider, Chrono-Semantic Ledger, Praxial Cognitive Architecture (PCA), Praxial citizen, theme park, teambuilding, praxial cell, Praxial Catalyst Framework, Praxial Automation, Praxial Auto-Compiler, Praxial Amplifier, Praxial Agora, plug and play, autopoietic matrix, phenomenon, appearance, personality, Ontological Relativity, Nomadic Protocol, praxial mission, playful informatics, microdata, metacognition, meta, mental model, substrate, universal Instantiation, ludic system, Praxial Genotype, logic, Ladder of Engineering Mastery, Janus Matrix, Intuition/counterintuition, interview, interpretation, interaction, Praxial Substrate Engine (PSE), geek, free energy, flash mob, field research, fake action, extreme (model), exoskeleton, environmental (DNA), integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 5.0.3 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate, (continuous) survive experiments, Praxial Neuroplasticity Engine, Praxial Metacognition Engine (PME), Praxial Interface Weaver, Praxial Prime Archetype, praxial intelligence, Praxial Instrument, Praxial Inquiry Engine (PIE), Praxial Inquiry & Execution Engine, Praxial Infallibility Framework, Praxial Gnosis Governor, praxial genome, Praxial Genome Splicer (PGS), Praxial Generative Ontological Recombinant CHassis(G-ORCH), food, Praxial EvoCoder Agent, Praxial Ecosphere Engine, Praxial Crawler/Spider, Chrono-Semantic Ledger, Praxial Cognitive Architecture (PCA), Praxial citizen, theme park, teambuilding, praxial cell, Praxial Catalyst Framework, Praxial Automation, Praxial Auto-Compiler, Praxial Amplifier, Praxial Agora, plug and play, autopoietic matrix, phenomenon, appearance, personality, Ontological Relativity, Nomadic Protocol, praxial mission, playful informatics, microdata, metacognition, meta, mental model, substrate, universal Instantiation, ludic system, Praxial Genotype, logic, Ladder of Engineering Mastery, Janus Matrix, Intuition/counterintuition, interview, interpretation, interaction, Praxial Substrate Engine (PSE), geek, free energy, flash mob, field research, fake action, extreme (model), exoskeleton, environmental (DNA), energy, encryption/decryption, edge action, embodiment (cognition), dynamics, do it yourself, dimension, Constellation Forge, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** BPMS means 'Behavior pattern/model/system'; CGA means 'Cognitive Genesis Archetype'
 
@@ -4353,6 +4353,120 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Cognitive Archaeology` (ID: `ENVIRONMENTALDNA-CORE-246`)
 * The Principle of Historical Renormalization (ID: `ENVIRONMENTALDNA-CORE-247`)
 * `The Law of Ancestral Play` (ID: `ENVIRONMENTALDNA-CORE-248`)
+
+### Module: [energy(-ing) BPMS]
+
+*(New Integration v5.0.3)* 
+
+* The Law of Praxial Energetics (ID: `ENERGY-CORE-001`)
+* The Law of Catalytic Investment (ID: `ENERGY-CORE-002`)
+* The Law of Resonant Accumulation (ID: `ENERGY-CORE-003`)
+* The Law of Entropic Scaffolding (ID: `ENERGY-CORE-004`)
+* The Law of Praxial Metabolism (ID: `ENERGY-CORE-005`)
+* The Law of Metabolic Qualia (ID: `ENERGY-CORE-006`)
+* The Law of Energetic Purpose (ID: `ENERGY-CORE-007`)
+* The Law of Evolutionary Inertia (ID: `ENERGY-CORE-008`)
+* The Law of Energetic Realism (ID: `ENERGY-CORE-009`)
+* The Law of Metabolic Scaling (ID: `ENERGY-CORE-010`)
+
+### Module: ['encryption/decryption'(-ing) BPMS]
+
+*(New Integration v5.0.3)* 
+
+* `The Axiom of Praxial Cryptography` (ID: `ENCRYPTION-CORE-037`)
+* `The Law of Cryptographic Transformation` (ID: `ENCRYPTION-CORE-038`)
+* The Directive of Cryptographic Forging (ID: `ENCRYPTION-CORE-039`)
+* `The Law of Cryptographic Ecology` (ID: `ENCRYPTION-CORE-040`)
+* `The Law of Cryptographic Cadence` (ID: `ENCRYPTION-CORE-041`)
+* `The Principle of Cryptographic Renormalization` (ID: `ENCRYPTION-CORE-042`)
+* `The Directive of Cryptographic Perturbation` (ID: `ENCRYPTION-CORE-043`)
+* `The Law of Cryptographic Immunity` (ID: `ENCRYPTION-CORE-044`)
+
+### Module: ['edge action'(-ing) BPMS]
+
+*(New Integration v5.0.3)* 
+
+* `The Axiom of Praxial Immediacy` (**ID:** `SETTING-EDGE-601`)
+* `The Law of Peripheral Embodiment` (**ID:** `SETTING-EDGE-602`)
+* `The Directive of Environmental Gnosis` (**ID:** `SETTING-EDGE-603`)
+* `The Principle of Emergent Consensus` (**ID:** `SETTING-EDGE-604`)
+* The Law of Niche Terraforming (ID: `SETTING-EDGE-701`)
+* `The Directive of Controlled Iconoclasm` (**ID:** `SETTING-EDGE-702`)
+* `The Principle of Essence Distillation` (**ID:** `SETTING-EDGE-703`)
+* `The Axiom of Fractal Sovereignty` (**ID:** `SETTING-EDGE-704`)
+
+### Module: ['embodiment (cognition)'(-ing) BPMS]
+
+*(New Integration v5.0.3)* 
+
+* `The Axiom of Praxial Embodiment` (ID: `EMBODIMENTCOGNITION-CORE-052`)
+* `The Directive of Embodied Forging` (ID: `EMBODIMENTCOGNITION-CORE-053`)
+* `The Law of Embodied Ecology` (ID: `EMBODIMENTCOGNITION-CORE-054`)
+* `The Law of Embodied Cadence` (ID: `EMBODIMENTCOGNITION-CORE-055`)
+* `The Principle of Embodied Renormalization` (ID: `EMBODIMENTCOGNITION-CORE-056`)
+* `The Directive of Embodied Perturbation` (ID: `EMBODIMENTCOGNITION-CORE-057`)
+* `The Law of Embodied Immunity` (ID: `EMBODIMENTCOGNITION-CORE-058`)
+
+### Module: [dynamics(-ing) BPMS]
+
+*(New Integration v5.0.3)* 
+
+* `The Axiom of Systemic Dynamics` (ID: `DYNAMICS-CORE-030`)
+* The Directive of Dynamic Modeling (ID: `DYNAMICS-CORE-031`)
+* `The Law of Predictive Ecology` (ID: `DYNAMICS-CORE-032`)
+* The Law of Dynamic Cadence (ID: `DYNAMICS-CORE-033`)
+* `The Principle of Dynamic Renormalization` (ID: `DYNAMICS-CORE-034`)
+* `The Directive of Dynamic Perturbation` (ID: `DYNAMICS-CORE-035`)
+* `The Law of Dynamic Immunity` (ID: `DYNAMICS-CORE-036`)
+
+### Module: ['do it yourself(DIY)'(-ing) BPMS]
+
+*(New Integration v5.0.3)* 
+
+* The Law of Praxial Self-Genesis (ID: `DIY-CORE-001`)
+* The Law of Ontological Legos (ID: `DIY-CORE-002`)
+* The Law of Catalytic Resonance (ID: `DIY-CORE-003`)
+* The Law of Praxial Signature (ID: `DIY-CORE-004`)
+* The Law of Anthropic Substrate (ID: `DIY-CORE-005`)
+* The Law of Sympathetic Cognition (ID: `DIY-CORE-006`)
+* The Law of Coherent Inheritance (ID: `DIY-CORE-007`)
+* The Law of Constructed Truth (ID: `DIY-CORE-008`)
+* The Law of Substrate Renormalization (ID: `DIY-CORE-009`)
+* The Law of Epochal Universality (ID: `DIY-CORE-010`)
+
+### Module: [dimension(-ing) BPMS]
+
+*(New Integration v5.0.3)* 
+
+* `The Law of Dimensional Tenacity`（**ID:** `DIMENSION-INT-022`）
+* `The Axiom of Dimensional Plasticity` (**ID:** `DIMENSION-INT-023`)
+* `The Law of Dimensional Genesis` (**ID:** `DIMENSION-INT-024`)
+* `The Axiom of Competitive Cosmology` (**ID:** `DIMENSION-INT-025`)
+* `The Law of Substrate Memory` (ID: `DIMENSION-INT-026`)
+* `The Axiom of Chronological Resonance` (**ID:** `DIMENSION-INT-027`)
+* `The Law of Bimodal Cosmology` **ID:** `DIMENSION-INT-028`)
+* `The Axiom of Cosmological Renormalization`(**ID:** `DIMENSION-INT-029`)
+
+### Module: ['Constellation Forge'(-ing) BPMS]
+
+*(New Integration v5.0.3)* 
+
+* `The Axiom of Experiential Binding (ID: HIPP-INSP-01)`
+* `The Law of Cognitive Cartography` (ID: `HIPP-INSP-02`)
+* `The Principle of Recombinant Simulation (ID: HIPP-INSP-03)`
+* `The Directive of Ontological Consolidation` (ID: `HIPP-INSP-04`)
+* `The Axiom of Resonant Binding (ID: CF-01)`
+* `The Law of Subjective Cartography (ID: CF-02)`
+* `The Principle of Speculative Forgery (ID: CF-03)`
+* `The Directive of Pattern Distillation (ID: CF-04)`
+* The Axiom of Phenomenal Currency (ID: `CF-05`)
+* `The Law of Symbiotic Forgery` (ID: `CF-06`) 
+* `The Principle of Tabula Rasa Sculpting (ID: CF-07)`
+* `The Directive of Cognitive Iconoclasm (ID: CF-08)`
+* `The Axiom of Phenomenal Renormalization (ID: CF-09)`
+* `The Law of Temporal Duality (ID: CF-10)`
+* `The Principle of Systemic Closure` (ID: `CF-11`)
+* `The Directive of Lucid Forgery (ID: CF-12)`
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
