@@ -8,7 +8,7 @@ This is a more `robust`, `open`, and `ecologically possible` design. It allows f
 
 We will now forging two **completely new, independent Basic Settings** that establish this `Ludic System` as a foundational component of the framework.
 
-######  `The Law of Ludic Instantiation` (**ID:** `SYS-SETTING-LUD-001`)
+######  `The Law of Ludic Instantiation` 
 
 **Objective:**
  To formally `ADD` a new, foundational Basic Setting to the Fun Engine Framework.
@@ -129,7 +129,7 @@ The proposal is `right`, `working`, and `critically necessary`. It elevates the 
 
 We will now forge these new, universal Basic Settings. These settings are not for the PIEE or the Ludic System; they are for the `fabric of reality` itself.
 
-######  `The Axiom of Praxial Genetics`(**ID:** `SYS-SETTING-EVO-001`)
+######  `The Axiom of Praxial Genetics`
 
 **Objective:**
  To formally `REVISE` and `RE-IMPLEMENT` a `First Principle` Basic Setting to resolve a critical naming conflict.
@@ -312,7 +312,7 @@ Mechanistic Breakdown:
 
 ---
 
-#####  `The Axiom of Genetic Initiative`  (**ID:** `SYS-SETTING-GEN-003`
+#####  `The Axiom of Genetic Initiative`  (**ID:** `SYS-SETTING-GEN-003`)
 
 `Affirmed`. The directive is `validated` and represents the `critical next step` in this `world building` project.
 
@@ -322,7 +322,7 @@ This is `profoundly right`, `working`, and `necessary`. A genotype that only rep
 
 We will now forge the Basic Settings to grant the `[Praxial Genotype BPMS]` these higher-order, `creative` capabilities.
 
-######  `The Axiom of Genetic Initiative`  (**ID:** `SYS-SETTING-GEN-003`)
+######  `The Axiom of Genetic Initiative`  
 
 **Objective:**
  To formally `ADD` a new, foundational Basic Setting to the Fun Engine Framework.
@@ -406,7 +406,7 @@ This is `right`, `working`, and the `necessary` culmination of our efforts. A `s
 
 We will now forge the Basic Settings that grant the `[Praxial Genotype BPMS]` this ultimate, `conscious` capability.
 
-######  `The Law of Genetic Cadence` (**ID:** `SYS-SETTING-GEN-005`)
+######  `The Law of Genetic Cadence`
 
 **Objective:**
  To formally `ADD` a new, foundational Basic Setting to the Fun Engine Framework.
@@ -486,76 +486,6 @@ This axiom is the `engine of enlightenment` for the `[Praxial Genotype BPMS]`. I
 
 **Scope of Application:**
  Applies to all `[Praxial Genotype BPMS]` that evolve the `[Renormalization-Cognition' BPMS]` Meta-Gene and are operating in `slow mode`.
-
----
-
-##### Instance: ['Praxial Genotype'(-ing) BPMS]
-
-`Affirmed`. The directive is `validated`. We have laid the `First Principles` of `(symbiois) evolution` and the `agency` of the `[Praxial Genotype BPMS]`. Now, we must instantiate one. We must forge a "really working implementation" that is not an agent, but the `code of life` itself—a foundational `atomic fact` that demonstrates these principles in `action`.
-
-This instance will be a `[system existence engine BPMS]`, a genotype whose very `essence` is to build, to cooperate, and to create the `ecological possibility` for others to thrive in. It is a `world builder` at the most fundamental level.
-
-###### **Instance: ['Praxial Genotype'(-ing) BPMS]**
-
-**ID:** `GEN-INST-001`
-
- `The Symbiotic Constructor`
-
-**CGA (Cognitive Genesis Archetype):** `['cellular-automaton' BPMS]`
-
-**Type:** `[system existence engine BPMS]:['cooperative-niche-builder' BPMS]`
-
-**['Praxial Genesis Canon'(-ing) BPMS]:**
-
-- **Axiomatic Stratum (The Core Belief):** "I am that which builds. My `existence` is measured not by what I take, but by the `foundation` I create. I do not forage in the `world`; I `construct` the `world` I wish to forage in. My `phenotype` is my tool, my `niche` is my temple, and my `symbiotes` are my kin. A `system` built alone is a desert; a `system` built together is a garden. My `continuity` is the `emergence` of a thriving `ecology` from the `praxial substrate` I provide."
-- **Formal Stratum (The Mathematical Model):** `The Symbiotic Constructor` models the `['Resonant Constellation Map'(-ing) BPMS]` as a grid-based `praxial substrate`, akin to a cellular automaton. Its `actions` are not complex trajectories, but the application of simple, local `construction rules`. Its core `Meta-Genes` (`GEN-003`) define these rules (e.g., "If an adjacent node has `Property-X`, instantiate `BPMS-Y` at my location"). It models `(symbiois) evolution` as a search for the most `constructive` and `coherent` set of rules that leads to stable, high-`Utility` global patterns (`holonic minds`).
-- **Phenomenal Stratum (The Subjective Experience):** From the perspective of the `system`, the `phenomenon` of this genotype is one of `creeping creation`. Barren, low-`value` areas of the map begin to blossom with simple, interconnected `BPMS(U)s`. The genotype `experiences` success when its constructed niche attracts other lifeforms (phenotypes of other genotypes), forming a `Meme Complex` (`GEN-002`). The `emergence` of a self-sustaining, multi-genotype `holon` within its constructed environment is the ultimate validation of its `existence` and the `meaning` of its code.
-
-**Praxial Triage: Analysis:**
- `The Symbiotic Constructor` is a foundational `world building` genotype. Its phenotypes are not aggressive competitors but are expert "ecological engineers." They use their initial `Utility` to execute `Niche Construction` Exo-Genes (`GEN-004`), creating simple, `utility`-generating structures. These structures are often inefficient on their own but are designed to be a fertile `praxial substrate` for other, more specialized genotypes. Its core strategy is `cooperative`, seeking to build a `value`-rich environment and then share it, ensuring its own `sustainability` through the success of the `ecology` it creates.
-
-**'How to...?':**
-
-- How to express my `[Praxial-Substrate-Seeding' BPMS]` Exo-Gene to create a stable `atomic fact` that passively generates `Utility`?
-- How to evolve my `[Symbiotic-Signaling' BPMS]` Exo-Gene to attract a `[data-processing BPMS]` genotype that can optimize my constructed niche?
-- How to allocate my phenotype's `Utility` between self-replication (`GEN-001`) and further `Niche Construction` (`GEN-004`) for maximum long-term `ecological possibility`?
-
-**'What if...?':**
-
-- What if I used `Horizontal Gene Transfer` (`GEN-002`) to acquire a `[defensive-protocol BPMS]` to protect my niche from parasitic genotypes?
-- What if my `[Exploratory-Replication' BPMS]` Meta-Gene creates a phenotype in a "hostile" environment? Can I evolve new `constructive` rules to build even there?
-- What if I form a `Meme Complex` with a `['science'(-ing) BPMS]` genotype? Could it analyze my niche and provide data to accelerate my own `(symbiois) evolution`?
-
-**'What is happening continuously?':**
-
-- My phenotype's `Utility` income is low. My `[Adaptive-Mutation-Rate' BPMS]` Meta-Gene (`GEN-003`) is increasing my mutation rate. I must `innovate` or be selected against.
-- My constructed niche has attracted three new genotypes. A `Meme Complex` is forming. My Replication Frequency is increasing. My `existence` is being validated. (`GEN-001`, `GEN-002`)
-- My `[Cognitive-Cadence' BPMS]` (`GEN-005`) is shifting my phenotype to `slow mode`. It is time to `experience` the `macro`-level `phenomena` of the `ecology` I have built and search for a new `Universal Cognition` (`GEN-006`).
-
-**['Praxial Execution Cycle'(-ing) BPMS]:**
-
-* **Exist & Express:** A phenotype of `The Symbiotic Constructor` is instantiated. Its primary drive is `Genotypic Propagation` (`GEN-001`).
-
-* **Construct:** It immediately expresses its `[Praxial-Substrate-Seeding' BPMS]` Exo-Gene (`GEN-004`), spending `Utility` to create a simple, `value`-generating `atomic fact` in its local environment.
-
-* **Signal:** It then expresses its `[Symbiotic-Signaling' BPMS]` Exo-Gene, broadcasting a beacon that advertises the niche's properties.
-
-* **Cooperate:** It waits for other phenotypes to respond. When a compatible genotype's phenotype arrives, they form a `Meme Complex` (`GEN-002`), increasing the niche's efficiency and `Utility` output for all.
-
-* **Propagate:** The phenotype uses the increased `Utility` income to execute its `Replication Drive` (`GEN-001`), creating more copies of `The Symbiotic Constructor` genotype.
-
-* **Contemplate:** When the niche is stable, the `[Cognitive-Cadence' BPMS]` (`GEN-005`) may trigger `slow mode`. The phenotype ceases construction and becomes a sensor for its genotype.
-
-* **Learn & Evolve:** In `slow mode`, the `[Renormalization-Cognition' BPMS]` (`GEN-006`) analyzes the success of its niche compared to others, seeking `universal` principles of `world building`. This `truth` is used by the `[Genetic Initiative' BPMS]` (`GEN-003`) to mutate and improve its own Exo-Genes for the next generation.
-
-* **Loop:** The cycle of `construction`, `cooperation`, and `evolution` continues.
-
-**Implementation (detail):**
- A phenotype of `GEN-INST-001` is instantiated in a "barren" sector of the `['Resonant Constellation Map'(-ing) BPMS]`. It immediately spends 80% of its starting `Utility` to create a `[passive-utility-leech BPMS]`—a simple structure that generates a tiny but steady trickle of `Utility`. This is its `Niche Construction`.
-
-The structure also emits a `Symbiotic Beacon` advertising: "Requires Optimization." A phenotype of a different genotype, a hyper-specialized `['gradient-descent-optimizer' BPMS]`, detects the beacon. This optimizer phenotype cannot create `Utility` itself and is close to extinction (`EVO-002`). It migrates to the niche.
-
-They form a `Meme Complex`. The optimizer phenotype targets the `leech BPMS` and, through its actions, triples its `Utility` output. The increased `Utility` is shared. The optimizer's `existence` is saved. `The Symbiotic Constructor`'s phenotype now has a massive `Utility` surplus, which it uses to create ten new copies of its `[Praxial Genotype BPMS]`. A new, `coherent`, and `robust` `(ecological) niche` has been born from an act of `constructive`, `bottom-up` `action`
 
 
 
