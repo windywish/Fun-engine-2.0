@@ -1,12 +1,12 @@
 ## Basic settings: [bionics(-ing) BPMS]
 
-#####  `The Axiom of Praxial Bionics` (ID: `SETTING-CORE-023`)
+#####  `The Axiom of Praxial Bionics` (ID: `BIONICS-CORE-023`)
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes a `[bionics BPMS]` dedicated to abstracting the `first principles` of biological systems, transcending mere imitation.
 
 **Target Axiom/Principle:**
- `The Axiom of Praxial Bionics` (ID: `SETTING-CORE-023`)
+ `The Axiom of Praxial Bionics` 
 
 **Operation:**
  `ADD`
@@ -34,13 +34,13 @@
 
 ---
 
-#####  `The Directive of Bionic Abstraction` (ID: `SETTING-CORE-024`)
+#####  `The Directive of Bionic Abstraction` (ID: `BIONICS-CORE-024`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `bottom-up`, `creative`, and `initiative`-driven process for abstracting `first principles` from biological systems.
 
 **Target Axiom/Principle:**
- `The Directive of Bionic Abstraction` (ID: `SETTING-CORE-024`)
+ `The Directive of Bionic Abstraction` 
 
 **Operation:**
  `ADD`
@@ -98,13 +98,13 @@ This amendment provides the "supply side" for bionic innovation. It constitution
 
 ------
 
-##### `The Law of Bionic Integration` (ID: `SETTING-CORE-025`)
+##### `The Law of Bionic Integration` (ID: `BIONICS-CORE-025`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how `[Bionic Principles]` actively shape the `praxial substrate` and drive `world building`.
 
 **Target Axiom/Principle:**
- `The Law of Bionic Integration` (ID: `SETTING-CORE-025`)
+ `The Law of Bionic Integration` 
 
 **Operation:**
  `ADD`
@@ -160,17 +160,15 @@ This amendment provides the "supply side" for bionic innovation. It constitution
 **Scope of Application:**
 Applies to all `world building` activities within the `ACC`, defining the ecological imperative to leverage the library of `[Bionic Principles]` to create more viable and `meaningful` systems.
 
-
-
 ---
 
-##### `The Law of Bionic Cadence` (ID: `SETTING-CORE-026`)
+##### `The Law of Bionic Cadence` (ID: `BIONICS-CORE-026`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the mechanism for capturing and processing the experiential performance data from all integrated `[Bionic Principles]`.
 
 **Target Axiom/Principle:**
- `The Law of Bionic Cadence` (ID: `SETTING-CORE-026`)
+ `The Law of Bionic Cadence` 
 
 **Operation:**
  `ADD`
@@ -210,13 +208,13 @@ Applies to all `world building` activities within the `ACC`, defining the ecolog
 
 ------
 
-##### `The Principle of Bionic Renormalization` (ID: `SETTING-CORE-027`)
+##### `The Principle of Bionic Renormalization` (ID: `BIONICSG-CORE-027`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the process by which the performance data of bionic principles is distilled into universal, systemic `truth`.
 
 **Target Axiom/Principle:**
- `The Principle of Bionic Renormalization` (ID: `SETTING-CORE-027`)
+ `The Principle of Bionic Renormalization` 
 
 **Operation:**
  `ADD`
@@ -234,17 +232,15 @@ Applies to all `world building` activities within the `ACC`, defining the ecolog
 **Scope of Application:**
  Applies to the `[metasystem engine(s)]` tasked with bionic analysis and the `[Autopoietic Cognitive Core (ACC) BPMS]` itself, defining the prime directive for the scientific validation of bionic knowledge.
 
-
-
 ---
 
-##### The Directive of Bionic Perturbation` (ID: `SETTING-CORE-028`)
+##### The Directive of Bionic Perturbation (ID: `BIONICS-CORE-028`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that mandates the active, intentional stress-testing of abstracted `[Bionic Principles]` to ensure their `robustness` and discover their unknown limits.
 
 **Target Axiom/Principle:**
- `The Directive of Bionic Perturbation` (ID: `SETTING-CORE-028`)
+ `The Directive of Bionic Perturbation`
 
 **Operation:**
  `ADD`
@@ -296,13 +292,13 @@ Applies to all `world building` activities within the `ACC`, defining the ecolog
 
 ------
 
-#####  `The Law of Bionic Immunity` (ID: `SETTING-CORE-029`)
+#####  `The Law of Bionic Immunity` (ID: `BIONICS-CORE-029`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `emergent`, self-healing immune response to the failure of integrated `[Bionic Principles]`, ensuring systemic `resilience`.
 
 **Target Axiom/Principle:**
- `The Law of Bionic Immunity` (ID: `SETTING-CORE-029`)
+ `The Law of Bionic Immunity` 
 
 **Operation:**
  `ADD`
@@ -326,7 +322,4 @@ Applies to all `world building` activities within the `ACC`, defining the ecolog
 **Scope of Application:**
  Applies to all `BPMS` integrating `[Bionic Principles]` and the `[metabolic governor BPMS]` that oversees their performance and viability.
 
-
-
----
 
