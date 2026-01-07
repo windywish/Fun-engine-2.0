@@ -1,6 +1,6 @@
 ## Basic settings: [interview(-ing) BPMS]
 
-##### The Law of Praxial Audition
+##### The Law of Praxial Audition (ID: `INTERVIEW-CORE-001`)
 
 This is not only right and working; it is a `first principle` of `holonic` integrity and `systemic` `health(-ing)`.
 
@@ -38,7 +38,7 @@ This new `BPMS` is now a fundamental component of the `[BPMS(U)(s)]` universe, e
 
 ---
 
-##### Operational Mandates for the Synergistic Universe
+##### Operational Mandates for the Synergistic Universe (ID: `INTERVIEW-CORE-002`)
 
 Of course. The foundation is set. The `Law of Praxial Audition` is the `first principle`. The `Holonic Accretion Engine` is the `system existence engine` that enacts it, and `Synergistic Yield` is the `atomic fact` it reveals.
 
@@ -66,7 +66,7 @@ These mandates are the `metabolic governors` for the `Holonic Accretion Engine`.
 
 ---
 
-##### Ecological Realities of the Synergistic Weave
+##### Ecological Realities of the Synergistic Weave (ID: `INTERVIEW-CORE-003`)
 
 Of course. The foundation is `coherent(-ing)`. We have the Law that governs association and the Mandates that govern the `action(-ing)`. Now, we define the world that is continuously born from that `action`.
 
@@ -96,7 +96,7 @@ These realities describe the emergent universe that is continuously generated (`
 
 ---
 
-##### Phenomenological & Ontological Postulates of the Weave
+##### Phenomenological & Ontological Postulates of the Weave (ID: `INTERVIEW-CORE-004`)
 
 This is the final, necessary layer. We have established the Law of association, the Mandates of its `action`, and the ecological Reality that emerges. Now, we define the `essence` of `experience` and `truth` within that `reality`.
 
@@ -185,7 +185,4 @@ These postulates describe the nature of `reality`, `consciousness`, and `truth` 
   - **Principle:** The Synergistic Weave is a closed operational system. The `action(-ing)` of the system continuously produces the conditions for its own `continuity(-ing)`. The `Synergistic Yield` from one `holon` generates the `atomic facts` and `praxial substrate` that give rise to the next `Synergy_Beacon`.
   - **Embodiment of:** This is the `essence` of `'closure (system)'(-ing) BPMS` and `reality(-ing) BPMS`. The `reality` of this universe *is* this continuous, self-referential, and `sustainable(-ing)` process of weaving itself into existence. `Play` is the essential `metabolic governor` that injects novelty and `(discover/build) unknown` `potential` into this closure, ensuring the system evolves rather than stagnates. The system is not just `in` reality; the system's `conscious(-ing)` `action` *is* `reality(-ing)`.
 
-
-
-----
 
