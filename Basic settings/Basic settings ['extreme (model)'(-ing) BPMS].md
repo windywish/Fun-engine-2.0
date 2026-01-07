@@ -1,12 +1,12 @@
 ## Basic settings: ['extreme (model)'(-ing) BPMS]
 
-#####  `The Axiom of Extreme Modeling` (ID: `SETTING-CORE-059`)
+#####  `The Axiom of Extreme Modeling` (ID: `EXTREME-CORE-059`)
 
 **Objective:**
 To formally `ADD` a foundational Basic Setting that establishes an `[Extreme Modeling BPMS]` as the framework's core engine for simulating and understanding the absolute theoretical limits of any system, concept, or `phenomenon`.
 
 **Target Axiom/Principle:**
- `The Axiom of Extreme Modeling` (ID: `SETTING-CORE-059`)
+ `The Axiom of Extreme Modeling` 
 
 **Operation:**
  `ADD`
@@ -32,13 +32,13 @@ To formally `ADD` a foundational Basic Setting that establishes an `[Extreme Mod
 
 ---
 
-##### `The Directive of Extreme Prospecting` (ID: `SETTING-CORE-060`)
+##### `The Directive of Extreme Prospecting` (ID: `EXTREME-CORE-060`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `bottom-up`, `creative`, and `initiative`-driven process for forging `[Limit Case Models]`.
 
 **Target Axiom/Principle:**
- `The Directive of Extreme Prospecting` (ID: `SETTING-CORE-060`)
+ `The Directive of Extreme Prospecting` 
 
 **Operation:**
  `ADD`
@@ -90,13 +90,13 @@ To formally `ADD` a foundational Basic Setting that establishes an `[Extreme Mod
 
 ------
 
-##### `The Law of Asymptotic Ecology` (ID: `SETTING-CORE-061`)
+##### `The Law of Asymptotic Ecology` (ID: `EXTREME-CORE-061`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how the `[Atlas of Asymptotes]` actively shapes the `praxial substrate` and guides `coherent` `world building`.
 
 **Target Axiom/Principle:**
- `The Law of Asymptotic Ecology` (ID: `SETTING-CORE-061`)
+ `The Law of Asymptotic Ecology` 
 
 **Operation:**
  `ADD`
@@ -148,13 +148,13 @@ To formally `ADD` a foundational Basic Setting that establishes an `[Extreme Mod
 
 ---
 
-#####  `The Law of Asymptotic Cadence` (ID: `SETTING-CORE-062`)
+#####  `The Law of Asymptotic Cadence` (ID: `EXTREME-CORE-062`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the mechanism for capturing and processing the `experience` data from all `[Limit Case Models]`.
 
 **Target Axiom/Principle:**
- `The Law of Asymptotic Cadence` (ID: `SETTING-CORE-062`)
+ `The Law of Asymptotic Cadence`
 
 **Operation:**
  `ADD`
@@ -194,13 +194,13 @@ This amendment creates the essential learning loop for the `[Extreme Modeling BP
 
 ------
 
-##### `The Principle of Asymptotic Renormalization` (ID: `SETTING-CORE-063`)
+##### `The Principle of Asymptotic Renormalization` (ID: `EXTREME-CORE-063`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the process by which the data from extreme models is distilled into universal, systemic `truth`.
 
 **Target Axiom/Principle:**
- `The Principle of Asymptotic Renormalization` (ID: `SETTING-CORE-063`)
+ `The Principle of Asymptotic Renormalization` 
 
 **Operation:**
  `ADD`
@@ -222,13 +222,13 @@ This amendment creates the essential learning loop for the `[Extreme Modeling BP
 
 ---
 
-##### `The Directive of Asymptotic Perturbation` (ID: `SETTING-CORE-064`)
+##### `The Directive of Asymptotic Perturbation` (ID: `EXTREME-CORE-064`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that mandates the active stress-testing of all `[Limit Case Models]` to ensure their `robustness` and `(discover/build) unknown` sensitivities.
 
 **Target Axiom/Principle:**
- `The Directive of Asymptotic Perturbation` (ID: `SETTING-CORE-064`)
+ `The Directive of Asymptotic Perturbation` 
 
 **Operation:**
  `ADD`
@@ -274,13 +274,13 @@ This amendment constitutionalizes scientific skepticism for theoretical models. 
 
 ------
 
-##### `The Law of Asymptotic Immunity` (ID: `SETTING-CORE-065`)
+##### `The Law of Asymptotic Immunity` (ID: `EXTREME-CORE-065`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `emergent`, self-healing immune response to failed or falsified `[Limit Case Models]`, ensuring systemic `resilience`.
 
 **Target Axiom/Principle:**
- `The Law of Asymptotic Immunity` (ID: `SETTING-CORE-065`)
+ `The Law of Asymptotic Immunity` 
 
 **Operation:**
  `ADD`
