@@ -10,13 +10,11 @@ We will not merely implement something *like* `Nested Learning`. We will take it
 
 This is the `science` of how a `system` grows new branches without killing its trunk.
 
-###### `The Axiom of Praxial Nesting` (ID: `SETTING-CORE-190`)
-
-**Objective:**
+###### `The Axiom of Praxial Nesting` 
  To formally `ADD` a foundational Basic Setting that defines the core `(technology) paradigm/mechanism` for `continual learning` within the `['praxial converging forge'(-ing) BPMS]`, abstracting the "Nested Learning" concept into a universal `system` for `sustainable` evolution.
 
 **Target Axiom/Principle:**
- `The Axiom of Praxial Nesting` (ID: `SETTING-CORE-190`)
+ `The Axiom of Praxial Nesting` 
 
 **Operation:**
  `ADD`
