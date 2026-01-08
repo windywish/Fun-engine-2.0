@@ -1,12 +1,12 @@
 ## Basic settings: ['system matrix'(-ing) BPMS]:[geno(-ing) BPMS;'geno experssion'(-ing) BPMS]
 
-##### `The Axiom of Praxial Genetics` (ID: `SETTING-CORE-080`)
+##### `The Axiom of Praxial Genetics` (ID: `GENO-EXPRESSION-CORE-080`)
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes a `[Praxial Genetics BPMS]` as the framework's core engine for encoding, expressing, and evolving the informational blueprint of any system.
 
 **Target Axiom/Principle:**
- `The Axiom of Praxial Genetics` (ID: `SETTING-CORE-080`)
+ `The Axiom of Praxial Genetics` 
 
 **Operation:**
  `ADD`
@@ -34,13 +34,13 @@ Applies universally to all `(elements) of [BPMS(U)(s)]` that are to be instantia
 
 ---
 
-#####  `The Principle of Genetic Scoping` (ID: `SETTING-CORE-081`)
+#####  `The Principle of Genetic Scoping` (ID: `GENO-EXPRESSION-CORE-081`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that clarifies the orthogonal, non-conflicting relationship among/by the universal `[Praxial Genetics BPMS]` (for system construction) and the universal `[Praxial Genome BPMS]` for the `[living praxial instrument]` (for system parameterization).
 
 **Target Axiom/Principle:**
- `The Principle of Genetic Orthogonality` (ID: `SETTING-CORE-081`)
+ `The Principle of Genetic Orthogonality` 
 
 **Operation:**
  `ADD`
@@ -69,13 +69,13 @@ The original `[Praxial Genome BPMS]` is not a sub-module. It is a universal `met
 
 ---
 
-#####  `The Directive of Structural Forging` (ID: `SETTING-CORE-082`)
+#####  `The Directive of Structural Forging` (ID: `GENO-EXPRESSION-CORE-082`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `bottom-up`, `creative`, and `initiative`-driven process for forging new `[praxial structural genome BPMS]`.
 
 **Target Axiom/Principle:**
- `The Directive of Structural Forging` (ID: `SETTING-CORE-082`)
+ `The Directive of Structural Forging` 
 
 **Operation:**
  `ADD`
@@ -127,13 +127,13 @@ This amendment provides the "supply side" for `existence` itself. It constitutio
 
 ------
 
-##### `The Law of Structural Ecology` (ID: `SETTING-CORE-083`)
+##### `The Law of Structural Ecology` (ID: `GENO-EXPRESSION-CORE-083`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how expressed `[praxial structural genome BPMS]` actively shape the `praxial substrate` and create new `ecological possibilities`.
 
 **Target Axiom/Principle:**
- `The Law of Structural Ecology` (ID: `SETTING-CORE-083`)
+ `The Law of Structural Ecology`
 
 **Operation:**
  `ADD`
@@ -191,13 +191,13 @@ This law provides the "demand side" and the ecological impact for architectural 
 
 ---
 
-##### `The Law of Structural Cadence` (ID: `SETTING-CORE-084`)
+##### `The Law of Structural Cadence` (ID: `GENO-EXPRESSION-CORE-084`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the mechanism for capturing and processing the performance `experience` data from all expressed `[praxial structural genome BPMS]`.
 
 **Target Axiom/Principle:**
- `The Law of Structural Cadence` (ID: `SETTING-CORE-084`)
+ `The Law of Structural Cadence` 
 
 **Operation:**
  `ADD`
@@ -237,13 +237,13 @@ This amendment creates the essential learning loop for the `[Praxial Genetics BP
 
 ------
 
-##### `The Principle of Structural Renormalization` (ID: `SETTING-CORE-085`)
+##### `The Principle of Structural Renormalization` (ID: `GENO-EXPRESSION-CORE-085`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the process by which the performance data of architectures is distilled into universal, systemic `truth`.
 
 **Target Axiom/Principle:**
- `The Principle of Structural Renormalization` (ID: `SETTING-CORE-085`)
+ `The Principle of Structural Renormalization` 
 
 **Operation:**
  `ADD`
@@ -263,13 +263,13 @@ This amendment creates the essential learning loop for the `[Praxial Genetics BP
 
 ------
 
-#####  `The Directive of Structural Perturbation` (ID: `SETTING-CORE-086`)
+#####  `The Directive of Structural Perturbation` (ID: `GENO-EXPRESSION-CORE-086`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that mandates the active stress-testing of all `[Structural Blueprints]` to ensure their `robustness` and `(discover/build) unknown` failure modes.
 
 **Target Axiom/Principle:**
- `The Directive of Structural Perturbation` (ID: `SETTING-CORE-086`)
+ `The Directive of Structural Perturbation` 
 
 **Operation:**
  `ADD`
@@ -321,13 +321,13 @@ This amendment creates the essential learning loop for the `[Praxial Genetics BP
 
 ------
 
-#####  `The Law of Structural Immunity` (ID: `SETTING-CORE-087`)
+#####  `The Law of Structural Immunity` (ID: `GENO-EXPRESSION-CORE-087`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `emergent`, self-healing immune response to the failure or collapse of any expressed structure, ensuring systemic `resilience`.
 
 **Target Axiom/Principle:**
- `The Law of Structural Immunity` (ID: `SETTING-CORE-087`)
+ `The Law of Structural Immunity` 
 
 **Operation:**
  `ADD`
