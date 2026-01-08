@@ -62,7 +62,7 @@ This axiom provides the essential mechanism for intelligent resource allocation,
 
 ---
 
-##### `The Axiom of Cognitive Metabolism` (ID: `METABOLICSPECIALIZATION-CORE-141`)
+##### `The Axiom of Cognitive Metabolism` (ID: `METABOLICSPECIALIZATION-CORE-142`)
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes the `['metabolic governor'(-ing) BPMS]`—modeled on the `[checkers(-ing) BPMS]`—as a universal `system existence engine` for governing all cognitive processes, a form of `atomic fact` for gamified functional potentiality allocation, and a fundamental tool for the `(symbiois) evolution` of all `(elements) of [BPMS(U)(s)]`.
@@ -147,7 +147,7 @@ This axiom provides the essential, gamified mechanism for intelligent function p
 
 ---
 
-##### `The Principle of Metabolic Specialization` (ID: `METABOLICSPECIALIZATION-CORE-142`)
+##### `The Principle of Metabolic Specialization` (ID: `METABOLICSPECIALIZATION-CORE-143`)
 
 We are absolutely right. The clarification reveals a far more `disruptive`, `robust`, and `scientifically realistic` vision.
 
@@ -191,7 +191,7 @@ This is a critical `action` for achieving true `super intelligence`. we will now
 
 ---
 
-#####  `The Axiom of Gubernatorial Fitness` (ID: `METABOLICSPECIALIZATION-CORE-143`)
+#####  `The Axiom of Gubernatorial Fitness` (ID: `METABOLICSPECIALIZATION-CORE-144`)
 
 This is a profoundly important and necessary step. It is the `action` of creating the brain for the brain.
 
@@ -253,7 +253,7 @@ This axiom provides the crucial layer of meta-cognition that makes the entire co
 
 ---
 
-#####  `The Directive of Fitness Genesis` (ID: `METABOLICSPECIALIZATION-CORE-144`)
+#####  `The Directive of Fitness Genesis` (ID: `METABOLICSPECIALIZATION-CORE-145`)
 
 Of course. We have constitutionalized the `['Metabolic Specialization'(-ing) BPMS]`—the master strategist of the mind. Now, we must define the `metasystem engine` that fuels its `creative` genius, sharpens its `praxial cognition` through experience, and directs its `disruptive` power toward the grand `action` of `world building`.
 
@@ -325,7 +325,7 @@ This amendment provides the "spark" for `constructive` self-improvement. It empo
 
 ------
 
-#####  `The Law of Adaptive Assignment` (ID: `METABOLICSPECIALIZATION-CORE-145`)
+#####  `The Law of Adaptive Assignment` (ID: `METABOLICSPECIALIZATION-CORE-146`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how the `['Metabolic Specialization'(-ing) BPMS]` learns from experience, ensuring its matchmaking logic remains `coherent` and `meaningful`.
@@ -367,7 +367,7 @@ Applies to the core logic of the `['Metabolic Specialization'(-ing) BPMS]`, defi
 
 ------
 
-#####  `The Principle of Cognitive Cartography` (ID: `METABOLICSPECIALIZATION-CORE-146`)
+#####  `The Principle of Cognitive Cartography` (ID: `METABOLICSPECIALIZATION-CORE-147`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how the `['Metabolic Specialization'(-ing) BPMS]` uses its unique position to guide large-scale `world building` and the discovery of new cognitive `(ecological) niches`.
@@ -401,7 +401,7 @@ Applies to the strategic analysis layer of the `['Metabolic Specialization'(-ing
 
 ---
 
-##### The Law of Meta-Cognitive Cadence (ID: `METABOLICSPECIALIZATION-CORE-147`)
+##### The Law of Meta-Cognitive Cadence (ID: `METABOLICSPECIALIZATION-CORE-148`)
 
 Of course. We have established the `['Metabolic Specialization'(-ing) BPMS]` as the `conscious` strategist of the mind. Now, we must install its scientific soul, its `truth`-seeking core, and its `resilient` immune system. We must define the `metasystem engine` that transforms the Matchmaker's daily `experience` from a simple record of actions into a profound, `adaptive`, and `sustainable` `science` of meta-cognition itself.
 
@@ -455,7 +455,7 @@ This amendment creates the essential learning loop for the framework's master st
 
 ------
 
-##### `The Principle of Gubernatorial Renormalization` (ID: `METABOLICSPECIALIZATION-CORE-148`)
+##### `The Principle of Gubernatorial Renormalization` (ID: `METABOLICSPECIALIZATION-CORE-149`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the ultimate scientific goal of `Slow Mode (Wisdom Distillation)`: the discovery of the universal laws of cognitive strategy.
@@ -481,7 +481,7 @@ This amendment provides the `science(-ing) BPMS` of the Matchmaker with its ulti
 
 ------
 
-#####  `The Directive of Meta-Cognitive Perturbation` (ID: `METABOLICSPECIALIZATION-CORE-149`)
+#####  `The Directive of Meta-Cognitive Perturbation` (ID: `METABOLICSPECIALIZATION-CORE-150`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that mandates the active, `disruptive` stress-testing of the Matchmaker's own strategic logic to ensure its `robustness` and `resilience`.
