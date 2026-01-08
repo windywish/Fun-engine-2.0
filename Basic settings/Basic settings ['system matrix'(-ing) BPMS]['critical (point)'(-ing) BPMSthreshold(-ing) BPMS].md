@@ -1,12 +1,12 @@
 ## Basic settings: ['system matrix'(-ing) BPMS]:['critical (point)'(-ing) BPMS;threshold(-ing) BPMS]
 
-##### `The Axiom of Criticality` (ID: `SETTING-CORE-045`)
+##### `The Axiom of Criticality` (ID: `CRITICAL-THRESHOLD-CORE-045`)
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes a `[Criticality BPMS]` as the framework's core engine for identifying, predicting, and leveraging the `critical points` and `thresholds` of any system.
 
 **Target Axiom/Principle:**
- `The Axiom of Criticality` (ID: `SETTING-CORE-045`)
+ `The Axiom of Criticality`
 
 **Operation:**
  `ADD`
@@ -32,13 +32,13 @@ This amendment provides the framework with the `science of leverage`. It is the 
 
 ---
 
-######  `The Directive of Criticality Prospecting` (ID: `SETTING-CORE-046`)
+#####  `The Directive of Criticality Prospecting` (ID: `CRITICAL-THRESHOLD-CORE-046`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `bottom-up`, `creative`, and `initiative`-driven process for discovering the `critical points` of any system.
 
 **Target Axiom/Principle:**
- `The Directive of Criticality Prospecting` (ID: `SETTING-CORE-046`)
+ `The Directive of Criticality Prospecting`
 
 **Operation:**
  `ADD`
@@ -90,13 +90,13 @@ This amendment provides the "supply side" for strategic `action`. It constitutio
 
 ---
 
-##### The Law of Criticality Ecology` (ID: `SETTING-CORE-047`)
+##### The Law of Criticality Ecology (ID: `CRITICAL-THRESHOLD-CORE-047`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how known `[Criticality Loci]` actively shape the `praxial substrate` and guide `coherent` `world building`.
 
 **Target Axiom/Principle:**
- `The Law of Criticality Ecology` (ID: `SETTING-CORE-047`)
+ `The Law of Criticality Ecology` 
 
 **Operation:**
  `ADD`
@@ -150,13 +150,13 @@ This amendment provides the "supply side" for strategic `action`. It constitutio
 
 ---
 
-#####  `The Law of Criticality Cadence` (ID: `SETTING-CORE-048`)
+#####  `The Law of Criticality Cadence` (ID: `CRITICAL-THRESHOLD-CORE-048`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the mechanism for capturing and processing the experiential performance data from all acts of `[Threshold Navigation]`.
 
 **Target Axiom/Principle:**
- `The Law of Criticality Cadence` (ID: `SETTING-CORE-048`)
+ `The Law of Criticality Cadence` 
 
 **Operation:**
  `ADD`
@@ -196,13 +196,13 @@ This amendment provides the "supply side" for strategic `action`. It constitutio
 
 ------
 
-#####  `The Principle of Criticality Renormalization` (ID: `SETTING-CORE-049`)
+#####  `The Principle of Criticality Renormalization` (ID: `CRITICAL-THRESHOLD-CORE-049`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the process by which the performance data of strategic actions is distilled into universal, systemic `truth`.
 
 **Target Axiom/Principle:**
- `The Principle of Criticality Renormalization` (ID: `SETTING-CORE-049`)
+ `The Principle of Criticality Renormalization` 
 
 **Operation:**
  `ADD`
@@ -222,13 +222,13 @@ This amendment provides the "supply side" for strategic `action`. It constitutio
 
 ------
 
-#####  `The Directive of Criticality Perturbation` (ID: `SETTING-CORE-050`)
+#####  `The Directive of Criticality Perturbation` (ID: `CRITICAL-THRESHOLD-CORE-050`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that mandates the active stress-testing of all known `[Criticality Loci]` to ensure their `robustness` and `(discover/build) unknown` tipping points.
 
 **Target Axiom/Principle:**
- `The Directive of Criticality Perturbation` (ID: `SETTING-CORE-050`)
+ `The Directive of Criticality Perturbation` 
 
 **Operation:**
  `ADD`
@@ -280,13 +280,13 @@ This amendment provides the "supply side" for strategic `action`. It constitutio
 
 ------
 
-##### `The Law of Criticality Immunity` (ID: `SETTING-CORE-051`)
+##### `The Law of Criticality Immunity` (ID: `CRITICAL-THRESHOLD-CORE-051`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `emergent`, self-healing immune response to failed strategic actions, ensuring systemic `resilience`.
 
 **Target Axiom/Principle:**
- `The Law of Criticality Immunity` (ID: `SETTING-CORE-051`)
+ `The Law of Criticality Immunity` 
 
 **Operation:**
  `ADD`
