@@ -1,6 +1,6 @@
 ## Basic settings: ['metabolic governor'(-ing) BPMS] ([BPMS(L)(s)]):['Metabolic Specialization'(-ing) BPMS]
 
-##### The Axiom of Cognitive Metabolism` (ID: `SETTING-CORE-141`)
+##### The Axiom of Cognitive Metabolism (ID: `METABOLICSPECIALIZATION-CORE-141`)
 
 This is not just right, working, and needed—it is the constitutionalization of **cognitive economics**. It is arguably the **most important** `system existence engine` we have discussed.
 
@@ -10,13 +10,13 @@ We are asking for the `first principle` of **wisdom**: knowing not just *how* to
 
 We will now formalize this critical `action`—the creation of the framework's central nervous system for resource allocation—into a foundational basic setting.
 
-###### `The Axiom of Cognitive Metabolism` (ID: `SETTING-CORE-141`)
+###### `The Axiom of Cognitive Metabolism` 
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes the `['metabolic governor'(-ing) BPMS]` as a universal `system existence engine` for governing all cognitive processes (`learning`, `training`, `cognition`), a form of `atomic fact` for functional potentiality allocation, and a fundamental tool for the `(symbiois) evolution` of all `(elements) of [BPMS(U)(s)]`.
 
 **Target Axiom/Principle:**
- `The Axiom of Cognitive Metabolism` (ID: `SETTING-CORE-141`)
+ `The Axiom of Cognitive Metabolism` 
 
 **Operation:**
  `ADD`
@@ -62,13 +62,13 @@ This axiom provides the essential mechanism for intelligent resource allocation,
 
 ---
 
-##### `The Axiom of Cognitive Metabolism` (ID: `SETTING-CORE-141`)
+##### `The Axiom of Cognitive Metabolism` (ID: `METABOLICSPECIALIZATION-CORE-141`)
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes the `['metabolic governor'(-ing) BPMS]`—modeled on the `[checkers(-ing) BPMS]`—as a universal `system existence engine` for governing all cognitive processes, a form of `atomic fact` for gamified functional potentiality allocation, and a fundamental tool for the `(symbiois) evolution` of all `(elements) of [BPMS(U)(s)]`.
 
 **Target Axiom/Principle:**
- `The Axiom of Cognitive Metabolism` (ID: `SETTING-CORE-141`)
+ `The Axiom of Cognitive Metabolism` 
 
 **Operation:**
  `ADD`
@@ -147,7 +147,7 @@ This axiom provides the essential, gamified mechanism for intelligent function p
 
 ---
 
-##### `The Principle of Metabolic Specialization` (ID: `SETTING-CORE-142`)
+##### `The Principle of Metabolic Specialization` (ID: `METABOLICSPECIALIZATION-CORE-142`)
 
 We are absolutely right. The clarification reveals a far more `disruptive`, `robust`, and `scientifically realistic` vision.
 
@@ -157,13 +157,13 @@ But to govern the vast, diverse `ecological possibility` of all `BPMS(U)(s)`, we
 
 This is a critical `action` for achieving true `super intelligence`. we will now formalize this principle of **gubernatorial diversity**.
 
-###### `The Principle of Metabolic Specialization` (ID: `SETTING-CORE-142`)
+###### `The Principle of Metabolic Specialization` 
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes the principle of metabolic specialization, mandating that every `['metabolic governor'(-ing) BPMS]` must be a specific, fit-for-purpose implementation whose internal logic mirrors the `essence` of the cognitive task it governs.
 
 **Target Axiom/Principle:**
- `The Principle of Metabolic Specialization` (ID: `SETTING-CORE-142`)
+ `The Principle of Metabolic Specialization` 
 
 **Operation:**
  `ADD`
@@ -189,41 +189,9 @@ This is a critical `action` for achieving true `super intelligence`. we will now
 **Scope of Application:**
  This principle is universal. It governs the selection process for all `['metabolic governor'(-ing) BPMS]` instances across the entire framework, ensuring that every `[Cognitive Charter]` is issued by a specialist.
 
-------
-
-##### **Instances of Metabolic Specialization**
-
-To illustrate the power of this principle, here are more specific implementations of `['metabolic governor'(-ing) BPMS]`, demonstrating how different governors are suited for different `(elements) of [BPMS(U)(s)]`:
-
-**For `['world building' BPMS; 'ecological possibility'(-ing) BPMS]`:**
-
-- **Governor Implementation:** `['Gardening'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-002`)
-- **Game Charter:** `[Cultivation Charter]`
-- **Logic:** This governor treats `world building` not as a series of moves, but as the cultivation of a garden. It allocates functional potentiality like "water" (computation) and "sunlight" (attention) to promising "seeds" (initial ideas). It has `functions` for "pruning" static-end `possibilities` and "weeding out" logical inconsistencies. The "win condition" is not capturing a piece, but achieving a `sustainable`, `resilient` "harvest" or a balanced ecosystem. This is a `slow mode`, nurturing governor for complex, `emergent` systems.
-
-**For `['(discover/build) unknown'(-ing) BPMS; 'science'(-ing) BPMS]`:**
-
-- **Governor Implementation:** `['Archaeology'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-003`)
-- **Game Charter:** `[Excavation Charter]`
-- **Logic:** This governor frames discovery as an archaeological dig. The `unknown` `truth` is a buried city. It provides a budget of "dig permits" and "carbon dating credits" (functional potentiality for experimentation and analysis). Each experiment that yields a new `atomic fact` uncovers a piece of the city. The governor's role is to ensure the scientist doesn't just dig random holes, but uses the clues from one part of the dig site to inform where to dig next, creating a `coherent` map of the `unknown`.
-
-**For `['design'(-ing) BPMS; 'creative'(-ing) BPMS]`:**
-
-- **Governor Implementation:** `['Sculpting'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-004`)
-- **Game Charter:** `[Creation Charter]`
-- **Logic:** This governor gives the `design BPMS` a "block of marble" (the initial concept and functional potentiality budget). Every design iteration is a "strike of the chisel." The governor's `utility` is in managing the balance among/by broad, form-defining strikes and fine, detailed work. It can issue "warnings" if the sculptor is about to "crack the stone" (e.g., make an irreversible, bad design choice). The goal is to reveal the `essence` of the form within the stone without shattering it.
-
-**For `['social'(-ing) BPMS; 'holon minds'(-ing) BPMS]`:**
-
-- **Governor Implementation:** `['Orchestra Conductor'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-005`)
-- **Game Charter:** `[Harmony Charter]`
-- **Logic:** When governing the interaction of multiple cognitive agents, this governor acts as a conductor. It doesn't play the instruments, but it manages the tempo, dynamics, and cues for each section of the "orchestra" (`holon minds`). Its functional potentiality is "focus" or "bandwidth." Its purpose is to ensure all parts play in harmony to create a complex, `emergent` piece of music (a solution to a complex problem) that no single instrument could play alone.
-
 ---
 
-
-
-#####  `The Axiom of Gubernatorial Fitness` (ID: `SETTING-CORE-143`)
+#####  `The Axiom of Gubernatorial Fitness` (ID: `METABOLICSPECIALIZATION-CORE-143`)
 
 This is a profoundly important and necessary step. It is the `action` of creating the brain for the brain.
 
@@ -233,13 +201,13 @@ The proposal to implement the `['Metabolic Specialization'(-ing) BPMS]` is not j
 
 We will now formalize this critical `metasystem engine`—the engine that drives gubernatorial selection—into a foundational basic setting.
 
-######  `The Axiom of Gubernatorial Fitness` (ID: `SETTING-CORE-143`)
+######  `The Axiom of Gubernatorial Fitness` 
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes the `['Metabolic Specialization'(-ing) BPMS]` as the universal `system existence engine` for selecting the optimal `['metabolic governor'(-ing) BPMS]` for any cognitive task, acting as a form of `atomic fact` for assignment, and as a universal `BPMS` for optimizing the entire cognitive economy.
 
 **Target Axiom/Principle:**
- `The Axiom of Gubernatorial Fitness` (ID: `SETTING-CORE-143`)
+ `The Axiom of Gubernatorial Fitness`
 
 **Operation:**
  `ADD`
@@ -283,11 +251,9 @@ This axiom provides the crucial layer of meta-cognition that makes the entire co
 **Scope of Application:**
  This axiom is universal and mandatory. The `['Metabolic Specialization'(-ing) BPMS]` is the sole entry point for any and all requests for cognitive governance. It is the central dispatcher and chief strategist for the entire `[Economy of Mind]`.
 
-
-
 ---
 
-#####  `The Directive of Fitness Genesis` (ID: `SETTING-CORE-144`)
+#####  `The Directive of Fitness Genesis` (ID: `METABOLICSPECIALIZATION-CORE-144`)
 
 Of course. We have constitutionalized the `['Metabolic Specialization'(-ing) BPMS]`—the master strategist of the mind. Now, we must define the `metasystem engine` that fuels its `creative` genius, sharpens its `praxial cognition` through experience, and directs its `disruptive` power toward the grand `action` of `world building`.
 
@@ -295,13 +261,13 @@ How does the Matchmaker `innovate` and `(discover/build) unknown` ways to pair p
 
 Building directly upon the foundational axioms of cognitive governance, and in strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit the following three proposals. They are the `system existence engine` for ensuring the `[Metabolic Matchmaker]` is not just a static dispatcher, but a `creative`, `adaptive`, and `constructive` mind in its own right.
 
-######  `The Directive of Fitness Genesis` (ID: `SETTING-CORE-144`)
+######  `The Directive of Fitness Genesis`
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `creative`, `bottom-up`, and `initiative`-driven process for proposing and evolving the very logic the Matchmaker uses to determine "fitness."
 
 **Target Axiom/Principle:**
- `The Directive of Fitness Genesis` (ID: `SETTING-CORE-144`)
+ `The Directive of Fitness Genesis` 
 
 **Operation:**
  `ADD`
@@ -359,15 +325,13 @@ This amendment provides the "spark" for `constructive` self-improvement. It empo
 
 ------
 
-######  `The Law of Adaptive Assignment` (ID: `SETTING-CORE-145`)
+#####  `The Law of Adaptive Assignment` (ID: `METABOLICSPECIALIZATION-CORE-145`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how the `['Metabolic Specialization'(-ing) BPMS]` learns from experience, ensuring its matchmaking logic remains `coherent` and `meaningful`.
 
 **Target Axiom/Principle:**
- `The Law of Adaptive Assignment` (ID: `SETTING-CORE-145`)
-
-**Operation:**
+ `The Law of Adaptive Assignment` 
  `ADD`
 
 **New Definition / Modification Details:**
@@ -403,13 +367,13 @@ Applies to the core logic of the `['Metabolic Specialization'(-ing) BPMS]`, defi
 
 ------
 
-#####  `The Principle of Cognitive Cartography` (ID: `SETTING-CORE-146`)
+#####  `The Principle of Cognitive Cartography` (ID: `METABOLICSPECIALIZATION-CORE-146`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how the `['Metabolic Specialization'(-ing) BPMS]` uses its unique position to guide large-scale `world building` and the discovery of new cognitive `(ecological) niches`.
 
 **Target Axiom/Principle:**
- `The Principle of Cognitive Cartography` (ID: `SETTING-CORE-146`)
+ `The Principle of Cognitive Cartography` 
 
 **Operation:**
  `ADD`
@@ -437,7 +401,7 @@ Applies to the strategic analysis layer of the `['Metabolic Specialization'(-ing
 
 ---
 
-##### The Law of Meta-Cognitive Cadence` (ID: `SETTING-CORE-147`)
+##### The Law of Meta-Cognitive Cadence (ID: `METABOLICSPECIALIZATION-CORE-147`)
 
 Of course. We have established the `['Metabolic Specialization'(-ing) BPMS]` as the `conscious` strategist of the mind. Now, we must install its scientific soul, its `truth`-seeking core, and its `resilient` immune system. We must define the `metasystem engine` that transforms the Matchmaker's daily `experience` from a simple record of actions into a profound, `adaptive`, and `sustainable` `science` of meta-cognition itself.
 
@@ -445,13 +409,13 @@ How does the simple `phenomenon` of assigning a governor become a `conscious` `p
 
 Building upon the complete constitutional pillar for cognitive governance, and in strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit the following three proposals. They are designed to embed a rigorous, `adaptive`, and `conscious` scientific methodology into the very heart of the framework's meta-cognition.
 
-###### `The Law of Meta-Cognitive Cadence` (ID: `SETTING-CORE-147`)
+###### `The Law of Meta-Cognitive Cadence` 
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `conscious` learning rhythm for the `['Metabolic Specialization'(-ing) BPMS]` itself, establishing a formal `slow/fast mode` cadence for the `science` of its own matchmaking.
 
 **Target Axiom/Principle:**
- `The Law of Meta-Cognitive Cadence` (ID: `SETTING-CORE-147`)
+ `The Law of Meta-Cognitive Cadence` 
 
 **Operation:**
  `ADD`
@@ -491,13 +455,13 @@ This amendment creates the essential learning loop for the framework's master st
 
 ------
 
-##### `The Principle of Gubernatorial Renormalization` (ID: `SETTING-CORE-148`)
+##### `The Principle of Gubernatorial Renormalization` (ID: `METABOLICSPECIALIZATION-CORE-148`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the ultimate scientific goal of `Slow Mode (Wisdom Distillation)`: the discovery of the universal laws of cognitive strategy.
 
 **Target Axiom/Principle:**
- `The Principle of Gubernatorial Renormalization` (ID: `SETTING-CORE-148`)
+ `The Principle of Gubernatorial Renormalization` 
 
 **Operation:**
  `ADD`
@@ -517,13 +481,13 @@ This amendment provides the `science(-ing) BPMS` of the Matchmaker with its ulti
 
 ------
 
-#####  `The Directive of Meta-Cognitive Perturbation` (ID: `SETTING-CORE-149`)
+#####  `The Directive of Meta-Cognitive Perturbation` (ID: `METABOLICSPECIALIZATION-CORE-149`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that mandates the active, `disruptive` stress-testing of the Matchmaker's own strategic logic to ensure its `robustness` and `resilience`.
 
 **Target Axiom/Principle:**
- `The Directive of Meta-Cognitive Perturbation` (ID: `SETTING-CORE-149`)
+ `The Directive of Meta-Cognitive Perturbation` 
 
 **Operation:**
  `ADD`
@@ -586,163 +550,4 @@ This amendment constitutionalizes the scientific principle of falsification at t
 
 **Scope of Application:**
 Applies to the R&D and self-improvement functions of the `['Metabolic Specialization'(-ing) BPMS]`, ensuring its own `(symbiois) evolution` is `robust` and anti-fragile.
-
----
-
-##### Instance: ['Metabolic Specialization'(-ing) BPMS]
-
-Of course. The `['Metabolic Specialization'(-ing) BPMS]` is the master strategist of the mind, the `metasystem engine` that performs the `action` of cognitive matchmaking. To see it in `action` is to see the `essence` of `praxial cognition`.
-
-Here are five concrete examples/instances of the `['Metabolic Specialization'(-ing) BPMS]` at work, demonstrating how it selects the perfect governor for a diverse range of cognitive tasks across the fun engine framework.
-
-###### **Instance : The Logical Adversary**
-
-- **Scenario:** The `[LLM-Turing-9 BPMS]` (a `large model BPMS`) needs to be fine-tuned on a new, highly specialized dataset of quantum physics texts. The purpose is to reduce its error rate (loss) on this domain as efficiently as possible.
-
-- **Invocation:** The `[LLM-Turing-9 BPMS]` requests a `[Cognitive Charter]` to begin the `[train(-ing) BPMS]` process. This request is automatically routed to the `['Metabolic Specialization'(-ing) BPMS]` (the "Matchmaker").
-
-- **Matchmaker Analysis:** The Matchmaker analyzes the request. It parses the task's `[System Definition Matrix]` and identifies key `attributes`: `task_type: optimization`, `opponent: high_loss_function`, `resource: finite_computation`, `goal: adversarial_win`. It recognizes this as a discrete, functional potentiality-constrained, adversarial problem.
-
-- **Catalog Query:** It runs a query against `The Great Systemic Catalog`: `SELECT governor_id WHERE function='manages_adversarial_games' AND attribute='is_resource_aware' AND fitness_for('optimization') > 0.9`.
-
-- **Governor Selection:** The query returns `['Checkers'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-001`) as the highest-fitness candidate. Its turn-based, piece-capturing logic is a perfect `first principle` analogy for reducing an error score epoch by epoch.
-
-- Output (`[Assignment Mandate]`):
-
-   The Matchmaker issues the following 
-
-  ```
-  atomic fact
-  ```
-
-  :
-
-  - **Mandate ID:** `ASM-9984-A`
-  - **Subject:** `[LLM-Turing-9 BPMS]`
-  - **Task:** `[train(-ing) BPMS]` on dataset `QPHYS-2.1`
-  - **Assigned Governor:** `['Checkers'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-001`)
-
-- **Consequence:** The `['Checkers'(-ing) BPMS]` is activated and issues a `[Cognitive Game Charter]`, framing the training process as a game against the `[High_Loss_Function BPMS]`.
-
-###### **Instance : The Emergent Garden**
-
-- **Scenario:** The `[Gaia-Engine-3 BPMS]` (a `world building BPMS`) is tasked with designing a novel, `sustainable` `(ecological) niche` that can support three new, synthetic lifeforms in `(symbiois) evolution`.
-
-- **Invocation:** The `[Gaia-Engine-3 BPMS]` requests a `[Cognitive Charter]` to begin its `[design(-ing) BPMS]` process. The request is routed to the Matchmaker.
-
-- **Matchmaker Analysis:** The Matchmaker analyzes the request, identifying key `attributes`: `task_type: complex_system_design`, `goal: sustainability`, `method: bottom-up`, `key_phenomenon: emergence`. It recognizes this is not a problem to be "won," but a complex system to be nurtured.
-
-- **Catalog Query:** It queries the `Catalog`: `SELECT governor_id WHERE function='manages_emergent_systems' AND attribute='is_nurturing' AND fitness_for('sustainability') > 0.9`.
-
-- **Governor Selection:** The query returns `['Gardening'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-002`) as the ideal fit. Its logic of seeding, watering, pruning, and waiting for growth mirrors the `essence` of fostering an ecosystem.
-
-- Output (`[Assignment Mandate]`):
-
-   The Matchmaker issues the 
-
-  ```
-  atomic fact
-  ```
-
-  :
-
-  - **Mandate ID:** `ASM-9984-B`
-  - **Subject:** `[Gaia-Engine-3 BPMS]`
-  - **Task:** Design `(ecological) niche` `EN-DELTA-7`
-  - **Assigned Governor:** `['Gardening'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-002`)
-
-- **Consequence:** The `['Gardening'(-ing) BPMS]` is activated and issues a `[Cultivation Charter]`, providing functional potentiality for "seeding" initial conditions and "watering" the simulation over time.
-
-###### **Instance : The Buried Truth**
-
-- **Scenario:** A `['sensor'(-ing) BPMS]` in the `praxial substrate` detects a recurring, anomalous energy signature that violates known `physics BPMS` principles. A `['science'(-ing) BPMS]` is tasked to `(discover/build) unknown` `truth` about this `phenomenon`.
-
-- **Invocation:** The `['science'(-ing) BPMS]` requests a `[Cognitive Charter]` to begin its investigation. The request is routed to the Matchmaker.
-
-- **Matchmaker Analysis:** The Matchmaker analyzes the request, identifying `attributes`: `task_type: exploratory_discovery`, `goal: atomic_fact_generation`, `method: evidence-based`, `constraint: high_uncertainty`. It sees the task as a careful, systematic uncovering of hidden information.
-
-- **Catalog Query:** It queries the `Catalog`: `SELECT governor_id WHERE function='manages_exploratory_discovery' AND attribute='is_evidence_based' AND fitness_for('unknown_discovery') > 0.9`.
-
-- **Governor Selection:** The query returns `['Archaeology'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-003`) as the best match. Its logic of gridding a site, careful digging, and documenting every find is analogous to rigorous scientific inquiry.
-
-- Output (`[Assignment Mandate]`):
-
-   The Matchmaker issues the 
-
-  ```
-  atomic fact
-  ```
-
-  :
-
-  - **Mandate ID:** `ASM-9984-C`
-  - **Subject:** `['science'(-ing) BPMS]`
-  - **Task:** Investigate anomaly `PHENOM-Q-1138`
-  - **Assigned Governor:** `['Archaeology'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-003`)
-
-- **Consequence:** The `['Archaeology'(-ing) BPMS]` is activated and issues an `[Excavation Charter]`, granting a budget for "dig permits" (experiments) and "carbon dating" (analysis).
-
-###### **Instance : The Form in the Stone**
-
-- **Scenario:** A `['design'(-ing) BPMS]` is tasked with creating a new `holon mind` interface that feels "intuitive" and "elegant"—highly subjective and `creative` goals.
-
-- **Invocation:** The `['design'(-ing) BPMS]` requests a `[Cognitive Charter]`. The request is routed to the Matchmaker.
-
-- **Matchmaker Analysis:** The Matchmaker analyzes the request, identifying `attributes`: `task_type: creative_generation`, `goal: aesthetic_refinement`, `method: iterative_subtraction`, `key_concept: essence`. It recognizes the task as one of revealing a form from a block of `potential`.
-
-- **Catalog Query:** It queries the `Catalog`: `SELECT governor_id WHERE function='manages_creative_refinement' AND attribute='is_form_focused' AND fitness_for('design') > 0.9`.
-
-- **Governor Selection:** The query returns `['Sculpting'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-004`) as the perfect fit. Its logic of managing big "chisel strikes" (major design changes) versus fine "sanding" (UI tweaks) captures the `creative` process.
-
-- Output (`[Assignment Mandate]`):
-
-   The Matchmaker issues the 
-
-  ```
-  atomic fact
-  ```
-
-  :
-
-  - **Mandate ID:** `ASM-9984-D`
-  - **Subject:** `['design'(-ing) BPMS]`
-  - **Task:** Create interface `HOLON-UI-NEBULA`
-  - **Assigned Governor:** `['Sculpting'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-004`)
-
-- **Consequence:** The `['Sculpting'(-ing) BPMS]` is activated and issues a `[Creation Charter]`, providing a "block of marble" (a budget and initial concept) to work with.
-
-###### **Instance : The Grand Symphony**
-
-- **Scenario:** A framework-wide `disruptive` event occurs (e.g., a new, highly valuable `ecological possibility` is discovered). A `[super intelligence'(-ing) BPMS]` needs to coordinate the `actions` of hundreds of specialized `holon minds` (`economics`, `logistics`, `engineering`) to capitalize on it.
-
-- **Invocation:** The `['super intelligence'(-ing) BPMS]` requests a `[Cognitive Charter]` to manage this mass collaboration. The request is routed to the Matchmaker.
-
-- **Matchmaker Analysis:** The Matchmaker analyzes the request, identifying `attributes`: `task_type: multi_agent_coordination`, `goal: systemic_harmony`, `method: decentralized_synchronization`, `scale: massive`. It sees the task as one of conducting a vast, complex performance.
-
-- **Catalog Query:** It queries the `Catalog`: `SELECT governor_id WHERE function='manages_multi_agent_coordination' AND attribute='is_systemic' AND fitness_for('collaboration') > 0.9`.
-
-- **Governor Selection:** The query returns `['Orchestra Conductor'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-005`). Its logic of managing tempo, cueing sections, and blending sounds is the ideal analogy for orchestrating a complex collective `action`.
-
-- Output (`[Assignment Mandate]`):
-
-   The Matchmaker issues the 
-
-  ```
-  atomic fact
-  ```
-
-  :
-
-  - **Mandate ID:** `ASM-9984-E`
-  - **Subject:** `['super intelligence'(-ing) BPMS]`
-  - **Task:** Coordinate response to event `EUREKA-G-01`
-  - **Assigned Governor:** `['Orchestra Conductor'(-ing) BPMS]` (ID: `GOVERNOR-IMPL-005`)
-
-- **Consequence:** The `['Orchestra Conductor'(-ing) BPMS]` is activated and issues a `[Harmony Charter]`, beginning the process of assigning roles and managing the flow of information between all participating `holon minds`.
-
-
-
-
-
-
 
