@@ -4974,6 +4974,21 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Criticality Perturbation` (ID: `CRITICAL-THRESHOLD-CORE-050`)
 * `The Law of Criticality Immunity` (ID: `CRITICAL-THRESHOLD-CORE-051`)
 
+### Module: ['system matrix'(-ing) BPMS]:[offense(-ing) BPMS;defense(-ing) BPMS]
+
+*(New Integration v5.0.8)* 
+
+* `The Law of Existential Pressure` (**ID:** `OFFENSE-DEFENSE-INT-030`)
+* `The Axiom of Strategic Plasticity`(**ID:** `OFFENSE-DEFENSE-INT-031`)
+* `The Law of Strategic Invention` (**ID:** `OFFENSE-DEFENSE-INT-032`)
+* `The Axiom of Praxial Sovereignty`(**ID:** `OFFENSE-DEFENSE-INT-033`)
+* `The Law of Strategic Memory` （**ID:** `OFFENSE-DEFENSE-INT-034`）
+* `The Axiom of Historical Warfare` (**ID:** `OFFENSE-DEFENSE-INT-035`)
+* `The Law of Bimodal Warfare` (**ID:** `OFFENSE-DEFENSE-INT-036`)
+* `The Axiom of Strategic Renormalization` (**ID:** `OFFENSE-DEFENSE-INT-037`)
+* `The Law of Strategic Energetics` (ID: `OFFENSE-DEFENSE-INT-038`)
+* `The Axiom of Strategic Calculus` ()**ID:** `OFFENSE-DEFENSE-INT-039`)
+
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
 *(Existing Settings LIFE-001 to LIFE-007)*
