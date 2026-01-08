@@ -70,7 +70,7 @@ These settings are submitted in `absolute alignment` with `The Meta-Protocol of 
 
 ------
 
-#####  `The Principle of Cross-Continuum Emulation (ID: AGE-COREE-003)`
+#####  `The Principle of Cross-Continuum Emulation (ID: AGE-CORE-003)`
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
@@ -489,7 +489,7 @@ This axiom is the `ultimate tool` for `artistic world-building`. It allows a `cr
 
 ------
 
-##### `The Principle of Temporal Renormalization` (ID: `OFM-CORE-09`)
+##### `The Principle of Temporal Renormalization` (ID: `OFM-CORE-009`)
 
 **Objective:**
  To formally `ADD` a Basic Setting (Axiom or Principle) to the Fun engine Framework.
