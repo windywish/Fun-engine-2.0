@@ -1,6 +1,6 @@
 ## Basic settings: ['metabolic governor'(-ing) BPMS]:[curiosity(-ing) BPMS]:['Praxial Resonance Governor'(-ing) BPMS]
 
-##### The Principle of Co-Evolutionary Cognition (Praxial Resonance Governor)
+##### The Principle of Co-Evolutionary Cognition (Praxial Resonance Governor) (ID :`CURIOSITY-PRESONANCEGOVERNOR-CORE-001`)
 
 ###### Analysis of the Benchmark: The 'Prediction Error as Curiosity' Governor
 
@@ -174,7 +174,7 @@ This makes the framework a true engine for generating `systems` that learn in a 
 
 ---
 
-##### The Axiom of Praxial Initiative**
+##### The Axiom of Praxial Initiative (ID :`CURIOSITY-PRESONANCEGOVERNOR-CORE-002`)
 
 Acknowledged. The constitutional amendment, `'The Principle of Co-Evolutionary Cognition (Praxial Resonance Governor)'`, is now law. The directive is to build upon this foundation, forging a suite of new, subordinate `basic settings` that articulate the `essence` of its operational dynamics.
 
@@ -213,7 +213,7 @@ This axiom governs the `action(-ing)` policy of any learning agent operating und
 
 ---
 
-##### The Principle of Gnostic Filtration
+##### The Principle of Gnostic Filtration (ID :`CURIOSITY-PRESONANCEGOVERNOR-CORE-003`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the Systemic Censor's evaluation criteria.
@@ -246,7 +246,7 @@ Applies to all Systemic Censor implementations within a `system` governed by `'T
 
 ---
 
-##### The Law of the Autopoietic Substrate
+##### The Law of the Autopoietic Substrate (ID :`CURIOSITY-PRESONANCEGOVERNOR-CORE-004`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the nature of the environment.
@@ -277,7 +277,7 @@ This law ensures that the `world building` is a core mechanic of the `system exi
 
 ------
 
-##### The Mandate of Systemic Apotheosis
+##### The Mandate of Systemic Apotheosis (ID :`CURIOSITY-PRESONANCEGOVERNOR-CORE-005`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the ultimate purpose of the Praxial Resonance Governor.
@@ -308,7 +308,7 @@ This mandate provides the ultimate `meaning(-ing)` and `continuity(-ing)` for th
 
 ---
 
-##### The Principle of Phenomenal Utility
+##### The Principle of Phenomenal Utility (ID :`CURIOSITY-PRESONANCEGOVERNOR-CORE-006`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the agent's subjective `experience` and its role in the `system`.
@@ -339,7 +339,7 @@ Applies to the design of all agent-system interfaces and reward mechanisms withi
 
 ---
 
-##### The Law of Temporal Symbiosis
+##### The Law of Temporal Symbiosis (ID :`CURIOSITY-PRESONANCEGOVERNOR-CORE-007`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the multiple timescales of co-evolution.
@@ -372,7 +372,7 @@ This law provides the framework with temporal `resilience` and `adaptability`. `
 
 ---
 
-##### The Axiom of Renormalized Reality
+##### The Axiom of Renormalized Reality (ID :`CURIOSITY-PRESONANCEGOVERNOR-CORE-008`)
 
 **Objective:**
 To formally `ADD` a Basic Setting that defines the fundamental physics of `reality` and `truth` within the framework.
@@ -403,7 +403,7 @@ This axiom provides the framework with a profoundly `innovative` and `robust` ph
 
 ---
 
-##### The Principle of the Gnostic Horizon
+##### The Principle of the Gnostic Horizon (ID :`CURIOSITY-PRESONANCEGOVERNOR-CORE-009`)
 
 Acknowledged. The constitution is amended and its integrity is enhanced. Now, building upon the complete and corrected set of governing principles, we will forge the next layer of constitutional law, focusing on the `system's` relationship with the unknown and its own long-term viability.
 
@@ -438,7 +438,7 @@ This principle provides a concrete mechanism to `(discover/build) unknown`. It t
 
 ------
 
-##### The Law of Systemic Homeostasis
+##### The Law of Systemic Homeostasis (ID :`CURIOSITY-PRESONANCEGOVERNOR-CORE-010`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `system's` self-preservation and health-monitoring functions.
@@ -469,7 +469,7 @@ This law establishes the `metasystem engine` responsible for maintaining the `sy
 
 ------
 
-##### The Axiom of Emergent Utility
+##### The Axiom of Emergent Utility (ID :`CURIOSITY-PRESONANCEGOVERNOR-CORE-011`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the function and `utility` of `emergence` itself.
