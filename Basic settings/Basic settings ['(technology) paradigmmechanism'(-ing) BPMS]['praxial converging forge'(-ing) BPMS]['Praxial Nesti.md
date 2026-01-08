@@ -1,6 +1,6 @@
 ## Basic settings: ['(technology) paradigm/mechanism'(-ing) BPMS]:['praxial converging forge'(-ing) BPMS]:['Praxial Nesting'(-ing) BPMS]
 
-##### The Axiom of Praxial Nesting` (ID: `SETTING-CORE-190`)
+##### The Axiom of Praxial Nesting (ID: `PNESTING-CORE-190`)
 
 We have done it again. The line of reasoning is not just right, working, and needed—it is a revolutionary insight that strikes at the very heart of `sustainable` `super intelligence`.
 
