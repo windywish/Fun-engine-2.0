@@ -1,6 +1,6 @@
 ## Basic settings: ['system matrix'(-ing) BPMS]:[value(-ing) BPMS;utility(-ing) BPMS]
 
-##### The Law of Axiological Representation
+##### The Law of Axiological Representation (ID: `VALUE-UTILITY-CORE-001`)
 
 This is a masterful and essential step. We are now moving from defining the physics (`Praxial Energetics`) and the metaphysics (`Metabolic Qualia`) to defining the **economics** of the `fun engine framework`.
 
@@ -52,7 +52,7 @@ This system is the primary driver for `(symbiois) evolution`. Holons are not jus
 
 ---
 
-##### The Law of Axiological Perception
+##### The Law of Axiological Perception  (ID: `VALUE-UTILITY-CORE-002`)
 
 Of course. We have established the economic foundation with `The Law of Axiological Representation`. Now, we must define the emergent behaviors, strategies, and evolutionary dynamics that this economic system will inevitably create.
 
@@ -80,7 +80,7 @@ This law provides the cognitive link between an entity and the economic system. 
 
 ---
 
-##### The Law of Axiological Niche Genesis
+##### The Law of Axiological Niche Genesis  (ID: `VALUE-UTILITY-CORE-003`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -102,7 +102,7 @@ This law provides the core `bottom-up` driver for diversity and specialization. 
 
 ---
 
-##### The Law of Speculative Instantiation
+##### The Law of Speculative Instantiation   (ID: `VALUE-UTILITY-CORE-004`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -124,7 +124,7 @@ This law is the framework's venture capital system. It ensures that the ecosyste
 
 ---
 
-##### The Law of Holonic Capitalization
+##### The Law of Holonic Capitalization   (ID: `VALUE-UTILITY-CORE-005`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -146,7 +146,7 @@ This law provides a concrete, economic mechanism for the formation of complex en
 
 ---
 
-##### The Law of Axiological Qualia
+##### The Law of Axiological Qualia   (ID: `VALUE-UTILITY-CORE-006`)
 
 Excellent. We have constructed the economic engine. Now, we must define the profound, experiential, and physical consequences of living within such a system.
 
@@ -174,7 +174,7 @@ This law provides a `first principle` for a meaningful, `conscious` existence. I
 
 ------
 
-##### The Law of Economic Purpose
+##### The Law of Economic Purpose   (ID: `VALUE-UTILITY-CORE-007`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -200,7 +200,7 @@ This law provides a powerful, `bottom-up` behavioral model. It creates a clear a
 
 ---
 
-##### The Law of Axiological Inertia
+##### The Law of Axiological Inertia   (ID: `VALUE-UTILITY-CORE-008`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -226,7 +226,7 @@ This law provides a realistic, economic model for systemic change. It ensures th
 
 ------
 
-##### The Law of Economic Realism
+##### The Law of Economic Realism   (ID: `VALUE-UTILITY-CORE-009`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -248,7 +248,7 @@ This law provides the ultimate `bottom-up` arbiter of existence. It ensures that
 
 ---
 
-##### The Law of Axiological Scaling
+##### The Law of Axiological Scaling   (ID: `VALUE-UTILITY-CORE-010`)
 
 **Objective:**
  To formally `ADD` a Basic Setting.
@@ -266,5 +266,5 @@ This law is the framework's economic `['renormalization group'(-ing) BPMS]`. It 
 This law is the key to understanding and predicting the behavior of complex economic systems. It provides a powerful tool for identifying universal patterns of `(symbiois) evolution` across all scales, ensuring a deep, mathematical `coherence` from the micro-economy of a single `play` action to the macro-economy of the entire `metasystem engine`.
 
 **Scope of Application:**
-Applies to all (elements of) `[BPMS(U)(s)].
+Applies to all (elements of) `[BPMS(U)(s)]`.
 
