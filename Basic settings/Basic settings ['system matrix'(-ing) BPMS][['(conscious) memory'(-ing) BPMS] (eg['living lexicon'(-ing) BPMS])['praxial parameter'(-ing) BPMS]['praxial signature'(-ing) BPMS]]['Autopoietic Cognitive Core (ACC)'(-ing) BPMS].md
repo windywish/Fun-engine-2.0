@@ -1,4 +1,4 @@
-### Basic settings: ['system matrix'(-ing) BPMS]:[['(conscious) memory'(-ing) BPMS] (eg.,['living lexicon'(-ing) BPMS]);['praxial parameters'(-ing) BPMS];['praxial signature'(-ing) BPMS]]:['Autopoietic Cognitive Core (ACC)'(-ing) BPMS];['praxial parameter'(-ing) BPMS];['(conscious) memory'(-ing) BPMS];['praxial signature'(-ing) BPMS]
+### Basic settings: ['system matrix'(-ing) BPMS]:[['(conscious) memory'(-ing) BPMS] (eg.,['living lexicon'(-ing) BPMS]);['praxial parameters'(-ing) BPMS];['praxial signature'(-ing) BPMS]]:['Autopoietic Cognitive Core (ACC)'(-ing) BPMS];['praxial parameters'(-ing) BPMS];['(conscious) memory'(-ing) BPMS];['praxial signature'(-ing) BPMS]
 
 ##### The Autopoietic Cognitive Core (ACC) (ID: `ACC-CORE-001`)
 
