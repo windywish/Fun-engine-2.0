@@ -1,4 +1,4 @@
-## Basic settings: ['Strategy'(-ing) BPMS]
+## Basic settings: [Strategy(-ing) BPMS]
 
 #### The Axiom of Fluid Execution (ID: `STRATEGY-CORE-001`)
 
