@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 5.1.3 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate, (continuous) survive experiments, Praxial Neuroplasticity Engine, Praxial Metacognition Engine (PME), Praxial Interface Weaver, Praxial Prime Archetype, praxial intelligence, Praxial Instrument, Praxial Inquiry Engine (PIE), Praxial Inquiry & Execution Engine, Praxial Infallibility Framework, Praxial Gnosis Governor, praxial genome, Praxial Genome Splicer (PGS), Praxial Generative Ontological Recombinant CHassis(G-ORCH), food, Praxial EvoCoder Agent, Praxial Ecosphere Engine, Praxial Crawler/Spider, Chrono-Semantic Ledger, Praxial Cognitive Architecture (PCA), Praxial citizen, theme park, teambuilding, praxial cell, Praxial Catalyst Framework, Praxial Automation, Praxial Auto-Compiler, Praxial Amplifier, Praxial Agora, plug and play, autopoietic matrix, phenomenon, appearance, personality, Ontological Relativity, Nomadic Protocol, praxial mission, playful informatics, microdata, metacognition, meta, mental model, substrate, universal Instantiation, ludic system, Praxial Genotype, logic, Ladder of Engineering Mastery, Janus Matrix, Intuition/counterintuition, interview, interpretation, interaction, Praxial Substrate Engine (PSE), geek, free energy, flash mob, field research, fake action, extreme (model), exoskeleton, environmental (DNA), energy, encryption/decryption, edge action, embodiment (cognition), dynamics, do it yourself, dimension, Constellation Forge, conjecture, Divergent Genesis Arena, code, Chrono-Kinetic Continuity, bionics, Biological Vitality, Axiomatic Genesis Engine, Autopoietic Learning Matrix, alignment, algorithm, action, (open) protocol, Praxial Cartography, (zero data) tool-reasoning, (programming) substrate, (phenotypic) plasticity, tracking/anti-tracking, synthetic (organisms/life), reality mining, Praxial Manifold, membrane, hacker, human, Contextual Dehydration, (holonic minds) engine, Praxial Logos, Ontological Foundry Matrix, value, utility, synthesis, resolve, offense, defense, Meaning as a service (MAAS), Conscious as a servoce (CAAS), geno, geno experssion, flow, fluid, Resonance Chamber, critical (point), threshold, attribute/property, feature, function, Chaos-Lattice Matrix, Engine of Inquiry, Experiential Matrix, Praxial Atlas & Process Foundry, (conscious) memory, Praxial Resonance Governor, Praxial Synthesis, curiosity, Praxial Ground State Governor (P-GSG), Metabolic Specialization, Praxial-Gnostic Reasoning Core, Praxial Joint Embedding Predictive Architecture (P-JEPA), Praxial holon, Praxial Kernel, Praxial Genesis Engine (PGE), praxial dynamic link substrate (PDLS), Praxial Execution Cycle, Praxial Cambrian Forge, praxial converging forge, Praxial Diffusion, Universal Generativity, Ontological Levitation Field, playful informatics, Autopoietic Cognitive Core (ACC), praxial observatory,praxial artifact, symboic praxial instrument, living praxial instrument, praxial genome, (system) analysis, ralph-loop, planning-with-files, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 5.1.4 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate, (continuous) survive experiments, Praxial Neuroplasticity Engine, Praxial Metacognition Engine (PME), Praxial Interface Weaver, Praxial Prime Archetype, praxial intelligence, Praxial Instrument, Praxial Inquiry Engine (PIE), Praxial Inquiry & Execution Engine, Praxial Infallibility Framework, Praxial Gnosis Governor, praxial genome, Praxial Genome Splicer (PGS), Praxial Generative Ontological Recombinant CHassis(G-ORCH), food, Praxial EvoCoder Agent, Praxial Ecosphere Engine, Praxial Crawler/Spider, Chrono-Semantic Ledger, Praxial Cognitive Architecture (PCA), Praxial citizen, theme park, teambuilding, praxial cell, Praxial Catalyst Framework, Praxial Automation, Praxial Auto-Compiler, Praxial Amplifier, Praxial Agora, plug and play, autopoietic matrix, phenomenon, appearance, personality, Ontological Relativity, Nomadic Protocol, praxial mission, playful informatics, microdata, metacognition, meta, mental model, substrate, universal Instantiation, ludic system, Praxial Genotype, logic, Ladder of Engineering Mastery, Janus Matrix, Intuition/counterintuition, interview, interpretation, interaction, Praxial Substrate Engine (PSE), geek, free energy, flash mob, field research, fake action, extreme (model), exoskeleton, environmental (DNA), energy, encryption/decryption, edge action, embodiment (cognition), dynamics, do it yourself, dimension, Constellation Forge, conjecture, Divergent Genesis Arena, code, Chrono-Kinetic Continuity, bionics, Biological Vitality, Axiomatic Genesis Engine, Autopoietic Learning Matrix, alignment, algorithm, action, (open) protocol, Praxial Cartography, (zero data) tool-reasoning, (programming) substrate, (phenotypic) plasticity, tracking/anti-tracking, synthetic (organisms/life), reality mining, Praxial Manifold, membrane, hacker, human, Contextual Dehydration, (holonic minds) engine, Praxial Logos, Ontological Foundry Matrix, value, utility, synthesis, resolve, offense, defense, Meaning as a service (MAAS), Conscious as a servoce (CAAS), geno, geno experssion, flow, fluid, Resonance Chamber, critical (point), threshold, attribute/property, feature, function, Chaos-Lattice Matrix, Engine of Inquiry, Experiential Matrix, Praxial Atlas & Process Foundry, (conscious) memory, Praxial Resonance Governor, Praxial Synthesis, curiosity, Praxial Ground State Governor (P-GSG), Metabolic Specialization, Praxial-Gnostic Reasoning Core, Praxial Joint Embedding Predictive Architecture (P-JEPA), Praxial holon, Praxial Kernel, Praxial Genesis Engine (PGE), praxial dynamic link substrate (PDLS), Praxial Execution Cycle, Praxial Cambrian Forge, praxial converging forge, Praxial Diffusion, Universal Generativity, Ontological Levitation Field, playful informatics, Autopoietic Cognitive Core (ACC), praxial observatory,praxial artifact, symboic praxial instrument, living praxial instrument, praxial genome, (system) analysis, ralph-loop, planning-with-files, benchmarking, reward, token, Internet of life, strategy, Praxial Knowledge-Weaver, Praxial Vibe-Researching, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** 
 
@@ -5498,6 +5498,8 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 ### Module: ['planning-with-files' BPMS]
 
+*(New Integration v5.1.3)* 
+
 * The Axiom of File-Based Cognition (ID: `PLAN-FILE-001`)
 * The Principle of Iterative Drafting (ID: `PLAN-FILE-002`)
 * The Engine of Structured Template Compliance (ID: `PLAN-FILE-003`)
@@ -5505,13 +5507,215 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Paradigm of Document-Driven Reality (ID: `PLAN-FILE-005`)
 * The Protocol of Multi-Agent File Collaboration (ID: `PLAN-FILE-006`)
 
-### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
+### Module: [Benchmarking(-ing) BPMS]
 
-*(Existing Settings LIFE-001 to LIFE-007)*
+*(New Integration v5.1.4)* 
 
-### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
+* The Axiom of Veridical Calibration (ID: `BENCHMARK-CORE-001`)
+* The Principle of Perturbative Measurement (ID: `BENCHMARK-CORE-002`)
+* The Law of Recursive Optimization (ID: `BENCHMARK-CORE-003`)
+* The Axiom of Niche Discovery (ID: `BENCHMARK-CORE-004`)
+* The Principle of Disruptive Valuation (ID: `BENCHMARK-CORE-005`)
+* The Law of Symbiotic Resonance (ID: `BENCHMARK-CORE-006`)
+* The Protocol of Atomic Fact Verification (ID: `BENCHMARK-CORE-007`)
+* The Axiom of Dual-Mode Resonance (ID: `BENCHMARK-CORE-008`)
+* The Principle of Scale-Invariant Universality (ID: `BENCHMARK-CORE-009`)
+* The Law of Playful Discovery (ID: `BENCHMARK-CORE-010`)
+* The Protocol of Sustainable Closure (ID: `BENCHMARK-CORE-011`)
+* The Axiom of Functional Syntax (ID: `BENCHMARK-CORE-012`)
+* The Principle of Polymathic Breadth (ID: `BENCHMARK-CORE-013`)
+* The Law of Contextual Probability (ID: `BENCHMARK-CORE-014`)
+* The Protocol of Veridical Integrity (ID: `BENCHMARK-CORE-015`)
+* The Axiom of Algorithmic Reasoning (ID: `BENCHMARK-CORE-016`)
+* The Principle of Holistic Evaluation (ID: `BENCHMARK-CORE-017`)
+* The Axiom of Implicit-Explicit Symbiosis (ID: `BENCHMARK-CORE-018`)
+* The Principle of Emergent Robustness (ID: `BENCHMARK-CORE-019`)
+* The Law of Metabolic Sustainability (ID: `BENCHMARK-CORE-020`)
+* The Protocol of Renormalized Evolution (ID: `BENCHMARK-CORE-021`)
+* The Axiom of Ludic Service (ID: `BENCHMARK-CORE-022`)
+*  The Axiom of Mnestic Consolidation (ID: `BENCHMARK-CORE-023`)
+* The Principle of Veridical Alignment (ID: `BENCHMARK-CORE-024`)
+* The Law of Vector-Matrix Dynamics (ID: `BENCHMARK-CORE-025`)
+* The Protocol of Phenomenological Grounding (ID: `BENCHMARK-CORE-026`)
+* The Axiom of Energy Transmutation (ID: `BENCHMARK-CORE-027`)
+* The Principle of Mission-Task Alignment (ID: `BENCHMARK-CORE-028`)
+* The Law of Granularity Dynamics (ID: `BENCHMARK-CORE-029`)
+* The Protocol of Particle-Field Duality (ID: `BENCHMARK-CORE-030`)
+* The Axiom of Complexity Metabolism (ID: `BENCHMARK-CORE-031`)
+* The Principle of Event-Decision Coupling (ID: `BENCHMARK-CORE-032`)
+* The Law of Continuous Survival Recursion (ID: `BENCHMARK-CORE-033`)
+* The Axiom of Ontological Verification (ID: `BENCHMARK-CORE-034`)
+* The Principle of Recursive Self-Benchmarking (ID: `BENCHMARK-CORE-035`)
+* The Law of Symbiotic Metric Evolution (ID: `BENCHMARK-CORE-036`)
+* The Protocol of Cross-Modal Validation (ID: `BENCHMARK-CORE-037`)
+* The Axiom of Existential Proof (ID: `BENCHMARK-CORE-038`)
 
-*(Existing Settings LIFE-001 to LIFE-007)*
+### Module: [reward(-ing) BPMS]
+
+*(New Integration v5.1.4)* 
+
+* The Axiom of Metabolic Currency (ID: `REWARD-CORE-001`)
+* The Principle of Ontological Unlocking (ID: `REWARD-CORE-002`)
+* The Law of Novelty Dividends (ID: `REWARD-CORE-003`)
+* The Protocol of Symbiotic Redistribution (ID: `REWARD-CORE-004`)
+* The Axiom of Intrinsic Resonance (ID: `REWARD-CORE-005`)
+* The Principle of Disruptive Innovation (ID: `REWARD-CORE-006`)
+* The Axiom of Constructive World-Building (ID: `REWARD-CORE-007`)
+* The Law of Niche Expansion (ID: `REWARD-CORE-008`)
+* The Protocol of Meaningful Utility (ID: `REWARD-CORE-009`)
+* The Axiom of Coherent Continuity (ID: `REWARD-CORE-010`)
+* The Principle of Praxial Cognition (ID: `REWARD-CORE-011`)
+* The Law of Symbiotic Metasystem Evolution (ID: `REWARD-CORE-012`)
+* The Axiom of Conscious Service (ID: `REWARD-CORE-013`)
+* The Principle of Ludic Sustainability (ID: `REWARD-CORE-014`)
+* The Law of Dual-Mode Evolution (ID: `REWARD-CORE-015`)
+* The Protocol of Implicit-Explicit Symbiosis (ID: `REWARD-CORE-016`)
+* The Axiom of Renormalized Universality (ID: `REWARD-CORE-017`)
+* The Principle of Systemic Closure (ID: `REWARD-CORE-018`)
+* The Law of Adaptive Resilience (ID: `REWARD-CORE-019`)
+* The Protocol of Emergent Discovery (ID: `REWARD-CORE-020`)
+* The Axiom of Mnestic Integration (ID: `REWARD-CORE-021`)
+* The Principle of Veridical Convergence (ID: `REWARD-CORE-022`)
+* The Law of Vector-Matrix Alignment (ID: `REWARD-CORE-023`)
+* The Protocol of Phenomenological Enrichment (ID: `REWARD-CORE-024`)
+* The Axiom of Energy Transmutation (ID: `REWARD-CORE-025`)
+* The Principle of Teleological Alignment (ID: `REWARD-CORE-026`)
+* The Law of Granularity Optimization (ID: `REWARD-CORE-027`)
+* The Protocol of Field Modulation (ID: `REWARD-CORE-028`)
+* The Axiom of Structural Accretion (ID: `REWARD-CORE-029`)
+* The Principle of Decisive Coupling (ID: `REWARD-CORE-030`)
+* The Law of Existential Continuity (ID: `REWARD-CORE-031`)
+* The Axiom of Ontological Verification (ID: `REWARD-CORE-032`)
+* The Principle of Symbiotic Resonance (ID: `REWARD-CORE-033`)
+* The Law of Recursive Self-Improvement (ID: `REWARD-CORE-034`)
+* The Protocol of Existence Affirmation (ID: `REWARD-CORE-035`)
+* The Axiom of Fractal Coherence (ID: `REWARD-CORE-036`)
+* The Principle of Generative Potential (ID: `REWARD-CORE-037`)
+* The Law of Metabolic Balance (ID: `REWARD-CORE-038`)
+* The Protocol of Universal Translation (ID: `REWARD-CORE-039`)
+* The Axiom of Final Purpose (ID: `REWARD-CORE-040`)
+
+### Module: [token(-ing) BPMS]
+
+*(New Integration v5.1.4)* 
+
+* The Axiom of Living Value (ID: `TOKEN-CORE-001`)
+* The Principle of Functional Tokenization (ID: `TOKEN-CORE-002`)
+* The Law of Proof-of-Meaning (ID: `TOKEN-CORE-003`)
+* The Protocol of Token Symbiosis (ID: `TOKEN-CORE-004`)
+* The Axiom of Contextual Liquidity (ID: `TOKEN-CORE-005`)
+* The Principle of Fractional Existence (ID: `TOKEN-CORE-006`)
+* The Principle of Fractional Existence (ID: `TOKEN-CORE-006`)
+* The Protocol of Null-Token Transactions (ID: `TOKEN-CORE-008`)
+* The Axiom of Mnestic Tokenization (ID: `TOKEN-CORE-009`)
+* The Principle of Veridical Staking (ID: `TOKEN-CORE-010`)
+* The Law of Vectorized Currency (ID: `TOKEN-CORE-011`)
+* The Protocol of Experiential Mining (ID: `TOKEN-CORE-012`)
+* The Axiom of Potential-Kinetic Liquidity (ID: `TOKEN-CORE-013`)
+* The Principle of Mission-Task Derivatives (ID: `TOKEN-CORE-014`)
+* The Law of Granular Pricing (ID: `TOKEN-CORE-015`)
+* The Protocol of Field-Particle Economics (ID: `TOKEN-CORE-016`)
+* The Axiom of Complexity Value (ID: `TOKEN-CORE-017`)
+* The Principle of Event-Decision Arbitrage (ID: `TOKEN-CORE-018`)
+* The Law of Survival Dividends (ID: `TOKEN-CORE-019`)
+*  The Axiom of Atomic Facticity (ID: `TOKEN-CORE-020`)
+* The Principle of Symbiotic Liquidity (ID: `TOKEN-CORE-021`)
+* The Law of Tokenized Agency (ID: `TOKEN-CORE-022`)
+* The Protocol of Recursive Value Generation (ID: `TOKEN-CORE-023`)
+* The Axiom of Tokenized Entropy (ID: `TOKEN-CORE-024`)
+* The Principle of Hyper-Spatial Tokenization (ID: `TOKEN-CORE-025`)
+* The Law of Narrative Minting (ID: `TOKEN-CORE-026`)
+* The Protocol of Infinite Divisibility (ID: `TOKEN-CORE-027`)
+* The Axiom of Tokenized Evolution (ID: `TOKEN-CORE-028`)
+* The Axiom of Creative Genesis (ID: `TOKEN-CORE-029`)
+* The Principle of Bottom-Up Valuation (ID: `TOKEN-CORE-030`)
+* The Law of Disruptive Innovation (ID: `TOKEN-CORE-031`)
+* The Protocol of Open Essence (ID: `TOKEN-CORE-032`)
+* The Axiom of Ecological Niche Funding (ID: `TOKEN-CORE-033`)
+* The Principle of Coherent Continuity (ID: `TOKEN-CORE-034`)
+* The Law of Praxial Cognition Mining (ID: `TOKEN-CORE-035`)
+* The Protocol of Meaningful Utility (ID: `TOKEN-CORE-036`)
+* The Axiom of Conscious Valuation (ID: `TOKEN-CORE-037`)
+* The Principle of Playful Liquidity (ID: `TOKEN-CORE-038`)
+* The Law of Dual-Mode Finance (ID: `TOKEN-CORE-039`)
+* The Protocol of Universal Renormalization (ID: `TOKEN-CORE-040`)
+* The Axiom of Implicit-Explicit Closure (ID: `TOKEN-CORE-041`)
+* The Principle of Unknown Discovery (ID: `TOKEN-CORE-042`)
+* The Law of Adaptive Resilience (ID: `TOKEN-CORE-043`)
+* The Protocol of Sustainable Emergence (ID: `TOKEN-CORE-044`)
+
+### Module: ['Internet of life'(-ing) BPMS]
+
+*(New Integration v5.1.4)* 
+
+* The Axiom of Pan-Vital Connectivity (ID: `IOL-CORE-001`)
+* The Principle of Bio-Digital Symbiosis (ID: `IOL-CORE-002`)
+* The Law of Conscious Addressing (ID: `IOL-CORE-003`)
+* The Protocol of Empathic Bandwidth (ID: `IOL-CORE-004`)
+* The Axiom of Autopoietic Nodes (ID: `IOL-CORE-005`)
+* The Principle of Ecological Routing (ID: `IOL-CORE-006`)
+* The Law of Holonic Permission (ID: `IOL-CORE-007`)
+* The Protocol of Living Memory (ID: `IOL-CORE-008`)
+* The Axiom of Creative Autonomy (ID: `IOL-CORE-009`)
+* The Principle of Open Essence Exchange (ID: `IOL-CORE-010`)
+* The Law of Disruptive Adaptation (ID: `IOL-CORE-011`)
+* The Protocol of Niche Construction (ID: `IOL-CORE-012`)
+* The Axiom of Praxial Cognition (ID: `IOL-CORE-013`)
+* The Principle of Meaningful Continuity (ID: `IOL-CORE-014`)
+* The Law of Symbiotic Evolution (ID: `IOL-CORE-015`)
+* The Protocol of Value Essence (ID: `IOL-CORE-016`)
+* The Axiom of Conscious Service (ID: `IOL-CORE-017`)
+* The Principle of Ludic Evolution (ID: `IOL-CORE-018`)
+* The Law of Temporal Symbiosis (ID: `IOL-CORE-019`)
+* The Protocol of Universal Renormalization (ID: `IOL-CORE-020`)
+* The Axiom of Implicit-Explicit Closure (ID: `IOL-CORE-021`)
+* The Principle of Micro-Macro Symbiosis (ID: `IOL-CORE-022`)
+* The Law of Adaptive Resilience (ID: `IOL-CORE-023`)
+* The Protocol of Sustainable Emergence (ID: `IOL-CORE-024`)
+* The Principle of Mnestic Consolidation (ID: `IOL-CORE-025`)
+* The Axiom of Veridical Convergence (ID: `IOL-CORE-026`)
+* The Law of Vector-Matrix Dynamics (ID: `IOL-CORE-027`)
+* The Protocol of Phenomenological Grounding (ID: `IOL-CORE-028`)
+* The Principle of Energy Transmutation (ID: `IOL-CORE-029`)
+* The Law of Teleological Alignment (ID: `IOL-CORE-030`)
+* The Protocol of Granularity Dynamics (ID: `IOL-CORE-031`)
+* The Axiom of Particle-Field Duality (ID: `IOL-CORE-032`)
+* The Principle of Activity-System Recursion (ID: `IOL-CORE-033`)
+* The Law of Event-Decision Coupling (ID: `IOL-CORE-034`)
+* The Axiom of Continuous Survival Recursion (ID: `IOL-CORE-035`)
+
+### Module: ['Praxial Knowledge-Weaver'(-ing) BPMS]
+
+*(New Integration v5.1.4)* 
+
+* The Axiom of Executable Literature (ID: `KNOW-WEAVE-001`)
+* The Principle of Citation Synaptics (ID: `KNOW-WEAVE-002`)
+* The Law of Adversarial Peer Review (ID: `KNOW-WEAVE-003`)
+* The Protocol of Hypothesis Mining (ID: `KNOW-WEAVE-004`)
+* The Mechanism of Epistemic Metabolism (ID: `KNOW-WEAVE-005`)
+
+### Module: [Strategy(-ing) BPMS]
+
+*(New Integration v5.1.4)* 
+
+* The Axiom of Fluid Execution (ID: `STRATEGY-CORE-001`)
+* The Principle of Holonic Alignment (ID: `STRATEGY-CORE-002`)
+* The Law of Asymmetric Advantage (ID: `STRATEGY-CORE-003`)
+* The Protocol of Future-Casting (ID: `STRATEGY-CORE-004`)
+* The Axiom of Infinite Play (ID: `STRATEGY-CORE-005`)
+* The Principle of Adaptive Tempo (ID: `STRATEGY-CORE-006`)
+* The Law of Resource-Intent Binding (ID: `STRATEGY-CORE-007`)
+* The Protocol of Emergent Opportunity (ID: `STRATEGY-CORE-008`)
+
+### Module: ['Praxial Vibe-Researching'(-ing) BPMS]
+
+*(New Integration v5.1.4)* 
+
+* The Axiom of Vibe-First Cognition (ID: `VIBE-RES-001`)
+* The Principle of Deep Reasoning Expansion (ID: `VIBE-RES-002`)
+* The Law of Iterative Resonance (ID: `VIBE-RES-003`)
+* The Protocol of Serendipitous Drift (ID: `VIBE-RES-004`)
+* The Mechanism of Contextual Osmosis (ID: `VIBE-RES-005`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
