@@ -296,5 +296,3 @@ Essential for handling the "Big Data" deluge without getting overwhelmed.
 
 Applies to data science, business intelligence, and systems neuroscience.
 
----
-

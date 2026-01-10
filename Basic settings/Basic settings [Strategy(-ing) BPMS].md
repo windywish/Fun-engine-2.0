@@ -469,3 +469,4 @@ Prevents rigid adherence to obsolete plans.
 #### **8. Scope of Application:**
 
 Applies to exploration, startup strategy, and improvisation.
+
