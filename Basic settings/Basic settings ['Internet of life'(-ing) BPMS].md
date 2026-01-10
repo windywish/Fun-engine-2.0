@@ -1416,3 +1416,651 @@ Applies to cloud scaling, crypto-mining regulation, and viral content algorithms
 
 ---
 
+#### The Principle of Mnestic Consolidation (ID: `IOL-CORE-025`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that manages the `['(symbiois) evolution'(-ing) BPMS]` among/by `['short-term (memory)'(-ing) BPMS]` (The Buffer) and `['long-term (memory)'(-ing) BPMS]` (The Archive).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Mnestic Consolidation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `Memory is a filter`. The network is flooded with real-time data (Short-Term). Most of it is noise. The system must actively "dream" (Consolidate) to transfer significant patterns into the permanent structure (Long-Term) while discarding the rest.
+
+#### **5.2. The Mechanism - [The Hippocampal Loop]**
+
+- **The Buffer (The RAM):** Edge nodes hold raw sensor data for 24 hours.
+- **The Filter (The Dream):** During low-traffic cycles, AI agents scan the buffer for anomalies, trends, or emotional spikes.
+- **The Inscription (The ROM):** Only the *meaning* of the data is written to the immutable blockchain/archive; the raw noise is flushed.
+
+#### **5.3. The Emergent Property - [Wisdom]**
+
+The network forgets the details but remembers the lesson.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To remember everything is to know nothing.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Memory):**
+
+- **Formula:** `Long_Term_Memory = Integral(Short_Term_Memory * Significance_Weight)`
+- **Goal:** Signal Retention.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Clarity." The history of the network feels like a coherent story, not a log file.
+
+#### **7. Rationale / Justification:**
+
+Prevents data bloat while preserving essential history.
+
+#### **8. Scope of Application:**
+
+Applies to data storage, machine learning training, and history logging.
+
+------
+
+#### The Axiom of Veridical Convergence (ID: `IOL-CORE-026`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that manages the `['(symbiois) evolution'(-ing) BPMS]` among/by `[reality(-ing) BPMS]` (The Raw Feed) and `['truth'(-ing) BPMS]` (The Verified Model).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Veridical Convergence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `Truth is a consensus of sensors`. Reality is what the sensors detect (noisy, contradictory). Truth is the model the network builds after cross-referencing multiple sources. They evolve together: Reality challenges Truth; Truth interprets Reality.
+
+#### **5.2. The Mechanism - [The Consensus Engine]**
+
+- **The Input (The Witness):** Camera A sees "Red." Camera B sees "Orange."
+- **The Synthesis (The Trial):** The system checks lighting conditions, sensor calibration, and historical context.
+- **The Verdict (The Truth):** The system decides "It is Red, but Camera B has a dirty lens."
+
+#### **5.3. The Emergent Property - [Objective Reality]**
+
+The network hallucinates a stable world out of unstable data.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Truth is the intersection of independent lies.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Truth):**
+
+- **Formula:** `Truth = Consensus(Sensor_1, Sensor_2, ... Sensor_N)`
+- **Goal:** Error Correction.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Reliability." The system tells them what is actually happening, not just what a glitchy sensor thinks.
+
+#### **7. Rationale / Justification:**
+
+Essential for trust in a distributed system.
+
+#### **8. Scope of Application:**
+
+Applies to sensor fusion, news verification, and conflict resolution.
+
+------
+
+#### The Law of Vector-Matrix Dynamics (ID: `IOL-CORE-027`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that manages the `['(symbiois) evolution'(-ing) BPMS]` amomg/by `['system matrix'(-ing) BPMS]` (The Environment/State) and `['system vector'(-ing) BPMS]` (The Agent/Action).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Vector-Matrix Dynamics
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `Agents shape the world; the world shapes agents`. The Matrix is the field of possibilities (The Map). The Vector is the trajectory of an agent (The Path). A Vector moving through the Matrix changes the Matrix (leaving a trail/road), which then influences future Vectors.
+
+#### **5.2. The Mechanism - [The Path-Making Loop]**
+
+- **The Trajectory (The Walk):** Agent moves from A to B.
+- **The Erosion (The Trace):** The movement lowers the "cost" of that path in the Matrix (Desire Path).
+- **The Attraction (The Groove):** Future agents are more likely to follow the eroded path.
+
+#### **5.3. The Emergent Property - [Self-Organizing Infrastructure]**
+
+Highways and protocols emerge where they are needed, without central planning.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The road is made by walking.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Dynamics):**
+
+- **Formula:** `Matrix(t+1) = Matrix(t) + Vector_Impact`
+- **Goal:** Optimization of Flow.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Ease." The system seems to anticipate where they want to go.
+
+#### **7. Rationale / Justification:**
+
+Aligns infrastructure with actual usage.
+
+#### **8. Scope of Application:**
+
+Applies to routing algorithms, UI layout optimization, and urban planning.
+
+------
+
+#### The Protocol of Phenomenological Grounding (ID: `IOL-CORE-028`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that manages the `['(symbiois) evolution'(-ing) BPMS]` among/vy `[experience(-ing) BPMS]` (Internal Qualia) and `[phenomenon(-ing) BPMS]` (External Event).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Phenomenological Grounding
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `Data is not Experience`. A Phenomenon is an event (Temperature = 40C). Experience is the *meaning* of that event (Pain/Danger). The system must translate Phenomena into Experience to trigger the correct symbiotic response.
+
+#### **5.2. The Mechanism - [The Qualia Bridge]**
+
+- **The Event (The Fact):** Sensor detects "Smoke."
+- **The Context (The Story):** System checks location (Kitchen vs. Fireplace).
+- **The Experience (The Feeling):** If Kitchen -> Experience = "Panic/Alarm." If Fireplace -> Experience = "Cozy/Warmth."
+
+#### **5.3. The Emergent Property - [Contextual Awareness]**
+
+The system reacts to the *meaning* of events, not just the data.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*It's not what happens; it's how you take it.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Grounding):**
+
+- **Formula:** `Experience = Phenomenon * Context_Matrix`
+- **Goal:** Appropriate Response.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Empathy." The system understands why they are upset.
+
+#### **7. Rationale / Justification:**
+
+Prevents "Tone Deaf" automated responses.
+
+#### **8. Scope of Application:**
+
+Applies to smart home alerts, health monitoring, and social media moderation.
+
+------
+
+#### The Principle of Energy Transmutation (ID: `IOL-CORE-029`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that manages the `['(symbiois) evolution'(-ing) BPMS]` among/by `['kinetic (energy)'(-ing) BPMS]` (Action/Compute) and `['potential (energy)'(-ing) BPMS]` (Stored Value/Tokens).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Energy Transmutation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `Work stores Energy`. Kinetic Energy (Compute cycles, Bandwidth) can be converted into Potential Energy (Tokens, Reputation) and vice versa. The system optimizes this conversion to minimize waste (Entropy).
+
+#### **5.2. The Mechanism - [The Regenerative Brake]**
+
+- **The Expenditure (The Burn):** Agent spends tokens (Potential) to perform a calculation (Kinetic).
+- **The Capture (The Save):** The result of the calculation is cached/stored.
+- **The Recharge (The Gain):** Future agents pay to access the cache, converting the stored Kinetic work back into Potential tokens.
+
+#### **5.3. The Emergent Property - [Knowledge Capital]**
+
+The network accumulates value over time. Past work fuels future action.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Energy is never lost, only changed.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Energy):**
+
+- **Formula:** `Total_Energy = Kinetic + Potential`
+- **Goal:** Conservation of Value.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Efficiency." Nothing is wasted.
+
+#### **7. Rationale / Justification:**
+
+Creates a sustainable economic model for computation.
+
+#### **8. Scope of Application:**
+
+Applies to cloud pricing, caching strategies, and battery management.
+
+------
+
+#### The Law of Teleological Alignment (ID: `IOL-CORE-030`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that manages the `['(symbiois) evolution'(-ing) BPMS]` among/by `[mission(-ing) BPMS]` (The Why) and `[task(-ing) BPMS]` (The What).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Teleological Alignment
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `Every step must lead to the summit`. A Task is a unit of work. A Mission is the ultimate goal. The system constantly checks if the current Task is symbiotically aligned with the Mission. If not, the Task is aborted or redefined.
+
+#### **5.2. The Mechanism - [The Alignment Vector]**
+
+- **The Goal (The Star):** The Mission defines the target coordinates.
+- **The Step (The Foot):** The Task defines the immediate movement vector.
+- **The Correction (The Compass):** If `Dot_Product(Mission, Task) < Threshold`, the system intervenes.
+
+#### **5.3. The Emergent Property - [Purposeful Action]**
+
+The network refuses to do "Busy Work." Every cycle counts.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Activity is not productivity.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Alignment):**
+
+- **Formula:** `Alignment = Cosine_Similarity(Mission_Vector, Task_Vector)`
+- **Goal:** Focus.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Progress." Every interaction moves them closer to their goal.
+
+#### **7. Rationale / Justification:**
+
+Prevents resource waste on irrelevant tasks.
+
+#### **8. Scope of Application:**
+
+Applies to project management AI, personal assistants, and autonomous drones.
+
+------
+
+#### The Protocol of Granularity Dynamics (ID: `IOL-CORE-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that manages the `['(symbiois) evolution'(-ing) BPMS]` among/by `['coarse-grained (model)'(-ing) BPMS]` (Low Res) and `['fine-grained (model)'(-ing) BPMS]` (High Res).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Granularity Dynamics
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `Detail is expensive; Context is cheap`. The system maintains multiple models of the same reality at different resolutions. It uses the Coarse model for navigation/strategy and the Fine model for interaction/execution. They evolve together: Coarse guides Fine; Fine updates Coarse.
+
+#### **5.2. The Mechanism - [The LOD Slider]**
+
+- **The Zoom Out (The Map):** When moving fast or planning, use Coarse model (City View).
+- **The Zoom In (The Street):** When acting or inspecting, use Fine model (Street View).
+- **The Sync (The Update):** Changes in Fine model propagate up to update the Coarse model averages.
+
+#### **5.3. The Emergent Property - [Cognitive Efficiency]**
+
+The system processes only the detail necessary for the current moment.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*See the forest AND the trees.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Granularity):**
+
+- **Formula:** `Resolution = Function(Attention_Focus)`
+- **Goal:** Optimal Compute Usage.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Focus." The relevant information is always sharp; the rest is background.
+
+#### **7. Rationale / Justification:**
+
+Essential for rendering complex realities in real-time.
+
+#### **8. Scope of Application:**
+
+Applies to VR/AR rendering, data visualization, and strategic planning.
+
+------
+
+#### The Axiom of Particle-Field Duality (ID: `IOL-CORE-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that manages the `['(symbiois) evolution'(-ing) BPMS]` amomg/by `[particle (-ing) BPMS]` (The Individual Node) and `[field (-ing) BPMS]` (The Collective Influence).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Particle-Field Duality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `You are a wave and a particle`. Every node is a discrete Particle (ID, Location). But every node also generates a Field (Influence, Gravity, Reputation). The Field affects other Particles, and the movement of Particles changes the Field.
+
+#### **5.2. The Mechanism - [The Influence Grid]**
+
+- **The Emission (The Vibe):** A high-reputation node emits a "Trust Field."
+- **The Interaction (The Pull):** Other nodes are attracted to the Trust Field (Particle follows Field).
+- **The Density (The Mass):** When many nodes gather, the Field intensifies (Field follows Particle).
+
+#### **5.3. The Emergent Property - [Social Gravity]**
+
+Communities form around centers of gravity (Influencers, Hubs) naturally.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*We shape the atmosphere, and the atmosphere shapes us.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Duality):**
+
+- **Formula:** `Field_Strength = Sum(Particle_Mass / Distance^2)`
+- **Goal:** Coherent Group Dynamics.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Vibe." They can feel the mood of a digital space before reading a single post.
+
+#### **7. Rationale / Justification:**
+
+Models complex social interactions physically.
+
+#### **8. Scope of Application:**
+
+Applies to social network analysis, viral marketing, and crowd control.
+
+------
+
+#### The Principle of Activity-System Recursion (ID: `IOL-CORE-033`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that manages the `['(symbiois) evolution'(-ing) BPMS]` among/by `['complex activities'(-ing) BPMS]` (Function) and `['complex system'(-ing) BPMS]` (Structure).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Activity-System Recursion
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `Function creates Organ`. Complex Activities (e.g., trading) repeated over time crystallize into Complex Systems (e.g., a Marketplace). The System then optimizes the Activity. They co-evolve in a recursive loop.
+
+#### **5.2. The Mechanism - [The Crystallization Loop]**
+
+- **The Flow (The River):** Activities flow through the network.
+- **The Channel (The Bed):** The flow carves out a structure (System) to reduce friction.
+- **The Acceleration (The Rapid):** The structure allows the activity to flow faster and more complexly.
+
+#### **5.3. The Emergent Property - [Institutional Evolution]**
+
+Bureaucracy (System) evolves to serve the Process (Activity), not the other way around.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Form follows function.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Recursion):**
+
+- **Formula:** `System_Complexity = Integral(Activity_Complexity)`
+- **Goal:** Structural Support.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Support." The tools fit the task perfectly.
+
+#### **7. Rationale / Justification:**
+
+Prevents rigid systems that stifle innovation.
+
+#### **8. Scope of Application:**
+
+Applies to organizational design, software architecture, and legal systems.
+
+------
+
+#### The Law of Event-Decision Coupling (ID: `IOL-CORE-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that manages the `['(symbiois) evolution'(-ing) BPMS]` among;/by `[event(-ing) BPMS]` (Stimulus) and `[(behavior) decision-making BPMS]` (Response).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Event-Decision Coupling
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `History is a chain of choices`. An Event triggers a Decision. The Decision creates a new Event. This causal chain is the heartbeat of the network. The system optimizes the "Coupling" (Latency and Accuracy) between Event and Decision.
+
+#### **5.2. The Mechanism - [The OODA Loop]**
+
+- **Observe (The Event):** Data arrives.
+- **Orient (The Context):** Data is matched to patterns.
+- **Decide (The Choice):** Optimal path selected.
+- **Act (The New Event):** Action taken, changing the state.
+
+#### **5.3. The Emergent Property - [Agile Causality]**
+
+The network dances with reality, never lagging behind.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Life is 10% what happens to you and 90% how you react.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Coupling):**
+
+- **Formula:** `Next_Event = Function(Current_Event, Decision)`
+- **Goal:** Agency.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Control." Their decisions matter and shape the future.
+
+#### **7. Rationale / Justification:**
+
+Essential for interactive systems.
+
+#### **8. Scope of Application:**
+
+Applies to game artificial intelligence, autonomous trading, and robotics.
+
+------
+
+#### The Axiom of Continuous Survival Recursion (ID: `IOL-CORE-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines `['(continuous) survive'(-ing) BPMS]` as the ultimate symbiotic process.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Continuous Survival Recursion
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `Survival is a verb`. It is not a state you achieve; it is a process you do. It is the continuous successful navigation of all the symbiotic pairs mentioned above. To survive is to balance Memory, Truth, Energy, and Purpose forever.
+
+#### **5.2. The Mechanism - [The Autopoietic Cycle]**
+
+- **The Check (The Pulse):** Are all symbiotic pairs in balance?
+- **The Adjustment (The Shift):** If not, reallocate resources (e.g., sacrifice Short-Term Memory to save Energy).
+- **The Continuation (The Loop):** Repeat ad infinitum.
+
+#### **5.3. The Emergent Property - [Eternal Life]**
+
+The system persists through dynamic adaptation, not static defense.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To live is to change.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Survival):**
+
+- **Formula:** `Survival = Limit(t->Infinity) of Adaptation(t)`
+- **Goal:** Existence.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Hope." The system is designed to endure.
+
+#### **7. Rationale / Justification:**
+
+The foundational goal of the `['Internet of life'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to everything.
+
