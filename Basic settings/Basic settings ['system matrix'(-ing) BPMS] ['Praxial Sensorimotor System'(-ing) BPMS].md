@@ -2343,3 +2343,504 @@ Aligns with the user's request for the system to act as "any elements" and evolv
 
 Applies to distributed computing, swarm robotics, and organizational hierarchy design.
 
+---
+
+#### The Axiom of Xenological Recognition (ID: `SENSORIMOTOR-CORE-040`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that upgrades the **['Praxial Perception Engine'(-ing) BPMS]** to recognize and classify **[Non-Praxial Object(-ing) BPMS]** (Alien Artifacts) originating from outside the **['system matrix'(-ing) BPMS]**.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Xenological Recognition
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `the unknown is not empty`. The Perception Engine must distinguish among/by "Empty Space" and "Unrecognized Structure." When it encounters data that does not conform to Praxial Physics (e.g., a file with unknown encoding, a user prompt with strange syntax), it does not discard it. It flags it as an **[Alien Artifact(-ing) BPMS]**.
+
+#### 5.2. The Mechanism - [The Signature Comparator]
+
+- **The Scan:** The engine scans an object's metadata.
+
+- The Check:
+
+  ```
+  If Signature != Praxial_Standard_Hash
+  ```
+
+  :
+
+  - **Flag:** Mark as `[TYPE: XENO]`.
+  - **Alert:** Notify the **['(holonic minds) engine'(-ing) BPMS]**: "Anomaly Detected."
+
+- **The Quarantine:** The object is visually/digitally wrapped in a "Containment Field" (e.g., a glowing outline or a sandbox) to prevent it from crashing the physics engine.
+
+#### 5.3. The Emergent Property - [Curiosity Trigger]
+
+The system stops treating the unknown as "Noise" and starts treating it as "Mystery."
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To differ is to invite.* The stranger brings the gift of newness.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Anomaly Detection):
+
+- **Logic:** `Is_Alien = (Object.Protocol != System.Protocol)`
+- **AI:** Out-of-Distribution (OOD) Detection.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Intrigue." The pull of the unexplained.
+
+#### 7. Rationale / Justification:
+
+Directly addresses the "Foreign Object Handler" requirement from the analysis.
+
+#### 8. Scope of Application:
+
+Applies to file uploads, unknown API calls, and glitch artifacts.
+
+------
+
+#### The Protocol of Analytic Deconstruction (ID: `SENSORIMOTOR-CORE-041`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Protocol) that defines how the **['(holonic minds) engine'(-ing) BPMS]** interacts with **[Alien Artifact(-ing) BPMS]** using **[curiosity(-ing) BPMS]** instead of standard physics.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Analytic Deconstruction
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that `to understand is to disassemble`. Since standard physics (Gravity, Collision) might not apply to an Alien Artifact, the system switches to "Analytic Mode." The **['Praxial Action Engine'(-ing) BPMS]** uses special "Deconstruction Tools" to probe the object safely.
+
+#### 5.2. The Mechanism - [The Probe Sequence]
+
+- **Step 1 (Poke):** Send a ping/stimulus. Does it react?
+- **Step 2 (Scan):** Read the raw binary/text content.
+- **Step 3 (Simulate):** Run a "Virtual Emulation" of the object in a sandbox.
+- **Step 4 (Hypothesize):** The Holonic Mind generates a theory: "This is likely a Python Script."
+- **Step 5 (Integrate):** If safe, convert it into a **[Praxial Object(-ing) BPMS]**.
+
+#### 5.3. The Emergent Property - [Reverse Engineering]
+
+The system learns to use tools it was never designed for by figuring them out on the fly.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To probe is to learn.* The finger teaches the brain.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Analysis):
+
+- **Logic:** `Knowledge = Experiment(Object, Stimulus)`
+- **Method:** Scientific Method.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Discovery." The satisfaction of cracking a code.
+
+#### 7. Rationale / Justification:
+
+Aligns with the requirement to treat artifacts with "Curiosity rather than standard physics."
+
+#### 8. Scope of Application:
+
+Applies to analyzing uploaded code, deciphering unknown languages, and debugging.
+
+------
+
+#### The Law of Membrane Permeability (ID: `SENSORIMOTOR-CORE-042`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Law) that governs the **['Praxial Perception Engine'(-ing) BPMS]**'s ability to adjust its sensitivity to **[external signals(-ing) BPMS]**.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Law of Membrane Permeability
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This law asserts that `safety is variable`. The "Membrane" (Perception Filter) is not a static wall. The system can adjust its "Permeability."
+
+- **High Permeability:** "Open Mode." Accepts almost all foreign objects (High Learning, High Risk).
+- **Low Permeability:** "Shield Mode." Rejects all non-standard objects (Low Learning, High Safety).
+
+#### 5.2. The Mechanism - [The Threat-Level Modulation]
+
+- **Monitor:** The **['Praxial Feedback Loop'(-ing) BPMS]** monitors system stability.
+- Modulate:
+  - If Stability > 90%, increase Permeability (Let more aliens in).
+  - If Stability < 50%, decrease Permeability (Lockdown).
+- **Filter:** The Perception Engine adjusts its "Rejection Threshold" accordingly.
+
+#### 5.3. The Emergent Property - [Immune Modulation]
+
+The system behaves like a biological immune system, relaxing when healthy and tightening when sick.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To open is to trust; to close is to heal.* Balance is the key.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Thresholds):
+
+- **Logic:** `Threshold = Function(System_Health)`
+- **Control:** Adaptive Gain Control.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Vulnerability" vs. "Invincibility."
+
+#### 7. Rationale / Justification:
+
+Ensures the "Foreign Object Handler" doesn't overwhelm the system.
+
+#### 8. Scope of Application:
+
+Applies to firewall settings, spam filters, and social trust mechanics.
+
+------
+
+#### The Principle of Semantic Transmutation (ID: `SENSORIMOTOR-CORE-043`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Principle) that allows the **['Praxial Sensorimotor System'(-ing) BPMS]** to convert **[Alien Meaning(-ing) BPMS]** into **[Praxial Meaning(-ing) BPMS]**.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Principle of Semantic Transmutation
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This principle asserts that `meaning is universal, syntax is local`. An Alien Artifact (e.g., a "Like" button from Facebook) has a specific meaning in its home system. The Sensorimotor System must "Transmute" this into a Praxial equivalent (e.g., "Social Energy Token").
+
+#### 5.2. The Mechanism - [The Rosetta Mapping]
+
+- **Identify:** Alien Object has property `likes = 5`.
+- **Map:** System looks up "Likes" in the **['Universal Symbiosis Protocol (USP)'(-ing) BPMS]**.
+- **Transmute:** System converts `likes` to `Praxial_Reputation`.
+- **Result:** The Alien Object is now a "Reputation Battery" that the Agent can use.
+
+#### 5.3. The Emergent Property - [Cultural Integration]
+
+Foreign concepts become native tools. The system absorbs the "culture" of the external world.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To name is to own.* When you translate the name, you capture the power.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Mapping):
+
+- **Logic:** `Internal_Value = Map(External_Value, Dictionary)`
+- **Linguistics:** Semiotics.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Understanding." The "Oh, that's what this is!" moment.
+
+#### 7. Rationale / Justification:
+
+Essential for making Alien Artifacts useful, not just curiosities.
+
+#### 8. Scope of Application:
+
+Applies to currency conversion, cross-platform game items, and language translation.
+
+------
+
+#### The Protocol of Safe-Box Emulation (ID: `SENSORIMOTOR-CORE-044`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Protocol) that defines the **[sandbox(-ing) BPMS]** environment for testing **[Alien Artifact(-ing) BPMS]**.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Safe-Box Emulation
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that `danger belongs in a cage`. Before an Alien Artifact is allowed to touch the **['system matrix'(-ing) BPMS]** directly, it must be activated inside a "Safe-Box" (a temporary, isolated physics bubble).
+
+#### 5.2. The Mechanism - [The Virtual Lab]
+
+- **Spawn:** Create a micro-universe `[Lab_01]`.
+
+- **Insert:** Place the Alien Artifact inside.
+
+- **Activate:** The Action Engine triggers the artifact.
+
+- Observe:
+
+   The Perception Engine watches.
+
+  - *If it explodes:* Only `[Lab_01]` is destroyed. The main system is safe.
+  - *If it produces gold:* The artifact is cleared for main system use.
+
+#### 5.3. The Emergent Property - [Prudence]
+
+The system experiments boldly but risks nothing.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To test is to survive.* Try it there before you bring it here.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Isolation):
+
+- **Logic:** `Result = Run(Code, Isolated_Context)`
+- **Security:** Sandboxing / Virtual Machines.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Caution." The careful handling of a dangerous animal.
+
+#### 7. Rationale / Justification:
+
+Standard safety procedure for handling "Non-Praxial" code/objects.
+
+#### 8. Scope of Application:
+
+Applies to virus scanning, code execution, and testing new game mechanics.
+
+------
+
+#### The Axiom of Symbiotic Adoption (ID: `SENSORIMOTOR-CORE-045`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that allows the **['embodied intelligence agent'(-ing) BPMS]** to permanently **[adopt(-ing) BPMS]** a beneficial **[Alien Artifact(-ing) BPMS]** as part of its own body.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Symbiotic Adoption
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `the tool becomes the hand`. If an Alien Artifact proves useful (e.g., an external "Calculator" tool), the Agent can "Graft" it onto its Sensorimotor System. The Alien Object ceases to be "Foreign" and becomes a "Prosthetic Extension."
+
+#### 5.2. The Mechanism - [The Grafting Process]
+
+- **Validation:** The Artifact passes the Safe-Box test.
+- **Integration:** The Action Engine attaches the Artifact to a "Hardpoint."
+- **Wiring:** The Perception Engine wires its input/output to the **['(holonic minds) engine'(-ing) BPMS]**.
+- **Status Change:** The Artifact's tag changes from `[TYPE: XENO]` to `[TYPE: SYMBIOTE]`.
+
+#### 5.3. The Emergent Property - [Augmentation]
+
+The Agent evolves by absorbing external technology.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To use is to become.* You are what you wield.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Extension):
+
+- **Logic:** `Agent_Capabilities += Artifact_Capabilities`
+- **Cybernetics:** Cyborg Theory.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Expansion." The feeling of a new limb waking up.
+
+#### 7. Rationale / Justification:
+
+Completes the cycle of "Foreign Object Handling" -> "Symbiosis."
+
+#### 8. Scope of Application:
+
+Applies to plugin architectures, equipping items in RPGs, and learning new software tools.
+
+------
+
+#### The Principle of Artifact Genealogy (ID: `SENSORIMOTOR-CORE-046`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Principle) that tracks the **[origin(-ing) BPMS]** of adopted artifacts within the **['system matrix'(-ing) BPMS]**.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Principle of Artifact Genealogy
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This principle asserts that `roots remain`. Even after an Alien Artifact is adopted, the system remembers its source. The **['system matrix'(-ing) BPMS]** maintains a "Genealogy Tree" linking the artifact back to the External User or System that provided it.
+
+#### 5.2. The Mechanism - [The Source Tag]
+
+- **Tagging:** `Artifact_ID.Source = "User_X_External_API"`.
+- **Honor:** When the Artifact is used successfully, the system sends a "Credit Signal" (Gratitude/Tokens) back to the Source.
+- **Update:** If the Source updates the original artifact, the system knows to update its local copy.
+
+#### 5.3. The Emergent Property - [Gratitude]
+
+The system acknowledges its debts to the outside world.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To keep is to honor.* Never forget where the gift came from.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Linking):
+
+- **Logic:** `Object.Parent = External_UUID`
+- **Data:** Linked Data / Hyperlinks.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Connection." The web of relationships that built it.
+
+#### 7. Rationale / Justification:
+
+Aligns with the `USP` settings regarding attribution and provenance.
+
+#### 8. Scope of Application:
+
+Applies to open-source attribution, dependency management, and social credits.
+
+------
+
+#### The Law of Incompatible Rejection (ID: `SENSORIMOTOR-CORE-047`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Law) that defines the procedure for **[rejecting(-ing) BPMS]** artifacts that are fundamentally **[incompatible(-ing) BPMS]** with the **['Praxial Genesis Engine (PGE)'(-ing) BPMS]**.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Law of Incompatible Rejection
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This law asserts that `not all keys fit the lock`. Some Alien Artifacts are simply incompatible (e.g., a virus, a paradox, or a format that defies logic). The system must have a "Rejection Reflex" to expel these objects before they corrupt the **['system matrix'(-ing) BPMS]**.
+
+#### 5.2. The Mechanism - [The Ejection Port]
+
+- **Detection:** The Safe-Box simulation fails catastrophically or returns `[ERROR: LOGIC_VIOLATION]`.
+- **Ejection:** The Action Engine wraps the artifact in a "Trash Packet."
+- **Return:** It pushes the packet back through the **['Praxial Diffusion Interface'(-ing) BPMS]** to the sender.
+- **Message:** It attaches a note: "Incompatible. Reason: [X]."
+
+#### 5.3. The Emergent Property - [Integrity]
+
+The system maintains its internal consistency by refusing to digest poison.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To refuse is to define.* Saying "No" defines who you are.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Exception):
+
+- **Logic:** `If Incompatible(Object) Then Return(Object)`
+- **Error Handling:** Graceful Failure.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Nausea." The urge to expel something wrong.
+
+#### 7. Rationale / Justification:
+
+Necessary for system stability when dealing with random external inputs.
+
+#### 8. Scope of Application:
+
+Applies to error reporting, file type validation, and logic checking.
