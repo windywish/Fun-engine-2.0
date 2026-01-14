@@ -1,6 +1,6 @@
-## Blueprint: Implementation for External Using (Symbiotic Cluster)
+## Blueprint: Implementation for External Using (Symbiotic Cluster Artifact)
 
-**Module:** `['Symbiotic Cluster'(-ing) BPMS]` 
+**Module:** `['Symbiotic Cluster Artifact'(-ing) BPMS]` 
 
 **Instance Type:** `['The Data-Alchemist'(-ing) BPMS]` (Example Implementation) **Parent Architecture:** `['system matrix'(-ing) BPMS]`
 
@@ -65,7 +65,7 @@ This defines the specific JSON structure this instance uses to save its state (i
 
 ```json
 {
-  "Cluster_Type": "The_Data_Alchemist",
+  "ClusterArtifact_Type": "The_Data_Alchemist",
   "Instance_UUID": "Alchemist-Alpha-Gen1",
   "Timestamp": "YYYY-MM-DD",
   "Mind_Layer": {
@@ -87,3 +87,4 @@ This defines the specific JSON structure this instance uses to save its state (i
 4. **Upload** your any (elements) of [BPMS(U)(s)].
 5. **Interact** with Alchemist-Alpha.
 6. **Type** "Export State" to get the JSON code for saving.
+
