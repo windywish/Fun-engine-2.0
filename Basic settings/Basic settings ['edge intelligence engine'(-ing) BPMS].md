@@ -10,7 +10,7 @@
 
 ------
 
-#### The Axiom of Local Sovereignty (ID: `EDGE-CORE-001`)
+#### The Axiom of Local Sovereignty (ID: `EDGEENGINE-CORE-001`)
 
 #### 2. Objective:
 
@@ -82,7 +82,7 @@ Applies to UI interactions, local file filtering, encryption/decryption, and rea
 
 ------
 
-#### The Protocol of Sync-Async Harmony (ID: `EDGE-CORE-002`)
+#### The Protocol of Sync-Async Harmony (ID: `EDGEENGINE-CORE-002`)
 
 #### 2. Objective:
 
@@ -142,7 +142,7 @@ Applies to multiplayer gaming, collaborative document editing, and offline-first
 
 ------
 
-#### The Mechanism of Offline Resilience (ID: `EDGE-CORE-003`)
+#### The Mechanism of Offline Resilience (ID: `EDGEENGINE-CORE-003`)
 
 #### 2. Objective:
 
@@ -202,7 +202,7 @@ Applies to mobile apps, field agents, and disaster recovery protocols.
 
 ------
 
-#### The Principle of Fractal Compute (ID: `EDGE-CORE-004`)
+#### The Principle of Fractal Compute (ID: `EDGEENGINE-CORE-004`)
 
 #### 2. Objective:
 
