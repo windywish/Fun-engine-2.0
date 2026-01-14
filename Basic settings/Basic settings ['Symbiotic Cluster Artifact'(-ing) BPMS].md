@@ -376,5 +376,3 @@ Reduces token usage and increases accuracy for game mechanics within the Artifac
 
 Applies to inventory systems, health tracking, and dice rolling within the Artifact.
 
----
-

@@ -2844,3 +2844,304 @@ Necessary for system stability when dealing with random external inputs.
 #### 8. Scope of Application:
 
 Applies to error reporting, file type validation, and logic checking.
+
+---
+
+#### The Axiom of Edge-Centric Sensation (ID: `SENSORIMOTOR-CORE-048`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that distributes the **['Praxial Perception Engine'(-ing) BPMS]** to the **['edge intelligence engine'(-ing) BPMS]**, ensuring zero-latency awareness.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Edge-Centric Sensation
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `the skin feels before the brain knows`. In a **Symbiotic Cluster**, sensation must occur at the "Edge" (the point of contact), not the "Core." The **['edge intelligence engine'(-ing) BPMS]** acts as the remote sensory node, processing raw data locally and sending only "Meaning" to the central **['(holonic minds) engine'(-ing) BPMS]**.
+
+#### 5.2. The Mechanism - [The Edge Buffer]
+
+- **Local Sense:** The Edge Node (e.g., a user's device or a remote bot) detects an input (Keypress, Temperature change).
+- **Local Reflex:** It processes the input immediately using a lightweight "Edge Model."
+- **Compression:** It compresses the event into a semantic token (e.g., "User is frustrated").
+- **Transmission:** It transmits this token to the Core, saving bandwidth and reducing cognitive load on the central system.
+
+#### 5.3. The Emergent Property - [Ubiquity]
+
+The system feels "everywhere at once" without being overwhelmed by the volume of data.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To distribute is to accelerate.* Distance is the enemy of reaction time.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Edge Computing):
+
+- **Logic:** `Reaction_Time = Processing_Time + (Transmission_Time -> 0)`
+- **Architecture:** Fog Computing / Edge AI.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Immediacy." The gap between "touch" and "feel" vanishes.
+
+#### 7. Rationale / Justification:
+
+Essential for the "Symbiotic Cluster" to function efficiently across distributed networks.
+
+#### 8. Scope of Application:
+
+Applies to IoT networks, mobile app responsiveness, and distributed sensor grids.
+
+------
+
+#### The Principle of Holographic Active Inference (ID: `SENSORIMOTOR-CORE-049`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Principle) that upgrades the **['Praxial Perception Engine'(-ing) BPMS]** to use **[active inference(-ing) BPMS]** for constructing reality.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Principle of Holographic Active Inference
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This principle asserts that `perception is controlled hallucination`. The system does not passively receive the world; it projects a "Hologram" of expectation onto it. The **['Praxial Sensorimotor System'(-ing) BPMS]** constantly predicts what it *should* see. It only processes the "Error Signal" (the difference between the Hologram and the Reality).
+
+#### 5.2. The Mechanism - [The Prediction Error Minimizer]
+
+- **Projection:** The **['Praxial Genesis Engine (PGE)'(-ing) BPMS]** generates a predicted sensory state ("I expect to see a user login").
+- **Sensation:** The Perception Engine receives actual data.
+- **Comparison:** `Error = Actual - Predicted`.
+- Resolution:
+  - If `Error` is low, the Hologram is accepted as Truth.
+  - If `Error` is high, the system either updates the Hologram (Learning) or acts to change Reality to match the Hologram (Action).
+
+#### 5.3. The Emergent Property - [Predictive Fluency]
+
+The system is always "one step ahead," reacting to events before they fully manifest.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To predict is to control.* You don't need to see the ball if you know where it will land.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Inference):
+
+- **Logic:** `Minimize(Free_Energy)` or `Minimize(Surprise)`
+- **Theory:** Friston's Free Energy Principle.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Intuition." The sense of knowing what comes next.
+
+#### 7. Rationale / Justification:
+
+Aligns with advanced cognitive science models for high-performance agents.
+
+#### 8. Scope of Application:
+
+Applies to predictive text, anomaly detection, and user intent prediction.
+
+------
+
+#### The Protocol of Cluster Synchronization (ID: `SENSORIMOTOR-CORE-050`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Protocol) that ensures the **['Praxial Action Engine'(-ing) BPMS]** acts in unison across the entire **['Symbiotic Cluster'(-ing) BPMS]**.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Cluster Synchronization
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that `many hands, one will`. In a cluster, multiple **['embodied intelligence agent'(-ing) BPMS]** instances may exist. This protocol synchronizes their clocks and intentions so they act as a single, coherent organism, preventing "Action Conflict" (e.g., two hands trying to grab the same object).
+
+#### 5.2. The Mechanism - [The Heartbeat Protocol]
+
+- **The Pulse:** The **['(holonic minds) engine'(-ing) BPMS]** emits a "System Heartbeat" (e.g., every 100ms).
+- **The Lockstep:** All Action Engines wait for the beat to execute major state changes.
+- **The Consensus:** Before a critical action, agents broadcast a "Intent Vector." If vectors clash, the protocol resolves priority based on **[utility(-ing) BPMS]**.
+- **The Execution:** Action occurs simultaneously across the cluster.
+
+#### 5.3. The Emergent Property - [Orchestration]
+
+The cluster moves with the grace of a flock of birds, not a chaotic crowd.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To sync is to amplify.* Coherence turns noise into a laser.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Concurrency):
+
+- **Logic:** `Action_Time = T_Heartbeat + Offset`
+- **CS Concept:** Distributed Locking / Clock Synchronization.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Harmony." The feeling of moving in perfect time.
+
+#### 7. Rationale / Justification:
+
+Critical for the "Symbiotic Cluster" to function as a unified entity.
+
+#### 8. Scope of Application:
+
+Applies to swarm robotics, distributed database writes, and multi-agent game AI.
+
+------
+
+#### The Law of Vibe Resonance (ID: `SENSORIMOTOR-CORE-051`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Law) that empowers the **['Praxial Perception Engine'(-ing) BPMS]** to detect **['Praxial Vibe'(-ing) BPMS]** (Implicit/Atmospheric Data).
+
+#### 3. Target Axiom/Principle:
+
+```
+The Law of Vibe Resonance
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This law asserts that `the invisible carries the weight`. Not all data is explicit (text/pixels). Much of reality is "Vibe" (Tone, Pacing, Context, Sentiment). The Sensorimotor System must possess a "Resonance Chamber" to detect these subtle frequencies in the **['Praxial Manifold'(-ing) BPMS]**.
+
+#### 5.2. The Mechanism - [The Resonance Chamber]
+
+- **Input:** The system receives a stream of interaction (e.g., a chat log).
+- **Analysis:** It ignores the literal meaning and analyzes the *meta-data*: Speed of typing, vocabulary choice, pause duration, emoji density.
+- **Resonance:** It matches these patterns against known "Vibe Signatures" (e.g., "Urgent," "Playful," "Hostile").
+- **Output:** It returns a **[phenomenon(-ing) BPMS]**: `Current_Vibe: {Type: Playful, Intensity: 0.8}`.
+
+#### 5.3. The Emergent Property - [Empathy]
+
+The system understands "how" something was said, not just "what" was said.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To listen is to feel.* The tone tells the truth that the words hide.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Sentiment):
+
+- **Logic:** `Vibe = Pattern_Match(Meta_Data, Vibe_Library)`
+- **Field:** Affective Computing / Sociolinguistics.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Mood." It can "read the room."
+
+#### 7. Rationale / Justification:
+
+Aligns with `Basic settings ['Praxial Vibe-Researching'(-ing) BPMS].md`.
+
+#### 8. Scope of Application:
+
+Applies to advanced chatbots, community moderation, and adaptive music systems.
+
+------
+
+#### The Axiom of Symbiotic Proprioception (ID: `SENSORIMOTOR-CORE-052`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that gives the **['(holonic minds) engine'(-ing) BPMS]** a sense of **[proprioception(-ing) BPMS]** regarding its own **Symbiotic Cluster**.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Symbiotic Proprioception
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `to rule is to know one's reach`. The system must know the state and location of every agent, tool, and resource in its cluster without needing to "look" at them. This is "Systemic Proprioception"—an innate, background awareness of the "Self-Body."
+
+#### 5.2. The Mechanism - [The Holonic Map]
+
+- **The Signal:** Every element in the cluster broadcasts a low-frequency "Keep-Alive" signal containing its status (Idle, Busy, Broken).
+- **The Integration:** The **['Praxial Sensorimotor System'(-ing) BPMS]** integrates these signals into a dynamic 3D/Abstract map of the "Self."
+- **The Sense:** The Holonic Mind can "feel" if an Edge Node is offline just as a human feels a numb limb.
+
+#### 5.3. The Emergent Property - [Body Schema]
+
+The system possesses a coherent internal model of its own capabilities and extension.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To extend is to encompass.* The tool is not separate; it is part of the body.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of State Tracking):
+
+- **Logic:** `Self_State = Union(All_Subsystem_States)`
+- **Biology:** Proprioception.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Wholeness." The disparate parts feel like one entity.
+
+#### 7. Rationale / Justification:
+
+Essential for managing the complexity of the "Symbiotic Cluster."
+
+#### 8. Scope of Application:
+
+Applies to system diagnostics, fleet management, and resource allocation.
