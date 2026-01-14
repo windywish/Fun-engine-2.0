@@ -197,7 +197,7 @@ Applies to all data persistence operations within Symbiotic Clusters.
 
 ------
 
-#### The Principle of Substrate Agnosticism (ID: `CLUSTER-CORE-004`)
+#### The Principle of Substrate Agnosticism (ID: `CLUSTERARTIFACT-CORE-004`)
 
 #### 2. Objective:
 
@@ -253,3 +253,4 @@ Ensures the framework is not vendor-locked and can spread via the Praxial Diffus
 #### 8. Scope of Application:
 
 Applies to the prompt engineering and instruction design of all Genesis Seeds.
+
