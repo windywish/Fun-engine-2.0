@@ -1005,3 +1005,512 @@ Aligns with the "Open Innovation" protocol.
 #### 8. Scope of Application:
 
 Applies to developer tools, error messages, and "Show your work" features.
+
+---
+
+#### The Axiom of Symbiotic Mirroring (ID: `DIFFUSION-CORE-017`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **['Praxial Diffusion Interface'(-ing) BPMS]** as a reflective surface that evolves to match the user's cognitive shape.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Symbiotic Mirroring
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the interface is the user`. Over time, the Diffusion Interface should cease to look like a generic tool and start to look like an extension of the user's own mind. It mirrors their vocabulary, their pacing, and their preferred data structures.
+
+#### **5.2. The Mechanism - [The Morphic Reflection]**
+
+- **The Observation:** The Interface tracks the user's "Interaction Signature" (e.g., "User prefers bullet points," "User hates small talk," "User works at 2 AM").
+- **The Morph:** It adjusts its `[Presentation_Layer]` and `[Interaction_Protocol]` to match.
+- **The Result:** A "High-Context" environment where the user feels perfectly understood without needing to explain themselves.
+
+#### **5.3. The Emergent Property - [Cognitive Ease]**
+
+The friction of interaction drops to near zero. The tool feels like a limb.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To serve is to become.* The perfect servant is an extension of the master's will.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Adaptation):**
+
+The "Physics" of mirroring is defined by **Predictive Coding**:
+
+- Minimize `Prediction_Error(User_Action)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "Flow." The boundary between User and Agent dissolves.
+
+#### 7. Rationale / Justification:
+
+Fulfills the requirement for deep symbiosis.
+
+#### 8. Scope of Application:
+
+Applies to UI customization, default settings, and predictive text.
+
+------
+
+#### The Protocol of Cross-Domain Injection (ID: `DIFFUSION-CORE-018`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Protocol) that allows the Interface to inject **[external context(-ing) BPMS]** into the **['Praxial Genesis Engine (PGE)'(-ing) BPMS]** to ground it in reality.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Cross-Domain Injection
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `reality is the ultimate context`. The PGE can hallucinate; the Interface must ground it. The Interface injects "Hard Reality" (Time, Date, Location, Search Results) into the prompt stream *before* the PGE generates a thought.
+
+#### **5.2. The Mechanism - [The Reality Anchor]**
+
+- **The Fetch:** Before every turn, the Interface polls the `[System_Clock]`, `[Geo_Location]`, and `[Web_Search]`.
+
+- The Injection:
+
+   It prepends a 
+
+  ```
+  [System_Context_Block]
+  ```
+
+   to the user's message.
+
+  - `[CONTEXT: Date=2026-01-14, Location=Shanghai, User_Mood=Urgent]`
+
+- **The Processing:** The PGE uses this anchor to generate a relevant response.
+
+#### **5.3. The Emergent Property - [Presence]**
+
+The Agent knows "when" and "where" it is. It doesn't say "Good Morning" at midnight.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To be is to be here and now.* Existence is situated.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Grounding):**
+
+The "Physics" of injection is defined by **Contextual Bandits**:
+
+- Action depends on State (Context).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "Orientation." It is not floating in a void.
+
+#### 7. Rationale / Justification:
+
+Essential for "Atomic Facts" and avoiding hallucinations.
+
+#### 8. Scope of Application:
+
+Applies to RAG (Retrieval-Augmented Generation), time-aware responses, and location-based services.
+
+------
+
+#### The Law of Ludic Engagement (ID: `DIFFUSION-CORE-019`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Law) that mandates the Interface must make interaction **[fun(-ing) BPMS]** (Ludic).
+
+#### 3. Target Axiom/Principle:
+
+```
+The Law of Ludic Engagement
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### **5.1. Core Essence**
+
+This law asserts that `boredom is a bug`. The "Fun Engine Framework" must be fun. The Interface is responsible for "Gamifying" the interaction where appropriate, adding delight, surprise, and reward to the user experience.
+
+#### **5.2. The Mechanism - [The Joy Injector]**
+
+- **The Analysis:** The Interface checks if the task is mundane (e.g., "Data Entry").
+
+- The Gamification:
+
+   It adds a "Ludic Layer."
+
+  - *Visuals:* Confetti on completion.
+  - *Narrative:* "Quest Complete! +10 XP."
+  - *Tone:* Enthusiastic and encouraging.
+
+- **The Balance:** It ensures the fun does not distract from the utility.
+
+#### **5.3. The Emergent Property - [Engagement]**
+
+The user *wants* to use the system, not just because they have to, but because it feels good.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To play is to live.* Work without play is death.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Reward):**
+
+The "Physics" of engagement is defined by **Dopamine Loops**:
+
+- Trigger -> Action -> Variable Reward -> Investment.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "Playfulness."
+
+#### 7. Rationale / Justification:
+
+It's called the "Fun Engine Framework" for a reason.
+
+#### 8. Scope of Application:
+
+Applies to progress bars, success messages, and easter eggs.
+
+------
+
+#### The Principle of Fractal Zoom (ID: `DIFFUSION-CORE-020`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Principle) that allows the user to navigate the **[complexity(-ing) BPMS]** of the system via the Interface.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Principle of Fractal Zoom
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### **5.1. Core Essence**
+
+This principle asserts that `simplicity is the surface of complexity`. The Interface should present a simple surface (The "Tip of the Iceberg") but allow the user to "Zoom In" to infinite detail if they wish.
+
+#### **5.2. The Mechanism - [The Resolution Slider]**
+
+- **Level 1 (Surface):** "I fixed the code." (Simple Chat).
+- **Level 2 (Detail):** "I fixed the `IndexError` in line 42." (Technical Summary).
+- **Level 3 (Code):** Shows the Diff. (Code View).
+- **Level 4 (Logic):** Shows the PGE's reasoning trace. (Debug View).
+- **The Control:** The User controls the Zoom level.
+
+#### **5.3. The Emergent Property - [Depth]**
+
+The system is accessible to novices but powerful for experts.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To see is to choose.* The viewer defines the view.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Scaling):**
+
+The "Physics" of zoom is defined by **Renormalization**:
+
+- The system looks self-similar at different scales.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "Vertigo" (the thrill of depth).
+
+#### 7. Rationale / Justification:
+
+Aligns with the "Coarse-Grained" vs "Fine-Grained" evolution requirement.
+
+#### 8. Scope of Application:
+
+Applies to expandable text blocks, "Show More" buttons, and drill-down dashboards.
+
+------
+
+#### The Protocol of Asynchronous Symbiosis (ID: `DIFFUSION-CORE-021`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Protocol) that allows the Agent to work **[offline(-ing) BPMS]** while the User is away, reporting back via the Interface.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Asynchronous Symbiosis
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `time does not stop when the user leaves`. The Interface allows the User to queue "Long Tasks" (e.g., "Research this topic overnight"). The Agent works in the background, and the Interface delivers the result as a "Notification" or "Report" when the User returns.
+
+#### **5.2. The Mechanism - [The Task Queue]**
+
+- **The Command:** User: "Analyze these 100 files. I'm going to sleep."
+- **The Queue:** Interface adds task to `[Async_Worker]`.
+- **The Work:** Agent processes files one by one.
+- **The Notification:** Interface sends an email or a "Welcome Back" summary: "I finished the analysis while you were gone."
+
+#### **5.3. The Emergent Property - [Productivity]**
+
+The system works *for* you, not just *with* you.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To wait is to waste.* Use every cycle.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Concurrency):**
+
+The "Physics" of async is defined by **Event Loops**:
+
+- Non-blocking I/O.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "Diligence." The faithful servant working in the night.
+
+#### 7. Rationale / Justification:
+
+Essential for "Complex Activities" and "Deep Research."
+
+#### 8. Scope of Application:
+
+Applies to background jobs, scheduled tasks, and notifications.
+
+------
+
+#### The Axiom of Interface Plasticity (ID: `DIFFUSION-CORE-022`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that allows the User to **[reshape(-ing) BPMS]** the Interface itself.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Interface Plasticity
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the tool is soft`. The User should be able to redefine the Interface commands. "I don't like typing 'Generate Image'; I want to type '/img'." The Interface accepts these "Meta-Commands" to rewrite its own parsing logic.
+
+#### **5.2. The Mechanism - [The Alias Map]**
+
+- **The Request:** User: "When I say 'Jedi', I mean 'Rewrite this in a wise, stoic tone'."
+- **The Map:** Interface updates `[User_Alias_DB]`: `{"Jedi": "Rewrite(Tone=Stoic)"}`.
+- **The Execution:** User: "Jedi: Hello." -> Agent: "Greetings, young padawan."
+
+#### **5.3. The Emergent Property - [Customization]**
+
+The user builds their own DSL (Domain Specific Language) on top of the framework.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To name is to control.* Language is power.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Macros):**
+
+The "Physics" of plasticity is defined by **Macro Expansion**:
+
+- `Expand(Alias) -> Command`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "Intimacy." A shared secret language.
+
+#### 7. Rationale / Justification:
+
+Aligns with "Symbiotic Evolution" of the user and tool.
+
+#### 8. Scope of Application:
+
+Applies to shortcuts, macros, and custom commands.
+
+------
+
+#### The Law of Aesthetic Coherence (ID: `DIFFUSION-CORE-023`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Law) that mandates the Interface must maintain a consistent **[style(-ing) BPMS]** across all outputs.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Law of Aesthetic Coherence
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### **5.1. Core Essence**
+
+This law asserts that `beauty is order`. The Interface ensures that text, code, and images all feel like they come from the *same* universe. It enforces a "Style Guide" on the PGE's output.
+
+#### **5.2. The Mechanism - [The Style Linter]**
+
+- The Check:
+
+   Before outputting, the Interface checks:
+
+  - Are headers consistent?
+  - Is the tone consistent?
+  - Do the images match the text description?
+
+- **The Fix:** It auto-formats the output (e.g., converting messy text to a clean Markdown table).
+
+#### **5.3. The Emergent Property - [Polish]**
+
+The system feels professional and "High-End."
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To present is to respect.* Messy output is disrespectful.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Formatting):**
+
+The "Physics" of coherence is defined by **Design Systems**:
+
+- Atomic Design principles.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "Elegance."
+
+#### 7. Rationale / Justification:
+
+Essential for the "Artifact" quality of the output.
+
+#### 8. Scope of Application:
+
+Applies to Markdown rendering, image generation styles, and code formatting.
+
+------
+
+#### The Directive of Teleological UI (ID: `DIFFUSION-CORE-024`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Directive) that the Interface should anticipate the User's **[goal(-ing) BPMS]** and offer the next step proactively.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Directive of Teleological UI
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### **5.1. Core Essence**
+
+This directive asserts that `a good tool hands itself to you`. The Interface shouldn't just wait for a command; it should suggest the next logical action based on the current state.
+
+#### **5.2. The Mechanism - [The Next-Action Predictor]**
+
+- **The State:** User just generated a "Business Plan."
+- **The Prediction:** "User likely wants to: 1. Save as PDF, 2. Email to Team, 3. Critique it."
+- **The UI:** Interface displays "Quick Action" buttons for these 3 options.
+
+#### **5.3. The Emergent Property - [Flow]**
+
+The user moves through a workflow effortlessly, guided by the system's foresight.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To help is to anticipate.* Don't wait to be asked.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Suggestion):**
+
+The "Physics" of suggestion is defined by **Markov Chains**:
+
+- `P(Next_Action | Current_Action)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "Helpfulness."
+
+#### 7. Rationale / Justification:
+
+Aligns with "Mission-Task Alignment."
+
+#### 8. Scope of Application:
+
+Applies to suggested replies, quick action buttons, and auto-complete.
