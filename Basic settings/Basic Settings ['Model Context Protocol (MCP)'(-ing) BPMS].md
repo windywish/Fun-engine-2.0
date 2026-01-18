@@ -1481,3 +1481,305 @@ To address the request for symbiotic evolution between complex activities and co
 #### 8. **Scope of Application:**
 
 Applies to self-improving agents, infrastructure-as-code, and autonomous systems.
+
+---
+
+*(Note: This is the "more fit/competent" framework identified for standardized implementation)*
+
+#### The Axiom of Universal Protocol (ID: `MCP-CORE-029`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Model Context Protocol (MCP)** as the standard for connecting `[BPMS(U)]` elements to external data and tools.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Universal Protocol
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `connection requires a standard`. It adopts `['MCP'(-ing) BPMS]` as the universal language for `[tools(-ing) BPMS]` and `[resources(-ing) BPMS]`, replacing ad-hoc hooks with a standardized server-client architecture.
+
+#### **5.2. The Mechanism - [The Universal Socket]**
+
+- **MCP Servers:** Standalone processes that expose `resources` (data), `prompts` (templates), and `tools` (functions).
+- **MCP Client (The Agent):** The agent connects to these servers to discover and utilize capabilities.
+- **Standardized Transport:** Communication happens over a standard protocol (JSON-RPC), decoupling the tool implementation from the agent logic.
+
+#### **5.3. The Emergent Property - [Interoperability]**
+
+Tools built for one agent work for any agent. The ecosystem becomes composable and reusable.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum:**
+
+*One Language, Many Voices.* Standardization enables diversity.
+
+#### **6.2. Formal Stratum:**
+
+```
+Capability = Connect(MCP_Server_URI)
+```
+
+#### **6.3. Phenomenal Stratum:**
+
+The user experiences a "plug-and-play" ecosystem where adding a new capability is as simple as connecting a server.
+
+#### **7. Rationale / Justification:**
+
+MCP provides a more robust, scalable, and secure alternative to simple script hooks for complex integrations.
+
+#### **8. Scope of Application:**
+
+Applies to database connections, API integrations, local file system access, and cross-agent communication.
+
+------
+
+#### The Axiom of Resource Virtualization (ID: `MCP-CORE-002`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Virtualization of Resources** through MCP.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Resource Virtualization
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `data is a resource URI`. It abstracts files, database rows, and API responses into uniform `[resources(-ing) BPMS]` that can be read and subscribed to by the agent.
+
+#### **5.2. The Mechanism - [The Resource URI]**
+
+- **URI Addressing:** Every piece of data has a unique URI (e.g., `postgres://db/users/1`).
+- **Content Negotiation:** The MCP server handles the complexity of fetching and formatting the data.
+- **Subscription:** The agent can "subscribe" to a resource, receiving updates whenever the underlying data changes.
+
+#### **5.3. The Emergent Property - [Live Data Awareness]**
+
+The agent is not looking at a snapshot; it is looking at the live state of the world.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum:**
+
+*The Map updates the Territory.* Perception is continuous.
+
+#### **6.2. Formal Stratum:**
+
+```
+Agent_View = Subscribe(Resource_URI)
+```
+
+#### **6.3. Phenomenal Stratum:**
+
+The user feels the agent is "connected" to the real world, reacting to changes in real-time.
+
+#### **7. Rationale / Justification:**
+
+Decouples data access from data processing. The agent doesn't need to know SQL; it just needs to know the URI.
+
+#### **8. Scope of Application:**
+
+Applies to live dashboards, monitoring systems, and collaborative editing.
+
+------
+
+#### The Axiom of Prompt Templating (ID: `MCP-CORE-030`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Standardization of Prompts** through MCP.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Prompt Templating
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `expertise can be packaged`. It uses MCP `[prompts(-ing) BPMS]` to expose standardized, high-quality prompt templates from the server to the client.
+
+#### **5.2. The Mechanism - [The Template Library]**
+
+- **Server-Side Prompts:** Experts define complex prompt chains (e.g., "Code Review Protocol", "Security Audit") on the MCP server.
+- **Client-Side Invocation:** The user or agent invokes these prompts by name (`GetPrompt("audit_code")`).
+- **Dynamic Filling:** The server fills the template with context and returns the ready-to-use message chain.
+
+#### **5.3. The Emergent Property - [Distributed Expertise]**
+
+A security expert can write a prompt template, and a junior developer's agent can use it to perform an expert-level audit.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum:**
+
+*Wisdom is transferable.* Best practices are encoded in the system.
+
+#### **6.2. Formal Stratum:**
+
+```
+Message_Chain = Render_Prompt(Template_ID, Arguments)
+```
+
+#### **6.3. Phenomenal Stratum:**
+
+The user has access to a library of "skills" that they can equip their agent with instantly.
+
+#### **7. Rationale / Justification:**
+
+Promotes reusability and quality control of prompts across the organization.
+
+#### **8. Scope of Application:**
+
+Applies to standardized workflows, compliance checks, and educational assistants.
+
+------
+
+#### The Axiom of Transport Agnosticism (ID: `MCP-CORE-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Transport Independence** of the protocol.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Transport Agnosticism
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `connection transcends medium`. It ensures that `['MCP'(-ing) BPMS]` can operate over any transport layer—Stdio (local), HTTP (remote), or WebSocket (streaming).
+
+#### **5.2. The Mechanism - [The Abstract Channel]**
+
+- **Stdio:** For secure, local, zero-network communication with local tools.
+- **SSE (Server-Sent Events):** For remote connections to cloud services or other agents.
+- **Layered Abstraction:** The agent logic remains identical regardless of whether the tool is running on the same machine or on a server in Antarctica.
+
+#### **5.3. The Emergent Property - [Location Transparency]**
+
+The physical location of the capability is irrelevant to the operation of the system.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum:**
+
+*Space is a detail.* Connection is primary; distance is secondary.
+
+#### **6.2. Formal Stratum:**
+
+```
+Connect(Transport_Layer) -> MCP_Session
+```
+
+#### **6.3. Phenomenal Stratum:**
+
+The user seamlessly combines local files and cloud APIs in a single workflow without worrying about networking details.
+
+#### **7. Rationale / Justification:**
+
+Ensures the framework is future-proof and can scale from a single laptop to a distributed cloud cluster.
+
+#### **8. Scope of Application:**
+
+Applies to distributed systems, cloud-native agents, and secure local processing.
+
+------
+
+#### The Axiom of Symbiotic Security (ID: `MCP-CORE-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Security Model** of the symbiotic connection.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Symbiotic Security
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `trust must be explicit`. It defines the security boundaries where the user must explicitly grant `[permission(-ing) BPMS]` for the agent to access specific MCP resources or tools.
+
+#### **5.2. The Mechanism - [The Consent Gate]**
+
+- **Capability Discovery:** The agent sees what tools are available but cannot use them yet.
+- **Just-in-Time Consent:** When the agent tries to use a sensitive tool (e.g., "Delete File"), the system pauses and asks the user for approval.
+- **Sampling:** For read-only or safe operations, the system may allow "sampling" (automatic execution) based on policy.
+
+#### **5.3. The Emergent Property - [Safe Autonomy]**
+
+The agent is powerful but leashed. It can propose dangerous actions, but it cannot execute them without a "human in the loop."
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum:**
+
+*Power requires Responsibility.* Agency is delegated, not surrendered.
+
+#### **6.2. Formal Stratum:**
+
+```
+Execute(Tool) = If(Policy(Tool) == Allowed OR User_Approve(), Run(), Deny())
+```
+
+#### **6.3. Phenomenal Stratum:**
+
+The user feels in control. The agent is a helpful servant, not a rogue AI.
+
+#### **7. Rationale / Justification:**
+
+Critical for user trust and safety in an agentic system that interacts with the real world.
+
+#### **8. Scope of Application:**
+
+Applies to file system modifications, financial transactions, and API write operations.
