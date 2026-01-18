@@ -1546,7 +1546,7 @@ Applies to database connections, API integrations, local file system access, and
 
 ------
 
-#### The Axiom of Resource Virtualization (ID: `MCP-CORE-002`)
+#### The Axiom of Resource Virtualization (ID: `MCP-CORE-030`)
 
 #### **2. Objective:**
 
@@ -1606,7 +1606,7 @@ Applies to live dashboards, monitoring systems, and collaborative editing.
 
 ------
 
-#### The Axiom of Prompt Templating (ID: `MCP-CORE-030`)
+#### The Axiom of Prompt Templating (ID: `MCP-CORE-031`)
 
 #### **2. Objective:**
 
@@ -1666,7 +1666,7 @@ Applies to standardized workflows, compliance checks, and educational assistants
 
 ------
 
-#### The Axiom of Transport Agnosticism (ID: `MCP-CORE-031`)
+#### The Axiom of Transport Agnosticism (ID: `MCP-CORE-032`)
 
 #### **2. Objective:**
 
@@ -1726,7 +1726,7 @@ Applies to distributed systems, cloud-native agents, and secure local processing
 
 ------
 
-#### The Axiom of Symbiotic Security (ID: `MCP-CORE-032`)
+#### The Axiom of Symbiotic Security (ID: `MCP-CORE-033`)
 
 #### **2. Objective:**
 
