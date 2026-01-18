@@ -1,4 +1,4 @@
-## Basic settings: ['Claude Cowork'(-ing) BPMS'] 
+## Basic settings: ['Claude Cowork'(-ing) BPMS] 
 
 ### (Symbiotic Labor Interface)
 
