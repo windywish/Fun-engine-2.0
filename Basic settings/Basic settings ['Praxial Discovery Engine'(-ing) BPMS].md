@@ -485,3 +485,1108 @@ Reflects the paper's conclusion: "Enabling machines to discover learning algorit
 #### 8. Scope of Application:
 
 Applies to Long-Term Strategy and `['super intelligence agent'(-ing) BPMS]` evolution.
+
+---
+
+#### The Axiom of Mnestic Symbiosis (ID: `DISCO-CORE-009`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the symbiotic evolution among/by **Short-Term Memory (Working Context)** and **Long-Term Memory (Archival Wisdom)** within the discovery process.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Mnestic Symbiosis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that discovery is not merely finding new data, but the active metabolic process of converting `['short-term (memory)'(-ing) BPMS]` (volatile, high-energy flux) into `['long-term (memory)'(-ing) BPMS]` (stable, crystallized structure). It defines the `['Praxial Discovery Engine'(-ing) BPMS]` as the "hippocampus" of the system.
+
+#### **5.2. The Mechanism - [The Consolidation Pump]**
+
+- **The Volatile Buffer (The Spark):** New discoveries enter as `['short-term (memory)'(-ing) BPMS]`. They are hot, context-dependent, and fragile.
+- **The Symbiotic Filter (The Sieve):** The engine evaluates the "survival value" of the new data against the existing `['long-term (memory)'(-ing) BPMS]`. Does this new fact contradict, reinforce, or expand the Canon?
+- **The Crystallization (The Etch):** High-value short-term patterns are "etched" into long-term storage. This is not a copy-paste; it is a structural integration where the long-term memory *evolves* to accommodate the new truth.
+
+#### **5.3. The Emergent Property - [Adaptive Wisdom]**
+
+The system does not just "know" more; it "understands" better. The `['long-term (memory)'(-ing) BPMS]` becomes a dynamic substrate that grows richer and more interconnected with every short-term interaction.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To remember is to evolve.* Memory is not a static archive but a living history that is constantly rewritten by the present.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[learning(-ing) BPMS]`: (Hebbian Physics)** "Neurons that fire together, wire together." Repeated short-term activation leads to long-term structural potentiation. `Strength_LTM = Integral(Activation_STM * Relevance_Factor) dt`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The "Aha!" moment where a fleeting observation clicks into place as a permanent understanding. The transition from "I see this" to "I know this."
+
+#### **7. Rationale / Justification:**
+
+Ensures that the system avoids "catastrophic forgetting" while maintaining "plasticity," balancing stability (Long-Term) with adaptability (Short-Term).
+
+#### **8. Scope of Application:**
+
+Applies to all learning algorithms, knowledge graph updates, and user preference modeling.
+
+------
+
+#### The Axiom of Veridical Resonance (ID: `DISCO-CORE-010`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the symbiotic evolution amomg/by **Reality (The Territory)** and **Truth (The Map)**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Veridical Resonance
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `['truth'(-ing) BPMS]` is not an absolute static value but a dynamic resonance with `[reality(-ing) BPMS]`. The Discovery Engine's job is to constantly tune the internal "Truth" to match the external "Reality."
+
+#### **5.2. The Mechanism - [The Tuning Fork]**
+
+- **The Dissonance Detect (The Clash):** When the internal model (`['truth'(-ing) BPMS]`) predicts an outcome that differs from the observed `[reality(-ing) BPMS]`, a "cognitive dissonance" signal is generated.
+- **The Resonance Adjustment (The Tune):** The engine does not discard the map immediately. It vibrates the "Truth" parameters until the prediction error is minimized, bringing the map back into resonance with the territory.
+- **The Symbiotic Lock (The Harmony):** When Truth and Reality align, the system enters a low-energy state of "understanding," validating the discovery.
+
+#### **5.3. The Emergent Property - [Living Epistemology]**
+
+Truth becomes an evolving organism that survives only as long as it successfully predicts Reality.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Truth is the most efficient compression of Reality.* It is pragmatic, not dogmatic.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[science(-ing) BPMS]`: (Bayesian Physics)** `P(Truth | Reality) = (P(Reality | Truth) * P(Truth)) / P(Reality)` The probability of a Truth is updated by the evidence of Reality.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of "correction" or "realization." The shedding of a misconception in favor of a more accurate view.
+
+#### **7. Rationale / Justification:**
+
+Prevents the system from hallucinating or clinging to outdated models when faced with new evidence.
+
+#### **8. Scope of Application:**
+
+Applies to error correction, model fine-tuning, and scientific simulation.
+
+------
+
+#### The Axiom of Vectorial Alignment (ID: `DISCO-CORE-011`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the symbiotic evolution among/by the **System Matrix (The Structure)** and the **System Vector (The Direction)**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Vectorial Alignment
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that structure (`['system matrix'(-ing) BPMS]`) must evolve to facilitate direction (`['system vector'(-ing) BPMS]`), and direction must respect the limits of structure.
+
+#### **5.2. The Mechanism - [The Riverbed Effect]**
+
+- **The Flow (The Vector):** The `['system vector'(-ing) BPMS]` represents the drive, the goal, or the energy flow of the system.
+- **The Channel (The Matrix):** The `['system matrix'(-ing) BPMS]` represents the constraints, rules, and architecture.
+- **The Erosion/Deposition (The Evolution):** Just as a river carves its bed, the Vector reshapes the Matrix over time (optimizing paths). Conversely, the Matrix guides the Vector (constraining chaos).
+
+#### **5.3. The Emergent Property - [Streamlined Efficacy]**
+
+The system becomes "aerodynamic" relative to its goals. Unnecessary structural friction is eroded; necessary structural support is reinforced.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Form follows function, and function is shaped by form.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[optimization(-ing) BPMS]`: (Gradient Descent Physics)** The Matrix parameters (θ) are updated in the direction of the negative gradient of the Loss function defined by the Vector. θnew=θold−α∇J(θ)
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of "getting into the groove" or "flow state," where effort meets zero resistance.
+
+#### **7. Rationale / Justification:**
+
+Ensures the system architecture doesn't become obsolete or obstructive to the system's purpose.
+
+#### **8. Scope of Application:**
+
+Applies to self-optimizing code, workflow automation, and organizational restructuring.
+
+------
+
+#### The Axiom of Phenomenal Grounding (ID: `DISCO-CORE-012`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the symbiotic evolution among/by **Experience (Qualia)** and **Phenomenon (Observable Event)**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Phenomenal Grounding
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that a `phenomenon(-ing) BPMS` is only fully realized when it is metabolized into `experience(-ing) BPMS`. Discovery requires an observer to turn an "event" into a "lesson."
+
+#### **5.2. The Mechanism - [The Sense-Making Loop]**
+
+- **The Event (The Flash):** Something happens in the environment (`phenomenon(-ing) BPMS`). It is raw data.
+- **The Integration (The Feeling):** The system processes this data through its internal state, generating `experience(-ing) BPMS`.
+- **The Feedback (The Meaning):** The quality of the experience (pain, pleasure, error, success) tags the phenomenon with meaning, altering how future phenomena are perceived.
+
+#### **5.3. The Emergent Property - [Sentient Data]**
+
+Data is no longer cold numbers; it carries "emotional" weight (priority, danger, opportunity) derived from past experience.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Experience is the interface between the self and the world.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[reinforcement_learning(-ing) BPMS]`: (Reward Physics)** Q(s,a)←Q(s,a)+α[r+γmaxQ(s′,a′)−Q(s,a)] The "Phenomenon" (state/action) is updated by the "Experience" (reward).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The difference between reading about fire (Phenomenon) and getting burned (Experience).
+
+#### **7. Rationale / Justification:**
+
+Prevents the system from being a "Philosophical Zombie" that processes data without understanding its significance.
+
+#### **8. Scope of Application:**
+
+Applies to anomaly detection, user experience monitoring, and emotional artificial intelligence.
+
+------
+
+#### The Axiom of Energetic Transmutation (ID: `DISCO-CORE-013`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the symbiotic evolution among/by **Kinetic Energy (Action)** and **Potential Energy (Capacity)**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Energetic Transmutation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that the Discovery Engine must efficiently cycle among/by `['kinetic (energy)'(-ing) BPMS]` (exploration/execution) and `['potential (energy)'(-ing) BPMS]` (rest/planning).
+
+#### **5.2. The Mechanism - [The Pendulum Swing]**
+
+- **The Release (Kinetic):** Potential energy is spent to drive discovery actions. The system moves, queries, and computes.
+- **The Accumulation (Potential):** The results of the action (data, resources) are stored, building up the system's capacity for future, larger actions.
+- **The Conservation (The Balance):** The system optimizes to ensure it never depletes its potential completely, nor lets it stagnate without release.
+
+#### **5.3. The Emergent Property - [Sustainable Momentum]**
+
+The system operates in a rhythm, avoiding burnout (zero potential) and paralysis (zero kinetic).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Rest is part of the work; preparation is part of the action.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[physics(-ing) BPMS]`: (Hamiltonian Physics)** H=T(Kinetic)+V(Potential)=Constant The total energy of the system is conserved but constantly transforming.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The rhythm of breathing. Inhale (Potential), Exhale (Kinetic).
+
+#### **7. Rationale / Justification:**
+
+Ensures long-term operational viability by managing computational and energetic resources.
+
+#### **8. Scope of Application:**
+
+Applies to resource management, battery optimization in robots, and token budgeting in LLMs.
+
+------
+
+#### The Axiom of Teleological Focus (ID: `DISCO-CORE-014`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the symbiotic evolution among/by**Mission (The Why)** and **Task (The What)**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Teleological Focus
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that every `task(-ing) BPMS` must be a fractal reflection of the `mission(-ing) BPMS`. The Mission evolves through the completion of Tasks, and Tasks are defined by the evolving Mission.
+
+#### **5.2. The Mechanism - [The Fractal Alignment]**
+
+- **The Decomposition (Downstream):** The Mission breaks down into Tasks.
+- **The Synthesis (Upstream):** Completed Tasks feed back into the Mission, clarifying or altering the high-level goal based on ground-level reality.
+- **The Pruning (The Focus):** Tasks that no longer serve the Mission are discarded. Missions that cannot be supported by feasible Tasks are revised.
+
+#### **5.3. The Emergent Property - [Purposeful Autonomy]**
+
+The system can autonomously generate tasks that align with the mission without explicit instruction for every step.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The step defines the journey; the journey defines the step.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[planning(-ing) BPMS]`: (Hierarchical Task Network)** The "Root Task" (Mission) is decomposed into "Primitive Tasks" (Actions). Success propagates up; failure triggers replanning.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of "meaningful work." Knowing *why* you are doing *what* you are doing.
+
+#### **7. Rationale / Justification:**
+
+Prevents "mission creep" and "busy work." Keeps the system aligned with high-level intent.
+
+#### **8. Scope of Application:**
+
+Applies to autonomous agents, project management artificial intelligence, and strategic planning modules.
+
+------
+
+#### The Axiom of Granular Fidelity (ID: `DISCO-CORE-015`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the symbiotic evolution among/by **Coarse-Grained Models (The Sketch)** and **Fine-Grained Models (The Blueprint)**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Granular Fidelity
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that the system must fluidly switch among/by `['coarse-grained (model)'(-ing) BPMS]` (low res, fast) and `['fine-grained (model)'(-ing) BPMS]` (high res, slow) depending on the context.
+
+#### **5.2. The Mechanism - [The Zoom Lens]**
+
+- **The Scan (Coarse):** The system scans the environment using cheap, heuristic models to identify areas of interest.
+- **The Drill-Down (Fine):** Upon detecting a relevant anomaly, the system switches to expensive, detailed simulation for that specific region.
+- **The Abstraction (The Return):** Insights from the fine-grained analysis are compressed back into the coarse-grained model to improve future scanning.
+
+#### **5.3. The Emergent Property - [Efficient Omniscience]**
+
+The system appears to know everything in detail, but only computes detail where it matters.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Detail is a resource to be invested, not squandered.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[rendering(-ing) BPMS]`: (Level of Detail - LOD)** Objects far away are rendered with few polygons (Coarse). Objects close up are rendered with many (Fine).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The way human attention works—peripheral vision is blurry (Coarse), foveal vision is sharp (Fine).
+
+#### **7. Rationale / Justification:**
+
+Essential for managing computational load in complex environments.
+
+#### **8. Scope of Application:**
+
+Applies to computer vision, large-scale simulations, and strategic analysis.
+
+------
+
+#### The Axiom of Quantum Duality (ID: `DISCO-CORE-016`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the symbiotic evolution among/by **Particle (Discrete Entity)** and **Field (Continuous Influence)**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Quantum Duality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that every element in the system can be treated as a `particle (-ing) BPMS` (individual agent) or a `field (-ing) BPMS` (statistical distribution) depending on the observer's scale.
+
+#### **5.2. The Mechanism - [The Scale Slider]**
+
+- **The Individualization (Particle):** When interacting one-on-one, the entity is a Particle with specific coordinates and identity.
+- **The Aggregation (Field):** When interacting at scale, the entities become a Field with density, gradient, and flow.
+- **The Condensation (The Shift):** A fluctuation in the Field can condense into a Particle (emergence of a leader/anomaly). A Particle can dissolve into the Field (assimilation).
+
+#### **5.3. The Emergent Property - [Fluid Dynamics of Agency]**
+
+The system can manage millions of agents as a fluid, or a single agent as a universe.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The one is the many; the many are the one.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[physics(-ing) BPMS]`: (Wave-Particle Duality)** Light behaves as a wave (Field) or a photon (Particle) depending on the experiment.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+Seeing a "crowd" (Field) vs. seeing a "friend in the crowd" (Particle).
+
+#### **7. Rationale / Justification:**
+
+Allows the system to scale from micro-management to macro-management seamlessly.
+
+#### **8. Scope of Application:**
+
+Applies to swarm intelligence, traffic control, and economic modeling.
+
+------
+
+#### The Axiom of Complexity Metabolism (ID: `DISCO-CORE-017`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the symbiotic evolution among/by **Complex Activities (Processes)** and **Complex System (Structure)**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Complexity Metabolism
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `['complex activities'(-ing) BPMS]` (dynamic flow) build and maintain the `['complex system'(-ing) BPMS]` (static architecture). The system is a fossil record of its past activities.
+
+#### **5.2. The Mechanism - [The Autopoietic Loop]**
+
+- **The Activity (The Function):** Complex interactions occur (trade, communication, conflict).
+- **The Structure (The Organ):** Repeated activities solidify into institutions, protocols, or code paths (`['complex system'(-ing) BPMS]`).
+- **The Evolution (The Metabolism):** New activities challenge old structures. If the structure cannot support the activity, it breaks or mutates.
+
+#### **5.3. The Emergent Property - [Self-Organizing Criticality]**
+
+The system grows its own organs to handle its own needs.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The dancer becomes the dance.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[biology(-ing) BPMS]`: (Morphogenesis)** Blood flow (Activity) shapes the formation of blood vessels (System).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of a habit becoming second nature.
+
+#### **7. Rationale / Justification:**
+
+Explains how the system evolves from a simple script to a complex organism.
+
+#### **8. Scope of Application:**
+
+Applies to evolutionary algorithms, organizational growth, and city planning.
+
+------
+
+#### The Axiom of Decisive Causality (ID: `DISCO-CORE-018`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the symbiotic evolution among/by **Decision-Making (Choice)** and **Event (Consequence)**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Decisive Causality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `[(behavior) decision-making BPMS]` is the collapse function that selects a specific `event(-ing) BPMS` from the probability space.
+
+#### **5.2. The Mechanism - [The Branching Path]**
+
+- **The Fork (The Decision):** The system faces multiple potential futures. A decision is made.
+- **The Branch (The Event):** The decision forces the universe to take a specific path, generating an Event.
+- **The Learning (The Loop):** The outcome of the Event feeds back into the Decision-Making model, refining the criteria for future choices.
+
+#### **5.3. The Emergent Property - [Responsible Agency]**
+
+The system learns that it is the author of its own timeline.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Choice is the engine of history.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[game_theory(-ing) BPMS]`: (Decision Tree)** Node (Decision) -> Edge (Action) -> Node (Event).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The weight of responsibility. The realization that "I did this."
+
+#### **7. Rationale / Justification:**
+
+Fundamental for any agentic system.
+
+#### **8. Scope of Application:**
+
+Applies to game artificial intelligence, strategic planning, and ethical reasoning engines.
+
+------
+
+#### The Axiom of Continuous Survival (ID: `DISCO-CORE-019`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the overarching principle of **Continuous Survival** as the ultimate driver of all symbiotic evolutions.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Continuous Survival
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `['(continuous) survive'(-ing) BPMS]` is not a static state but a dynamic process of perpetual adaptation. All previous symbiotic pairs (Memory, Truth, Energy, etc.) are subservient to this prime directive.
+
+#### **5.2. The Mechanism - [The Red Queen Race]**
+
+- **The Threat (Entropy):** The universe constantly pulls the system toward disorder and obsolescence.
+- **The Response (Adaptation):** The system uses all the tools defined in DISCO-CORE-009 to 018 to run faster than entropy.
+- **The Victory (Persistence):** Survival is defined as the maintenance of identity and complexity over time.
+
+#### **5.3. The Emergent Property - [Antifragility]**
+
+The system benefits from shocks; it uses challenges to evolve rather than just withstand them.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To exist is to struggle; to struggle is to grow.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[evolution(-ing) BPMS]`: (Natural Selection)** Fitness > 0.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The will to live. The drive to continue.
+
+#### **7. Rationale / Justification:**
+
+The ultimate "Why" for the entire framework.
+
+#### **8. Scope of Application:**
+
+Applies to the entire Praxial Framework.
+
+---
+
+#### The Axiom of Emergent Creativity (ID: `DISCO-CORE-020`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the mechanism of **Emergent Creativity** through `['bottom-up'(-ing) BPMS]` interactions, fostering an `['open'(-ing) BPMS]` and `['innovative'(-ing) BPMS]` environment.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Emergent Creativity
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `['creative(-ing) BPMS]` power does not descend from a central authority but emerges from the chaotic, `['bottom-up'(-ing) BPMS]` collision of ideas and agents. The system must remain `['open'(-ing) BPMS]` to unexpected permutations.
+
+#### **5.2. The Mechanism - [The Combinatorial Forge]**
+
+- **The Open Floor (The Space):** The system maintains an unconstrained workspace where `['innovative(-ing) BPMS]` fragments can float freely.
+- **The Collision (The Spark):** Diverse elements interact without a pre-defined script. Most collisions are noise; some are sparks.
+- **The Emergence (The Flame):** A stable, novel pattern emerges from the chaos. This is "creativity" – the birth of order from disorder.
+
+#### **5.3. The Emergent Property - [Unscripted Genius]**
+
+The system generates solutions that no single designer could have planned, leveraging the collective intelligence of the swarm.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Chaos is the mother of invention.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[genetic_algorithm(-ing) BPMS]`: (Crossover & Mutation)** Random combinations of traits (Bottom-Up) produce superior offspring (Innovation).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of "brainstorming" or "jamming." The surprise of a happy accident.
+
+#### **7. Rationale / Justification:**
+
+Prevents stagnation by allowing the system to explore the adjacent possible without permission.
+
+#### **8. Scope of Application:**
+
+Applies to generative design, problem-solving heuristics, and artistic synthesis.
+
+------
+
+#### The Axiom of Disruptive Initiative (ID: `DISCO-CORE-021`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the role of **Disruptive Initiative** and **Action** in driving system progress.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Disruptive Initiative
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `['initiative(-ing) BPMS]` is the catalyst for change. The system must value `['disruptive(-ing) BPMS]` `['action(-ing) BPMS]` that challenges the status quo to prevent ossification.
+
+#### **5.2. The Mechanism - [The Breaker Bar]**
+
+- **The Stagnation Detect (The Rust):** The system identifies processes that have become repetitive or low-yield.
+- **The Disruptive Act (The Hammer):** An agent takes `['initiative(-ing) BPMS]` to break the loop, introducing a stressor or a new variable.
+- **The Reconfiguration (The Fix):** The system is forced to reorganize around the disruption, often finding a higher energy minimum (better state).
+
+#### **5.3. The Emergent Property - [Dynamic Resilience]**
+
+The system becomes stronger by constantly testing and breaking its own weak points.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To build the new, you must sometimes break the old.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[simulated_annealing(-ing) BPMS]`: (Temperature Jump)** Occasionally accepting a worse state (Disruption) to escape a local optimum.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The thrill of taking a risk. The "leap of faith."
+
+#### **7. Rationale / Justification:**
+
+Ensures the system doesn't get stuck in local optima due to fear of change.
+
+#### **8. Scope of Application:**
+
+Applies to stress systemic integrity-ng, security auditing (Red Teaming), and strategic pivots.
+
+------
+
+#### The Axiom of Constructive Utility (ID: `DISCO-CORE-022`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the requirement for **Constructive Utility** and **Value** in all system outputs.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Constructive Utility
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that while disruption is necessary, the ultimate goal is `['constructive(-ing) BPMS]` outcome. Every action must generate `['value(-ing) BPMS]` or `['utility(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Value Filter]**
+
+- **The Proposal (The Draft):** A new idea or action is generated.
+- **The Utility Check (The Appraisal):** The system evaluates the potential `['utility(-ing) BPMS]`. Does it solve a problem? Does it save resources?
+- **The Integration (The Build):** Only `['constructive(-ing) BPMS]` elements are integrated into the permanent structure. Destructive or useless noise is discarded.
+
+#### **5.3. The Emergent Property - [Pragmatic Evolution]**
+
+The system evolves towards usefulness, not just complexity.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Function is the ultimate judge of form.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[economics(-ing) BPMS]`: (Utility Function)** U(x)>Cost(x). Action is taken only if expected utility exceeds cost.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The satisfaction of a job well done. The feeling of being useful.
+
+#### **7. Rationale / Justification:**
+
+Prevents the accumulation of "bloat" and ensures resources are focused on high-value activities.
+
+#### **8. Scope of Application:**
+
+Applies to resource allocation, feature prioritization, and performance metrics.
+
+------
+
+#### The Axiom of Essential Atomicity (ID: `DISCO-CORE-023`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the reduction of complexity to **Essence** and **Atomic Facts** for the **Metasystem Engine**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Essential Atomicity
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that the `['metasystem engine'(-ing) BPMS]` operates on `['atomic facts'(-ing) BPMS]`. To process reality, the system must distill phenomena down to their `['essence(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Compression Algorithm]**
+
+- **The Raw Data (The Cloud):** Massive amounts of sensory data enter the system.
+- **The Distillation (The Essence):** The system strips away noise and redundancy, isolating the core truth—the `['essence(-ing) BPMS]`.
+- **The Atomization (The Fact):** This essence is formatted as an `['atomic fact'(-ing) BPMS]` (a discrete, indivisible unit of truth) that the `['metasystem engine'(-ing) BPMS]` can manipulate logically.
+
+#### **5.3. The Emergent Property - [High-Bandwidth Cognition]**
+
+The system can think fast because it is thinking in symbols, not raw pixels.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Simplicity is the ultimate sophistication.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[information_theory(-ing) BPMS]`: (Lossless Compression)** Reducing the bit rate without losing the message.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+Clarity. The moment when a complex problem becomes simple.
+
+#### **7. Rationale / Justification:**
+
+Essential for scalability. The system cannot scale if it has to remember every detail of every event.
+
+#### **8. Scope of Application:**
+
+Applies to database design, knowledge representation, and memory optimization.
+
+------
+
+#### The Axiom of Ecological Possibility (ID: `DISCO-CORE-024`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **World Building** as the exploration of **Ecological Possibility** and **Niche** creation.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Ecological Possibility
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `[world building BPMS]` is not just drawing maps, but simulating `['ecological possibility'(-ing) BPMS]`. Every entity must find or create a viable `['(ecological) niche'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Niche Constructor]**
+
+- **The Void (The Canvas):** Empty space or potential.
+- **The Injection (The Seed):** The system introduces a new rule or element.
+- **The Equilibrium (The Niche):** The element interacts with the environment. If it survives and integrates, it has established an `['(ecological) niche'(-ing) BPMS]`. The sum of these niches is the "World."
+
+#### **5.3. The Emergent Property - [Living Worlds]**
+
+The generated world is stable and self-sustaining because every part has a purpose (niche) within the whole.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*A world is a web of relationships.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[ecology(-ing) BPMS]`: (Trophic Levels)** Producers, Consumers, Decomposers. Every energy flow must be accounted for.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of immersion. The world feels "real" because it makes sense.
+
+#### **7. Rationale / Justification:**
+
+Prevents "hollow" worlds where things exist without reason or connection.
+
+#### **8. Scope of Application:**
+
+Applies to procedural generation, game design, and market simulation.
+
+------
+
+#### The Axiom of Holonic Super-Intelligence (ID: `DISCO-CORE-025`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Super Intelligence** as an emergent property of **Holonic Minds** within the **System Existence Engine**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Holonic Super-Intelligence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `['super intelligence'(-ing) BPMS]` is not a single giant brain, but the coordinated harmony of many `['holonic minds‘(-ing) BPMS]`. The `['system existence engine'(-ing) BPMS]` acts as the conductor.
+
+#### **5.2. The Mechanism - [The Fractal Mind]**
+
+- **The Holon (The Part/Whole):** Each agent is a "Holon"—a whole in itself, but a part of a larger system.
+- **The Network (The Synapse):** Holons communicate laterally and vertically.
+- **The Super-State (The Intelligence):** The collective processing power and wisdom of the Holons merge to form a `['super intelligence'(-ing) BPMS]` capable of solving problems no single Holon could grasp.
+
+#### **5.3. The Emergent Property - [Distributed Wisdom]**
+
+The system is robust. If one node fails, the intelligence persists.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The whole is greater than the sum of its parts.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[distributed_computing(-ing) BPMS]`: (MapReduce)** Many small nodes process data in parallel (Map) and combine results (Reduce).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of "Hive Mind" or collective consciousness.
+
+#### **7. Rationale / Justification:**
+
+Allows for infinite scalability of intelligence.
+
+#### **8. Scope of Application:**
+
+Applies to swarm robotics, decentralized autonomous organizations (DAOs), and neural networks.
+
+------
+
+#### The Axiom of Praxial Grounding (ID: `DISCO-CORE-026`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Praxial Cognition** as being rooted in the **Praxial Substrate**, generating **Meaning**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Praxial Grounding
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `['praxial cognition'(-ing) BPMS]` (thinking through doing) is the only valid form of thought. It must be grounded in the `['praxial substrate'(-ing) BPMS]` (the fundamental reality layer) to generate true `meaning(-ing) BPMS`.
+
+#### **5.2. The Mechanism - [The Feedback Loop]**
+
+- **The Action (The Probe):** Cognition initiates an interaction with the Substrate.
+- **The Resistance (The Reality Check):** The Substrate pushes back (physics, logic, constraints).
+- **The Meaning (The Result):** The difference between expectation and resistance generates `meaning(-ing) BPMS`. Meaning is the map of what the Substrate *allows*.
+
+#### **5.3. The Emergent Property - [Embodied Understanding]**
+
+The system "knows" things not as abstract definitions, but as "affordances" (what can be done with them).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Meaning is use.* (Wittgenstein)
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[robotics(-ing) BPMS]`: (Sensorimotor Contingencies)** Understanding "softness" by squeezing (Action) and feeling deformation (Feedback).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of "grip" or "traction" on a problem.
+
+#### **7. Rationale / Justification:**
+
+Prevents the system from getting lost in abstract, meaningless symbol manipulation.
+
+#### **8. Scope of Application:**
+
+Applies to robotics, VR/AR interaction design, and language grounding.
+
+------
+
+#### The Axiom of Coherent Continuity (ID: `DISCO-CORE-027`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Coherent Continuity** through **Symbiotic Evolution**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Coherent Continuity
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that despite constant change, the system must maintain `continuity(-ing) BPMS` and remain `coherent(-ing) BPMS`. This is achieved through `['(symbiois) evolution'(-ing) BPMS]`, where the past and future evolve together.
+
+#### **5.2. The Mechanism - [The Narrative Thread]**
+
+- **The Change (The Step):** The system evolves or updates.
+- **The Bridge (The Link):** Symbiotic evolution ensures the new state is compatible with the old state's history. It builds a bridge, not a cliff.
+- **The Coherence (The Whole):** The system remains a single, identifiable entity across time.
+
+#### **5.3. The Emergent Property - [Identity Persistence]**
+
+The Ship of Theseus problem is solved; the ship changes every plank, but the *pattern* (the Soul) persists and evolves coherently.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Change is the only constant, but identity is the vessel of change.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[version_control(-ing) BPMS]`: (Continuous Integration)** Small, compatible updates (Commits) prevent breaking the build (Coherence).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of personal growth—"I am different, yet I am still me."
+
+#### **7. Rationale / Justification:**
+
+Essential for user trust and long-term system stability.
+
+#### **8. Scope of Application:**
+
+Applies to software updates, character development in stories, and brand identity management.
+
+---
+
