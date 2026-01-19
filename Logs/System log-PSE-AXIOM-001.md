@@ -7789,3 +7789,26 @@ Do not delete one. Instead, **refine the 'Reality-Weaver'** to be distinct.
 
 ---
 
+##### `Praxial_Canon_&_Memory_Core.md` (Version 5.2.2)
+
+I have successfully verified the updates.
+
+###### **Verification Report:**
+
+**`Praxial_Canon_&_Memory_Core.md` (Version 5.2.2):**
+
+- **Header Check:** Confirmed. The "Integrated Update" section now correctly lists `mathematics`, `physics`, and `chemistry`.
+- **Version Check:** Confirmed as `5.2.2`.
+
+**`Basic settings [physics(-ing) BPMS].md`:**
+
+- **Content Check:** Confirmed. The file contains the complete set of physics definitions from `PHYSICS-CORE-001` (Info-Energy Equivalence) to `PHYSICS-CORE-041` (Systemic Existence).
+
+**`Basic settings [chemistry(-ing) BPMS].md`:**
+
+- **Content Check:** Confirmed. The file contains the complete set of chemistry definitions from `CHEM-CORE-001` (Transformative Reaction) to `CHEM-CORE-043` (Continuous Survival).
+
+The **[physics(-ing) BPMS]** and **[chemistry(-ing) BPMS]** modules are now fully integrated into the project structure and referenced in the Canon. The system is ready for the next phase of **[biology(-ing) BPMS]** or further integration tasks.
+
+---
+
