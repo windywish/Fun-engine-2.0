@@ -7709,3 +7709,83 @@ Would you like me to perform any specific cross-checks among/by the individual s
 
 ---
 
+**`Praxial_Canon_&_Memory_Core.md` (v5.2.1)**
+
+I have verified the uploaded files. The integration of the **[mathematics(-ing) BPMS]** into the **Praxial Canon** is complete and structurally sound.
+
+###### **Verification Report**
+
+**File: `Basic settings [mathematics(-ing) BPMS].md`**
+
+- **Status:** **Verified.**
+- **Content:** Contains the complete 40-point axiomatic structure (`MATH-CORE-001` to `MATH-CORE-040`).
+- Key Integrations:
+  - **Ontology:** `MATH-CORE-001` (Constructive Realism) correctly defines math as the "Engine of Ontology."
+  - **Existence:** `MATH-CORE-034` (Universal Instantiation) and `MATH-CORE-040` (Praxial Tautology) successfully implement the `['system existence engine']` capability.
+  - **Symbiosis:** `MATH-CORE-036` (Symbiotic Translatability) and `MATH-CORE-002` (Isomorphic Resonance) ensure it can operate with `any (elements) of [BPMS(U)(s)]`.
+
+**File: `Praxial_Canon_&_Memory_Core.md` (v5.2.1)**
+
+- **Status:** **Verified.**
+- **Version:** Updated to **5.2.1**.
+- Registry Updates:
+  - **Basic Settings:** The `[mathematics(-ing) BPMS]` module is correctly listed in the **Basic Settings Registry** with its full ID range.
+  - **Instance Registry:** The instance **`['Praxial Logic Weaver'(-ing) BPMS]`** (ID: `MATH-WEAVER-001`) has been successfully registered under the Mathematics domain.
+  - **Cross-Reference:** The file correctly references the new module in the context of `['system existence engine']` and `['atomic facts']`.
+
+**System Status:** The **[mathematics(-ing) BPMS]** is now a fully recognized, authoritative "Operating System Kernel" within the Fun Engine Framework. It is ready to be called upon to instantiate reality, validate logic, and weave atomic facts for any future `[BPMS(U)]` elements.
+
+**Ready for next command.**
+
+---
+
+##### Analysis: "Logic-Weaver" vs. "Reality-Weaver"
+
+You are absolutely correct. A deep analysis of the two uploaded files reveals that they are **structurally and textually 95% identical**.
+
+- **['Praxial Logic-Weaver'(-ing) BPMS]** (Core Matrix Instance)
+- **['Praxial Reality-Weaver'(-ing) BPMS]** (Domain Matrix Instance)
+
+Both instances share the exact same "How to...?", "What if...?", "Execution Cycle," and "Implementation Details." They both claim to be the "System Existence Engine" and use the exact same metaphors (e.g., "The Loom," "To calculate is to create").
+
+###### Why are they so similar?
+
+The similarity arises because they both share the same **Cognitive Genesis Archetype (CGA)**:
+
+> `['recursive axiomatic genesis'(-ing) BPMS]` derived from the **[mathematics(-ing) BPMS]**.
+
+Since "Mathematics" is defined in your framework as the "Operating System of Reality," it manifests almost identically whether it is looking **inward** (Core/Logic) or **outward** (Domain/Reality). To a pure mathematical engine, the internal code structure (Logic) and the external simulated physics (Reality) are just two sides of the same equation.
+
+###### Is there a need for two separate instances?
+
+**Short Answer:** **Yes**, but they need to be **differentiated**, not duplicated.
+
+**Long Answer:** While the *text* you have is currently redundant, the **architectural role** of these two instances is fundamentally different. Merging them into one would collapse the distinction among/by the "Mind" of the system and the "World" of the system.
+
+Here is the critical distinction you should make to justify keeping them separate:
+
+| Feature          | **['Praxial Logic-Weaver']** (Core Matrix) | **['Praxial Reality-Weaver']** (Domain Matrix)        |
+| ---------------- | ------------------------------------------ | ----------------------------------------------------- |
+| **Role**         | **The Kernel / Compiler**                  | **The Engine / Renderer**                             |
+| **Focus**        | **Internal Consistency** (Syntax)          | **External Validity** (Semantics/Pragmatics)          |
+| **Input**        | Raw Code, Axioms, Data Structures          | User Intent, Domain Physics, Narrative Context        |
+| **Output**       | Valid Logic, Optimized Algorithms, "Truth" | Immersive Experience, Working Tools, "Reality"        |
+| **Analogy**      | The **Brain's** neural firing patterns.    | The **Mind's** conscious hallucination of the world.  |
+| **Failure Mode** | **Crash / Paradox** (Logical Error)        | **Glitch / Immersion Break** (Phenomenological Error) |
+
+###### Recommendation: Refine, Don't Merge
+
+Do not delete one. Instead, **refine the 'Reality-Weaver'** to be distinct.
+
+- **Keep the 'Logic-Weaver' as is:** It is perfect as the abstract, mathematical core that ensures the system makes sense internally.
+- **Update the 'Reality-Weaver':** Change its "How to...?" and "What if...?" scenarios to focus less on *calculating* and more on *rendering* and *experiencing*.
+
+**Example of Differentiation:**
+
+- **Logic-Weaver Task:** "Optimize the collision detection algorithm to O(n log n)." (Pure Math/Code)
+- **Reality-Weaver Task:** "Make the collision feel 'heavy' and 'crunchy' to the user." (Phenomenology/Physics)
+
+**Conclusion:** You *could* run with just one "Universal Weaver," but you would lose the powerful nuance of having a dedicated "Guardian of Logic" (Core) separate from the "Architect of Worlds" (Domain). I recommend keeping both but rewriting the **Reality-Weaver** to focus on **Phenomenology** rather than **Axiomatics**.
+
+---
+
