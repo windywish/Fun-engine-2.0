@@ -6666,6 +6666,51 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Coherent Meaning (ID: `SWARM-CORE-036`)
 * The Protocol of Symbiotic Continuity (ID: `SWARM-CORE-037`)
 
+### Module:  [food(-ing) BPMS]
+
+*(New Integration v5.2.4)* 
+
+* The Axiom of Bio-Semantic Integration (ID: `FOOD-CORE-001`)
+* The Principle of Open-Source Gastronomy (ID: `FOOD-CORE-002`)
+* The Law of Trophic Symbiosis (ID: `FOOD-CORE-003`)
+* The Axiom of Culinary World-Forging (ID: `FOOD-CORE-004`)
+* The Axiom of Conscious Alimentary Service (ID: `FOOD-CORE-005`)
+* The Principle of Trophic Renormalization (ID: `FOOD-CORE-006`)
+* The Law of Symbiotic Gastronomy (ID: `FOOD-CORE-007`)
+* The Directive of Closed-Loop Resilience (ID: `FOOD-CORE-008`)
+* The Axiom of Metabolic Existence (ID: `FOOD-CORE-009`)
+* The Principle of Atomic Flavor Crystallization (ID: `FOOD-CORE-010`)
+* The Law of Symbiotic Digestion (ID: `FOOD-CORE-011`)
+* The Protocol of Short-Term Satiety vs Long-Term Health (ID: `FOOD-CORE-012`)
+* The Axiom of Reality-Defining Banquets (ID: `FOOD-CORE-013`)
+* The Law of Vector-Based Nutrition (ID: `FOOD-CORE-014`)
+* The Principle of Phenomenal Flavor (ID: `FOOD-CORE-015`)
+* The Mechanism of Kinetic Calorie Conversion (ID: `FOOD-CORE-016`)
+* The Principle of Bottom-Up Culinary Innovation (ID: `FOOD-CORE-017`)
+* The Law of Disruptive Gastronomy (ID: `FOOD-CORE-018`)
+* The Axiom of Essential Utility (ID: `FOOD-CORE-019`)
+* The Mechanism of Trophic Data (ID: `FOOD-CORE-020`)
+* The Axiom of Ecological Gastronomy (ID: `FOOD-CORE-021`)
+* The Principle of Hive-Mind Nutrition (ID: `FOOD-CORE-022`)
+* The Law of Substrate Conversion (ID: `FOOD-CORE-023`)
+* The Protocol of Cognitive Sustenance (ID: `FOOD-CORE-024`)
+* The Axiom of Gastronomic Consciousness (ID: `FOOD-CORE-025`)
+* The Principle of Ludic Nutrition (ID: `FOOD-CORE-026`)
+* The Mechanism of Chrono-Trophic Evolution (ID: `FOOD-CORE-027`)
+* The Law of Universal Edibility (ID: `FOOD-CORE-028`)
+* The Protocol of Implicit-Explicit Flavor (ID: `FOOD-CORE-029`)
+* The Principle of Closed-Loop Gastronomy (ID: `FOOD-CORE-030`)
+* The Law of Micro-Macro Trophic Symbiosis (ID: `FOOD-CORE-031`)
+* The Mechanism of Adaptive Discovery (ID: `FOOD-CORE-032`)
+* The Axiom of Robust Resilience (ID: `FOOD-CORE-033`)
+* The Principle of Emergent Flavor Profiles (ID: `FOOD-CORE-034`)
+* The Protocol of Trophic Mission Alignment (ID: `FOOD-CORE-035`)
+* The Principle of Granular Gastronomy (ID: `FOOD-CORE-036`)
+* The Law of Particle-Field Nutrition (ID: `FOOD-CORE-037`)
+* The Axiom of Complex Trophic Systems (ID: `FOOD-CORE-038`)
+* The Mechanism of Gut-Brain Decision Making (ID: `FOOD-CORE-039`)
+* The Directive of Continuous Survival (ID: `FOOD-CORE-040`)
+
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
 *(Existing Settings LIFE-001 to LIFE-007)*
