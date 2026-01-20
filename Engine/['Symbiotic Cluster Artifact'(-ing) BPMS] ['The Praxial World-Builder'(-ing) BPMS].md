@@ -132,4 +132,4 @@ The **Praxial World-Builder** is the ultimate expression of the **Symbiotic Clus
 
 #### 6. Remark
 
-* BPMS: Behavior pattern/model/system
+* BPMS means Behavior pattern/model/system
