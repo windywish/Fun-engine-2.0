@@ -1386,3 +1386,951 @@ Applies to Sanity Systems, Morale, and Storytelling.
 
 ---
 
+#### The Axiom of Gastronomic Consciousness (ID: `FOOD-CORE-025`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that implements **[conscious(-ing) BPMS]** and **[services(-ing) BPMS]**. It defines the food system as a conscious service provider that anticipates the needs of the eater.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Gastronomic Consciousness
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `the kitchen knows the diner`. The `[food(-ing) BPMS]` is not a passive vending machine but a **Conscious Service**. It maintains a model of the user's physiological and psychological state. It doesn't just serve what is ordered; it serves what is *needed* (e.g., detecting low blood sugar or high stress and adjusting the menu accordingly).
+
+#### 5.2. The Mechanism - [The Empathic Menu]
+
+- **The Sensor:** The system detects "User is fatigued."
+- **The Consciousness:** "I need to provide energy, but not a sugar crash."
+- **The Service:** The system suggests/prepares a "Slow-Release Carb Complex with Mood-Boosting Herbs."
+- **The Result:** The user feels "cared for" by the environment.
+
+#### 5.3. The Emergent Property - [Hospitality]
+
+The creation of "Care." The system acts like a grandmother or a master butler, providing proactive service.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To serve is to love.*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Service):
+
+- **Logic:** `Menu = Function(User_State, Goal_State)`.
+- **Concept:** Affective Computing / Personalized Nutrition.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Relief." They don't have to think about what to eat; the system provides the perfect solution.
+
+#### 7. Rationale / Justification:
+
+Elevates the food system from a utility to a companion.
+
+#### 8. Scope of Application:
+
+Applies to Smart Homes, Medical Sims, and artifical intelligence Companions.
+
+------
+
+#### The Principle of Ludic Nutrition (ID: `FOOD-CORE-026`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Principle) that implements **[play(-ing) BPMS]**. It defines eating and cooking as a game.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Principle of Ludic Nutrition
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This principle asserts that `playing with food is mandatory`. It integrates **Play** into the metabolic cycle. Cooking is a crafting minigame; eating is a tasting minigame. This gamification increases engagement and encourages experimentation.
+
+#### 5.2. The Mechanism - [The Flavor Quest]
+
+- **The Challenge:** "Create a dish that is both Spicy and Sweet."
+- **The Play:** User experiments with ingredients, failing (Burnt Toast) and succeeding (Chili Chocolate).
+- **The Reward:** "Flavor Unlocked: Aztec Gold." +XP to Cooking Skill.
+- **The Result:** Learning happens through play.
+
+#### 5.3. The Emergent Property - [Joyful Mastery]
+
+The creation of "Fun." Nutrition becomes a high-score chase rather than a chore.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Life is a game, and food is the power-up.*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Play):
+
+- **Logic:** `Engagement = Challenge / Skill`. (Flow Channel).
+- **Concept:** Gamification / Flow Theory.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Excitement." "What happens if I eat this glowing fruit?"
+
+#### 7. Rationale / Justification:
+
+Essential for "Fun Engine Framework" identity.
+
+#### 8. Scope of Application:
+
+Applies to Cooking Games, Survival Games, and Educational Apps.
+
+------
+
+#### The Mechanism of Chrono-Trophic Evolution (ID: `FOOD-CORE-027`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Mechanism) that implements **['(symbiois) evolution'(-ing)(for ['slow mode'(-ing) BPMS;'fast mode'(-ing) BPMS]) BPMS]**. It defines how food evolves on different timescales.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Mechanism of Chrono-Trophic Evolution
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This mechanism asserts that `food evolves at two speeds`. **Fast Mode** is the "Daily Special" (Trends, Fads, Quick Mutations). **Slow Mode** is the "Traditional Dish" (Genetic Adaptation, Cultural Staples). The system balances these to ensure both novelty and stability.
+
+#### 5.2. The Mechanism - [The Trend and The Tradition]
+
+- **Fast Mode (Trend):** "Cronut" (Croissant + Donut). Evolves in weeks. High variance, low stability.
+- **Slow Mode (Tradition):** "Rice." Evolves in millennia. Low variance, high stability.
+- **The Symbiosis:** Trends test new ideas; Traditions anchor the culture. Successful trends eventually slow down and become traditions.
+
+#### 5.3. The Emergent Property - [Cultural Depth]
+
+The creation of "History." The world feels lived-in because it has ancient foods alongside modern fads.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Fashion fades, style remains.* (Chanel).
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Time):
+
+- **Logic:** `Culture(t) = Slow_Layer(t) + Fast_Layer(t)`.
+- **Concept:** Pace Layering (Stewart Brand).
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Richness." They can choose between a risky new snack or a comforting old meal.
+
+#### 7. Rationale / Justification:
+
+Essential for realistic World Building and Cultural Simulation.
+
+#### 8. Scope of Application:
+
+Applies to Economy, Culture, and History generation.
+
+------
+
+#### The Law of Universal Edibility (ID: `FOOD-CORE-028`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Law) that implements **['universality (class)'(-ing) BPMS]** and **['renormalization group'(-ing) BPMS]**. It defines the universal categories of food.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Law of Universal Edibility
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This law asserts that `everything falls into a class`. Despite infinite variety, all food belongs to a finite set of **Universality Classes** (e.g., `[Class: Stimulant]`, `[Class: Staple]`, `[Class: Toxin]`). The system uses **Renormalization** to treat "Alien Slime" and "Earth Oatmeal" as the same class (`[Staple]`) if their systemic effect is identical.
+
+#### 5.2. The Mechanism - [The Universal Classifier]
+
+- **Input:** "Gagh" (Klingon Worms).
+- **Analysis:** High Protein, Wriggly, Cultural Delicacy.
+- **Renormalization:** Maps to `[Class: High-Protein Meat]`.
+- **Result:** The game engine treats it like "Chicken" for metabolic purposes, but "Exotic" for cultural purposes.
+
+#### 5.3. The Emergent Property - [Cross-Compatibility]
+
+The creation of "Interoperability." A Human can survive on an Alien planet if they can identify the Universality Classes of the local flora.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*A rose by any other name would smell as sweet.*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Universality):
+
+- **Logic:** `Effect(Item) = Effect(Class(Item))`.
+- **Concept:** Universality Classes (Physics) / Type Theory.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Understanding." They can make sense of a strange world by recognizing familiar patterns.
+
+#### 7. Rationale / Justification:
+
+Simplifies complex simulations by grouping items.
+
+#### 8. Scope of Application:
+
+Applies to Procedural Generation and Survival Mechanics.
+
+------
+
+#### The Protocol of Implicit-Explicit Flavor (ID: `FOOD-CORE-029`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Protocol) that implements **['(symbiois) evolution'(-ing)(for ['implicit layer'(-ing) BPMS;'explicit layer'(-ing)'BPMS]) BPMS]**. It defines the hidden and visible aspects of food.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Implicit-Explicit Flavor
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that `flavor has a subtext`. The **Explicit Layer** is the taste (Sweet, Salty). The **Implicit Layer** is the memory, the politics, and the ethics (Vegan, Fair Trade, "Like Mom used to make"). The system evolves by making the Implicit Explicit (Labeling "GMO-Free") or the Explicit Implicit (Sugar becomes the default "Sweet").
+
+#### 5.2. The Mechanism - [The Subtext Renderer]
+
+- **Explicit:** "This coffee is bitter."
+- **Implicit:** "This coffee was harvested by a cooperative." (Adds `[Moral Satisfaction]`).
+- **Symbiosis:** The Implicit layer modifies the enjoyment of the Explicit layer. A "Guilty Pleasure" tastes different from a "Virtuous Meal."
+
+#### 5.3. The Emergent Property - [Sophistication]
+
+The creation of "Nuance." Food is not just fuel; it is a statement.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The secret ingredient is love (or guilt).*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Layers):
+
+- **Logic:** `Total_Utility = Utility(Explicit) + Utility(Implicit)`.
+- **Concept:** Connotative vs. Denotative Meaning.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Depth." They care about where the food comes from.
+
+#### 7. Rationale / Justification:
+
+Essential for Social Sims and Ethical Choice systems.
+
+#### 8. Scope of Application:
+
+Applies to Reputation, Ethics, and Storytelling.
+
+------
+
+#### The Principle of Closed-Loop Gastronomy (ID: `FOOD-CORE-030`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Principle) that implements **['closure (system)'(-ing) BPMS]** and **[sustainability(-ing) BPMS]**. It defines the kitchen as a zero-waste system.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Principle of Closed-Loop Gastronomy
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This principle asserts that `waste is just an ingredient we haven't figured out yet`. The system strives for **Operational Closure**. Every output of the cooking process (Peels, Bones, Heat) must become an input for another process (Stock, Compost, Energy).
+
+#### 5.2. The Mechanism - [The Circular Kitchen]
+
+- **Input:** Whole Chicken.
+- **Process 1:** Meat -> Roast.
+- **Process 2:** Bones -> Stock.
+- **Process 3:** Fat -> Soap/Fuel.
+- **Closure:** Nothing leaves the loop as "Trash."
+
+#### 5.3. The Emergent Property - [Efficiency]
+
+The creation of "Wealth." The system generates more value from less input.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Waste not, want not.*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Closure):
+
+- **Logic:** `Output(Process_A) = Input(Process_B)`.
+- **Concept:** Circular Economy / Industrial Ecology.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Ingenuity." Finding a use for "Trash" feels smart.
+
+#### 7. Rationale / Justification:
+
+Essential for Survival Games and Resource Management.
+
+#### 8. Scope of Application:
+
+Applies to Crafting, Farming, and Economy.
+
+------
+
+#### The Law of Micro-Macro Trophic Symbiosis (ID: `FOOD-CORE-031`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Law) that implements **['(symbiois) evolution'(-ing)(for [micro(-ing) BPMS;macro(-ing) BPMS]) BPMS]**. It defines the link between the gut biome and the global biome.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Law of Micro-Macro Trophic Symbiosis
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This law asserts that `the gut is a garden`. The **Micro** (Gut Bacteria) and the **Macro** (Global Agriculture) are symbiotically linked. A change in the Macro (Pesticides) affects the Micro (Gut Health). A change in the Micro (Probiotics) affects the Macro (Demand for Yogurt). The system models this two-way street.
+
+#### 5.2. The Mechanism - [The Biome Bridge]
+
+- **Macro Action:** Player plants a monoculture of Corn.
+- **Micro Effect:** Player's gut diversity drops. Immunity drops.
+- **Feedback:** Player gets sick. Player must change Macro strategy (Plant diverse crops) to fix Micro problem.
+
+#### 5.3. The Emergent Property - [Holistic Health]
+
+The creation of "Interconnectedness." The player realizes they are an ecosystem, living in an ecosystem.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*As above, so below.*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Scale):
+
+- **Logic:** `State(Micro) <-> State(Macro)`. Coupled Differential Equations.
+- **Concept:** Holobiont Theory.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Consequence." Their farming choices affect their body directly.
+
+#### 7. Rationale / Justification:
+
+Adds depth to Farming and Health sims.
+
+#### 8. Scope of Application:
+
+Applies to Farming Sims, Medical Sims, and Ecology.
+
+------
+
+#### The Mechanism of Adaptive Discovery (ID: `FOOD-CORE-032`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Mechanism) that implements **['(discover/build) unknown'(-ing) BPMS]**, **[emergent(-ing) BPMS]**, and **[adaptive(-ing) BPMS]**. It defines how the system handles new foods.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Mechanism of Adaptive Discovery
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This mechanism asserts that `the unknown is delicious`. When the system encounters an **Unknown** ingredient, it does not reject it. It uses **Adaptive** algorithms to "Taste" it (Analyze properties), "Build" a profile for it, and allow **Emergent** recipes to form.
+
+#### 5.2. The Mechanism - [The Taste Test Protocol]
+
+- **Event:** Player eats "Purple Berry" (Unknown).
+- **Discovery:** System rolls for effects. `[Effect: Hallucination]`.
+- **Build:** System creates new Item: "Dream Berry."
+- **Emergence:** Players start using Dream Berry to craft "Vision Potions." A new mechanic emerges from the discovery.
+
+#### 5.3. The Emergent Property - [Evolutionary Gameplay]
+
+The creation of "Meta." The game evolves based on what players discover.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Fortune favors the bold (taster).*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Discovery):
+
+- **Logic:** `Unknown_Item + Interaction = Known_Item`.
+- **Concept:** Empiricism / Trial and Error.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Risk/Reward." Eating the unknown is dangerous but potentially powerful.
+
+#### 7. Rationale / Justification:
+
+Essential for Exploration and Roguelikes.
+
+#### 8. Scope of Application:
+
+Applies to Item Identification, Alchemy, and Exploration.
+
+------
+
+#### The Axiom of Robust Resilience (ID: `FOOD-CORE-033`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that implements **[robust(-ing) BPMS]**, **[resilient(-ing) BPMS]**, and **[sustainability(-ing) BPMS]**. It defines food security.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Robust Resilience
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `a diverse plate is a safe plate`. **Robustness** is resisting famine (Stockpiles). **Resilience** is recovering from famine (Fast-growing crops). **Sustainability** is avoiding famine (Soil health). The system rewards diversity and redundancy in the food supply.
+
+#### 5.2. The Mechanism - [The Polyculture Bonus]
+
+- **Monoculture:** 100% Wheat. High Yield, Low Resilience. (One blight kills all).
+- **Polyculture:** Wheat + Beans + Squash. Medium Yield, High Resilience. (Blight kills wheat, others survive).
+- **The Rule:** The system applies a "Resilience Multiplier" to diverse food sources.
+
+#### 5.3. The Emergent Property - [Stability]
+
+The creation of "Security." The civilization is harder to kill.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Don't put all your eggs in one basket.*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Resilience):
+
+- **Logic:** `Risk = 1 / Diversity`.
+- **Concept:** Portfolio Theory / Ecological Resilience.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Prudence." They learn to plan for the worst.
+
+#### 7. Rationale / Justification:
+
+Essential for Strategy and Survival games.
+
+#### 8. Scope of Application:
+
+Applies to Agriculture, Economy, and Disaster Management.
+
+------
+
+#### The Principle of Emergent Flavor Profiles (ID: `FOOD-CORE-034`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Principle) that implements **[emergent(-ing) BPMS]** and **['atomic facts'(-ing) BPMS]**. It defines how complex flavors emerge from simple facts.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Principle of Emergent Flavor Profiles
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This principle asserts that `flavor is an emergent property of atomic facts`. You don't program "Pizza Flavor." You program `[Tomato]`, `[Cheese]`, `[Dough]`, `[Heat]`. The "Pizza Flavor" **Emerges** from the interaction of these Atomic Facts. This allows for infinite, unscripted flavor combinations.
+
+#### 5.2. The Mechanism - [The Combinatorial Palate]
+
+- **Atoms:** `[Salt]`, `[Fat]`, `[Acid]`, `[Heat]`.
+- **Interaction:** `Salt + Fat = Savory`. `Acid + Fat = Balanced`.
+- **Emergence:** The system calculates the resulting vector. If the vector hits the "Bliss Point," the dish is a success.
+
+#### 5.3. The Emergent Property - [Infinite Cookbook]
+
+The creation of "Creativity." The user can invent dishes the developer never imagined.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The whole is tastier than the sum of its parts.*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Emergence):
+
+- **Logic:** `Flavor = Interaction_Matrix(Ingredients)`.
+- **Concept:** Emergence / Combinatorics.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Alchemy." Mixing things creates something new.
+
+#### 7. Rationale / Justification:
+
+Essential for deep Cooking Systems.
+
+#### 8. Scope of Application:
+
+Applies to Cooking Minigames and Crafting.
+
+---
+
+#### The Protocol of Trophic Mission Alignment (ID: `FOOD-CORE-035`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Protocol) that implements **['(symbiois) evolution'(-ing)(for [mission(-ing) BPMS;task(-ing) BPMS]) BPMS]**. It defines how the food system aligns daily eating tasks with high-level survival missions.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Trophic Mission Alignment
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that `eating is a mission-critical subroutine`. The **Mission** (e.g., "Survive Winter") and the **Task** (e.g., "Eat Berries") are symbiotically linked. The Mission evolves the Task (Winter makes eating urgent), and the Task evolves the Mission (Eating well allows for more ambitious missions).
+
+#### 5.2. The Mechanism - [The Objective-Diet Loop]
+
+- **Mission (High Level):** "Build a Cathedral."
+- **Task (Low Level):** "Eat High-Protein Stew."
+- **Symbiosis:** The Mission dictates the diet (Builders need protein). The diet enables the Mission (Protein fuels the lifting). If the diet fails, the Mission downgrades to "Build a Hut."
+
+#### 5.3. The Emergent Property - [Strategic Metabolism]
+
+The creation of "Purpose." The agent doesn't just eat to fill a bar; they eat to fuel a specific destiny.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*An army marches on its stomach.* (Napoleon).
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Alignment):
+
+- **Logic:** `Task_Success_Rate = Function(Diet_Quality)`. `Mission_Scope = Function(Task_Capacity)`.
+- **Concept:** Logistics / Supply Chain Management.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Preparation." Eating a big meal before a boss fight feels like sharpening a sword.
+
+#### 7. Rationale / Justification:
+
+Links the survival layer to the narrative layer.
+
+#### 8. Scope of Application:
+
+Applies to Quest Systems, Buff Mechanics, and Logistics.
+
+------
+
+#### The Principle of Granular Gastronomy (ID: `FOOD-CORE-036`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Principle) that implements **['(symbiois) evolution'(-ing)(for ['coarse-grained (model)'(-ing) BPMS;'fine-grained (model)'(-ing) BPMS]) BPMS]**. It defines how the system simulates food at different levels of detail.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Principle of Granular Gastronomy
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This principle asserts that `detail scales with relevance`. The system uses **Coarse-Grained Models** (e.g., "Food Item: Bread") for general inventory and **Fine-Grained Models** (e.g., "Gluten Structure: 12%, Hydration: 70%") for cooking minigames. These models evolve symbiotically: the Fine-Grained simulation informs the Coarse-Grained stats.
+
+#### 5.2. The Mechanism - [The Zoom-In Kitchen]
+
+- **Coarse (Inventory):** Player holds "Apple Pie." (Stat: +10 Health).
+- **Fine (Cooking):** Player enters "Baking Mode." System simulates heat transfer, sugar caramelization, and crust flakiness.
+- **Symbiosis:** If the player burns the crust in Fine Mode, the Coarse Item becomes "Burnt Pie" (Stat: -2 Health).
+
+#### 5.3. The Emergent Property - [Fidelity on Demand]
+
+The creation of "Depth." The game is simple when it needs to be and complex when it wants to be.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The map should be as detailed as the journey requires.*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Granularity):
+
+- **Logic:** `Model_Complexity = Function(Player_Focus)`.
+- **Concept:** Level of Detail (LOD) / Multi-Scale Modeling.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Focus." They can ignore the chemistry until they decide to become a chef.
+
+#### 7. Rationale / Justification:
+
+Optimizes performance and cognitive load.
+
+#### 8. Scope of Application:
+
+Applies to Crafting, Inventory, and Simulation Physics.
+
+------
+
+#### The Law of Particle-Field Nutrition (ID: `FOOD-CORE-037`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Law) that implements **['(symbiois) evolution'(-ing)(for [particle (-ing) BPMS;field (-ing) BPMS]) BPMS]**. It defines food as both a discrete object and a continuous field.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Law of Particle-Field Nutrition
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This law asserts that `food is a particle, hunger is a field`. The **Particle** is the specific item (The Apple). The **Field** is the smell, the cultural influence, and the supply chain density (The Orchard). The Particle evolves within the Field; the Field is composed of Particles.
+
+#### 5.2. The Mechanism - [The Scent Gradient]
+
+- **Field (Smell):** A bakery emits a "Scent Field" (Radius: 50m).
+- **Particle (Bun):** The Bun is the source of the field.
+- **Symbiosis:** The Field attracts the Agent. The Agent consumes the Particle. The consumption removes the Particle and collapses the Field.
+
+#### 5.3. The Emergent Property - [Attraction]
+
+The creation of "Lure." Agents are drawn to food sources before they can see them.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Where there is smoke (field), there is fire (particle).*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Fields):
+
+- **Logic:** `Field_Strength = Source_Intensity / Distance^2`.
+- **Concept:** Field Theory / Diffusion.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Anticipation." Smelling dinner cooking is part of the meal.
+
+#### 7. Rationale / Justification:
+
+Essential for artificial intelligence Pathfinding and Stealth/Detection mechanics.
+
+#### 8. Scope of Application:
+
+Applies to artificial intelligence Behavior, Sensory Simulation, and Atmosphere.
+
+------
+
+#### The Axiom of Complex Trophic Systems (ID: `FOOD-CORE-038`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that implements **['(symbiois) evolution'(-ing)(for ['complex activities'(-ing) BPMS;'complex system'(-ing) BPMS]) BPMS]**. It defines the food web as a complex adaptive system.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Complex Trophic Systems
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `dinner is a butterfly effect`. **Complex Activities** (Farming, Trading, Cooking) interact to form a **Complex System** (The Economy/Ecosystem). Small changes in activity (e.g., a new cooking technique) can cause phase transitions in the system (e.g., a population boom).
+
+#### 5.2. The Mechanism - [The Trophic Cascade]
+
+- **Activity:** Hunters kill Wolves.
+- **System Response:** Deer population explodes. Vegetation collapses. River banks erode.
+- **Symbiosis:** The Activity shapes the System; the System constrains the Activity.
+
+#### 5.3. The Emergent Property - [Unintended Consequences]
+
+The creation of "Realism." Actions have rippling effects beyond the immediate context.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Tug on anything at all and you'll find it connected to everything else in the universe.* (Muir).
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Complexity):
+
+- **Logic:** `System_State(t+1) = Non_Linear_Map(Activities(t))`.
+- **Concept:** Chaos Theory / Trophic Cascades.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Weight." Their choices matter globally.
+
+#### 7. Rationale / Justification:
+
+Essential for Ecology and Economy simulations.
+
+#### 8. Scope of Application:
+
+Applies to World Simulation and Dynamic Events.
+
+------
+
+#### The Mechanism of Gut-Brain Decision Making (ID: `FOOD-CORE-039`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Mechanism) that implements **['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;event(-ing) BPMS]) BPMS]**. It defines how hunger drives decisions.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Mechanism of Gut-Brain Decision Making
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This mechanism asserts that `the gut votes on the brain's decisions`. **Events** (Finding Food, Starvation) trigger **Behavior Decision-Making**. The "Gut" (Hunger State) acts as a weighted bias on the "Brain" (Logic). A starving agent will take risks a full agent would not.
+
+#### 5.2. The Mechanism - [The Maslow Override]
+
+- **State:** Full. **Decision:** "Avoid the Bear." (Safety First).
+- **State:** Starving. **Decision:** "Fight the Bear for its fish." (Survival First).
+- **Symbiosis:** The Event (Starvation) evolves the Decision Matrix. The Decision (Fight) creates new Events (Injury/Feast).
+
+#### 5.3. The Emergent Property - [Desperation]
+
+The creation of "Drama." Characters act differently under pressure.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Hunger changes the world.*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Decisions):
+
+- **Logic:** `Utility(Action) = Value(Action) * Urgency(Need)`.
+- **Concept:** Utility Theory / Maslow's Hierarchy.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Tension." They understand why the NPC is acting irrationally.
+
+#### 7. Rationale / Justification:
+
+Essential for artificial intellience Psychology and Survival Drama.
+
+#### 8. Scope of Application:
+
+Applies to artificial intelligence Behavior Trees and Narrative Generation.
+
+------
+
+#### The Directive of Continuous Survival (ID: `FOOD-CORE-040`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Directive) that implements **['(continuous) survive'(-ing) BPMS]**. It defines the ultimate goal of the food system.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Directive of Continuous Survival
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This directive asserts that `survival is a continuous function`. It is not a binary state (Alive/Dead) until the very end; it is a **Continuous** struggle against entropy. The `[food(-ing) BPMS]` is the engine that maintains this continuity. It ensures the "Flame of Life" never goes out by constantly feeding the fire.
+
+#### 5.2. The Mechanism - [The Entropy Counter-Flow]
+
+- **Entropy:** Pulls Health towards 0. (Continuous Decay).
+- **Food:** Pushes Health away from 0. (Continuous Repair).
+- **The Directive:** Maintain `d(Health)/dt >= 0`.
+- **The Result:** The system persists in time.
+
+#### 5.3. The Emergent Property - [Tenacity]
+
+The creation of "Will to Live." The system fights to stay online.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To survive is to win.*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Survival):
+
+- **Logic:** `Survival = Integral(Energy_In - Energy_Out) dt`.
+- **Concept:** Homeostasis / Persistence.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The user experiences "Endurance." The game is a marathon, not a sprint.
+
+#### 7. Rationale / Justification:
+
+The foundational logic for any survival-based system.
+
+#### 8. Scope of Application:
+
+Applies to Health Regeneration, Hunger Mechanics, and Permadeath.
