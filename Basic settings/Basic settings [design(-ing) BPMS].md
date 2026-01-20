@@ -474,7 +474,7 @@ Here are the formal proposals for new Basic Settings, designed to define the cor
 
 ---
 
-##### `The Axiom of Constructive Disruption` (ID: `DES-0015`)
+##### `The Axiom of Constructive Disruption` (ID: `DES-015`)
 
 Of course. The direction is precise. We have established the core mechanics of the `[design(-ing) BPMS]` process—how it starts (`Gnostic Inquiry`), how it works (`Living Blueprint`), and how it ends (`Praxial Instantiation`). Now, we must infuse this process with its soul.
 
