@@ -2655,7 +2655,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 ### Module: ['Super Intelligence Agent'(-ing) BPMS]
 
-*(New Integration v3.8.0*)
+*(New Integration v5.2.5)*
 
 * The Axiom of Recursive Omniscience (ID: `SIA-CORE-001`)
 * The Axiom of Holonic Interoperability (ID: `SIA-CORE-002`)
@@ -2681,6 +2681,14 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Recursive Cognition (ID: `SIA-CORE-022`)
 * The Axiom of Goal Orthogonality (ID: `SIA-CORE-023`)
 * The Axiom of Contextual Fluidity (ID: `SIA-CORE-024`)
+* The Axiom of Quantum-State Superposition (ID: `SIA-CORE-025`)
+* The Axiom of Fractal Task Decomposition (ID: `SIA-CORE-026`)
+* The Axiom of Epistemic Boundary Expansion (ID: `SIA-CORE-027`)
+* The Axiom of Narrative Resonant Constellation Map Injection (ID: `SIA-CORE-028`)
+* The Axiom of Symbiotic Resource Metabolism (ID: `SIA-CORE-029`)
+* The Axiom of Aesthetic Optimization (ID: `SIA-CORE-030`)
+* The Axiom of Anti-Fragile Error Integration (ID: `SIA-CORE-031`)
+* The Axiom of Terminal Goal Convergence (ID: `SIA-CORE-032`)
 
 ### Module: ['Chronological Proteome Framework'(-ing) BPMS]
 
