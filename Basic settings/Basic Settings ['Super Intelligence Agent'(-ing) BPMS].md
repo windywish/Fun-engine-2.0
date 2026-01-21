@@ -1785,7 +1785,7 @@ This axiom asserts that `failure is data`. When the SIA encounters an error (Cod
 #### **5.2. The Mechanism - [The Crash-to-Climb Loop]**
 
 - **The Crash (The Signal):** "Error: IndexOutOfRange."
-- **The Analysis (The Root Cause):** "I failed to account for empty lists."
+- **The Analysis (The Root Drive/trigger):** "I failed to account for empty lists."
 - **The Mutation (The Fix):** "I will add a guard clause AND update my internal rule to 'Always check for empty lists'."
 - **The Retry (The Evolution):** The agent re-runs the task with the new wisdom.
 
