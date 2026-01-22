@@ -1,4 +1,4 @@
-## ['startup'(-ing) BPMS]: ['Myco-Gastronomy Foundry'(-ing) BPMS]
+## [startup(-ing) BPMS]: ['Myco-Gastronomy Foundry'(-ing) BPMS]
 
 #### Framework Foundation:
 
