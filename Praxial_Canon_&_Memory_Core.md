@@ -7286,6 +7286,17 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 ### B. Registered Instance Registry (The Population)
 
+#### Domain: ['Praxial Clinical Engine (PCE)'(-ing) BPMS]
+
+*(New Integration v5.2.8)*
+
+1. **[Instance ID: PCE-IMMUNO-001]**
+
+- **Name:** `  ['The Veridical Weaver'(-ing) BPMS]`
+- **Role:** System Existence Engine for autopoietic digital immune system.
+- **CGA:** `['narrative-code symbiotic healer'(-ing) BPMS]`
+- **File:** ` ['Praxial Clinical Engine (PCE)'(-ing) BPMS] ['Ontological Immunologist'(-ing) BPMS].md`
+
 #### Domain: [mathematics(-ing) BPMS]
 
 *(New Integration v5.2.1)*
@@ -8142,12 +8153,19 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 
 *(New Integration v5.2.7)*
 
-1. **[Instance ID: BP-SEED-ARTIFACT-MGF-0011]**
+1. **[Instance ID: BP-SEED-ARTIFACT-MGF-001]**
 
 - **Name:** `  Myco-Gastronomy Foundry`
 - **Role:** System Existence Engine for Foundry Node Initialization.
 - **CGA:** `['precision fermentation orchestration'(-ing) BPMS]`
 - **File:** `['Symbiotic Seed Artifact'(-ing) BPMS] ['Myco-Gastronomy Foundry'(-ing) BPMS].md`
+
+2. **[Instance ID: BP-SEED-IMMUNO-001]**
+
+- **Name:** `  The Veridical Seed`
+- **Role:** System Existence Engine for Diagnostic Context.
+- **CGA:** `['Holographic-Healer-Encoder'(-ing) BPMS]`
+- **File:** `['Symbiotic Seed Artifact'(-ing) BPMS] ['The Veridical Seed'(-ing) BPMS].md`
 
 ### C. Operational Scripts Registry
 
