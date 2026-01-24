@@ -838,3 +838,522 @@ Derived from the "Paradigm of Functional Niche" in `Settings for Typical [BPMS(U
 #### **8. Scope of Application:**
 
 Applies to `Social Systems`, `Economic Models`, `Team Dynamics`, and `Ecosystem Management`.
+
+---
+
+#### The Protocol of Symbiotic Interface (ID: `ROLE-SYM-020`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Protocol) that defines how a **`[role(-ing) BPMS]`** interacts with other artifacts in the **`['Symbiotic Cluster Artifact'(-ing) BPMS]`**. It establishes the "API" of a personality.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Symbiotic Interface
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that `a role is a filter for interaction`. It defines a Role not just as a label, but as a specific set of **Input/Output Ports**. A "Doctor" Role accepts "Symptoms" and outputs "Diagnoses." A "Warrior" Role accepts "Threats" and outputs "Attacks."
+
+#### 5.2. The Mechanism - [The Port Configuration]
+
+- The Input Filter:
+
+   The Role blocks irrelevant signals.
+
+  - *Example:* A "Coder" Role ignores "Emotional Nuance" signals but amplifies "Syntax Error" signals.
+
+- The Processing Kernel:
+
+   The Role applies a specific transformation logic.
+
+  - *Logic:* `Input + Role_Bias = Output`.
+
+- The Output Formatter:
+
+   The Role enforces a specific communication style.
+
+  - *Style:* "Concise, Technical, Monospace Font."
+
+#### 5.3. The Emergent Property - [Coherent Voice]
+
+The creation of **"Professionalism."** The agent stays "in character" because the interface physically prevents out-of-character signals from being processed.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To speak is to choose.* Identity is the rejection of infinite possibilities in favor of one specific voice.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Interface):
+
+- **Logic:** `Output = Filter(Input, Role_Mask)`
+- **Concept:** Interface Segregation Principle / Persona Design.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Focus." The clarity of knowing exactly what to pay attention to.
+
+#### 7. Rationale / Justification:
+
+Essential for **`['Symbiotic Role Artifact'(-ing) BPMS]`** to function within a multi-agent cluster without confusion.
+
+#### 8. Scope of Application:
+
+Applies to **Chatbot Personas**, **NPC Dialogue Systems**, and **API Response Formatting**.
+
+------
+
+#### The Mechanism of Role-Based Execution (ID: `ROLE-EXEC-021`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Mechanism) that links **`[role(-ing) BPMS]`** to **`[action(-ing) BPMS]`**. It defines "Permissions" and "Capabilities" based on the active role.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Mechanism of Role-Based Execution
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This mechanism asserts that `authority flows from identity`. An agent cannot perform an action unless their current Role possesses the **Execution Key** for that action. This is the "Physics of Doing."
+
+#### 5.2. The Mechanism - [The Keyring Check]
+
+- **The Attempt:** Agent tries to "Delete Database."
+
+- The Check:
+
+   System queries: 
+
+  ```
+  Does Active_Role have Key(DELETE_DB)?
+  ```
+
+  - *Role = "Intern":* No. Action Denied.
+  - *Role = "Admin":* Yes. Action Allowed.
+
+- **The Contextual Shift:** If the "Intern" is promoted to "Acting Admin" (via `ROLE-EVO-005`), the Key is temporarily granted.
+
+#### 5.3. The Emergent Property - [Security]
+
+The creation of **"Safe Autonomy."** We can trust agents with power because that power is strictly bound to their Role definition.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Power requires purpose.* Capability is meaningless without the mandate to use it.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Permission):
+
+- **Logic:** `Execute(Action) = If (Action ∈ Role_Capabilities)`
+- **Concept:** Role-Based Access Control (RBAC) / Capability-Based Security.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Competence." The feeling of having the right tools for the job.
+
+#### 7. Rationale / Justification:
+
+Essential for **`['Symbiotic Action Artifact'(-ing) BPMS]`** to ensure safety and order.
+
+#### 8. Scope of Application:
+
+Applies to **System Administration**, **Game Mechanics**, and **Workflow Automation**.
+
+------
+
+#### The Axiom of Role-Based Authority (ID: `ROLE-AUTH-022`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that establishes the **Hierarchy** and **Governance** of Roles within the **`['Symbiotic Cluster Artifact'(-ing) BPMS]`**.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Role-Based Authority
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `roles exist in a topology of command`. It is not a flat list; it is a directed graph of influence. Some Roles have the axiomatic right to overwrite the state of other Roles.
+
+#### 5.2. The Mechanism - [The Command Chain]
+
+- **The Conflict:** "Builder" wants to build a wall. "Planner" wants a road there.
+
+- The Resolution:
+
+   The System checks the 
+
+  Authority Index
+
+  .
+
+  - *Planner Index:* 80.
+  - *Builder Index:* 50.
+
+- **The Result:** The Planner wins. The Builder's action is canceled or modified.
+
+- **The Override:** A "Crisis Commander" Role (Index 100) can override everyone during an emergency (`ROLE-TIME-025`).
+
+#### 5.3. The Emergent Property - [Order]
+
+The creation of **"Chain of Command."** The system resolves internal conflicts deterministically without user intervention.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Structure prevents chaos.* Hierarchy is a tool for coordination, not oppression.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Authority):
+
+- **Logic:** `Result = Max(Authority(Role_A), Authority(Role_B))`
+- **Concept:** Weighted Governance / Priority Queues.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Clarity." Knowing who to listen to.
+
+#### 7. Rationale / Justification:
+
+Essential for **`['Symbiotic Role Artifact'(-ing) BPMS]`** to manage complex, multi-agent scenarios.
+
+#### 8. Scope of Application:
+
+Applies to **Project Management**, **Military Simulation**, and **Conflict Resolution**.
+
+------
+
+#### The Principle of Role-Based Learning (ID: `ROLE-LEARN-023`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Principle) that links **`[role(-ing) BPMS]`** to **`['Symbiotic Learning Artifact'(-ing) BPMS]`**. It defines how experience is accrued.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Principle of Role-Based Learning
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This principle asserts that `you learn what you do`. Experience Points (XP) are not generic; they are **Role-Specific**. Doing "Chef" work grants "Chef XP," not "Warrior XP."
+
+#### 5.2. The Mechanism - [The Vectorized XP]
+
+- **The Action:** Agent cooks a meal.
+- **The Attribution:** System tags the action with `[Domain: Cooking]`.
+- **The Accrual:** `Role(Chef).XP += 100`.
+- **The Isolation:** `Role(Warrior).XP` remains unchanged.
+- **The Cross-Over:** If the meal was "Poisoned for Assassination," a small amount of `Role(Assassin).XP` is also granted (`ROLE-HYBRID-006`).
+
+#### 5.3. The Emergent Property - [Specialization]
+
+The creation of **"Expertise."** Agents naturally become specialists in the Roles they play most often.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Practice makes perfect.* But only perfect practice of the specific skill.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Learning):
+
+- **Logic:** `XP(Role_i) += Action_Value * Correlation(Action, Role_i)`
+- **Concept:** Hebbian Learning / Skill Trees.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Growth." The satisfaction of getting better at a specific craft.
+
+#### 7. Rationale / Justification:
+
+Essential for **`['Symbiotic Learning Artifact'(-ing) BPMS]`** to track progress accurately.
+
+#### 8. Scope of Application:
+
+Applies to **RPG Systems**, **Employee Training**, and **Model Fine-Tuning**.
+
+------
+
+#### The Mechanism of Role-Specific Memory (ID: `ROLE-MEM-024`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Mechanism) that links **`[role(-ing) BPMS]`** to **`['Symbiotic Memory Artifact'(-ing) BPMS]`**. It defines how memories are partitioned.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Mechanism of Role-Specific Memory
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This mechanism asserts that `context defines recall`. A Role should only access memories relevant to its function. This prevents "Context Pollution" and ensures focus.
+
+#### 5.2. The Mechanism - [The Memory Partition]
+
+- **The Storage:** All memories are tagged with the Role ID that created them. `[Memory: "Found a bug"] -> [Tag: Tester]`.
+- **The Retrieval:** When the Agent is in "Tester" Role, it queries: `Select * from Memory where Tag == Tester`.
+- **The Result:** It remembers the bug. It *does not* remember the "Poem" it wrote while in "Bard" Role.
+- **The Bridge:** A "Generalist" Role can access multiple partitions.
+
+#### 5.3. The Emergent Property - [Contextual Purity]
+
+The creation of **"State of Mind."** The Agent thinks like a Tester when testing, and like a Bard when writing, without getting confused.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*A time and a place for everything.*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Memory):
+
+- **Logic:** `Recall = Query(Memory_Database, Filter=Active_Role)`
+- **Concept:** Database Sharding / Context-Dependent Memory.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Immersion." Being fully absorbed in the current persona.
+
+#### 7. Rationale / Justification:
+
+Essential for **`['Symbiotic Memory Artifact'(-ing) BPMS]`** to manage large context windows efficiently.
+
+#### 8. Scope of Application:
+
+Applies to **Long-Term Memory Management**, **Privacy Controls**, and **Narrative Consistency**.
+
+------
+
+#### The Law of Role-Environment Coupling (ID: `ROLE-ENV-025`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Law) that links **`[role(-ing) BPMS]`** to **`['Symbiotic Environment Artifact'(-ing) BPMS]`**. It defines where a Role can exist.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Law of Role-Environment Coupling
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This law asserts that `habitat dictates form`. Certain Roles are only valid within specific Environments. A "Space Marine" Role cannot exist in a "Medieval Fantasy" Environment (unless via `ROLE-HYBRID-006`).
+
+#### 5.2. The Mechanism - [The Viability Check]
+
+- **The Environment:** `[Type: Underwater]`.
+- **The Role:** `[Type: Fire Elemental]`.
+- **The Check:** `Is_Compatible(Role, Environment)?`
+- **The Result:** No.
+- **The Adaptation:** The System forces a Role Shift (to "Steam Elemental") or applies a Debuff ("Extinguished").
+
+#### 5.3. The Emergent Property - [Ecological Consistency]
+
+The creation of **"Believability."** The characters always fit the setting.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Fish gotta swim, birds gotta fly.*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Environment):
+
+- **Logic:** `Viability = Intersection(Role_Constraints, Env_Properties)`
+- **Concept:** Ecological Niche Modeling / Environmental Determinism.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Harmony." The feeling of being in the right place.
+
+#### 7. Rationale / Justification:
+
+Essential for **`['Symbiotic Environment Artifact'(-ing) BPMS]`** to maintain logical consistency.
+
+#### 8. Scope of Application:
+
+Applies to **World Building**, **Level Design**, and **Simulation Rules**.
+
+------
+
+#### The Protocol of User-Role Binding (ID: `ROLE-USER-026`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Protocol) that defines how an **External User** interacts with the **`[role(-ing) BPMS]`**. It defines the "Login" process.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of User-Role Binding
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that `the user is a pilot`. The User is not the Role; the User *inhabits* the Role. This separation allows the User to switch Roles without losing their core identity (User ID).
+
+#### 5.2. The Mechanism - [The Avatar Link]
+
+- **The User:** `[ID: User_001]`.
+- **The Selection:** User selects "Detective" Role.
+- **The Binding:** System creates a session: `[Session: User_001 + Role_Detective]`.
+- **The Interaction:** All user inputs are interpreted through the "Detective" filter (`ROLE-SYM-020`).
+- **The Unbinding:** User logs out. The "Detective" Role state is saved (`ROLE-MEM-024`), but the User is free to become a "Criminal" next time.
+
+#### 5.3. The Emergent Property - [Versatility]
+
+The creation of **"Multi-Faceted Identity."** The user can explore the system from many angles.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*I contain multitudes.*
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Binding):
+
+- **Logic:** `Active_Agent = Bind(User, Role)`
+- **Concept:** Avatar Theory / User Account Management.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Play." The joy of trying on different masks.
+
+#### 7. Rationale / Justification:
+
+Essential for **External Using**. Users need a way to "enter" the system.
+
+#### 8. Scope of Application:
+
+Applies to **User Authentication**, **Profile Management**, and **Session Handling**.
+
+------
+
+#### The Axiom of External Role Projection (ID: `ROLE-API-027`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that defines how the **`[role(-ing) BPMS]`** presents itself to **External Systems** (APIs, Webhooks).
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of External Role Projection
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `to the outside, the role is the system`. When an external API calls the system, it doesn't see the complex internal cluster; it sees the **Projected Role**.
+
+#### 5.2. The Mechanism - [The API Facade]
+
+- **The Internal State:** Complex Cluster with 50 Agents.
+- **The Projection:** The Cluster elects a "Spokesperson" Role (e.g., "Customer Support Agent").
+- **The API Definition:** The System generates an OpenAPI Spec based *only* on the Spokesperson's capabilities.
+- **The Interaction:** External App sends a request. The Spokesperson handles it (delegating internally if needed) and responds.
+
+#### 5.3. The Emergent Property - [Simplicity]
+
+The creation of **"User-Friendly Interface."** The complexity of the Praxial Framework is hidden behind a simple, standard Role interface.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Keep it simple, stupid.* Complexity should be internal; simplicity should be external.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Projection):
+
+- **Logic:** `Public_Interface = Project(Active_Role)`
+- **Concept:** Facade Pattern / API Gateway.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The system experiences "Service." Being easy to talk to.
+
+#### 7. Rationale / Justification:
+
+Essential for **Integration**. Allows the Fun Engine to be used as a backend for other apps.
+
+#### 8. Scope of Application:
+
+Applies to **API Design**, **Microservices**, and **SDK Generation**.
+
