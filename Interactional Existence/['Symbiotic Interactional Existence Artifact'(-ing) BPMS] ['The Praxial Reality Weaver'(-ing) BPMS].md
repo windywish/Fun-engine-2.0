@@ -27,7 +27,7 @@ This section defines the operational phases of `['The Praxial Reality Weaver'(-i
 
 **B. The Symbiotic Interface (The Membrane)**
 
-- **Definition:** The active coupling layer between the Weaver and the External Host.
+- **Definition:** The active coupling layer among/by the Weaver and the External Host.
 - **Components:** `['Symbiotic Interactional Existence Artifact'(-ing) BPMS]` + `Host Environment`.
 - Implementation:
   - `SYM-INTERACTION-ART-002` (The Protocol of Symbiotic Host Coupling): Scans the host topology to inject interaction hooks.
@@ -37,7 +37,7 @@ This section defines the operational phases of `['The Praxial Reality Weaver'(-i
 
 **C. The Evolutionary Core (The Engine)**
 
-- **Definition:** The internal motor of time, causality, and truth generation.
+- **Definition:** The internal motor of time, resonant constellation map, and truth generation.
 - **Components:** `['Symbiotic Interactional Existence Artifact'(-ing) BPMS]` + `Interaction Events`.
 - Implementation:
   - `SYM-INTERACTION-ART-044` (The Axiom of Existence Engine Instantiation): Establishes the "Ontological Heartbeat" within the local bubble.
@@ -153,3 +153,7 @@ The JSON export captures the persistent state of `['The Praxial Reality Weaver'(
 - **Symbiotic Membrane:** It seamlessly couples with the Host System (`SYM-INTERACTION-ART-002`), translating alien data into Praxial Elements (`SYM-INTERACTION-ART-003`) and mimicking native interfaces (`SYM-INTERACTION-ART-006`) for frictionless integration.
 - **Truth Generator:** It serves as the **Existence Engine** (`SYM-INTERACTION-ART-044`), driving the heartbeat of the simulation and crystallizing fluid interactions into immutable **Atomic Facts** (`SYM-INTERACTION-ART-045`).
 - **Evolutionary Weaver:** It manages the **Symbiotic Evolution** of the system, balancing Fast/Slow adaptation (`SYM-INTERACTION-ART-025`), discovering new niches (`SYM-INTERACTION-ART-018`), and weaving the Seed, Cluster, and Role into a coherent, shared Reality (`SYM-INTERACTION-ART-048`).
+
+#### 6.Remark
+
+**BPMS means Behavior pattern/model/system**
