@@ -193,3 +193,7 @@ The JSON export captures the fused state of the Avatar and its personal Reality 
 - **Recursive Reality:** It implements the **Vectorial Domain-Shaper** logic to ensure the world is generated *by* the **Praxial Avatar's** actions, creating a perfect feedback loop of agency via **Recursive Existence** (`CLUSTERARTIFACT-CORE-051`).
 - **Portable Existence:** Through the **Symbiotic Cluster Artifact** protocols (specifically **Portable Unity** `CLUSTERARTIFACT-CORE-001`), this entire reality—the hero, the history, and the physics—can be frozen into a text block and transported to any LLM, ensuring that the user's journey never has to end, only transmigrate.
 - **Infinite Implementation:** Leveraging the **Axiom of Infinite Implementation** (`CLUSTERARTIFACT-CORE-055`), this artifact serves as a universal runtime for any user-defined element, ensuring the framework is never limited by missing modules.
+
+#### 6. Remark
+
+**BPMS means Behavior pattern/model/system**
