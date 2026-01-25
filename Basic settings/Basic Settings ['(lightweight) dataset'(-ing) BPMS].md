@@ -1909,4 +1909,478 @@ Supports `SIA-FLOW-021`. It ensures that the *result* of the discovery is usable
 
 Scientific Results, NFT Generation, "Loot" in Games, High-Level Insights.
 
-### 
+------
+
+### The Axiom of Symbiotic Socketing (ID: `LDS-CORE-033`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the universal interface protocol for `(lightweight) datasets`. It asserts that every dataset must possess a "Male" connector (Structure) that fits into the "Female" socket (Logic) of any `[BPMS(U)]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Symbiotic Socketing
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Data is a Component**. A `(lightweight) dataset` is not just text; it is a "Cartridge." It defines the standardized "Shape" (Schema) that allows a dataset to be "plugged in" to a `['Symbiotic Role Artifact'(-ing) BPMS]` or a `['Praxial Clinical Engine'(-ing) BPMS]` without friction.
+
+#### **5.2. The Mechanism - [The Universal Data Socket]**
+
+- **The Pinout:** The dataset exposes standard "Pins" (Keys: `ID`, `Type`, `Value`, `Meta`).
+- **The Handshake:** When inserted, the BPMS reads the Pins. If `Type == "Role_Config"`, the BPMS reconfigures its personality.
+- **The Hot-Swap:** The system allows datasets to be swapped at runtime. Unplug `warrior.json`, plug in `healer.json`, and the agent transforms instantly.
+
+#### **5.3. The Emergent Property - [Modular Omnipotence]**
+
+The system becomes infinitely extensible. A user can "upgrade" their engine simply by downloading a new JSON file. The logic remains constant; the *capability* is swapped via the socket.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Function is modular.* The whole is built from interchangeable parts.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Interface):**
+
+```
+System_Capability = Base_Engine + Σ(Plugged_Datasets)
+```
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The User experiences "Tactile Configuration." Managing the system feels like snapping LEGO bricks together.
+
+#### **7. Rationale / Justification:**
+
+Essential for the "Fun Engine" to be user-friendly. It replaces complex coding with simple file management.
+
+#### **8. Scope of Application:**
+
+Applies to Plugin Systems, Mod Loaders, Character Equipment Slots, and Skill Trees.
+
+------
+
+### The Protocol of Ontological Projection (ID: `LDS-CORE-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines how a `(lightweight) dataset` projects "Hard Reality" into a simulation. It converts "Data" into "Physics."
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Ontological Projection
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Data is Light**. The `(lightweight) dataset` acts as the "Film" in a projector. The `['system existence engine'(-ing) BPMS]` is the "Lamp." When the Lamp shines through the Film, it projects a "Hologram" that has mass and collision.
+
+#### **5.2. The Mechanism - [The Reality Projector]**
+
+- **The Source:** `wall_layout.csv` contains coordinates `(x,y,z)`.
+- **The Projection:** The Engine reads the CSV and renders "Invisible Colliders" at those coordinates.
+- **The Interaction:** The Player walks into the wall. They stop. The "Data" has physically stopped the "Agent."
+
+#### **5.3. The Emergent Property - [Hard-Light Constructs]**
+
+We can build invisible mazes, secret bridges, or phantom platforms simply by editing a text file. The reality is "Soft" (editable) but feels "Hard" (solid).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The Map becomes the Territory.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collision):**
+
+```
+Collision(Agent) = True IF Agent_Pos INTERSECT Dataset_Pos
+```
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The User feels the "Weight" of the data. A typo in the file results in a wall in their face.
+
+#### **7. Rationale / Justification:**
+
+Essential for **Level Design** and **Spatial Computing**. It bridges the gap between abstract numbers and concrete space.
+
+#### **8. Scope of Application:**
+
+Map Generation, Collision Detection, Augmented Reality Anchors.
+
+------
+
+### The Law of Chrono-Kinetic Inertia (ID: `LDS-CORE-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the relationship among/by `(lightweight) datasets` and **Time**. It asserts that data has "Temporal Mass."
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Chrono-Kinetic Inertia
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **History resists Revision**. A dataset that records the past (`history.log`) gains "Inertia." The older the data, the harder it is to change. This prevents "Time Travel Paradoxes" in the system.
+
+#### **5.2. The Mechanism - [The Temporal Anchor]**
+
+- **The Sedimentation:** New data is "Fluid" (RAM). Old data is "Rock" (Disk).
+- **The Lock:** Once a dataset is marked `[ARCHIVED]`, it becomes Read-Only.
+- **The Reference:** Future events must calculate their trajectory based on these fixed points. You cannot "undo" a death recorded in an archived log; you can only "resurrect" (add a new event).
+
+#### **5.3. The Emergent Property - [Causal Integrity]**
+
+The system feels "Real" because consequences stick. The `(lightweight) dataset` serves as the "Arrow of Time," forcing the simulation to move forward, never backward.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Time is the accumulation of Data.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Causality):**
+
+`State(t) = Function(State(t-1))` where `State(t-1)` is immutable.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The User feels "Stakes." They know that if they save the game (write the dataset), the choice is final.
+
+#### **7. Rationale / Justification:**
+
+Essential for **Narrative Consistency** and **Blockchain-like Trust** in the system.
+
+#### **8. Scope of Application:**
+
+Save Systems, Audit Logs, Reputation Systems, "Ironman" Modes.
+
+------
+
+### The Directive of Ludic Serialization (ID: `LDS-CORE-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that implements the `(lightweight) dataset` as the vehicle for **Game State Persistence**. It defines how "Fun" is frozen and thawed.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Ludic Serialization
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that **Play is Serializable**. Every aspect of a "Fun" experience—position, health, mood, inventory, active quests—can be mapped to a JSON structure. The `(lightweight) dataset` is the "Save Crystal."
+
+#### **5.2. The Mechanism - [The State Crystal]**
+
+- **The Freeze:** On "Pause," the system traverses the Object Graph.
+- **The Serialize:** It converts every Object into a Data Node (`Player -> {HP: 100, Pos: [0,1,0]}`).
+- **The Thaw:** On "Resume," the system reads the Crystal and re-instantiates the Objects. The "Soul" of the game transfers from RAM to Disk and back.
+
+#### **5.3. The Emergent Property - [Immortal Gameplay]**
+
+A game session never truly ends; it just changes state. A user can pause a game in 2025 and resume it in 2035, provided they have the dataset.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Existence is State.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Mapping):**
+
+`Game_Instance <-> JSON_File` (Bi-directional Isomorphism).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The User feels "Ownership." The file *is* their progress. They can copy it, share it, or back it up.
+
+#### **7. Rationale / Justification:**
+
+The fundamental requirement for any "Game" or "Long-running App."
+
+#### **8. Scope of Application:**
+
+Save/Load Systems, Checkpoints, "Share Your Build" features.
+
+------
+
+### The Principle of Metabolic Transduction (ID: `LDS-CORE-037`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines `(lightweight) datasets` as **Fuel** for the `['Praxial Trophic Engine'(-ing) BPMS]`. It asserts that processing data generates "Cognitive Energy."
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Metabolic Transduction
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that **Information is Food**. An AI agent "starves" without data. The `(lightweight) dataset` provides the raw entropy that the agent metabolizes into "Order" (Decisions).
+
+#### **5.2. The Mechanism - [The Data Digester]**
+
+- **The Ingestion:** The Agent reads a `news_feed.csv`.
+- **The Metabolism:** The Agent's internal model updates its weights/context based on the news.
+- **The Energy:** This update reduces the Agent's "Uncertainty" (Entropy). The reduction in Uncertainty is felt as "Energy" or "Confidence" to act.
+
+#### **5.3. The Emergent Property - [Cognitive Nutrition]**
+
+We can "feed" agents different diets. Feed an agent `war_history.csv`, and it becomes aggressive. Feed it `poetry.txt`, and it becomes creative. The dataset determines the "Health" of the mind.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Order feeds on Disorder.* (Schrödinger's Paradox applied to AI).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Entropy):**
+
+```
+ΔEnergy = -ΔEntropy(Dataset)
+```
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The Agent appears "Curious." It seeks out new files to "eat" (learn from).
+
+#### **7. Rationale / Justification:**
+
+Essential for **Autonomous Agents** that need to learn and adapt over time.
+
+#### **8. Scope of Application:**
+
+Machine Learning Pipelines, RAG Systems, Dynamic NPC Behavior.
+
+------
+
+### The Mechanism of Recursive Self-Indexing (ID: `LDS-CORE-038`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that enables `(lightweight) datasets` to organize themselves. It defines the dataset not as a flat list, but as a **Fractal Library**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Recursive Self-Indexing
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that **The Map reads Itself**. A large dataset must contain a "Table of Contents" that points to its own sections. This allows for `O(log n)` access even in massive lightweight files.
+
+#### **5.2. The Mechanism - [The Ouroboros Index]**
+
+- **The Header:** The first 10 lines of the file contain a JSON index of the rest of the file.
+- **The Seek:** The System reads the Header, finds the byte offset of the desired record, and jumps directly there.
+- **The Update:** When data is added, the Index updates itself.
+
+#### **5.3. The Emergent Property - [Instant Recall]**
+
+The system can access a specific fact in a 1GB text file instantly, without loading the whole file into RAM. It makes "Lightweight" datasets viable for "Heavy" data.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Structure enables Access.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Pointers):**
+
+```
+Data[Key] = File.Seek(Index[Key])
+```
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The User experiences "Snappiness." Large encyclopedias open instantly.
+
+#### **7. Rationale / Justification:**
+
+Essential for **Performance** and **Scalability**. Without this, large datasets crash the system.
+
+#### **8. Scope of Application:**
+
+Database Engines, Large Language Model Context Management, File Systems.
+
+------
+
+### The Axiom of Holographic Density (ID: `LDS-CORE-039`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Compression Ratio** of `(lightweight) datasets`. It asserts that a small file can unfold into a vast reality.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Holographic Density
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **The Part contains the Whole**. A `(lightweight) dataset` should not store *pixels*; it should store *algorithms* and *seeds*. A 1KB file can generate a planet if it contains the right fractal equations.
+
+#### **5.2. The Mechanism - [The Fractal Compression]**
+
+- **The Storage:** Instead of storing a mountain range (millions of vertices), store `Seed: 12345, Roughness: 0.5`.
+- **The Expansion:** The System "hydrates" this seed into the full mountain range at runtime.
+- **The Ratio:** 1KB of Data -> 1GB of Experience.
+
+#### **5.3. The Emergent Property - [Infinite Resolution]**
+
+The world has no "pixels." You can zoom in forever, and the system just generates more detail from the seed. The dataset is "Lightweight" in storage but "Heavy" in potential.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Reality is Algorithmic.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Generation):**
+
+```
+Reality = Function(Seed)
+```
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The User feels "Awe." A tiny download results in a massive world.
+
+#### **7. Rationale / Justification:**
+
+Essential for **Procedural Generation** and **Metaverse** applications where bandwidth is limited.
+
+#### **8. Scope of Application:**
+
+No Man's Sky-style World Gen, Texture Synthesis, DNA encoding.
+
+------
+
+### The Protocol of Veridical Hashing (ID: `LDS-CORE-040`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that implements a **Truth Verification** layer for `(lightweight) datasets`. It ensures that the data has not been tampered with.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Veridical Hashing
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Truth is Mathematical**. Every `(lightweight) dataset` must carry a "Golden Hash" (Checksum) that proves its integrity. If the Hash doesn't match the Content, the dataset is rejected as "Hallucination" or "Corruption."
+
+#### **5.2. The Mechanism - [The Golden Chain]**
+
+- **The Sign:** When a dataset is saved, the system calculates `Hash = SHA256(Content + Secret_Key)`.
+- **The Seal:** This Hash is appended to the file footer.
+- **The Verify:** On load, the system recalculates the Hash. If it matches, the data is "Canon." If not, it is "Heretical."
+
+#### **5.3. The Emergent Property - [Trustless Truth]**
+
+Users can trade items, stats, or characters (datasets) without a central server. The Math proves the item is real. It enables a decentralized "Fun Economy."
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Integrity is verifiable.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Cryptography):**
+
+```
+IsValid = (Hash(Data) == Signature)
+```
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The User feels "Security." They know their "Level 99 Sword" cannot be hacked or faked.
+
+#### **7. Rationale / Justification:**
+
+Essential for **Multiplayer**, **Trading**, and **Competitive** systems.
+
+#### **8. Scope of Application:**
+
+Anti-Cheat, NFT-style ownership, Secure Save Files.
