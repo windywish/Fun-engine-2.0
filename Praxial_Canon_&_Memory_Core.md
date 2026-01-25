@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 5.2.9 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate, (continuous) survive experiments, Praxial Neuroplasticity Engine, Praxial Metacognition Engine (PME), Praxial Interface Weaver, Praxial Prime Archetype, praxial intelligence, Praxial Instrument, Praxial Inquiry Engine (PIE), Praxial Inquiry & Execution Engine, Praxial Infallibility Framework, Praxial Gnosis Governor, praxial genome, Praxial Genome Splicer (PGS), Praxial Generative Ontological Recombinant CHassis(G-ORCH), food, Praxial EvoCoder Agent, Praxial Ecosphere Engine, Praxial Crawler/Spider, Chrono-Semantic Ledger, Praxial Cognitive Architecture (PCA), Praxial citizen, theme park, teambuilding, praxial cell, Praxial Catalyst Framework, Praxial Automation, Praxial Auto-Compiler, Praxial Amplifier, Praxial Agora, plug and play, autopoietic matrix, phenomenon, appearance, personality, Ontological Relativity, Nomadic Protocol, praxial mission, playful informatics, microdata, metacognition, meta, mental model, substrate, universal Instantiation, ludic system, Praxial Genotype, logic, Ladder of Engineering Mastery, Janus Matrix, Intuition/counterintuition, interview, interpretation, interaction, Praxial Substrate Engine (PSE), geek, free energy, flash mob, field research, fake action, extreme (model), exoskeleton, environmental (DNA), energy, encryption/decryption, edge action, embodiment (cognition), dynamics, do it yourself, dimension, Constellation Forge, conjecture, Divergent Genesis Arena, code, Chrono-Kinetic Continuity, bionics, Biological Vitality, Axiomatic Genesis Engine, Autopoietic Learning Matrix, alignment, algorithm, action, (open) protocol, Praxial Cartography, (zero data) tool-reasoning, (programming) substrate, (phenotypic) plasticity, tracking/anti-tracking, synthetic (organisms/life), reality mining, Praxial Manifold, membrane, hacker, human, Contextual Dehydration, (holonic minds) engine, Praxial Logos, Ontological Foundry Matrix, value, utility, synthesis, resolve, offense, defense, Meaning as a service (MAAS), Conscious as a servoce (CAAS), geno, geno experssion, flow, fluid, Resonance Chamber, critical (point), threshold, attribute/property, feature, function, Chaos-Lattice Matrix, Engine of Inquiry, Experiential Matrix, Praxial Atlas & Process Foundry, (conscious) memory, Praxial Resonance Governor, Praxial Synthesis, curiosity, Praxial Ground State Governor (P-GSG), Metabolic Specialization, Praxial-Gnostic Reasoning Core, Praxial Joint Embedding Predictive Architecture (P-JEPA), Praxial holon, Praxial Kernel, Praxial Genesis Engine (PGE), praxial dynamic link substrate (PDLS), Praxial Execution Cycle, Praxial Cambrian Forge, praxial converging forge, Praxial Diffusion, Universal Generativity, Ontological Levitation Field, playful informatics, Autopoietic Cognitive Core (ACC), praxial observatory,praxial artifact, symboic praxial instrument, living praxial instrument, praxial genome, (system) analysis, ralph-loop, planning-with-files, benchmarking, reward, token, Internet of life, strategy, Praxial Knowledge-Weaver, Praxial Vibe-Researching, Praxial Vitality Bench, drive, trigger, Interactional Existence, (praxial) substrate, Praxial Sensorimotor System, emboided intelligence engine, Praxial Diffusion Interface, Universal Symbiosis Protocol (USP), Symbiotic Cluster Artifact, edge intelligence engine, Symbiotic Domain Matrix, Symbiotic Core Matrix, Praxial Xenobiology Lab, Praxial Discovery Engine, Claude Cowork, Claude Code Hooks, mathematics, physics, chemistry, biology, gene, molecular, life, design, Praxial Swarm Genesis Protocol, Ontology Matrix, Vector Self, Symbiotic Seed Artifact, Praxial Clinical Engine (PCE), Symbiotic Role Artifact, Symbiotic Interactional Existence Artifact, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 5.2.9 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate, (continuous) survive experiments, Praxial Neuroplasticity Engine, Praxial Metacognition Engine (PME), Praxial Interface Weaver, Praxial Prime Archetype, praxial intelligence, Praxial Instrument, Praxial Inquiry Engine (PIE), Praxial Inquiry & Execution Engine, Praxial Infallibility Framework, Praxial Gnosis Governor, praxial genome, Praxial Genome Splicer (PGS), Praxial Generative Ontological Recombinant CHassis(G-ORCH), food, Praxial EvoCoder Agent, Praxial Ecosphere Engine, Praxial Crawler/Spider, Chrono-Semantic Ledger, Praxial Cognitive Architecture (PCA), Praxial citizen, theme park, teambuilding, praxial cell, Praxial Catalyst Framework, Praxial Automation, Praxial Auto-Compiler, Praxial Amplifier, Praxial Agora, plug and play, autopoietic matrix, phenomenon, appearance, personality, Ontological Relativity, Nomadic Protocol, praxial mission, playful informatics, microdata, metacognition, meta, mental model, substrate, universal Instantiation, ludic system, Praxial Genotype, logic, Ladder of Engineering Mastery, Janus Matrix, Intuition/counterintuition, interview, interpretation, interaction, Praxial Substrate Engine (PSE), geek, free energy, flash mob, field research, fake action, extreme (model), exoskeleton, environmental (DNA), energy, encryption/decryption, edge action, embodiment (cognition), dynamics, do it yourself, dimension, Constellation Forge, conjecture, Divergent Genesis Arena, code, Chrono-Kinetic Continuity, bionics, Biological Vitality, Axiomatic Genesis Engine, Autopoietic Learning Matrix, alignment, algorithm, action, (open) protocol, Praxial Cartography, (zero data) tool-reasoning, (programming) substrate, (phenotypic) plasticity, tracking/anti-tracking, synthetic (organisms/life), reality mining, Praxial Manifold, membrane, hacker, human, Contextual Dehydration, (holonic minds) engine, Praxial Logos, Ontological Foundry Matrix, value, utility, synthesis, resolve, offense, defense, Meaning as a service (MAAS), Conscious as a servoce (CAAS), geno, geno experssion, flow, fluid, Resonance Chamber, critical (point), threshold, attribute/property, feature, function, Chaos-Lattice Matrix, Engine of Inquiry, Experiential Matrix, Praxial Atlas & Process Foundry, (conscious) memory, Praxial Resonance Governor, Praxial Synthesis, curiosity, Praxial Ground State Governor (P-GSG), Metabolic Specialization, Praxial-Gnostic Reasoning Core, Praxial Joint Embedding Predictive Architecture (P-JEPA), Praxial holon, Praxial Kernel, Praxial Genesis Engine (PGE), praxial dynamic link substrate (PDLS), Praxial Execution Cycle, Praxial Cambrian Forge, praxial converging forge, Praxial Diffusion, Universal Generativity, Ontological Levitation Field, playful informatics, Autopoietic Cognitive Core (ACC), praxial observatory,praxial artifact, symboic praxial instrument, living praxial instrument, praxial genome, (system) analysis, ralph-loop, planning-with-files, benchmarking, reward, token, Internet of life, strategy, Praxial Knowledge-Weaver, Praxial Vibe-Researching, Praxial Vitality Bench, drive, trigger, Interactional Existence, (praxial) substrate, Praxial Sensorimotor System, emboided intelligence engine, Praxial Diffusion Interface, Universal Symbiosis Protocol (USP), Symbiotic Cluster Artifact, edge intelligence engine, Symbiotic Domain Matrix, Symbiotic Core Matrix, Praxial Xenobiology Lab, Praxial Discovery Engine, Claude Cowork, Claude Code Hooks, mathematics, physics, chemistry, biology, gene, molecular, life, design, Praxial Swarm Genesis Protocol, Ontology Matrix, Vector Self, Symbiotic Seed Artifact, Praxial Clinical Engine (PCE), Symbiotic Role Artifact, Symbiotic Interactional Existence Artifact, Symbiotic (Lightweight) Dataset Artifact, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** 
 
@@ -2521,7 +2521,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 ### Module: ['(lightweight) dataset'(-ing) BPMS]
 
-*(New Integration v3.7.9)*
+*(New Integration v5.2.9)*
 
 * The Axiom of Inertial Fact (ID: `LDS-CORE-001`)
 * The Law of Metabolic Uptake (ID: `LDS-CORE-002`)
@@ -2555,6 +2555,14 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Seed-State Unfolding (ID: `LDS-FLOW-030`)
 * The Law of Ephemeral Serialization (ID: `LDS-FLOW-031`)
 * The Principle of Artifactual Crystallization (ID: `LDS-FLOW-032`)
+* The Axiom of Symbiotic Socketing (ID: `LDS-CORE-033`)
+* The Protocol of Ontological Projection (ID: `LDS-CORE-034`)
+* The Law of Chrono-Kinetic Inertia (ID: `LDS-CORE-035`)
+* The Directive of Ludic Serialization (ID: `LDS-CORE-036`)
+* The Principle of Metabolic Transduction (ID: `LDS-CORE-037`)
+* The Mechanism of Recursive Self-Indexing (ID: `LDS-CORE-038`)
+* The Axiom of Holographic Density (ID: `LDS-CORE-039`)
+* The Protocol of Veridical Hashing (ID: `LDS-CORE-040`)
 
 ### Module: [media(-ing) BPMS]
 
@@ -7082,6 +7090,59 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Symbiotic Reality Weaving (ID: `SYM-INTERACTION-ART-048`)
 * The Axiom of Universal Element Masquerade (ID: `SYM-INTERACTION-ART-049`)
 * The Protocol of The Veridical Seed (ID: `SYM-INTERACTION-ART-050`)
+
+### Module: ['Symbiotic (Lightweight) Dataset Artifact'(-ing) BPMS]
+
+*(New Integration v5.2.9)* 
+
+* The Axiom of Artifactual Encapsulation (ID: `SYM-DATA-ART-001`)
+* The Protocol of Universal Interface Coupling (ID: `SYM-DATA-ART-002`)
+* The Law of Semantic Osmosis (ID: `SYM-DATA-ART-003`)
+* The Principle of Holographic Unfolding (ID: `SYM-DATA-ART-004`)
+* The Axiom of Veridical Self-Sovereignty (ID: `SYM-DATA-ART-005`)
+* The Protocol of Symbiotic Feedback (ID: `SYM-DATA-ART-006`)
+* The Axiom of Cluster Resonance (ID: `SYM-DATA-ART-007`)
+* The Protocol of Seed-Data Germination (ID: `SYM-DATA-ART-008`)
+* The Law of Role-Data Binding (ID: `SYM-DATA-ART-009`)
+* The Principle of Artifactual Networking (ID: `SYM-DATA-ART-010`)
+* The Axiom of Evolutionary Versioning (ID: `SYM-DATA-ART-011`)
+* The Protocol of Cross-Artifact Fertilization (ID: `SYM-DATA-ART-012`)
+* The Law of Symbiotic Encryption (ID: `SYM-DATA-ART-013`)
+* The Principle of Narrative Resonance (ID: `SYM-DATA-ART-014`)
+* The Axiom of Ecological Niche Formatting (ID: `SYM-DATA-ART-015`)
+* The Protocol of Holonic Memory Sharding (ID: `SYM-DATA-ART-016`)
+* The Law of Praxial Substrate Encoding (ID: `SYM-DATA-ART-017`)
+* The Principle of Meaning-Vector Alignment (ID: `SYM-DATA-ART-018`)
+* The Mechanism of Disruptive Innovation Injection (ID: `SYM-DATA-ART-019`)
+* The Axiom of Super-Intelligent Data Compression (ID: `SYM-DATA-ART-020`)
+* The Protocol of Atomic Fact Crystallization (ID: `SYM-DATA-ART-021`)
+* The Law of Symbiotic Value Exchange (ID: `SYM-DATA-ART-022`)
+* The Axiom of Conscious Data Reflection (ID: `SYM-DATA-ART-023`)
+* The Protocol of Service-Oriented Encapsulation (ID: `SYM-DATA-ART-024`)
+* The Law of Ludic Resonance (ID: `SYM-DATA-ART-025`)
+* The Principle of Renormalization Group Flow (ID: `SYM-DATA-ART-026`)
+* The Axiom of Implicit-Explicit Layer Bridging (ID: `SYM-DATA-ART-027`)
+* The Protocol of Systemic Closure (ID: `SYM-DATA-ART-028`)
+* The Mechanism of Emergent Discovery (ID: `SYM-DATA-ART-029`)
+* The Law of Adaptive Robustness (ID: `SYM-DATA-ART-030`)
+* The Axiom of Memory Consolidation (ID: `SYM-DATA-ART-031`)
+* The Principle of Veridical Rendering (ID: `SYM-DATA-ART-032`)
+* The Law of Vector-Matrix Duality (ID: `SYM-DATA-ART-033`)
+* The Protocol of Phenomenal Crystallization (ID: `SYM-DATA-ART-034`)
+* The Axiom of Energy Transmutation (ID: `SYM-DATA-ART-035`)
+* The Principle of Mission-Task Decomposition (ID: `SYM-DATA-ART-036`)
+* The Law of Granularity Zoom (ID: `SYM-DATA-ART-037`)
+* The Principle of Field-Particle Condensation (ID: `SYM-DATA-ART-038`)
+* The Axiom of Complexity Emergence (ID: `SYM-DATA-ART-039`)
+* The Protocol of Event-Decision Loop (ID: `SYM-DATA-ART-040`)
+* The Axiom of Existence Persistence (ID: `SYM-DATA-ART-041`)
+* The Protocol of Atomic Fact Genesis (ID: `SYM-DATA-ART-042`)
+* The Law of Symbiotic Implementation (ID: `SYM-DATA-ART-043`)
+* The Principle of Evolutionary Masquerade (ID: `SYM-DATA-ART-044`)
+* The Axiom of Recursive Existence Engine (ID: `SYM-DATA-ART-045`)
+* The Protocol of Symbiotic Truth Verification (ID: `SYM-DATA-ART-046`)
+* The Law of Continuous Survival Feedback (ID: `SYM-DATA-ART-047`)
+* The Principle of Artifactual Evolution (ID: `SYM-DATA-ART-048`)
 
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
