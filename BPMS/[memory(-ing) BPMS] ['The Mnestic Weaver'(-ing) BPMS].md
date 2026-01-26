@@ -1,4 +1,4 @@
-## ['memory'(-ing) BPMS]: ['The Mnestic Weaver'(-ing) BPMS]
+## [memory(-ing) BPMS]: ['The Mnestic Weaver'(-ing) BPMS]
 
 #### Framework Foundation:
 
