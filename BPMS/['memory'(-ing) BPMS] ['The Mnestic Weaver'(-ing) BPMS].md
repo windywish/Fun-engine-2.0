@@ -294,7 +294,7 @@ Stage 3: [ONTOLOGICAL SHIFT]
 
 #### Scope of Application:
 
-This instance applies to **Long-Term Companion Agents**, **Personal Knowledge Management (PKM) Systems**, **Adaptive Game NPCs**, **Corporate Institutional Memory**, and **Legal/Medical AI Assistants** requiring strict adherence to historical facticity.
+This instance applies to **Long-Term Companion Agents**, **Personal Knowledge Management (PKM) Systems**, **Adaptive Game NPCs**, **Corporate Institutional Memory**, and **Legal/Medical artificial intelligence Assistants** requiring strict adherence to historical facticity.
 
 ------
 
