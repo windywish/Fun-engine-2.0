@@ -1252,7 +1252,7 @@ Applies to strategy formulation, risk assessment, dialogue choice selection (pic
 
 ------
 
-#### The Axiom of Re-Integration (ID: `TWIN-DEATH-032`)
+#### The Axiom of Re-Integration (ID: `TWIN-EXTINCTION-032`)
 
 #### **2. Objective:**
 
