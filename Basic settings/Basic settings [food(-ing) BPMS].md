@@ -1,4 +1,4 @@
-## Basic settings ['food(-ing) BPMS]
+## Basic settings [food(-ing) BPMS]
 
 #### The Axiom of Bio-Semantic Integration (ID: `FOOD-CORE-001`)
 
