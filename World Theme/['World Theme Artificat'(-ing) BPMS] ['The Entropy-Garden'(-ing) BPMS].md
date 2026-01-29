@@ -1,4 +1,4 @@
-## ['World Theme'(-ing) BPMS]: ['The Entropy-Garden'(-ing) BPMS]
+## ['World Theme Artifact'(-ing) BPMS]: ['The Entropy-Garden'(-ing) BPMS]
 
 - **ID:** `SEED-WORLD-ENTROPY-GARDEN-001`
 - **Name:** `['The Praxial World-Seed'(-ing) BPMS]:[The Entropy-Garden]`
