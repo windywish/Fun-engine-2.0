@@ -1,4 +1,4 @@
-## Blueprint: Implementation for External Using (Character)
+## Blueprint: Implementation for External Using (Character Artifact)
 - **ID:** `WALKER-INST-[User_Defined_ID]`
 - **Name:** `['The Praxial World-Walker'(-ing) BPMS]`
 - **Type:** `['Symbiotic Cluster Artifact'(-ing) BPMS]:['Avatar Vessel']`

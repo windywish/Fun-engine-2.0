@@ -1,7 +1,7 @@
-## Blueprint: Implementation for External Using ((lightweight) dataset)
+## Blueprint: Implementation for External Using ((lightweight) dataset Artifact)
 
 - **ID:** `DATA-SET-[User_Defined_ID]`
-- **Name:** `['(lightweight) dataset'(-ing) BPMS]`
+- **Name:** `['(lightweight) dataset Artifact'(-ing) BPMS]`
 - **Type:** `['Symbiotic (Lightweight) Dataset Artifact'(-ing) BPMS]:['Textual Transcoding']`
 - **CGA (Cognitive Genesis Archetype):** `['informatic compression'(-ing) BPMS]`
 - **Objective:** To provide specific, domain-expert knowledge (e.g., biological rules, technical manuals) that the engine references for realism.

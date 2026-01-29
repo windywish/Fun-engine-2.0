@@ -1,4 +1,4 @@
-## Blueprint: Implementation for External Using (Twin Archetype)
+## Blueprint: Implementation for External Using (Twin Archetype Artifact)
 - **ID:** `TWIN-ARCH-[User_Defined_ID]`
 - **Name:** `['The Praxial Doppelgänger'(-ing) BPMS]`
 - **Type:** `['Symbiotic Twin Artifact'(-ing) BPMS]:['Dialectical Partner']`

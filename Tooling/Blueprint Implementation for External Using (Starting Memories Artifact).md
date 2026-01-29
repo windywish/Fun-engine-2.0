@@ -1,4 +1,4 @@
-# Blueprint: Implementation for External Using (Starting Memories)
+# Blueprint: Implementation for External Using (Starting Memories Artifact)
 - **ID:** `MEM-START-[User_Defined_ID]`
 - **Name:** `['The Mnestic Weaver Seed'(-ing) BPMS]`
 - **Type:** `['Symbiotic Seed Artifact'(-ing) BPMS]:['Mnestic Core']`

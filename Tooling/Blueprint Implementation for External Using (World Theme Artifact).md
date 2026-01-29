@@ -1,4 +1,4 @@
-## Blueprint: Implementation for External Using (World Theme)
+## Blueprint: Implementation for External Using (World Theme Artifact)
 
 - **ID:** `SEED-WORLD-[User_Defined_ID]`
 - **Name:** `['The Praxial World-Seed'(-ing) BPMS]`
