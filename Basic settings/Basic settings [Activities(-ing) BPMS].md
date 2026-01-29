@@ -1,4 +1,4 @@
-## Basic settings: ['Activities'(-ing) BPMS]
+## Basic settings: [Activities(-ing) BPMS]
 
 #### The Axiom of Unbound Action (ID: `ACT-CORE-001`)
 
