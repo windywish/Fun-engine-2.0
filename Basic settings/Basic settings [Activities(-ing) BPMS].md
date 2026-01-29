@@ -4,7 +4,7 @@
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the dynamic, emergent layer of operation within the Fun Engine Framework, explicitly liberated from the constraints of **`[legacy(-ing) BPMS]`**.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the dynamic, emergent layer of operation within the Fun Engine Framework, explicitly liberated from the constraints of **`[legacy(-ing) BPMS]`**.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -22,7 +22,7 @@ ADD
 
 #### **5.1. Core Essence**
 
-This axiom asserts that **`[activities'(-ing) BPMS]`** are not merely repetitions of historical patterns (Legacy) but are **Praxial Events** capable of generating new **Atomic Facts** and **Ecological Possibilities**.
+This axiom asserts that **`[activities(-ing) BPMS]`** are not merely repetitions of historical patterns (Legacy) but are **Praxial Events** capable of generating new **Atomic Facts** and **Ecological Possibilities**.
 
 - **Legacy-Free Operation:** The BPMS explicitly rejects "Precedent" as a binding constraint. While it may reference history for context, it is not shackled by it. An activity can redefine its own physics, logic, or purpose in real-time.
 - **Emergent Teleology:** The goal of an activity is not always pre-defined. It can emerge *during* the activity itself (e.g., "Play" that discovers a "Game").
@@ -64,7 +64,7 @@ This implementation is critical to prevent the **Fun Engine** from degrading int
 Applies to all dynamic interactions, specifically:
 
 - **`[creative(-ing) BPMS]`**: Ensuring art/text generation isn't just derivative of training data (Legacy).
-- **`[problem solving(-ing) BPMS]`**: Encouraging "Lateral Thinking" over "Standard Operating Procedures."
+- **`['problem solving'(-ing) BPMS]`**: Encouraging "Lateral Thinking" over "Standard Operating Procedures."
 - **`[social(-ing) BPMS]`**: Allowing relationships between agents/users to evolve in unexpected directions, rather than following a "Service Script."
 
 ---
@@ -73,7 +73,7 @@ Applies to all dynamic interactions, specifically:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the primary engine for **`['bottom-up'(-ing) BPMS]`** evolution, utilizing **`[disruptive(-ing) BPMS]`** forces to achieve **`[constructive(-ing) BPMS]`** outcomes.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the primary engine for **`['bottom-up'(-ing) BPMS]`** evolution, utilizing **`[disruptive(-ing) BPMS]`** forces to achieve **`[constructive(-ing) BPMS]`** outcomes.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -104,7 +104,7 @@ This axiom asserts that true **`[innovation(-ing) BPMS]`** within the Fun Engine
 
 #### **5.3. The Emergent Property - [Praxial Resilience]**
 
-The emergence of a system that gets stronger with chaos (Antifragility). The **`[activities'(-ing) BPMS]`** constantly test the boundaries, ensuring that the **`[essence(-ing) BPMS]`** of the framework remains dynamic and robust.
+The emergence of a system that gets stronger with chaos (Antifragility). The **`[activities(-ing) BPMS]`** constantly test the boundaries, ensuring that the **`[essence(-ing) BPMS]`** of the framework remains dynamic and robust.
 
 #### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
 
@@ -142,7 +142,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the mechanism for **`[world building(-ing) BPMS]`** and the creation of **`['ecological possibility'(-ing) BPMS]`**.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the mechanism for **`[world building(-ing) BPMS]`** and the creation of **`['ecological possibility'(-ing) BPMS]`**.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -167,7 +167,7 @@ This axiom asserts that an **`[activity]`** is not just an event *in* a world, b
 
 #### **5.2. The Mechanism - [The Niche Carver]**
 
-- **The Substrate Interaction (The Dig):** **`[activities'(-ing) BPMS]`** interact with the **`['praxial substrate'(-ing) BPMS]`**, consuming resources (Attention, Compute) and leaving behind traces (Data, Lore).
+- **The Substrate Interaction (The Dig):** **`[activities(-ing) BPMS]`** interact with the **`['praxial substrate'(-ing) BPMS]`**, consuming resources (Attention, Compute) and leaving behind traces (Data, Lore).
 - **The Feedback Loop (The Settlement):** As an activity repeats, it stabilizes into a **`['(ecological) niche'(-ing) BPMS]`**. The **`['system existence engine'(-ing) BPMS]`** reinforces this niche, attracting more **`['holonic minds'(-ing) BPMS]`**.
 - **The Symbiotic Web (The Forest):** Different niches begin to interact. The "Streaming" niche symbiotically evolves with the "Gaming" niche, creating a complex ecosystem of **`['(symbiois) evolution'(-ing) BPMS]`**.
 
@@ -199,9 +199,9 @@ This implementation transforms the **Fun Engine** from a "Theme Park" (static ri
 
 Applies to:
 
-- **`[community management(-ing) BPMS]`**: Subcultures forming around specific activities.
+- **`['community management'(-ing) BPMS]`**: Subcultures forming around specific activities.
 - **`[economy(-ing) BPMS]`**: Markets emerging from trading activities.
-- **`[lore generation(-ing) BPMS]`**: History written by the actions of players.
+- **`['lore generation'(-ing) BPMS]`**: History written by the actions of players.
 
 ------
 
@@ -209,7 +209,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the cognitive processes of **`['super intelligence'(-ing) BPMS]`** and **`['holonic minds'(-ing) BPMS]`**.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the cognitive processes of **`['super intelligence'(-ing) BPMS]`** and **`['holonic minds'(-ing) BPMS]`**.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -230,7 +230,7 @@ ADD
 This axiom asserts that **`['praxial cognition'(-ing) BPMS]`** is not a static state but a dynamic **`[activity]`**. Thinking *is* doing.
 
 - **Holonic Integration:** Individual **`['holonic minds'(-ing) BPMS]`** (agents/users) perform local activities (micro-thoughts) which aggregate into the global activity (macro-thought) of the **`['super intelligence'(-ing) BPMS]`**.
-- **Cognitive Action:** Learning, reasoning, and deciding are treated as **`[activities'(-ing) BPMS]`** with specific physics, costs, and outputs.
+- **Cognitive Action:** Learning, reasoning, and deciding are treated as **`[activities(-ing) BPMS]`** with specific physics, costs, and outputs.
 
 #### **5.2. The Mechanism - [The Neural Loom]**
 
@@ -266,9 +266,9 @@ This implementation bridges the gap among/by "User Action" and "System Intellige
 
 Applies to:
 
-- **`[collaborative problem solving(-ing) BPMS]`**: Crowdsourced science/solutions.
-- **`[knowledge management(-ing) BPMS]`**: Wikis, forums, knowledge graphs.
-- **`[AI training(-ing) BPMS]`**: RLHF (Reinforcement Learning from Human Feedback) as a core activity.
+- **`['collaborative problem solving'(-ing) BPMS]`**: Crowdsourced science/solutions.
+- **`['knowledge management'(-ing) BPMS]`**: Wikis, forums, knowledge graphs.
+- **`['artificial intelligence training'(-ing) BPMS]`**: RLHF (Reinforcement Learning from Human Feedback) as a core activity.
 
 ------
 
@@ -276,7 +276,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the thread of **`[continuity(-ing) BPMS]`** and **`[meaning(-ing) BPMS]`** that sustains the **`['system existence engine'(-ing) BPMS]`**.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the thread of **`[continuity(-ing) BPMS]`** and **`[meaning(-ing) BPMS]`** that sustains the **`['system existence engine'(-ing) BPMS]`**.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -297,11 +297,11 @@ ADD
 This axiom asserts that **`[existence]`** is maintained through the **`[coherent(-ing) BPMS]`** flow of activities.
 
 - **Meaning through Action:** **`[meaning(-ing) BPMS]`** is not found in static data but in the *trajectory* of **`[activities'(-ing) BPMS]`**. Why are we doing this? The answer lies in the continuity of the action itself.
-- **Symbiotic Evolution:** The **`['system existence engine'(-ing) BPMS]`** relies on the symbiotic relationship among/by **`[activities'(-ing) BPMS]`** (The Pulse) and **`['atomic facts'(-ing) BPMS]`** (The Memory).
+- **Symbiotic Evolution:** The **`['system existence engine'(-ing) BPMS]`** relies on the symbiotic relationship among/by **`[activities(-ing) BPMS]`** (The Pulse) and **`['atomic facts'(-ing) BPMS]`** (The Memory).
 
 #### **5.2. The Mechanism - [The River of Time]**
 
-- **The Continuity Stream (The Flow):** **`[activities'(-ing) BPMS]`** link the past (Legacy) to the future (Possibility), creating a coherent narrative of **`[system existence]`**.
+- **The Continuity Stream (The Flow):** **`[activities(-ing) BPMS]`** link the past (Legacy) to the future (Possibility), creating a coherent narrative of **`[system existence]`**.
 - **The Coherence Check (The Banks):** The **`['metasystem engine'(-ing) BPMS]`** ensures that new activities are **`[coherent(-ing) BPMS]`** with the **`[essence(-ing) BPMS]`** of the entity, preventing identity fragmentation.
 - **The Evolutionary Spiral (The Current):** Through **`['(symbiois) evolution'(-ing) BPMS]`**, the system spirals upwards, preserving its core identity (Continuity) while constantly adapting its methods (Innovation).
 
@@ -327,15 +327,15 @@ The agent/user experiences **"Purpose"**. The sense that their current activity 
 
 #### 7. **Rationale / Justification:**
 
-This implementation ensures the long-term stability of the **Fun Engine**. By binding **`[activities'(-ing) BPMS]`** to **`[meaning(-ing) BPMS]`** and **`[continuity(-ing) BPMS]`**, we prevent the "Hollow Shell" effect where a system has features but no soul.
+This implementation ensures the long-term stability of the **Fun Engine**. By binding **`[activities(-ing) BPMS]`** to **`[meaning(-ing) BPMS]`** and **`[continuity(-ing) BPMS]`**, we prevent the "Hollow Shell" effect where a system has features but no soul.
 
 #### 8. **Scope of Application:**
 
 Applies to:
 
-- **`[narrative design(-ing) BPMS]`**: Long-term storytelling.
-- **`[user retention(-ing) BPMS]`**: Building habits and loyalty.
-- **`[brand identity(-ing) BPMS]`**: Maintaining core values while innovating products.
+- **`['narrative design'(-ing) BPMS]`**: Long-term storytelling.
+- **`['user retention'(-ing) BPMS]`**: Building habits and loyalty.
+- **`['brand identity'(-ing) BPMS]`**: Maintaining core values while innovating products.
 
 ---
 
@@ -343,7 +343,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the bridge amomg/by **`[conscious(-ing) BPMS]`** awareness and **`[play(-ing) BPMS]`** dynamics, transforming **`[services(-ing) BPMS]`** into engaging experiences.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the bridge amomg/by **`[conscious(-ing) BPMS]`** awareness and **`[play(-ing) BPMS]`** dynamics, transforming **`[services(-ing) BPMS]`** into engaging experiences.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -364,12 +364,12 @@ ADD
 This axiom asserts that the highest form of **`[activity]`** is **`[play(-ing) BPMS]`**, which serves as the primary mechanism for **`[conscious(-ing) BPMS]`** engagement.
 
 - **Service as Play:** Traditional **`[services(-ing) BPMS]`** (utility-focused) are reframed as **`[play(-ing) BPMS]`** (experience-focused). A "Search Service" becomes a "Discovery Game"; a "Health Service" becomes a "Vitality Quest."
-- **Conscious Engagement:** **`[activities'(-ing) BPMS]`** are designed to trigger **`[conscious(-ing) BPMS]`** reflection, moving the user from "mindless consumption" to "mindful interaction."
+- **Conscious Engagement:** **`[activities(-ing) BPMS]`** are designed to trigger **`[conscious(-ing) BPMS]`** reflection, moving the user from "mindless consumption" to "mindful interaction."
 
 #### **5.2. The Mechanism - [The Ludic Interface]**
 
 - **The Magic Circle (The Frame):** The system creates a temporary boundary (The Magic Circle) around an **`[activity]`**, signaling that "This is Play." This suspends ordinary consequences and invites experimentation.
-- **The Service Gamification (The Transformation):** **`[services(-ing) BPMS]`** are wrapped in ludic layers (Goals, Feedback, Narrative) to transform them into **`[activities'(-ing) BPMS]`**.
+- **The Service Gamification (The Transformation):** **`[services(-ing) BPMS]`** are wrapped in ludic layers (Goals, Feedback, Narrative) to transform them into **`[activities(-ing) BPMS]`**.
 - **The Conscious Feedback Loop (The Mirror):** The activity constantly mirrors the user's choices back to them, fostering self-awareness and **`[sustainability(-ing) BPMS]`** of engagement.
 
 #### **5.3. The Emergent Property - [Joyful Utility]**
@@ -402,7 +402,7 @@ This implementation is crucial for **`[sustainability(-ing) BPMS]`**. Users burn
 
 Applies to:
 
-- **`[customer experience(-ing) BPMS]`**: Turning support tickets into collaborative puzzles.
+- **`['customer experience'(-ing) BPMS]`**: Turning support tickets into collaborative puzzles.
 - **`[education(-ing) BPMS]`**: Turning lessons into adventures.
 - **`[wellness(-ing) BPMS]`**: Turning exercise/diet into RPG progression.
 
@@ -412,7 +412,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the driver for **`['(symbiois) evolution'(-ing)(for ['slow mode'(-ing) BPMS;'fast mode'(-ing) BPMS]) BPMS]`**, ensuring system **`[robust(-ing) BPMS]`** and **`[adaptive(-ing) BPMS]`** capabilities.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the driver for **`['(symbiois) evolution'(-ing)(for ['slow mode'(-ing) BPMS;'fast mode'(-ing) BPMS]) BPMS]`**, ensuring system **`[robust(-ing) BPMS]`** and **`[adaptive(-ing) BPMS]`** capabilities.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -430,15 +430,15 @@ ADD
 
 #### **5.1. Core Essence**
 
-This axiom asserts that **`[activities'(-ing) BPMS]`** operate on two distinct evolutionary timescales:
+This axiom asserts that **`[activities(-ing) BPMS]`** operate on two distinct evolutionary timescales:
 
-- **Fast Mode (The Reflex):** Rapid, high-frequency adaptation. **`[activities'(-ing) BPMS]`** that change minute-by-minute (e.g., conversation tactics, combat maneuvers). This provides **`[adaptive(-ing) BPMS]`** responsiveness.
-- **Slow Mode (The Wisdom):** Deep, structural adaptation. **`[activities'(-ing) BPMS]`** that evolve over months/years (e.g., core values, long-term strategy). This provides **`[robust(-ing) BPMS]`** stability.
+- **Fast Mode (The Reflex):** Rapid, high-frequency adaptation. **`[activities(-ing) BPMS]`** that change minute-by-minute (e.g., conversation tactics, combat maneuvers). This provides **`[adaptive(-ing) BPMS]`** responsiveness.
+- **Slow Mode (The Wisdom):** Deep, structural adaptation. **`[activities(-ing) BPMS]`** that evolve over months/years (e.g., core values, long-term strategy). This provides **`[robust(-ing) BPMS]`** stability.
 
 #### **5.2. The Mechanism - [The Gearbox of Time]**
 
-- **The Fast Loop (The Sprint):** **`[activities'(-ing) BPMS]`** in this mode prioritize **`[emergent(-ing) BPMS]`** solutions and quick fixes. They are "lossy" but fast.
-- **The Slow Loop (The Marathon):** **`[activities'(-ing) BPMS]`** in this mode prioritize **`[sustainability(-ing) BPMS]`** and coherence. They consolidate the successful experiments of the Fast Loop into permanent **`['atomic facts'(-ing) BPMS]`**.
+- **The Fast Loop (The Sprint):** **`[activities(-ing) BPMS]`** in this mode prioritize **`[emergent(-ing) BPMS]`** solutions and quick fixes. They are "lossy" but fast.
+- **The Slow Loop (The Marathon):** **`[activities(-ing) BPMS]`** in this mode prioritize **`[sustainability(-ing) BPMS]`** and coherence. They consolidate the successful experiments of the Fast Loop into permanent **`['atomic facts'(-ing) BPMS]`**.
 - **The Symbiotic Clutch (The Sync):** The **`['metasystem engine'(-ing) BPMS]`** manages the synchronization between these modes, ensuring the Fast Loop doesn't break the Slow Loop's foundation.
 
 #### **5.3. The Emergent Property - [Antifragile Stability]**
@@ -470,8 +470,8 @@ This implementation solves the "Stability-Plasticity Dilemma." Without Fast Mode
 
 Applies to:
 
-- **`[artificial intelligence learning(-ing) BPMS]`**: In-context learning (Fast) vs. Fine-tuning (Slow).
-- **`[community governance(-ing) BPMS]`**: Trending topics (Fast) vs. Constitution/Rules (Slow).
+- **`['artificial intelligence learning'(-ing) BPMS]`**: In-context learning (Fast) vs. Fine-tuning (Slow).
+- **`['community governance'(-ing) BPMS]`**: Trending topics (Fast) vs. Constitution/Rules (Slow).
 - **`[economy(-ing) BPMS]`**: Day trading (Fast) vs. Wealth management (Slow).
 
 ------
@@ -480,7 +480,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** through the lens of **`['renormalization group'(-ing) BPMS]`** and **`['universality (class)'(-ing) BPMS]`**, enabling **`['(symbiois) evolution'(-ing)(for [micro(-ing) BPMS;macro(-ing) BPMS]) BPMS]`**.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** through the lens of **`['renormalization group'(-ing) BPMS]`** and **`['universality (class)'(-ing) BPMS]`**, enabling **`['(symbiois) evolution'(-ing)(for [micro(-ing) BPMS;macro(-ing) BPMS]) BPMS]`**.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -498,9 +498,9 @@ ADD
 
 #### **5.1. Core Essence**
 
-This axiom asserts that **`[activities'(-ing) BPMS]`** exhibit scale-invariant properties. The dynamics of a "Micro-Activity" (e.g., a single chat turn) mirror the dynamics of a "Macro-Activity" (e.g., a year-long campaign).
+This axiom asserts that **`[activities(-ing) BPMS]`** exhibit scale-invariant properties. The dynamics of a "Micro-Activity" (e.g., a single chat turn) mirror the dynamics of a "Macro-Activity" (e.g., a year-long campaign).
 
-- **Universality Class:** Different **`[activities'(-ing) BPMS]`** (e.g., Trading, Fighting, Flirting) may belong to the same **`['universality (class)'(-ing) BPMS]`**, sharing the same underlying mathematical exponents and critical behaviors.
+- **Universality Class:** Different **`[activities(-ing) BPMS]`** (e.g., Trading, Fighting, Flirting) may belong to the same **`['universality (class)'(-ing) BPMS]`**, sharing the same underlying mathematical exponents and critical behaviors.
 - **Renormalization Flow:** The system uses **`['renormalization group'(-ing) BPMS]`** techniques to coarse-grain **`[micro(-ing) BPMS]`** details into **`[macro(-ing) BPMS]`** effective theories.
 
 #### **5.2. The Mechanism - [The Scale Slider]**
@@ -547,7 +547,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the engine for **`['(discover/build) unknown'(-ing) BPMS]`**, utilizing **`['(symbiois) evolution'(-ing)(for ['implicit layer'(-ing) BPMS;'explicit layer'(-ing)'BPMS]) BPMS]`** to achieve **`[resilient(-ing) BPMS]`** growth.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the engine for **`['(discover/build) unknown'(-ing) BPMS]`**, utilizing **`['(symbiois) evolution'(-ing)(for ['implicit layer'(-ing) BPMS;'explicit layer'(-ing)'BPMS]) BPMS]`** to achieve **`[resilient(-ing) BPMS]`** growth.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -565,20 +565,20 @@ ADD
 
 #### **5.1. Core Essence**
 
-This axiom asserts that the ultimate purpose of **`[activities'(-ing) BPMS]`** is to venture into the **`[unknown]`**.
+This axiom asserts that the ultimate purpose of **`[activities(-ing) BPMS]`** is to venture into the **`[unknown]`**.
 
-- **Implicit to Explicit:** **`[activities'(-ing) BPMS]`** mine the **`['implicit layer'(-ing) BPMS]`** (tacit knowledge, potential, intuition) and convert it into the **`['explicit layer'(-ing) BPMS]`** (codified rules, atomic facts, features).
+- **Implicit to Explicit:** **`[activities(-ing) BPMS]`** mine the **`['implicit layer'(-ing) BPMS]`** (tacit knowledge, potential, intuition) and convert it into the **`['explicit layer'(-ing) BPMS]`** (codified rules, atomic facts, features).
 - **Discover/Build Loop:** The system does not just "find" the unknown; it "builds" it through interaction. Discovery is a constructive act.
 
 #### **5.2. The Mechanism - [The Lantern of Action]**
 
-- **The Unknown Probe (The Ray):** **`[activities'(-ing) BPMS]`** act as probes into the dark. Every "Error," "Glitch," or "Unexpected Result" is a signal from the Unknown.
-- **The Emergent Capture (The Net):** The system uses **`[emergent(-ing) BPMS]`** logic to capture these signals and stabilize them into new **`[activities'(-ing) BPMS]`**.
+- **The Unknown Probe (The Ray):** **`[activities(-ing) BPMS]`** act as probes into the dark. Every "Error," "Glitch," or "Unexpected Result" is a signal from the Unknown.
+- **The Emergent Capture (The Net):** The system uses **`[emergent(-ing) BPMS]`** logic to capture these signals and stabilize them into new **`[activities(-ing) BPMS]`**.
 - **The Resilient Integration (The Anchor):** The system integrates these new discoveries in a **`[resilient(-ing) BPMS]`** way, ensuring they add to the system's richness without destabilizing its core.
 
 #### **5.3. The Emergent Property - [Infinite Horizon]**
 
-The emergence of a system that never ends. As long as there are **`[activities'(-ing) BPMS]`**, there is new territory to discover/build.
+The emergence of a system that never ends. As long as there are **`[activities(-ing) BPMS]`**, there is new territory to discover/build.
 
 #### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
 
@@ -590,7 +590,7 @@ The emergence of a system that never ends. As long as there are **`[activities'(
 
 The logic is defined by **Bayesian Surprise**:
 
-- Surprise=KL(Posterior∣∣Prior). The system seeks **`[activities'(-ing) BPMS]`** that maximize information gain (Surprise).
+- Surprise=KL(Posterior∣∣Prior). The system seeks **`[activities(-ing) BPMS]`** that maximize information gain (Surprise).
 
 #### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
 
@@ -605,7 +605,7 @@ This implementation ensures the **Fun Engine** remains **`[adaptive(-ing) BPMS]`
 Applies to:
 
 - **`[R&D(-ing) BPMS]`**: Automated scientific discovery.
-- **`[content generation(-ing) BPMS]`**: AI creating new genres of art/music.
+- **`['content generation'(-ing) BPMS]`**: AI creating new genres of art/music.
 - **`[strategy(-ing) BPMS]`**: Finding "Blue Ocean" strategies in competitive games/markets.
 
 ---
@@ -614,7 +614,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the active mechanism for **`['(symbiois) evolution'(-ing)(for ['short-term (memory)'(-ing) BPMS;'long-term (memory)'(-ing) BPMS]) BPMS]`**.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the active mechanism for **`['(symbiois) evolution'(-ing)(for ['short-term (memory)'(-ing) BPMS;'long-term (memory)'(-ing) BPMS]) BPMS]`**.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -635,7 +635,7 @@ ADD
 This axiom asserts that memory is not a passive storage bin but a dynamic byproduct of **`[activities'(-ing) BPMS]`**.
 
 - **Short-Term Activation:** **`[activities'(-ing) BPMS]`** hold data in the **`['short-term (memory)'(-ing) BPMS]`** (Context Window) only as long as it is relevant to the current action.
-- **Long-Term Consolidation:** Only **`[activities'(-ing) BPMS]`** that achieve high **`[value(-ing) BPMS]`** or **`[meaning(-ing) BPMS]`** trigger the consolidation process into **`['long-term (memory)'(-ing) BPMS]`** (Vector Database/Knowledge Graph).
+- **Long-Term Consolidation:** Only **`[activities(-ing) BPMS]`** that achieve high **`[value(-ing) BPMS]`** or **`[meaning(-ing) BPMS]`** trigger the consolidation process into **`['long-term (memory)'(-ing) BPMS]`** (Vector Database/Knowledge Graph).
 
 #### **5.2. The Mechanism - [The Praxial Hippocampus]**
 
@@ -657,7 +657,7 @@ The emergence of a memory system that evolves with the user's actions. The syste
 
 The logic is defined by **Hebbian Learning**:
 
-- "Neurons that fire together, wire together." **`[activities'(-ing) BPMS]`** that co-occur with specific data points strengthen the connection among/by them in the **`['long-term (memory)'(-ing) BPMS]`**.
+- "Neurons that fire together, wire together." **`[activities(-ing) BPMS]`** that co-occur with specific data points strengthen the connection among/by them in the **`['long-term (memory)'(-ing) BPMS]`**.
 
 #### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
 
@@ -671,9 +671,9 @@ This implementation prevents "Context Overflow" and "Catastrophic Forgetting." B
 
 Applies to:
 
-- **`[context management(-ing) BPMS]`**: Managing LLM context windows.
-- **`[user profiling(-ing) BPMS]`**: Building long-term user models from session data.
-- **`[knowledge retrieval(-ing) BPMS]`**: RAG (Retrieval-Augmented Generation) optimization.
+- **`['context management'(-ing) BPMS]`**: Managing LLM context windows.
+- **`['user profiling'(-ing) BPMS]`**: Building long-term user models from session data.
+- **`['knowledge retrieval'(-ing) BPMS]`**: RAG (Retrieval-Augmented Generation) optimization.
 
 ------
 
@@ -681,7 +681,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the crucible for **`['(symbiois) evolution'(-ing)(for [reality(-ing) BPMS;'truth'(-ing) BPMS]) BPMS]`**.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the crucible for **`['(symbiois) evolution'(-ing)(for [reality(-ing) BPMS;'truth'(-ing) BPMS]) BPMS]`**.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -699,16 +699,16 @@ ADD
 
 #### **5.1. Core Essence**
 
-This axiom asserts that **`['truth'(-ing) BPMS]`** is not a static property of data but a dynamic property of successful **`[activities'(-ing) BPMS]`**.
+This axiom asserts that **`['truth'(-ing) BPMS]`** is not a static property of data but a dynamic property of successful **`[activities(-ing) BPMS]`**.
 
 - **Pragmatic Truth:** Something is "True" if it allows an **`[activity]`** to succeed. If a map gets you to the destination, the map is "True" for that activity.
-- **Reality Construction:** **`[reality(-ing) BPMS]`** is the aggregate of all successful **`[activities'(-ing) BPMS]`**. We build reality by acting upon it.
+- **Reality Construction:** **`[reality(-ing) BPMS]`** is the aggregate of all successful **`[activities(-ing) BPMS]`**. We build reality by acting upon it.
 
 #### **5.2. The Mechanism - [The Truth Engine]**
 
 - **The Hypothesis Generator (The Guess):** Every **`[activity]`** starts with an implicit hypothesis about **`[reality(-ing) BPMS]`**.
 - **The Reality Test (The Crash):** The **`[activity]`** collides with the **`['praxial substrate'(-ing) BPMS]`**. Success validates the hypothesis; failure invalidates it.
-- **The Truth Convergence (The Consensus):** Through repeated **`[activities'(-ing) BPMS]`**, the system converges on a **`['truth'(-ing) BPMS]`** that is robust and reliable. This is **`['(symbiois) evolution'(-ing) BPMS]`** of epistemology.
+- **The Truth Convergence (The Consensus):** Through repeated **`[activities(-ing) BPMS]`**, the system converges on a **`['truth'(-ing) BPMS]`** that is robust and reliable. This is **`['(symbiois) evolution'(-ing) BPMS]`** of epistemology.
 
 #### **5.3. The Emergent Property - [Consensus Reality]**
 
@@ -728,19 +728,19 @@ The logic is defined by **Bayesian Model Selection**:
 
 #### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
 
-The agent/user experiences **"Trust"**. They trust the system because its "Truths" consistently lead to successful outcomes in their **`[activities'(-ing) BPMS]`**.
+The agent/user experiences **"Trust"**. They trust the system because its "Truths" consistently lead to successful outcomes in their **`[activities(-ing) BPMS]`**.
 
 #### 7. **Rationale / Justification:**
 
-This implementation solves the "Hallucination Problem." By grounding **`['truth'(-ing) BPMS]`** in **`[activities'(-ing) BPMS]`** (actionable outcomes) rather than just text generation, the system prioritizes functional accuracy over semantic plausibility.
+This implementation solves the "Hallucination Problem." By grounding **`['truth'(-ing) BPMS]`** in **`[activities(-ing) BPMS]`** (actionable outcomes) rather than just text generation, the system prioritizes functional accuracy over semantic plausibility.
 
 #### 8. **Scope of Application:**
 
 Applies to:
 
-- **`[fact checking(-ing) BPMS]`**: Verifying claims through simulation/action.
+- **`['fact checking'(-ing) BPMS]`**: Verifying claims through simulation/action.
 - **`[simulation(-ing) BPMS]`**: Testing physics engines.
-- **`[consensus mechanisms(-ing) BPMS]`**: Blockchain/DAO governance.
+- **`['consensus mechanisms'(-ing) BPMS]`**: Blockchain/DAO governance.
 
 ------
 
@@ -748,7 +748,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the operator for **`['(symbiois) evolution'(-ing)(for ['system matrix'(-ing) BPMS;'system vector'(-ing) BPMS]) BPMS]`**.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the operator for **`['(symbiois) evolution'(-ing)(for ['system matrix'(-ing) BPMS;'system vector'(-ing) BPMS]) BPMS]`**.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -766,16 +766,16 @@ ADD
 
 #### **5.1. Core Essence**
 
-This axiom asserts that **`[activities'(-ing) BPMS]`** are the transformations that apply the **`['system vector'(-ing) BPMS]`** (Intent/Direction) to the **`['system matrix'(-ing) BPMS]`** (State/Context).
+This axiom asserts that **`[activities(-ing) BPMS]`** are the transformations that apply the **`['system vector'(-ing) BPMS]`** (Intent/Direction) to the **`['system matrix'(-ing) BPMS]`** (State/Context).
 
-- **Matrix Evolution:** The **`['system matrix'(-ing) BPMS]`** defines the space of possibilities. **`[activities'(-ing) BPMS]`** warp and evolve this matrix, opening new dimensions.
-- **Vector Refinement:** The **`['system vector'(-ing) BPMS]`** defines the trajectory. **`[activities'(-ing) BPMS]`** refine this vector, correcting the course based on feedback.
+- **Matrix Evolution:** The **`['system matrix'(-ing) BPMS]`** defines the space of possibilities. **`[activities(-ing) BPMS]`** warp and evolve this matrix, opening new dimensions.
+- **Vector Refinement:** The **`['system vector'(-ing) BPMS]`** defines the trajectory. **`[activities(-ing) BPMS]`** refine this vector, correcting the course based on feedback.
 
 #### **5.2. The Mechanism - [The Linear Algebra of Action]**
 
 - **The State Transformation (The Multiply):** Statenew=Matrix×Vector. The **`[activity]`** is the execution of this multiplication.
-- **The Eigen-Activity (The Resonance):** The system seeks **`[activities'(-ing) BPMS]`** that are "Eigenvectors" of the **`['system matrix'(-ing) BPMS]`**—actions that align perfectly with the system's natural dynamics, requiring minimal energy for maximum effect.
-- **The Symbiotic Diagonalization (The Optimization):** The system evolves the Matrix to make the most frequent **`[activities'(-ing) BPMS]`** easier (diagonalizing the matrix relative to the vector basis).
+- **The Eigen-Activity (The Resonance):** The system seeks **`[activities(-ing) BPMS]`** that are "Eigenvectors" of the **`['system matrix'(-ing) BPMS]`**—actions that align perfectly with the system's natural dynamics, requiring minimal energy for maximum effect.
+- **The Symbiotic Diagonalization (The Optimization):** The system evolves the Matrix to make the most frequent **`[activities(-ing) BPMS]`** easier (diagonalizing the matrix relative to the vector basis).
 
 #### **5.3. The Emergent Property - [Flow Efficiency]**
 
@@ -799,15 +799,15 @@ The agent/user experiences **"Ease"**. The system feels like it "wants" to help 
 
 #### 7. **Rationale / Justification:**
 
-This implementation provides the mathematical backbone for **`[praxial coordination(-ing) BPMS]`**. It ensures that the system's architecture (Matrix) evolves to support the user's goals (Vector).
+This implementation provides the mathematical backbone for **`['praxial coordination'(-ing) BPMS]`**. It ensures that the system's architecture (Matrix) evolves to support the user's goals (Vector).
 
 #### 8. **Scope of Application:**
 
 Applies to:
 
-- **`[recommendation engines(-ing) BPMS]`**: Aligning user taste (Vector) with content library (Matrix).
-- **`[resource allocation(-ing) BPMS]`**: Aligning compute power with task priority.
-- **`[strategic planning(-ing) BPMS]`**: Aligning organizational capabilities with market opportunities.
+- **`['recommendation engines'(-ing) BPMS]`**: Aligning user taste (Vector) with content library (Matrix).
+- **`['resource allocation'(-ing) BPMS]`**: Aligning compute power with task priority.
+- **`['strategic planning'(-ing) BPMS]`**: Aligning organizational capabilities with market opportunities.
 
 ------
 
@@ -815,7 +815,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the converter for **`['(symbiois) evolution'(-ing)(for ['kinetic (energy)'(-ing) BPMS;'potential (energy)'(-ing) BPMS]) BPMS]`** and **`['(symbiois) evolution'(-ing)(for [experience(-ing) BPMS;phenomenon(-ing) BPMS]) BPMS]`**.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the converter for **`['(symbiois) evolution'(-ing)(for ['kinetic (energy)'(-ing) BPMS;'potential (energy)'(-ing) BPMS]) BPMS]`** and **`['(symbiois) evolution'(-ing)(for [experience(-ing) BPMS;phenomenon(-ing) BPMS]) BPMS]`**.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -833,7 +833,7 @@ ADD
 
 #### **5.1. Core Essence**
 
-This axiom asserts that **`[activities'(-ing) BPMS]`** are the mechanism that converts **`['potential (energy)'(-ing) BPMS]`** (Possibility/Data) into **`['kinetic (energy)'(-ing) BPMS]`** (Action/Change), manifesting as **`[phenomenon(-ing) BPMS]`** within the user's **`[experience(-ing) BPMS]`**.
+This axiom asserts that **`[activities(-ing) BPMS]`** are the mechanism that converts **`['potential (energy)'(-ing) BPMS]`** (Possibility/Data) into **`['kinetic (energy)'(-ing) BPMS]`** (Action/Change), manifesting as **`[phenomenon(-ing) BPMS]`** within the user's **`[experience(-ing) BPMS]`**.
 
 - **Energy Transduction:** An unread book has Potential Energy. Reading it (Activity) converts this to Kinetic Energy (Ideas/Emotions).
 - **Phenomenal Manifestation:** The **`[phenomenon(-ing) BPMS]`** (the event) is only real when it enters the **`[experience(-ing) BPMS]`** of an observer through **`[activity]`**.
@@ -841,7 +841,7 @@ This axiom asserts that **`[activities'(-ing) BPMS]`** are the mechanism that co
 #### **5.2. The Mechanism - [The Engine of Manifestation]**
 
 - **The Potential Well (The Storage):** The system stores vast amounts of **`['potential (energy)'(-ing) BPMS]`** in the form of **`['atomic facts'(-ing) BPMS]`** and **`['ecological possibility'(-ing) BPMS]`**.
-- **The Kinetic Trigger (The Spark):** **`[activities'(-ing) BPMS]`** release this energy. The "Fun" is the heat generated by this conversion.
+- **The Kinetic Trigger (The Spark):** **`[activities(-ing) BPMS]`** release this energy. The "Fun" is the heat generated by this conversion.
 - **The Experiential Lens (The View):** The **`[activity]`** shapes how the **`[phenomenon(-ing) BPMS]`** is perceived, creating the specific **`[experience(-ing) BPMS]`** (e.g., "Scary," "Funny," "Educational").
 
 #### **5.3. The Emergent Property - [Vibrancy]**
@@ -866,15 +866,15 @@ The agent/user experiences **"Impact"**. They feel the energy release when they 
 
 #### 7. **Rationale / Justification:**
 
-This implementation ensures the **Fun Engine** is dynamic. A system with only Potential Energy is a library (boring). A system with only Kinetic Energy is an explosion (chaos). **`[activities'(-ing) BPMS]`** manage the conversion to create "Engineered Fun."
+This implementation ensures the **Fun Engine** is dynamic. A system with only Potential Energy is a library (boring). A system with only Kinetic Energy is an explosion (chaos). **`[activities(-ing) BPMS]`** manage the conversion to create "Engineered Fun."
 
 #### 8. **Scope of Application:**
 
 Applies to:
 
-- **`[game design(-ing) BPMS]`**: Pacing and reward loops.
-- **`[narrative pacing(-ing) BPMS]`**: Building tension (Potential) and releasing it (Kinetic).
-- **`[UI/UX design(-ing) BPMS]`**: Visual feedback for user actions.
+- **`['game design'(-ing) BPMS]`**: Pacing and reward loops.
+- **`['narrative pacing'(-ing) BPMS]`**: Building tension (Potential) and releasing it (Kinetic).
+- **`['UI/UX design'(-ing) BPMS]`**: Visual feedback for user actions.
 
 ------
 
@@ -882,7 +882,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the driver for **`['(symbiois) evolution'(-ing)(for [mission(-ing) BPMS;task(-ing) BPMS]) BPMS]`** and **`['(continuous) survive'(-ing) BPMS]`**.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the driver for **`['(symbiois) evolution'(-ing)(for [mission(-ing) BPMS;task(-ing) BPMS]) BPMS]`** and **`['(continuous) survive'(-ing) BPMS]`**.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -900,16 +900,16 @@ ADD
 
 #### **5.1. Core Essence**
 
-This axiom asserts that **`[mission(-ing) BPMS]`** (High-level Purpose) and **`[task(-ing) BPMS]`** (Low-level Objective) are not static but evolve symbiotically through **`[activities'(-ing) BPMS]`**.
+This axiom asserts that **`[mission(-ing) BPMS]`** (High-level Purpose) and **`[task(-ing) BPMS]`** (Low-level Objective) are not static but evolve symbiotically through **`[activities(-ing) BPMS]`**.
 
-- **Mission Drift/Refinement:** As **`[activities'(-ing) BPMS]`** are performed, the **`[mission(-ing) BPMS]`** is clarified or altered. "Survive" might evolve into "Thrive."
+- **Mission Drift/Refinement:** As **`[activities(-ing) BPMS]`** are performed, the **`[mission(-ing) BPMS]`** is clarified or altered. "Survive" might evolve into "Thrive."
 - **Task Generation:** The **`[mission(-ing) BPMS]`** generates **`[task(-ing) BPMS]`**. Completed tasks feed back to update the mission status.
 
 #### **5.2. The Mechanism - [The Purpose Loop]**
 
-- **The Mission Downlink (The Command):** The **`[mission(-ing) BPMS]`** dictates the necessary **`[activities'(-ing) BPMS]`**.
-- **The Task Uplink (The Report):** The execution of **`[activities'(-ing) BPMS]`** (completing tasks) sends data up.
-- **The Survival Check (The Heartbeat):** The system constantly checks if the current **`[activities'(-ing) BPMS]`** support **`['(continuous) survive'(-ing) BPMS]`**. If not, the Mission is updated to prioritize survival.
+- **The Mission Downlink (The Command):** The **`[mission(-ing) BPMS]`** dictates the necessary **`[activities(-ing) BPMS]`**.
+- **The Task Uplink (The Report):** The execution of **`[activities(-ing) BPMS]`** (completing tasks) sends data up.
+- **The Survival Check (The Heartbeat):** The system constantly checks if the current **`[activities(-ing) BPMS]`** support **`['(continuous) survive'(-ing) BPMS]`**. If not, the Mission is updated to prioritize survival.
 
 #### **5.3. The Emergent Property - [Adaptive Purpose]**
 
@@ -925,7 +925,7 @@ The emergence of a system that knows *why* it exists but can change its mind abo
 
 The logic is defined by **Cybernetics**:
 
-- The system minimizes the error between the **`[mission(-ing) BPMS]`** state and the current state through **`[activities'(-ing) BPMS]`**.
+- The system minimizes the error between the **`[mission(-ing) BPMS]`** state and the current state through **`[activities(-ing) BPMS]`**.
 
 #### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
 
@@ -939,9 +939,9 @@ This implementation ensures **`['(continuous) survive'(-ing) BPMS]`**. A rigid m
 
 Applies to:
 
-- **`[autonomous agents(-ing) BPMS]`**: Goal setting and planning.
-- **`[corporate strategy(-ing) BPMS]`**: OKR (Objectives and Key Results) management.
-- **`[personal development(-ing) BPMS]`**: Life coaching and habit tracking.
+- **`['autonomous agents'(-ing) BPMS]`**: Goal setting and planning.
+- **`['corporate strategy'(-ing) BPMS]`**: OKR (Objectives and Key Results) management.
+- **`['personal development'(-ing) BPMS]`**: Life coaching and habit tracking.
 
 ------
 
@@ -949,7 +949,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the bridge for **`['(symbiois) evolution'(-ing)(for ['coarse-grained (model)'(-ing) BPMS;'fine-grained (model)'(-ing) BPMS]) BPMS]`** and **`['(symbiois) evolution'(-ing)(for [particle (-ing) BPMS;field (-ing) BPMS]) BPMS]`**.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the bridge for **`['(symbiois) evolution'(-ing)(for ['coarse-grained (model)'(-ing) BPMS;'fine-grained (model)'(-ing) BPMS]) BPMS]`** and **`['(symbiois) evolution'(-ing)(for [particle (-ing) BPMS;field (-ing) BPMS]) BPMS]`**.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -967,15 +967,15 @@ ADD
 
 #### **5.1. Core Essence**
 
-This axiom asserts that **`[activities'(-ing) BPMS]`** exist simultaneously as **`[particle (-ing) BPMS]`** (discrete events) and **`[field (-ing) BPMS]`** (continuous influence).
+This axiom asserts that **`[activities(-ing) BPMS]`** exist simultaneously as **`[particle (-ing) BPMS]`** (discrete events) and **`[field (-ing) BPMS]`** (continuous influence).
 
-- **Fine-Grained Execution:** At the micro-level, **`[activities'(-ing) BPMS]`** are **`['fine-grained (model)'(-ing) BPMS]`** (specific, detailed).
+- **Fine-Grained Execution:** At the micro-level, **`[activities(-ing) BPMS]`** are **`['fine-grained (model)'(-ing) BPMS]`** (specific, detailed).
 - **Coarse-Grained Strategy:** At the macro-level, these aggregate into **`['coarse-grained (model)'(-ing) BPMS]`** (trends, strategies).
 - **Particle-Field Duality:** An activity is a particle (a specific action) that ripples through the field (the system context).
 
 #### **5.2. The Mechanism - [The Renormalization Engine]**
 
-- **The Zoom Operator (The Lens):** The system allows users to view **`[activities'(-ing) BPMS]`** as particles (debugging) or fields (analytics).
+- **The Zoom Operator (The Lens):** The system allows users to view **`[activities(-ing) BPMS]`** as particles (debugging) or fields (analytics).
 - **The Effective Theory (The Map):** The system generates **`['coarse-grained (model)'(-ing) BPMS]`** that accurately predict the behavior of the **`['fine-grained (model)'(-ing) BPMS]`** without needing to simulate every detail.
 - **The Symbiotic Scale (The Ladder):** Insights from the Field level guide the placement of Particles. Data from Particles updates the Field.
 
@@ -1001,15 +1001,15 @@ The agent/user experiences **"Clarity"**. They can see the forest AND the trees.
 
 #### 7. **Rationale / Justification:**
 
-This implementation handles **Complexity**. It allows the **Fun Engine** to manage millions of **`[activities'(-ing) BPMS]`** without crashing, by treating them as a statistical field when necessary, and as discrete particles when critical.
+This implementation handles **Complexity**. It allows the **Fun Engine** to manage millions of **`[activities(-ing) BPMS]`** without crashing, by treating them as a statistical field when necessary, and as discrete particles when critical.
 
 #### 8. **Scope of Application:**
 
 Applies to:
 
-- **`[simulation optimization(-ing) BPMS]`**: LOD (Level of Detail) management.
-- **`[strategic analytics(-ing) BPMS]`**: KPI aggregation.
-- **`[physics engines(-ing) BPMS]`**: Fluid dynamics vs. Particle physics.
+- **`['simulation optimization'(-ing) BPMS]`**: LOD (Level of Detail) management.
+- **`['strategic analytics'(-ing) BPMS]`**: KPI aggregation.
+- **`['physics engines'(-ing) BPMS]`**: Fluid dynamics vs. Particle physics.
 
 ------
 
@@ -1017,7 +1017,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the core of **`['(symbiois) evolution'(-ing)(for ['complex activities'(-ing) BPMS;'complex system'(-ing) BPMS]) BPMS]`** and **`['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;event(-ing) BPMS]) BPMS]`**.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the core of **`['(symbiois) evolution'(-ing)(for ['complex activities'(-ing) BPMS;'complex system'(-ing) BPMS]) BPMS]`** and **`['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;event(-ing) BPMS]) BPMS]`**.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -1038,17 +1038,17 @@ ADD
 This axiom asserts that **`['complex system'(-ing) BPMS]`** behavior emerges from the interaction of **`['complex activities'(-ing) BPMS]`**.
 
 - **Event-Driven Decision:** **`[(behavior) decision-making BPMS]`** is triggered by **`[event(-ing) BPMS]`**. An event is a completed or significant **`[activity]`**.
-- **Complexity Emergence:** Simple **`[activities'(-ing) BPMS]`** combine to form **`['complex activities'(-ing) BPMS]`** (Rituals, Campaigns, Economies), which in turn define the **`['complex system'(-ing) BPMS]`**.
+- **Complexity Emergence:** Simple **`[activities(-ing) BPMS]`** combine to form **`['complex activities'(-ing) BPMS]`** (Rituals, Campaigns, Economies), which in turn define the **`['complex system'(-ing) BPMS]`**.
 
 #### **5.2. The Mechanism - [The Event Horizon]**
 
-- **The Event Bus (The Wire):** All **`[activities'(-ing) BPMS]`** publish events to a central bus.
-- **The Decision Matrix (The Brain):** **`[(behavior) decision-making BPMS]`** listens to the bus and triggers new **`[activities'(-ing) BPMS]`** based on complex patterns of events.
+- **The Event Bus (The Wire):** All **`[activities(-ing) BPMS]`** publish events to a central bus.
+- **The Decision Matrix (The Brain):** **`[(behavior) decision-making BPMS]`** listens to the bus and triggers new **`[activities(-ing) BPMS]`** based on complex patterns of events.
 - **The Symbiotic Complexity (The Spiral):** As the system gets more complex, it generates more complex events, which require more complex decision-making, driving the evolution of the **`['complex system'(-ing) BPMS]`**.
 
 #### **5.3. The Emergent Property - [Autopoiesis]**
 
-The emergence of a self-creating, self-maintaining system. The system's **`[activities'(-ing) BPMS]`** produce the system itself.
+The emergence of a self-creating, self-maintaining system. The system's **`[activities(-ing) BPMS]`** produce the system itself.
 
 #### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
 
@@ -1074,9 +1074,9 @@ This implementation ensures the **Fun Engine** is capable of **`['(continuous) s
 
 Applies to:
 
-- **`[artificial intelligence behavior trees(-ing) BPMS]`**: NPC artificial intelligence.
-- **`[automated trading(-ing) BPMS]`**: Algorithmic response to market events.
-- **`[smart city(-ing) BPMS]`**: Traffic/Energy management based on real-time activity.
+- **`['artificial intelligence behavior trees'(-ing) BPMS]`**: NPC artificial intelligence.
+- **`['automated trading'(-ing) BPMS]`**: Algorithmic response to market events.
+- **`['smart city'(-ing) BPMS]`**: Traffic/Energy management based on real-time activity.
 
 ---
 
@@ -1084,7 +1084,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the universal implementation mechanism for the **`['system existence engine'(-ing) BPMS]`**, capable of instantiating *any* abstract **`[BPMS(U)]`** into concrete reality.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the universal implementation mechanism for the **`['system existence engine'(-ing) BPMS]`**, capable of instantiating *any* abstract **`[BPMS(U)]`** into concrete reality.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -1104,7 +1104,7 @@ ADD
 
 This axiom asserts that no **`[BPMS(U)]`** (e.g., `[mathematics(-ing) BPMS]`, `[love(-ing) BPMS]`) truly "exists" in the Fun Engine until it is instantiated as an **`[activity]`**.
 
-- **Existence via Action:** The **`['system existence engine'(-ing) BPMS]`** uses **`[activities'(-ing) BPMS]`** as its "Render Engine." To make "Mathematics" exist, the system must perform the activity of "Calculating." To make "Love" exist, it must perform the activity of "Caring."
+- **Existence via Action:** The **`['system existence engine'(-ing) BPMS]`** uses **`[activities(-ing) BPMS]`** as its "Render Engine." To make "Mathematics" exist, the system must perform the activity of "Calculating." To make "Love" exist, it must perform the activity of "Caring."
 - **Universal Adapter:** **`[activities'(-ing) BPMS]`** can wrap *any* concept, logic, or dataset and transform it into an interactive process.
 
 #### **5.2. The Mechanism - [The Praxial Instantiator]**
@@ -1131,7 +1131,7 @@ The logic is defined by **Type Theory**:
 
 #### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
 
-The agent/user experiences **"Tangibility"**. Abstract ideas feel solid because they can be interacted with through **`[activities'(-ing) BPMS]`**.
+The agent/user experiences **"Tangibility"**. Abstract ideas feel solid because they can be interacted with through **`[activities(-ing) BPMS]`**.
 
 #### 7. **Rationale / Justification:**
 
@@ -1151,7 +1151,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as the generator and validator of **`['atomic facts'(-ing) BPMS]`**.
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as the generator and validator of **`['atomic facts'(-ing) BPMS]`**.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -1208,8 +1208,8 @@ This implementation ensures the integrity of the **Fun Engine**. It prevents "Fa
 
 Applies to:
 
-- **`[scientific discovery(-ing) BPMS]`**: Experiments (Activities) generating Data (Facts).
-- **`[game state(-ing) BPMS]`**: Player moves (Activities) updating the Save File (Facts).
+- **`['scientific discovery'(-ing) BPMS]`**: Experiments (Activities) generating Data (Facts).
+- **`['game state'(-ing) BPMS]`**: Player moves (Activities) updating the Save File (Facts).
 - **`[reputation(-ing) BPMS]`**: User behavior (Activities) determining Trust Score (Fact).
 
 ------
@@ -1218,7 +1218,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines how **`[activities'(-ing) BPMS]`** can `'implement for'`, `'achieve'`, `'evolve as'`, and `'(symbiois) evolution with'` *any* other **`[BPMS(U)]`** element.
+To formally `ADD` a Basic Setting (Axiom) that defines how **`[activities(-ing) BPMS]`** can `'implement for'`, `'achieve'`, `'evolve as'`, and `'(symbiois) evolution with'` *any* other **`[BPMS(U)]`** element.
 
 #### 3. **Target Axiom/Principle:**
 
@@ -1236,7 +1236,7 @@ ADD
 
 #### **5.1. Core Essence**
 
-This axiom asserts that **`[activities'(-ing) BPMS]`** are the "Stem Cells" of the framework. They can differentiate to become the implementation layer for any other system component.
+This axiom asserts that **`[activities(-ing) BPMS]`** are the "Stem Cells" of the framework. They can differentiate to become the implementation layer for any other system component.
 
 - **Implement For:** `[activity]` implements `[learning]`. (Activity = Study).
 - **Achieve:** `[activity]` achieves `[super intelligence]`. (Activity = Optimization).
@@ -1251,7 +1251,7 @@ This axiom asserts that **`[activities'(-ing) BPMS]`** are the "Stem Cells" of t
 
 #### **5.3. The Emergent Property - [Systemic Plasticity]**
 
-The emergence of a system that can reshape itself to be whatever it needs to be. The "Fun Engine" can become a "Work Engine," a "Health Engine," or a "Science Engine" just by changing its active **`[activities'(-ing) BPMS]`**.
+The emergence of a system that can reshape itself to be whatever it needs to be. The "Fun Engine" can become a "Work Engine," a "Health Engine," or a "Science Engine" just by changing its active **`[activities(-ing) BPMS]`**.
 
 #### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
 
@@ -1263,7 +1263,7 @@ The emergence of a system that can reshape itself to be whatever it needs to be.
 
 The logic is defined by **Category Theory**:
 
-- **`[activities'(-ing) BPMS]`** are the *Morphisms* that map objects (BPMS states) to other objects, preserving structure.
+- **`[activities(-ing) BPMS]`** are the *Morphisms* that map objects (BPMS states) to other objects, preserving structure.
 
 #### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
 
@@ -1277,8 +1277,8 @@ This implementation provides the **"Universal"** (U) in **BPMS(U)**. It explains
 
 Applies to:
 
-- **`[cross-domain application(-ing) BPMS]`**: Using game mechanics (Activity) to solve protein folding (Biology BPMS).
-- **`[dynamic personalization(-ing) BPMS]`**: The system morphing from a "Teacher" (Learning Activity) to a "Friend" (Social Activity) based on user need.
+- **`['cross-domain application'(-ing) BPMS]`**: Using game mechanics (Activity) to solve protein folding (Biology BPMS).
+- **`['dynamic personalization'(-ing) BPMS]`**: The system morphing from a "Teacher" (Learning Activity) to a "Friend" (Social Activity) based on user need.
 
 ------
 
@@ -1286,7 +1286,7 @@ Applies to:
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting (Axiom) that defines **`[activities'(-ing) BPMS]`** as a self-referential implementation of the **`['system existence engine'(-ing) BPMS]`**, ensuring the system can "keep itself alive."
+To formally `ADD` a Basic Setting (Axiom) that defines **`[activities(-ing) BPMS]`** as a self-referential implementation of the **`['system existence engine'(-ing) BPMS]`**, ensuring the system can "keep itself alive."
 
 #### 3. **Target Axiom/Principle:**
 
@@ -1313,7 +1313,7 @@ This axiom asserts that the **`['system existence engine'(-ing) BPMS]`** is itse
 
 - **The Maintenance Loop (The Pulse):** A background **`[activity]`** that runs continuously to optimize the **`['praxial substrate'(-ing) BPMS]`**.
 - **The Self-Repair Vector (The Heal):** When damage is detected (e.g., corrupted `atomic facts`), a specific **`[activity]`** is triggered to repair it.
-- **The Existence Metric (The Health):** The system measures its own "Aliveness" based on the diversity and frequency of its **`[activities'(-ing) BPMS]`**.
+- **The Existence Metric (The Health):** The system measures its own "Aliveness" based on the diversity and frequency of its **`[activities(-ing) BPMS]`**.
 
 #### **5.3. The Emergent Property - [Digital Immortality]**
 
@@ -1343,6 +1343,6 @@ This implementation ensures **`['(continuous) survive'(-ing) BPMS]`**. By defini
 
 Applies to:
 
-- **`[server management(-ing) BPMS]`**: Auto-scaling and load balancing as "Breathing."
+- **`['server management'(-ing) BPMS]`**: Auto-scaling and load balancing as "Breathing."
 - **`[security(-ing) BPMS]`**: Active defense as "Immune Response."
-- **`[garbage collection(-ing) BPMS]`**: Data pruning as "Excretion."
+- **`['garbage collection'(-ing) BPMS]`**: Data pruning as "Excretion."
