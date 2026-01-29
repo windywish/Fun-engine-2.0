@@ -1,4 +1,4 @@
-## Basic Settings: ['(continuous) survive experiments(-ing) BPMS]
+## Basic Settings: ['(continuous) survive experiments'(-ing) BPMS]
 
 #### The Axiom of Continuous Viability Systemic Integrity-ing (ID: `CSE-CORE-001`)
 
