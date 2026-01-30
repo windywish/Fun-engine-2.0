@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['avatar embodiment'(-ing) BPMS]`
 - **Objective:** To embody the `Universal Constructor` nature of the `['praxial cell'(-ing) BPMS]`, serving as a living bridge between the `Micro-Boundary` and the `Macro-Reality` via `(symbiois) evolution`.
 - **Scope of Application:** User Agency (The "I" of the Cellular Simulation).
-- **Tag:** `#avatar #cellular_architect #genomic_polymorphism #substrate_metabolism`
+- **Tag:** `#cell #praxial_cell #avatar #cellular_architect #genomic_polymorphism #substrate_metabolism`
 
 ### 1. Identity Profile
 
