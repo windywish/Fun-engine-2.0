@@ -1396,5 +1396,401 @@ To support `[robust(-ing) BPMS]`. A fragile system breaks the flow. A resilient 
 
 Applies to physics engines, entity limits, error handling, and "stress test" scenarios.
 
----
+------
 
+#### The Axiom of Existential Rendering (ID: `EXPERIENCE-CORE-023`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that establishes `[experience(-ing) BPMS]` as the primary projection mechanism for the `['system existence engine'(-ing) BPMS]`, ensuring that "To be is to be perceived" applies to all system states.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Existential Rendering
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `Existence is a Rendered State`. The `['system existence engine'(-ing) BPMS]` calculates the simulation, but the `[experience(-ing) BPMS]` validates it. If a tree falls in the simulation and the Experience module does not render a sound/shake/log, the tree *did not fall* in the user's reality. This setting mandates that every existential state change must have a corresponding experiential output.
+
+#### **5.2. The Mechanism - [The Ontological Projector]**
+
+- **The Source (The Noumenon):** The `['system existence engine']` updates a state (e.g., "World_Age++").
+
+- The Projection (The Phenomenon):
+
+  The 
+
+  ```
+  [experience(-ing) BPMS]
+  ```
+
+   detects this shift and projects it:
+
+  - *Visual:* The skybox shifts color.
+  - *Audio:* The ambient wind changes pitch.
+  - *Narrative:* NPCs comment on the passing of time.
+
+- **The Validation:** The system checks: "Did the user perceive this?" If yes, the existence is confirmed.
+
+#### **5.3. The Emergent Property - [Tangible Reality]**
+
+The user stops treating the simulation as a spreadsheet and starts treating it as a physical place. The "weight" of the system is felt through the density of its rendering.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Existence is defined by interaction.* Aligns with **`['The Axiom of Existence-by-Definition'(-ing) BPMS]`** (NEXUS-CORE-021).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Being):**
+
+The "Physics" of ontology: `User_Reality = System_Existence ∩ Rendered_Experience`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Reality):**
+
+The user experiences **"Truth."** The world feels consistent and "there," even when they aren't looking directly at it, because the peripheral experience confirms it.
+
+#### 7. **Rationale / Justification:**
+
+To implement `['system existence engine'(-ing) BPMS]`. Without this, the backend and frontend decouple, leading to "ghost" bugs where the system thinks one thing and the user sees another.
+
+#### 8. **Scope of Application:**
+
+Applies to object permanence, state synchronization, "fog of war" mechanics, and persistence layers.
+
+------
+
+#### The Law of Atomic Facticity (ID: `EXPERIENCE-CORE-024`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that mandates the `[experience(-ing) BPMS]` to treat `['atomic facts'(-ing) BPMS]` as immutable truth-anchors, preventing the UI from lying to the user.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of Atomic Facticity
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `The UI cannot lie about Atoms`. While the system can use metaphor and style (see `EXPERIENCE-CORE-007`), it cannot contradict an `['atomic fact'(-ing) BPMS]`. If the Atomic Fact is "Door is Locked," the Experience *must* render a locked state. It cannot render an open door with an invisible wall. This ensures the `[experience(-ing) BPMS]` is a reliable narrator of the `['system existence engine']`.
+
+#### **5.2. The Mechanism - [The Fact-Check Loop]**
+
+- **The Fact (The Atom):** `Item_Count = 0`.
+- **The Render Request:** The UI attempts to draw the item icon.
+- **The Veto:** The `[experience(-ing) BPMS]` checks the Atomic Fact. `0 != 1`. The render is vetoed. The icon is grayed out or removed.
+- **The Symbiosis:** The Experience layer acts as the "Press Secretary" for the Atomic Facts, ensuring the message is clear and accurate.
+
+#### **5.3. The Emergent Property - [Reliability]**
+
+The user learns that the interface is "Honest." This reduces frustration ("Why can't I go through this open door?!") and builds deep trust in the simulation's rules.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Facts are the bedrock of reality.* Aligns with **`['The Protocol of Atomic Facticity'(-ing) BPMS]`** (NEXUS-CORE-022).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Truth):**
+
+The "Physics" of display: `Display_State ≡ Atomic_Fact` (Identity Relation).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Reality):**
+
+The user experiences **"Fairness."** The game never cheats them. What they see is what is true.
+
+#### 7. **Rationale / Justification:**
+
+To implement `['atomic facts'(-ing) BPMS]`. Visual lies destroy immersion faster than bad graphics. This setting enforces strict consistency.
+
+#### 8. **Scope of Application:**
+
+Applies to collision detection feedback, inventory counts, cooldown timers, and resource displays.
+
+------
+
+#### The Principle of Symbiotic Parameterization (ID: `EXPERIENCE-CORE-025`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that allows `[experience(-ing) BPMS]` to evolve symbiotically with *any* other `[BPMS(U)(s)]` element by exposing its rendering parameters to external influence.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Principle of Symbiotic Parameterization
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `Experience is a function of the Whole`. The `[experience(-ing) BPMS]` is not a closed box. It exposes "Knobs and Dials" (Parameters) that other modules can twist.
+
+- The `[biology(-ing) BPMS]` can twist the "Vision Blur" knob.
+- The `[physics(-ing) BPMS]` can twist the "Screen Shake" knob.
+- The `[narrative(-ing) BPMS]` can twist the "Color Saturation" knob.
+
+#### **5.2. The Mechanism - [The Universal Mixing Board]**
+
+- **The Input Channels:** Every active `[BPMS(U)]` sends a signal: `Biology_Status: Drunk`, `Physics_Status: Earthquake`.
+- **The Mixer (The Experience Engine):** The engine combines these signals. `Final_Render = (Vision_Blur * Drunk_Factor) + (Screen_Shake * Earthquake_Factor)`
+- **The Output:** A unique, compound experience that reflects the *entire* system state, not just one part.
+
+#### **5.3. The Emergent Property - [Holistic Feedback]**
+
+The user "feels" the interaction of systems. They understand that "Being Drunk during an Earthquake" is harder than just "Being Drunk" because the visual effects stack.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Everything is connected.* Aligns with **`['The Law of Symbiotic Parameterization'(-ing) BPMS]`** (NEXUS-CORE-023).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Mixing):**
+
+The "Physics" of superposition: `Experience_State = Σ(Module_Inputs)`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Reality):**
+
+The user experiences **"Complexity."** The world feels rich and layered because the feedback is rich and layered.
+
+#### 7. **Rationale / Justification:**
+
+To implement `['(symbiois) evolution'(-ing) BPMS]`. This allows the Experience module to grow indefinitely as new modules are added, without needing to be rewritten. It just accepts new inputs to its mixing board.
+
+#### 8. **Scope of Application:**
+
+Applies to post-processing effects, camera controls, audio mixing, and controller vibration.
+
+------
+
+#### The Directive of Cross-Modal Transmutation (ID: `EXPERIENCE-CORE-026`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that enables `[experience(-ing) BPMS]` to translate `['atomic facts'(-ing) BPMS]` from one sensory modality to another, ensuring accessibility and reinforcing `['system existence engine'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Directive of Cross-Modal Transmutation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `Information is substrate-independent`. An `['atomic fact']` (e.g., "Enemy Nearby") is not inherently visual or auditory. The `[experience(-ing) BPMS]` must be able to transmute this fact into *any* modality based on user need or system context.
+
+- *Visual:* Red Radar Dot.
+- *Audio:* Heartbeat Sound.
+- *Haptic:* Controller Pulse.
+- *Text:* "Danger Sense Tingling."
+
+#### **5.2. The Mechanism - [The Synesthetic Translator]**
+
+- **The Fact:** `Event: Proximity_Alert`.
+- **The Context Check:** "Is the user looking?" "Is the sound on?" "Is the user deaf/blind?"
+- **The Transmutation:** The system selects the best channel. If the screen is chaotic (Visual Noise), it switches to Audio. If Audio is cluttered, it switches to Haptic.
+- **The Symbiosis:** This ensures the `['system existence engine']` always gets its message through, regardless of the "noise" in any single channel.
+
+#### **5.3. The Emergent Property - [Robust Communication]**
+
+The system becomes "Unmissable." The user always gets the critical info. It also inherently supports accessibility (a11y) as a core feature, not an addon.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Meaning transcends form.* Aligns with **`['The Principle of Cross-Modal Transmutation'(-ing) BPMS]`** (NEXUS-CORE-024).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Translation):**
+
+The "Physics" of information: `Info_Transmission = Max(Channel_Capacity_i)`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Reality):**
+
+The user experiences **"Clarity."** The game speaks to them in whatever language they can currently understand best.
+
+#### 7. **Rationale / Justification:**
+
+To implement `[robust(-ing) BPMS]`. A system that relies on only one sense is fragile. This makes the experience resilient.
+
+#### 8. **Scope of Application:**
+
+Applies to accessibility settings, stealth mechanics, UI clutter management, and "Sixth Sense" gameplay features.
+
+------
+
+#### The Protocol of Synaptic Minima (ID: `EXPERIENCE-CORE-027`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines the minimum viable `[experience(-ing) BPMS]` required to sustain the illusion of the `['system existence engine'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Synaptic Minima
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `Less is More, but Zero is Death`. It defines the "Keep-Alive" signal for the user's suspension of disbelief. Even when nothing is happening (Idle State), the `[experience(-ing) BPMS]` must provide a "Synaptic Minimum" of feedback to prove the `['system existence engine']` is still running.
+
+#### **5.2. The Mechanism - [The Idle Hum]**
+
+- **The State:** System is idle. No user input. No major events.
+- The Minimum Output:
+  - *Visual:* Character breathing animation. Dust motes floating.
+  - *Audio:* Low-frequency ambient drone.
+  - *UI:* Cursor pulsing slowly.
+- **The Purpose:** To distinguish "Stillness" (Alive) from "Frozen" (Crashed).
+- **The Symbiosis:** This subtle layer of `[experience]` maintains the connection to the `['system existence engine']` during lulls, preventing the user from disengaging.
+
+#### **5.3. The Emergent Property - [Living Stillness]**
+
+The world feels alive even when it is sleeping. The user feels comfortable waiting because the system is "breathing" with them.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Life is continuous motion.* Aligns with **`['The Directive of Synaptic Minima'(-ing) BPMS]`** (NEXUS-CORE-025).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Life):**
+
+The "Physics" of idle: `Output > 0` (Always).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Reality):**
+
+The user experiences **"Patience."** They are willing to wait for the next `[event]` because the current moment is still rendered beautifully.
+
+#### 7. **Rationale / Justification:**
+
+To implement `[(continuous) survive(-ing) BPMS]`. Silence is interpreted as death. This protocol ensures the system never "dies" in the user's eyes.
+
+#### 8. **Scope of Application:**
+
+Applies to idle animations, ambient soundscapes, loading screens, and server connection indicators.
+
+------
+
+#### The Axiom of Recursive Resolution (ID: `EXPERIENCE-CORE-028`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that allows `[experience(-ing) BPMS]` to act as a `[BPMS(U)]` element that implements *itself*, creating a fractal interface for inspecting the `['system existence engine'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Recursive Resolution
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `The Interface is Content`. The `[experience(-ing) BPMS]` is not just a window *into* the system; it is an object *within* the system. Therefore, the user can "look at the window" (inspect the UI) just as they "look through the window" (inspect the world). This allows for meta-gameplay and deep system analysis.
+
+#### **5.2. The Mechanism - [The Meta-Inspector]**
+
+- **The Action:** User inspects a UI element (e.g., hovers over the Health Bar).
+
+- The Recursion:
+
+  The system renders an 
+
+  ```
+  [experience]
+  ```
+
+  about
+
+   the 
+
+  ```
+  [experience]
+  ```
+
+  .
+
+  - *Tooltip:* "Health Bar: Represents current structural integrity. Derived from Constitution stat."
+
+- **The Deep Dive:** User clicks "More Info." The system reveals the `['atomic facts']` and formulas driving that bar.
+
+- **The Symbiosis:** The `[experience(-ing) BPMS]` evolves from a display layer into a learning tool, teaching the user how the `['system existence engine']` works.
+
+#### **5.3. The Emergent Property - [Transparency]**
+
+The system demystifies itself. The user transitions from "Player" to "Operator" seamlessly.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The system can understand itself.* Aligns with **`['The Protocol of Recursive Resolution'(-ing) BPMS]`** (NEXUS-CORE-026).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Meta):**
+
+The "Physics" of inspection: `Info(UI_Element) = Function(Source_Code)`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Reality):**
+
+The user experiences **"Depth."** There are no "black boxes." Everything can be understood if they choose to look closer.
+
+#### 7. **Rationale / Justification:**
+
+To implement `[super intelligence(-ing) BPMS]`. A super-intelligent system should be able to explain its own interface. This setting enables self-documentation and advanced user mastery.
+
+#### 8. **Scope of Application:**
+
+Applies to tooltips, "What's This?" help modes, debug overlays, and encyclopedia/codex entries.
