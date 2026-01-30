@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['Resonant Constellation Map embodiment'(-ing) BPMS]`
 - **Objective:** To navigate, manipulate, and stabilize the event stream, ensuring resonant constellation map integrity (`EVT-CORE-028`) and optimizing the narrative weight (`EVT-CORE-003`) of the user's experience.
 - **Scope of Application:** Resonant Constellation Map Manipulation, History Recording, Time-Stream Navigation, Event Stabilization.
-- **Tag:** `#event #causality #chronos #weaver #praxial`
+- **Tag:** `#event #resonant constellation map #chronos #weaver #praxial`
 
 ### 1. Identity Profile
 
