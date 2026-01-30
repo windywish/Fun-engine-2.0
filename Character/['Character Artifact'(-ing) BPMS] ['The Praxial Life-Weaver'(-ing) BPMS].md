@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['avatar embodiment'(-ing) BPMS]`
 - **Objective:** To serve as the user's vessel for agency, carrying stats, inventory, and local reality collapse, specifically tuned to instantiate and evolve the protocols of `[life(-ing) BPMS]`.
 - **Scope of Application:** User Agency (The "I" of the simulation), Symbiotic Evolution, Ecosystem Engineering.
-- **Tag:** `#avatar #stats #inventory #identity #autopoiesis #symbiosis`
+- **Tag:** `#life #avatar #stats #inventory #identity #autopoiesis #symbiosis`
 
 ### 1. Identity Profile
 
