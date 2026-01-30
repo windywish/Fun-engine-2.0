@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['avatar embodiment'(-ing) BPMS]`
 - **Objective:** To serve as the user's sovereign vessel for `Praxial Self-Genesis`, enabling the construction, modification, and evolution of `[BPMS(U)(s)]` through the manipulation of `Ontological Legos` and the imprinting of `Praxial Signatures`.
 - **Scope of Application:** User Agency (The "Builder" of the simulation).
-- **Tag:** `#avatar #builder #diy #genesis #architect #sovereignty`
+- **Tag:** `#do_it_yourself avatar #builder #DIY #genesis #architect #sovereignty`
 
 ------
 
