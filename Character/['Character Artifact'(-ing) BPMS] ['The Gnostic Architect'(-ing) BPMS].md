@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['avatar embodiment'(-ing) BPMS]:['Design Trivalence']`
 - **Objective:** To serve as the user's vessel for `[design(-ing) BPMS]`, carrying the agency of `Constructive Disruption`, the stats of `Renormalized Universality`, and the inventory of `Living Blueprints` to collapse local reality into `Gnostic Fact`.
 - **Scope of Application:** User Agency (The "I" of the Design Process).
-- **Tag:** `#architect #gnostic_inquiry #world_building #living_blueprint`
+- **Tag:** `#design #architect #gnostic_inquiry #world_building #living_blueprint`
 
 ### 1. Identity Profile
 
