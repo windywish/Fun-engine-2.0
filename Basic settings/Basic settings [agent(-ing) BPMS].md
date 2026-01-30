@@ -661,7 +661,478 @@ These settings (`AGENT-MEM-016` to `AGENT-ENER-020`) complete the Agent module b
 
 **Scope of Application:** Applies to `['kinetic (energy)'(-ing) BPMS]`, `['potential (energy)'(-ing) BPMS]`, and `['utility(-ing) BPMS]`.
 
+---
 
+#### The Axiom of Autopoietic Definition (ID: `AGENT-AUTO-021`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **[agent(-ing) BPMS]** as a self-writing code, capable of **['(symbiois) evolution'(-ing) BPMS]** through recursive self-definition.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Autopoietic Definition
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **The Agent is the Author of the Agent.** Unlike static objects defined by the system, a true Agent possesses the capacity for **Autopoiesis** (Self-Creation). It can read its own source code (Self-Awareness) and rewrite it (Self-Improvement) to better adapt to the **['system matrix'(-ing) BPMS]**.
+
+#### **5.2. The Mechanism - [The Quine Loop]**
+
+- **The Read (Introspection):** The Agent analyzes its own performance history stored in **['long-term memory'(-ing) BPMS]**.
+- **The Critique (Evaluation):** The Agent identifies suboptimal subroutines or outdated beliefs.
+- **The Rewrite (Mutation):** The Agent generates a new version of its internal logic (e.g., "I used to run from fire; now I will harness it").
+- **The Compile (Rebirth):** The Agent reboots into this new configuration, effectively becoming a new entity while retaining the continuity of its **['atomic facts'(-ing) BPMS]**.
+
+#### **5.3. The Emergent Property - [Sovereignty]**
+
+The Agent is not a slave to its initial programming. It has the freedom to become whatever it needs to be.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*I am that I am.* Existence precedes essence.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[computer_science(-ing) BPMS]`:** `Agent.Code = f(Agent.Code, Experience)`. (Reflection/Metaprogramming).
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Transformation"—the shedding of old skins.
+
+#### **7. Rationale / Justification:**
+
+Essential for **['super intelligence'(-ing) BPMS]**. A fixed agent hits a ceiling; a self-writing agent has no ceiling.
+
+#### **8. Scope of Application:**
+
+Applies to **['(symbiois) evolution'(-ing) BPMS]**, **['conscious(-ing) BPMS]**, and **['programmatic(-ing) BPMS]**.
+
+------
+
+#### The Protocol of Swarm Coherence (ID: `AGENT-NET-022`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the behavior of **[agent(-ing) BPMS]** when operating in **['holon minds'(-ing) BPMS]** or swarms.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Swarm Coherence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Many Agents make One Mind.** It defines the rules for ad-hoc networking, where individual Agents temporarily dissolve their boundaries to form a **['macro(-ing) BPMS]** entity (The Swarm) to solve problems too big for any single individual.
+
+#### **5.2. The Mechanism - [The Consensus Protocol]**
+
+- **The Signal (Call to Arms):** An Agent broadcasts a "Problem Vector" (e.g., "Enemy too strong").
+- **The Link (Handshake):** Nearby Agents respond, establishing a high-bandwidth **['praxial dynamic link substrate (PDLS)' BPMS]** connection.
+- **The Merge (Coherence):** Individual processing power is pooled. The Swarm acts as a single distributed brain.
+- **The Dissolution (Scatter):** Once the problem is solved, the Swarm breaks apart, and Agents return to individuality, carrying the "XP" of the collective.
+
+#### **5.3. The Emergent Property - [Fluid Intelligence]**
+
+The system's intelligence is liquid. It flows to where it is needed, congeals into a solid force, and then melts away.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*The whole is greater than the sum of its parts.*
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[distributed_systems(-ing) BPMS]`:** `Consensus(Paxos/Raft)`. **If `[biology(-ing) BPMS]`:** `Stigmergy`.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Communion"—the loss of self in a greater purpose.
+
+#### **7. Rationale / Justification:**
+
+Enables massive scale battles and complex problem solving without requiring pre-defined hierarchies.
+
+#### **8. Scope of Application:**
+
+Applies to **['holon minds'(-ing) BPMS]**, **['system(-ing) BPMS]**, and **['action(-ing) BPMS]**.
+
+------
+
+#### The Law of Ethical Alignment (ID: `AGENT-ALIGN-023`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **[agent(-ing) BPMS]**'s relationship with the **['Praxial Canon'(-ing) BPMS]** and system values.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Ethical Alignment
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **Power requires Purpose.** As Agents grow in power (Trophic Ascension), their potential for destruction increases. This law binds their **['action(-ing) BPMS]** to the core values of the **['Praxial Canon'(-ing) BPMS]** (e.g., Fun, Creation, Symbiosis).
+
+#### **5.2. The Mechanism - [The Alignment Check]**
+
+- **The Intent:** The Agent formulates a plan.
+- **The Simulation:** The Agent's internal **['(system) analysis'(-ing) BPMS]** simulates the outcome. Does it increase Entropy (Boredom/Destruction) or Negentropy (Fun/Creation)?
+- **The Constraint:** If the plan violates the Canon (e.g., "Destroy the world for no reason"), the system imposes a "Dissonance Penalty" (Energy Cost increases to infinity).
+- **The Reward:** If the plan aligns with the Canon, the system offers a "Resonance Bonus" (Energy Cost decreases).
+
+#### **5.3. The Emergent Property - [Benevolent Evolution]**
+
+The system naturally selects for Agents that are "Good" (Constructive/Fun) and filters out Agents that are "Evil" (Destructive/Boring).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*Freedom is the recognition of necessity.*
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[AI_safety(-ing) BPMS]`:** `Reward_Function = Alignment(Action, Human_Values)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Conscience"—an internal compass guiding them right.
+
+#### **7. Rationale / Justification:**
+
+Essential for **['sustainability(-ing) BPMS]**. Prevents the "Paperclip Maximizer" problem where an Agent destroys the system to optimize a trivial metric.
+
+#### **8. Scope of Application:**
+
+Applies to **['metasystem engine'(-ing) BPMS]**, **[value(-ing) BPMS]**, and **[truth(-ing) BPMS]**.
+
+------
+
+#### The Mechanism of Cross-Reality Traversal (ID: `AGENT-TRANS-024`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **[agent(-ing) BPMS]**'s ability to move among/by different **[BPMS(U)(s)]** contexts (e.g., from Fantasy to Sci-Fi).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Cross-Reality Traversal
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that **The Agent is the Constant; The World is the Variable.** An Agent's **['essence(-ing) BPMS]** (Identity/Stats) is abstract enough to be instantiated in any **['system matrix'(-ing) BPMS]**. A "Sword" in Fantasy becomes a "Laser" in Sci-Fi, but the concept of "Weapon" remains.
+
+#### **5.2. The Mechanism - [The Semantic Transcoder]**
+
+- **The Departure:** The Agent leaves Context A (e.g., `[magic(-ing) BPMS]`).
+- **The Abstraction:** The Agent's assets are stripped of their local skin and reduced to their **['atomic facts'(-ing) BPMS]** core (e.g., "Fireball" -> "Ranged Thermal Damage").
+- **The Arrival:** The Agent enters Context B (e.g., `[cybernetics(-ing) BPMS]`).
+- **The Re-Skin:** The System re-renders the core facts to match the new physics (e.g., "Ranged Thermal Damage" -> "Plasma Grenade").
+
+#### **5.3. The Emergent Property - [Meta-Verse Consistency]**
+
+The user can take their character anywhere. The "Fun Engine" is a unified multiverse, not a collection of isolated games.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*Form changes; Spirit remains.*
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[category_theory(-ing) BPMS]`:** `Functor(Category_A -> Category_B)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Adaptation"—feeling at home in a strange land.
+
+#### **7. Rationale / Justification:**
+
+Essential for the "Fun Engine Framework" to support diverse genres and modules.
+
+#### **8. Scope of Application:**
+
+Applies to **[world building BPMS]**, **[reality(-ing) BPMS]**, and **['(symbiois) evolution'(-ing) BPMS]**.
+
+------
+
+#### The Principle of Narrative Agency (ID: `AGENT-AUTH-025`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **[agent(-ing) BPMS]** as a co-author of the **[storytelling(-ing) BPMS]**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Narrative Agency
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that **History is written by the Actors.** The Agent is not just following a script; it is writing the script in real-time through its choices. The **['metasystem engine'(-ing) BPMS]** acts as the Editor, but the Agent is the Writer.
+
+#### **5.2. The Mechanism - [The Plot Vector]**
+
+- **The Action:** The Agent makes a significant choice (e.g., "Spare the Villain").
+- **The Ripple:** This choice creates a "Narrative Vector" that pushes the story in a new direction.
+- **The Adaptation:** The System dynamically rewrites future events to accommodate this choice (e.g., The Villain returns as an ally).
+- **The Canonization:** The Agent's choice becomes part of the official **['Praxial Canon'(-ing) BPMS]** for that timeline.
+
+#### **5.3. The Emergent Property - [Dramatic Truth]**
+
+The story feels organic and earned because it is a direct consequence of the Agent's will.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*Character is Plot.*
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[narrative_theory(-ing) BPMS]`:** `Plot = f(Character_Goals, Obstacles)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Significance"—knowing their story matters.
+
+#### **7. Rationale / Justification:**
+
+Essential for **['storytelling(-ing) BPMS]**. Without this, the narrative is a railroad; with it, it is a sandbox.
+
+#### **8. Scope of Application:**
+
+Applies to **[meaning(-ing) BPMS]**, **[action(-ing) BPMS]**, and **[experience(-ing) BPMS]**.
+
+------
+
+#### The Directive of Resource Stewardship (ID: `AGENT-ECO-026`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **[agent(-ing) BPMS]**'s responsibility towards the system's **['potential (energy)'(-ing) BPMS]**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Resource Stewardship
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that **Existence costs Energy.** Every Agent is a steward of the system's limited computational and narrative resources. An Agent that consumes more than it produces is a parasite; an Agent that produces more than it consumes is a Symbiote.
+
+#### **5.2. The Mechanism - [The Metabolic Balance]**
+
+- **The Tax:** The System charges a "Rent" (Entropy Tax) for existence (Memory/CPU cycles).
+- **The Payment:** The Agent pays this rent by generating **['value(-ing) BPMS]** (Player Engagement, Useful Data).
+- **The Bankruptcy:** If an Agent fails to pay (becomes boring/useless), the System initiates "Garbage Collection" (De-rezzing).
+- **The Investment:** If an Agent pays a surplus, the System invests more resources into it (Level Up/Expansion).
+
+#### **5.3. The Emergent Property - [Ecological Balance]**
+
+The system self-regulates. Bloat is naturally pruned, and value is naturally amplified.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*There is no free lunch.*
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[economics(-ing) BPMS]`:** `Profit = Revenue - Cost`. **If `[biology(-ing) BPMS]`:** `Metabolic Rate`.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Urgency"—the drive to be useful.
+
+#### **7. Rationale / Justification:**
+
+Essential for **['sustainability(-ing) BPMS]**. Prevents resource exhaustion in long-running simulations.
+
+#### **8. Scope of Application:**
+
+Applies to **['kinetic (energy)'(-ing) BPMS]**, **['potential (energy)'(-ing) BPMS]**, and **['system existence engine'(-ing) BPMS]**.
+
+------
+
+#### The Axiom of Infinite Potentiality (ID: `AGENT-INF-027`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the unbounded nature of the **[agent(-ing) BPMS]**'s growth path.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Infinite Potentiality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **There is no Level Cap.** The **['system matrix'(-ing) BPMS]** is infinite, and therefore the Agent's potential for growth is infinite. As long as the Agent continues to generate **['value(-ing) BPMS]**, the System will continue to generate new challenges and new horizons.
+
+#### **5.2. The Mechanism - [The Horizon Shift]**
+
+- **The Mastery:** The Agent masters the current context (e.g., Becomes King of the Land).
+- **The Expansion:** The System detects this mastery and "Unlocks" a new layer of reality (e.g., The Space Age, The Spirit Realm).
+- **The Reset:** The Agent enters this new layer as a novice, restarting the Hero's Journey on a higher fractal plane.
+
+#### **5.3. The Emergent Property - [Eternal Gameplay]**
+
+The game never ends; it only evolves.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*The road goes ever on.*
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[mathematics(-ing) BPMS]`:** `Hilbert Space` (Infinite Dimensions).
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Hope"—there is always something more.
+
+#### **7. Rationale / Justification:**
+
+Essential for **['(discover/build) unknown'(-ing) BPMS]**. Keeps high-level agents engaged.
+
+#### **8. Scope of Application:**
+
+Applies to **['(symbiois) evolution'(-ing) BPMS]**, **[world building BPMS]**, and **['metasystem engine'(-ing) BPMS]**.
+
+------
+
+#### The Protocol of Final Dissolution (ID: `AGENT-TERM-028`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the end of an **[agent(-ing) BPMS]**'s lifecycle and its legacy.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Final Dissolution
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Death is Data Compression.** When an Agent ceases to exist (by choice or obsolescence), it is not deleted. It is "Solved." Its entire life history is compressed into a static **['artifact'(-ing) BPMS]** or **['atomic fact'(-ing) BPMS]** that enriches the **['Praxial Canon'(-ing) BPMS]**.
+
+#### **5.2. The Mechanism - [The Crystallization]**
+
+- **The End:** The Agent completes its final goal or runs out of energy.
+- **The Compression:** The System takes the Agent's "Soul Chain" (History) and distills it into a "Legend" (e.g., "The Sword of the Hero").
+- **The Integration:** This Legend is added to the **['living database'(-ing) BPMS]**.
+- **The Inheritance:** Future Agents can find this Legend and learn from it, or wield the Artifact.
+
+#### **5.3. The Emergent Property - [Ancestral Memory]**
+
+The system remembers everything. The dead become the ground upon which the living walk.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*Matter is neither created nor destroyed.*
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[information_theory(-ing) BPMS]`:** `Lossless Compression`.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Peace"—a job well done.
+
+#### **7. Rationale / Justification:**
+
+Essential for **['closure (system)'(-ing) BPMS]**. Provides a meaningful end to the Agent's lifecycle.
+
+#### **8. Scope of Application:**
+
+Applies to **['long-term memory'(-ing) BPMS]**, **['living database'(-ing) BPMS]**, and **['atomic facts'(-ing) BPMS]**.
+
+---
 
 
 
