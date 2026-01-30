@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['avatar embodiment'(-ing) BPMS]`
 - **Objective:** To serve as the user's vessel for agency, acting as a living interface for **[services(-ing) BPMS]**, capable of dynamic utility instantiation, anticipatory provisioning, and symbiotic co-creation with the environment.
 - **Scope of Application:** User Agency (The "I" of the simulation), Service Orchestration, Utility Flow Management.
-- **Tag:** `#avatar #service_architect #utility_flow #praxial_identity`
+- **Tag:** `#services #avatar #service_architect #utility_flow #praxial_identity`
 
 ## 1. Identity Profile
 
