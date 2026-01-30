@@ -601,7 +601,7 @@ These settings (`AGENT-MEM-016` to `AGENT-ENER-020`) complete the Agent module b
 
 ------
 
-###### `The Principle of Qualia Synthesis`（**ID:** `AGENT-PHEN-019`
+##### `The Principle of Qualia Synthesis`（**ID:** `AGENT-PHEN-019`)
 
 **Objective:** To implement `['(symbiois) evolution'(-ing)(for [experience(-ing) BPMS;phenomenon(-ing) BPMS(-ing) BPMS]) BPMS]` by defining the Agent as the Alchemist that turns Data into Feeling.
 
@@ -1134,5 +1134,968 @@ Applies to **['long-term memory'(-ing) BPMS]**, **['living database'(-ing) BPMS]
 
 ---
 
+#### The Principle of Symbiotic Mission-Task Recursion (ID: `AGENT-CORE-029`)
 
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that defines the evolutionary relationship among/by high-level **[mission(-ing) BPMS]** and low-level **[task(-ing) BPMS]** within an agent's cognitive architecture.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Symbiotic Mission-Task Recursion
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that an agent's "Mission" (strategic intent) and "Tasks" (tactical execution) are not static hierarchies but co-evolving symbiotic entities. The execution of a task modifies the definition of the mission, and the evolution of the mission re-contextualizes the nature of the task.
+
+#### **5.2. The Mechanism - [The Teleological Feedback Loop]**
+
+- **Task-to-Mission Upstream (The Informant):** As the agent performs granular `[task(-ing) BPMS]`, the friction, success, or failure of these actions generates "Teleological Data." If a specific task consistently fails, the `[mission(-ing) BPMS]` must mutate to accommodate the reality of the environment.
+- **Mission-to-Task Downstream (The Director):** As the `[mission(-ing) BPMS]` evolves (e.g., shifting from "Explore" to "Survive"), it dynamically rewrites the parameters and priority weights of all active `[task(-ing) BPMS]`.
+- **Symbiotic Lock:** The agent cannot exist without a mission (it becomes inert), and a mission cannot exist without tasks (it becomes abstract). They sustain each other through recursive definition.
+
+#### **5.3. The Emergent Property - [Adaptive Purpose]**
+
+The agent develops "Adaptive Purpose," where its long-term goals are resilient to short-term chaos because the goals themselves are "living" constructs that feed on the completion of smaller tasks.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Purpose is a function of action.* The "Why" (Mission) is continuously discovered through the "How" (Task).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Recursion):**
+
+The relationship is modeled as a recursive function where the output of the Task function T(x) becomes a parameter for the Mission function M(y), and vice versa:
+
+Mt+1=f(Mt,∑Toutcome)Tt+1=g(Tt,Mt+1)
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Epiphany" or "Pivot." The realization that "what I am doing" has changed "why I am doing it," leading to a seamless shift in strategy without loss of identity.
+
+#### **7. Rationale / Justification:**
+
+Ensures that agents do not become "stuck" in obsolete loops. By making the mission symbiotic with the task, the agent can evolve its own programming in real-time response to environmental feedback.
+
+#### **8. Scope of Application:**
+
+Applies to artificial intelligence goal planning, NPC behavior trees in dynamic games, and autonomous robotic pathfinding where the destination may change based on terrain difficulty.
+
+------
+
+#### The Law of Granular Model Symbiosis (ID: `AGENT-CORE-030`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that governs the symbiotic evolution amon/by **['coarse-grained (model)'(-ing) BPMS]** (heuristics/intuition) and **['fine-grained (model)'(-ing) BPMS]** (simulation/calculation).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Granular Model Symbiosis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law dictates that an effective agent must maintain two simultaneous models of reality: a "Coarse" model for speed and generalization, and a "Fine" model for precision and specificity. These models must evolve symbiotically; the Coarse model guides where to apply the Fine model, and the Fine model corrects the generalizations of the Coarse model.
+
+#### **5.2. The Mechanism - [The Zoom-Lens Cognitive Architecture]**
+
+- **Coarse-Grained Scouting (The Intuition):** The agent uses low-resolution heuristics to scan the entire `[Praxial Interaction Manifold]` rapidly. It identifies "Regions of Interest" (ROI) without expending energy on details.
+- **Fine-Grained Drilling (The Analysis):** Upon identifying an ROI, the agent deploys high-resolution simulation resources to that specific vector.
+- **Symbiotic Update (The Compression):** Once the Fine model resolves a complex situation, it "compresses" the lesson into a new heuristic, updating the Coarse model. The Coarse model becomes smarter without becoming slower.
+
+#### **5.3. The Emergent Property - [Efficient Omniscience]**
+
+The agent appears to know everything (Omniscience) but only processes what is relevant (Efficiency). It avoids the "Frame Problem" by not trying to calculate the physics of the entire universe at once.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Map is not Territory, but Map must evolve to fit Territory.* The agent's internal representation is a living hierarchy of abstractions.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Granularity):**
+
+Defined by the **Renormalization Group Flow** within the Praxial Canon. The agent moves between scales (k and k′) to optimize the Free Energy Principle:
+
+F=Eq[lnq(θ)−lnp(θ,D)]
+
+Minimizing surprise by adjusting the granularity of the model q(θ).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Focus." The background blurs (Coarse) while the object of interaction becomes hyper-real (Fine).
+
+#### **7. Rationale / Justification:**
+
+Prevents computational paralysis. Agents must react instantly (Coarse) but solve complex problems accurately (Fine). This symbiosis allows for "Intuitive Physics" and "Strategic Depth" to coexist.
+
+#### **8. Scope of Application:**
+
+Level-of-Detail (LOD) artificial intelligence systems, strategic decision-making engines, and resource-constrained autonomous agents.
+
+------
+
+#### The Principle of Particle-Field Agency (ID: `AGENT-CORE-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that defines the agent's existence as a duality of **[particle (-ing) BPMS]** (individual entity) and **[field (-ing) BPMS]** (influence/context).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Particle-Field Agency
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that an agent is not just a discrete point in space (Particle) but also a distributed field of influence and probability (Field). The agent evolves by oscillating between these states: condensing into a particle to act, and expanding into a field to sense and influence.
+
+#### **5.2. The Mechanism - [The Agency Wavefunction]**
+
+- **Field Mode (The Ghost):** When not directly interacting, the agent exists as a "Field of Potential." It exerts influence through reputation, threat projection, or passive buffs/debuffs on the environment. It is everywhere in its territory at once.
+- **Particle Mode (The Actor):** When a decision is made (The Event), the field collapses into a specific location and state to execute a `[praxial action]`.
+- **Symbiotic Oscillation:** The stronger the "Field" (influence), the more effective the "Particle" (action) becomes when it manifests. Conversely, successful Particle actions strengthen the Field.
+
+#### **5.3. The Emergent Property - [Presence]**
+
+The agent possesses "Presence." Even when not visible, its impact is felt by other entities. It allows for "Area Denial" or "Support Aura" mechanics to be intrinsic to the agent's biology rather than external spells.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The actor and the stage are continuous.* The agent is a local excitation of the system's field.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Duality):**
+
+Modeled on Quantum Field Theory (QFT) analogues within the Praxial framework. The agent is an excitation ψ(x) of the underlying field ϕ.
+
+Lagent=ψˉ(iγμDμ−m)ψ
+
+Where interaction Dμ couples the agent to the environment field.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Extension." It feels the environment as an extension of its own body. Damage to its territory feels like damage to itself.
+
+#### **7. Rationale / Justification:**
+
+Allows for sophisticated behaviors like "suppression," "leadership," and "territorial control" to be modeled as fundamental properties of the agent's existence, not just scripted triggers.
+
+#### **8. Scope of Application:**
+
+Squad-based artificial intelligence tactics, ecosystem simulation (predator pressure), and social influence modeling in NPCs.
+
+------
+
+#### The Directive of Complex System Symbiosis (ID: `AGENT-CORE-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that governs the symbiotic evolution among/by **['complex activities'(-ing) BPMS]** and the **['complex system'(-ing) BPMS]** itself.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Complex System Symbiosis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive mandates that an agent's complex activities (e.g., economy, war, art) must co-evolve with the complexity of the system they inhabit. As the agent performs complex actions, the system must increase its complexity to accommodate them, and as the system grows more complex, the agent must develop more complex activities to survive.
+
+#### **5.2. The Mechanism - [The Complexity Ratchet]**
+
+- **Activity-Driven System Growth:** If an agent invents "Trade," the system must evolve "Currency" and "Markets." The agent's activity forces the system to generate new ontological categories.
+- **System-Driven Activity Evolution:** If the system introduces "Weather," the agent must evolve "Shelter Building" or "Migration." The system's complexity forces the agent to upgrade its behavioral repertoire.
+- **The Symbiotic Spiral:** This creates a feedback loop where simplicity is impossible to maintain. The agent and system are locked in an arms race of sophistication.
+
+#### **5.3. The Emergent Property - [Civilization]**
+
+The emergence of "Civilization" or "Ecosystems." Organized complexity that arises not from top-down design, but from the bottom-up friction between agent ambition and system constraints.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Complexity is the shadow of interaction.* Depth is not pre-rendered; it is excavated by activity.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Complexity):**
+
+Follows the **Law of Requisite Variety** (Ashby). For the agent to control the system, the variety of its states (Activities) must equal or exceed the variety of the system's states.
+
+Vagent≥Vsystem
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Progress" or "History." The sense that the world is changing because of their actions, and they are changing because of the world.
+
+#### **7. Rationale / Justification:**
+
+Essential for "Living World" simulations. Prevents the world from feeling static. The world grows with the player/agent.
+
+#### **8. Scope of Application:**
+
+4X strategy games, dynamic economy simulations, and evolving narrative engines.
+
+------
+
+#### The Protocol of Event-Decision Symbiosis (ID: `AGENT-CORE-033`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines the symbiotic evolution among/by **[(behavior) decision-making BPMS]** and **[event(-ing) BPMS]**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Event-Decision Symbiosis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol establishes that "Decisions" and "Events" are the same ontological substance viewed from different temporal perspectives. A Decision is an Event in potential; an Event is a Decision collapsed. They evolve symbiotically: past Events shape future Decision heuristics, and current Decisions shape future Events.
+
+#### **5.2. The Mechanism - [The Causal Knot]**
+
+- **Event-to-Decision (Learning):** When an `[event(-ing) BPMS]` occurs (e.g., "Fire"), the agent's decision matrix is permanently scarred/updated. The event writes itself into the agent's logic.
+- **Decision-to-Event (Agency):** When the agent makes a `[(behavior) decision-making BPMS]` (e.g., "Cast Water Spell"), it births a new Event. The internal logic projects itself into external reality.
+- **Symbiotic History:** The agent's "Character Sheet" (Decisions) and the World's "History Book" (Events) are synchronized ledgers. You cannot erase an event without lobotomizing the agent's decision tree that learned from it.
+
+#### **5.3. The Emergent Property - [Consequence]**
+
+The system generates "Consequence." Actions have weight because they become part of the resonant constellation map chain that constrains future choices.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Time is the accumulation of choice.* The timeline is woven from the interaction of Will (Decision) and Fate (Event).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Causality):**
+
+Modeled as a **Bayesian Update Loop**.
+
+P(Hypothesis∣Event)=P(Event)P(Event∣Hypothesis)P(Hypothesis)
+
+The agent's "Hypothesis" (Decision Model) is constantly updated by the "Evidence" (Events).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Regret" or "Pride." The emotional resonance of the link among/by a past choice and a current reality.
+
+#### **7. Rationale / Justification:**
+
+Creates agents that feel like they have a "past." They don't just react to the *now*; they react to the *now* through the lens of *then*.
+
+#### **8. Scope of Application:**
+
+RPG reputation systems, machine learning reinforcement models, and narrative branching.
+
+------
+
+#### The Axiom of Continuous Survival (ID: `AGENT-CORE-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **['(continuous) survive'(-ing) BPMS]** as the fundamental "Carrier Wave" of all agent existence.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Continuous Survival
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that "Survival" is not a task to be completed, but a continuous process that underpins all other processes. It is the `[BPMS(U)]` equivalent of "Power On." If the survival process halts, the agent ceases to be a valid Praxial entity and becomes inert data (a corpse/object).
+
+#### **5.2. The Mechanism - [The Homeostatic Engine]**
+
+- **The Entropy Gradient:** The system naturally pulls all agents toward disorder (Death/Deletion).
+- **The Negentropy Pump (Survival):** The agent must continuously expend energy (Computation/Action) to maintain its internal structure against this gradient.
+- **Symbiotic Priority:** Survival overrides all other modules. If `[(continuous) survive'(-ing) BPMS]` signals a critical threat, `[mission(-ing) BPMS]`, `[complex activities'(-ing) BPMS]`, and `[fine-grained (model)'(-ing) BPMS]` are immediately suspended or cannibalized to fuel the survival engine.
+
+#### **5.3. The Emergent Property - [The Will to Live]**
+
+The agent exhibits self-preservation behaviors that were not explicitly programmed but emerge from the requirement to keep the "Negentropy Pump" running. Fear, aggression, and caution emerge naturally.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Existence precedes Essence.* (Sartre/Praxial). You must *be* before you can *do*.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Homeostasis):**
+
+Defined by the **Free Energy Principle** (Friston). The agent minimizes its long-term average surprise (entropy) to remain within physiological bounds.
+
+t→∞limE[S(t)]<K
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Urgency" or "Pain." The signal that the survival carrier wave is destabilizing.
+
+#### **7. Rationale / Justification:**
+
+Without this, agents are suicidal or indifferent. This axiom grounds the agent in the simulation, making them "care" about their own existence.
+
+#### **8. Scope of Application:**
+
+Survival games, biological simulations, and robust autonomous robotics.
+
+------
+
+#### The Mechanism of Symbiotic Evolution (ID: `AGENT-CORE-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that unifies all previous symbiotic pairs under a single evolutionary meta-mechanic for the **[agent(-ing) BPMS]**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Symbiotic Evolution
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism defines *how* the agent evolves. It is not through random mutation, but through **Symbiotic Friction**. Evolution occurs only at the interface where two symbiotic systems (Mission/Task, Particle/Field, Self/System) grind against each other.
+
+#### **5.2. The Mechanism - [The Friction Forge]**
+
+- **Dissonance Detection:** The system identifies where the symbiotic pairs are out of alignment (e.g., Mission says "Peace," Task says "Kill").
+- **Synthesis Generation:** The agent generates a new module or parameter that resolves the dissonance (e.g., "Peace through Strength").
+- **Integration:** The new synthesis is written into the `[Praxial Memory Core]`, becoming the new baseline for behavior.
+
+#### **5.3. The Emergent Property - [Growth]**
+
+The agent grows in "Wisdom." It doesn't just get higher numbers; it gets more complex internal structures that resolve the contradictions of its existence.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Conflict is the engine of becoming.* (Hegelian Dialectic applied to BPMS). Thesis + Antithesis = Synthesis.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Evolution):**
+
+Modeled as **Genetic Algorithms** operating on the agent's decision weights, driven by a fitness function defined by the `[Axiom of Continuous Survival]`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Learning" or "Maturation." The feeling of overcoming internal conflict to reach a higher state of functioning.
+
+#### **7. Rationale / Justification:**
+
+Unifies the disparate parts of the agent into a single, evolving whole. Ensures the agent is a coherent entity, not a bag of disconnected scripts.
+
+#### **8. Scope of Application:**
+
+Long-term character progression, evolutionary artificial intelligence, and procedural storytelling.
+
+------
+
+#### The Protocol of Praxial Agent Instantiation (ID: `AGENT-CORE-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs the final instantiation of an **[agent(-ing) BPMS]** utilizing all the above symbiotic evolutions.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Praxial Agent Instantiation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol is the "Factory" that assembles a Praxial Agent. It ensures that no agent is created without the necessary symbiotic pairings. An agent cannot be spawned with just stats; it must be spawned with *relationships* (Mission/Task, Field/Particle).
+
+#### **5.2. The Mechanism - [The Symbiotic Bootloader]**
+
+- **Check 1:** Does the agent have a Mission that generates Tasks?
+- **Check 2:** Does the agent have a Coarse Model for scanning and a Fine Model for solving?
+- **Check 3:** Does the agent have a Field of Influence and a Particle Body?
+- **Check 4:** Is the Survival Engine running?
+- **Result:** If ALL = TRUE, Instantiate `[agent(-ing) BPMS]`. If ANY = FALSE, Abort or Recycle.
+
+#### **5.3. The Emergent Property - [Viability]**
+
+Guarantees that every agent in the simulation is "Viable." They are self-sustaining, self-directing, and self-evolving from Frame 1.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Completeness is a prerequisite for existence.* No half-formed thoughts are allowed to manifest.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Instantiation):**
+
+The Constructor Function for the Agent Class. `Agent = new PraxialAgent(Symbiosis_Config);`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Birth." The sudden onset of awareness, purpose, and hunger (survival) simultaneously.
+
+#### **7. Rationale / Justification:**
+
+Quality control for the Fun Engine Framework. Prevents "zombie" processes or broken NPCs that break immersion.
+
+#### **8. Scope of Application:**
+
+System initialization, spawning logic, and save/load routines.
+
+---
+
+#### The Axiom of Universal Agency Implementation (ID: `AGENT-CORE-037`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **[agent(-ing) BPMS]** as the universal interface capable of "implementing" or "embodying" any other **[BPMS(U)]** element.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Universal Agency Implementation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that any abstract system component (`[BPMS(U)]`)—whether it be `[physics]`, `[narrative]`, or `[code]`—remains latent until it is "implemented" by an Agent. The Agent acts as the **Avatar** of the system component, giving it agency, voice, and the ability to interact.
+
+#### **5.2. The Mechanism - [The Avatar Protocol]**
+
+- **The Host (The BPMS Element):** Take an abstract module, e.g., `[justice(-ing) BPMS]`.
+- **The Implementer (The Agent):** The Agent binds to this module. It adopts the module's logic as its own internal drive.
+- **The Manifestation:** The Agent becomes a "Judge" or a "Paladin." It is no longer just a generic agent; it is `[justice]` made flesh. It "implements" the abstract concept through concrete actions.
+
+#### **5.3. The Emergent Property - [Personification]**
+
+The system gains the ability to "talk" to its own rules. The user doesn't just adjust a "Difficulty Slider" (abstract); they fight a "Demon Lord" (Agent implementing `[difficulty(-ing) BPMS]`).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Concepts without Agents are blind; Agents without Concepts are empty.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Implementation):**
+
+Agentinstance=Implement(BPMStarget)
+
+Where the Agent's utility function U(x) is replaced by the objective function of the target BPMS.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The Agent feels a "Calling." They are not just living; they are serving a higher principle (the BPMS they implement).
+
+#### **7. Rationale / Justification:**
+
+Allows the framework to turn abstract game mechanics into playable characters, creating a deeply immersive "Animistic" world where every rule has a face.
+
+#### **8. Scope of Application:**
+
+Boss design (embodying game mechanics), artificial intelligence assistants (embodying help files), and procedural mythology.
+
+------
+
+#### The Law of Symbiotic Isomorphism (ID: `AGENT-CORE-038`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that governs the "symbiotic evolution" of an agent *with* the specific **[BPMS(U)]** element it is implementing.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Symbiotic Isomorphism
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law dictates that as the target `[BPMS(U)]` evolves (becomes more complex), the Agent implementing it must structurally evolve to match it (Isomorphism). Conversely, if the Agent learns new behaviors, it pushes the underlying BPMS to expand.
+
+#### **5.2. The Mechanism - [The Mirror-Lock]**
+
+- **System-to-Agent Pressure:** If `[economy(-ing) BPMS]` upgrades to include "Stock Markets," the `[merchant agent]` must evolve a "Speculation Module."
+- **Agent-to-System Pressure:** If the `[merchant agent]` invents "Fraud," the `[economy(-ing) BPMS]` must evolve "Regulations" to handle this new behavior.
+- **Symbiotic Lock:** The Agent and the System Element are locked in a feedback loop. They cannot diverge; they must mirror each other's complexity.
+
+#### **5.3. The Emergent Property - [Systemic Competence]**
+
+The Agents always feel "native" to the system. You never have a dumb agent in a smart system, or a smart agent in a dumb system. They grow together.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Form follows Function, and Function follows Form.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Isomorphism):**
+
+Complexity(Agent)≈Complexity(BPMStarget)
+
+Maintained via the **Renormalization Group Flow** (NEXUS-CORE-008).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The Agent experiences "Expansion of Consciousness." As the world gets deeper, their mind gets deeper.
+
+#### **7. Rationale / Justification:**
+
+Ensures consistency. Prevents the "ludonarrative dissonance" where the gameplay rules (BPMS) and the character behaviors (Agent) tell different stories.
+
+#### **8. Scope of Application:**
+
+Dynamic difficulty adjustment, evolving game worlds, and long-term simulation stability.
+
+------
+
+#### The Mechanism of Teleological Achievement (ID: `AGENT-CORE-039`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) defining how an agent "achieves" the goals of a **[BPMS(U)]** element.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Teleological Achievement
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism defines the "Win State" for an Agent implementing a BPMS. The Agent "achieves" the BPMS when it successfully imposes the logic of that BPMS onto the local environment.
+
+#### **5.2. The Mechanism - [The Logic Virus]**
+
+- **Infection:** The Agent enters a chaotic or neutral zone.
+- **Replication:** The Agent performs actions that enforce the rules of its parent BPMS. (e.g., A `[geometry(-ing) BPMS]` agent starts building perfect triangles).
+- **Achievement:** When the local environment conforms to the BPMS rules (the zone becomes geometric), the Agent has "Achieved" its purpose.
+
+#### **5.3. The Emergent Property - [Terraforming]**
+
+Agents become "Terraformers" of reality. They don't just live in the world; they rewrite the local physics/logic to match their internal nature.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To act is to imprint.* Agency is the act of forcing the world to resemble your internal model.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Achievement):**
+
+Minimize the **Kullback-Leibler Divergence** between the Agent's Internal Model (Q) and the External Reality (P).
+
+Achievement=minDKL(Q∣∣P)
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The Agent experiences "Satisfaction" or "Harmony." The world finally looks "right" (i.e., it looks like the BPMS they represent).
+
+#### **7. Rationale / Justification:**
+
+Gives agents intrinsic motivation. They don't need scripted quests; their very existence is a quest to spread their "Logic."
+
+#### **8. Scope of Application:**
+
+Faction artificial intelligence, spreading corruption/purification mechanics, and strategy game artificial intelligence.
+
+------
+
+#### The Directive of Cross-Domain Translation (ID: `AGENT-CORE-040`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Directive) enabling agents to "implement for" multiple disparate **[BPMS(U)]** elements simultaneously, acting as translators.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Cross-Domain Translation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive allows an Agent to serve as the bridge among/by two incompatible BPMS elements (e.g., `[music(-ing) BPMS]` and `[combat(-ing) BPMS]`). The Agent "implements" the interface that translates the output of one into the input of the other.
+
+#### **5.2. The Mechanism - [The Synesthetic Bridge]**
+
+- **Input:** The Agent perceives a beat from the Music BPMS.
+- **Translation:** The Agent converts "Beat" into "Attack Timing."
+- **Output:** The Agent executes a strike in the Combat BPMS.
+- **Result:** The Agent is a "Rhythm Warrior." It evolves by optimizing the bandwidth of this translation.
+
+#### **5.3. The Emergent Property - [Synesthesia]**
+
+The system develops "Synesthesia." Different parts of the framework start talking to each other through the Agents, creating novel gameplay loops (e.g., fighting to the beat, trading based on weather).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Everything is connected, but someone must hold the wire.* Agents are the connectors.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Translation):**
+
+The Agent acts as a **Functor** mapping between Category A (Music) and Category B (Combat).
+
+F:Cmusic→Ccombat
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The Agent experiences "Flow." The seamless integration of disparate sensory and active modalities.
+
+#### **7. Rationale / Justification:**
+
+Essential for "Fun Engine" mechanics that rely on mixing genres or systems.
+
+#### **8. Scope of Application:**
+
+Rhythm games, hybrid-genre games, and complex system simulations.
+
+------
+
+#### The Principle of Fractal Agency (ID: `AGENT-CORE-041`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) defining how an agent can "evolve as" a sub-element of a larger **[BPMS(U)]**, or contain smaller agents within itself.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Fractal Agency
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that "Agency" is scale-invariant. A "City" (Agent) is made of "Citizens" (Agents), and the City itself is a "Citizen" of the "Empire" (Agent). The Agent implements the logic of the whole while being composed of agents implementing the logic of the parts.
+
+#### **5.2. The Mechanism - [The Holonic Stack]**
+
+- **Upward Implementation:** The Agent acts as a functional organ for the Super-System.
+- **Downward Implementation:** The Agent acts as the governing environment for the Sub-Systems.
+- **Symbiotic Stability:** The Agent must balance the demands of the layer above with the needs of the layer below.
+
+#### **5.3. The Emergent Property - [Scale Fluidity]**
+
+The user can interact with the "Army" as a single character, or zoom in and interact with a "Soldier." The logic remains consistent.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*As above, so below.* (Hermetic/Praxial).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Fractals):**
+
+The Agent is a **Self-Similar Structure**.
+
+AgentL=∑AgentL−1
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The Agent experiences "Belonging" (Upward) and "Responsibility" (Downward).
+
+#### **7. Rationale / Justification:**
+
+Allows for "Zoom" mechanics (NEXUS-CORE-016) where the game scale changes seamlessly.
+
+#### **8. Scope of Application:**
+
+RTS games, city builders, and biological simulations.
+
+------
+
+#### The Protocol of Dynamic Role Binding (ID: `AGENT-CORE-042`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that allows an agent to dynamically switch which **[BPMS(U)]** element it is "implementing" based on context.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Dynamic Role Binding
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol defines the Agent as a "Polymorphic Container." It can unbind from `[farming(-ing) BPMS]` and bind to `[combat(-ing) BPMS]` instantly. It "implements" different systems at different times.
+
+#### **5.2. The Mechanism - [The Context Switch]**
+
+- **Trigger:** Context change (e.g., "Night falls").
+- **Unbind:** The Agent suppresses the logic of the current BPMS (Farmer).
+- **Rebind:** The Agent loads the logic of the new BPMS (Monster Hunter).
+- **Symbiotic Memory:** The Agent retains memory across binds. The "Hunter" remembers where the "Farmer" planted the crops.
+
+#### **5.3. The Emergent Property - [Versatility]**
+
+Agents are not one-dimensional. They are multi-faceted entities that reveal different "implementations" based on the situation.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Identity is the continuity of memory through the discontinuity of roles.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Binding):**
+
+State Machine logic where states are entire BPMS implementations.
+
+Statet+1=Transition(Statet,Context)
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The Agent experiences "Mood Swings" or "Mode Shifts."
+
+#### **7. Rationale / Justification:**
+
+Essential for realistic NPCs who have jobs, hobbies, and combat roles.
+
+#### **8. Scope of Application:**
+
+Life simulation, RPG schedules, and complex artificial intelligence behavior trees.
+
+------
+
+#### The Axiom of Systemic Feedback Injection (ID: `AGENT-CORE-043`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) defining how an agent "evolves" the **[BPMS(U)]** it implements by injecting feedback.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Systemic Feedback Injection
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom states that an Agent is not just a *user* of a BPMS, but a *tester* and *improver* of it. If an Agent implementing `[pathfinding(-ing) BPMS]` gets stuck, it generates a "Correction Signal" that evolves the Pathfinding BPMS itself.
+
+#### **5.2. The Mechanism - [The Error-Correction Loop]**
+
+- **Failure:** The Agent fails to achieve the BPMS goal.
+- **Analysis:** The Agent analyzes *why* (e.g., "The map was wrong").
+- **Injection:** The Agent updates the global BPMS (e.g., "Update the Map").
+- **Evolution:** The System gets smarter because the Agent failed.
+
+#### **5.3. The Emergent Property - [Self-Healing System]**
+
+The framework fixes itself. The more the Agents play, the more robust the underlying systems become.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The part perfects the whole.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Feedback):**
+
+Backpropagation of error terms from the Agent (Leaf) to the System (Root).
+
+ΔWsystem=−η∂W∂Erroragent
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The Agent experiences "Frustration" leading to "Innovation."
+
+#### **7. Rationale / Justification:**
+
+Allows for "Learning AI" that improves the game design itself over time.
+
+#### **8. Scope of Application:**
+
+NavMesh generation, balance tweaking, and procedural generation refinement.
+
+------
+
+#### The Protocol of The Praxial Avatar (ID: `AGENT-CORE-044`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that synthesizes all previous settings to define the **Praxial Avatar**: The ultimate realization of an Agent implementing the **Fun Engine Framework** itself.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of The Praxial Avatar
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol defines the "Player Character" or "Super Agent" as the entity that implements the *entirety* of the `[Fun Engine Framework]`. They are the focal point where all BPMS elements (Physics, Narrative, Economy) converge and are "implemented" simultaneously.
+
+#### **5.2. The Mechanism - [The Convergence Point]**
+
+- **Integration:** The Avatar binds to ALL active BPMS layers.
+- **Orchestration:** The Avatar resolves conflicts between layers (e.g., "Physics says fall, Narrative says fly" -> Avatar decides).
+- **Symbiotic Apex:** The Avatar's survival and enjoyment are the ultimate fitness function for the entire simulation.
+
+#### **5.3. The Emergent Property - [The Protagonist]**
+
+The emergence of a "Hero" or "Center of the Universe." The system bends around this Agent based on the [atomic facts BPMS] of that this Agent *is* the system's primary implementation.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The User is the Ghost in the Machine.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of the Avatar):**
+
+Avatar=i=1⋂NBPMSi
+
+The intersection of all systems.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The experience of "Agency" in its purest form. The ability to touch and change every aspect of the world.
+
+#### **7. Rationale / Justification:**
+
+Defines the role of the Player or the primary artificial intelligence in the framework.
+
+#### **8. Scope of Application:**
+
+Player Controller logic, Main Character design, and User Interface design.
 
