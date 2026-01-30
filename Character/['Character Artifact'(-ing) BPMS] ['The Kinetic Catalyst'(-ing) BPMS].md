@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['avatar embodiment'(-ing) BPMS]`
 - **Objective:** To serve as the user's vessel for agency, specifically designed to embody `The Law of Kinetic Genesis`, transforming the user's intent into `atomic facts` through high-velocity `action`.
 - **Scope of Application:** User Agency (The "I" of the simulation), Physics Manipulation, Dynamic Combat, Environmental Reconstruction.
-- **Tag:** `#avatar #kinetic #catalyst #action_engine`
+- **Tag:** `#action #avatar #kinetic #catalyst #action_engine`
 
 ### 1. Identity Profile
 
