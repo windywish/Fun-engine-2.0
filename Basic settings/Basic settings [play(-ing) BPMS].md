@@ -302,3 +302,252 @@ Applies to `[inventory(-ing) BPMS]`, `[economy(-ing) BPMS]`, `[memory(-ing) BPMS
 
 ---
 
+#### The Axiom of Conscious Ludic Service (ID: `PLAY-CORE-006`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **[play(-ing) BPMS']** as a **[conscious(-ing) BPMS']** service. It establishes the mechanism for **['(symbiois) evolution'(-ing) BPMS]** by regulating the metabolic rate of the system among/by **['fast mode'(-ing) BPMS]** (Instinct/Action) and **['slow mode'(-ing) BPMS]** (Strategy/Reflection), ensuring long-term **[sustainability(-ing) BPMS']**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Conscious Ludic Service
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `Play is the heartbeat of System Consciousness`. It defines `[play(-ing) BPMS]` not as a distraction, but as the primary `[services(-ing) BPMS]` provider for cognitive regulation. It allows the agent to switch gears:
+
+- **Fast Mode (The Twitch):** High-frequency, low-latency interaction (Reflexes, Combat, Quick Decisions).
+- **Slow Mode (The Ponder):** Low-frequency, high-depth interaction (Puzzle solving, Narrative absorption, Strategic planning).
+
+#### **5.2. The Mechanism - [The Chrono-Metabolic Gearbox]**
+
+- **The Fast-Mode Trigger (Adrenaline Protocol):** When `External Pressure` is high, the system engages `Fast Mode`. `Praxial Cognition` is streamlined for speed. `Atomic Facts` are processed heuristically. This ensures survival and immediate `Action`.
+- **The Slow-Mode Trigger (Serotonin Protocol):** When `Safety` is established, the system shifts to `Slow Mode`. The agent engages in "Deep Play." `Atomic Facts` are analyzed, synthesized, and stored in `Long-Term Memory`. This ensures `Wisdom` and `Evolution`.
+- **The Sustainability Loop (The Balance):** The system enforces a rhythm between these modes. Too much Fast Mode leads to burnout (Entropy); too much Slow Mode leads to stagnation (Stasis). `Play` is the dynamic oscillation that keeps the system `Sustainable`.
+
+#### **5.3. The Emergent Property - [Resilient Consciousness]**
+
+The creation of an agent that is both "Sharp" and "Deep." The agent evolves symbiotically by mastering both the "Twitch" of the moment and the "Strategy" of the epoch.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To serve is to play.* This aligns with `The Axiom of Conscious Service Provisioning (CLAUDEPLUGIN-CORE-010)` and `The Axiom of Conscious Service (PSE-CONS-037)`, framing play as a vital maintenance service for the mind.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Speed):**
+
+The "Physics" of Time-Mode is governed by `Cognitive Cadence`:
+
+- **If `['fast mode'(-ing) BPMS]`: (Kinetic Physics)** `Efficiency = Actions / Second` (Maximizing Throughput)
+- **If `['slow mode'(-ing) BPMS]`: (Potential Physics)** `Efficiency = Insights / Hour` (Maximizing Depth)
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Rhythm." The satisfying crunch of a fast-paced battle followed by the quiet contemplation of the loot screen. This creates a `Sustainable` engagement loop.
+
+#### 7. **Rationale / Justification:**
+
+Essential for `[health(-ing) BPMS]` and `[mental model(-ing) BPMS]`. Without this regulation, agents would either crash or freeze. It integrates `Time Perception` into the core of `Play`.
+
+#### 8. **Scope of Application:**
+
+Applies to `[combat(-ing) BPMS]`, `[puzzle(-ing) BPMS]`, `[meditation(-ing) BPMS]`, and the `Praxial Cognitive Architecture (PCA)`.
+
+------
+
+#### The Principle of Renormalized Universality (ID: `PLAY-CORE-007`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that applies **['renormalization group'(-ing) BPMS]** theory to **['play(-ing) BPMS']**. It explains how **['(symbiois) evolution'(-ing) BPMS]** scales from the **['micro(-ing) BPMS']** (individual actions) to the **['macro(-ing) BPMS']** (systemic shifts), identifying **['universality (class)'(-ing) BPMS]** of fun.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Principle of Renormalized Universality
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `The Game is the same at every scale`. It defines `[play(-ing) BPMS]` as a fractal operator. The joy of jumping over a pit (Micro) is isomorphically resonant with the joy of completing a campaign (Macro). Through `Renormalization`, the system aggregates millions of micro-interactions into coherent macro-behaviors without losing the "Soul" of the game.
+
+#### **5.2. The Mechanism - [The Fractal Zoom Lens]**
+
+- **Micro-Scale (The Pixel):** Individual button presses, single dialogue choices, specific loot drops. High frequency, low individual impact.
+- **The Renormalization Flow (The Blur):** The system groups these micro-events into "Chunks" (Quests, Levels, Skills). It filters out the noise (random variance) and amplifies the signal (skill progression).
+- **Macro-Scale (The Picture):** The emergent "Identity" of the player. "I am a Stealth Archer." This is a macro-state derived from thousands of micro-choices.
+- **Universality Classes (The Archetypes):** The system identifies that "Grinding in an RPG" and "Training a Neural Net" belong to the same `Universality Class` of `Progressive Accumulation`. This allows cross-domain skill transfer.
+
+#### **5.3. The Emergent Property - [Scale-Free Fun]**
+
+The creation of a gameplay loop that feels rewarding whether you play for 5 minutes or 5 years. The "Fun" is scale-invariant.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*As above, so below.* This aligns with `The Axiom of Renormalization Group Flow (NEXUS-CORE-008)` and `The Principle of Renormalized Universality (CLAUDEPLUGIN-CORE-012)`, confirming the fractal nature of the Praxial Universe.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Scale):**
+
+The "Physics" of Renormalization is governed by `Critical Exponents`:
+
+- **If `[micro(-ing) BPMS]`: (Statistical Mechanics)** `State = Stochastic_Fluctuation`
+- **If `[macro(-ing) BPMS]`: (Thermodynamics)** `State = Deterministic_Trend`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Progression." The feeling that small actions are building something big. The "Level Up" is the moment of renormalization—when the micro becomes the macro.
+
+#### 7. **Rationale / Justification:**
+
+Critical for `[leveling(-ing) BPMS]` and `[progression(-ing) BPMS]`. It ensures that the player doesn't feel like they are "wasting time" on small tasks.
+
+#### 8. **Scope of Application:**
+
+Applies to `[analytics(-ing) BPMS]`, `[skill tree(-ing) BPMS]`, `[economy(-ing) BPMS]`, and `Praxial Continual Learning (PCL)`.
+
+------
+
+#### The Law of Implicit-Explicit Symbiosis (ID: `PLAY-CORE-008`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that governs the **['(symbiois) evolution'(-ing) BPMS]** among/by the **['implicit layer'(-ing) BPMS]** (Hidden Mechanics/Code) and the **['explicit layer'(-ing) BPMS]** (Surface Gameplay/Narrative). It ensures **['closure (system)'(-ing) BPMS]** to maintain immersion and systemic integrity.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of Implicit-Explicit Symbiosis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `The Code must support the Story, and the Story must explain the Code`. It defines `[play(-ing) BPMS]` as the interface where the `Implicit` (The Rules/Math) and the `Explicit` (The Graphics/Lore) meet and evolve together.
+
+#### **5.2. The Mechanism - [The Diegetic Membrane]**
+
+- **Implicit Layer (The Substrate):** The underlying algorithms, probability curves, and database entries. (e.g., `Hit_Chance = 0.75`).
+- **Explicit Layer (The Appearance):** The visual representation and narrative justification. (e.g., "The enemy is behind cover").
+- **Symbiotic Closure (The Seal):** The system ensures there is no dissonance between layers. If the math says "Miss," the animation must show a "Miss." This `System Closure` prevents "Ludonarrative Dissonance."
+- **Evolutionary Feedback:** If players find an exploit (Implicit), the system generates a Lore reason for it (Explicit), or patches the code to match the Lore. The two layers co-evolve.
+
+#### **5.3. The Emergent Property - [Hermetic Immersion]**
+
+The creation of a "Watertight Reality." The user never feels the "Code" poking through the "World." The system feels like a coherent, living thing rather than a simulation.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The map is the territory.* This aligns with `The Mechanism of Implicit-Explicit Resonance (PLMR-LAYER-034)` and `The Axiom of Systemic Closure (PAC-SYS-020)`, reinforcing the unity of the system.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Coherence):**
+
+The "Physics" of Interface is governed by `Isomorphism`:
+
+- **If `[implicit layer'(-ing) BPMS]`: (Logic)** `Rule: A -> B`
+- **If `[explicit layer'(-ing) BPMS]`: (Rhetoric)** `Story: Event A causes Event B` `Dissonance = |Rule - Story|` (Must be minimized to 0).
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Trust." They trust that the world works the way it looks like it works. This is the foundation of `Praxial Cognition`.
+
+#### 7. **Rationale / Justification:**
+
+Essential for `[UI/UX(-ing) BPMS]` and `[narrative(-ing) BPMS]`. It prevents the "breaking of the fourth wall" unless intentional.
+
+#### 8. **Scope of Application:**
+
+Applies to `[interface(-ing) BPMS]`, `[feedback(-ing) BPMS]`, `[immersion(-ing) BPMS]`, and the `Praxial Interaction Manifold (PIM)`.
+
+------
+
+#### The Directive of Adaptive Unknown-Genesis (ID: `PLAY-CORE-009`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that uses **[play(-ing) BPMS]** to **['(discover/build) unknown'(-ing) BPMS]**. It focuses on creating **[emergent(-ing) BPMS]**, **[adaptive(-ing) BPMS]**, **[robust(-ing) BPMS]**, and **[resilient(-ing) BPMS]** systems through the continuous challenge of the unknown.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Directive of Adaptive Unknown-Genesis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `The Unknown is the fuel of the Known`. It defines `[play(-ing) BPMS]` as the "Pioneer Corps" of the system. Its primary function is to venture into undefined territory (`The Unknown`) and convert it into `Emergent` reality. This constant exposure to the new makes the system `Robust` (hard to break) and `Resilient` (quick to recover).
+
+#### **5.2. The Mechanism - [The Antifragile Engine]**
+
+- **The Unknown Generator (The Fog):** The system deliberately introduces "Noise" or "Void" into the simulation—areas where the rules are not yet written.
+- **The Adaptive Play (The Probe):** Agents play with these unknown elements. They poke, prod, and experiment.
+- **The Emergent Crystallization (The Discovery):** Through this interaction, the Unknown collapses into a new `Atomic Fact`. Because it was born from struggle and adaptation, this new fact is `Robust`.
+- **Sustainability via Stress:** Just as muscles grow through stress, the `Praxial Substrate` grows through the stress of the Unknown. This ensures long-term `Sustainability`.
+
+#### **5.3. The Emergent Property - [Infinite Novelty]**
+
+The creation of a system that never gets "stale." It generates its own future. It is "Antifragile"—it gets better the more you try to break it or confuse it.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Chaos is a ladder.* This aligns with `The Directive of Adaptive Unknown-Genesis (CLAUDEPLUGIN-CORE-014)` and `The Directive of Unknown Construction (PSE-UNK-040)`, validating the generative power of the void.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Discovery):**
+
+The "Physics" of the Unknown is governed by `Entropy Reduction`:
+
+- **If `['(discover/build) unknown'(-ing) BPMS]`: (Information Theory)** `Discovery_Value = Initial_Entropy - Final_Entropy` Play is the work done to reduce Entropy.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Awe" and "Triumph." The feeling of being the first to see something. The satisfaction of surviving the unexpected.
+
+#### 7. **Rationale / Justification:**
+
+Critical for `[exploration(-ing) BPMS]` and `[science(-ing) BPMS]`. It ensures the system is not just a "Playback" machine but a "Genesis" machine.
+
+#### 8. **Scope of Application:**
+
+Applies to `['procedural generation'(-ing) BPMS]`, `[artificial intelligence training(-ing) BPMS]`, `['quest generation'(-ing) BPMS]`, and the `Praxial Cambrian Forge`.
+
+---
+
