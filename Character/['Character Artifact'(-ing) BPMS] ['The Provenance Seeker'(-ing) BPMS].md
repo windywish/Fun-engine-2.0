@@ -46,6 +46,6 @@
   - *Function:* A bio-engineered seed that implements **Niche Construction (`FORAGING-CORE-015`)**. When planted, it alters the local `[Spawn Rules]`, terraforming the area to produce specific `[Functional Potentialities]` favored by the user.
   - *Source:* `FORAGING-CORE-015`
 
-### 4.Remark
+### 4. Remark
 
 **BPMS means Behavior pattern/model/system**
