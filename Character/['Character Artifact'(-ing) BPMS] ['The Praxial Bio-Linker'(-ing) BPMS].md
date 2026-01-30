@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['bio-digital embodiment'(-ing) BPMS]`
 - **Objective:** To navigate, connect, and harmonize the bio-digital ecosystem, ensuring pan-vital connectivity (`IOL-CORE-001`) and optimizing the symbiotic evolution (`IOL-CORE-015`) of the user's network.
 - **Scope of Application:** Bio-Digital Symbiosis, Ecological Routing, Empathic Bandwidth Management, Niche Construction.
-- **Tag:** `#biolink #symbiosis #vitality #connector #praxial`
+- **Tag:** `#internet_of_life #biolink #symbiosis #vitality #connector #praxial`
 
 ### 1. Identity Profile
 
