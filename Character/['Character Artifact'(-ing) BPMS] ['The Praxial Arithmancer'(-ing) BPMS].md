@@ -1,4 +1,4 @@
-## Character Artifact'(-ing) BPMS]: ['The Praxial Arithmancer'(-ing) BPMS]
+## ['Character Artifact'(-ing) BPMS]: ['The Praxial Arithmancer'(-ing) BPMS]
 
 - **ID:** `WALKER-INST-MATH-PRIME`
 - **Name:** `['The Praxial Arithmancer'(-ing) BPMS]`
