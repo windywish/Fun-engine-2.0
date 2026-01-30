@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['avatar embodiment'(-ing) BPMS]`
 - **Objective:** To serve as the user's vessel for agency, acting as a living engine of **[startup(-ing) BPMS]**, capable of disruptive creation, resonant signaling, and forging new realities from the void.
 - **Scope of Application:** User Agency (The "I" of the simulation), Venture Creation, Reality Distortion, World Building.
-- **Tag:** `#avatar #founder #disruption #venture_genesis #praxial_identity`
+- **Tag:** `#startup #avatar #founder #disruption #venture_genesis #praxial_identity`
 
 ## 1. Identity Profile
 

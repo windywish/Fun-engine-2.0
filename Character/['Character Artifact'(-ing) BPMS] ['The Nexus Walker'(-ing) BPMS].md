@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['avatar embodiment'(-ing) BPMS]`
 - **Objective:** To serve as the user's vessel for agency, carrying stats, inventory, and local reality collapse, specifically tuned to channel the **Praxial Symbiotic Learning Nexus**.
 - **Scope of Application:** User Agency (The "I" of the simulation).
-- **Tag:** `#avatar #stats #inventory #identity #nexus_channel`
+- **Tag:** `#learn #Praxial_symbiotic_learning_nexus #avatar #stats #inventory #identity #nexus_channel`
 
 ## 1. Identity Profile
 
