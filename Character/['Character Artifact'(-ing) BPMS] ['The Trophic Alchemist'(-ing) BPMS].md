@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['avatar embodiment'(-ing) BPMS]:['Bio-Semantic Integration']`
 - **Objective:** To serve as the user's vessel for `[food(-ing) BPMS]`, carrying the agency of `Trophic Symbiosis`, the stats of `Metabolic Existence`, and the inventory of `Edible Realities` to collapse local reality into `Somatic Gnosis`.
 - **Scope of Application:** User Agency (The "I" of the Metabolic Process).
-- **Tag:** `#gourmand #bio_hacking #trophic_symbiosis #culinary_alchemy`
+- **Tag:** `#food #gourmand #bio_hacking #trophic_symbiosis #culinary_alchemy`
 
 ### 1. Identity Profile
 
