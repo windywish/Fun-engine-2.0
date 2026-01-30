@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['avatar embodiment'(-ing) BPMS]`
 - **Objective:** To serve as the user's vessel for agency, carrying stats, inventory, and local reality collapse, specifically tuned for `['Praxial Clinical Engine (PCE)'(-ing) BPMS]` interaction and evolution.
 - **Scope of Application:** User Agency (The "I" of the simulation) within Clinical, Diagnostic, and Reparative Contexts.
-- **Tag:** `#avatar #healer #debugger #ontological_surgeon #pce #symbiosis`
+- **Tag:** `#medincine #praxial_clinical_engine #avatar #healer #debugger #ontological_surgeon #pce #symbiosis`
 
 ### 1. Identity Profile
 
