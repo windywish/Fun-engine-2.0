@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['world-building axiom'(-ing) BPMS]`
 - **Objective:** To define the immutable static lore, physics constants, and geographical axioms that the World-Engine must render for a reality governed by the **[Activities(-ing) BPMS]**.
 - **Scope of Application:** Global Context (The "Truth" of the simulation).
-- **Tag:** `#world-seed #activity-physics #praxial-flow #axioms`
+- **Tag:** `#activities #world-seed #activity-physics #praxial-flow #axioms`
 
 ### 1. Thematic Core
 
@@ -96,3 +96,8 @@
 ### 4.Remark
 
 **BPMS of Behavior pattern/model/system**
+
+
+
+
+
