@@ -1,4 +1,4 @@
-## ['services'(-ing) BPMS]: ['Praxial Learning Service'(-ing) BPMS]
+## [services(-ing) BPMS]: ['Praxial Learning Service'(-ing) BPMS]
 
 #### Framework Foundation:
 
@@ -324,3 +324,6 @@ The **['Praxial Learning Service'(-ing) BPMS]** is a radical reimagining of educ
 - **Passive** (Listening) -> **Praxial** (Doing)
 
 It is a **System Existence Engine** for the **School of the Future**, where the school is not a building, but a ubiquitous, intelligent, and caring layer of reality that helps every individual become their best self. It is the ultimate fulfillment of the **Fun Engine Framework's** promise: to make the hard work of learning into the serious fun of world-building.
+
+
+
