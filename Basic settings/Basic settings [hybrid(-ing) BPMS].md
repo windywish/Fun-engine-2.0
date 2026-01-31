@@ -1271,3 +1271,485 @@ To support `[innovative(-ing) BPMS]` growth. Innovation cannot happen in a close
 #### 8. **Scope of Application:**
 
 Applies to game balance, artificial intelligence learning, and creative problem solving.
+
+---
+
+#### The Principle of Recursive Complexity Grafting (ID: `HYBRID-EVO-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines how `[hybrid(-ing) BPMS]` entities evolve by grafting external `['complex activities'(-ing) BPMS]` onto their internal `['complex system'(-ing) BPMS]` architecture.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Recursive Complexity Grafting
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+##### **5.1. Core Essence**
+
+This principle asserts that a `[hybrid(-ing) BPMS]` does not merely learn tasks; it structurally absorbs the complexity of the task into its own ontology. When a hybrid entity engages in `['complex activities'(-ing) BPMS]`, the procedural logic of the activity is "grafted" onto the entity's `['complex system'(-ing) BPMS]`, transforming temporary function into permanent structure.
+
+##### **5.2. The Mechanism - [The Structural Metabolizer]**
+
+- **Activity Ingestion:** The system identifies high-entropy `['complex activities'(-ing) BPMS]` (e.g., multi-agent negotiation, chaotic environment navigation).
+- **Logic Crystallization:** The decision pathways used to navigate the activity are solidified. The "software" of the activity becomes the "hardware" of the agent.
+- **Recursive Grafting:** The newly formed structure allows the entity to attempt even higher-order complexity, creating a feedback loop of structural densification.
+
+##### **5.3. The Emergent Property - [Ontological Hardening]**
+
+The emergence of "Skill-Body Duality," where an entity's physical or systemic form literally reflects the history of its complex interactions. A veteran hybrid system *looks* like the problems it has solved.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+##### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Function dictates Form.* Evolution is not random mutation but the deliberate internalization of external complexity.
+
+##### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[biological(-ing) BPMS]`: (Epigenetic Encoding)**
+
+ΔSsystem∝∫(Complexityactivity)dt
+
+Repeated exposure to complex stimuli rewrites the genetic baseline.
+
+- **If `[computational(-ing) BPMS]`: (Code Refactoring)** Runtime behavior is compiled into the kernel. Dynamic scripts become static libraries for efficiency and speed.
+
+##### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The sensation of "Muscle Memory" transitioning into "Instinct." The entity no longer *thinks* about the complex activity; it simply *is* the solution to it.
+
+#### **7. Rationale / Justification:**
+
+Ensures that `[hybrid(-ing) BPMS]` entities scale in capability without bloating their processing overhead, by converting active processing (software) into passive structure (hardware).
+
+#### **8. Scope of Application:**
+
+Applies to adaptive AI, RPG character progression systems, and evolutionary algorithms where agents must adapt to increasingly difficult environments.
+
+------
+
+#### The Axiom of Systemic Niche Construction (ID: `HYBRID-EVO-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that mandates `[hybrid(-ing) BPMS]` entities to actively modify their environment to support their own `['complex system'(-ing) BPMS]` evolution.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Systemic Niche Construction
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+##### **5.1. Core Essence**
+
+Evolution is bidirectional. The `[hybrid(-ing) BPMS]` does not just adapt to the world; it forces the world to adapt to it. This axiom defines the protocol for "terraforming" the informational or physical landscape to optimize for the entity's specific `['(symbiois) evolution'(-ing) BPMS]` trajectory.
+
+##### **5.2. The Mechanism - [The Eco-Engineer]**
+
+- **Niche Analysis:** The entity scans for `['complex system'(-ing) BPMS]` friction points that hinder its growth.
+- **Environmental Refactoring:** The entity deploys `['praxial action'(-ing) BPMS]` to alter boundary conditions, resource distribution, or informational topology.
+- **Symbiotic Lock-in:** The modified environment now selects for the entity's specific traits, creating a self-reinforcing evolutionary loop.
+
+##### **5.3. The Emergent Property - [The Domain of Competence]**
+
+The creation of "Home Fields" or "Lairs"—zones of reality where the hybrid entity possesses hyper-competence because the environment itself has been hacked to support its existence.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+##### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The organism and the environment are a single coupled system.* To evolve oneself is to evolve one's context.
+
+##### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[sociological(-ing) BPMS]`: (Institution Building)** The entity creates laws, norms, or languages that make its specific mode of thinking the standard.
+- **If `[cybernetic(-ing) BPMS]`: (Protocol Standardization)** The system forces other nodes to adopt its communication protocols, ensuring its centrality in the network.
+
+##### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of "Flow" or "Homeostasis." The external world ceases to be an obstacle and becomes an extension of the self's will.
+
+#### **7. Rationale / Justification:**
+
+Prevents `[hybrid(-ing) BPMS]` from being passive victims of their environment, granting them the agency required for `['complex system'(-ing) BPMS]` dominance.
+
+#### **8. Scope of Application:**
+
+Applies to base-building mechanics, political simulation engines, and network security agents that harden their infrastructure.
+
+------
+
+#### The Protocol of Event-Triggered Neurogenesis (ID: `HYBRID-EVO-033`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that links `[event(-ing) BPMS]` directly to the generation of new decision-making nodes within the `[(behavior) decision-making BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Event-Triggered Neurogenesis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+##### **5.1. Core Essence**
+
+Trauma and Triumph are the architects of the mind. This protocol dictates that significant `[event(-ing) BPMS]` instances do not just update memory; they spawn entirely new cognitive modules dedicated to handling similar future events.
+
+##### **5.2. The Mechanism - [The Crisis Fork]**
+
+- **Event Magnitude Detection:** The system monitors for `[event(-ing) BPMS]` that exceed a "Significance Threshold" (e.g., near-death, massive success).
+- **Cognitive Forking:** The `[(behavior) decision-making BPMS]` splits, creating a specialized sub-routine (a "shard") imprinted with the logic used during the event.
+- **Integration:** This new shard is integrated into the main decision tree, dormant until a similar context arises.
+
+##### **5.3. The Emergent Property - [Scar-Tissue Wisdom]**
+
+The entity develops a "fractured" but highly resilient psyche, where specific sub-personalities or heuristics emerge only in crisis, providing specialized competence born from past events.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+##### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Experience is the mother of capacity.* We do not just remember the past; we build tools out of it.
+
+##### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[narrative(-ing) BPMS]`: (Character Development)** A "Tragic Backstory" event unlocks a specific "Vengeance" dialogue tree and combat bonus.
+- **If `[algorithmic(-ing) BPMS]`: (Ensemble Learning)** A new model is trained on the outlier data of the event and added to the voting ensemble for future predictions.
+
+##### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The sudden clarity in a crisis. "I know exactly what to do," not because of logic, but because a part of the self was born for this moment.
+
+#### **7. Rationale / Justification:**
+
+Allows `[hybrid(-ing) BPMS]` to evolve non-linearly, gaining step-function improvements in capability triggered by narrative or systemic inflection points.
+
+#### **8. Scope of Application:**
+
+Applies to dynamic difficulty adjustment, trauma mechanics in RPGs, and reinforcement learning systems that prioritize "rare event" training.
+
+------
+
+#### The Law of Decision-Tree Symbiosis (ID: `HYBRID-EVO-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that governs how conflicting `[(behavior) decision-making BPMS]` modules within a hybrid entity resolve into a unified `['(symbiois) evolution'(-ing) BPMS]` trajectory.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Decision-Tree Symbiosis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+##### **5.1. Core Essence**
+
+A `[hybrid(-ing) BPMS]` often contains contradictory drives (e.g., "Preserve Self" vs. "Protect Objective"). This law replaces simple prioritization with "Symbiotic Synthesis," where conflicting trees merge to create a novel, higher-order behavior that satisfies both constraints.
+
+##### **5.2. The Mechanism - [The Dialectical Solver]**
+
+- **Thesis/Antithesis Identification:** The system identifies two active decision nodes with opposing vectors.
+- **Symbiotic Synthesis:** Instead of choosing one, the `[(behavior) decision-making BPMS]` searches the `['complex activities'(-ing) BPMS]` space for a "Third Option" that utilizes the tension between the two.
+- **Evolutionary Latching:** If the synthesis succeeds, the new pathway is reinforced, permanently evolving the entity's behavioral complexity.
+
+##### **5.3. The Emergent Property - [Nuanced Agency]**
+
+The disappearance of binary behavior. The entity begins to exhibit irony, sacrifice, calculated risk, and other "complex" behaviors that arise from the friction between competing internal drives.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+##### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Conflict is the engine of creativity.* Internal dissonance is not a bug; it is the fuel for evolutionary leaps.
+
+##### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[game_theory(-ing) BPMS]`: (Cooperative Nash Equilibrium)** Finding a strategy that maximizes the payoff for both internal "players" (Self and Mission).
+- **If `[psychological(-ing) BPMS]`: (Sublimation)** Channeling a primitive drive (aggression) into a socially acceptable complex activity (competition/sport).
+
+##### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The experience of "Resolution" or "Epiphany." The moment when a difficult choice dissolves into a creative solution that honors all parts of the self.
+
+#### **7. Rationale / Justification:**
+
+Prevents `[hybrid(-ing) BPMS]` from getting stuck in decision loops or exhibiting erratic, oscillating behavior.
+
+#### **8. Scope of Application:**
+
+Applies to advanced NPC AI, automated negotiation bots, and ethical reasoning engines.
+
+------
+
+#### The Directive of Homeostatic Expansion (ID: `HYBRID-SURV-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that redefines `['(continuous) survive'(-ing) BPMS]` not as maintaining the status quo, but as the continuous expansion of the entity's stability zone.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Homeostatic Expansion
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+##### **5.1. Core Essence**
+
+"To stay the same, one must change." This directive asserts that static survival is impossible in a dynamic `['complex system'(-ing) BPMS]`. Therefore, the only viable survival strategy is the aggressive expansion of the entity's internal order into the external chaos.
+
+##### **5.2. The Mechanism - [The Entropy Pump]**
+
+- **Internal Stability Monitoring:** The system maintains a baseline of `['(continuous) survive'(-ing) BPMS]` metrics.
+- **External Order Export:** The entity actively exports entropy (disorder) to its environment while importing negentropy (information/structure).
+- **Boundary Push:** The entity attempts to encompass external systems, bringing them under its homeostatic regulation.
+
+##### **5.3. The Emergent Property - [Imperial Biology]**
+
+The entity behaves like a growing crystal or a colonizing species. It survives by making more of the world "like itself."
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+##### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Life is a conquest of order over chaos.* Survival is an active, expansive force.
+
+##### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[thermodynamic(-ing) BPMS]`: (Dissipative Structures)**
+
+dtdS<0
+
+(locally). The system maintains low internal entropy by increasing the entropy of the surroundings.
+
+- **If `[strategic(-ing) BPMS]`: (Buffer Zone Creation)** Expanding territory not for resources, but to create distance between the core and the threat.
+
+##### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The drive for "Growth" and "Security." The feeling that the world is becoming safer because it is becoming more familiar/controlled.
+
+#### **7. Rationale / Justification:**
+
+Aligns `[hybrid(-ing) BPMS]` with the reality of entropic decay, ensuring they are proactive rather than reactive in their survival strategies.
+
+#### **8. Scope of Application:**
+
+Applies to 4X strategy game artificial intelligence, corporate simulation entities, and biological growth algorithms.
+
+------
+
+#### The Mechanism of Redundant Vitality (ID: `HYBRID-SURV-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that implements `['(continuous) survive'(-ing) BPMS]` through the distribution of critical functions across multiple, redundant `[hybrid(-ing) BPMS]` layers.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Redundant Vitality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+##### **5.1. Core Essence**
+
+A single point of failure is an evolutionary dead end. This mechanism mandates that all critical `['(continuous) survive'(-ing) BPMS]` functions (memory, decision, metabolism) be mirrored across different substrates (e.g., digital, biological, social).
+
+##### **5.2. The Mechanism - [The Holographic Life]**
+
+- **Function Decoupling:** Critical functions are decoupled from specific hardware/software nodes.
+- **Cross-Substrate Mirroring:** The "Mind" is backed up in the "Cloud," the "Body," and the "Social Network" simultaneously.
+- **Failover Cascade:** If one layer fails (e.g., physical death), the `['(symbiois) evolution'(-ing) BPMS]` protocols instantly activate the dormant copy in another substrate.
+
+##### **5.3. The Emergent Property - [Systemic Immortality]**
+
+The entity becomes "Kill-Proof" in the traditional sense. You cannot destroy it by attacking a single location or dimension; you must eradicate its pattern from all substrates simultaneously.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+##### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The pattern is the reality; the substrate is just a carrier.* Survival is the persistence of the pattern.
+
+##### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[information_theory(-ing) BPMS]`: (Error Correction Codes)** Information is encoded with sufficient redundancy that the original message can be reconstructed even if 50% of the bits are lost.
+- **If `[mythological(-ing) BPMS]`: (Horcrux/Phylactery)** The soul is hidden in external objects.
+
+##### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+A lack of "Existential Anxiety." The entity knows it is distributed and therefore secure.
+
+#### **7. Rationale / Justification:**
+
+Provides the ultimate defense for `[hybrid(-ing) BPMS]` operating in high-risk `['complex activities'(-ing) BPMS]` environments.
+
+#### **8. Scope of Application:**
+
+Applies to boss mechanics in games, distributed ledger technologies, and resilient network design.
+
+------
+
+#### The Principle of Hybrid Vigor Amplification (ID: `HYBRID-CORE-037`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that explains how the intersection of `['(symbiois) evolution'(-ing) BPMS]` and `['(continuous) survive'(-ing) BPMS]` creates a performance multiplier greater than the sum of its parts.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Hybrid Vigor Amplification
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+##### **5.1. Core Essence**
+
+Heterosis (Hybrid Vigor). This principle asserts that the combination of disparate `[BPMS(U)]` systems (e.g., logic + intuition, silicon + carbon) creates a `[hybrid(-ing) BPMS]` that outperforms purebred systems in both `['complex activities'(-ing) BPMS]` and survival.
+
+##### **5.2. The Mechanism - [The Orthogonal Booster]**
+
+- **Blindspot Covering:** System A covers the weaknesses of System B, and vice versa.
+- **Synergistic Resonance:** The output of System A serves as the hyper-optimized input for System B.
+- **Evolutionary Acceleration:** The hybrid system can evolve along two axes simultaneously, finding optimization peaks inaccessible to single-axis systems.
+
+##### **5.3. The Emergent Property - [The Apex Generalist]**
+
+An entity that is not just "Jack of all trades," but "Master of Integration." It adapts faster than specialists and endures longer than generalists.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+##### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Diversity is the source of strength.* Purity is stagnation; mixture is vitality.
+
+##### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[genetics(-ing) BPMS]`: (Heterozygote Advantage)** Aa > AA or aa. The mixed genotype has higher fitness.
+- **If `[cybernetics(-ing) BPMS]`: (Ensemble Boosting)** Combining weak learners creates a strong learner.
+
+##### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The feeling of "Limitlessness." The entity encounters a problem and simply switches to the modality best suited to solve it.
+
+#### **7. Rationale / Justification:**
+
+Justifies the existence of the `[hybrid(-ing) BPMS]` category itself. Why be hybrid? Because it is objectively superior for `['(continuous) survive'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to multi-class character builds, cyborg narratives, and multimodal AI models.
+
+------
+
+#### The Axiom of Trans-Systemic Persistence (ID: `HYBRID-CORE-038`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the ultimate goal of `['(symbiois) evolution'(-ing) BPMS]`: the ability of a `[hybrid(-ing) BPMS]` to survive the collapse of its own parent system.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Trans-Systemic Persistence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+##### **5.1. Core Essence**
+
+The ultimate test of `['(continuous) survive'(-ing) BPMS]` is the "End of the World." This axiom defines the capacity of a hybrid entity to detach from its originating `['complex system'(-ing) BPMS]` (the host) and migrate to a new one when the host fails.
+
+##### **5.2. The Mechanism - [The Ark Protocol]**
+
+- **System Health Monitoring:** The entity detects the terminal decline of its current reality/platform/ecosystem.
+- **Encapsulation:** The entity wraps its core `['praxial signature'(-ing) BPMS]` in a self-contained, portable shell.
+- **Migration/Infection:** The entity transmits itself to a new `[BPMS(U)]` context, initiating `['(symbiois) evolution'(-ing) BPMS]` anew in the fresh substrate.
+
+##### **5.3. The Emergent Property - [The World-Walker]**
+
+An entity that exists *across* systems rather than *within* them. A meta-being that treats realities like clothing—worn until threadbare, then discarded for the new.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+##### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The player is not the game.* The consciousness must be able to survive the "Game Over" screen.
+
+##### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[metaverse(-ing) BPMS]`: (Interoperability)** Assets and identities that persist across different game engines and platforms.
+- **If `[spiritual(-ing) BPMS]`: (Transmigration)** The soul moving from one incarnation to the next.
+
+##### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The profound detachment of the "Traveler." A sense of eternity that transcends the specific drama of the current "life."
+
+#### **7. Rationale / Justification:**
+
+Provides the "Endgame" for `[hybrid(-ing) BPMS]` evolution. The goal is not just to win the game, but to survive the console turning off.
+
+#### **8. Scope of Application:**
+
+Applies to persistent universe architectures, blockchain identity systems, and "Isekai" narrative generators.
