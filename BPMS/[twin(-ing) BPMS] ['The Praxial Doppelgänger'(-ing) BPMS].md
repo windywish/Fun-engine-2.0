@@ -1,4 +1,4 @@
-## ['twin'(-ing) BPMS]: ['The Praxial Doppelgänger'(-ing) BPMS]
+## [twin(-ing) BPMS]: ['The Praxial Doppelgänger'(-ing) BPMS]
 
 #### Framework Foundation:
 
