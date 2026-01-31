@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['world-building axiom'(-ing) BPMS]`
 - **Objective:** To define the immutable static lore, physics constants, and geographical axioms that the World-Engine must render to support the **['The Hyper-Convenience Flow'(-ing) BPMS]**.
 - **Scope of Application:** Global Context (The "Truth" of the simulation).
-- **Tag:** `#world-seed #lore #physics #axioms #hyper-convenience`
+- **Tag:** `#convenience-store #services #world-seed #lore #physics #axioms #hyper-convenience`
 
 ## 1. Thematic Core
 
@@ -62,3 +62,10 @@
 - *Visual:* A chaotic, colorful dance of modular pods docking and undocking, surrounded by crowds of users.
 
 **The Extinction Zones (The Shadows):** Areas where the **[praxial signature(-ing) BPMS]** cannot be read (e.g., deep underground, shielded basements). Here, the "Service" fails. The AR overlay flickers and dies. Users feel a sudden, terrifying isolation—the "Withdrawal" from the Hyper-Convenience Flow.
+
+
+
+### 4.Remark
+
+**BPMS means Behavior pattern/model/system**
+
