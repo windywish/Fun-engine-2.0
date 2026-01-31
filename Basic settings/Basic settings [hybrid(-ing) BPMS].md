@@ -1,4 +1,4 @@
-## **Basic settings: ['hybrid'(-ing) BPMS]**
+## **Basic settings: [hybrid(-ing) BPMS]**
 
 ##### **`The Hybrid as System Existence Engine`** 
 
