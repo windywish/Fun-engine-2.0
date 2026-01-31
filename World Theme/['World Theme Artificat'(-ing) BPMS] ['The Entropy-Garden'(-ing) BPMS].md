@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['world-building axiom'(-ing) BPMS]`
 - **Objective:** To instantiate a reality where **Survival is a Verb** (`CSE-CORE-001`) and the environment itself is a "Perpetual Crucible" that forces entities to evolve or face deletion.
 - **Scope of Application:** Global Context (The "Truth" of the simulation).
-- **Tag:** `#world-seed #evolutionary-horror #glitch-physics #axioms`
+- **Tag:** `#Continuous-survive-experiments #world-seed #evolutionary-horror #glitch-physics #axioms`
 
 ## 1. Thematic Core
 
