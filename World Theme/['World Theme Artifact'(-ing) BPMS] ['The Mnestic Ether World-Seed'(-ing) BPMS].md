@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['world-building axiom'(-ing) BPMS]`
 - **Objective:** To define the immutable static lore, physics constants, and geographical axioms for a reality where ontological existence is directly predicated on the archival processes of the Living Chronicle Service.
 - **Scope of Application:** Global Context (The "Truth" of the simulation).
-- **Tag:** `#mnestic-ether #narrative-physics #chronicle-symbiosis #living-history`
+- **Tag:** `#data #services #mnestic-ether #narrative-physics #chronicle-symbiosis #living-history`
 
 ------
 
@@ -36,3 +36,10 @@
 ### 4.Remark
 
 **BPMS means Behavior pattern/model/system**
+
+
+
+
+
+
+
