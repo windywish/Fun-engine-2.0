@@ -774,3 +774,1008 @@ These settings address the fundamental **Metabolic and Epistemic Cycles** of the
 
 **Scope of Application:** Resource management, combat balance, economic simulation.
 
+---
+
+#### `The Protocol of Teleological Alignment` (**ID:** `TASK-ALIGN-024`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Symbiotic Evolution** among/by **`[mission(-ing) BPMS]`** (The Why/Strategy) and **`[task(-ing) BPMS]`** (The What/Tactic). It asserts that a Task is only valid if it aligns with a Mission.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Teleological Alignment
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `Action without Purpose is Entropy`. A `[task(-ing) BPMS]` is not an isolated event; it is a vector component of a larger `[mission(-ing) BPMS]`. The system must constantly calculate the "Dot Product" (Alignment) among/by the Task Vector and the Mission Vector.
+
+#### **5.2. The Mechanism - [The Vector Projection Check]**
+
+- **The Mission Vector (M):** The global goal (e.g., "Save the Kingdom").
+- **The Task Vector (T):** The local action (e.g., "Kill the Rat").
+- **The Projection:** The system calculates P=∣M∣T⋅M.
+- The Validation:
+  - If P>0: The Task contributes to the Mission (Valid).
+  - If P≤0: The Task is a distraction or sabotage (Invalid/Waste).
+
+#### **5.3. The Emergent Property - [Strategic Coherence]**
+
+The system naturally filters out "Busy Work." Agents stop doing random things and start doing *relevant* things. The "Quest Log" becomes a coherent narrative arc rather than a laundry list of chores.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+**Teleology.** The explanation of phenomena in terms of the purpose they serve rather than of the cause by which they arise.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**Vector Projection.** Decomposing a vector into components parallel and orthogonal to a target axis.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+**"Meaningfulness."** The player feels that their small actions matter to the big picture.
+
+#### **7. Rationale / Justification:**
+
+Prevents "Ludonarrative Dissonance" where the gameplay (Tasks) contradicts the story (Mission).
+
+#### **8. Scope of Application:**
+
+Quest design, AI goal planning (GOAP), narrative consistency checks.
+
+------
+
+#### `The Law of Resolution Scaling` (**ID:** `TASK-RES-025`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Symbiotic Evolution** among/by **`[coarse-grained (model) (-ing) BPMS]`** (Abstraction) and **`[fine-grained (model) (-ing) BPMS]`** (Simulation). It asserts that **Task Complexity determines World Resolution**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Resolution Scaling
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `Detail is a Function of Attention`. The world does not exist at infinite resolution everywhere. The `[task(-ing) BPMS]` acts as the "Focus Knob." When a Task targets an object, that object is "Up-Res'd" from a Coarse Model (Icon) to a Fine Model (Simulation).
+
+#### **5.2. The Mechanism - [The LOD (Level of Detail) Actuator]**
+
+- **Idle State:** Object X is a `[coarse-grained entity]` (e.g., "A Forest"). Properties: {Size, Biome}.
+- **Task Engagement:** Agent initiates Task "Analyze Soil Sample in Forest."
+- **Transition:** The Task forces the system to generate `[fine-grained details]` for the local area.
+- **Active State:** Object X becomes a `[fine-grained simulation]` (e.g., "Specific Trees, pH levels, Bugs").
+
+#### **5.3. The Emergent Property - [Computational Efficiency]**
+
+The system saves massive resources by only simulating the physics/chemistry of things that are currently being "Tasked." The rest of the universe runs on "Dream Logic" (Statistics).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+**Economy of Mechanism.** Nature operates with the minimum necessary expenditure of energy.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**Adaptive Mesh Refinement.** Increasing the grid resolution only in regions of interest.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+**"Zooming In."** The feeling of diving deep into a subject.
+
+#### **7. Rationale / Justification:**
+
+Essential for `['sustainability(-ing) BPMS]`. Allows the engine to simulate vast worlds without crashing.
+
+#### **8. Scope of Application:**
+
+Rendering engines, physics simulations, procedural generation depth.
+
+------
+
+#### `The Axiom of Stigmergic Coordination` (**ID:** `TASK-STIG-026`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Symbiotic Evolution** among/by **`[particle (-ing) BPMS]`** (The Agent) and **`[field (-ing) BPMS]`** (The Environment). It asserts that **Tasks leave Traces**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Stigmergic Coordination
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `Communication is Environmental`. Agents don't need to talk to coordinate. They coordinate by modifying the environment through Tasks. A completed Task leaves a "Pheromone" (Field) that biases the probability of future Tasks for other Agents.
+
+#### **5.2. The Mechanism - [The Task-Field Coupling]**
+
+- **Action:** Agent A completes Task "Build Road."
+- **Field Update:** The environment updates its `[Navigation_Field]`. The "Cost of Movement" in that sector decreases.
+- **Reaction:** Agent B, scanning for a path, naturally chooses the Road based on the [atomic facts BPMS] of that it is the path of least resistance.
+- **Loop:** Agent B's usage reinforces the Road (Maintenance Task).
+
+#### **5.3. The Emergent Property - [Swarm Intelligence]**
+
+Complex, organized structures (Cities, Markets, Ant Hills) emerge from simple, local Tasks without a central planner. The "Map" becomes the "Manager."
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+**Stigmergy.** Indirect coordination among/by agents or actions.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**Scalar Fields.** ϕ(x,t). The Task modifies the value of the field at point x.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+**"Desire Paths."** Seeing where others have walked and following them.
+
+#### **7. Rationale / Justification:**
+
+Enables realistic `['social experiments'(-ing) BPMS]` and crowd dynamics.
+
+#### **8. Scope of Application:**
+
+Pathfinding, economy, faction influence, traffic simulation.
+
+------
+
+#### `The Principle of Autopoietic Task-Genesis` (**ID:** `TASK-AUTO-027`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Symbiotic Evolution** among/by **`[autopoietic(-ing) BPMS]`** (Self-Creation) and **`[allopoietic(-ing) BPMS]`** (Other-Creation). It asserts that **The System Generates its Own Work**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Autopoietic Task-Genesis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `Life creates Needs`. A dead system is static. A living system constantly generates new `[task(-ing) BPMS]` instances just to maintain itself. The system does not wait for the user to create quests; it generates them internally to solve its own imbalances.
+
+#### **5.2. The Mechanism - [The Homeostatic Generator]**
+
+- **Monitor:** The System monitors its internal variables (e.g., "Economy Health," "Monster Population").
+- **Imbalance:** A variable goes out of bounds (e.g., "Too many Wolves").
+- **Genesis:** The System automatically spawns a Task: "Cull Wolves."
+- **Assignment:** It offers this Task to suitable Agents (Players/NPCs) with a reward calculated to restore balance.
+
+#### **5.3. The Emergent Property - [Living Content]**
+
+The game world feels "Alive" because it has its own agenda. It asks for help. It reacts to neglect. The content is infinite because the system's metabolism is infinite.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+**Autopoiesis.** A system capable of reproducing and maintaining itself.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**Negative Feedback Loops.** Error correction mechanisms that spawn correction vectors (Tasks).
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+**"Dynamic Events."** "The village is under attack!" "The market is crashing!"
+
+#### **7. Rationale / Justification:**
+
+Reduces the burden on manual content creation. The system becomes a "Perpetual Quest Machine."
+
+#### **8. Scope of Application:**
+
+Dynamic quest systems, ecosystem management, economy balancing.
+
+------
+
+#### `The Mechanism of Metasystemic Regulation` (**ID:** `TASK-META-028`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Symbiotic Evolution** among/by **`[metasystem(-ing) BPMS]`** (The Rules/Governor) and **`[system(-ing) BPMS]`** (The Game/State). It asserts that **Tasks can Rewrite Rules**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Metasystemic Regulation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `The Game is Playable Code`. Most Tasks change the *State* of the game (e.g., HP - 10). A Metasystemic Task changes the *Rules* of the game (e.g., Max HP = 200). This allows for "Constitutional" or "Legislative" gameplay.
+
+#### **5.2. The Mechanism - [The Axiom-Write Permission]**
+
+- **Standard Task:** Read/Write access to `[attribute(-ing) BPMS]` (Variables).
+- **Meta-Task:** Read/Write access to `[property(-ing) BPMS]` (Constants/Logic).
+- **Constraint:** Meta-Tasks require significantly higher `['potential (energy)'(-ing) BPMS]` and often `['holonic convergence']` (Consensus) to execute.
+
+#### **5.3. The Emergent Property - [Political Evolution]**
+
+Players can vote to change the tax rate, ban a weapon, or alter the physics of a zone. The system evolves from a Dictatorship (Dev-controlled) to a Democracy (User-controlled).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+**Cybernetics (Second-Order).** The system that observes and steers the system.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**Reflection.** A program's ability to inspect and modify its own structure and behavior.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+**"Passing Laws,"** "Modding," "Server Settings."
+
+#### **7. Rationale / Justification:**
+
+Empowers the community to govern their own experience.
+
+#### **8. Scope of Application:**
+
+Guild politics, server governance, magic spell creation (modifying physics).
+
+------
+
+#### `The Protocol of Executable Ontology` (**ID:** `TASK-CODE-029`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Symbiotic Evolution** among/by **`[language(-ing) BPMS]`** (Code/Word) and **`[reality(-ing) BPMS]`** (World/Object). It asserts that **Task Instructions are Spells**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Executable Ontology
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `To Speak is to Program`. In the Praxial Framework, the instructions of a Task are not just text; they are executable code. When an Agent "casts a spell" or "issues a command," they are injecting a script into the `['system matrix'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Semantic Compiler]**
+
+- **Input:** Natural Language Task Instruction (e.g., "Protect the King").
+- **Compilation:** The system parses this into `['praxial logic']` (e.g., `IF (King.Health < 100) THEN (Agent.Cast(Heal, King))`).
+- **Execution:** The `[task(-ing) BPMS]` runs this logic loop until completion or failure.
+
+#### **5.3. The Emergent Property - [Magic/Coding Equivalence]**
+
+Magic systems and Coding systems are treated as identical. A Wizard is just a Coder who uses incantations instead of syntax. This unifies the "Tech" and "Magic" trees.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+**Logos.** The Word that creates the World.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**Homoiconicity.** Code as Data. The game state and the game logic are accessible in the same format.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+**"Scripting,"** "Spellcrafting," "Command Blocks."
+
+#### **7. Rationale / Justification:**
+
+Allows for deep customization and "Programmable Agents."
+
+#### **8. Scope of Application:**
+
+Magic systems, AI behavior scripting, automation tools.
+
+------
+
+#### `The Law of Chrono-Synaptic Binding` (**ID:** `TASK-TIME-030`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Symbiotic Evolution** among/by **`[time(-ing) BPMS]`** (Duration) and **`[space(-ing) BPMS]`** (Location). It asserts that **Tasks Create Time**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Chrono-Synaptic Binding
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `Time is the Cost of Change`. Time does not flow at a constant rate; it flows at the rate of Task execution. A complex Task "consumes" more Time-Units. If no Tasks are running, Time stands still (Pause).
+
+#### **5.2. The Mechanism - [The Tick-Rate Coupling]**
+
+- **The Tick:** The fundamental unit of system time.
+- **The Cost:** Every `[task(-ing) BPMS]` has a `Time_Cost` parameter.
+- **The Binding:** When an Agent executes a Task, they are "bound" to that location for `Time_Cost` ticks. They cannot exist elsewhere.
+- **The Flow:** The global clock advances as the aggregate of all local Task completions.
+
+#### **5.3. The Emergent Property - [Relativistic Gameplay]**
+
+Time becomes a resource to be managed. "Haste" effects simply reduce the `Time_Cost` of Tasks. "Slow" effects increase it.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+**Relational Time.** Time is a measure of change, not an absolute container.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**Discrete Event Simulation.** The simulation jumps from one event (Task end) to the next.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+**"Cooldowns,"** "Cast Times," "Turn-Based vs. Real-Time."
+
+#### **7. Rationale / Justification:**
+
+Essential for balancing the economy of action. Prevents "Spamming."
+
+#### **8. Scope of Application:**
+
+Combat balance, crafting times, travel duration.
+
+------
+
+#### `The Axiom of Null-State Potentiality` (**ID:** `TASK-VOID-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Symbiotic Evolution** among/by **`[void(-ing) BPMS]`** (Non-Existence) and **`[existence(-ing) BPMS]`** (Being). It asserts that **Tasks can Access the Void**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Null-State Potentiality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `The Void is the Source`. The `[void(-ing) BPMS]` is not empty; it is the reservoir of un-instantiated potential. A "Summoning Task" or "Creation Task" pulls an entity *out* of the Void and into Existence. A "Deletion Task" returns it to the Void.
+
+#### **5.2. The Mechanism - [The Ontological Gate]**
+
+- **Creation:** Task `Instantiate(ID)` pulls data from the `['blueprint library']` (Void) and allocates memory in the `['system matrix']` (Existence).
+- **Destruction:** Task `Delete(ID)` de-allocates memory and returns the energy to the `['potential pool']`.
+- **Balance:** The system maintains an equation: `Existence + Potential = Constant`. You cannot create without consuming Potential.
+
+#### **5.3. The Emergent Property - [Conservation of Reality]**
+
+The world feels grounded because things don't just "poof" into existence for free. Everything comes from somewhere (The Void/Potential) and has a cost.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+**Ex Nihilo (Qualified).** Creation from the "Nothing" which is actually "Everything in Potential."
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**Memory Allocation/Deallocation.** `malloc()` and `free()`.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+**"Summoning,"** "Despawning," "Respawning."
+
+#### **7. Rationale / Justification:**
+
+Prevents memory leaks and infinite inflation. Defines the lifecycle of all entities.
+
+#### **8. Scope of Application:**
+
+Spawning mechanics, death mechanics, object pooling.
+
+---
+
+#### `The Axiom of Emergent Orchestration` (**ID:** `TASK-CPLX-032`)
+
+**Objective:** To implement `(symbiois) evolution` for `['complex activities'(-ing) BPMS]`. It asserts that **Complex Activities are Symphonies of Tasks**.
+
+**Target Axiom/Principle:** `The Axiom of Emergent Orchestration`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** A `['complex activity'(-ing) BPMS]` (e.g., "Running a Government," "Managing a Supply Chain") is not a single monolithic block. It is an emergent orchestration of thousands of micro-tasks. This setting defines the `[task(-ing) BPMS]` as the **Musical Note** in the symphony of complex systems.
+
+**The Mechanism - [The Conductor's Baton]**
+
+- **The Score:** The `['complex system'(-ing) BPMS]` defines a high-level objective (The Symphony).
+- **The Section:** Sub-systems (Departments/Guilds) break this down into movements.
+- **The Note:** Individual Agents execute specific `[task(-ing) BPMS]` (The Notes).
+- **Harmonic Resonance:** When tasks are executed in the correct rhythm and sequence, the "Complex Activity" emerges as a stable, functioning reality.
+
+**The Emergent Property - [Systemic Harmony]** The system moves from "Chaos" (random tasks) to "Order" (orchestrated activity) without a central dictator, relying on the symbiotic alignment of individual task incentives.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Order out of Chaos.** Complexity is just simplicity multiplied and organized.
+- **Layer 2 (Formalism):** **Cellular Automata.** Simple local rules (Tasks) lead to complex global patterns.
+- **Layer 3 (Phenomenological):** "Grand Strategy," "Empire Management," "Raiding Coordination."
+
+**Rationale:** Allows the Fun Engine to simulate high-level complexity without overwhelming the user, by keeping the interaction layer focused on the atomic Task.
+
+**Scope of Application:** Civilization building, corporate simulations, large-scale warfare.
+
+------
+
+#### `The Principle of Systemic Entanglement` (**ID:** `TASK-SYST-033`)
+
+**Objective:** To implement `(symbiois) evolution` for `['complex system'(-ing) BPMS]`. It asserts that **No Task is an Island**.
+
+**Target Axiom/Principle:** `The Principle of Systemic Entanglement`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** In a `['complex system'(-ing) BPMS]`, every action has side effects. This setting introduces **Causal Ripples**. A task completed in the "Economy" module might cause a drought in the "Ecology" module.
+
+**The Mechanism - [The Butterfly Effect Vector]**
+
+- **Primary Vector:** The direct result of the Task (e.g., "Factory Built").
+- **Entanglement Matrix:** The system checks for connections to other domains.
+- **Secondary Vector:** The ripple effect (e.g., "Pollution +10" -> "Health -5" -> "Healthcare Tasks +20").
+- **Feedback:** The system generates new Tasks to deal with the consequences of the previous Tasks.
+
+**The Emergent Property - [Dynamic Equilibrium]** The system never settles into a static state. It is a constant dance of action and reaction, forcing the Agent to think systemically, not just linearly.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Interconnectedness.** To pluck a flower is to trouble a star.
+- **Layer 2 (Formalism):** **Coupled Differential Equations.** dtdx=f(x,y,z).
+- **Layer 3 (Phenomenological):** "Unintended Consequences," "Political Fallout," "Ecosystem Collapse."
+
+**Rationale:** Prevents the "Silo Effect" where players optimize one metric while destroying the rest of the system.
+
+**Scope of Application:** Ecology, politics, economy, relationship simulations.
+
+------
+
+#### `The Protocol of Evolutionary Heuristics` (**ID:** `TASK-EVO-034`)
+
+**Objective:** To implement `(symbiois) evolution` within the Task structure itself. It asserts that **Tasks Evolve Strategies**.
+
+**Target Axiom/Principle:** `The Protocol of Evolutionary Heuristics`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** As `['complex activities'(-ing) BPMS]` are repeated, the *way* they are done should improve. This setting allows the system to optimize Task definitions based on successful user behavior, evolving the "Best Practices" of the world.
+
+**The Mechanism - [The Memetic Selection]**
+
+- **Variation:** Different Agents attempt the same Task using different methods (Tools, Routes, Timing).
+- **Selection:** The system measures Efficiency (Yield / Energy).
+- **Retention:** The most efficient method is codified as a "Mastery Perk" or "Technique" and taught to new Agents.
+- **Evolution:** The standard `[task(-ing) BPMS]` is updated to reflect this new efficiency.
+
+**The Emergent Property - [Cultural Progress]** The civilization gets smarter. "How to build a fire" evolves from "Rub sticks" (High Cost) to "Use Flint" (Medium Cost) to "Use Match" (Low Cost).
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Progress.** Knowledge accumulates over time.
+- **Layer 2 (Formalism):** **Gradient Descent.** The system optimizes the cost function of the Task landscape.
+- **Layer 3 (Phenomenological):** "Tech Trees," "Recipe Upgrades," "Skill Mastery."
+
+**Rationale:** Ensures that the system reflects the learning curve of its population.
+
+**Scope of Application:** Crafting, combat arts, scientific research.
+
+------
+
+#### `The Law of Decision-Event Resonant Constellation Map` (**ID:** `TASK-DEC-035`)
+
+**Objective:** To implement `(symbiois) evolution` for `[(behavior) decision-making BPMS]`. It asserts that **A Task is a Crystallized Decision**.
+
+**Target Axiom/Principle:** `The Law of Decision-Event Resonant Constellation Map`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** A decision is internal; a Task is external. This setting defines the `[task(-ing) BPMS]` as the bridge that converts an internal `['decision-making'(-ing) BPMS]` process into an external `['event(-ing) BPMS]`.
+
+**The Mechanism - [The Will-to-Action Converter]**
+
+- **The Fork:** The Agent faces a Decision Node (e.g., "Fight or Flee?").
+- **The Choice:** The Agent selects a path.
+- **The Instantiation:** The system immediately spawns the corresponding Task (e.g., "Task: Attack Goblin" OR "Task: Run Away").
+- **The Event:** The execution of the Task generates the Event (e.g., "Combat Started").
+
+**The Emergent Property - [Agency Accountability]** Users realize that "Deciding" is not enough; they must "Do." The friction among/by the decision and the task execution (e.g., failing to flee) creates dramatic tension.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Volition.** Will manifests as Action.
+- **Layer 2 (Formalism):** **State Machine Transitions.** Decision triggers Transition T, which executes Action A.
+- **Layer 3 (Phenomenological):** "Dialogue Wheels," "Quick Time Events," "Tactical Choices."
+
+**Rationale:** Links the cognitive layer (Strategy) to the physical layer (Tactics).
+
+**Scope of Application:** Narrative branching, combat tactics, moral dilemmas.
+
+------
+
+#### `The Mechanism of Behavioral Reinforcement` (**ID:** `TASK-BEH-036`)
+
+**Objective:** To implement `(symbiois) evolution` for `[(behavior) decision-making BPMS]`. It asserts that **Tasks Shape Character**.
+
+**Target Axiom/Principle:** `The Mechanism of Behavioral Reinforcement`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** We are what we repeatedly do. This setting uses `[task(-ing) BPMS]` history to modify the Agent's `['decision-making'(-ing) BPMS]` parameters (Personality/Alignment).
+
+**The Mechanism - [The Neural Weighting]**
+
+- **Action:** Agent repeatedly chooses "Aggressive Tasks."
+- **Feedback:** The system increments the `[Aggression]` parameter in the Agent's profile.
+- **Bias:** Future `['decision-making'(-ing) BPMS]` calculations will weight aggressive options higher, making them easier/cheaper to select.
+- **Lock-in:** Eventually, the Agent *becomes* an Aggressor.
+
+**The Emergent Property - [Organic Character Growth]** Characters evolve based on their actual gameplay, not just their initial stats. A "Pacifist" who kills everyone eventually becomes a "Warlord" in the system's eyes.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Karma.** Action leaves a trace on the soul.
+- **Layer 2 (Formalism):** **Reinforcement Learning.** Updating the policy π(a∣s) based on reward history.
+- **Layer 3 (Phenomenological):** "Reputation Systems," "Alignment Shifts," "Trait Acquisition."
+
+**Rationale:** Ensures consistency between who the user *says* they are and what they *do*.
+
+**Scope of Application:** RPG character development, AI behavior modeling.
+
+------
+
+#### `The Directive of Event-Horizon Navigation` (**ID:** `TASK-EVENT-037`)
+
+**Objective:** To implement `(symbiois) evolution` for `[event(-ing) BPMS]`. It asserts that **Tasks are Responses to Entropy**.
+
+**Target Axiom/Principle:** `The Directive of Event-Horizon Navigation`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** Events happen to us (Passive). Tasks are how we respond (Active). This setting defines the `[task(-ing) BPMS]` as the navigational thruster used to steer through the storm of `[event(-ing) BPMS]`.
+
+**The Mechanism - [The Stimulus-Response Loop]**
+
+- **Event:** A "Forest Fire" event triggers.
+- **Task Generation:** The system auto-generates a suite of Crisis Tasks: "Extinguish," "Evacuate," "Investigate."
+- **Selection:** The Agent must prioritize which Task to execute.
+- **Outcome:** The completion of the Task alters the trajectory of the Event (e.g., Fire contained vs. Fire spreads).
+
+**The Emergent Property - [Crisis Management]** The game becomes a series of "Event Horizons"—critical moments where the right Task at the right time changes history.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Challenge and Response (Toynbee).** Civilizations rise by responding to crisis.
+- **Layer 2 (Formalism):** **Interrupt Handling.** Event triggers Interrupt Service Routine (Task).
+- **Layer 3 (Phenomenological):** "Emergency Quests," "Timed Events," "Disaster Response."
+
+**Rationale:** Creates dynamic pacing. The world is not just waiting for the player; it throws curveballs that demand action.
+
+**Scope of Application:** Disaster simulation, dynamic storytelling, combat encounters.
+
+------
+
+#### `The Axiom of Metabolic Persistence` (**ID:** `TASK-SURV-038`)
+
+**Objective:** To implement `['(continuous) survive'(-ing) BPMS]`. It asserts that **Survival is a Recurring Task**.
+
+**Target Axiom/Principle:** `The Axiom of Metabolic Persistence`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** Survival is not a one-time achievement; it is a continuous loop. This setting establishes the "Metabolic Baseline"—a set of recurring `[task(-ing) BPMS]` that must be satisfied to maintain existence.
+
+**The Mechanism - [The Entropy Tax]**
+
+- **The Debt:** Every tick, the Agent accumulates "Entropy" (Hunger, Decay, Rust).
+- **The Payment:** The Agent must execute "Maintenance Tasks" (Eat, Repair, Rest).
+- **The Consequence:** Failure to pay the tax leads to `['system_failure']` (Death/Game Over).
+
+**The Emergent Property - [The Rhythm of Life]** This creates the fundamental "Heartbeat" of the game loop. It forces the player to balance "Ambition" (Growth Tasks) with "Necessity" (Survival Tasks).
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Conatus (Spinoza).** The endeavor of a thing to persist in its own being.
+- **Layer 2 (Formalism):** **Energy Maintenance.** Ein≥Eout.
+- **Layer 3 (Phenomenological):** "Survival Meters," "Upkeep Costs," "Daily Grinds."
+
+**Rationale:** Grounds the experience in reality. Without the threat of non-existence, existence has no weight.
+
+**Scope of Application:** Survival games, economic management, infrastructure maintenance.
+
+------
+
+#### `The Principle of Adaptive Continuity` (**ID:** `TASK-CONT-039`)
+
+**Objective:** To implement `['(continuous) survive'(-ing) BPMS]` and `['adaptive(-ing) BPMS]`. It asserts that **To Survive is to Change**.
+
+**Target Axiom/Principle:** `The Principle of Adaptive Continuity`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** Static survival strategies eventually fail because the environment changes. This setting defines `[task(-ing) BPMS]` as the mechanism of **Adaptive Continuity**. The Agent survives by constantly updating its Task portfolio.
+
+**The Mechanism - [The Viability Check]**
+
+- **Monitor:** The system checks if current Survival Tasks are meeting the Entropy Tax.
+- **Stress:** If the environment changes (e.g., Winter comes), old Tasks (Gather Berries) fail.
+- **Adaptation:** The Agent must discover and adopt new Tasks (Hunt Elk) to maintain continuity.
+- **Succession:** The "Survival Set" is updated.
+
+**The Emergent Property - [Resilient Evolution]** The Agent doesn't just "not die"; they evolve. The struggle for survival drives the discovery of new technologies and methods.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Adaptation.** It is not the strongest that survives, but the most adaptable.
+- **Layer 2 (Formalism):** **Genetic Drift.** Shifting the population mean to track the moving fitness peak.
+- **Layer 3 (Phenomenological):** "Seasonal Changes," "Difficulty Spikes," "Era Progression."
+
+**Rationale:** Prevents the "Solved Game" state. Survival remains a dynamic challenge that requires constant engagement.
+
+**Scope of Application:** Long-term simulation, evolution games, dynasty management.
+
+---
+
+#### `The Axiom of Performative Identity` (**ID:** `TASK-IDEN-040`)
+
+**Objective:** To implement `(symbiois) evolution` with `[agent(-ing) BPMS]` and `[identity(-ing) BPMS]`. It asserts that **Identity is the Integral of Tasks**.
+
+**Target Axiom/Principle:** `The Axiom of Performative Identity`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** An Agent does not *have* a class; they *perform* a class. This setting defines the symbiotic relationship where `[task(-ing) BPMS]` acts as the **Constitutive Element** of `[agent(-ing) BPMS]`. You are not a "Builder" because the database says so; you are a Builder because you execute "Build Tasks."
+
+**The Mechanism - [The Role-Grafting Loop]**
+
+- **Action:** The Agent executes a specific category of Tasks (e.g., "Healing," "Forging," "Negotiating").
+- **Accretion:** The system tracks the frequency and success of these Tasks.
+- **Crystallization:** Once a threshold is reached, the system grants the Agent the corresponding `[Symbiotic Role Artifact]` (e.g., "Healer").
+- **Feedback:** The Role then unlocks advanced Tasks in that category, creating a reinforcing loop.
+
+**The Emergent Property - [Fluid Class Systems]** Classes are not rigid boxes selected at character creation. They are fluid, evolving descriptions of the user's actual behavior. A "Warrior" who starts doing "Farming Tasks" slowly evolves into a "Paladin" or "Retired Soldier."
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Existentialism.** Existence precedes Essence. We define ourselves by our actions.
+- **Layer 2 (Formalism):** **Integration.** Identity(t)=∫0tTask(t)dt.
+- **Layer 3 (Phenomenological):** "Skill-based Leveling," "Dynamic Titles," "Reputation."
+
+**Rationale:** Ensures that the Agent's identity is always an honest reflection of their gameplay, preventing ludonarrative dissonance.
+
+**Scope of Application:** Character progression, class systems, reputation mechanics.
+
+------
+
+#### `The Principle of Topological Actuation` (**ID:** `TASK-TOPO-041`)
+
+**Objective:** To implement `(symbiois) evolution` with `[space(-ing) BPMS]` and `[world(-ing) BPMS]`. It asserts that **Tasks Define Geography**.
+
+**Target Axiom/Principle:** `The Principle of Topological Actuation`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** Space in a digital realm is abstract until interacted with. This setting defines `[task(-ing) BPMS]` as the **Topological Operator**. Tasks do not just happen *in* space; they *create* and *modify* the connectivity of space.
+
+**The Mechanism - [The Desire Path Algorithm]**
+
+- **Latent Space:** Area X is a "Wilderness" (High friction, low connectivity).
+- **Task Execution:** Agents repeatedly execute "Travel Tasks" through Area X.
+- **Erosion:** The system detects the high flux of Tasks and lowers the friction coefficient.
+- **Formation:** A "Road" emerges. If Tasks cease, the Road decays back into Wilderness.
+
+**The Emergent Property - [Living Geography]** The map is not static. Trade routes, cities, and clearings appear exactly where they are needed (where Tasks are happening) and vanish where they are not. The world breathes with the activity of the players.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Social Construction of Space.** Space is produced by social practice (Lefebvre).
+- **Layer 2 (Formalism):** **Graph Rewriting.** The Task updates the edge weights of the spatial graph.
+- **Layer 3 (Phenomenological):** "Road Building," "Terrain Deformation," "Fast Travel Unlocks."
+
+**Rationale:** Makes the world feel responsive. The players feel like inhabitants/shapers, not just tourists.
+
+**Scope of Application:** Map generation, pathfinding, civilization building.
+
+------
+
+#### `The Law of Narrative Pacing` (**ID:** `TASK-NARR-042`)
+
+**Objective:** To implement `(symbiois) evolution` with `[narrative(-ing) BPMS]` and `[story(-ing) BPMS]`. It asserts that **Tasks are Narrative Beats**.
+
+**Target Axiom/Principle:** `The Law of Narrative Pacing`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** A story is a sequence of events. In an interactive medium, those events are Tasks. This setting defines `[task(-ing) BPMS]` as the **Pacing Mechanism** of the `[narrative(-ing) BPMS]`. The difficulty and duration of Tasks control the dramatic tension.
+
+**The Mechanism - [The Tension-Task Regulator]**
+
+- **Narrative State:** The Story Engine determines the current dramatic need (e.g., "Rising Action").
+
+- Task Modulation:
+
+   The system adjusts the parameters of available Tasks.
+
+  - *Need Tension?* -> Spawn "High Stakes / Time-Limited Tasks."
+  - *Need Relief?* -> Spawn "Low Stakes / Social Tasks."
+
+- **Resolution:** The completion of the Task advances the Narrative State to the next beat.
+
+**The Emergent Property - [Ludonarrative Harmony]** The gameplay (what you do) matches the story (what is happening). You don't get a "Fetch Quest" during the "Climax"; you get a "Boss Fight."
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Dramaturgy.** Action is the engine of plot.
+- **Layer 2 (Formalism):** **Cybernetic Control.** Feedback loop between Narrative State and Task Difficulty.
+- **Layer 3 (Phenomenological):** "Pacing," "Climax," "Downtime."
+
+**Rationale:** Prevents the story from feeling disconnected from the gameplay. The player *plays* the story.
+
+**Scope of Application:** Quest design, dynamic storytelling, event scripting.
+
+------
+
+#### `The Protocol of Logical Verification` (**ID:** `TASK-LOGIC-043`)
+
+**Objective:** To implement `(symbiois) evolution` with `[logic(-ing) BPMS]` and `[rule(-ing) BPMS]`. It asserts that **Tasks are Proofs**.
+
+**Target Axiom/Principle:** `The Protocol of Logical Verification`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** Rules are abstract; Tasks are concrete. This setting defines `[task(-ing) BPMS]` as the **Validation Layer** for `[logic(-ing) BPMS]`. A rule is only valid if a Task can successfully execute under it.
+
+**The Mechanism - [The Computational Crucible]**
+
+- **The Rule:** "Fire burns Wood." (Abstract Logic).
+- **The Task:** "Apply Torch to Log." (Concrete Attempt).
+- The Verification:
+  - If the Task succeeds (Log burns), the Rule is reinforced.
+  - If the Task fails (Log doesn't burn), the system flags a **Logic Anomaly** or a **Bug**.
+- **Symbiosis:** The Logic dictates the Task parameters; the Task validates the Logic's integrity.
+
+**The Emergent Property - [Systemic Consistency]** The system self-corrects. If a player finds a way to do a Task that violates the rules (an exploit), the system detects the dissonance between the Logic and the Task result, triggering a re-balancing.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Empiricism.** Observation (Task) trumps Theory (Logic).
+- **Layer 2 (Formalism):** **Curry-Howard Correspondence.** Proofs are Programs. The Task is the execution of the proof.
+- **Layer 3 (Phenomenological):** "Bug Reporting," "Exploit Patching," "Physics Consistency."
+
+**Rationale:** Ensures the game world remains logical and fair. It treats gameplay as a continuous unit test of the game engine.
+
+**Scope of Application:** Physics engine, magic systems, anti-cheat, debugging.
+
+------
+
+#### `The Axiom of Social Contract` (**ID:** `TASK-SOC-044`)
+
+**Objective:** To implement `(symbiois) evolution` with `[social(-ing) BPMS]` and `[community(-ing) BPMS]`. It asserts that **Tasks are Bonds**.
+
+**Target Axiom/Principle:** `The Axiom of Social Contract`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** Society is built on exchange. This setting defines `[task(-ing) BPMS]` as the **Atomic Unit of Social Exchange**. A "Guild" or "Party" is defined by the shared Tasks its members execute for each other.
+
+**The Mechanism - [The Obligation Ledger]**
+
+- **The Contract:** Agent A posts a Task ("Need 100 Iron").
+- **The Fulfillment:** Agent B accepts and completes the Task.
+- **The Bond:** The system records a "Social Link" between A and B.
+- **Evolution:** Repeated Task exchanges upgrade the link from "Stranger" to "Partner" to "Ally," unlocking new `[social(-ing) BPMS]` capabilities (e.g., Shared Inventory).
+
+**The Emergent Property - [Organic Community]** Communities form naturally around shared needs and mutual aid, rather than just being chat rooms. The economy of favors creates the social fabric.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Reciprocity.** The foundation of social order is the gift and the counter-gift (Mauss).
+- **Layer 2 (Formalism):** **Game Theory.** Iterated Prisoner's Dilemma. Cooperative tasks build trust.
+- **Layer 3 (Phenomenological):** "Guild Quests," "Trading," "Reputation Grinding."
+
+**Rationale:** Encourages positive social interaction. Players need each other to complete complex tasks.
+
+**Scope of Application:** Guild management, party systems, trade economy.
+
+------
+
+#### `The Directive of Chronological Anchoring` (**ID:** `TASK-TIME-045`)
+
+**Objective:** To implement `(symbiois) evolution` with `[time(-ing) BPMS]` and `[history(-ing) BPMS]`. It asserts that **Tasks Create Time**.
+
+**Target Axiom/Principle:** `The Directive of Chronological Anchoring`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** In a simulation, "Time" is often just a counter. This setting defines `[task(-ing) BPMS]` as the **Substrate of Duration**. Time does not pass; Tasks consume ticks. A "Day" is defined by the number of Tasks that can be performed within it.
+
+**The Mechanism - [The Action-Tick Coupling]**
+
+- **The Cost:** Every Task has a `Time_Cost` (e.g., 10 Ticks).
+- **The Flow:** The global clock only advances (or is perceived to advance) when Tasks are processed.
+- **Relativity:** High-intensity Tasks (Combat) might slow down subjective time (Bullet Time), while low-intensity Tasks (Sleeping) speed it up (Time Skip).
+
+**The Emergent Property - [Subjective Pacing]** Time feels meaningful because it is a resource spent on action. "I don't have time" means "I don't have enough Ticks for these Tasks."
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Relational Time (Leibniz).** Time is the order of succession of events (Tasks).
+- **Layer 2 (Formalism):** **Discrete Event Simulation.** The clock jumps to the next event completion.
+- **Layer 3 (Phenomenological):** "Turn-Based Combat," "Crafting Timers," "Day/Night Cycles."
+
+**Rationale:** Connects the abstract concept of time to the concrete gameplay loop.
+
+**Scope of Application:** Turn-based systems, cooldown management, calendar systems.
+
+------
+
+#### `The Mechanism of Value Transmutation` (**ID:** `TASK-VAL-046`)
+
+**Objective:** To implement `(symbiois) evolution` with `[value(-ing) BPMS]` and `[economy(-ing) BPMS]`. It asserts that **Tasks Mint Value**.
+
+**Target Axiom/Principle:** `The Mechanism of Value Transmutation`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** Value is not intrinsic to objects; it is intrinsic to the *labor* required to obtain them. This setting defines `[task(-ing) BPMS]` as the **Proof of Work** that generates `[value(-ing) BPMS]`.
+
+**The Mechanism - [The Labor-Value Algorithm]**
+
+- **Input:** An object (e.g., "Sword").
+- **Calculation:** Value = Sum(Difficulty * Time) of all Tasks required to create it (Mining + Smelting + Forging).
+- **Market:** The system uses this "Intrinsic Labor Value" as the baseline for the economic price, adjusted by supply/demand.
+
+**The Emergent Property - [Fair Economy]** Prices reflect the actual effort put into the world. Inflation is controlled because value cannot be printed; it must be "Tasked."
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Labor Theory of Value.** Value is congealed labor.
+- **Layer 2 (Formalism):** **Cost Accounting.** Cost=∑(Resource+Labor).
+- **Layer 3 (Phenomenological):** "Auction House Pricing," "Crafting Profit Margins," "Gold Farming."
+
+**Rationale:** Prevents economic exploits. If an item is cheap, it must be easy to make. If it is expensive, it must require difficult Tasks.
+
+**Scope of Application:** Economy balancing, crafting systems, trading.
+
+------
+
+#### `The Principle of Affordance Mapping` (**ID:** `TASK-UX-047`)
+
+**Objective:** To implement `(symbiois) evolution` with `[interface(-ing) BPMS]` and `[perception(-ing) BPMS]`. It asserts that **Tasks are Affordances**.
+
+**Target Axiom/Principle:** `The Principle of Affordance Mapping`
+
+**Operation:** `ADD`
+
+**New Definition / Modification Details:**
+
+**Core Essence** The user does not see "pixels"; they see "things they can do." This setting defines `[task(-ing) BPMS]` as the **Perceptual Layer** of the UI. An object is only visible/highlighted if there is a valid Task associated with it.
+
+**The Mechanism - [The Contextual Highlight]**
+
+- **Scan:** The Agent looks at a Rock.
+- **Query:** Does the Agent have a valid Task (e.g., "Mine Rock") or Tool (Pickaxe)?
+- Render:
+  - *Yes:* The Rock glows or shows a UI prompt ("Mine").
+  - *No:* The Rock is just background scenery.
+- **Symbiosis:** The Interface adapts to the Agent's capabilities (Tasks).
+
+**The Emergent Property - [Intuitive UX]** The screen is never cluttered. The user only sees what matters to their current potential actions. As they learn new Tasks (Skills), the world "lights up" with new possibilities.
+
+**Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Layer 1 (Metaphysical):** **Affordance Theory (Gibson).** We perceive the world in terms of what it offers us (action possibilities).
+- **Layer 2 (Formalism):** **Filter/Map.** UI = World.Filter(Available_Tasks).
+- **Layer 3 (Phenomenological):** "Contextual Prompts," "Smart Cursor," "Interactive Objects."
+
+**Rationale:** Reduces cognitive load. The UI becomes an extension of the Agent's will.
+
+**Scope of Application:** UI/UX design, accessibility, tutorial systems.
