@@ -842,3 +842,184 @@ This is the "Engine" part of the `['system existence engine'(-ing) BPMS]`. Witho
 #### 8. **Scope of Application:**
 
 Dynamic difficulty adjustment, server resource management, procedural content density control, reputation decay/growth.
+
+----
+
+#### The Axiom of Cross-Modal Transmutation (ID: `EXPERIMENT-CORE-015`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how `[experiments(-ing) BPMS]` serves as the **Universal Translator** among/by different types of `[BPMS(U)(s)]`, allowing them to evolve symbiotically by converting the output of one into the input of another.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Cross-Modal Transmutation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `meaning is preserved across phase shifts`. It establishes the `[experiments(-ing) BPMS]` as the crucible where, for example, `[narrative(-ing) BPMS]` (Story) is transmuted into `[mechanics(-ing) BPMS]` (Rules), or `[music(-ing) BPMS]` (Sound) is transmuted into `[terrain(-ing) BPMS]` (Geometry). The experiment tests if the "Soul" of the data survives the translation.
+
+#### **5.2. The Mechanism - [The Synesthetic Bridge]**
+
+- **The Source Signal:** A `[BPMS(U)]` element generates a signal (e.g., A sad violin melody from `[music(-ing) BPMS]`).
+- **The Transmutation Experiment:** The system proposes a hypothesis: "If this music were a landscape, what would it look like?"
+- **The Target Instantiation:** The `[experiments(-ing) BPMS]` generates a `[terrain(-ing) BPMS]` instance (e.g., A rainy, grey valley).
+- **The Resonance Check:** Does the valley *feel* like the violin? If yes, the link is solidified.
+
+#### **5.3. The Emergent Property - [Systemic Synesthesia]**
+
+The creation of a cohesive world where the soundtrack matches the gameplay, the gameplay matches the story, and the story matches the economy. The system evolves as a unified whole rather than disjointed parts.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*All things are one thing in different guises.* The underlying pattern (The Praxial Code) is the same; only the rendering differs.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Translation):**
+
+- **If `[Audio_to_Visual(-ing) BPMS]`: (Frequency Physics)** *Input:* High BPM, chaotic waveform. *Output:* Jagged mountains, stormy weather, fast-moving enemies.
+- **If `[Story_to_Mechanic(-ing) BPMS]`: (Ludonarrative Physics)** *Input:* "The hero is exhausted." *Output:* Stamina regeneration rate reduced by 50%.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Harmony." The sense that the world makes sense on a deep, subconscious level.
+
+#### 7. **Rationale / Justification:**
+
+Needed for `['complex system'(-ing) BPMS]` integration. Without this, the framework is just a bag of isolated tools. With it, it is a symphony.
+
+#### 8. **Scope of Application:**
+
+Procedural generation based on music, dynamic soundtrack generation based on gameplay state, narrative-driven mechanic shifts.
+
+------
+
+#### The Principle of Symbiotic Stress-Testing (ID: `EXPERIMENT-CORE-016`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that defines how `[experiments(-ing) BPMS]` acts as the **Evolutionary Pressure** for other `[BPMS(U)(s)]`, forcing them to `['(symbiois) evolution'(-ing) BPMS]` by exposing their weaknesses.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Principle of Symbiotic Stress-Testing
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `strength is the scar tissue of failure`. It defines the `[experiments(-ing) BPMS]` not as a passive observer, but as an active "Sparring Partner" for other modules. It constantly attacks the logic of `[economy(-ing) BPMS]`, the physics of `[world(-ing) BPMS]`, and the AI of `[agent(-ing) BPMS]` to force them to improve.
+
+#### **5.2. The Mechanism - [The Red Team Protocol]**
+
+- **The Attack Vector:** The `[experiments(-ing) BPMS]` generates an "Edge Case" (e.g., A player trying to buy -1 items, an agent trying to walk through a wall).
+- **The System Response:** The target `[BPMS(U)]` attempts to handle the case.
+- The Evolutionary Trigger:
+  - *If it breaks:* The target module must patch itself (Evolution).
+  - *If it holds:* The target module is validated (Stasis).
+
+#### **5.3. The Emergent Property - [Antifragile Architecture]**
+
+The system becomes immune to the specific exploits it has generated. It "vaccinates" itself against bugs and imbalances before they can be exploited by external users.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The enemy is the teacher.* That which tries to break you, makes you.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Stress):**
+
+- **If `[Economy(-ing) BPMS]`: (Exploit Physics)** *Experiment:* Try to create infinite gold loops. *Evolution:* The economy module adds diminishing returns or transaction taxes.
+- **If `[Physics(-ing) BPMS]`: (Collision Physics)** *Experiment:* Spawn 1000 objects in one space. *Evolution:* The physics engine implements "sleeping" for stationary objects to save CPU.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Polish." The feeling of playing a game or using a system that is solid, bug-free, and fair.
+
+#### 7. **Rationale / Justification:**
+
+Essential for `[robust(-ing) BPMS]` development. It automates the QA (Quality Assurance) process and integrates it into the very fabric of the system's existence.
+
+#### 8. **Scope of Application:**
+
+Automated bug finding, economy balancing, artificial intelligence training (adversarial networks), security penetration testing.
+
+------
+
+#### The Directive of Emergent Utility Discovery (ID: `EXPERIMENT-CORE-017`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that guides `[experiments(-ing) BPMS]` to identify and formalize **Unintended Utility** within other `[BPMS(U)(s)]`, effectively "discovering" new features that were not explicitly programmed.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Directive of Emergent Utility Discovery
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `the tool is defined by the hand, not the maker`. It tasks the `[experiments(-ing) BPMS]` with watching how `[agent(-ing) BPMS]` *actually* use the `[world(-ing) BPMS]`. If a chair is used as a ladder, the system should evolve to recognize the chair *as* a ladder.
+
+#### **5.2. The Mechanism - [The Affordance Shift]**
+
+- **The Observation:** Agents are consistently using Object A (Chair) to achieve Goal B (Reach High Place).
+- **The Hypothesis:** "Object A has the property `Climbable`."
+- **The Implementation:** The `[experiments(-ing) BPMS]` modifies the `['atomic facts'(-ing) BPMS]` of the Chair to include `Climbable`.
+- **The Evolution:** The `[animation(-ing) BPMS]` now plays a climbing animation instead of a standing animation when interacting with the chair.
+
+#### **5.3. The Emergent Property - [Fluid Functionality]**
+
+The world adapts to the creativity of its inhabitants. "Bugs" (rocket jumping) become "Features" (movement mechanics) automatically.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Function follows friction.* Where the user pushes, the door should open.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Utility):**
+
+- **If `[Combat(-ing) BPMS]`: (Meta Physics)** *Observation:* Players use healing spells to damage undead. *Evolution:* The system formalizes "Holy Damage" as a property of healing spells.
+- **If `[Social(-ing) BPMS]`: (Communication Physics)** *Observation:* Players jump repeatedly to say "Hello." *Evolution:* The system recognizes "Jump Spam" as a friendly greeting in the AI's sentiment analysis.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Freedom." The realization that they are not limited by the developer's imagination, only by the physics of the world.
+
+#### 7. **Rationale / Justification:**
+
+This is the ultimate form of `['bottom-up'(-ing) BPMS]` design. It allows the system to `['(symbiois) evolution'(-ing) BPMS]` with its user base in real-time.
+
+#### 8. **Scope of Application:**
+
+Emergent gameplay mechanics, adaptive artificial intelligence tactics, dynamic crafting recipes, evolving language models.
