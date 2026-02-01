@@ -7,7 +7,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['world-building axiom'(-ing) BPMS]`
 - **Objective:** To define the immutable static lore, physics constants, and geographical axioms of a reality where **Biology is the Substrate** and **Evolution is the Logic**.
 - **Scope of Application:** Global Context (The "Truth" of the simulation).
-- **Tag:** `#biopunk #organic-physics #evolutionary-horror #wetware-axiom`
+- **Tag:** `#wetware #biopunk #organic-physics #evolutionary-horror #wetware-axiom`
 
 ------
 
@@ -46,3 +46,8 @@
 ### 4.Remark
 
 **BPMS means Behavior pattern/model/system**
+
+
+
+
+
