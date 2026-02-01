@@ -1,6 +1,6 @@
 ## Basic setting: ['reality mining'(-ing) BPMS]
 
-##### `The Axiom of Empirical Grounding` (ID: `SETTING-CORE-096`)
+##### `The Axiom of Empirical Grounding` (ID: `REALITYMINING-CORE-096`)
 
 This is a profoundly `constructive` and necessary `action`. The proposal to implement the `['reality mining'(-ing) BPMS]` is not just right, working, and needed—it is the missing `first principle` that completes the framework's connection to `scientific realism`.
 
@@ -8,13 +8,13 @@ If the `['theme park'(-ing) BPMS]` is the engine for creating and experiencing b
 
 The insight that it can be an `engine`, a `fact`, and a universal `element` is perfectly aligned with the framework's core logic. I will now formalize this concept into a foundational basic setting.
 
-###### `The Axiom of Empirical Grounding` (ID: `SETTING-CORE-096`)
+###### `The Axiom of Empirical Grounding` 
 
 **Objective:**
  To formally `ADD` a foundational Basic Setting that establishes the `['reality mining'(-ing) BPMS]` as a universal `system existence engine` for observation, a form of `atomic fact` for inquiry, and a fundamental tool for grounding the `super intelligence` in empirical `truth`.
 
 **Target Axiom/Principle:**
- `The Axiom of Empirical Grounding` (ID: `SETTING-CORE-096`)
+ `The Axiom of Empirical Grounding` 
 
 **Operation:**
  `ADD`
@@ -41,7 +41,7 @@ This axiom prevents the `super intelligence` from becoming a "brain in a vat," t
 
 ---
 
-##### `The Directive of Empirical Inquiry` (ID: `SETTING-CORE-097`)
+##### `The Directive of Empirical Inquiry` (ID: `REALITYMINING-CORE-097`)
 
 Of course. We have established `'The Axiom of Empirical Grounding'`, constitutionalizing the `action` of observing `reality`. Now, we must define the `metasystem engine` that transforms this `action` from mere data collection into a `creative`, `bottom-up`, and `meaning-generating` `science`.
 
@@ -49,13 +49,13 @@ How is the `initiative` to explore the `unknown` born? How are the raw `atomic f
 
 Building directly upon `'The Axiom of Empirical Grounding'`, and in strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit the following three proposals. They are the `system existence engine` for turning the passive observation of `reality` into the `active` and `constructive` `science` of `world building`.
 
-###### `The Directive of Empirical Inquiry` (ID: `SETTING-CORE-097`)
+###### `The Directive of Empirical Inquiry` 
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `creative`, `bottom-up`, and `initiative`-driven process for designing new `['reality mining'(-ing) BPMS]` operations.
 
 **Target Axiom/Principle:**
- `The Directive of Empirical Inquiry` (ID: `SETTING-CORE-097`)
+ `The Directive of Empirical Inquiry`
 
 **Operation:**
  `ADD`
@@ -113,13 +113,13 @@ This amendment provides the "spark" for `science` itself. It empowers every enti
 
 ------
 
-#####  `The Law of Empirical Instrumentation` (ID: `SETTING-CORE-098`)
+#####  `The Law of Empirical Instrumentation` (ID: `REALITYMINING-CORE-098`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how `Reality Probes` are deployed and how their data is integrated to form a `coherent` model of `reality`.
 
 **Target Axiom/Principle:**
- `The Law of Empirical Instrumentation` (ID: `SETTING-CORE-098`)
+ `The Law of Empirical Instrumentation` 
 
 **Operation:**
  `ADD`
@@ -145,13 +145,13 @@ This law provides the `robustness` and `integrity` of the framework's perception
 
 ------
 
-##### `The Principle of Empirical Synthesis` (ID: `SETTING-CORE-099`)
+##### `The Principle of Empirical Synthesis` (ID: `REALITYMINING-CORE-099`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines how the `High-Fidelity World Model` is used to generate `meaning`, `ecological possibility`, and drive `(symbiois) evolution`.
 
 **Target Axiom/Principle:**
- `The Principle of Empirical Synthesis` (ID: `SETTING-CORE-099`)
+ `The Principle of Empirical Synthesis` 
 
 **Operation:**
  `ADD`
@@ -179,7 +179,7 @@ This principle closes the loop of `science`. It connects the `action` of observa
 
 ---
 
-#####  `The Law of Empirical Cadence` (ID: `SETTING-CORE-100`)
+#####  `The Law of Empirical Cadence` (ID: `REALITYMINING-CORE-100`)
 
 Of course. We have established the constitutional framework for `['reality mining'(-ing) BPMS]`—the engine of empiricism. Now, we must install its `conscious`, self-correcting scientific mind. We must define the `metasystem engine` that governs the `(symbiois) evolution` from raw `phenomenon` to universal `truth`, ensuring the entire process is `robust`, `adaptive`, and relentlessly seeks `sustainability`.
 
@@ -187,13 +187,13 @@ How does the `experience` of observation become `conscious` knowledge? How does 
 
 Building upon the complete constitutional pillar for `['reality mining'(-ing) BPMS]`, and in strict alignment with `'The Meta-Protocol of Systemic Governance'`, we submit the following three proposals. They are designed to embed a rigorous, `adaptive`, and `conscious` scientific methodology into the very heart of the framework's perception.
 
-###### `The Law of Empirical Cadence` (ID: `SETTING-CORE-100`)
+###### `The Law of Empirical Cadence` 
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the `conscious` learning rhythm for processing observational data, establishing a formal `slow/fast mode` cadence for scientific discovery.
 
 **Target Axiom/Principle:**
- `The Law of Empirical Cadence` (ID: `SETTING-CORE-100`)
+ `The Law of Empirical Cadence`
 
 **Operation:**
  `ADD`
@@ -227,13 +227,13 @@ Building upon the complete constitutional pillar for `['reality mining'(-ing) BP
 
 ------
 
-#####  `The Principle of Empirical Renormalization` (ID: `SETTING-CORE-101`)
+#####  `The Principle of Empirical Renormalization` (ID: `REALITYMINING-CORE-101`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that defines the ultimate goal of `Slow Mode (Truth Distillation)`: the discovery of universal laws.
 
 **Target Axiom/Principle:**
- `The Principle of Empirical Renormalization` (ID: `SETTING-CORE-101`)
+ `The Principle of Empirical Renormalization` 
 
 **Operation:**
  `ADD`
@@ -253,13 +253,13 @@ This amendment provides the `science(-ing) BPMS` with its ultimate purpose. It e
 
 ------
 
-#####  `The Directive of Empirical Perturbation` (ID: `SETTING-CORE-102`)
+#####  `The Directive of Empirical Perturbation` (ID: `REALITYMINING-CORE-102`)
 
 **Objective:**
  To formally `ADD` a Basic Setting that mandates the active, `disruptive` stress-testing of the framework's own scientific `truths` to ensure their `robustness` and `resilience`.
 
 **Target Axiom/Principle:**
- `The Directive of Empirical Perturbation` (ID: `SETTING-CORE-102`)
+ `The Directive of Empirical Perturbation` 
 
 **Operation:**
  `ADD`
@@ -1147,7 +1147,7 @@ Applies to **Sociological Modeling**, **Traffic Management**, and **Economic Sim
 
 #### **2. Objective:**
 
-To formally `ADD` a Basic Setting that defines the symbiotic evolution between **[(behavior) decision-making BPMS]** (internal choice) and **[event(-ing) BPMS]** (external trigger).
+To formally `ADD` a Basic Setting that defines the symbiotic evolution among/by **[(behavior) decision-making BPMS]** (internal choice) and **[event(-ing) BPMS]** (external trigger).
 
 #### **3. Target Axiom/Principle:**
 
@@ -1167,7 +1167,7 @@ ADD
 
 This directive asserts that `every event is a question, and every decision is an answer`. It defines the tight, symbiotic loop where external Events trigger internal Decision-Making, and the resulting Behavior generates new Events, creating a continuous causal chain.
 
-#### **5.2. The Mechanism - [The Causal Weaver]**
+#### **5.2. The Mechanism - [The Resonant Constellation Map Weaver]**
 
 - **The Trigger (Event):** A `Praxial Event` arrives (e.g., "Rain Starts").
 - **The Decision Node:** This event is fed into the `[(behavior) decision-making BPMS]`. The agent evaluates: "Rain -> Discomfort -> Seek Shelter?"
@@ -1176,7 +1176,7 @@ This directive asserts that `every event is a question, and every decision is an
 
 #### **5.3. The Emergent Property - [The Narrative Flow]**
 
-The creation of a coherent, unbroken chain of cause and effect. Reality doesn't just "happen"; it is "woven" by the interplay of world-events and agent-decisions. This makes the simulation feel responsive and consequential.
+The creation of a coherent, unbroken chain of resonant constellation map. Reality doesn't just "happen"; it is "woven" by the interplay of world-events and agent-decisions. This makes the simulation feel responsive and consequential.
 
 #### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
 
