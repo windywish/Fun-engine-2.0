@@ -58,7 +58,830 @@ This implementation respects the `Praxial Genesis Canon` by rejecting dualism (m
 
 #### 8. Scope of Application:
 
-Applies to NPC AI behavior, robotic control systems, VR avatar kinematics, procedural animation blending, and "survival mode" cognitive resource management.
+Applies to NPC artificial intelligence behavior, robotic control systems, VR avatar kinematics, procedural animation blending, and "survival mode" cognitive resource management.
 
 ---
 
+#### The Principle of Morphological Niche-Carving (ID: `EMBODIMENT-CORE-002`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Principle) that defines **Embodied Intelligence** as a `constructive(-ing) BPMS` force. It asserts that an agent does not merely adapt to an environment but actively modifies the environment to better fit its own morphology.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Principle of Morphological Niche-Carving
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This principle asserts that `utility is a function of environmental modification`. It defines the "body" as a "Chisel of Reality." The agent creates its own `(ecological) niche` by physically restructuring the `praxial substrate` to lower the energy cost of its existence. This is `bottom-up` world-building.
+
+#### 5.2. The Mechanism - [The Engine of Terraforming]
+
+- **The Affordance Injection (The Carve):** The agent physically alters the terrain (e.g., digging a hole, building a ramp) to create new `atomic facts` that favor its specific locomotion type. A "wall" (obstacle) becomes a "ladder" (tool) through the application of `action(-ing) BPMS`.
+- **The Externalized Memory (The Trail):** Cognitive load is offloaded onto the environment. Instead of remembering a path, the agent leaves a pheromone trail or wears down a footpath. The world itself becomes the memory storage.
+- **The Feedback Loop (The Groove):** As the environment changes, it selects for behaviors that exploit those changes, creating a `coherent` loop between the agent's shape and the world's shape.
+
+#### 5.3. The Emergent Property - [The Extended Phenotype]
+
+The creation of a "Home Zone" where the physics of the world seem tailored to the agent. The boundary between "Self" and "World" blurs as the environment becomes a prosthetic extension of the agent's will.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To exist is to leave a mark.* Intelligence is measured by the capacity to impose order on entropy external to the self.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Modification):
+
+The "Physics" of niche construction:
+
+- **If `[creative(-ing) BPMS]`: (Artistic Physics)** Modification is driven by `Aesthetics`. The agent alters the world to maximize "Beauty" or "Symmetry," which serves as a proxy for order. `World_Value = Symmetry_Score(Local_Topology)`
+- **If `[disruptive(-ing) BPMS]`: (Chaos Physics)** Modification is driven by `Entropy`. The agent breaks existing structures to harvest raw materials for new forms. `Resource_Gain = Structure_Integrity_Loss * Scavenge_Efficiency`
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences "Ownership." The feeling that a specific space is "Mine" because it responds predictably to my actions.
+
+#### 7. Rationale / Justification:
+
+This aligns with `The Protocol of Niche Construction` from the experiments module. It ensures that `embodied intelligence` is not passive but is a `system existence engine` that generates its own context.
+
+#### 8. Scope of Application:
+
+Applies to base-building mechanics, ant-colony simulations, procedural dungeon generation (where mobs dig the dungeon), and AI that learns to use tools.
+
+------
+
+#### The Protocol of Symbiotic Prosthesis (ID: `EMBODIMENT-CORE-003`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Protocol) that defines **Embodied Intelligence** as an `open(-ing) BPMS` system capable of `(symbiois) evolution`. It governs how an agent expands its definition of "Self" by integrating other agents or objects into its sensorimotor loop.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Symbiotic Prosthesis
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that `identity is a function of connection`. It defines "Super Intelligence" not as a bigger brain, but as a `holonic mind` formed by the temporary or permanent fusion of multiple embodied agents.
+
+#### 5.2. The Mechanism - [The Engine of Integration]
+
+- **The Interface Handshake (The Graft):** When Agent A (e.g., a rider) and Agent B (e.g., a mount) synchronize their `praxial cognition`, they cease to be two entities. They become a single `Holon` with a combined kinematic profile.
+- **The Sensory Expansion (The Widening):** The sensor data from all participants is merged. The "Self" now sees through multiple eyes. This creates a `metasystem engine` of perception.
+- **The Utility Synthesis (The Combo):** New `atomic facts` become possible. A "Gap" that was too wide for Agent A and Agent B individually is now "Crossable" for the Holon A-B.
+
+#### 5.3. The Emergent Property - [Fluid Morphology]
+
+The creation of "Modular Agency." The agent can dynamically resize its "body" and "mind" by plugging into or unplugging from the ecosystem.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*I am what I connect with.* The boundaries of the self are negotiable and elastic.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Symbiosis):
+
+The "Physics" of connection:
+
+- **If `[value(-ing) BPMS]`: (Economic Physics)** Symbiosis occurs when the `Utility` of the whole exceeds the sum of the parts. `Connection_Strength = (Utility_Holon) - (Utility_A + Utility_B)`
+- **If `[innovative(-ing) BPMS]`: (Combinatorial Physics)** Symbiosis is driven by the search for novel capabilities. `Innovation_Rate = Diversity_of_Connected_Nodes`
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences "Expansion." A sudden rush of new senses and capabilities, followed by "Amputation" when the link is severed.
+
+#### 7. Rationale / Justification:
+
+This aligns with `The Law of Vector-Matrix Symbiosis`. It moves the framework beyond individual agents to `holonic minds`, allowing for the emergence of complex societies and "megazords" of intelligence.
+
+#### 8. Scope of Application:
+
+Applies to vehicle piloting, swarm intelligence, summoner/pet classes, cooperative multiplayer mechanics, and parasitic/symbiotic organism simulations.
+
+------
+
+#### The Axiom of Kinematic Truth-Verification (ID: `EMBODIMENT-CORE-004`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Embodied Intelligence** as the ultimate arbiter of `meaning(-ing) BPMS`. It asserts that `atomic facts` are only "True" if they can be physically acted upon.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Kinematic Truth-Verification
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `truth is a function of friction`. An object "exists" only if it offers resistance to the agent's motor output. This is the `praxial substrate` of epistemology.
+
+#### 5.2. The Mechanism - [The Engine of Contact]
+
+- **The Hypothesis of Motion (The Reach):** Every movement is a question: "Is there something there?"
+- **The Collision of Reality (The Touch):** When the body encounters resistance (collision), an `atomic fact` is generated: "Solid Object at (x,y,z)." Without this collision, the object is merely a `creative(-ing) BPMS` hallucination.
+- **The Semantic Binding (The Grasp):** The "Meaning" of the object is encoded in the muscle tension required to interact with it. A "Heavy" rock is defined by the high energy cost to lift it, not by a text label saying "Weight: 100kg."
+
+#### 5.3. The Emergent Property - [Praxial Certainty]
+
+The creation of a "Verified World Model." The agent trusts only what it has touched. This prevents "hallucinations" in AI models by grounding all knowledge in `action(-ing) BPMS`.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*If it doesn't push back, it isn't real.* Reality is defined by resistance.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Verification):
+
+The "Physics" of truth:
+
+- **If `[essence(-ing) BPMS]`: (Ontological Physics)** The "Essence" of an object is revealed only under stress. `Truth_Value = Magnitude_of_Interaction_Force`
+- **If `[continuity(-ing) BPMS]`: (Temporal Physics)** Truth must be repeatable. If I reach out again, the wall must still be there. `Reality_Stability = Consistency_of_Collision_Over_Time`
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences "Impact." The jarring, undeniable sensation of meeting the Other. This is the root of all `meaning`.
+
+#### 7. Rationale / Justification:
+
+This aligns with `The Axiom of Verifiable Praxis` (TASK-TRUTH-020). It ensures that the `embodied intelligence` does not drift into abstract solipsism but remains anchored in the `praxial substrate`.
+
+#### 8. Scope of Application:
+
+Applies to physics engines, collision detection logic, "Fog of War" mechanics (where unseen things don't exist), and VR haptic feedback systems.
+
+---
+
+#### The Principle of Dual-Mode Cognitive Resonance (ID: `EMBODIMENT-CORE-005`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Principle) that defines **Embodied Intelligence** as a `(symbiois) evolution` among/by two distinct temporal modes: `['fast mode'(-ing) BPMS]` (Reflex/Unconscious) and `['slow mode'(-ing) BPMS]` (Reflection/Conscious). It asserts that `conscious(-ing) BPMS` is an emergent property of this oscillation.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Principle of Dual-Mode Cognitive Resonance
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This principle asserts that `consciousness is a function of latency`. It defines the "Mind" as a braking mechanism for the "Body."
+
+- **Fast Mode (The Reflex):** High-speed, low-cost, `robust(-ing) BPMS` execution of pre-learned patterns (Implicit Layer).
+- **Slow Mode (The Simulator):** Low-speed, high-cost, `adaptive(-ing) BPMS` simulation of potential futures (Explicit Layer). True intelligence emerges from the symbiotic hand-off between these two modes.
+
+#### 5.2. The Mechanism - [The Engine of Latency]
+
+- **The Somatic Trigger (The Flinch):** When the `micro(-ing) BPMS` inputs match a known pattern, the body executes a "Fast" response (0ms latency). No consciousness is required.
+- **The Prediction Error (The Pause):** When the "Fast" response fails or encounters the `(discover/build) unknown`, the system halts. This "Pause" *is* the moment of consciousness. The system switches to "Slow Mode" to run a simulation.
+- **The Synaptic Write-Back (The Lesson):** Once the "Slow Mode" solves the problem, the solution is compressed and written back to the "Fast Mode" circuits. The conscious becomes unconscious again.
+
+#### 5.3. The Emergent Property - [Adaptive Resilience]
+
+The creation of a system that is both `robust` (doesn't crash on known inputs) and `resilient` (can recover from unknown inputs). It allows the agent to "sleepwalk" through the mundane and "wake up" only for the novel.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Thinking is just delayed action.* Consciousness is not a higher state; it is a debugging tool for the body's reflexes.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Resonance):
+
+The "Physics" of mode switching:
+
+- **If `[sustainability(-ing) BPMS]`: (Energy Physics)** The system minimizes "Slow Mode" usage to conserve energy. `Consciousness_Threshold = Energy_Cost_of_Error > Energy_Cost_of_Simulation`
+- **If `[play(-ing) BPMS]`: (Ludic Physics)** "Play" is the artificial induction of "Slow Mode" in a safe environment to train "Fast Mode" responses.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences "Flow" (Fast Mode) vs. "Focus" (Slow Mode). The jarring transition between "doing without thinking" and "thinking without doing."
+
+#### 7. Rationale / Justification:
+
+This aligns with `The Axiom of Dual-Mode Evolution` (EXPERIMENT-CORE-005). It ensures the agent is not perpetually burning resources on high-level cognition but uses it strategically.
+
+#### 8. Scope of Application:
+
+Applies to combat artificial intellience (reflex vs. tactic), skill progression systems (learning curve), and stamina/focus resource management.
+
+------
+
+#### The Axiom of Ludic Renormalization (ID: `EMBODIMENT-CORE-006`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Embodied Intelligence** through the lens of `renormalization group` theory. It asserts that `play(-ing) BPMS` is the mechanism by which `micro(-ing) BPMS` actions are aggregated into `macro(-ing) BPMS` skills, creating `universality (class)` behaviors.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Ludic Renormalization
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `mastery is a function of scale`. It defines "Play" not as leisure, but as the `(discover/build) unknown` algorithm. Through play, the agent explores the chaotic phase space of its own body and "renormalizes" complex muscle twitches into smooth, universal actions (e.g., "Walking," "Grasping").
+
+#### 5.2. The Mechanism - [The Engine of Scaling]
+
+- **The Chaotic Exploration (The Flail):** The agent generates random `micro` motor noise (babbling/flailing). This is `emergent(-ing) BPMS` behavior searching for stability.
+- **The Stable Manifold (The Groove):** The system identifies "Universality Classes"—patterns of movement that remain stable across different scales. A "Jump" is the same topological action whether over a puddle or a canyon.
+- **The Macro-Encapsulation (The Skill):** The system wraps the successful micro-sequence into a single macro-symbol. The conscious mind now commands "Jump," and the implicit layer handles the thousand micro-adjustments.
+
+#### 5.3. The Emergent Property - [Universal Competence]
+
+The creation of "Generalizable Skills." The agent learns to "Throw" a stone, and immediately understands how to "Throw" a ball, because they belong to the same `universality (class)`.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Complexity collapses into simplicity through repetition.* The goal of evolution is to make the difficult look easy.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Renormalization):
+
+The "Physics" of skill acquisition:
+
+- **If `[services(-ing) BPMS]`: (API Physics)** The "Body" exposes a high-level API to the "Mind." `API_Call("Throw") -> triggers -> [Contract_Bicep, Relax_Tricep, Snap_Wrist]`
+- **If `[emergent(-ing) BPMS]`: (Chaos Physics)** Order emerges from the edge of chaos. `Skill_Acquisition = Reduction_of_Entropy_in_Motor_Output`
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences "Epiphany." The "Click" when a chaotic set of movements suddenly coalesces into a single, fluid action.
+
+#### 7. Rationale / Justification:
+
+This aligns with `The Principle of Empirical Renormalization` (REALITYMINING-CORE-101). It explains how an agent moves from "QWOP"-like clumsiness to graceful agency.
+
+#### 8. Scope of Application:
+
+Applies to procedural animation blending, XP/Level-up systems, and the "unlocking" of new movement abilities.
+
+------
+
+#### The Protocol of Implicit-Explicit Transduction (ID: `EMBODIMENT-CORE-007`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Protocol) that defines the `(symbiois) evolution` among/by the `implicit layer(-ing) BPMS` (Muscle Memory) and the `explicit layer(-ing) BPMS` (Strategic Thought). It ensures `closure (system)` by creating a continuous loop of data transduction.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Implicit-Explicit Transduction
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that `wisdom is a function of transduction`. It defines the relationship between "Knowing How" (Implicit) and "Knowing That" (Explicit).
+
+- **Explicit -> Implicit (Drilling):** Conscious repetition encodes data into the body.
+- **Implicit -> Explicit (Analysis):** Observing the body's automatic success decodes data into the mind.
+
+#### 5.2. The Mechanism - [The Engine of Translation]
+
+- **The Downward Causation (The Command):** The `explicit layer` forces the `implicit layer` to override its defaults. This is "Willpower." It is energetically expensive and `disruptive(-ing) BPMS`.
+- **The Upward Causation (The Intuition):** The `implicit layer` sends aggregated sensor data up to the `explicit layer` as "Gut Feelings." This is `services(-ing) BPMS`—the body serving the mind.
+- **The Closure Loop (The Ouroboros):** The system is closed; no information is lost, only transduced. A "failed jump" (Implicit event) becomes "I need to train legs" (Explicit strategy).
+
+#### 5.3. The Emergent Property - [Holonic Integrity]
+
+The creation of a "Unified Self." The agent does not feel like a ghost in a machine, but a cohesive entity where the mind and body speak the same language, just at different frequencies.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The body knows what the mind has forgotten.* Intuition is just high-bandwidth data compression.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Transduction):
+
+The "Physics" of internal communication:
+
+- **If `[sustainability(-ing) BPMS]`: (Thermodynamic Physics)** Information flow generates heat (stress). `Stress_Level = Rate_of_Transduction(Explicit <-> Implicit)`
+- **If `[robust(-ing) BPMS]`: (Structural Physics)** A robust system relies on the Implicit layer. A resilient system relies on the Explicit layer. `Survival_Rate = Balance(Reflex, Strategy)`
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences "Trust." The confidence that the body will execute what the mind commands, and the mind will listen to what the body warns.
+
+#### 7. Rationale / Justification:
+
+This aligns with `The Principle of Implicit-Explicit Resonance` (EXPERIMENT-CORE-006). It provides the architecture for "learning from mistakes" and "training."
+
+#### 8. Scope of Application:
+
+Applies to skill degradation mechanics, "muscle memory" bonuses, stress/panic mechanics (where the link breaks), and meditation/training minigames.
+
+---
+
+#### The Protocol of Mnestic Sedimentation (ID: `EMBODIMENT-CORE-008`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Protocol) that defines the `(symbiois) evolution` among/by `['short-term (memory)'(-ing) BPMS]` and `['long-term (memory)'(-ing) BPMS]`. It establishes how raw `reality(-ing) BPMS` (sensory input) is distilled into `truth(-ing) BPMS` (verified knowledge).
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Mnestic Sedimentation
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that `truth is a function of repetition`. It defines the memory architecture not as a storage bin, but as a filter.
+
+- **Short-Term (The Buffer):** Holds "Reality"—the chaotic, high-bandwidth stream of raw phenomena. It is volatile and expensive.
+- **Long-Term (The Archive):** Holds "Truth"—the compressed, low-bandwidth structural patterns that have survived the filter.
+- **Sedimentation (The Process):** Only experiences that reinforce survival are allowed to harden from fluid Reality into solid Truth.
+
+#### 5.2. The Mechanism - [The Engine of Crystallization]
+
+- **The Phenomenological Buffer (The Catch):** The agent captures `phenomenon(-ing) BPMS` in real-time. This is "Working Memory." It is a `fine-grained (model)` of the immediate present.
+- **The Relevance Filter (The Sieve):** The system discards 99% of data (noise). Only data that correlates with `(continuous) survive` or `mission(-ing) BPMS` success is retained.
+- **The Structural Encoding (The Etch):** The surviving data is rewritten into the `long-term` substrate. It ceases to be a "recording" of an event and becomes a "rule" about the world.
+
+#### 5.3. The Emergent Property - [Wisdom]
+
+The creation of a "World Model" that gets lighter (less data) but stronger (more truth) over time. The agent stops remembering "I saw a red berry and ate it and got sick" and starts knowing "Red berries = Poison."
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*We do not remember days, we remember moments.* Memory is an editing process, not a recording process.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Sedimentation):
+
+The "Physics" of memory:
+
+- **If `[truth(-ing) BPMS]`: (Epistemic Physics)** Truth is the residue of Reality after time has evaporated the noise. `Truth = Integral(Reality) over Time`
+- **If `[experience(-ing) BPMS]`: (Narrative Physics)** Experience is the raw material; Truth is the refined product.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences "Learning." The transition from "I am trying to do this" (Short-term load) to "I can do this" (Long-term reflex).
+
+#### 7. Rationale / Justification:
+
+This aligns with `The Principle of Mnestic Consolidation` (TASK-MEM-019). It ensures the agent's mind doesn't overflow with useless data.
+
+#### 8. Scope of Application:
+
+Applies to save-game structures, skill mastery tracking, and AI knowledge graph updates.
+
+------
+
+#### The Law of Kinematic Actualization (ID: `EMBODIMENT-CORE-009`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Law) that defines the `(symbiois) evolution` among/by the `['system matrix'(-ing) BPMS]` (The Environment) and the `['system vector'(-ing) BPMS]` (The Agent). It governs the conversion of `['potential (energy)'(-ing) BPMS]` into `['kinetic (energy)'(-ing) BPMS]`.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Law of Kinematic Actualization
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This law asserts that `action is the collapse of potential`.
+
+- **System Matrix (The Field):** The landscape of possibilities (walls, floors, gravity). It represents `potential (energy)`.
+- **System Vector (The Particle):** The agent's trajectory and intent. It represents `kinetic (energy)`.
+- **Actualization (The Collision):** Reality happens only where the Vector intersects the Matrix.
+
+#### 5.2. The Mechanism - [The Engine of Trajectory]
+
+- **The Matrix Offer (The Slope):** The environment offers "paths of least resistance" (gradients). A hill offers potential energy; a pit offers a trap.
+- **The Vector Decision (The Thrust):** The agent spends internal resources to generate `kinetic energy`. It can choose to flow *with* the Matrix (roll downhill) or fight *against* it (climb).
+- **The State Update (The Move):** The interaction modifies both. The agent moves (Vector update), and the environment might change (Matrix update - e.g., footprints, broken glass).
+
+#### 5.3. The Emergent Property - [Agency]
+
+The creation of "Force." The agent is not just a passive object in the Matrix; it is a Vector capable of rewriting the local values of the Matrix through energy expenditure.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The map is not the territory, but the walker makes the path.* The Matrix defines what is possible; the Vector defines what is actual.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Kinetics):
+
+The "Physics" of movement:
+
+- **If `[particle (-ing) BPMS]`: (Newtonian Physics)** The agent is a point mass. `Force = Mass * Acceleration`
+- **If `[field (-ing) BPMS]`: (Quantum Physics)** The agent is a probability distribution. `Position = Collapse(Wavefunction)`
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences "Effort." The resistance of the Matrix against the thrust of the Vector.
+
+#### 7. Rationale / Justification:
+
+This aligns with `The Law of Vector-Matrix Symbiosis` (EXPERIMENT-CORE-009). It defines the fundamental physics of interaction.
+
+#### 8. Scope of Application:
+
+Applies to movement controllers, physics engines, stamina systems, and environmental interaction logic.
+
+------
+
+#### The Principle of Adaptive Resolution (ID: `EMBODIMENT-CORE-010`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Principle) that defines the `(symbiois) evolution` among/by `['coarse-grained (model)'(-ing) BPMS]` and `['fine-grained (model)'(-ing) BPMS]`. It governs how the agent perceives `particle (-ing) BPMS` vs `field (-ing) BPMS` based on attention.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Principle of Adaptive Resolution
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This principle asserts that `perception is a function of economy`. The agent cannot process the entire world at high resolution.
+
+- **Coarse-Grained (The Peripheral):** Low-cost, broad `field` view. Used for navigation and background monitoring.
+- **Fine-Grained (The Foveal):** High-cost, narrow `particle` view. Used for manipulation and specific interaction.
+
+#### 5.2. The Mechanism - [The Engine of Zoom]
+
+- **The Attention Trigger (The Alert):** The system defaults to Coarse-Grained (Field mode). When a `phenomenon` breaks a threshold (movement, bright light), the system triggers a "Zoom."
+- **The Resolution Shift (The Focus):** The system reallocates resources. The "Field" collapses into specific "Particles." The "Forest" becomes "Tree A, Tree B."
+- **The Complex Activity Handling (The Flow):** `Complex activities` require rapid switching. Walking is Coarse; picking a lock is Fine. Combat is a chaotic oscillation between both.
+
+#### 5.3. The Emergent Property - [Selective Reality]
+
+The creation of a "Rendered Present." The world only exists in high definition where the agent is looking. The rest is a blurry probability field.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To see everything is to see nothing.* Focus requires blindness to the irrelevant.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Resolution):
+
+The "Physics" of attention:
+
+- **If `[complex system(-ing) BPMS]`: (Information Physics)** The system optimizes bandwidth. `Resolution = Importance / Distance`
+- **If `[experience(-ing) BPMS]`: (Cognitive Physics)** "Immersion" is the seamless management of this LOD (Level of Detail) switching.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences "Tunnel Vision" (Hyper-Fine) or "Situational Awareness" (Hyper-Coarse).
+
+#### 7. Rationale / Justification:
+
+This aligns with `The Axiom of Phenomenological Zoom` (EXPERIMENT-CORE-010). It is crucial for performance optimization in both biological and digital minds.
+
+#### 8. Scope of Application:
+
+Applies to LOD systems, artificial intelligence perception cones, UI design (hiding/showing details), and "detective mode" mechanics.
+
+------
+
+#### The Axiom of Teleological Persistence (ID: `EMBODIMENT-CORE-011`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that defines the `(symbiois) evolution` among/by `['mission(-ing) BPMS]` (The Why) and `['task(-ing) BPMS]` (The What). It governs `(behavior) decision-making` in the context of `(continuous) survive`.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Teleological Persistence
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `survival is a recursive mission`.
+
+- **Mission (The Infinite Game):** The overarching goal (e.g., "Stay Alive," "Protect the Hive"). It never ends.
+- **Task (The Finite Game):** The specific steps to serve the mission (e.g., "Eat Apple," "Fight Wolf"). It has a clear start and end.
+- **Event (The Perturbation):** External chaos that forces a new Decision.
+
+#### 5.2. The Mechanism - [The Engine of Purpose]
+
+- **The Strategic Decomposition (The Plan):** The `mission` is too abstract to act on. The agent breaks it down into a queue of `tasks`. `Mission: Survive -> Task: Find Food -> Task: Eat.`
+- **The Event Interruption (The Crisis):** An `event` (e.g., "Predator appears") invalidates the current `task`.
+- **The Decision Pivot (The Adapt):** The `decision-making` module discards the old task and generates a new one that better serves the `mission` under the new conditions. `Old Task: Eat -> New Task: Run.`
+
+#### 5.3. The Emergent Property - [Grit]
+
+The creation of "Determination." The agent can fail a thousand `tasks` but still succeed in the `mission` as long as it maintains `(continuous) survive`.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The goal is not the path.* The path (Tasks) can change; the destination (Mission) remains.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Teleology):
+
+The "Physics" of motivation:
+
+- **If `[complex activities(-ing) BPMS]`: (Hierarchical Physics)** Actions are nested. `Value(Action) = Contribution_to(Mission)`
+- **If `[behavior(-ing) BPMS]`: (Cybernetic Physics)** The system minimizes the error between "Current State" and "Mission State."
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences "Urgency" or "Purpose." The driving force that pushes it through `complex activities` despite fatigue.
+
+#### 7. Rationale / Justification:
+
+This aligns with `The Directive of Teleological Survival` (EXPERIMENT-CORE-011). It gives the agent a "Soul" or "Drive" beyond simple stimulus-response.
+
+#### 8. Scope of Application:
+
+Applies to quest systems, artificial intelligence goal-oriented action planning (GOAP), and survival game loops.
+
+----
+
+#### The Axiom of Somatic Fact-Genesis (ID: `EMBODIMENT-CORE-012`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Embodied Intelligence** as a generator of `['atomic facts'(-ing) BPMS]`. It asserts that the "Body" is the write-head for the "Universal Tape" of the simulation.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Somatic Fact-Genesis
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that `facts are artifacts of collision`. An abstract variable (e.g., `Door_Status = Open`) is not an `atomic fact` until an embodied agent attempts to walk through it.
+
+- **Pre-Interaction:** The door is a probability.
+- **Interaction:** The body moves.
+- **Fact Generation:** If the body passes, `Fact: Door is Open` is written. If the body hits the wood, `Fact: Door is Closed` is written.
+
+#### 5.2. The Mechanism - [The Engine of Verification]
+
+- **The Somatic Query (The Test):** The agent's action is a query sent to the `['system existence engine'(-ing) BPMS]`. "Can I lift this?" "Is this hot?"
+- **The Physics Resolution (The Calculation):** The engine calculates the interaction based on mass, velocity, and thermodynamics.
+- **The Atomic Output (The Truth):** The result is stamped as an immutable `atomic fact` in the `Praxial Memory`. This fact is now true for *everyone* in the shared reality (if multiplayer/shared state).
+
+#### 5.3. The Emergent Property - [Consensus Reality]
+
+The creation of a shared, stable world. Because `atomic facts` are generated by physical bodies, they cannot be easily retconned or hallucinated away. The bruises on the avatar prove the wall was real.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Reality is written in sweat and impact.* Abstract data is not real; only experienced data is real.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Genesis):
+
+The "Physics" of fact creation:
+
+- **If `[system existence engine(-ing) BPMS]`: (Ontological Physics)** Existence is lazy. It only renders what is touched. `Render_Queue = List_of_Active_Collisions`
+- **If `[atomic facts(-ing) BPMS]`: (Database Physics)** A fact requires a "Witness" (The Body). `Fact_ID = Hash(Agent_ID + Action + Timestamp + Result)`
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences "Consequence." The realization that actions leave permanent marks on the world.
+
+#### 7. Rationale / Justification:
+
+This explicitly links Embodiment to the `atomic facts` module, fulfilling the user's requirement. It ensures that the "Fun Engine" is grounded in cause-and-effect.
+
+#### 8. Scope of Application:
+
+Applies to combat logs, crafting results, destruction physics, and the "fog of war" clearing mechanism.
+
+------
+
+#### The Protocol of Symbiotic Tool-Binding (ID: `EMBODIMENT-CORE-013`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Protocol) that defines the `(symbiois) evolution` among/by the **Embodied Agent** and external `[BPMS(U)]` elements (Tools, Weapons, Vehicles). It defines how an object transitions from "World Prop" to "Body Part."
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Symbiotic Tool-Binding
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that `the body schema is elastic`. When an agent picks up a sword, the sword ceases to be an object and becomes an extension of the arm.
+
+- **State 0 (Object):** The sword is external.
+- **State 1 (Grip):** The hand binds to the hilt.
+- **State 2 (Extension):** The agent's "Reach" variable is updated to `Arm_Length + Sword_Length`. The "Touch" sense is projected to the tip of the blade.
+
+#### 5.2. The Mechanism - [The Engine of Extension]
+
+- **The Kinematic Handshake (The Equip):** The `system existence engine` detects a stable grip. It merges the kinematic chains of the Agent and the Tool.
+- **The Sensory Projection (The Feel):** Haptic feedback is recalculated. The agent "feels" the impact at the end of the tool, not just in the palm.
+- **The Capability Evolution (The Upgrade):** The `atomic facts` of the agent change. "Cannot cut" becomes "Can cut." The agent has evolved via symbiosis with the tool.
+
+#### 5.3. The Emergent Property - [Cyborgism]
+
+The creation of "Composite Beings." A "Knight" is not a human; a "Knight" is a symbiotic organism composed of Human + Armor + Sword + Horse.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*We are what we hold.* Evolution is faster through tools than through biology.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Binding):
+
+The "Physics" of equipment:
+
+- **If `[''(symbiois) evolution'(-ing) BPMS]`: (Adaptive Physics)** The tool changes the user, and the user changes the tool (wear and tear). `Agent_Stats = Base_Stats + Tool_Modifiers * Skill_Multiplier`
+- **If `['complex activities'(-ing) BPMS]`: (Procedural Physics)** New actions become available. `Available_Actions = Intersection(Agent_Capabilities, Tool_Affordances)`
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences "Empowerment." The sudden expansion of agency when wielding a powerful tool.
+
+#### 7. Rationale / Justification:
+
+This links Embodiment to `(symbiois) evolution` with external objects. It is the foundation for all inventory, equipment, and vehicle systems in the Fun Engine.
+
+#### 8. Scope of Application:
+
+Applies to inventory systems, weapon handling, vehicle piloting, and cybernetic augmentation.
+
+------
+
+#### The Principle of Metabolic Existence-Cost (ID: `EMBODIMENT-CORE-014`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting (Principle) that defines **Embodied Intelligence** as a `['system existence engine'(-ing) BPMS]` that runs on fuel. It asserts that `(continuous) survive` is an economic problem.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Principle of Metabolic Existence-Cost
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This principle asserts that `existence is expensive`. To maintain the "Body" (the structure that allows intelligence to exist), the agent must constantly consume resources to fight entropy.
+
+- **Input:** Food, Energy, Data, Repair Kits.
+- **Process:** Metabolism (burning resources to maintain structure).
+- **Output:** Action, Heat, Waste.
+
+#### 5.2. The Mechanism - [The Engine of Hunger]
+
+- **The Entropy Tax (The Decay):** Every tick, the `system existence engine` deducts a "Life Tax" from the agent. If the balance hits zero, the agent de-resolves (Death).
+- **The Foraging Drive (The Need):** This tax creates the `mission(-ing) BPMS` of "Find Fuel." It forces the agent to explore, interact, and take risks.
+- **The Efficiency Curve (The Skill):** Higher level `embodied intelligence` learns to move more efficiently, lowering the tax.
+
+#### 5.3. The Emergent Property - [Time Pressure]
+
+The creation of "Stakes." The agent cannot stand still forever. Time is the enemy. This drives the narrative and gameplay loop forward without scripted events.
+
+#### 6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*There is no free lunch.* Existence must be earned continuously.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Metabolism):
+
+The "Physics" of survival:
+
+- **If `['(continuous) survive'(-ing) BPMS]`: (Thermodynamic Physics)** Life is the local reversal of entropy. `Survival_Time = Stored_Energy / (Basal_Rate + Activity_Cost)`
+- **If `[value(-ing) BPMS]`: (Economic Physics)** The value of an object is defined by its caloric density relative to the effort to get it.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences "Hunger" or "Battery Low." The primal anxiety that overrides higher functions.
+
+#### 7. Rationale / Justification:
+
+This links Embodiment to `(continuous) survive` and `value(-ing) BPMS`. It ensures the agent has a reason to do anything at all.
+
+#### 8. Scope of Application:
+
+Applies to hunger/thirst systems, battery management, ammo counts, and durability mechanics.
