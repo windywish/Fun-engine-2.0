@@ -30,7 +30,9 @@
 - **The Chasm of Null-State:** A void where physics breaks down completely. It represents the `Null-State Potentiality`. Brave (or foolish) experimenters go here to test `The Axiom of Constructive Disruption` (TASK-DIS-012), attempting to pull new forms of existence out of nothingness.
 - **The Mycelial Network:** An underground transit system of giant fungal threads. It connects all living things. Accessing it requires "tuning" one's mind to the network's frequency, an act of `Symbiotic Feedback Loop` (EXPERIMENT-CORE-014). Misalignment results in absorption into the fungal mass.
 
+### 4.Remark
 
+**BPMS means Behavior pattern/model/system**
 
 
 
