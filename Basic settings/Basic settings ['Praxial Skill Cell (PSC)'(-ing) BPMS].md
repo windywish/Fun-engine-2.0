@@ -682,7 +682,7 @@ These settings focus on the **Symbiotic Evolution** of memory, truth, structure,
 
 ###### `The Protocol of Mnemonic Sublimation` (**ID:** `PSC-MEM-025`)
 
-**Objective:** To formally `ADD` a Basic Setting that defines the symbiotic evolution between **`['short-term memory'(-ing) BPMS]`** (Context) and **`['long-term memory'(-ing) BPMS]`** (Canon).
+**Objective:** To formally `ADD` a Basic Setting that defines the symbiotic evolution among/by **`['short-term memory'(-ing) BPMS]`** (Context) and **`['long-term memory'(-ing) BPMS]`** (Canon).
 
 **Target Axiom/Principle:** `The Protocol of Mnemonic Sublimation`
 
@@ -909,4 +909,304 @@ These settings focus on the **Symbiotic Evolution** of memory, truth, structure,
 **Rationale / Justification:** Implements **`[particle (-ing) BPMS]`** and **`[field (-ing) BPMS]`**.
 
 **Scope of Application:** System architecture, ambient intelligence, and `['Praxial Capability Fabric (PCF)'(-ing) BPMS]`.
+
+---
+
+### **XXV. Complexity Symbiosis (Emergence)**
+
+#### `The Axiom of Complexity Management` (**ID:** `PSC-COMP-033`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the symbiotic evolution among/by **`['complex activities'(-ing) BPMS]`** (The Process) and **`['complex system'(-ing) BPMS]`** (The Structure).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Complexity Management
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Complexity is not chaos; it is layered competence.** A "Complex Activity" (like running a kingdom) is just a fractal arrangement of simple PSCs. The PSC manages complexity by acting as a **Holon**—it is a whole on one level and a part on another.
+
+#### **5.2. The Mechanism - [The Fractal Orchestrator]**
+
+- **Decomposition:** When a `['complex system'(-ing) BPMS]` (e.g., "The Economy") is instantiated, the PSC decomposes it into sub-PSCs (Trade, Currency, Labor).
+- **Orchestration:** The "Master PSC" does not do the work; it conducts the orchestra of sub-PSCs.
+- **Emergence:** The complex behavior (Inflation, Recession) emerges from the simple interactions of the sub-PSCs, not from a top-down script.
+
+#### **5.3. The Emergent Property - [Manageable Chaos]**
+
+The system can simulate incredibly complex phenomena without crashing, because every moving part is a self-contained, optimized PSC.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Complexity is the shadow of simplicity multiplied.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+**Cybernetics (Ashby's Law of Requisite Variety).** Only variety can destroy variety. The system matches the complexity of the environment by generating an equal complexity of PSCs.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels **"Depth."** They can pull a thread in the complex tapestry, and it doesn't unravel; it reveals more detail.
+
+#### **7. Rationale / Justification:**
+
+Implements **`['complex activities'(-ing) BPMS]`** and **`['complex system'(-ing) BPMS]`**.
+
+#### **8. Scope of Application:**
+
+Economic simulations, ecosystem modeling, and `['Praxial Trophic Engine'(-ing) BPMS]`.
+
+------
+
+### **XXVI. Resonant Constellation Map Symbiosis (Action & Consequence)**
+
+#### `The Protocol of Decisional Resonant Constellation Map` (**ID:** `PSC-RESONANTCONSTELLATIONMAP-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the symbiotic evolution among/by **`[(behavior) decision-making(-ing) BPMS]`** (The Choice) and **`[event(-ing) BPMS]`** (The Consequence).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Decisional Resonant Constellation Map
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Every Decision is an Event Generator.** A PSC does not just "decide"; it collapses a probability wave into a concrete Event. The PSC is the **Resonant Constellation Map Link** that binds the user's will to the world's history.
+
+#### **5.2. The Mechanism - [The Resonant Constellation Map Chain]**
+
+- **Decision:** The PSC evaluates the `['system matrix'(-ing) BPMS]` and selects an action (e.g., "Attack the Dragon").
+- **Instantiation:** This decision is instantly transmuted into an `[event(-ing) BPMS]` (The attack happens).
+- **Ripple:** The Event PSC broadcasts its outcome to all neighboring PSCs, forcing them to update their state (The Dragon takes damage; the Village cheers).
+
+#### **5.3. The Emergent Property - [Consequential Weight]**
+
+The user feels the weight of their actions. There are no "empty clicks"; every decision ripples through the system.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Action is the ink of history.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+**Resonant Constellation Map Sets.** The universe is a partially ordered set of events, where the order is defined by Resonant Constellation Map.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels **"Agency."** The world changes because *they* acted.
+
+#### **7. Rationale / Justification:**
+
+Implements **`[(behavior) decision-making(-ing) BPMS]`** and **`[event(-ing) BPMS]`**.
+
+#### **8. Scope of Application:**
+
+Narrative branching, combat systems, and `['Praxial Scenario Engine (PSE)'(-ing) BPMS]`.
+
+------
+
+### **XXVII. Survival Symbiosis (Persistence)**
+
+#### `The Directive of Continuous Survival` (**ID:** `PSC-SURV-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the symbiotic evolution of **`[(continuous) survive(-ing) BPMS]`**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Continuous Survival
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that **Existence is a struggle against Entropy.** A PSC is not static; it must actively work to maintain its integrity. This applies to Characters, Worlds, and even Ideas.
+
+#### **5.2. The Mechanism - [The Homeostatic Loop]**
+
+- **Monitoring:** The PSC constantly monitors its "Vital Signs" (Coherence, Relevance, Energy).
+- **Adaptation:** If Vital Signs drop (e.g., a Character is starving, or a World is becoming boring), the PSC triggers a "Survival Protocol" (Seek Food, Generate Conflict).
+- **Evolution:** If the current form is unsustainable, the PSC initiates a metamorphosis into a more robust form.
+
+#### **5.3. The Emergent Property - [Living Systems]**
+
+The entities in the framework don't just wait for the user; they fight to stay alive and relevant.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To live is to resist decay.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+**Free Energy Principle (Friston).** Biological agents act to minimize the long-term average of surprise (entropy) to maintain their state.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels **"Urgency."** The world is dying (or living) in real-time, demanding attention.
+
+#### **7. Rationale / Justification:**
+
+Implements **`[(continuous) survive(-ing) BPMS]`**.
+
+#### **8. Scope of Application:**
+
+Survival games, dynamic economies, and `['Praxial Clinical Engine (PCE)'(-ing) BPMS]`.
+
+------
+
+### **XXVIII. Metabolic Symbiosis (Food & Energy)**
+
+#### `The Mechanism of Metabolic Transduction` (**ID:** `PSC-META-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the symbiotic evolution among/by **`[food(-ing) BPMS]`** (Resource) and **`['kinetic (energy)'(-ing) BPMS]`** (Action).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Metabolic Transduction
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that **Food is the source of Agency.** In the Fun Engine Framework, "Food" is any resource that reduces entropy and fuels action. The PSC acts as the **Metabolism** that converts this raw resource into functional capacity.
+
+#### **5.2. The Mechanism - [The Caloric Engine]**
+
+- **Ingestion:** The PSC (e.g., a Character Artifact) consumes a `[food(-ing) BPMS]` object (e.g., "Data Packet" or "Virtual Apple").
+- **Transduction:** The PSC breaks down the object's attributes (Flavor, Calories, Data) and converts them into `['system vector'(-ing) BPMS]` potential (Stamina, Mana, Compute Cycles).
+- **Output:** The entity gains the ability to perform `['complex activities'(-ing) BPMS]`. Without Food, the PSC enters "Dormancy."
+
+#### **5.3. The Emergent Property - [Visceral Economy]**
+
+The economy is not just numbers; it is biological. Characters *need* to consume to act, driving the entire `['interaction(-ing) BPMS]` loop.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Energy cannot be created, only transformed.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+**Metabolic Scaling Theory.** The relationship between metabolic rate, body mass, and activity levels.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels **"Satisfaction."** The act of consumption directly translates to power.
+
+#### **7. Rationale / Justification:**
+
+Implements **`[food(-ing) BPMS]`** and connects it to the **`['Character Artifact'(-ing) BPMS]`**.
+
+#### **8. Scope of Application:**
+
+Crafting systems, survival mechanics, and `['Symbiotic Wellness Weaver'(-ing) BPMS]`.
+
+------
+
+### **XXIX. Artifactual Embodiment (Implementation)**
+
+#### `The Law of Artifactual Embodiment` (**ID:** `PSC-ARTI-037`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines how PSCs embody themselves into **`['Character Artifact'(-ing) BPMS]`** and **`['World Theme Artifact'(-ing) BPMS]`**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Artifactual Embodiment
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **A PSC needs a Body.** While a PSC is a unit of logic, an **Artifact** is a unit of *distribution*. The Artifact is the "Vessel" that allows the PSC to be exported, traded, and used by external users.
+
+#### **5.2. The Mechanism - [The Vessel Protocol]**
+
+- **Encapsulation:** The `['Praxial Skill Cell (PSC)'(-ing) BPMS]` wraps its Nucleus (Logic) and Mitochondria (Data) into a standardized container: The Artifact.
+- **Character Artifact:** If the PSC is "Agentic" (e.g., a Chef), it becomes a Character Artifact. It carries its own `[food(-ing) BPMS]` logic into any world it visits.
+- **World Theme Artifact:** If the PSC is "Environmental" (e.g., a Physics Engine), it becomes a World Theme Artifact. It imposes its logic on any visitor.
+
+#### **5.3. The Emergent Property - [Portable Reality]**
+
+The "Fun Engine" is not a monolith; it is a collection of portable realities (Artifacts) that can cross-pollinate.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Spirit requires Form.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+**Containerization (Docker/Kubernetes).** Packaging code and dependencies into a portable container that runs anywhere.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels **"Ownership."** They don't just use the system; they *own* the pieces (Artifacts) and can take them anywhere.
+
+#### **7. Rationale / Justification:**
+
+Implements **`['Character Artifact'(-ing) BPMS]`** and **`['World Theme Artifact'(-ing) BPMS]`** as the concrete delivery mechanism for PSCs.
+
+#### **8. Scope of Application:**
+
+NFTs, modding, cross-game assets, and `['Praxial Marketplace'(-ing) BPMS]`.
 
