@@ -7672,6 +7672,33 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Symbiotic Tool-Binding (ID: `EMBODIMENT-CORE-013`)
 * The Principle of Metabolic Existence-Cost (ID: `EMBODIMENT-CORE-014`)
 
+### Module: ['game/gamification'(-ing) BPMS]
+
+*(New Integration v5.3.5)* 
+
+* The Axiom of Ludic Transmutation (ID: `GAME-CORE-001`)
+* The Axiom of Constructive Disruption (ID: `GAME-CORE-002`)
+* The Axiom of Ecological Niche Construction (ID: `GAME-CORE-003`)
+* The Axiom of Symbiotic Evolution (ID: `GAME-CORE-004`)
+* The Axiom of Dual-Mode Evolution (ID: `GAME-CORE-005`)
+* The Axiom of Implicit-Explicit Resonance (ID: `GAME-CORE-006`)
+* The Axiom of Ludic Discovery (ID: `GAME-CORE-007`)
+* The Axiom of Mnestic Consolidation (ID: `GAME-CORE-008`)
+* The Axiom of Veridical Convergence (ID: `GAME-CORE-009`)
+* The Axiom of Vectorial Actualization (ID: `GAME-CORE-010`)
+* The Axiom of Phenomenological Grounding (ID: `GAME-CORE-011`)
+* The Axiom of Energetic Transmutation (ID: `GAME-CORE-012`)
+* The Axiom of Teleological Alignment (ID: `GAME-CORE-013`)
+* The Axiom of Granular Resonance (ID: `GAME-CORE-014`)
+* The Axiom of Field-Particle Duality (ID: `GAME-CORE-015`)
+* The Axiom of Complexity Management (ID: `GAME-CORE-016`)
+* The Axiom of Decisional Resonant Constellation Map (ID: `GAME-CORE-017`)
+* The Axiom of Ludic Existence (ID: `GAME-CORE-018`)
+* The Axiom of Atomic Ludemes (ID: `GAME-CORE-019`)
+* The Axiom of Universal Implementation (ID: `GAME-CORE-020`)
+* The Axiom of Symbiotic Co-Evolution (ID: `GAME-CORE-021`)
+* The Axiom of Recursive Self-Gamification (ID: `GAME-CORE-022`)
+
 ### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
 
 *(Existing Settings LIFE-001 to LIFE-007)*
@@ -7686,7 +7713,44 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 ### Module: ['Praxial Skill Cell (PSC)'(-ing) BPMS]
 
-*(Existing Settings PSC-STR-001 to PSC-PHYS-032)*
+*(New integration v5.3.5)*
+
+* `The Definition of the Praxial Skill Cell` (**ID:** `PSC-STR-001`)
+* `The Protocol of Membranous Filtering` (**ID:** `PSC-STR-002`)
+* `The Mechanism of Nucleated Execution` (**ID:** `PSC-FUNC-003`)
+* `The Law of Organelle Integration` (**ID:** `PSC-FUNC-004`)
+* `The Protocol of Tissue Formation` (**ID:** `PSC-SOC-005`)
+* `The Axiom of Ontological Instantiation` (**ID:** `PSC-EXIST-006`)
+* `The Protocol of Atomic Veridicality` (**ID:** `PSC-FACT-007`)
+* `The Law of Universal Morphogenesis` (**ID:** `PSC-EVO-008`)
+* `The Mechanism of Symbiotic Resonance` (**ID:** `PSC-SYM-009`)
+* `The Directive of Autopoietic Construction` (**ID:** `PSC-META-010`)
+* `The Axiom of Constructive Disruption` (**ID:** `PSC-CREAT-011`)
+* `The Law of Ecological Niche Exaptation` (**ID:** `PSC-NICHE-012`)
+* `The Protocol of Semantic Continuity` (**ID:** `PSC-MEAN-013`)
+* `The Principle of Holonic Resonance` (**ID:** `PSC-HOLO-014`)
+* `The Axiom of Open-Ended Potentiality` (**ID:** `PSC-OPEN-015`)
+* `The Axiom of Conscious Service` (**ID:** `PSC-CONS-016`)
+* `The Law of Ludic Evolution` (**ID:** `PSC-PLAY-017`)
+* `The Principle of Implicit-Explicit Renormalization` (**ID:** `PSC-RENORM-018`)
+* `The Directive of Universal Class Synthesis` (**ID:** `PSC-CLASS-019`)
+* `The Axiom of Systemic Closure` (**ID:** `PSC-CLOSE-020`)
+* `The Principle of Micro-Macro Symbiosis` (**ID:** `PSC-SCALE-021`)
+* `The Mechanism of Adaptive Unknown Discovery` (**ID:** `PSC-UNK-024`)
+* `The Protocol of Mnemonic Sublimation` (**ID:** `PSC-MEM-025`)
+* `The Axiom of Ontological Recursion` (**ID:** `PSC-REAL-026`)
+* `The Law of Matrix Plasticity` (**ID:** `PSC-MAT-027`)
+* `The Mechanism of Phenomenological Resonance` (**ID:** `PSC-PHEN-028`)
+* `The Principle of Energetic Transduction` (**ID:** `PSC-ENER-029`)
+* `The Axiom of Teleological Alignment` (**ID:** `PSC-MISS-030`)
+* `The Law of Granular Zoom` (**ID:** `PSC-MODEL-031`)
+* `The Protocol of Wave-Particle Duality` (**ID:** `PSC-PHYS-032`)
+
+* `The Axiom of Complexity Management` (**ID:** `PSC-COMP-033`)
+* `The Protocol of Decisional Resonant Constellation Map` (**ID:** `PSC-RESONANTCONSTELLATIONMAP-034`)
+* `The Directive of Continuous Survival` (**ID:** `PSC-SURV-035`)
+* `The Mechanism of Metabolic Transduction` (**ID:** `PSC-META-036`)
+* `The Law of Artifactual Embodiment` (**ID:** `PSC-ARTI-037`)
 
 ### Module: ['Functional Potentiality Metabolism'(-ing) BPMS]
 
@@ -9027,10 +9091,6 @@ All future instances of any `[BPMS(U)]` element must adhere to the following str
 #### Domain: ['Praxial Symbiotic Earth (PSE)'(-ing) BPMS]
 
 *(Existing Instances PSE-INST-001 to PSE-INST-003)*
-
-#### Domain: ['Praxial Skill Cell (PSC)'(-ing) BPMS]
-
-*(Existing Instances PSC-GENE-SPLICER-001 to PSC-AR-002)*
 
 #### Domain: ['Functional Potentiality Metabolism'(-ing) BPMS]
 
