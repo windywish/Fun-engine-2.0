@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['avatar embodiment'(-ing) BPMS]`
 - **Objective:** To serve as a vessel for users who thrive in high-stakes, real-time environments requiring rapid reaction and adaptation.
 - **Scope of Application:** Survival Games, Battle Royales, Action RPGs.
-- **Tag:** `##(behavior)-decision-making #avatar #survival #reflex #adaptation #instinct`
+- **Tag:** `#(behavior)-decision-making #avatar #survival #reflex #adaptation #instinct`
 
 #### 1. Identity Profile
 
