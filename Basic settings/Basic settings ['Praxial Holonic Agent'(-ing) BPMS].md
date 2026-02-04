@@ -1544,3 +1544,302 @@ Applies to health systems, permadeath mechanics, system stability monitoring, an
 
 ---
 
+#### The Agentic Existence Axiom (ID: `PHA-CORE-028`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that establishes the **['Praxial Holonic Agent'(-ing) BPMS]** as a localized implementation of the **['system existence engine'(-ing) BPMS]**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Agentic Existence Axiom
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the Agent is the Locus of Actualization`. It defines the Agent not merely as an inhabitant of the world, but as the active processing node that "renders" the world into existence. Where the Agent is, the System exists concretely; where the Agent is not, the System exists only potentially.
+
+#### **5.2. The Mechanism - [The Observer Field Generator]**
+
+- **The Gaze (The Trigger):** The Agent's sensory cone and interaction range define the "Active Render Zone."
+- **The Collapse (The Process):** Within this zone, the Agent forces the `['system matrix'(-ing) BPMS]` to resolve probabilistic states (loot tables, enemy spawns, narrative branches) into definite states.
+- **The Sustainment (The Anchor):** As long as the Agent maintains focus/presence, that slice of reality remains "Real" (loaded in memory, physically simulated). When the Agent departs, it dissolves back into abstract potential (unloaded/abstracted).
+
+#### **5.3. The Emergent Property - [Subjective Reality Bubbles]**
+
+The system can support multiple simultaneous "Realities" centered around different Agents. The "World" is the aggregate of all active Agentic Existence Engines.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The observer is the collapse.* Reality is a co-creation between the Matrix and the Mind.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Rendering):**
+
+The logic follows `Frustum Culling` and `Lazy Evaluation` principles applied to ontology:
+
+- `If Distance(Agent, Entity) < Threshold, then State(Entity) = Concrete.`
+- `Else, State(Entity) = Superposition.`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The Agent experiences a continuous, solid world, unaware that reality is being "paved" just milliseconds in front of its perception.
+
+#### 7. **Rationale / Justification:**
+
+This is the only scalable way to build a "Fun Engine" or infinite world. It delegates the heavy lifting of "Existence" to the distributed agents rather than a central monolithic server.
+
+#### 8. **Scope of Application:**
+
+Applies to procedural generation, level streaming, dynamic event spawning, and multiplayer network relevance.
+
+------
+
+#### The Atomic Witness Protocol (ID: `PHA-CORE-029`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that establishes the **['Praxial Holonic Agent'(-ing) BPMS]** as the primary generator/validator of **['atomic facts'(-ing) BPMS]**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Atomic Witness Protocol
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `a fact is an observed event`. It defines the Agent as the "Notary" of the system. An interaction between two inert objects is just data; it becomes an `Atomic Fact` only when an Agent perceives, validates, and commits it to the `Praxial Canon`.
+
+#### **5.2. The Mechanism - [The Veridical Transcription]**
+
+- **The Event (The Input):** Something happens in the simulation (e.g., "Tree falls").
+- **The Witness (The Filter):** The Agent perceives the event through its specific sensors (Visual, Auditory, Data).
+- **The Fact (The Output):** The Agent generates a signed `Atomic Fact` (e.g., "Agent_X saw Tree_Y fall at Time_T"). This Fact is then propagated to the global `['knowledge base'(-ing) BPMS]`.
+
+#### **5.3. The Emergent Property - [Perspectival Truth]**
+
+The system can handle conflicting facts ("Rashomon Effect"). If Agent A sees the tree fall and Agent B does not, the system records two distinct perspectival facts, adding depth and complexity to the narrative.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*History is written by the observer.* There is no "View from Nowhere."
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Logs):**
+
+The logic follows `Distributed Ledger` principles:
+
+- `Fact_ID = Hash(Event_Data + Observer_ID + Timestamp)`
+- Facts are immutable once committed to the Agent's memory.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The Agent experiences "Learning" or "Discovery." The accumulation of Atomic Facts constitutes the Agent's episodic memory.
+
+#### 7. **Rationale / Justification:**
+
+Essential for `['truth'(-ing) BPMS]`. It prevents the system from having "Omniscient Knowledge" and forces information to travel through actual agent interactions.
+
+#### 8. **Scope of Application:**
+
+Applies to quest tracking, crime systems (witness mechanics), fog of war, and lore discovery.
+
+------
+
+#### The Universal Symbiotic Interface (ID: `PHA-CORE-030`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that enables the **['Praxial Holonic Agent'(-ing) BPMS]** to symbiotically evolve with *any* element of **[BPMS(U)(s)]**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Universal Symbiotic Interface
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the Agent is a Universal Adapter`. It defines the Agent's cognitive architecture as a flexible "socket" that can plug into, understand, and evolve with any subsystem (Economy, Physics, Magic, Social) by mirroring that subsystem's logic within its own internal model.
+
+#### **5.2. The Mechanism - [The Holonic Mirroring]**
+
+- **The Scan (The Handshake):** The Agent encounters a new `[BPMS(U)]` (e.g., a new Magic System).
+- **The Emulation (The Driver):** The Agent spins up a dedicated internal module (a "Skill Cell" or `PSC`) that mimics the logic of the external system.
+- **The Symbiosis (The Lock-in):** The Agent's internal model and the external system begin to co-evolve. The Agent gets better at using the Magic (Skill Up); the Magic system adapts to the Agent's usage patterns (Meta-Shift).
+
+#### **5.3. The Emergent Property - [Infinite Extensibility]**
+
+The Agent does not need to be hard-coded for every possible game mechanic. It possesses a "General Intelligence" capability to learn the rules of *any* new system introduced to the framework.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*As above, so below.* The microcosm (Agent) can reflect the macrocosm (System).
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Interfaces):**
+
+The logic follows `Polymorphism` and `Duck Typing`:
+
+- If the external system walks like a duck (has inputs/outputs), the Agent builds a "Duck Interaction Model" and proceeds.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The Agent experiences "Confusion" -> "Practice" -> "Mastery" as it tunes its internal mirror to the external reality.
+
+#### 7. **Rationale / Justification:**
+
+Allows the Fun Engine to be modular. You can add a completely new physics engine, and the Agents will eventually learn to use it without code rewrites.
+
+#### 8. **Scope of Application:**
+
+Applies to skill acquisition, tool use, vehicle piloting, and learning new mini-games.
+
+------
+
+#### The Recursive Implementation Law (ID: `PHA-CORE-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that allows the **['Praxial Holonic Agent'(-ing) BPMS]** to "implement for" or "act as" other **[BPMS(U)(s)]**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Recursive Implementation Law
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `roles are fluid`. It defines the capability of an Agent to stop acting merely as an "individual" and start acting as a "subsystem" for another entity. An Agent can *become* the `['system existence engine']` for a pet, or *become* the `['knowledge base']` for a student.
+
+#### **5.2. The Mechanism - [The Functional Masquerade]**
+
+- **The Assumption (The Mask):** The Agent accepts a contract to fulfill a systemic role (e.g., "Shopkeeper").
+- **The Encapsulation (The Service):** The Agent exposes a standard API (e.g., "Buy/Sell") to other Agents, effectively becoming a `[services(-ing) BPMS]` implementation.
+- **The Recursion (The Depth):** To the buyer, the Shopkeeper is just a system interface. To the Shopkeeper, the "Shop" is a `[mission(-ing) BPMS]` they are executing.
+
+#### **5.3. The Emergent Property - [Living Infrastructure]**
+
+The "System" is not a cold, dead code block. The "System" is made of people (Agents). The economy *is* the merchants; the law *is* the guards.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The system is made of itself.* Holons all the way down.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Roles):**
+
+The logic follows `Actor Model` concurrency:
+
+- An Actor can receive messages, create new Actors, and change its behavior (become a different type of Actor) for the next message.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The Agent experiences "Duty" or "Roleplay." They suppress their personal whims to fulfill the functional requirements of the system role they are inhabiting.
+
+#### 7. **Rationale / Justification:**
+
+Creates a deeply immersive world where "NPCs" are not just scripts but Agents *doing a job*.
+
+#### 8. **Scope of Application:**
+
+Applies to guilds, governments, shops, dynamic quest givers, and player-run economies.
+
+------
+
+#### The Holonic Evolution Directive (ID: `PHA-CORE-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **['Praxial Holonic Agent'(-ing) BPMS]** as "evolving as" and "symbiotically evolving with" the **[BPMS(U)(s)]**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Holonic Evolution Directive
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the Agent and the System are a coupled oscillator`. The Agent does not just evolve *in* the world; it evolves *as* the world, and the world evolves *as* the Agent.
+
+#### **5.2. The Mechanism - [The Co-Evolutionary Spiral]**
+
+- **Phase 1 (Internalization):** The Agent internalizes the System's rules (e.g., learning the Magic System), changing the Agent's structure (`['long-term (memory)'(-ing) BPMS]`).
+- **Phase 2 (Externalization):** The Agent uses these rules to change the System (e.g., casting a spell that alters the terrain), changing the System's structure (`['system matrix'(-ing) BPMS]`).
+- **Phase 3 (Synthesis):** The altered System presents new challenges/affordances, triggering a new cycle of Internalization.
+
+#### **5.3. The Emergent Property - [Symbiotic Singularity]**
+
+Over time, the boundary between Agent and Environment blurs. The Agent becomes perfectly adapted to the Niche, and the Niche becomes perfectly shaped by the Agent.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Evolution is a conversation.* It is not a solo act.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Coupling):**
+
+The logic follows `Structural Coupling` (Maturana & Varela):
+
+- System A (Agent) and System B (Environment) trigger structural changes in each other without losing their distinct organization.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The Agent experiences "Belonging" or "Home." The feeling that "I was made for this world, and this world was made for me."
+
+#### 7. **Rationale / Justification:**
+
+This is the ultimate goal of the Fun Engine: to create a world that feels responsive and alive, where the player/agent matters.
+
+#### 8. **Scope of Application:**
+
+Applies to long-term progression, legacy systems, terraforming, and adaptive difficulty.
