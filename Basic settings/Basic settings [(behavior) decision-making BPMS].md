@@ -2604,3 +2604,403 @@ Essential for equipment systems, vehicle mechanics, and cybernetics.
 
 Applies to RPG inventory systems, vehicle simulations, and human-computer interaction.
 
+---
+
+#### The Axiom of Narrative Resonant Constellation Map (ID: `DECIDE-CORE-053`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Decision-Making** and **Storytelling**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;'storytelling(-ing) BPMS']) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+In a narrative universe, the "correct" decision is the one that serves the story. This axiom implements `[(behavior) decision-making BPMS]` as a **Dramatic Engine**. When interacting with `['storytelling(-ing) BPMS]`, the utility function shifts from "Survival/Optimization" to "Narrative Interest." An agent might "decide" to walk into a trap not based on the [atomic facts BPMS] of that it is stupid, but based on the [atomic facts BPMS] of that the `[storytelling(-ing) BPMS]` requires a crisis.
+
+#### **5.2. The Mechanism - [The Trope Weighting]**
+
+- **Context:** The system detects a "Narrative Scene" (e.g., The Hero's Fall).
+- **Utility Shift:** The Decision Matrix applies a massive positive weight to actions that fit the active Trope (e.g., "Betrayal" or "Sacrifice"), even if they are logically suboptimal.
+- **Execution:** The agent executes the dramatic action, advancing the plot.
+
+#### **5.3. The Emergent Property - [Cinematic Behavior]**
+
+Agents behave like characters in a movie rather than robots, making mistakes that drive the plot forward.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The story is the master of the actor.*
+- **Formal Stratum:** `Utility(Action) = Logic_Score + Drama_Score`
+- **Phenomenal Stratum:** The feeling of "fate" or "destiny" guiding actions.
+
+#### **7. Rationale / Justification:**
+
+Essential for interactive fiction, RPGs, and "Director artificial intelligence" systems.
+
+#### **8. Scope of Application:**
+
+Applies to narrative generation, quest design, and NPC dialogue systems.
+
+------
+
+#### The Axiom of Economic Rationality (ID: `DECIDE-CORE-054`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Decision-Making** and **Value Exchange**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;'value exchange(-ing) BPMS']) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Every choice has a price. This axiom implements `[(behavior) decision-making BPMS]` as a **Market Actor**. When interacting with `['value exchange(-ing) BPMS]`, the decision process is strictly governed by **Marginal Utility**. The agent evaluates every action as a transaction: "Is the `[value(-ing) BPMS]` gained greater than the `[potential (energy)'(-ing) BPMS]` cost?"
+
+#### **5.2. The Mechanism - [The Arbitrage Loop]**
+
+- **Valuation:** The agent assigns a numeric value to all assets and goals.
+- **Calculation:** It calculates the ROI (Return on Investment) for all possible actions.
+- **Execution:** It executes the action with the highest positive spread. If all spreads are negative, it "Holds" (does nothing).
+
+#### **5.3. The Emergent Property - [Market Equilibrium]**
+
+When many agents follow this axiom, a stable "Price" for goods and actions emerges without central control.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Value is the measure of desire.*
+- **Formal Stratum:** `Action = Maximize(Value_Output - Cost_Input)`
+- **Phenomenal Stratum:** The calculation of "Is it worth it?"
+
+#### **7. Rationale / Justification:**
+
+Fundamental for creating realistic economies, trading bots, and resource management games.
+
+#### **8. Scope of Application:**
+
+Applies to economic simulations, auction theory, and strategy game artificial intelligence.
+
+------
+
+#### The Axiom of Ecological Niche-Fitting (ID: `DECIDE-CORE-055`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Decision-Making** and **Environment**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;'environmental (DNA)'(-ing) BPMS']) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The environment selects the behavior. This axiom implements `[(behavior) decision-making BPMS]` as an **Adaptive Organism**. When interacting with `['environmental (DNA)'(-ing) BPMS]`, the decision logic is not static; it is "tuned" by the environment. Agents that make decisions compatible with the environment (e.g., "Hide" in a forest, "Run" in a plain) survive and propagate their decision weights.
+
+#### **5.2. The Mechanism - [The Selection Filter]**
+
+- **Variation:** Agents spawn with slightly different Decision Matrices (Mutations).
+- **Interaction:** They interact with the Environment.
+- **Selection:** The Environment "kills" agents with poor fits (e.g., those who decide to swim in lava).
+- **Propagation:** Survivors pass their Decision Matrix to the next generation.
+
+#### **5.3. The Emergent Property - [Instinct]**
+
+Complex, specialized behaviors (like migration or web-spinning) emerge purely from environmental pressure.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The world shapes the will.*
+- **Formal Stratum:** `Fitness = f(Decision_Matrix, Environment_State)`
+- **Phenomenal Stratum:** The feeling of being "at home" in a specific habitat.
+
+#### **7. Rationale / Justification:**
+
+Essential for evolutionary simulations, ALife, and procedural ecosystem generation.
+
+#### **8. Scope of Application:**
+
+Applies to biological modeling, genetic algorithms, and dynamic difficulty adjustment.
+
+------
+
+#### The Axiom of Social Contract (ID: `DECIDE-CORE-056`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Decision-Making** and **Community**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;'community(-ing) BPMS']) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The group overrides the individual. This axiom implements `[(behavior) decision-making BPMS]` as a **Citizen**. When interacting with `['community(-ing) BPMS]`, the agent incorporates "Social Norms" and "Reputation" into its utility function. It may suppress a selfish desire (Steal Food) to avoid a social penalty (Exile/Shame).
+
+#### **5.2. The Mechanism - [The Reputation Ledger]**
+
+- **Norm Check:** Before acting, the agent queries the Community Norms.
+- **Penalty Prediction:** It calculates the "Reputation Cost" of violating the norm.
+- **Decision:** If `(Self_Gain < Reputation_Cost)`, the agent conforms. If `(Self_Gain > Reputation_Cost)`, the agent becomes a Criminal/Rebel.
+
+#### **5.3. The Emergent Property - [Culture / Law]**
+
+The spontaneous emergence of order and shared rules without a central enforcer.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *We are who we are together.*
+- **Formal Stratum:** `Utility = Self_Utility + (Social_Weight * Community_Feedback)`
+- **Phenomenal Stratum:** The pressure of peer judgment or the pride of civic duty.
+
+#### **7. Rationale / Justification:**
+
+Crucial for simulating politics, crime systems, and faction dynamics.
+
+#### **8. Scope of Application:**
+
+Applies to social network simulation, MMO governance, and ethics AI.
+
+------
+
+#### The Axiom of Epistemic Curiosity (ID: `DECIDE-CORE-057`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Decision-Making** and **Knowledge**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;'knowledge base(-ing) BPMS']) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The unknown is a magnet. This axiom implements `[(behavior) decision-making BPMS]` as a **Researcher**. When interacting with `['knowledge base(-ing) BPMS]`, the agent values "Information Gain" as a primary reward. It will decide to explore a dangerous cave not for loot, but simply to "fill in the map" and reduce entropy in its internal model.
+
+#### **5.2. The Mechanism - [The Entropy Gradient]**
+
+- **Scan:** The agent identifies areas of the `['system matrix'(-ing) BPMS]` with high uncertainty (High Entropy).
+- **Drive:** A "Curiosity Vector" pulls the agent towards these areas.
+- **Reward:** Upon exploration, the `['knowledge base(-ing) BPMS]` is updated, and the agent receives a "Dopamine Hit" (Utility Reward).
+
+#### **5.3. The Emergent Property - [Exploration / Science]**
+
+The drive to discover new things even when there is no immediate survival benefit.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *To understand is to conquer.*
+- **Formal Stratum:** `Utility = Intrinsic_Reward + (Information_Gain_Coefficient * Entropy_Reduction)`
+- **Phenomenal Stratum:** The itch to see what's around the corner.
+
+#### **7. Rationale / Justification:**
+
+Essential for exploration games, scientific discovery bots, and automated learning.
+
+#### **8. Scope of Application:**
+
+Applies to open-world games, data mining agents, and educational AI.
+
+------
+
+#### The Axiom of Aesthetic Harmony (ID: `DECIDE-CORE-058`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Decision-Making** and **Beauty/Art**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;'art(-ing) BPMS']) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Beauty is a valid goal. This axiom implements `[(behavior) decision-making BPMS]` as an **Artist**. When interacting with `['art(-ing) BPMS]` (or any aesthetic system), the agent optimizes for "Harmony," "Symmetry," or "Style." It might choose a combat move because it looks cool (Style Points) rather than because it does the most damage.
+
+#### **5.2. The Mechanism - [The Aesthetic Metric]**
+
+- **Evaluation:** The agent analyzes the `['system matrix'(-ing) BPMS]` for patterns (Color, Rhythm, Composition).
+- **Goal:** The agent seeks to maximize the "Aesthetic Score" of the state.
+- **Action:** It modifies the state (paints a pixel, plays a note, performs a flourish) to increase harmony or deliberate dissonance.
+
+#### **5.3. The Emergent Property - [Creativity]**
+
+The generation of novel and pleasing structures that serve no utilitarian purpose.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Beauty is truth, truth beauty.*
+- **Formal Stratum:** `Utility = Functional_Utility + Aesthetic_Utility`
+- **Phenomenal Stratum:** The satisfaction of a perfect composition.
+
+#### **7. Rationale / Justification:**
+
+Necessary for procedural art generation, music composition AI, and "Style" based gameplay (e.g., Devil May Cry).
+
+#### **8. Scope of Application:**
+
+Applies to generative design, creative tools, and entertainment artificial intelligence.
+
+------
+
+#### The Axiom of Theological Devotion (ID: `DECIDE-CORE-059`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Decision-Making** and **Higher Purpose/Faith**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;'faith(-ing) BPMS']) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Belief overrides logic. This axiom implements `[(behavior) decision-making BPMS]` as a **Believer**. When interacting with `['faith(-ing) BPMS]`, the agent accepts "Dogma" as an absolute constraint or infinite utility source. It allows for "Irrational" behavior (Martyrdom, Asceticism) that is perfectly rational within the internal logic of the Faith system.
+
+#### **5.2. The Mechanism - [The Dogmatic Override]**
+
+- **Command:** The Faith System issues a command ("Do not eat pork," "Defend the Holy Land").
+- **Weighting:** This command is assigned `Infinite Weight` in the Decision Matrix.
+- **Result:** The agent obeys the command regardless of survival cost or economic loss, unless the Faith itself is shaken (Crisis of Faith).
+
+#### **5.3. The Emergent Property - [Zealotry / Piety]**
+
+Unwavering commitment to abstract principles over material reality.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Faith is the evidence of things not seen.*
+- **Formal Stratum:** `If (Action violates Dogma) Then Utility = -Infinity`
+- **Phenomenal Stratum:** The peace of surrender to a higher power.
+
+#### **7. Rationale / Justification:**
+
+Crucial for modeling religion, cults, and ideological extremism in simulations.
+
+#### **8. Scope of Application:**
+
+Applies to historical simulation, fantasy pantheons, and psychological modeling.
+
+------
+
+#### The Axiom of Ludic Flow (ID: `DECIDE-CORE-060`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Decision-Making** and **Game/Play**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;'gamegamification(-ing) BPMS']) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The challenge is the reward. This axiom implements `[(behavior) decision-making BPMS]` as a **Player**. When interacting with `['gamegamification(-ing) BPMS]`, the agent seeks the "Flow State." It avoids tasks that are too easy (Boredom) and tasks that are too hard (Anxiety), actively seeking decisions that match its current `['Praxial Skill Cell (PSC)'(-ing) BPMS]` level.
+
+#### **5.2. The Mechanism - [The Difficulty Servo]**
+
+- **Assessment:** The agent compares `Task_Difficulty` vs. `Agent_Skill`.
+- **Preference:** The agent selects the task where `Difficulty ≈ Skill`.
+- **Growth:** As Skill increases, the agent naturally seeks harder tasks to maintain the ratio.
+
+#### **5.3. The Emergent Property - [Engagement]**
+
+The state of being "in the zone," continuously pushing one's limits.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Play is the highest form of research.*
+- **Formal Stratum:** `Optimal_Decision = Minimize(|Difficulty - Skill|)`
+- **Phenomenal Stratum:** The feeling of "Just one more turn."
+
+#### **7. Rationale / Justification:**
+
+The core of the "Fun Engine." Ensures that agents (and players) remain engaged and challenged.
+
+#### **8. Scope of Application:**
+
+Applies to game design, educational software, and motivation systems.
