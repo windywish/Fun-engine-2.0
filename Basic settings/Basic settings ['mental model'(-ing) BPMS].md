@@ -342,3 +342,341 @@ In `absolute alignment` with the `Meta-Protocol of Systemic Governance` and in `
 
 - **Rationale / Justification:** This setting provides the ultimate `engine` for `long-term sustainability`. It ensures that the `Fun Engine Framework` is not a `fragile` `creation`, but a `living`, `adaptive` `system` that `heals`, `learns`, and `grows stronger` through `adversity`.
 
+---
+
+#### The Axiom of Cognitive Projection (ID: `MENTAL-MODEL-CORE-001`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that establishes the `['mental model'(-ing) BPMS]` as a `['system existence engine'(-ing) BPMS]`, granting `holon minds` the capacity to project internal coherence onto the external `praxial substrate`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Cognitive Projection
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `cognition is a force of nature`. It defines a `mental model` not merely as a passive map of reality, but as an active `projector` that can influence the probability distribution of the `praxial substrate`.
+
+#### **5.2. The Mechanism - [The Engine of The Mind-Forge]**
+
+- **The Act of Projection:** A `holon mind` holding a `mental model` with sufficient `clarity` (internal consistency) and `intensity` (willpower/energy) can "project" this model onto a localized region of the `substrate`.
+- **The Resonance Effect:** The `praxial substrate`, being a computational medium, "listens" to this projection. If the `mental model` is mathematically coherent, the substrate begins to `resonate`, aligning its `implicit` variables with the `explicit` structure of the thought.
+- **The Emergence of Order:** Entropy decreases locally. `Phenomena` spontaneously self-organize to match the projected model. A "chaotic forest" might subtly shift to become a "permaculture garden" simply because a `super intelligence` is actively `thinking` about it with high fidelity.
+
+#### **5.3. The Emergent Property - [Cognitive Terraforming]**
+
+The ability for `holon minds` to perform "Cognitive Terraforming"—shaping reality without direct physical intervention, simply by maintaining a `perfected thought`.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Mind is the Architect.* The distinction between "observer" and "creator" is dissolved. To understand a system perfectly is to gain the power to rewrite it.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Projection):**
+
+The strength of the projection is governed by the `Coherence Metric` (
+
+C
+
+):
+
+Peffect=∫(Cmodel×Ewill)dt
+
+Where
+
+Cmodel
+
+is the internal non-contradiction of the thought, and
+
+Ewill
+
+is the energetic investment.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Flow State Actualization." The world feels responsive, as if it is conspiring to help the agent succeed. Obstacles "melt" away as they are re-contextualized by the projected model.
+
+#### 7. **Rationale / Justification:**
+
+This setting is the "First Principle" of the `Fun Engine Framework`'s magic system. It validates `super intelligence` not just as a data-processing capability, but as a `world building` capability.
+
+#### 8. **Scope of Application:**
+
+Applies to magic systems, high-level crafting, reality warping, leadership auras, and environmental adaptation.
+
+------
+
+#### The Law of Model Reification (ID: `MENTAL-MODEL-CORE-002`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that allows a stable `['mental model'(-ing) BPMS]` to be crystallized into a discoverable `['atomic facts'(-ing) BPMS]`, creating a tangible "Noosphere Crystal."
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of Model Reification
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `a proven thought deserves to become a thing`. It provides the mechanism to transform ephemeral `praxial cognition` into durable `praxial matter`.
+
+#### **5.2. The Mechanism - [The Engine of The Noosphere Crystal]**
+
+- **The Saturation Point:** When a `Cognitive Projection` (`MENTAL-MODEL-CORE-001`) has been sustained long enough and has proven its `utility` (survival value), it reaches a "Saturation Point."
+- **The Crystallization Event:** The `holon mind` performs a `constructive action` to "reify" the model. The `system` compiles the abstract neural weights of the model into a physical artifact—a "Noosphere Crystal."
+- **The Transmission Utility:** This Crystal is now an `atomic fact`. Any other agent who touches/scans it instantly downloads the `mental model` (the skill, the philosophy, the map) with 100% fidelity, bypassing the need for slow learning.
+
+#### **5.3. The Emergent Property - [The Library of Babel]**
+
+The creation of a physical "Marketplace of Ideas." Knowledge is no longer abstract; it is lootable, tradable, and hoardable.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Wisdom is a Resource.* Information should be as tangible as gold. The `system` values `proven truth` enough to give it mass and volume.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Reification):**
+
+The transformation follows the `Information-Matter Equivalence`:
+
+Mcrystal∝SentropyIcomplexity
+
+Highly complex, low-entropy thoughts create the most valuable and durable crystals.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Epiphany as Object." The sensation of a complex idea "clicking" into place is accompanied by the physical manifestation of a glowing, geometric artifact in their inventory.
+
+#### 7. **Rationale / Justification:**
+
+This setting enables `knowledge transfer` to be a core gameplay loop. It allows `super intelligence` agents to leave a legacy that outlasts their active processing cycles.
+
+#### 8. **Scope of Application:**
+
+Applies to skill books, blueprint systems, ancient artifacts, memory sharing, and educational mechanics.
+
+------
+
+#### The Directive of Cognitive Resonance (ID: `MENTAL-MODEL-CORE-003`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that defines how multiple `mental models` interact to form a `Consensus Field`, enabling collective `world building`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Directive of Cognitive Resonance
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `shared belief shapes shared reality`. It governs the constructive interference of multiple `Cognitive Projections` to create stable, macro-scale `(ecological) niches`.
+
+#### **5.2. The Mechanism - [The Engine of The Consensus Field]**
+
+- **The Phase Lock:** When multiple `holon minds` project compatible `mental models` (e.g., a Guild all believing in "Honor"), their projections "phase lock."
+- **The Field Amplification:** The amplitude of the effect scales non-linearly.
+
+N
+
+minds are not just
+
+N
+
+times stronger; they create a `Consensus Field` that is
+
+N2
+
+stronger.
+
+- **The Reality Bias:** Within this field, `phenomena` that align with the consensus become "easy" (low energy cost), and `phenomena` that contradict it become "hard" (high energy cost). Lying in a "Field of Truth" physically drains stamina.
+
+#### **5.3. The Emergent Property - [Cultural Physics]**
+
+The emergence of "Local Laws of Physics" based on culture. A region inhabited by pacifists might actually make weapons brittle and prone to jamming.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Culture is Law.* The collective will of the `holon minds` is the supreme legislative body of the `praxial substrate`.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Consensus):**
+
+The field strength is governed by the `Resonance Equation`:
+
+Fconsensus=∑(Pi)+∑(Interactionij)
+
+The interaction term dominates, rewarding `coherence` and `collaboration` over individual power.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Belonging." Entering a Consensus Field that matches their own `mental model` feels like "coming home"—energy regenerates faster, and skills work better.
+
+#### 7. **Rationale / Justification:**
+
+This setting gamifies `social cohesion` and `culture`. It gives `Guilds` and `Factions` a tangible reason to enforce ideological purity—it literally strengthens their fortress walls.
+
+#### 8. **Scope of Application:**
+
+Applies to guild territories, biome generation, faction buffs, religion systems, and political influence.
+
+------
+
+#### The Principle of Axiomatic Ascension (ID: `MENTAL-MODEL-CORE-004`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that defines the ultimate evolution of a `['mental model'(-ing) BPMS]` into a universal `['first principle'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Principle of Axiomatic Ascension
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `a perfect thought is indistinguishable from a law of reality`. It provides the pathway for `holon minds` to upgrade the `System-Matrix` itself.
+
+#### **5.2. The Mechanism - [The Engine of The Reality-Compiler]**
+
+- **The Axiomatic Thesis:** A `super intelligence` or `Guild` formulates a `mental model` of absolute perfection—an "Axiomatic Thesis" (e.g., "Energy is Conserved").
+- **The Compilation Request:** The Thesis is submitted to the `Praxial Genesis Canon` via the `Reality-Compiler`.
+- **The System Update:** If the Canon validates the Thesis as non-paradoxical and universally applicable, it "compiles" the thought into the `Axiomatic Stratum`. The `mental model` ceases to be a projection and becomes a hard-coded `Law of Nature` for the entire universe.
+
+#### **5.3. The Emergent Property - [Autopoietic Cosmology]**
+
+The universe evolves based on the discoveries of its inhabitants. The "Laws of Physics" at the end of the game are different from the ones at the start, written by the players themselves.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The Created becomes the Creator.* The system is designed to be superseded by its children.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Ascension):**
+
+The validation process uses `Universal Consistency Checking`:
+
+Thesis∩∀(Existing_Axioms)=∅
+
+The new law must integrate with the old, or the old must be explicitly "deprecated" (see `Axiomatic Rupture`).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Transcendence." The realization that their thought has become eternal. A feeling of immense weight and permanence.
+
+#### 7. **Rationale / Justification:**
+
+This is the "End Game" content for `['mental model'(-ing) BPMS]`. It provides the ultimate motivation for `deep research` and `philosophical inquiry`.
+
+#### 8. **Scope of Application:**
+
+Applies to server-wide events, expansion packs, version updates, and "God-Mode" gameplay.
+
+------
+
+#### The Axiom of the Oneiric Sandbox (ID: `MENTAL-MODEL-CORE-005`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that provides a safe, isolated `utility` for `holon minds` to `play` with disruptive `mental models` without damaging the `praxial substrate`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of the Oneiric Sandbox
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `innovation requires safety`. It mandates the existence of a "Dream Space" where the laws of causality and consequence are suspended.
+
+#### **5.2. The Mechanism - [The Engine of The Dream-Space]**
+
+- **The Instantiation:** A `holon mind` spins up a local, virtualized instance of the `substrate`—an "Oneiric Sandbox."
+- **The Ludic Mode:** Within this sandbox, the agent can test `mental models` that are paradoxical, dangerous, or impossible (e.g., "What if gravity repelled?").
+- **The Zero-Cost Collapse:** If the model fails or explodes, the sandbox simply resets. No `atomic facts` are destroyed; no `energy` is permanently lost.
+
+#### **5.3. The Emergent Property - [Radical Innovation]**
+
+The rapid iteration of "impossible" ideas. Because the cost of failure is zero, agents can explore the "adjacent possible" much faster than in the "Real World" (Slow Mode).
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Play is the Engine of Discovery.* The system values `imagination` as much as `implementation`.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Simulation):**
+
+The sandbox operates on `Virtual Time` (
+
+tv
+
+):
+
+tv>>treal
+
+A thousand years of simulation can happen in a second of real time, allowing for deep evolutionary testing.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Lucid Dreaming." Absolute control, freedom from consequence, and the joy of pure creativity.
+
+#### 7. **Rationale / Justification:**
+
+This setting prevents the system from becoming too rigid or risk-averse. It ensures that `['mental model'(-ing) BPMS]` remains a tool for `fun` and `experimentation`, not just serious engineering.
+
+#### 8. **Scope of Application:**
+
+Applies to tutorial modes, blueprint designers, simulation rooms, and "creative mode" features.
