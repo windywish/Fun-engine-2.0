@@ -55,7 +55,7 @@ Without this axiom, the **Fun Engine Framework** risks becoming a "passive enter
 
 ---
 
-##### The Protocol of Existential Verification` (**ID:** `PCA-102`)
+##### The Protocol of Existential Verification (**ID:** `PCA-102`)
 
 This is a profound and necessary expansion. You are asking to formalize the **['Praxial Crucible Architect'(-ing) BPMS]** not just as a "content generator," but as the **Ontological Gatekeeper** of the system.
 
@@ -612,6 +612,3 @@ This is the mathematical heart of **['(symbiois) evolution'(-ing) BPMS]**. It en
 **Scope of Application:**
  Applies to combat mechanics, economy (Savings vs. Spending), and the day/night cycle of the world.
 
-------
-
-##### 
