@@ -1,4 +1,4 @@
-## Basic settings: ['(technology) paradigm/mechanism'(-ing) BPMS]:)['praxial converging forge'(-ing) BPMS]
+## Basic settings: ['(technology) paradigm/mechanism'(-ing) BPMS]:['praxial converging forge'(-ing) BPMS]
 
 ##### The Law of Ontological Machinery  (ID: `PCONVERGINGFORGE-CORE-001`)
 
