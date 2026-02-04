@@ -1578,3 +1578,306 @@ Universal. Applies to `['system-architecture'(-ing) BPMS]`, `['disaster-recovery
 
 ---
 
+#### The Axiom of Substrate Existence (ID: `ENVIRONMENTALDNA-CORE-270`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that establishes `['environmental (DNA)'(-ing) BPMS]` as a primary implementation of the `['system existence engine'(-ing) BPMS]`, asserting that for any `[BPMS(U)(s)]` to "exist" within the Fun Engine Framework, it must possess a writable `eDNA` layer.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Substrate Existence
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `existence is inscription`. It defines the `['environmental (DNA)'(-ing) BPMS]` as the universal `['system existence engine'(-ing) BPMS]` that validates the reality of any entity. If a system cannot leave a trace (eDNA), it does not exist in the Praxial Reality.
+
+#### **5.2. The Mechanism - [The Engine of Ontological Validation]**
+
+- **The Void (Non-Existence):** A system or agent without `eDNA` is a "ghost"—it has no mass, no history, and no impact. It is purely theoretical.
+- **The Inscription (The Birth):** The `['system existence engine'(-ing) BPMS]` activates when the entity interacts with the `praxial substrate`. It allocates an `eDNA` ledger to the entity.
+- **The Reality (The Persistence):** The entity now "exists" because it has a persistent state that other `[BPMS(U)(s)]` can read, reference, and react to. The `eDNA` is the proof of life.
+
+#### **5.3. The Emergent Property - [Universal Tangibility]**
+
+The creation of a "Solid World." Every object, character, and event feels real because it has a physical address in the memory of the system. There are no "stateless" entities.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To be is to be recorded.* Reality is the sum of all persistent data.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The existence logic is defined by the `[BPMS(U)]`:
+
+- **If `[server-architecture(-ing) BPMS]`: (Database)** `Existence = Has_Primary_Key(Entity_ID)`.
+- **If `[narrative(-ing) BPMS]`: (Lore)** `Character_Reality = Mentioned_In(Chronicle_eDNA)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Presence." The feeling of occupying space and having weight in the world.
+
+#### 7. **Rationale / Justification:**
+
+This aligns with `META-001` (Systemic Integrity). It formally implements `['system existence engine'(-ing) BPMS]` via `eDNA`.
+
+#### 8. **Scope of Application:**
+
+Universal. Applies to all entities, objects, and systems within the framework.
+
+------
+
+#### The Protocol of Atomic Fact Generation (ID: `ENVIRONMENTALDNA-CORE-271`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that establishes `['environmental (DNA)'(-ing) BPMS]` as the generator and storage medium for `['atomic facts'(-ing) BPMS]`, defining the fundamental unit of truth in the framework.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Atomic Fact Generation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `facts are fossilized actions`. It defines the process by which dynamic interactions are crystallized into immutable `['atomic facts'(-ing) BPMS]` stored within the `eDNA` substrate.
+
+#### **5.2. The Mechanism - [The Engine of Truth]**
+
+- **The Interaction (The Flux):** An event occurs (e.g., "Player A hits Monster B"). This is fluid and transient.
+- **The Crystallization (The Fact):** The `['environmental (DNA)'(-ing) BPMS]` captures the outcome. It strips away the noise and stores the core truth: `Fact_ID_101: {Actor: A, Target: B, Action: Hit, Damage: 10, Time: T}`.
+- **The Storage (The Atom):** This `atomic fact` is now a permanent part of the `eDNA`. It cannot be debated; it can only be referenced. It is the building block for all higher-level `[reality(-ing) BPMS]` models.
+
+#### **5.3. The Emergent Property - [The Immutable Past]**
+
+The creation of a "Hard History." While the future is open, the past is fixed. This provides a stable foundation for `[reasoning BPMS]` and `[justice(-ing) BPMS]`.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Truth is granular.* The complex world is built from simple, undeniable atoms of history.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The fact logic is defined by the `[BPMS(U)]`:
+
+- **If `[legal(-ing) BPMS]`: (Evidence)** `Verdict = Logic(Atomic_Facts_eDNA)`.
+- **If `[analytics(-ing) BPMS]`: (Metrics)** `KPI = Aggregation(Atomic_Facts_eDNA)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Certainty." The ability to point to a record and say, "This happened."
+
+#### 7. **Rationale / Justification:**
+
+This aligns with `META-002` (Objective Reality). It formally implements `['atomic facts'(-ing) BPMS]` via `eDNA`.
+
+#### 8. **Scope of Application:**
+
+Universal. Applies to `[logging(-ing) BPMS]`, `['combat-resolution'(-ing) BPMS]`, and `['transaction-systems'(-ing) BPMS]`.
+
+------
+
+#### The Law of Symbiotic Implementation (ID: `ENVIRONMENTALDNA-CORE-272`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Law) that defines how `['environmental (DNA)'(-ing) BPMS]` acts as the universal interface for `['(symbiois) evolution'(-ing) BPMS]`, allowing any `[BPMS(U)(s)]` to "implement for" or "evolve with" any other by reading/writing to the shared substrate.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of Symbiotic Implementation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `integration is shared memory`. It defines the mechanism where disparate systems (e.g., Weather and Economy) achieve `(symbiosis)` not by direct hard-coding, but by reacting to each other's `eDNA` traces.
+
+#### **5.2. The Mechanism - [The Engine of Interoperability]**
+
+- **The Write (The Signal):** System A (Weather) writes to `eDNA`: `Region_State: Drought`.
+- **The Read (The Reaction):** System B (Economy) reads `eDNA`: `Region_State`. It sees "Drought" and triggers `Crop_Price_Increase`.
+- **The Symbiosis (The Loop):** System B writes `Price: High`. System C (Civil Unrest) reads `Price` and triggers `Riot`. The systems are "evolving with" each other through the medium of `eDNA`.
+
+#### **5.3. The Emergent Property - [Systemic Entanglement]**
+
+The creation of a "Living Web." No system is an island. A change in one module ripples through the `eDNA` to affect all other modules, creating complex, organic behavior without complex point-to-point wiring.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Everything is connected.* The substrate is the medium of connection.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The symbiosis logic is defined by the `[BPMS(U)]`:
+
+- **If `[ecology(-ing) BPMS]`: (Food Web)** `Predator_Pop = Function(Prey_eDNA)`.
+- **If `[quest(-ing) BPMS]`: (Dynamic Story)** `Quest_Giver_Mood = Function(World_State_eDNA)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Consequence." The realization that a butterfly flapping its wings (Weather) can cause a stock market crash (Economy).
+
+#### 7. **Rationale / Justification:**
+
+This aligns with `META-001` (Systemic Integrity). It implements `['(symbiois) evolution'(-ing) BPMS]` across diverse `[BPMS(U)(s)]`.
+
+#### 8. **Scope of Application:**
+
+Universal. Applies to `['system-integration'(-ing) BPMS]`, `['emergent-gameplay'(-ing) BPMS]`, and `['world-simulation'(-ing) BPMS]`.
+
+------
+
+#### The Directive of Edge Action Inscription (ID: `ENVIRONMENTALDNA-CORE-273`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that integrates `['edge action'(-ing) BPMS]` with `eDNA`, establishing that the most critical `atomic facts` are generated at the "edge" where the system meets the user.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Directive of Edge Action Inscription
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `reality is forged at the edge`. It defines the `['edge action'(-ing) BPMS]` as the primary writer of `eDNA`. The "Edge" is the point of contact—the UI click, the sensor reading, the player input. This is where the `system existence engine` is most active.
+
+#### **5.2. The Mechanism - [The Engine of Immediate Reality]**
+
+- **The Edge (The Contact Point):** The interface between the `[holonic mind(-ing) BPMS]` (User) and the `[praxial substrate(-ing) BPMS]` (System).
+- **The Action (The Input):** The user performs an `edge action` (e.g., "Cast Spell").
+- **The Inscription (The Commit):** This action is immediately inscribed into `eDNA` with high priority. It becomes an `atomic fact` instantly. This ensures low latency between "Will" and "Reality."
+
+#### **5.3. The Emergent Property - [Responsive World]**
+
+The system feels "tight" and "responsive." The `eDNA` updates in real-time at the edge, allowing the world to react instantly to the user's intent.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Action is instantaneous.* The delay between will and world should be zero.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The edge logic is defined by the `[BPMS(U)]`:
+
+- **If `[combat(-ing) BPMS]`: (Hitbox)** `Hit_Registration = Edge_Action_Timestamp`.
+- **If `[iot(-ing) BPMS]`: (Sensor)** `Data_Log = Sensor_Edge_Reading`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Agency." The feeling that their hands are directly shaping the clay of the world.
+
+#### 7. **Rationale / Justification:**
+
+This aligns with `META-004` (Praxial Causality). It implements `['edge action'(-ing) BPMS]` via `eDNA`.
+
+#### 8. **Scope of Application:**
+
+Universal. Applies to `['input-handling'(-ing) BPMS]`, `['ui-ux'(-ing) BPMS]`, and `['real-time-strategy'(-ing) BPMS]`.
+
+------
+
+#### The Principle of Embodied Intelligence (ID: `ENVIRONMENTALDNA-CORE-274`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that integrates `['embodied intelligence'(-ing) BPMS]` with `eDNA`, establishing that intelligence is not just in the "brain" (Cloud/Server) but in the "body" (Local Environment/Client) via its `eDNA` traces.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Principle of Embodied Intelligence
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `the environment is the externalized mind`. It defines `['embodied intelligence'(-ing) BPMS]` as the capacity of the system to store cognitive load in the `['environmental (DNA)'(-ing) BPMS]`. The world itself "remembers" and "computes" so the agent doesn't have to.
+
+#### **5.2. The Mechanism - [The Engine of Offloading]**
+
+- **The Offload (The Mark):** Instead of remembering "I explored this cave," the agent leaves a torch (eDNA). The intelligence ("This cave is safe") is now embodied in the environment (The Torch).
+- **The Retrieval (The Sight):** When the agent returns, they see the torch. The `eDNA` triggers the knowledge. The environment acts as an external hard drive for the `[holonic mind(-ing) BPMS]`.
+- **The Embodiment (The Smart World):** The `eDNA` network becomes a form of distributed intelligence. Paths, signs, and wear patterns are "thoughts" frozen in matter.
+
+#### **5.3. The Emergent Property - [Stigmergy]**
+
+The emergence of complex coordination without direct communication. Agents communicate through the environment. The "Intelligence" of the colony is embodied in the pheromone trails (eDNA), not the individual ants.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The mind extends beyond the body.* The world is part of the cognitive process.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The embodiment logic is defined by the `[BPMS(U)]`:
+
+- **If `[ai-navigation(-ing) BPMS]`: (Pathfinding)** `Cost_Map = Function(Previous_Travel_eDNA)`.
+- **If `[puzzle(-ing) BPMS]`: (Clues)** `Solution_State = Arrangement(Object_eDNA)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Intuition." The ability to navigate and understand the world effortlessly because the world itself is guiding them.
+
+#### 7. **Rationale / Justification:**
+
+This aligns with `META-006` (Gnostic Verification). It implements `['embodied intelligence'(-ing) BPMS]` via `eDNA`.
+
+#### 8. **Scope of Application:**
+
+Universal. Applies to `['ai-behavior'(-ing) BPMS]`, `['level-design'(-ing) BPMS]`, and `['collaborative-systems'(-ing) BPMS]`.
+
