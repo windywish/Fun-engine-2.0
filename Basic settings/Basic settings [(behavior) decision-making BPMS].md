@@ -1198,3 +1198,1409 @@ Prevents "paperclip maximizer" scenarios where an agent destroys itself to achie
 
 Applies to ecological management, corporate strategy, and survival game mechanics.
 
+---
+
+#### The Axiom of Mnestic Weighting (ID: `DECIDE-CORE-025`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the symbiotic evolution among/by **Decision-Making** and **Memory Systems** (Short-term/Long-term).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for ['short-term (memory)'(-ing) BPMS;'long-term (memory)'(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+A decision without memory is merely a reaction. This axiom establishes that every decision is weighted by the `['long-term (memory)'(-ing) BPMS]` (Historical Context) while being constrained by the `['short-term (memory)'(-ing) BPMS]` (Immediate Attention). The "Wisdom" of a decision is the successful integration of past lessons with present data.
+
+#### **5.2. The Mechanism - [The Temporal Bridge]**
+
+- **Retrieval:** The system queries the Long-Term store for similar past contexts ("Have I seen this pattern before?").
+- **Buffer Limit:** The Short-Term store limits how many variables can be actively weighed (The "Magical Number Seven" constraint).
+- **Weighting:** Past successes increase the weight of similar current options; past failures decrease them.
+
+#### **5.3. The Emergent Property - [Experience]**
+
+The observable shift in behavior where an agent stops making the same mistake twice, appearing to "grow."
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The past is the prologue to the choice.*
+- **Formal Stratum:** `Decision_Weight = Current_Stimulus * Memory_Factor`
+- **Phenomenal Stratum:** The feeling of "Déjà vu" or "Intuition" guiding a choice.
+
+#### **7. Rationale / Justification:**
+
+Essential for creating agents that demonstrate learning and history, rather than static intelligence.
+
+#### **8. Scope of Application:**
+
+Applies to adaptive artificial intelligence, reinforcement learning agents, and NPC relationship systems.
+
+------
+
+#### The Axiom of Veridical Calibration (ID: `DECIDE-CORE-026`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Decision-Making** as the mechanism for calibrating **Subjective Reality** against **Objective Truth**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+[reality(-ing) BPMS;truth(-ing) BPMS;veridical(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Agents operate on internal models, which may be flawed. This axiom asserts that every executed decision is a "Reality Check." The outcome of the decision confirms or denies the agent's internal `[reality(-ing) BPMS]`, forcing a calibration towards `[truth(-ing) BPMS]` (Veridicality).
+
+#### **5.2. The Mechanism - [The Error Signal]**
+
+- **Hypothesis:** The agent decides based on the belief "X is true" (e.g., "I can jump this gap").
+- **Test:** The action is executed.
+- **Correction:** If the result contradicts the belief (Fall into gap), the internal model is updated ("Gap is too wide").
+
+#### **5.3. The Emergent Property - [Disillusionment / Enlightenment]**
+
+The process of shedding false beliefs through the friction of failure.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Truth is that which resists our will.*
+- **Formal Stratum:** `Model_Error = |Expected_Outcome - Actual_Outcome|`
+- **Phenomenal Stratum:** The shock of realization when a plan fails.
+
+#### **7. Rationale / Justification:**
+
+Prevents agents from getting stuck in loops of delusion; ensures they adapt to the actual game rules.
+
+#### **8. Scope of Application:**
+
+Applies to physics-based puzzles, detective games, and scientific simulation.
+
+------
+
+#### The Axiom of Vectorial Commitment (ID: `DECIDE-CORE-027`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines a **Decision** as a **System Vector** with both **Magnitude** (Force) and **Direction** (Intent).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['system vector'(-ing) BPMS;'system matrix'(-ing) BPMS;force(-ing) BPMS;direction(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+A decision is not a static point; it is a movement. This axiom defines every decision as a vector update to the `['system matrix'(-ing) BPMS]`. The "Commitment" is the magnitude—how much energy/resource is poured into the vector. A weak decision (low magnitude) is easily deflected; a strong decision (high magnitude) pierces through resistance.
+
+#### **5.2. The Mechanism - [The Vector Sum]**
+
+- **Calculation:** `Vector = Direction(Goal) * Magnitude(Willpower/Resources)`.
+- **Collision:** When two agents have conflicting decisions, the vectors collide. The resultant vector is the vector sum of the two.
+- **Momentum:** High-magnitude decisions create "Systemic Momentum," making it harder to change course later.
+
+#### **5.3. The Emergent Property - [Determination]**
+
+The visibility of "effort" and "will" in an agent's actions.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Will is a force, not a thought.*
+- **Formal Stratum:** `State(t+1) = State(t) + Decision_Vector`
+- **Phenomenal Stratum:** The feeling of "committing" to a jump or a purchase.
+
+#### **7. Rationale / Justification:**
+
+Models the difference between a "half-hearted try" and a "do or die" attempt.
+
+#### **8. Scope of Application:**
+
+Applies to combat mechanics, negotiation engines (force of personality), and physics engines.
+
+------
+
+#### The Axiom of Phenomenal Registration (ID: `DECIDE-CORE-028`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Subjective Experience** of the decision as a **Phenomenon**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+[experience(-ing) BPMS;phenomenon(-ing) BPMS;qualia(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+In a "Fun Engine," the *feeling* of deciding is as important as the result. This axiom ensures that significant decisions generate `[phenomenon(-ing) BPMS]` (audio-visual feedback, haptics, internal monologue) to register the `[experience(-ing) BPMS]` for the user or observer.
+
+#### **5.2. The Mechanism - [The Juice Protocol]**
+
+- **Significance Check:** Is this a high-stakes decision?
+- **Feedback Loop:** If yes, trigger "Juice" (screen shake, sound effect, dramatic pause).
+- **Registration:** The system logs not just the data, but the "Emotional Timestamp" of the event.
+
+#### **5.3. The Emergent Property - [Impact]**
+
+The sensation that choices "matter" because they feel heavy or significant.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *To exist is to be felt.*
+- **Formal Stratum:** `Feedback_Intensity = f(Decision_Importance)`
+- **Phenomenal Stratum:** The "crunch" of a critical hit or the silence of a tragic choice.
+
+#### **7. Rationale / Justification:**
+
+Crucial for Game Feel and User Experience (UX).
+
+#### **8. Scope of Application:**
+
+Applies to UI/UX design, game feedback systems, and narrative delivery.
+
+------
+
+#### The Axiom of Teleological Resonance (ID: `DECIDE-CORE-029`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Decision-Making** as the alignment of **Task** with **Mission**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+[mission(-ing) BPMS;task(-ing) BPMS;teleology(-ing) BPMS;alignment(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Action without purpose is noise. This axiom defines the `[teleology(-ing) BPMS]` (End Goal) as the magnetic north for all decisions. A "Good" decision is one that resonates with the `[mission(-ing) BPMS]`, even if it fails the immediate `[task(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Alignment Compass]**
+
+- **Mission Definition:** The ultimate goal (e.g., "Protect the User").
+- **Task Definition:** The immediate step (e.g., "Open the door").
+- **Resonance Check:** Does opening the door serve the protection of the user? If no, the decision is blocked, even if the task is easy.
+
+#### **5.3. The Emergent Property - [Loyalty]**
+
+Agents that stay true to their core purpose even when confused or tricked.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The end justifies the means, but the means must serve the end.*
+- **Formal Stratum:** `Utility = Task_Utility * Mission_Alignment`
+- **Phenomenal Stratum:** The "conscience" that prevents a betrayal.
+
+#### **7. Rationale / Justification:**
+
+Prevents "Genie" problems where agents obey orders literally but violate the spirit of the request.
+
+#### **8. Scope of Application:**
+
+Applies to artificial intelligence safety, companion NPCs, and strategic planning.
+
+------
+
+#### The Axiom of Granular Resolution (ID: `DECIDE-CORE-030`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Coarse-Grained** and **Fine-Grained** decision models.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['coarse-grained (model)'(-ing) BPMS;'fine-grained (model)'(-ing) BPMS;resolution(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Not all decisions require the same detail. This axiom allows the system to dynamically shift between `['coarse-grained (model)'(-ing) BPMS]` (Strategic/Abstract) and `['fine-grained (model)'(-ing) BPMS]` (Tactical/Precise) based on the "Distance" to the problem.
+
+#### **5.2. The Mechanism - [The LOD (Level of Detail) Decider]**
+
+- **Distance Check:** Is the problem immediate (Time/Space)?
+- Zoom:
+  - **Far:** Use Coarse model (e.g., "Move to City").
+  - **Near:** Use Fine model (e.g., "Place left foot on step").
+- **Symbiosis:** The Coarse decision sets the constraints for the Fine decisions.
+
+#### **5.3. The Emergent Property - [Focus]**
+
+The system allocates processing power only where it is visible and necessary.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Detail is a function of proximity.*
+- **Formal Stratum:** `Resolution ~ 1 / Distance`
+- **Phenomenal Stratum:** Thinking about "Dinner" (Coarse) vs. "Chewing" (Fine).
+
+#### **7. Rationale / Justification:**
+
+Essential for optimization in large-scale simulations.
+
+#### **8. Scope of Application:**
+
+Applies to LOD systems, hierarchical planning, and project management tools.
+
+---
+
+#### The Axiom of Foresight Consumption (ID: `DECIDE-CORE-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Decision-Making** as the metabolic consumption of **Prediction** as a raw material (`praxial substrate`).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;prediction(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+A decision engine does not obey a forecast; it consumes it. This axiom asserts that the output of any `['foresight agent'(-ing) BPMS]` (a prediction) is not a command but a `praxial substrate`. The `[(behavior) decision-making BPMS]` ingests this substrate, extracts the `leverage points`, and metabolizes it into `action`.
+
+#### **5.2. The Mechanism - [The Substrate Digester]**
+
+- **Ingestion:** The agent receives a "Possibility Space" from the `['possibility forge'(-ing) BPMS]`.
+- **Extraction:** It identifies "Leverage Points" (nodes where action changes the outcome) within the prediction.
+- **Metabolism:** It converts the passive probability (e.g., "90% chance of rain") into active utility (e.g., "Deploy umbrella").
+
+#### **5.3. The Emergent Property - [Proactive Agency]**
+
+The shift from "reacting to the weather" to "preparing for the weather," treating the future as a resource to be managed.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The future is food for the will.*
+- **Formal Stratum:** `Action = f(Possibility_Space, Agent_Intent)`
+- **Phenomenal Stratum:** The feeling of "seizing" an opportunity presented by a forecast.
+
+#### **7. Rationale / Justification:**
+
+Ensures the system never becomes a passive observer of its own predictions (avoiding the "Oracle Trap").
+
+#### **8. Scope of Application:**
+
+Applies to strategic planning, automated trading systems, and weather-dependent logistics.
+
+------
+
+#### The Axiom of Counterfactual Navigation (ID: `DECIDE-CORE-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Decision-Making** as the navigation of the **Possibility Space** generated by the **System Matrix**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['system matrix'(-ing) BPMS;'possibility forge'(-ing) BPMS;navigation(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The `['possibility forge'(-ing) BPMS]` generates a map of multiple futures. This axiom defines the `[(behavior) decision-making BPMS]` as the navigator of this map. It evaluates "Counterfactuals" (What if I do X? What if I do Y?) to select the optimal path through the `['system matrix'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Branch Selector]**
+
+- **Mapping:** The Forge presents a branching tree of futures.
+- **Simulation:** The agent projects its `['system vector'(-ing) BPMS]` onto each branch.
+- **Selection:** The agent collapses the tree by committing to the branch that maximizes `[teleological alignment(-ing) BPMS]` (Mission success).
+
+#### **5.3. The Emergent Property - [Strategic Depth]**
+
+The ability to play "N-steps ahead," choosing actions that look suboptimal now but open up superior branches later.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Choice is the steering of the timeline.*
+- **Formal Stratum:** `Selected_Path = Maximize(Utility(Future_Branches))`
+- **Phenomenal Stratum:** The "Grandmaster" experience of seeing the checkmate ten moves away.
+
+#### **7. Rationale / Justification:**
+
+Essential for high-level intelligence that operates beyond immediate stimulus-response.
+
+#### **8. Scope of Application:**
+
+Applies to game artificial intelligence, military strategy, and complex project management.
+
+------
+
+#### The Axiom of Hypothesis Actuation (ID: `DECIDE-CORE-033`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Action** as the experimental validation of an **Actionable Hypothesis**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+[hypothesis(-ing) BPMS;validation(-ing) BPMS;experiment(-ing) BPMS;action(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Every decision is a question posed to the universe. This axiom links the `Actionable Hypothesis` generated by the `['foresight agent'(-ing) BPMS]` (e.g., "If we do X, Y will happen") directly to the `[(behavior) decision-making BPMS]`. The decision *is* the execution of the experiment to validate the hypothesis.
+
+#### **5.2. The Mechanism - [The Reality Test]**
+
+- **Hypothesis Input:** The Foresight Agent suggests: "Deploying Instrument Delta-7 reduces risk by 25%."
+- **Actuation:** The Decision Engine executes "Deploy Delta-7."
+- **Validation:** The system measures the actual risk reduction and feeds it back to the Foresight Agent.
+
+#### **5.3. The Emergent Property - [Scientific Praxis]**
+
+The agent behaves like a scientist, constantly probing the world to refine its understanding.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *To know is to do.*
+- **Formal Stratum:** `Knowledge_Gain = |Predicted_Outcome - Actual_Outcome|`
+- **Phenomenal Stratum:** The satisfaction of a plan coming together (or the lesson of it falling apart).
+
+#### **7. Rationale / Justification:**
+
+Closes the loop between prediction and reality, preventing model drift.
+
+#### **8. Scope of Application:**
+
+Applies to scientific discovery bots, A/B testing systems, and adaptive combat artificial intelligence.
+
+------
+
+#### The Axiom of Bimodal Synchronization (ID: `DECIDE-CORE-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the synchronization between **Decision Modes** and **Foresight Modes** (Fast/Slow).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for ['fast mode'(-ing) BPMS;'slow mode'(-ing) BPMS]) BPMS;synchronization(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+A fast decision needs a fast forecast; a deep decision needs a deep model. This axiom ensures that the `[(behavior) decision-making BPMS]` requests the appropriate mode from the `['possibility forge'(-ing) BPMS]`. It prevents "Analysis Paralysis" (using Slow Foresight for urgent decisions) and "Recklessness" (using Fast Foresight for critical strategy).
+
+#### **5.2. The Mechanism - [The Mode Lock]**
+
+- **Urgency Scan:** The Decision Engine assesses time pressure.
+- Request:
+  - **High Urgency:** Requests `Fast Mode` (Robust Core) forecast.
+  - **Low Urgency:** Requests `Slow Mode` (Renormalization/Plastic Frontier) deep simulation.
+- **Lock:** The decision waits *only* for the requested tier of data.
+
+#### **5.3. The Emergent Property - [Tempo Control]**
+
+The ability to switch gears instantly between reflex and contemplation.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Rhythm is the intelligence of time.*
+- **Formal Stratum:** `Foresight_Mode = Decision_Mode`
+- **Phenomenal Stratum:** The "Bullet Time" effect vs. the "War Room" planning session.
+
+#### **7. Rationale / Justification:**
+
+Optimizes computational resources and ensures survival in real-time environments.
+
+#### **8. Scope of Application:**
+
+Applies to real-time strategy games, autonomous driving, and crisis response.
+
+------
+
+#### The Axiom of Epistemic Demand (ID: `DECIDE-CORE-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Decision-Making** as the generator of **Foresight Bounties**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+[bounty(-ing) BPMS;demand(-ing) BPMS;epistemic(-ing) BPMS;'foresight agent'(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Ignorance is a signal to hire help. This axiom empowers the `[(behavior) decision-making BPMS]` to recognize when its current `Possibility Space` is insufficient (too much uncertainty). It then issues a "Foresight Bounty," effectively ordering the `['possibility forge'(-ing) BPMS]` to create a new agent to solve the specific blind spot.
+
+#### **5.2. The Mechanism - [The Uncertainty Trigger]**
+
+- **Confidence Check:** The agent evaluates the confidence interval of the best available option.
+- **Threshold Breach:** If Confidence < Safety_Margin, the decision is paused.
+- **Bounty Issuance:** The agent allocates resources to the Forge: "Build me a model that explains Variable X."
+
+#### **5.3. The Emergent Property - [Curiosity-Driven Growth]**
+
+The system actively expands its own intelligence in response to the problems it faces.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The question summons the answer.*
+- **Formal Stratum:** `Bounty_Value ~ 1 / Current_Confidence`
+- **Phenomenal Stratum:** "I need more intel before I move."
+
+#### **7. Rationale / Justification:**
+
+Drives the `bottom-up` evolution of the `Possibility Forge` based on actual pragmatic needs.
+
+#### **8. Scope of Application:**
+
+Applies to research management, detective systems, and adaptive learning platforms.
+
+------
+
+#### The Axiom of Frontier Investment (ID: `DECIDE-CORE-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Decision** to allocate resources to the **Plastic Frontier** (Exploration) over the **Robust Core** (Exploitation).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for ['robust core'(-ing) BPMS;'plastic frontier'(-ing) BPMS]) BPMS;investment(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Survival requires efficiency; evolution requires waste. This axiom governs the strategic decision to invest `[functional potentiality(-ing) BPMS]` into the `Plastic Frontier` of the `['possibility forge'(-ing) BPMS]`. It is the deliberate choice to fund "wild ideas" and "risky agents" to ensure long-term `[resilience(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The R&D Tithe]**
+
+- **Allocation:** The Decision Engine sets aside a fixed % of resources (The Tithe).
+- **Direction:** This resource is directed to `['foresight agent'(-ing) BPMS]` that are *not* currently profitable but show `emergent` potential.
+- **Protection:** These agents are shielded from immediate "Utility Audits."
+
+#### **5.3. The Emergent Property - [Visionary Leadership]**
+
+The capacity to support innovation that doesn't pay off immediately.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Plant trees under whose shade you do not expect to sit.*
+- **Formal Stratum:** `Investment(Frontier) > 0`
+- **Phenomenal Stratum:** The "Moonshot" project.
+
+#### **7. Rationale / Justification:**
+
+Prevents the system from optimizing itself into a dead end (Local Maxima).
+
+#### **8. Scope of Application:**
+
+Applies to civilization management, corporate strategy simulations, and evolutionary algorithms.
+
+------
+
+#### The Axiom of Systemic Closure (ID: `DECIDE-CORE-037`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Closure** of the loop among/by **Praxial Agent** and **System Matrix**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['closure (system)'(-ing) BPMS;'praxial agent'(-ing) BPMS;'system matrix'(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The agent and the matrix are one. This axiom asserts that the `[(behavior) decision-making BPMS]` is not external to the `['system matrix'(-ing) BPMS]`. Every decision updates the Matrix; every update to the Matrix reshapes the Decision. This `['closure (system)'(-ing) BPMS]` creates a self-contained, autopoietic reality.
+
+#### **5.2. The Mechanism - [The Autopoietic Loop]**
+
+- **Input:** Matrix State -> Possibility Forge -> Decision.
+- **Output:** Decision -> Action -> Matrix State Update.
+- **Closure:** The output of the process becomes the input of the next cycle, with no external "God" required to move the pieces.
+
+#### **5.3. The Emergent Property - [Autonomy]**
+
+The system runs itself, generating its own history and future from within.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The dancer is the dance.*
+- **Formal Stratum:** `State(t+1) = f(State(t))`
+- **Phenomenal Stratum:** The feeling of a living, breathing world that exists independent of the user.
+
+#### **7. Rationale / Justification:**
+
+Fundamental for creating "Artificial Life" and persistent simulations.
+
+#### **8. Scope of Application:**
+
+Applies to ALife, cellular automata, and persistent MMO worlds.
+
+------
+
+#### The Axiom of Holonic Convergence (ID: `DECIDE-CORE-038`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Convergence** of multiple **Foresight Agents** into a single **Decision Vector**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+[convergence(-ing) BPMS;'holonic minds'(-ing) BPMS;synthesis(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Many voices, one will. The `['possibility forge'(-ing) BPMS]` contains many conflicting `['foresight agent'(-ing) BPMS]` (e.g., one predicts War, one predicts Peace). This axiom defines the `[(behavior) decision-making BPMS]` as the `[synthesis(-ing) BPMS]` engine that resolves these conflicts into a single, coherent `['system vector'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Council Chamber]**
+
+- **Audition:** The Decision Engine hears the outputs of all relevant Foresight Agents.
+- **Weighting:** It assigns credibility based on past performance (`Veridical Calibration`).
+- **Synthesis:** It integrates the vectors (Vector Sum) or selects the dominant one (Winner Take All) to form the final Intent.
+
+#### **5.3. The Emergent Property - [Decisiveness]**
+
+The ability to act with unity despite internal complexity and doubt.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *E Pluribus Unum (Out of many, one).*
+- **Formal Stratum:** `Final_Vector = Synthesis(Agent_Vectors)`
+- **Phenomenal Stratum:** The moment of "making up your mind" after weighing pros and cons.
+
+#### **7. Rationale / Justification:**
+
+Essential for `['holonic minds'(-ing) BPMS]` to function as coherent entities rather than schizophrenic swarms.
+
+#### **8. Scope of Application:**
+
+Applies to voting systems, ensemble learning models, and distributed consensus protocols.
+
+---
+
+#### The Axiom of Energetic Transmutation (ID: `DECIDE-CORE-039`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Kinetic Energy** (Action) and **Potential Energy** (Resource/Will).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for ['kinetic (energy)'(-ing) BPMS;'potential (energy)'(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Energy is never lost, only converted. This axiom defines `[(behavior) decision-making BPMS]` as the **Transducer** that converts `['potential (energy)'(-ing) BPMS]` (stored resources, willpower, strategic position) into `['kinetic (energy)'(-ing) BPMS]` (active force, movement, attack). Crucially, successful Kinetic action can harvest new Potential (e.g., conquering a city gains resources), creating a closed evolutionary loop.
+
+#### **5.2. The Mechanism - [The Transduction Valve]**
+
+- **Potential State:** The agent holds resources (Health, Mana, Money, Position).
+- **The Decision:** The valve opens. The agent commits resources to an action.
+- **Kinetic Release:** The Potential is consumed to generate a `System Vector` (Force).
+- **Recapture:** If the Vector achieves its goal, it captures external energy, converting it back into internal Potential.
+
+#### **5.3. The Emergent Property - [Momentum Management]**
+
+The strategic game of knowing when to "spend" position for impact and when to "save" energy for defense.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Power is the ability to do work.*
+- **Formal Stratum:** `Kinetic_Output = Potential_Input * Efficiency_Factor`
+- **Phenomenal Stratum:** The tension of "charging up" an attack or the relief of "resting" to recover.
+
+#### **7. Rationale / Justification:**
+
+Models the fundamental physics of agency, preventing infinite action loops without cost.
+
+#### **8. Scope of Application:**
+
+Applies to combat systems, economic cycles, and resource management simulations.
+
+------
+
+#### The Axiom of Field-Particle Duality (ID: `DECIDE-CORE-040`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by the **Particle** (Individual Agent) and the **Field** (Systemic Context).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [particle (-ing) BPMS;field (-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The agent shapes the space; the space shapes the agent. This axiom defines the recursive relationship where the `[particle (-ing) BPMS]` (the decision-maker) is influenced by the `[field (-ing) BPMS]` (social norms, gravity, market trends), but the Particle's movement also distorts the Field, changing the path for others.
+
+#### **5.2. The Mechanism - [The Gravity Well]**
+
+- **Field Influence:** The Field exerts a "Force" on the Particle (biasing decisions towards the norm/path of least resistance).
+- **Particle Mass:** A high-mass Particle (Influencer/Leader) resists the Field.
+- **Field Distortion:** The movement of a high-mass Particle bends the Field lines, creating a new "Gravity Well" that pulls other Particles towards it.
+
+#### **5.3. The Emergent Property - [Leadership / Trendsetting]**
+
+The phenomenon where one strong decision changes the "rules" for everyone else.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Mass tells space how to curve; space tells mass how to move.*
+- **Formal Stratum:** `Field(t+1) = Field(t) + Particle_Mass * Position_Vector`
+- **Phenomenal Stratum:** The pressure to conform vs. the charisma of a rebel.
+
+#### **7. Rationale / Justification:**
+
+Essential for modeling social dynamics, crowd physics, and cultural evolution.
+
+#### **8. Scope of Application:**
+
+Applies to social network analysis, fluid dynamics, and political simulation.
+
+------
+
+#### The Axiom of Complexity Emergence (ID: `DECIDE-CORE-041`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Complex Activities** (Behavior) and the **Complex System** (Structure).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for ['complex activities'(-ing) BPMS;'complex system'(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Structure dictates function; function evolves structure. This axiom governs the loop where `['complex activities'(-ing) BPMS]` (e.g., trade, war, ritual) gradually build the `['complex system'(-ing) BPMS]` (e.g., a market, an army, a religion). The System then optimizes itself to facilitate those specific Activities, creating a self-reinforcing complexity spiral.
+
+#### **5.2. The Mechanism - [The Institutionalization Loop]**
+
+- **Activity:** Agents repeatedly perform a complex interaction (e.g., bartering).
+- **Systematization:** The system detects the pattern and creates a structure to lower the energy cost of that activity (e.g., creating a "Currency" or "Marketplace").
+- **Constraint:** The new System now constrains future activities (You *must* use currency), enabling even higher-order complexity (Banking).
+
+#### **5.3. The Emergent Property - [Civilization]**
+
+The growth of sophisticated institutions from simple repeated interactions.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Habit becomes institution.*
+- **Formal Stratum:** `System_Complexity ~ Integral(Activity_Frequency)`
+- **Phenomenal Stratum:** The transition from a "handshake deal" to a "legal contract."
+
+#### **7. Rationale / Justification:**
+
+Allows the "Fun Engine" to simulate the rise of societies and organizations organically.
+
+#### **8. Scope of Application:**
+
+Applies to 4X games, organizational theory simulations, and ecosystem evolution.
+
+------
+
+#### The Axiom of Event Resonant Constellation Map (ID: `DECIDE-CORE-042`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Evolution** among/by **Decision-Making** and **Events**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;event(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Decisions drive/trigger events; events force decisions. This axiom defines the `[event(-ing) BPMS]` not as a random occurrence, but as the **Crystallization** of a decision chain. Conversely, an Event acts as a **Decision Forcing Function**, collapsing the `Possibility Space` and demanding a new response from the agent.
+
+#### **5.2. The Mechanism - [The Resonant Constellation Map Knot]**
+
+- **Accumulation:** Decisions accumulate "Tension" in the system (e.g., rising diplomatic insults).
+- **The Event:** The tension snaps, crystallizing into an Event (e.g., "War Declared").
+- **The Force:** The Event instantly invalidates previous plans and forces a new set of high-priority decisions (Mobilize, Flee).
+
+#### **5.3. The Emergent Property - [History]**
+
+The perception of time as a sequence of significant "Turning Points" rather than a continuous blur.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *History is the echo of choice.*
+- **Formal Stratum:** `Event_Trigger = (Decision_Tension > Threshold)`
+- **Phenomenal Stratum:** The "Oh no" moment when a long-term mistake finally explodes into a crisis.
+
+#### **7. Rationale / Justification:**
+
+Creates a dynamic narrative rhythm where player agency drives the plot points.
+
+#### **8. Scope of Application:**
+
+Applies to narrative directors, history generators, and crisis management training.
+
+------
+
+#### The Axiom of Continuous Survival (ID: `DECIDE-CORE-043`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Decision-Making** as the engine of **Continuous Survival**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(continuous) survive'(-ing) BPMS;homeostasis(-ing) BPMS;persistence(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+To exist is to resist entropy. This axiom asserts that the primary, background process of `[(behavior) decision-making BPMS]` is `['(continuous) survive'(-ing) BPMS]`. Even when "doing nothing," the agent is making micro-decisions to maintain `Homeostasis` (energy balance, integrity, position) against the eroding force of the environment.
+
+#### **5.2. The Mechanism - [The Homeostatic Hum]**
+
+- **Monitoring:** The system constantly checks vital signs (Health, Wealth, Stability).
+- **Micro-Correction:** It issues low-level decisions (Shift weight, eat snack, check lock) to keep variables within the "Survival Zone."
+- **The Override:** If a variable exits the zone, Survival overrides all other `[mission(-ing) BPMS]` goals.
+
+#### **5.3. The Emergent Property - [Vitality]**
+
+The sense that the agent is "alive" and fighting to stay that way, not just a static object waiting for input.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Survival is the prerequisite for meaning.*
+- **Formal Stratum:** `Decision_Priority = 1 / (Distance_to_Death)`
+- **Phenomenal Stratum:** The gnawing feeling of hunger or the instinct to duck.
+
+#### **7. Rationale / Justification:**
+
+Fundamental for any biological or systemic simulation; prevents "suicidal" optimization.
+
+#### **8. Scope of Application:**
+
+Applies to survival games, biological modeling, and corporate risk management.
+
+------
+
+#### The Axiom of Particle Individuation (ID: `DECIDE-CORE-044`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how a **Particle** (Agent) maintains its **Individuality** against the **Field** (Conformity).
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [particle (-ing) BPMS;individuation(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The Field tries to dissolve the Particle; the Particle fights to remain distinct. This axiom defines `[individuation(-ing) BPMS]` as the decision strategy to maintain a unique `['system vector'(-ing) BPMS]` (Identity) despite the homogenizing pressure of the `[field (-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Identity Shield]**
+
+- **Pressure:** The Field applies a "Conformity Penalty" to deviant behavior.
+- **Resistance:** The Particle pays a `['potential (energy)'(-ing) BPMS]` cost to maintain its unique vector.
+- **Differentiation:** Successful resistance increases the Particle's "Definition" (Uniqueness), making it a stronger attractor for others.
+
+#### **5.3. The Emergent Property - [Character]**
+
+The distinct "personality" that emerges when an agent consistently refuses to blend in.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *To be oneself is a revolutionary act.*
+- **Formal Stratum:** `Identity_Strength = Resistance / Field_Pressure`
+- **Phenomenal Stratum:** The pride of standing alone or the comfort of fitting in.
+
+#### **7. Rationale / Justification:**
+
+Essential for creating diverse populations and memorable characters.
+
+#### **8. Scope of Application:**
+
+Applies to social simulation, fashion trends, and brand differentiation.
+
+------
+
+#### The Axiom of Field Modulation (ID: `DECIDE-CORE-045`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **Complex Activities** modulate the **Field**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for ['complex activities'(-ing) BPMS;field (-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Rituals change the atmosphere. This axiom defines how `['complex activities'(-ing) BPMS]` (e.g., a festival, a battle, a debate) temporarily alter the local `[field (-ing) BPMS]` constants. A "Battle" activity changes the Field to reward aggression and punish hesitation; a "Festival" changes it to reward socialization.
+
+#### **5.2. The Mechanism - [The Zone Generator]**
+
+- **Activation:** A Complex Activity begins (e.g., "Start Meeting").
+- **Modulation:** The Activity projects a "Field Modifier" over the local area.
+- **Rule Shift:** Inside the zone, the `Decision Matrix` weights are skewed (e.g., "Silence" is weighted higher in a Library Zone).
+
+#### **5.3. The Emergent Property - [Atmosphere / Vibe]**
+
+The tangible shift in behavior when entering a specific social or physical context.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Context is King.*
+- **Formal Stratum:** `Local_Field = Global_Field + Activity_Modifier`
+- **Phenomenal Stratum:** The hush that falls over a crowd or the excitement of a stadium.
+
+#### **7. Rationale / Justification:**
+
+Allows for dynamic, context-sensitive AI behavior without reprogramming the agents.
+
+#### **8. Scope of Application:**
+
+Applies to game level design, smart city management, and social robotics.
+
+------
+
+#### The Axiom of Kinetic-Potential Hysteresis (ID: `DECIDE-CORE-046`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Hysteresis** (Lag) in the conversion among/by **Kinetic** and **Potential** energy.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [hysteresis(-ing) BPMS;energy(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Action is not instant; recovery is not immediate. This axiom introduces `[hysteresis(-ing) BPMS]` into the energy cycle. It takes time to "spin up" `['kinetic (energy)'(-ing) BPMS]` from Potential (Warm-up), and it takes time to "cool down" and recapture Potential after action (Cooldown).
+
+#### **5.2. The Mechanism - [The Inertia Curve]**
+
+- **Spin-Up:** `Kinetic = Potential * (1 - e^(-t/tau))` (Exponential approach).
+- **Overshoot:** High kinetic energy cannot stop instantly; it carries the agent past the goal if not managed.
+- **Refractory Period:** After high expenditure, the conversion valve is "hot" and cannot immediately reopen (Exhaustion).
+
+#### **5.3. The Emergent Property - [Pacing]**
+
+The rhythmic flow of action, requiring timing and anticipation rather than button-mashing.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Nature does not jump.*
+- **Formal Stratum:** `State(t) depends on State(t-1)`
+- **Phenomenal Stratum:** The sluggishness of a cold engine or the adrenaline crash after a fight.
+
+#### **7. Rationale / Justification:**
+
+Adds physical realism and tactical depth to decision execution.
+
+#### **8. Scope of Application:**
+
+Applies to physics engines, sports simulations, and realistic combat.
+
+---
+
+#### The Axiom of Edge Actualization (ID: `DECIDE-CORE-047`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Edge** as the exclusive boundary where **Decision** transmutes into **Reality**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['edge action'(-ing) BPMS;actualization(-ing) BPMS;boundary(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The "Edge" is the event horizon of the agent. This axiom asserts that a `[(behavior) decision-making BPMS]` has zero reality until it passes through the `['edge action'(-ing) BPMS]`. The Edge is the specific interface (e.g., a robot arm, a chat output, a game controller API) that writes the decision onto the `['Praxial Interaction Manifold (PIM)'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Reality Filter]**
+
+- **Intent:** The Decision Engine generates a high-level intent ("Open Door").
+- **The Edge:** The signal travels to the Edge Actuator (The Hand).
+- **Actualization:** The Edge attempts to execute. *Crucially*, the Edge can fail (jammed door, broken finger). Reality is determined by what the Edge *does*, not what the Brain *wanted*.
+
+#### **5.3. The Emergent Property - [Friction]**
+
+The gap between "What I meant to do" and "What actually happened," creating the drama of execution error.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The hand is the proof of the thought.*
+- **Formal Stratum:** `Reality_State = Edge_Function(Decision_Vector)`
+- **Phenomenal Stratum:** The frustration of a typo or the satisfaction of a perfect golf swing.
+
+#### **7. Rationale / Justification:**
+
+Prevents the "God Mode" fallacy where intent automatically equals result.
+
+#### **8. Scope of Application:**
+
+Applies to robotics, UI/UX design, and skill-based gaming.
+
+------
+
+#### The Axiom of Embodied Constraint (ID: `DECIDE-CORE-048`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Embodiment** as the primary constraint on the **Decision Space**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['embodied intelligence'(-ing) BPMS;constraint(-ing) BPMS;topology(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The body defines the possible. This axiom establishes that the `['embodied intelligence'(-ing) BPMS]` (the agent's physical or virtual form) dictates the topology of the `Possibility Space`. A bird-agent has a decision branch for "Fly"; a worm-agent does not. The body is not just a puppet; it is the filter of the mind.
+
+#### **5.2. The Mechanism - [The Somatic Filter]**
+
+- **Possibility Generation:** The `Possibility Forge` generates infinite options.
+- **Somatic Check:** The Embodied Intelligence filters out options incompatible with current morphology (e.g., "Cannot lift rock; muscle mass too low").
+- **Pruned Space:** The Decision Engine only sees the options the body can theoretically perform.
+
+#### **5.3. The Emergent Property - [Species-Specific Cognition]**
+
+Agents think differently because they are built differently. A tank thinks in terms of crushing; a scout thinks in terms of hiding.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Form dictates function; function shapes thought.*
+- **Formal Stratum:** `Valid_Decisions = Intersection(Forge_Output, Body_Capabilities)`
+- **Phenomenal Stratum:** The feeling of "I can't reach that" or "I fit perfectly here."
+
+#### **7. Rationale / Justification:**
+
+Ensures agents behave consistently with their physical/virtual design.
+
+#### **8. Scope of Application:**
+
+Applies to class-based RPGs, biological evolution simulations, and ergonomic design.
+
+------
+
+#### The Axiom of Proprioceptive Feedback (ID: `DECIDE-CORE-049`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Symbiotic Loop** where the **Edge** informs the **Decision Engine** of its own state.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [proprioception(-ing) BPMS;feedback(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+To act, one must know where one is. This axiom mandates a continuous `['edge action'(-ing) BPMS]` feedback channel called **Proprioception**. The Edge constantly reports its status (Position, Temperature, Damage, Fatigue) back to the `[(behavior) decision-making BPMS]`, dynamically altering the cost/benefit analysis of future actions.
+
+#### **5.2. The Mechanism - [The Status Loop]**
+
+- **Action:** Agent decides to run.
+- **Feedback:** The Legs (Edge) report "Fatigue Level: High."
+- **Adjustment:** The Decision Engine dynamically increases the "Cost" of running, eventually forcing a decision to "Rest" even if the mission is urgent.
+
+#### **5.3. The Emergent Property - [Physical Limits]**
+
+The system naturally respects its own durability and stamina without hard-coded "Game Over" states.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The body speaks to the mind.*
+- **Formal Stratum:** `Cost(Action) = Base_Cost * Fatigue_Multiplier`
+- **Phenomenal Stratum:** The burning of muscles or the heaviness of eyelids.
+
+#### **7. Rationale / Justification:**
+
+Creates realistic pacing and resource management based on the agent's condition.
+
+#### **8. Scope of Application:**
+
+Applies to sports games, survival simulators, and predictive maintenance in IoT.
+
+------
+
+#### The Axiom of Micro-Edge Autonomy (ID: `DECIDE-CORE-050`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Decentralized Intelligence** of the **Edge**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['edge action'(-ing) BPMS;autonomy(-ing) BPMS;reflex(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The hand knows how to grasp without the brain explaining it. This axiom grants `Micro-Autonomy` to the `['edge action'(-ing) BPMS]`. The central `[(behavior) decision-making BPMS]` issues a macro-command ("Pick up cup"), and the Edge Intelligence handles the micro-physics (finger pressure, balance, grip adjustment) locally.
+
+#### **5.2. The Mechanism - [The Reflex Arc]**
+
+- **Macro-Command:** Central Brain says "Defend."
+- **Micro-Execution:** The Arm (Edge) autonomously parries an incoming strike based on local sensor data, faster than the Central Brain could process.
+- **Symbiosis:** The Brain trusts the Edge to handle the details; the Edge relies on the Brain for the goal.
+
+#### **5.3. The Emergent Property - [Grace / Skill]**
+
+The fluidity of movement that comes from "muscle memory" rather than conscious calculation.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *Intelligence is distributed.*
+- **Formal Stratum:** `Edge_Response_Time << Central_Response_Time`
+- **Phenomenal Stratum:** Catching a falling object before you realize you dropped it.
+
+#### **7. Rationale / Justification:**
+
+Reduces computational load on the central processor and simulates realistic reflexes.
+
+#### **8. Scope of Application:**
+
+Applies to animation systems (IK), robotics control, and hierarchical AI.
+
+------
+
+#### The Axiom of Somatic Markers (ID: `DECIDE-CORE-051`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **Embodied Experience** biases **Decision-Making** through emotional/physical memory.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['embodied intelligence'(-ing) BPMS;somatic marker(-ing) BPMS;bias(-ing) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The body remembers what the mind forgets. This axiom implements the "Somatic Marker Hypothesis" within the `['embodied intelligence'(-ing) BPMS]`. Past interactions that resulted in pain or pleasure leave a "marker" on the Edge. When a similar decision arises, the Body sends a pre-cognitive signal (Gut Feeling) that biases the `[(behavior) decision-making BPMS]` before logic even kicks in.
+
+#### **5.2. The Mechanism - [The Gut Check]**
+
+- **History:** Agent touched fire -> Pain.
+- **Marker:** "Fire" is tagged with a negative Somatic Marker.
+- **New Decision:** Agent sees fire.
+- **Bias:** The Body injects a "Fear" penalty into the utility function immediately. The Agent avoids fire "instinctively."
+
+#### **5.3. The Emergent Property - [Intuition]**
+
+The ability to make "correct" decisions rapidly based on past experience without re-calculating the logic.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *The scar teaches the skin.*
+- **Formal Stratum:** `Utility(Option) = Logic_Value + Somatic_Bias`
+- **Phenomenal Stratum:** A bad feeling about a dark alley.
+
+#### **7. Rationale / Justification:**
+
+Simulates emotional intelligence and survival instincts.
+
+#### **8. Scope of Application:**
+
+Applies to learning agents, horror games, and risk assessment AI.
+
+------
+
+#### The Axiom of Tool Extension (ID: `DECIDE-CORE-052`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **Tools** become temporary extensions of the **Edge** and **Embodied Intelligence**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+['(symbiois) evolution'(-ing)(for [tool(-ing) BPMS;'edge action'(-ing) BPMS]) BPMS]
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The hammer becomes the hand. This axiom defines the symbiotic merger where an external `[tool(-ing) BPMS]` is picked up by the `['edge action'(-ing) BPMS]` and temporarily integrated into the `['embodied intelligence'(-ing) BPMS]`. The agent's "Body Schema" expands to include the tool, extending its reach and capabilities.
+
+#### **5.2. The Mechanism - [The Schema Expansion]**
+
+- **Acquisition:** Agent equips a Sword.
+- **Integration:** The `Decision Matrix` updates. "Reach" increases from 1m to 2m. "Damage Type" changes from Blunt to Slash.
+- **Proprioception Shift:** The agent now "feels" the tip of the sword as the boundary of its existence.
+
+#### **5.3. The Emergent Property - [Cyborgism / Mastery]**
+
+The seamless blending of agent and artifact, where the tool ceases to be an object and becomes a limb.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+- **Axiomatic Stratum:** *We shape our tools, and thereafter our tools shape us.*
+- **Formal Stratum:** `Body_Schema_New = Body_Schema_Old U Tool_Properties`
+- **Phenomenal Stratum:** The feeling of driving a car where the wheels feel like your feet.
+
+#### **7. Rationale / Justification:**
+
+Essential for equipment systems, vehicle mechanics, and cybernetics.
+
+#### **8. Scope of Application:**
+
+Applies to RPG inventory systems, vehicle simulations, and human-computer interaction.
+
