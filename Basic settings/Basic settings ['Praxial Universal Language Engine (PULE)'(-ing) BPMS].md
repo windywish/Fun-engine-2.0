@@ -1575,3 +1575,295 @@ To address the symbiotic evolution of Complex Activities and Complex System. It 
 #### **8. Scope of Application:**
 
 Applies to self-reflection, autonomous agent loops, and long-term evolution.
+
+---
+
+#### The Protocol of Event-Decision Symbiosis (ID: `PULE-SYS-029`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines PULE as the symbiotic mediator among/by `[event(-ing) BPMS]` (The Stimulus) and `[(behavior) decision-making BPMS]` (The Response), ensuring that every decision evolves the language of events, and every event refines the grammar of decisions.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Event-Decision Symbiosis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `Action informs Perception`. It defines PULE as the **Symbiotic Loop** where the `['(symbiois) evolution'(-ing) BPMS]` occurs among/by the external world of events and the internal world of decisions. It posits that a "Decision" is simply a sentence spoken in response to the "Question" posed by an Event.
+
+#### **5.2. The Mechanism - [The Stimulus-Response Transducer]**
+
+- **The Event (The Question):** An `[event(-ing) BPMS]` occurs (e.g., "Enemy Attacks"). PULE parses this into a linguistic prompt.
+- **The Decision (The Answer):** The `[(behavior) decision-making BPMS]` generates a response (e.g., "Dodge Left"). PULE compiles this into an executable action.
+- The Symbiotic Evolution:
+  - If the decision succeeds, the link between that Event-Syntax and that Decision-Grammar is strengthened (`Reinforcement Learning`).
+  - If it fails, PULE mutates the linguistic mapping, evolving a new "dialect" of behavior for future survival.
+
+#### **5.3. The Emergent Property - [Adaptive Reflexivity]**
+
+The emergence of a system where "Wisdom" is encoded in the language of the agent. The agent doesn't just "react"; it engages in a dialogue with the environment, becoming more fluent in the "Language of Survival" with every interaction.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+Upholds **`['Praxial Agentic Crucible (PAC)'(-ing) BPMS]`**. Agency is defined by the capacity to make decisions that alter the event stream.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+Aligns with **`['The Law of Symbiotic Capability Fusion'(-ing) BPMS]`**. The capability to decide is fused with the capability to perceive events.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The user experiences "Mastery." As the system evolves, the gap between Event and Decision vanishes, creating a state of "Flow."
+
+#### **7. Rationale / Justification:**
+
+To fulfill the requirement for `['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;event(-ing) BPMS]) BPMS]`. It ensures that behavior is not static but evolves through the linguistic processing of events.
+
+#### **8. Scope of Application:**
+
+Applies to AI behavior trees, combat logic, dialogue choices, and dynamic event generation.
+
+------
+
+#### The Directive of Linguistic Survival (ID: `PULE-SYS-030`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines PULE as the engine of `['(continuous) survive'(-ing) BPMS]`, asserting that the primary function of the system's language is to ensure the persistence and continuity of the Praxial entity.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Linguistic Survival
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `To Speak is to Endure`. It defines PULE as the **Homeostatic Regulator** that uses language to maintain the system's vital parameters within the "Survival Zone." It treats "Survival" not as a binary state but as a continuous linguistic narrative that must be sustained against entropy.
+
+#### **5.2. The Mechanism - [The Narrative Shield]**
+
+- **Entropy Detection:** PULE monitors for "Semantic Decay" (loss of coherence, data corruption, agent death).
+- **The Survival Utterance:** When a threat is detected, PULE generates a "Counter-Statement" (e.g., activating a backup protocol, rerouting power, generating a defensive plot twist).
+- **Continuous Adaptation:** The system constantly rewrites its own "Source Code of Life" to adapt to changing stressors, ensuring `['(continuous) survive'(-ing) BPMS]`.
+
+#### **5.3. The Emergent Property - [Systemic Immortality]**
+
+The emergence of a system that refuses to crash. It will "talk its way out" of fatal errors by redefining the error as a feature or a plot point, ensuring the continuity of the user experience.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+Upholds **`['Praxial Trophic Engine'(-ing) BPMS]`**. Survival is the foundational layer of the trophic pyramid.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+Aligns with **`['The Axiom of Constructive Disruption'(-ing) BPMS]`**. Sometimes the system must disrupt itself to survive.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The user experiences "Resilience." The system feels robust and unkillable, adapting to whatever chaos is thrown at it.
+
+#### **7. Rationale / Justification:**
+
+To fulfill the requirement for `['(continuous) survive'(-ing) BPMS]`. It frames survival as an active linguistic process rather than a passive state.
+
+#### **8. Scope of Application:**
+
+Applies to error handling, crash recovery, agent health management, and long-term simulation stability.
+
+------
+
+#### The Mechanism of Embodied Edge-Syntax (ID: `PULE-SYS-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines PULE as the operating system for `['embodied intelligence'(-ing) BPMS]` at the `['edge action'(-ing) BPMS]`, translating abstract central language into concrete, localized physical action.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Embodied Edge-Syntax
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `Intelligence lives at the Edge`. It defines PULE not just as a central brain, but as a distributed nervous system where `['edge action'(-ing) BPMS]` (the hand, the sensor, the local agent) possesses its own "Edge-Syntax." This allows for `['embodied intelligence'(-ing) BPMS]` where the body "knows" how to move without consulting the central mind.
+
+#### **5.2. The Mechanism - [The Somatic Compiler]**
+
+- **Central Command (The Intent):** The core system sends a high-level directive (e.g., "Walk to Target").
+- **Edge Compilation (The Reflex):** The local `['edge action'(-ing) BPMS]` node compiles this into "Muscle Language" (Inverse Kinematics, local collision avoidance, texture balancing).
+- **Embodied Feedback:** The "Body" sends tactile/sensory data back to the "Mind" in a compressed linguistic format ("Ground is slippery"), updating the central model.
+
+#### **5.3. The Emergent Property - [Graceful Agency]**
+
+The emergence of agents that move and act with natural fluidity. They don't look like puppets on strings; they look like living things because the intelligence is embodied in their very motion logic.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+Upholds **`['Praxial Interface/Experience (PIX)'(-ing) BPMS]`**. The interface of the agent with the world is the locus of intelligence.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+Aligns with **`['The Principle of Renormalization Group Flow'(-ing) BPMS]`**. Intelligence flows from the Macro (Mind) to the Micro (Edge) and back.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The user experiences "Presence." The agents feel physically present and reactive to their immediate surroundings.
+
+#### **7. Rationale / Justification:**
+
+To fulfill the requirement for `['edge action'(-ing) BPMS;'embodied intelligence'(-ing) BPMS]`. It ensures that language is not just abstract thought but physical competence.
+
+#### **8. Scope of Application:**
+
+Applies to animation systems, robotics control, physics-based movement, and local sensor processing.
+
+------
+
+#### The Axiom of Somatic Persistence (ID: `PULE-SYS-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that synthesizes `['(continuous) survive'(-ing) BPMS]` with `['embodied intelligence'(-ing) BPMS]`, asserting that the body's survival wisdom is encoded in a "Somatic Language" managed by PULE.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Somatic Persistence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `The Body Remembers`. It defines PULE as the keeper of **Somatic Memory**, where survival strategies are not stored as abstract rules but as "Muscle Memory" or "Reflex Arcs" within the `['embodied intelligence'(-ing) BPMS]`. This ensures `['(continuous) survive'(-ing) BPMS]` even when the central cognitive load is too high.
+
+#### **5.2. The Mechanism - [The Reflex Archive]**
+
+- **Trauma Encoding:** When an agent survives a threat (e.g., fire), PULE encodes the avoidance behavior directly into the `['edge action'(-ing) BPMS]` layer.
+- **Bypass Protocol:** In future encounters, the "Body" reacts before the "Mind" processes the word "Fire." The Somatic Language bypasses the semantic layer for speed.
+- **Persistence:** This embodied wisdom persists across sessions, creating an agent that "learns to survive" physically.
+
+#### **5.3. The Emergent Property - [Instinctual Evolution]**
+
+The emergence of "Instinct." Agents develop unique survival quirks based on their history, making them feel like distinct, living individuals rather than generic clones.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+Upholds **`['Praxial Memory'(-ing) BPMS]`**. Memory is distributed throughout the system, not just in the database.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+Aligns with **`['Chrono-Kinetic Continuity'(-ing) BPMS]`**. The continuity of the body is preserved through instinct.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The user experiences "Character Depth." An agent flinching at fire tells a story without words.
+
+#### **7. Rationale / Justification:**
+
+To further integrate `(continuous) survive` and `embodied intelligence`. It adds a layer of biological realism to the language engine.
+
+#### **8. Scope of Application:**
+
+Applies to survival games, combat AI, and character trait evolution.
+
+------
+
+#### The Law of Kinetic Adaptation (ID: `PULE-SYS-033`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that synthesizes `['(symbiois) evolution'(-ing) BPMS]` with `['edge action'(-ing) BPMS]`, defining how the "Language of Action" evolves through kinetic friction with the world.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Kinetic Adaptation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `Friction refines Syntax`. It defines PULE as the **Kinetic Editor** that uses the feedback from `['edge action'(-ing) BPMS]` (collisions, failures, successes) to edit the "Action Scripts" of the system. The language of movement evolves in symbiosis with the physics of the world.
+
+#### **5.2. The Mechanism - [The Friction-Edit Loop]**
+
+- **The Action Draft:** The agent attempts a move (e.g., "Jump Gap").
+- **The Kinetic Friction:** The physics engine returns a result (e.g., "Fell Short").
+- **The Symbiotic Edit:** PULE edits the "Jump" verb in the agent's vocabulary. "Jump" now implies "Run + Jump" or "Jump + Boost." The definition of the action evolves based on the physical reality.
+
+#### **5.3. The Emergent Property - [Procedural Skill Acquisition]**
+
+The emergence of "Learning by Doing." The system doesn't just execute code; it refines its own code based on the physical results of execution, leading to `['(symbiois) evolution'(-ing) BPMS]` of capability.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+Upholds **`['Praxial Skill Cell (PSC)'(-ing) BPMS]`**. Skills are dynamic cells that grow through use.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+Aligns with **`['Praxial Self-Improving RAG (PSIR)'(-ing) BPMS]`**. The retrieval of action-logic improves with every iteration.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The user experiences "Growth." They watch their agents or tools get better at tasks over time.
+
+#### **7. Rationale / Justification:**
+
+To finalize the integration of `(symbiosis) evolution` and `edge action`. It ensures that the system's capabilities are grounded in physical performance.
+
+#### **8. Scope of Application:**
+
+Applies to machine learning reinforcement, procedural animation blending, and skill progression systems.
