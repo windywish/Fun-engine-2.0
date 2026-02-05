@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['vertical ecosystem stewardship'(-ing) BPMS]`
 - **Objective:** To serve as the external user's vessel for symbiotic agency, carrying holonic stats, ecological inventory, and local ecosystemic reality collapse.
 - **Scope of Application:** User Agency (The "We" of the simulation — Agent + Tree).
-- **Tag:** `#tree #avatar #symbiosis #holon #ecosystem #guardian #praxial_agent`
+- **Tag:** `#tree #praxial-holonic-agent #avatar #symbiosis #holon #ecosystem #guardian #praxial_agent`
 
 ### 1. Identity Profile
 
