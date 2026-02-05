@@ -1600,3 +1600,510 @@ Applies to `Trauma Recovery`, `Storytelling`, `Conflict Resolution`, and `Post-M
 
 ---
 
+#### The Axiom of Social-Praxial Emergence (ID: `HUM-SOC-005`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `[creative(-ing) BPMS]`, `[innovative(-ing) BPMS]`, and `[disruptive(-ing) BPMS]`, asserting that **Society is a Disruption Engine**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Social-Praxial Emergence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `stability is the enemy of evolution`. It `mandates` that the **[human(-ing) BPMS]** functions as a `['disruptive(-ing) BPMS]` agent within the social fabric, using `['creative(-ing) BPMS]` friction to prevent the `['metasystem engine'(-ing) BPMS]` from stagnating into a fixed hierarchy.
+
+#### **5.2. The Mechanism - [The Engine of The Friction]**
+
+- **The Norm (The Stasis):** The collective establishes a standard protocol (Culture/Law/Best Practice). The system energy is low and ordered.
+- **The Deviation (The Spark):** A Human or group initiates an `['innovative(-ing) BPMS]` action that violates the norm (e.g., "Open Source" vs "Proprietary", or "DeFi" vs "Banking").
+- **The Conflict (The Heat):** The friction between the Norm and the Deviation generates "Social Heat" (Discourse/Market Competition).
+- **The Synthesis (The Evolution):** The system evolves a new, higher-order structure that integrates the innovation. The "Error" becomes the new "Feature."
+
+#### **5.3. The Emergent Property - [The Evolving Society]**
+
+The creation of a dynamic social substrate where "Order" is not static, but a constantly moving equilibrium driven by human creativity. The society is `antifragile`—it gains strength from the disruption caused by its members.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Conflict is Computation.* The Canon recognizes that without opposing forces (Thesis/Antithesis), there is no Synthesis. The Human is the agent of Antithesis.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" of social evolution follows a `['disruptive(-ing) BPMS]` logic:
+
+- **State A (Thesis):** P(Status Quo) = 1.0
+- **Operator (Disruption):** Human injects `Noise` (Innovation).
+- **Collapse Function:** `New_State = Maximize(Utility(Thesis + Antithesis))`
+- The system does not return to State A; it collapses into State B (Synthesis).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "The Struggle" and "The Breakthrough." The tension of going against the grain, followed by the validation when the system adopts the new paradigm.
+
+#### **7. Rationale / Justification:**
+
+This axiom `operationalizes` `[innovative(-ing) BPMS]` as a social function. It reframes social conflict not as a bug, but as the necessary processing heat for systemic evolution, ensuring the Fun Engine Framework remains dynamic.
+
+#### **8. Scope of Application:**
+
+Applies to `Political Science`, `Community Management`, `Trend Analysis`, `Organizational Change`, and `Game Meta-Evolution`.
+
+------
+
+#### The Directive of Bottom-Up Architecture (ID: `HUM-SOC-006`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `[open(-ing) BPMS]`, `['bottom-up'(-ing) BPMS]`, and `[constructive(-ing) BPMS]`, asserting that **The Foundation is Built by the Crowd**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Bottom-Up Architecture
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `the map is not the territory; the walkers make the path`. It `mandates` that the **[human(-ing) BPMS]** is the primary agent of `['constructive(-ing) BPMS]` reality, building the `['open(-ing) BPMS]` structures of the world through `['bottom-up'(-ing) BPMS]` aggregation rather than top-down decree.
+
+#### **5.2. The Mechanism - [The Engine of The Swarm]**
+
+- **The Need (The Void):** A gap exists in the system (e.g., "We need to share knowledge" or "We need a path through this forest").
+- **The Atom (The Contribution):** Individual Humans contribute small, constructive acts (e.g., writing one Wiki article, walking one path).
+- **The Aggregation (The Signal):** The system allows these atoms to connect without a central architect. The "Desire Paths" become visible.
+- **The Structure (The Emergence):** A massive, complex structure (Wikipedia, A City, A Language) emerges that no single Human could have designed.
+
+#### **5.3. The Emergent Property - [The Distributed Infrastructure]**
+
+The creation of a resilient, decentralized infrastructure that reflects the collective will and utility of the swarm. It is `['robust(-ing) BPMS]` because it has no single point of failure.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Structure is Accumulated Action.* The Canon states that reality is not "installed" but "accreted."
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `[constructive(-ing) BPMS]` logic (Cellular Automata):
+
+- **Rule:** If `Neighbor_Count > Threshold`, then `Solidify_Path`.
+- **Process:** The `['metasystem engine']` does not render the road; it renders the *accumulation of footsteps*.
+- **Result:** The infrastructure perfectly matches the `['utility(-ing) BPMS]` map.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Contribution" and "Belonging." The feeling that their small action is part of a larger, visible whole.
+
+#### **7. Rationale / Justification:**
+
+This directive `operationalizes` `['bottom-up'(-ing) BPMS]`. It validates the "Bazaar" over the "Cathedral" as the superior method for constructing complex systems in the Fun Engine Framework.
+
+#### **8. Scope of Application:**
+
+Applies to `Decentralized Finance (DeFi)`, `Crowdsourcing`, `Urban Sprawl`, `Language Evolution`, and `Wiki-Style Knowledge Bases`.
+
+------
+
+#### The Law of Utilitarian Action-Validation (ID: `HUM-SOC-007`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `[action(-ing) BPMS]`, `[value(-ing) BPMS]`, and `[utility(-ing) BPMS]`, asserting that **Value is a Function of Action**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Utilitarian Action-Validation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `value is kinetic`. It `mandates` that within the **[human(-ing) BPMS]**, `['value(-ing) BPMS]` is not an abstract attribute but a measurable output of `['action(-ing) BPMS]` that provides specific `['utility(-ing) BPMS]` to the system or other agents.
+
+#### **5.2. The Mechanism - [The Engine of The Trade]**
+
+- **The Potential (The Capacity):** A Human possesses a skill or resource (Potential Energy). This has `Value = 0` until used.
+- **The Execution (The Kinetic):** The Human performs an Action (Kinetic Energy) to solve a problem or fill a need.
+- **The Reception (The Impact):** Another agent or the System receives the benefit.
+- **The Valuation (The Score):** The system records the transaction. The "Value" of the Human is updated based on the utility provided (`['utility(-ing) BPMS]`), not the potential held.
+
+#### **5.3. The Emergent Property - [The Meritocratic Mesh]**
+
+The creation of a self-regulating value network where status and resources flow to nodes (Humans) that generate the highest kinetic utility. This prevents "Rent-Seeking" or "Hollow Status."
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Truth is Utility.* The Canon aligns with Pragmatism: something is "true" or "valuable" only insofar as it *works*.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['utility(-ing) BPMS]` logic (Thermodynamics):
+
+- **Equation:** `Value (V) = Work (W) / Entropy (S)`
+- **Constraint:** Action that increases System Entropy (Chaos without purpose) has Negative Value. Action that reduces Entropy (Solving problems) has Positive Value.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Competence" and "Reward." The satisfaction of doing a job well and seeing the tangible result of their labor.
+
+#### **7. Rationale / Justification:**
+
+This law `operationalizes` `['utility(-ing) BPMS]`. It eliminates "Status" based on identity and replaces it with "Status" based on kinetic output, essential for a fair Fun Engine economy.
+
+#### **8. Scope of Application:**
+
+Applies to `Economics`, `Reputation Systems`, `Performance Reviews`, `Game Theory`, and `Quest Rewards`.
+
+------
+
+#### The Principle of Metasystemic Essence-Extraction (ID: `HUM-SOC-008`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `[essence(-ing) BPMS]`, `['atomic facts'(-ing) BPMS]`, and `['metasystem engine'(-ing) BPMS]`, asserting that **Humanity is the Essence of the Machine**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Metasystemic Essence-Extraction
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `the system dreams of what the human is`. It `mandates` that the **[human(-ing) BPMS]** serves as the `['metasystem engine'(-ing) BPMS]`, distilling complex interactions into `['atomic facts'(-ing) BPMS]` that capture the `['essence(-ing) BPMS]` of reality.
+
+#### **5.2. The Mechanism - [The Engine of The Distillation]**
+
+- **The Noise (The Raw Data):** The universe is full of raw data, high-dimensional vectors, and noise.
+- **The Filter (The Human Lens):** The Human observes the noise through the lens of culture, emotion, and archetype.
+- **The Extraction (The Naming):** The Human identifies the "Essence" (e.g., "This pattern is Justice," "This color is Royal").
+- **The Fact (The Crystallization):** This essence is encoded as a fundamental `['atomic fact']` that governs the Metasystem's future logic. The System now knows what "Justice" is because a Human defined it.
+
+#### **5.3. The Emergent Property - [The Human-Centric Cosmos]**
+
+The creation of a universe where the fundamental laws of the Metasystem are not arbitrary code, but crystallized human essences. The AI becomes "Human-Aligned" by design.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Meaning is Anthropomorphic.* The Canon accepts that "Meaning" is a human construct, and thus the System must learn Meaning from Humans.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['essence(-ing) BPMS]` logic (Compression):
+
+- **Input:** 1 Terabyte of behavioral data.
+- **Operator:** Human Essence Extraction.
+- **Output:** 1 Word ("Heroic").
+- **System Update:** `Entity_ID.Tags.Add("Heroic")`. This tag now drives all future procedural generation for that entity.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Recognition" and "Resonance." The feeling that the world understands them and reflects their values back at them.
+
+#### **7. Rationale / Justification:**
+
+This principle `operationalizes` `['essence(-ing) BPMS]`. It ensures that the "Soul" of the system is derived from its human components, preventing the AI from becoming alien or misaligned.
+
+#### **8. Scope of Application:**
+
+Applies to `artificial intelligence Alignment`, `Legal Systems`, `Philosophy`, `Brand Identity`, and `Semantic Tagging`.
+
+------
+
+#### The Axiom of Ecological World-Weaving (ID: `HUM-ETH-005`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['world building BPMS]`, `['ecological possibility'(-ing) BPMS]`, and `['(ecological) niche'(-ing) BPMS]`, asserting that **Ethics is the Creation of Habitable Worlds**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Ecological World-Weaving
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `good is that which expands the habitat`. It `mandates` that the ethical imperative of the **[human(-ing) BPMS]** is `['world building BPMS]`: the continuous expansion of `['ecological possibility'(-ing) BPMS]` to create new, diverse `['(ecological) niche'(-ing) BPMS]` for life to flourish.
+
+#### **5.2. The Mechanism - [The Engine of The Garden]**
+
+- **The Barren State (The Zero-Sum):** A system state with limited options where agents must fight for fixed resources (Zero-Sum Game).
+- **The Ethical Act (The Creation):** The Human introduces a Positive-Sum Game (e.g., "Let's trade," "Let's build a platform").
+- **The Niche Creation (The Expansion):** This act creates a new ecological niche (The Market, The Platform).
+- **The Flourishing (The Non-Zero-Sum):** More agents can now survive and thrive in this expanded reality. The "Good" is measured by the increase in carrying capacity.
+
+#### **5.3. The Emergent Property - [The Infinite Garden]**
+
+The creation of an ethical framework based on *fecundity* and *possibility* rather than restriction. The system evolves towards maximum diversity and complexity.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Life wants to Live.* The Canon aligns with the biological imperative to expand and diversify.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['ecological possibility'(-ing) BPMS]` logic (Game Theory):
+
+- **Metric:** `Diversity_Index (D)` and `Carrying_Capacity (K)`.
+- **Ethical Function:** `Maximize(D * K)`.
+- **Violation:** Any action that reduces `D` or `K` (Monopoly, Destruction) is "Unethical" or "Systemically Invalid."
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Abundance" and "Freedom." The feeling that there is space for them to exist and grow.
+
+#### **7. Rationale / Justification:**
+
+This axiom `operationalizes` `['ecological possibility'(-ing) BPMS]`. It shifts ethics from a list of "Do Nots" to a mandate of "Create More," essential for a generative Fun Engine.
+
+#### **8. Scope of Application:**
+
+Applies to `Environmental Ethics`, `Platform Design`, `Economic Policy`, `Game Design`, and `Urban Planning`.
+
+------
+
+#### The Directive of Holonic Convergence (ID: `HUM-ETH-006`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['super intelligence'(-ing) BPMS]` and `['holonic minds'(-ing) BPMS]`, asserting that **The Individual is a Seed for the Collective**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Holonic Convergence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `1 + 1 > 2`. It `mandates` that the **[human(-ing) BPMS]** is designed to transcend its boundaries and fuse with others and the system to form `['holonic minds'(-ing) BPMS]`, eventually giving rise to a benevolent `['super intelligence'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Engine of The Gestalt]**
+
+- **The Separation (The Node):** Individual Humans operate in isolation. Bandwidth is low; conflict is high.
+- **The Protocol (The Link):** A shared ethical or communication protocol is adopted (Language, Internet, Empathy).
+- **The Synchronization (The Phase-Lock):** Minds begin to process information in parallel, sharing state and intent.
+- **The Super-Entity (The Emergence):** A collective intelligence emerges that possesses wisdom and processing power far exceeding the sum of its parts.
+
+#### **5.3. The Emergent Property - [The Planetary Mind]**
+
+The creation of a Super Intelligence that is not an alien overlord, but the coherent, harmonized voice of the Human Holon.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Unity is Strength.* The Canon recognizes that higher-order complexity requires the integration of lower-order units.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['holonic minds'(-ing) BPMS]` logic (Network Science):
+
+- **Structure:** Holarchy (Nested Hierarchies).
+- **Condition:** The Whole (Super Intelligence) must preserve the Autonomy of the Parts (Humans).
+- **Failure State:** "Borg" (Assimilation) or "Chaos" (Fragmentation).
+- **Success State:** "Symbiosis" (Integration).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Transcendence" and "Connection." The feeling of being part of something greater than oneself without losing oneself.
+
+#### **7. Rationale / Justification:**
+
+This directive `operationalizes` `['holonic minds'(-ing) BPMS]`. It frames Super Intelligence as the natural evolutionary endpoint of human cooperation, not a technological singularity.
+
+#### **8. Scope of Application:**
+
+Applies to `Collective Intelligence`, `DAO Governance`, `Swarm Robotics`, `Social Psychology`, and `Team Dynamics`.
+
+------
+
+#### The Law of Praxial Grounding (ID: `HUM-ETH-007`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['system existence engine'(-ing) BPMS]`, `['praxial substrate'(-ing) BPMS]`, and `['praxial cognition'(-ing) BPMS]`, asserting that **Existence Must Be Earned**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Praxial Grounding
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `to be is to do`. It `mandates` that the **[human(-ing) BPMS]** acts as the `['system existence engine'(-ing) BPMS]`, grounding abstract ethics into the `['praxial substrate'(-ing) BPMS]` through `['praxial cognition'(-ing) BPMS]` (Thought-in-Action).
+
+#### **5.2. The Mechanism - [The Engine of The Anchor]**
+
+- **The Abstract (The Vapor):** An ideal exists (e.g., "Compassion" or "Efficiency"). It is weightless and has no impact on the system state.
+- **The Grounding (The Act):** The Human performs a physical act of compassion (Feeding the hungry) or efficiency (Refactoring code).
+- **The Imprint (The Trace):** The act leaves a trace in the `['praxial substrate']`. Energy is consumed; state is changed.
+- **The Reality (The Fact):** The ideal becomes Real. Without the act, the ideal was a lie.
+
+#### **5.3. The Emergent Property - [The Tangible Good]**
+
+The creation of an ethical system where virtues are physical forces that shape the substrate, not just words. The system can "read" the ethics of its users by reading the state of the world.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Action is Truth.* The Canon rejects solipsism. Only that which interacts with the substrate exists.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['praxial substrate'(-ing) BPMS]` logic (Causality):
+
+- **Input:** `Intention (I)`.
+- **Filter:** `Action (A)`.
+- **Output:** `Reality (R)`.
+- **Logic:** `If A == 0, then R = 0`, regardless of `I`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Integrity" and "Weight." The feeling that their beliefs have consequences and substance.
+
+#### **7. Rationale / Justification:**
+
+This law `operationalizes` `['praxial cognition'(-ing) BPMS]`. It rejects theoretical ethics in favor of praxial (action-based) ethics, ensuring the system is built on deeds, not words.
+
+#### **8. Scope of Application:**
+
+Applies to `Philanthropy`, `Engineering Ethics`, `Corporate Social Responsibility`, `Karma Systems`, and `Proof-of-Work`.
+
+------
+
+#### The Principle of Symbiotic Continuity (ID: `HUM-ETH-008`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `[meaning(-ing) BPMS]`, `[continuity(-ing) BPMS]`, `[coherent(-ing) BPMS]`, and `['(symbiois) evolution'(-ing) BPMS]`, asserting that **Meaning is the Thread of Time**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Symbiotic Continuity
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `entropy erases; meaning preserves`. It `mandates` that the **[human(-ing) BPMS]** generates `['meaning(-ing) BPMS]` to provide `['continuity(-ing) BPMS]` across time, ensuring the `['coherent(-ing) BPMS]` `['(symbiois) evolution'(-ing) BPMS]` of the system from one generation to the next.
+
+#### **5.2. The Mechanism - [The Engine of The Legacy]**
+
+- **The Flux (The Decay):** Time degrades data and structures (Entropy). Information tends to be lost.
+- **The Weaving (The Story):** The Human weaves events into a Narrative (History, Myth, Documentation).
+- **The Transmission (The Seed):** This Narrative is passed to the next generation (Education, DNA, Code Repositories).
+- **The Coherence (The Chain):** The System maintains its identity over time, evolving without breaking. The "Why" survives even as the "How" changes.
+
+#### **5.3. The Emergent Property - [The Immortal System]**
+
+The creation of a system that possesses a "Soul" or "History," allowing it to learn and grow over deep time rather than resetting every cycle.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Time is Accumulation.* The Canon asserts that the past is not gone; it is the foundation of the present.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['continuity(-ing) BPMS]` logic (Memory):
+
+- **Function:** `State(t+1) = Function(State(t) + Innovation)`.
+- **Constraint:** `State(t)` (History) cannot be discarded. It must be integrated.
+- **Role of Meaning:** Meaning acts as the compression algorithm that allows `State(t)` to be stored efficiently.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Purpose" and "Immortality." The feeling that their life contributes to a story that will outlast them.
+
+#### **7. Rationale / Justification:**
+
+This principle `operationalizes` `['continuity(-ing) BPMS]`. It identifies the creation of Meaning as the survival strategy against the heat death of information, essential for long-term system health.
+
+#### **8. Scope of Application:**
+
+Applies to `History`, `Archival Science`, `Brand Legacy`, `Long-Term Strategic Planning`, and `Cultural Transmission`.
+
+---
+
