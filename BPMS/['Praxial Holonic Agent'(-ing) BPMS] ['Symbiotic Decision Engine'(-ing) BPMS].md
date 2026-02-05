@@ -41,7 +41,7 @@ This document presents a concrete, working implementation of the **['Praxial Hol
 #### **Type:**
 
 ```
-['Praxial Holonic Agent'(-ing) BPMS]:['recursive decision support system'(-ing) BPMS]
+['System Existence Engine'(-ing) BPMS]:['recursive decision support system'(-ing) BPMS]
 ```
 
 ------
