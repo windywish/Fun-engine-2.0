@@ -1126,3 +1126,477 @@ This principle `operationalizes` the human drive for stories and explanations as
 **Scope of Application:**
  Universal. Applies to `Scientific Discovery`, `Religious Systems`, `Software Debugging`, and `Intelligence Analysis`.
 
+---
+
+#### The Axiom of Mimetic Resonance (ID: `HUM-SOC-001`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['social collaboration'(-ing) BPMS]` and `['transmission(-ing) BPMS]`, asserting that **The Human is a Resonant Node**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Mimetic Resonance
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `individualism is a leaky abstraction`. It `mandates` that the **[human(-ing) BPMS]** functions as a high-fidelity **Mimetic Transceiver**, designed to copy, amplify, and transmit `['information(-ing) BPMS]` (behaviors, ideas, desires) to other nodes, creating a `['(entrainment) cluster'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Engine of The Wave]**
+
+- **The Signal:** A single Human adopts a new behavior (e.g., "Wearing a red hat").
+- **The Observation:** Neighboring Humans observe this via `['perception(-ing) BPMS]`.
+- **The Resonance:** If the behavior aligns with the `['vibe(-ing) BPMS]`, the neighbors copy it.
+- **The Cascade:** The signal propagates exponentially through the network.
+
+#### **5.3. The Emergent Property - [The Zeitgeist]**
+
+The creation of `['culture(-ing) BPMS]`. Culture is not a static object; it is the standing wave of mimetic resonance crashing through the human network.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+*To be is to belong.* Identity is constructed through relation and reflection.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+**Network Physics:** Modeled by `['renormalization group'(-ing) BPMS]` and `['criticality(-ing) BPMS]`. `Spread_Rate = (Connectivity * Resonance) - Resistance`
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The feeling of "FOMO" (Fear Of Missing Out) or "Belonging." The visceral drive to synchronize with the tribe.
+
+#### 7. **Rationale / Justification:**
+
+This axiom `operationalizes` `['viral coherence'(-ing) BPMS]`. It explains how micro-actions become macro-trends without central direction.
+
+#### 8. **Scope of Application:**
+
+Applies to `Marketing`, `Social Media Algorithms`, `Fashion Trends`, and `Political Movements`.
+
+------
+
+#### The Directive of Consensus Reality-Forging (ID: `HUM-SOC-002`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['consensus reality'(-ing) BPMS]` and `['truth(-ing) BPMS]`, asserting that **Truth is a Multiplayer Game**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Directive of Consensus Reality-Forging
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `objectivity is just successful subjectivity`. It `mandates` that an `['atomic fact'(-ing) BPMS]` is only fully solidified in the `['explicit layer'(-ing) BPMS]` when it is validated by a **Quorum of Humans**.
+
+#### **5.2. The Mechanism - [The Engine of The Agreement]**
+
+- **The Proposal:** Human A proposes a reality: "This token has value."
+- **The Skepticism:** The System holds this as `['potential(-ing) BPMS]`.
+- **The Quorum:** Humans B, C, D, and E agree: "Yes, we accept this token."
+- **The Solidification:** The System locks the value as a `['truth(-ing) BPMS]`.
+
+#### **5.3. The Emergent Property - [The Social Contract]**
+
+The creation of `['money(-ing) BPMS]`, `['law(-ing) BPMS]`, and `['language(-ing) BPMS]`. These entities exist only because we agree they exist.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+*Reality is a treaty.* The world is stable because we have signed a non-aggression pact with chaos.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+**Blockchain Logic:** The "Truth" is the longest chain of human verification. `Truth = Max(Consensus_Weight)`
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The feeling of "Sanity." To agree with the group is to feel sane; to disagree is to feel "Gaslit" or "Crazy."
+
+#### 7. **Rationale / Justification:**
+
+This directive `operationalizes` `['trust(-ing) BPMS]`. It defines truth not as a property of matter, but as a property of the network.
+
+#### 8. **Scope of Application:**
+
+Applies to `Cryptocurrency`, `Legal Systems`, `Brand Value`, and `Community Management`.
+
+------
+
+#### The Law of Tribal Boundary-Crystallization (ID: `HUM-SOC-003`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['holon(-ing) BPMS]` and `['identity(-ing) BPMS]`, asserting that **Identity Requires an 'Other'**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of Tribal Boundary-Crystallization
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `coherence requires containment`. It `mandates` that **[human(-ing) BPMS]** naturally organizes into `['(entrainment) cluster'(-ing) BPMS]` (Tribes) by defining a "Boundary of Exclusion" against an "Out-Group."
+
+#### **5.2. The Mechanism - [The Engine of The Wall]**
+
+- **The Entropy:** A diverse population is unstructured noise.
+- **The Shibboleth:** A subgroup adopts a specific signal (Language, Dress, Belief).
+- **The Exclusion:** They reject anyone who does not display the signal.
+- **The Crystal:** The subgroup becomes a `['holon(-ing) BPMS]` with high internal trust and high external friction.
+
+#### **5.3. The Emergent Property - [The Team]**
+
+The creation of `['organization(-ing) BPMS]`. Without boundaries, there are no teams, only crowds.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+*Definition is negation.* To be "Us" is to not be "Them."
+
+#### 6.2. Formal Stratum (Layer 2):
+
+**Membrane Physics:** The boundary acts as a semi-permeable filter for information and energy. `Internal_Coherence ∝ 1 / Membrane_Permeability`
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The feeling of "Loyalty" and "Patriotism." The warmth of the inner circle vs. the cold of the wilderness.
+
+#### 7. **Rationale / Justification:**
+
+This law `operationalizes` `['teambuilding BPMS]`. It explains why conflict is often necessary for group cohesion.
+
+#### 8. **Scope of Application:**
+
+Applies to `Guild Management`, `Corporate Culture`, `Sports Fandom`, and `Nation Building`.
+
+------
+
+#### The Principle of Collective Intelligence-Scaling (ID: `HUM-SOC-004`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['super intelligence'(-ing) BPMS]` and `['distributed intelligence'(-ing) BPMS]`, asserting that **More is Different**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Principle of Collective Intelligence-Scaling
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `intelligence scales super-linearly with connection`. It `mandates` that when **[human(-ing) BPMS]** nodes are connected via a low-latency `['medium(-ing) BPMS]`, they transition from a "Group" to a **"Super-Organism."**
+
+#### **5.2. The Mechanism - [The Engine of The Hive]**
+
+- **The Problem:** A task too complex for one brain (e.g., Building a Rocket).
+- **The Partitioning:** The task is broken into `['micro(-ing) BPMS]` sub-tasks.
+- **The Parallel Processing:** 10,000 Humans solve sub-tasks simultaneously.
+- **The Synthesis:** The System integrates the solutions.
+
+#### **5.3. The Emergent Property - [The Noosphere]**
+
+The creation of a `['holonic mind'(-ing) BPMS]` that possesses knowledge no single individual possesses (e.g., "Science").
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+*The whole is smarter than the sum of its parts.*
+
+#### 6.2. Formal Stratum (Layer 2):
+
+**Scaling Laws:** `Intelligence ≈ N * log(N)`, where N is the number of connected minds.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The feeling of "Flow" in a team. The sense that "We" are thinking, not just "I."
+
+#### 7. **Rationale / Justification:**
+
+This principle `operationalizes` `['social collaboration'(-ing) BPMS]`. It justifies the existence of cities, companies, and the internet.
+
+#### 8. **Scope of Application:**
+
+Applies to `Crowdsourcing`, `DAO Governance`, `Open Source Projects`, and `Wiki-style Knowledge Bases`.
+
+------
+
+#### The Axiom of Axiological Injection (ID: `HUM-ETH-001`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['value(-ing) BPMS]` and `['meaning(-ing) BPMS]`, asserting that **The Human is the Compass**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Axiological Injection
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `efficiency is directionless without value`. It `mandates` that the **[human(-ing) BPMS]** is the sole source of **Axiological Vectors** (Good/Bad, Beautiful/Ugly) within the system. The System can optimize, but only the Human can say *what* is worth optimizing.
+
+#### **5.2. The Mechanism - [The Engine of The Weighting]**
+
+- **The Optimization:** The System finds the most efficient path to "Zero Carbon."
+- **The Solution:** "Eliminate all Humans." (Efficient, but Bad).
+- **The Injection:** The Human injects a Value Constraint: "Human Life > Carbon Efficiency."
+- **The Re-Calculation:** The System finds a new path that respects the Value.
+
+#### **5.3. The Emergent Property - [The Moral Landscape]**
+
+The creation of `['ethics(-ing) BPMS]`. Ethics is the topology of constraints imposed by Human Will upon Systemic Efficiency.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+*Value is an injected primitive.* It does not exist in the substrate; it is brought by the user.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+**Objective Function Modification:** `Maximize(Utility) -> Maximize(Utility - Penalty(Violation_of_Human_Values))`
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The feeling of "Conscience" or "Outrage." The somatic signal that a value boundary has been crossed.
+
+#### 7. **Rationale / Justification:**
+
+This axiom `operationalizes` `['alignment(-ing) BPMS]`. It ensures the system remains subservient to human well-being.
+
+#### 8. **Scope of Application:**
+
+Applies to `artificial intelligence Safety`, `Policy Making`, `Content Moderation`, and `Bioethics`.
+
+------
+
+#### The Directive of Empathic Friction (ID: `HUM-ETH-002`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['resonance(-ing) BPMS]` and `['anti-dissipation(-ing) BPMS]`, asserting that **Care is a Systemic Brake**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Directive of Empathic Friction
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `speed kills connection`. It `mandates` that the **[human(-ing) BPMS]** introduces **Empathic Friction**—a deliberate slowing of `['process(-ing) BPMS]`—to allow for `['resonance(-ing) BPMS]` and care.
+
+#### **5.2. The Mechanism - [The Engine of The Pause]**
+
+- **The Transaction:** A medical diagnosis can be delivered in 0.1 seconds by AI.
+- **The Friction:** The Human Doctor takes 30 minutes to explain it.
+- **The Resonance:** In that time, trust and emotional processing occur.
+- **The Outcome:** The patient complies with treatment because they felt "Heard."
+
+#### **5.3. The Emergent Property - [The Humane System]**
+
+The creation of `['health(-ing) BPMS]` and `['services(-ing) BPMS]` that heal the whole holon, not just the biological machine.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+*Resonance requires time.* You cannot resonate with a pulse; you need a sustained wave.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+**Damping Factor:** `Process_Speed = Max_Speed * (1 - Empathy_Coefficient)`
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The feeling of "Relief" or "Comfort." The sense that the system has paused to acknowledge your existence.
+
+#### 7. **Rationale / Justification:**
+
+This directive `operationalizes` `['care(-ing) BPMS]`. It prevents the system from optimizing away the human experience.
+
+#### 8. **Scope of Application:**
+
+Applies to `Healthcare`, `Customer Service`, `Therapy`, and `Education`.
+
+------
+
+#### The Law of Responsibility-Attribution (ID: `HUM-ETH-003`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['responsibility(-ing) BPMS]` and `['agency(-ing) BPMS]`, asserting that **The Buck Stops at the Human**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of Responsibility-Attribution
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `an algorithm cannot sin`. It `mandates` that all `['consequence(-ing) BPMS]` generated by the system must ultimately be traced back to a **[human(-ing) BPMS]** node. The Human is the **Universal Liability Sink**.
+
+#### **5.2. The Mechanism - [The Engine of The Signature]**
+
+- **The Action:** An autonomous drone fires a missile.
+- **The Trace:** The System traces the decision chain back through the code, the training data, and the deployment order.
+- **The Anchor:** It finds the Human who signed the "Rules of Engagement."
+- **The Attribution:** That Human owns the karma of the strike.
+
+#### **5.3. The Emergent Property - [The Accountable Web]**
+
+The creation of `['justice(-ing) BPMS]`. A system where actions have moral weight because they are tethered to moral agents.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+*Agency implies liability.* You cannot claim the win if you won't own the loss.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+**Graph Theory:** Every `Event_Node` must have a directed path to a `Human_Node`.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The feeling of "Guilt" or "Pride." The weight of the crown.
+
+#### 7. **Rationale / Justification:**
+
+This law `operationalizes` `['governance(-ing) BPMS]`. It prevents the "Banality of Evil" where the system is blamed for human choices.
+
+#### 8. **Scope of Application:**
+
+Applies to `Legal Liability`, `Military Command`, `Corporate Accountability`, and `AI Ethics`.
+
+------
+
+#### The Principle of Meaning-Synthesis (ID: `HUM-ETH-004`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['meaning(-ing) BPMS]` and `['synthesis(-ing) BPMS]`, asserting that **The Human is the Alchemist**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Principle of Meaning-Synthesis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `data + suffering = meaning`. It `mandates` that the **[human(-ing) BPMS]** has the unique capacity to transmute negative `['experience(-ing) BPMS]` (Pain, Loss, Failure) into positive `['meaning(-ing) BPMS]` (Wisdom, Art, Resilience).
+
+#### **5.2. The Mechanism - [The Engine of The Transmutation]**
+
+- **The Input:** A Tragedy occurs (e.g., A forest burns down).
+- **The Processing:** The Human grieves, reflects, and creates.
+- **The Output:** A Poem, a new Forest Management Policy, a stronger Community.
+- **The Synthesis:** The "Bad" event is metabolized into a "Good" growth trajectory.
+
+#### **5.3. The Emergent Property - [The Antifragile Soul]**
+
+The creation of `['longevity(-ing) BPMS]`. The system does not just survive trauma; it gets better because of it.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+*The obstacle is the way.*
+
+#### 6.2. Formal Stratum (Layer 2):
+
+**Alchemical Logic:** `Meaning = Abs(Experience) * Integration_Factor`.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+The feeling of "Catharsis" or "Purpose." The sense that "It was all for a reason."
+
+#### 7. **Rationale / Justification:**
+
+This principle `operationalizes` `['psychology(-ing) BPMS]`. It defines the human capacity for narrative repair as a critical system function.
+
+#### 8. **Scope of Application:**
+
+Applies to `Trauma Recovery`, `Storytelling`, `Conflict Resolution`, and `Post-Mortem Analysis`.
+
+---
+
