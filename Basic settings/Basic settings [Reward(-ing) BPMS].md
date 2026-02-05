@@ -1,4 +1,4 @@
-## Basic settings: ['Reward'(-ing) BPMS]
+## Basic settings: [Reward(-ing) BPMS]
 
 #### The Axiom of Metabolic Currency (ID: `REWARD-CORE-001`)
 
