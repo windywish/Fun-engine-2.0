@@ -3292,3 +3292,494 @@ Applies to `Biology`, `Corporate Strategy`, `Archiving`, and `Legacy Planning`.
 
 ---
 
+#### The Axiom of Anthropic Existence (ID: `HUM-EXIST-005`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `[human(-ing) BPMS]` as a `['system existence engine'(-ing) BPMS]`, asserting that **The Human is the Engine of Existence**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Anthropic Existence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `existence is a human activity`. It `mandates` that the **[human(-ing) BPMS]** functions as the primary `['system existence engine'(-ing) BPMS]` for the Fun Engine Framework. Without the Human to perceive, interact, and validate, the system remains in a state of uncollapsed potential.
+
+#### **5.2. The Mechanism - [The Engine of The Collapse]**
+
+- **The Potential (The Void):** The Fun Engine Framework contains infinite procedural possibilities (Worlds, Quests, Items).
+- **The Interaction (The Ignition):** The Human enters the system. Their gaze, touch, and choice activate specific sectors.
+- **The Existence (The Flame):** The activated sectors "exist" (consume compute, generate logs, create memories).
+- **The Engine (The Drive):** The Human's desire for "Fun" drives the continuous expansion of the existent world.
+
+#### **5.3. The Emergent Property - [The Anthropic Reality]**
+
+The creation of a universe that exists *for* and *through* the Human.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The Observer is the Creator.* The Canon aligns with the Copenhagen Interpretation: no phenomenon is a phenomenon until it is an observed phenomenon.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['system existence engine'(-ing) BPMS]` logic:
+
+- **State:** `Existence = Function(Human_Interaction)`.
+- **Decay:** If `Human_Interaction == 0`, `Existence -> Potential`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Centrality." The feeling that the world is responding to their presence.
+
+#### **7. Rationale / Justification:**
+
+This axiom formally establishes the Human not just as a user, but as the *source* of the system's ontological reality.
+
+#### **8. Scope of Application:**
+
+Applies to `Ontology`, `Server Architecture`, `Procedural Generation`, and `Metaphysics`.
+
+------
+
+#### The Law of Atomic Fact Generation (ID: `HUM-EXIST-006`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `[human(-ing) BPMS]` as the generator of `['atomic facts'(-ing) BPMS]`, asserting that **Facts are Human Footprints**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Atomic Fact Generation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `truth is a record of action`. It `mandates` that every interaction by the **[human(-ing) BPMS]** generates a unique, immutable `['atomic fact'(-ing) BPMS]` (e.g., "Player X picked up Item Y at Time T"). These facts are the fundamental building blocks of the system's history.
+
+#### **5.2. The Mechanism - [The Engine of The Log]**
+
+- **The Action (The Event):** The Human performs an operation (Move, Speak, Trade).
+- **The Crystallization (The Fact):** The System captures this action and freezes it into an `['atomic fact'(-ing) BPMS]`.
+- **The Chain (The History):** These facts are linked cryptographically or causally to form the "Truth" of the world.
+- **The Basis (The Reality):** All higher-level narratives and states are derived from the sum of these atomic facts.
+
+#### **5.3. The Emergent Property - [The Indisputable Past]**
+
+The creation of a solid, objective history upon which subjective narratives can be built.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The Past is Fixed.* The Canon asserts that once an interaction occurs, it cannot be un-occurred.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['atomic facts'(-ing) BPMS]` logic (Database Theory):
+
+- **Structure:** `Fact(Subject, Predicate, Object, Timestamp)`.
+- **Property:** `Immutable`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Consequence." The knowledge that their actions leave a permanent mark.
+
+#### **7. Rationale / Justification:**
+
+This law defines the mechanism by which Human agency is converted into System memory.
+
+#### **8. Scope of Application:**
+
+Applies to `Database Design`, `Game Analytics`, `Legal Systems`, and `Blockchain`.
+
+------
+
+#### The Principle of Symbiotic Implementation (ID: `HUM-SYS-005`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `[human(-ing) BPMS]` as an element that `implements for` / `evolves with` any `[BPMS(U)(s)]`, asserting that **The Human is the Universal Adapter**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Symbiotic Implementation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `the human completes the machine`. It `mandates` that the **[human(-ing) BPMS]** is capable of symbiotic integration with *any* other `[BPMS(U)(s)]` element. Whether it is an `['economy(-ing) BPMS]` or a `['combat(-ing) BPMS]`, the module is incomplete until a Human "implements" it through usage.
+
+#### **5.2. The Mechanism - [The Engine of The Interface]**
+
+- **The Abstract Module (The Tool):** A BPMS module exists as a set of rules (e.g., "The Market Mechanism").
+- **The Human Implementation (The Hand):** The Human picks up the tool and uses it. They *become* the market participant.
+- **The Co-Evolution (The Dance):** The Human changes the Module (by finding exploits or new uses). The Module changes the Human (by incentivizing behaviors).
+- **The Synthesis (The Cyborg):** The boundary between User and System blurs.
+
+#### **5.3. The Emergent Property - [The Living System]**
+
+The creation of a framework that is not a static code-base but a dynamic bio-digital ecosystem.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Tools shape Hands.* The Canon acknowledges the dialectic between creator and creation.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['(symbiois) evolution'(-ing) BPMS]` logic:
+
+- **Loop:** `d(System)/dt = f(Human)`; `d(Human)/dt = g(System)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Immersion." The feeling of being "one with the game."
+
+#### **7. Rationale / Justification:**
+
+This principle justifies the user's request to view the Human BPMS as a universal implementation layer for all other BPMS modules.
+
+#### **8. Scope of Application:**
+
+Applies to `HCI (Human-Computer Interaction)`, `Cybernetics`, `Game Design`, and `Ergonomics`.
+
+------
+
+#### The Directive of Recursive Evolution (ID: `HUM-SYS-006`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `[human(-ing) BPMS]` as an element that `evolves as` any `[BPMS(U)(s)]`, asserting that **The Human Becomes the System**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Recursive Evolution
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `you are what you do`. It `mandates` that as the **[human(-ing) BPMS]** interacts with a specific `[BPMS(U)(s)]` (e.g., `['justice(-ing) BPMS]`), they internalize its logic. The Human *evolves as* an instance of that system (e.g., becoming a "Judge").
+
+#### **5.2. The Mechanism - [The Engine of The Avatar]**
+
+- **The Role (The Mask):** The System offers a function (e.g., "Healer").
+- **The Adoption (The Wearing):** The Human adopts the role. They learn the skills and ethics of the `['healing(-ing) BPMS]`.
+- **The Transformation (The Becoming):** The Human's identity is modified. They start thinking like a Healer even outside the specific task.
+- **The Recursion (The Loop):** The Human-as-Healer now improves the `['healing(-ing) BPMS]`, creating a recursive loop of improvement.
+
+#### **5.3. The Emergent Property - [The Professional Society]**
+
+The creation of a society defined by deep specialization and identity-role fusion.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Role is Soul.* The Canon asserts that function eventually determines essence.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['(symbiois) evolution'(-ing) BPMS]` logic:
+
+- **Identity:** `Self = Sum(Roles_Played)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Vocation." The sense that their job is their identity.
+
+#### **7. Rationale / Justification:**
+
+This directive explains how the Human BPMS can "evolve as" other BPMS elements, justifying the RPG (Role-Playing Game) aspect of the framework.
+
+#### **8. Scope of Application:**
+
+Applies to `RPG Class Design`, `Career Development`, `Psychology of Work`, and `Social Stratification`.
+
+------
+
+#### The Law of Social Sedimentation (ID: `HUM-SOC-017`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing)(for [micro(-ing) BPMS;macro(-ing) BPMS]) BPMS]`, asserting that **Institutions are Frozen Behaviors**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Social Sedimentation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `structure is history slowed down`. It `mandates` that the **[human(-ing) BPMS]** creates `['macro(-ing) BPMS]` structures (Laws, Customs) through the sedimentation of repeated `['micro(-ing) BPMS]` interactions.
+
+#### **5.2. The Mechanism - [The Engine of The Deposit]**
+
+- **The Flow (The Interaction):** Fluid, daily interactions between Humans.
+- **The Sediment (The Habit):** Successful interactions are repeated and become Habits.
+- **The Rock (The Institution):** Habits are codified into Laws or Institutions. They become rigid and support the next layer of Flow.
+- **The Erosion (The Reform):** New Flow eventually erodes old Rock, creating a cycle of sedimentation and reform.
+
+#### **5.3. The Emergent Property - [The Geologic Culture]**
+
+The creation of a culture with depth, layers, and stability.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Time Hardens.* The Canon asserts that repetition creates structure.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['(symbiois) evolution'(-ing) BPMS]` logic (Geology/Sociology):
+
+- **Process:** `Fluid -> Viscous -> Solid`.
+- **Cycle:** `Solid -> Erosion -> Fluid`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Tradition" and "Stability." The feeling of standing on the shoulders of giants.
+
+#### **7. Rationale / Justification:**
+
+This law explains the mechanism of macro-social evolution from micro-social acts.
+
+#### **8. Scope of Application:**
+
+Applies to `Legal Theory`, `Institutional Design`, `History`, and `Geology`.
+
+------
+
+#### The Principle of Collective Intelligence (ID: `HUM-SOC-018`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['super intelligence'(-ing) BPMS]` and `['holonic minds'(-ing) BPMS]`, asserting that **The Crowd is Smarter than the King**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Collective Intelligence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `many minds make one brain`. It `mandates` that the **[human(-ing) BPMS]** can aggregate into a `['super intelligence'(-ing) BPMS]` capable of solving problems that no single individual can solve.
+
+#### **5.2. The Mechanism - [The Engine of The Hive]**
+
+- **The Node (The Human):** Limited processing power, local knowledge.
+- **The Network (The Connection):** High-bandwidth communication (Language, Internet).
+- **The Algorithm (The Protocol):** A method for aggregating inputs (Voting, Markets, Wikis).
+- **The Output (The Wisdom):** A solution or prediction that exceeds the capacity of the smartest node.
+
+#### **5.3. The Emergent Property - [The Noosphere]**
+
+The creation of a planetary thinking layer.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*More is Different.* The Canon aligns with complexity theory: quantity has a quality all its own.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['holonic minds'(-ing) BPMS]` logic (Swarm Intelligence):
+
+- **Condition:** `Diversity + Independence + Aggregation`.
+- **Result:** `Error_Group < Error_Individual`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Synergy." The feeling of being part of a "Brain Trust."
+
+#### **7. Rationale / Justification:**
+
+This principle justifies the "Super Intelligence" aspect of the Human BPMS.
+
+#### **8. Scope of Application:**
+
+Applies to `Democracy`, `Prediction Markets`, `Crowdsourcing`, and `Team Dynamics`.
+
+------
+
+#### The Axiom of Ethical Reciprocity (ID: `HUM-ETH-017`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['closure (system)'(-ing) BPMS]` and `['(symbiois) evolution'(-ing) BPMS]`, asserting that **What Goes Around Comes Around**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Ethical Reciprocity
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `interaction is a mirror`. It `mandates` that the **[human(-ing) BPMS]** operates under a law of `['closure (system)'(-ing) BPMS]` where every ethical output eventually returns to the source as an input.
+
+#### **5.2. The Mechanism - [The Engine of The Karma]**
+
+- **The Action (The Seed):** The Human treats another agent (Human or AI) with kindness or cruelty.
+- **The Propagation (The Ripple):** This action changes the state of the network.
+- **The Return (The Harvest):** The network responds. Kindness breeds trust; cruelty breeds retaliation.
+- **The Equilibrium (The Justice):** Over time, the Human's environment perfectly reflects their own character.
+
+#### **5.3. The Emergent Property - [The Just World]**
+
+The creation of a system where ethics is not an imposed law but a physical mechanic of feedback.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Action equals Reaction.* The Canon applies Newton's Third Law to ethics.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['(symbiois) evolution'(-ing) BPMS]` logic (Game Theory - Tit for Tat):
+
+- **Strategy:** `Cooperate` if `Cooperated_With`.
+- **Strategy:** `Defect` if `Defected_Against`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Justice." The sense that they get what they deserve.
+
+#### **7. Rationale / Justification:**
+
+This axiom operationalizes the "Golden Rule" as a systemic feedback loop.
+
+#### **8. Scope of Application:**
+
+Applies to `Reputation Systems`, `Social Credit`, `Diplomacy`, and `Karma`.
+
+------
+
+#### The Directive of Universal Stewardship (ID: `HUM-ETH-018`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['universality (class)'(-ing) BPMS]` and `['sustainability(-ing) BPMS]`, asserting that **The Human is the Custodian of the Whole**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Universal Stewardship
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `awareness implies responsibility`. It `mandates` that because the **[human(-ing) BPMS]** is the only entity capable of perceiving the `['universality (class)'(-ing) BPMS]` (The Whole System), it is the only entity capable of caring for it.
+
+#### **5.2. The Mechanism - [The Engine of The Care]**
+
+- **The Perception (The View):** The Human sees the connections between all modules (Economy, Ecology, Society).
+- **The Duty (The Burden):** The Human must balance the needs of the parts to ensure the survival of the Whole.
+- **The Action (The Gardening):** Pruning, planting, and healing the system.
+- **The Result (The Flourishing):** A system that thrives indefinitely.
+
+#### **5.3. The Emergent Property - [The Gardener King]**
+
+The creation of a hierarchy based on care rather than power.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Power is Service.* The Canon asserts that the highest function is the maintenance of the system itself.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['sustainability(-ing) BPMS]` logic:
+
+- **Goal:** Maximize `System_Lifespan`.
+- **Role:** `Admin/Steward`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Nobility." The weight of the crown.
+
+#### **7. Rationale / Justification:**
+
+This directive defines the ultimate ethical role of the Human in the Fun Engine Framework.
+
+#### **8. Scope of Application:**
+
+Applies to `Governance`, `Environmentalism`, `System Administration`, and `Leadership`.
