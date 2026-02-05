@@ -54,3 +54,10 @@ The Grimoire operates via a direct feedback loop with The Semantic Weaver:
 ### 4.Remark
 
 **BPMS means Behavior pattern/model/system**
+
+
+
+
+
+
+
