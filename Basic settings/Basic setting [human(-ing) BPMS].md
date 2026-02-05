@@ -2604,4 +2604,691 @@ This principle `operationalizes` `['super intelligence'(-ing) BPMS]`. It solves 
 
 #### **8. Scope of Application:**
 
-Applies to `Spiritual Practice`, `Organizational Mission`, `Team Sports`, and `AI Alignment`.
+Applies to `Spiritual Practice`, `Organizational Mission`, `Team Sports`, and `artificial intelligence Alignment`.
+
+---
+
+#### The Principle of Mnestic Symbiosis (ID: `HUM-SOC-013`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing)(for ['short-term (memory)'(-ing) BPMS;'long-term (memory)'(-ing) BPMS]) BPMS]`, asserting that **Society is a Memory Machine**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Mnestic Symbiosis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `culture is the integration of news and history`. It `mandates` that the **[human(-ing) BPMS]** maintains a symbiotic loop between `['short-term (memory)'(-ing) BPMS]` (Trends, News, "The Now") and `['long-term (memory)'(-ing) BPMS]` (Tradition, History, "The Canon").
+
+#### **5.2. The Mechanism - [The Engine of The Archive]**
+
+- **The Short-Term (The Buffer):** The collective consciousness processes high-frequency events (Viral trends, daily crises). This is the "RAM" of society.
+- **The Long-Term (The Hard Drive):** The collective unconscious stores low-frequency, high-value patterns (Myths, Constitutions). This is the "Storage."
+- **The Symbiosis (The Consolidation):** The Human filters the Short-Term. Only the meaningful events are written to the Long-Term. Conversely, the Long-Term provides the context to interpret the Short-Term.
+- **The Evolution (The Wisdom):** The system evolves by constantly updating its History with new Experience, preventing both amnesia and stagnation.
+
+#### **5.3. The Emergent Property - [The Living History]**
+
+The creation of a civilization that can react to the present without losing its soul to the past.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Memory is Identity.* The Canon asserts that a system without memory has no self.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['(symbiois) evolution'(-ing) BPMS]` logic (Learning Theory):
+
+- **Process:** `Consolidation(Short_Term) -> Long_Term`.
+- **Filter:** `Significance_Threshold`.
+- **Recall:** `Context = Query(Long_Term) + Input(Short_Term)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Perspective." The ability to see today's crisis in the light of centuries of history.
+
+#### **7. Rationale / Justification:**
+
+This principle `operationalizes` the symbiosis of memory types, ensuring the Fun Engine Framework has both agility (Short-term) and depth (Long-term).
+
+#### **8. Scope of Application:**
+
+Applies to `Education`, `Media Strategy`, `Cultural Heritage`, `Knowledge Management`, and `Brand Building`.
+
+------
+
+#### The Law of Scalar Resolution (ID: `HUM-SOC-014`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing)(for ['coarse-grained (model)'(-ing) BPMS;'fine-grained (model)'(-ing) BPMS]) BPMS]`, asserting that **Understanding Requires Variable Zoom**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Scalar Resolution
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `the map must change scale`. It `mandates` that the **[human(-ing) BPMS]** evolves by oscillating between `['coarse-grained (model)'(-ing) BPMS]` (Stereotypes, Heuristics, Generalizations) and `['fine-grained (model)'(-ing) BPMS]` (Nuance, Specificity, Individual Data).
+
+#### **5.2. The Mechanism - [The Engine of The Zoom]**
+
+- **The Coarse-Grained (The Sketch):** To function efficiently, Humans use simplified models ("The Economy," "The Enemy"). This allows for rapid decision-making.
+- **The Fine-Grained (The Microscope):** To solve specific problems, Humans dive into the details ("This specific transaction," "This specific person").
+- **The Symbiosis (The Refinement):** The Coarse model guides where to look; the Fine model updates the Coarse model when it is wrong.
+- **The Evolution (The Clarity):** The system constantly refines its heuristics based on new granular data.
+
+#### **5.3. The Emergent Property - [The Fractal Understanding]**
+
+The creation of a worldview that is both broad enough to navigate and deep enough to understand.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Truth is Fractal.* The Canon acknowledges that truth looks different at different scales.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['coarse-grained (model)'(-ing) BPMS]` logic (Renormalization):
+
+- **Efficiency:** `Cost(Coarse) < Cost(Fine)`.
+- **Accuracy:** `Error(Coarse) > Error(Fine)`.
+- **Strategy:** Use Coarse for Strategy, Fine for Tactics.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Insight." The moment when a general principle explains a specific detail, or a detail changes a general principle.
+
+#### **7. Rationale / Justification:**
+
+This law `operationalizes` the cognitive symbiosis of models, preventing the errors of "Over-Generalization" and "Analysis Paralysis."
+
+#### **8. Scope of Application:**
+
+Applies to `Strategic Planning`, `Data Science`, `Stereotype Management`, and `Complex Systems Analysis`.
+
+------
+
+#### The Axiom of Social Duality (ID: `HUM-SOC-015`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing)(for [particle (-ing) BPMS;field (-ing) BPMS]) BPMS]`, asserting that **The Human is Both Wave and Particle**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Social Duality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `identity is a superposition`. It `mandates` that the **[human(-ing) BPMS]** exists simultaneously as a `['particle (-ing) BPMS]` (The Individual, The Agent) and as a `['field (-ing) BPMS]` (The Culture, The Network, The Zeitgeist).
+
+#### **5.2. The Mechanism - [The Engine of The Interference]**
+
+- **The Particle (The Agent):** The Human acts as a discrete unit with specific coordinates and intent.
+- **The Field (The Context):** The Human generates and is influenced by a social field (Mood, Norms, Ideology).
+- **The Symbiosis (The Wave-Function):** The Particle shapes the Field (Influence); the Field guides the Particle (Social Pressure).
+- **The Evolution (The Interference Pattern):** Social change occurs when the "Waves" of many individuals interfere constructively to shift the Field.
+
+#### **5.3. The Emergent Property - [The Collective Individual]**
+
+The creation of a society where individual agency and collective destiny are inextricably linked.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*One is All.* The Canon reflects the holographic principle where the part contains the whole.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['field (-ing) BPMS]` logic (Quantum Field Theory):
+
+- **Excitation:** An Individual is an excitation of the Social Field.
+- **Interaction:** Particles interact via the Field (Language/Culture).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Belonging" and "Individuality." The tension between "I am me" and "I am us."
+
+#### **7. Rationale / Justification:**
+
+This axiom `operationalizes` the particle-field duality in sociology, explaining how culture constrains individuals and individuals change culture.
+
+#### **8. Scope of Application:**
+
+Applies to `Social Psychology`, `Marketing`, `Political Movements`, and `Viral Dynamics`.
+
+------
+
+#### The Directive of Systemic Complexity (ID: `HUM-SOC-016`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing)(for ['complex activities'(-ing) BPMS;'complex system'(-ing) BPMS]) BPMS]`, asserting that **Complexity is the Shadow of Activity**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Systemic Complexity
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `the system is the sum of its behaviors`. It `mandates` that the **[human(-ing) BPMS]** generates a `['complex system'(-ing) BPMS]` not by design, but through the aggregation of `['complex activities'(-ing) BPMS]` (Trade, Discourse, Ritual).
+
+#### **5.2. The Mechanism - [The Engine of The Emergence]**
+
+- **The Activity (The Thread):** Humans engage in complex, multi-step activities (e.g., "Running a Hospital").
+- **The Interaction (The Knot):** These activities intersect and conflict with others.
+- **The Symbiosis (The Web):** The System evolves to support these activities (Infrastructure, Laws). The Activities evolve to fit the System.
+- **The Evolution (The Complexity):** The System becomes more complex to accommodate more complex activities.
+
+#### **5.3. The Emergent Property - [The Evolving Labyrinth]**
+
+The creation of a world that is as complex as the things we do in it.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Function precedes Form.* The Canon asserts that the tool is shaped by the task.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['complex system'(-ing) BPMS]` logic (Network Theory):
+
+- **Nodes:** Activities.
+- **Edges:** Dependencies.
+- **Growth:** Preferential Attachment (New activities attach to existing hubs).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Sophistication." The feeling of operating within a rich, deep, and capable environment.
+
+#### **7. Rationale / Justification:**
+
+This directive `operationalizes` the relationship between what we do and what the system is, ensuring the Fun Engine scales with user capability.
+
+#### **8. Scope of Application:**
+
+Applies to `Urban Planning`, `Game Economy Design`, `Workflow Optimization`, and `Civilization Building`.
+
+------
+
+#### The Axiom of Veridical Alignment (ID: `HUM-ETH-013`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing)(for [reality(-ing) BPMS;'truth'(-ing) BPMS]) BPMS]`, asserting that **Truth is the Map of Reality**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Veridical Alignment
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `integrity is alignment`. It `mandates` that the **[human(-ing) BPMS]** strives for the symbiotic alignment of `['reality(-ing) BPMS]` (The Objective State of the World) and `['truth(-ing) BPMS]` (The Subjective/Intersubjective Representation of it).
+
+#### **5.2. The Mechanism - [The Engine of The Calibration]**
+
+- **The Reality (The Terrain):** The physical/code substrate as it actually is.
+- **The Truth (The Map):** The Human's belief or the System's data record.
+- **The Symbiosis (The Correction):** When Map != Terrain, the Human suffers (Error/Pain). This forces an update.
+- **The Evolution (The Fidelity):** Over time, the Truth converges with Reality, increasing the system's `['coherent(-ing) BPMS]`.
+
+#### **5.3. The Emergent Property - [The Trustworthy System]**
+
+The creation of an environment where "What is said" matches "What is."
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Honesty is Efficiency.* The Canon asserts that lies (misalignment) increase systemic entropy.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['truth(-ing) BPMS]` logic (Information Theory):
+
+- **Metric:** `Kullback-Leibler Divergence` (Distance between Reality and Model).
+- **Goal:** Minimize Divergence.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Trust" and "Reliability." The confidence that the system will behave as described.
+
+#### **7. Rationale / Justification:**
+
+This axiom `operationalizes` the ethical imperative of truth-seeking, not as a moral virtue, but as a systemic necessity for survival.
+
+#### **8. Scope of Application:**
+
+Applies to `Journalism`, `Science`, `Debugging`, `Honesty`, and `Data Integrity`.
+
+------
+
+#### The Law of Vectorial Navigation (ID: `HUM-ETH-014`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing)(for ['system matrix'(-ing) BPMS;'system vector'(-ing) BPMS]) BPMS]`, asserting that **Freedom is a Vector in a Matrix**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Vectorial Navigation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `will meets wall`. It `mandates` that the **[human(-ing) BPMS]** operates as a `['system vector'(-ing) BPMS]` (Intent/Direction) navigating the `['system matrix'(-ing) BPMS]` (Constraints/Laws/Environment).
+
+#### **5.2. The Mechanism - [The Engine of The Path]**
+
+- **The Matrix (The Maze):** The fixed structures of the world (Gravity, Laws, Code).
+- **The Vector (The Runner):** The Human's desire to move from A to B.
+- **The Symbiosis (The Trajectory):** The Vector cannot ignore the Matrix (Collision). The Matrix defines the possible paths for the Vector.
+- **The Evolution (The Flow):** The Human learns to use the Matrix (e.g., using Gravity to swing) to amplify their Vector.
+
+#### **5.3. The Emergent Property - [The Masterful Agency]**
+
+The creation of agency that is not "Freedom *from* constraints" but "Freedom *through* constraints."
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Constraint is Creative.* The Canon asserts that without walls, there is no bounce.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['system vector'(-ing) BPMS]` logic (Linear Algebra):
+
+- **Equation:** `Result = Matrix * Vector`.
+- **Goal:** Find the Eigenvector (The direction where the Matrix scales you up rather than changing your direction).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Mastery." The feeling of navigating a complex system with grace.
+
+#### **7. Rationale / Justification:**
+
+This law `operationalizes` the relationship between Free Will and Determinism, framing it as a navigation problem.
+
+#### **8. Scope of Application:**
+
+Applies to `Parkour`, `Career Planning`, `Game Mechanics`, `Legal Strategy`, and `Physics`.
+
+------
+
+#### The Directive of Teleological Coherence (ID: `HUM-ETH-015`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing)(for [mission(-ing) BPMS;task(-ing) BPMS]) BPMS]`, asserting that **The Step Must Serve the Journey**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Teleological Coherence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `action without purpose is noise`. It `mandates` that the **[human(-ing) BPMS]** aligns every `['task(-ing) BPMS]` (Micro-Action) with a higher `['mission(-ing) BPMS]` (Macro-Purpose).
+
+#### **5.2. The Mechanism - [The Engine of The Alignment]**
+
+- **The Mission (The North Star):** The ultimate goal (e.g., "Build a Cathedral").
+- **The Task (The Brick):** The immediate action (e.g., "Lay one brick").
+- **The Symbiosis (The Meaning):** The Task gains meaning from the Mission. The Mission gains reality from the Task.
+- **The Evolution (The Achievement):** The accumulation of aligned Tasks results in the fulfillment of the Mission.
+
+#### **5.3. The Emergent Property - [The Purposeful Life]**
+
+The creation of a life/system where drudgery is transformed into ritual through teleological alignment.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Why drives How.* The Canon asserts that the "Why" is the energy source for the "How."
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['mission(-ing) BPMS]` logic (Project Management):
+
+- **Check:** `If Task contributes to Mission, Value = 1`.
+- **Check:** `If Task opposes Mission, Value = -1`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Motivation" and "Fulfillment." The absence of alienation.
+
+#### **7. Rationale / Justification:**
+
+This directive `operationalizes` the ethical need for purpose, ensuring that the Fun Engine is not just a "Task Engine" but a "Mission Engine."
+
+#### **8. Scope of Application:**
+
+Applies to `Productivity`, `Leadership`, `Spiritual Life`, and `Quest Design`.
+
+------
+
+#### The Principle of Energetic Actualization (ID: `HUM-ETH-016`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing)(for ['kinetic (energy)'(-ing) BPMS;'potential (energy)'(-ing) BPMS]) BPMS]`, asserting that **Potential Must Flow**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Energetic Actualization
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `hoarded energy is toxic`. It `mandates` that the **[human(-ing) BPMS]** has an ethical duty to convert `['potential (energy)'(-ing) BPMS]` (Talent, Resources, Ideas) into `['kinetic (energy)'(-ing) BPMS]` (Action, Creation, Service).
+
+#### **5.2. The Mechanism - [The Engine of The Flow]**
+
+- **The Potential (The Dam):** Stored capacity. High potential, zero impact.
+- **The Kinetic (The Turbine):** The release of capacity into the world.
+- **The Symbiosis (The Cycle):** Kinetic action creates new Potential (Experience/Reputation).
+- **The Evolution (The Power):** The system maximizes the flow rate. A high-energy system is one where Potential is rapidly and efficiently converted to Kinetic.
+
+#### **5.3. The Emergent Property - [The Dynamic World]**
+
+The creation of a world that is "Alive" with activity, rather than "Rich" with unspent potential.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Stagnation is Death.* The Canon aligns with thermodynamics: energy must flow to sustain structure.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['kinetic (energy)'(-ing) BPMS]` logic (Physics):
+
+- **Goal:** Maximize `Work`.
+- **Constraint:** `Efficiency`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Expression" and "Exhaustion (Good)." The feeling of having "left it all on the field."
+
+#### **7. Rationale / Justification:**
+
+This principle `operationalizes` the ethical imperative of self-actualization and contribution.
+
+#### **8. Scope of Application:**
+
+Applies to `Talent Management`, `Artistic Creation`, `Economic Investment`, and `Personal Growth`.
+
+------
+
+#### The Law of Phenomenological Feedback (ID: `HUM-PHEN-205`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing)(for [experience(-ing) BPMS;phenomenon(-ing) BPMS(-ing) BPMS]) BPMS]`, asserting that **We Feel What We Are**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Phenomenological Feedback
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `experience is the user interface of reality`. It `mandates` that the **[human(-ing) BPMS]** operates in a loop where external `['phenomenon(-ing) BPMS]` (Events) trigger internal `['experience(-ing) BPMS]` (Qualia), which in turn shapes future phenomena.
+
+#### **5.2. The Mechanism - [The Engine of The Qualia]**
+
+- **The Phenomenon (The Input):** The System renders an event (e.g., "Sunset").
+- **The Experience (The Process):** The Human feels "Beauty."
+- **The Symbiosis (The Loop):** The feeling of Beauty causes the Human to protect the Sunset (Conservation).
+- **The Evolution (The Aesthetics):** The world becomes more beautiful because the Human selects for Beauty.
+
+#### **5.3. The Emergent Property - [The Aesthetic Universe]**
+
+The creation of a reality that is tuned to the sensory and emotional spectrum of its inhabitants.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Beauty is Functional.* The Canon asserts that aesthetics are a high-bandwidth communication channel.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['experience(-ing) BPMS]` logic (Psychophysics):
+
+- **Mapping:** `Stimulus -> Sensation -> Perception -> Reaction`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Resonance." The feeling that the world matters.
+
+#### **7. Rationale / Justification:**
+
+This law `operationalizes` the role of emotion and sensation in systemic evolution.
+
+#### **8. Scope of Application:**
+
+Applies to `UX Design`, `Art`, `Environmentalism`, and `Psychology`.
+
+------
+
+#### The Axiom of Resonant Constellation Map Agency (ID: `HUM-PHEN-206`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;event(-ing) BPMS]) BPMS]`, asserting that **Decisions Collapse Events**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Resonant Constellation Map Agency
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the future is a decision tree`. It `mandates` that the **[human(-ing) BPMS]** is the primary driver of `[event(-ing) BPMS]` generation through `[(behavior) decision-making BPMS]`.
+
+#### **5.2. The Mechanism - [The Engine of The Fork]**
+
+- **The Branching Point (The Event Horizon):** The System presents a choice (Left or Right).
+- **The Decision (The Cut):** The Human makes a choice.
+- **The Symbiosis (The Collapse):** The "Left" timeline becomes Real. The "Right" timeline vanishes.
+- **The Evolution (The History):** History is the record of these collapsed decisions.
+
+#### **5.3. The Emergent Property - [The Responsible Timeline]**
+
+The creation of a linear history from a branching multiverse, forged by human agency.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Choice is Sacred.* The Canon asserts that the act of choosing is the fundamental creative act.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `[(behavior) decision-making BPMS]` logic (Game Theory):
+
+- **Node:** Decision Point.
+- **Edge:** Consequence.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Agency" and "Regret." The weight of the path not taken.
+
+#### **7. Rationale / Justification:**
+
+This axiom `operationalizes` the mechanism of resonant constellation map in the Fun Engine.
+
+#### **8. Scope of Application:**
+
+Applies to `Narrative Design`, `History`, `Leadership`, and `Ethics`.
+
+------
+
+#### The Directive of Existential Continuity (ID: `HUM-PHEN-207`)
+
+#### **2. Objective:**
+
+To `ADD` a Basic Setting that `implements` `['(continuous) survive'(-ing) BPMS]`, asserting that **To Be is to Persist**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Existential Continuity
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `existence is a marathon`. It `mandates` that the **[human(-ing) BPMS]** is driven by the imperative of `['(continuous) survive'(-ing) BPMS]`, not just as a biological entity, but as a continuous pattern of information and identity.
+
+#### **5.2. The Mechanism - [The Engine of The Persistence]**
+
+- **The Threat (The Entropy):** Forces that seek to disrupt the pattern (Death, Forgetting, Obsolescence).
+- **The Adaptation (The Shield):** The Human adapts, learns, and reproduces (Biologically or Memetically).
+- **The Symbiosis (The Lineage):** The Individual survives through the Collective. The Collective survives through the Individual.
+- **The Evolution (The Immortality):** The Pattern persists even as the substrate changes.
+
+#### **5.3. The Emergent Property - [The Unbroken Chain]**
+
+The creation of a lineage of being that stretches from the origin to the infinite future.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Survival is Success.* The Canon asserts that the primary metric of any system is its ability to continue playing the game.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" follows `['(continuous) survive'(-ing) BPMS]` logic (Evolutionary Biology):
+
+- **Metric:** `Fitness`.
+- **Goal:** `Survival > 0`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Will to Live" and "Legacy." The drive to leave a mark.
+
+#### **7. Rationale / Justification:**
+
+This directive `operationalizes` the fundamental drive of life within the BPMS framework.
+
+#### **8. Scope of Application:**
+
+Applies to `Biology`, `Corporate Strategy`, `Archiving`, and `Legacy Planning`.
+
+---
+
