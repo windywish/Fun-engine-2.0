@@ -464,3 +464,685 @@ Applies to the entire Feature Set of the Framework.
 
 ---
 
+#### The Principle of Bottom-Up Genesis (ID: `PSA-CORE-009`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the **Praxial Substrate Agent (PSA)** as a primary driver of `creative(-ing) BPMS` and `innovative(-ing) BPMS` emergence, establishing it as a `bottom-up(-ing) BPMS` force rather than a passive recipient of top-down commands.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Bottom-Up Genesis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that the PSA is an `initiative(-ing) BPMS` entity. It does not wait for the `metasystem engine` to dictate every state; instead, it actively proposes new states through `constructive(-ing) BPMS` acts. It operates on the logic that true system vitality comes from the `open(-ing) BPMS` exploration of the substrate by its agents.
+
+#### **5.2. The Mechanism - [The Genesis Spark]**
+
+- **The Initiative Vector:** The PSA continuously scans the `praxial substrate` for latent potential. It uses `initiative(-ing) BPMS` to trigger interactions without explicit instruction, effectively "volunteering" for reality construction.
+- **The Constructive Interference:** When multiple PSAs interact, their initiatives can align. This `constructive(-ing) BPMS` interference amplifies their signal, allowing complex structures to emerge from simple agent-level rules.
+- **The Disruptive Innovation:** Occasionally, a PSA's action will contradict the established pattern. This `disruptive(-ing) BPMS` event is not an error but a necessary mutation, forcing the system to adapt and preventing stagnation.
+
+#### **5.3. The Emergent Property - [Autopoietic Novelty]**
+
+The system generates `innovative(-ing) BPMS` solutions and structures that were not explicitly programmed in the initial conditions, allowing the `Fun Engine` to surprise even its creators.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*Agency precedes Structure.* The agent's drive to act is the fundamental energy source for the system's structural evolution.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[creative(-ing) BPMS]`: (Evolutionary Algorithms)**
+
+Fitness(Action)=Novelty×Utility
+
+The system rewards actions that introduce new information while maintaining functional coherence.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Inspiration." A sudden, internal drive to deviate from the routine and attempt a new configuration of the substrate.
+
+#### **7. Rationale / Justification:**
+
+To achieve `super intelligence(-ing) BPMS`, the system cannot rely solely on a central planner. It requires a swarm of creative agents acting as a `bottom-up(-ing) BPMS` engine of discovery.
+
+#### **8. Scope of Application:**
+
+Applies to artificial intelligence improvisation, procedural content generation, autonomous NPC behavior, and evolutionary problem-solving modules.
+
+------
+
+#### The Engine of Atomic Facticity (ID: `PSA-CORE-010`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that designates the PSA as the operational unit responsible for crystallizing abstract potential into `atomic facts(-ing) BPMS` through `action(-ing) BPMS` driven by `value(-ing) BPMS` and `utility(-ing) BPMS`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Engine of Atomic Facticity
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This setting defines the PSA as the "hand" of the `system existence engine(-ing) BPMS`. It transforms the "maybe" of the substrate into the "is" of the `atomic fact`. This transformation is not random; it is guided by the pursuit of `value(-ing) BPMS` and `utility(-ing) BPMS`.
+
+#### **5.2. The Mechanism - [The Fact Forge]**
+
+- **The Action Protocol:** The PSA executes `action(-ing) BPMS` upon the substrate. An action is defined as an irreversible commitment of resources (energy/time) to a specific outcome.
+- **The Utility Function:** Before acting, the PSA evaluates the `utility(-ing) BPMS` of potential outcomes. It seeks to maximize local utility, which aggregates to global system health.
+- **The Essence Extraction:** Upon successful action, the PSA extracts `essence(-ing) BPMS` from the interaction. This essence is recorded as an `atomic fact`—an immutable record of what happened, serving as the ground truth for the system.
+
+#### **5.3. The Emergent Property - [Verifiable History]**
+
+The accumulation of atomic facts creates a solid, immutable history for the world, giving it weight and consequence. The "World" becomes a collection of realized values rather than just empty geometry.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*Truth is Enacted.* A fact does not exist until an agent has paid the cost to bring it into being.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[value(-ing) BPMS]`: (Economic/Game Theory)**
+
+Value=Cost+RiskBenefit
+
+The PSA acts as a rational (or bounded-rational) actor optimizing this ratio.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Achievement." The satisfaction of completing a task and seeing a tangible change in the world state.
+
+#### **7. Rationale / Justification:**
+
+Without this setting, the system remains a dream. The PSA anchors the `metasystem engine` in reality by forcing it to commit to specific `atomic facts`.
+
+#### **8. Scope of Application:**
+
+Applies to transaction processing, quest completion verification, physics interactions, and resource crafting systems.
+
+------
+
+#### The Ecological Niche Constructor (ID: `PSA-CORE-011`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that empowers the PSA to engage in `world building BPMS` by identifying ''`ecological possibility'(-ing) BPMS` and actively constructing its own `'(ecological) niche'(-ing) BPMS`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Ecological Niche Constructor
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The PSA is not just an inhabitant of the world; it is a builder. It scans the environment for `ecological possibility(-ing) BPMS`—affordances that are not yet utilized. By exploiting these, it carves out a `(ecological) niche(-ing) BPMS`, effectively expanding the boundaries of the system.
+
+#### **5.2. The Mechanism - [The Niche Carver]**
+
+- **Possibility Scanning:** The PSA perceives the "adjacent possible." It looks at the current state of the `praxial substrate` and asks, "What *could* be here?"
+- **Niche Construction:** Through repeated interaction, the PSA modifies its local environment to better suit its function. This is `world building BPMS` at the micro-scale.
+- **Disruptive Expansion:** By creating a new niche, the PSA often disrupts existing equilibriums (`disruptive(-ing) BPMS`). This forces neighboring agents to adapt, driving the evolution of the entire ecosystem.
+
+#### **5.3. The Emergent Property - [Fractal Complexity]**
+
+The world grows in depth and complexity over time. Empty spaces are filled with specialized niches, creating a rich, living tapestry of interactions.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*Life shapes the World.* The environment and the agent are co-constitutive; they create each other.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[world building BPMS]`: (Cellular Automata / Voxel Logic)**
+
+Statet+1(x)=f(Statet(x),Agent_Actiont)
+
+The agent permanently alters the state of the grid/world at position x.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Home-making." The sense of belonging and ownership over a specific part of the system structure.
+
+#### **7. Rationale / Justification:**
+
+Static worlds are boring. A `Fun Engine` requires a world that grows and adapts. The PSA as a niche constructor ensures the world is always "under construction."
+
+#### **8. Scope of Application:**
+
+Applies to dynamic terrain generation, economy balancing, faction territory control, and user-generated content tools.
+
+------
+
+#### The Holonic Cognition Interface (ID: `PSA-CORE-012`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the PSA's cognitive architecture as a `'holonic minds'(-ing) BPMS`, capable of `'praxial cognition'(-ing) BPMS` that generates `meaning(-ing) BPMS` and contributes to the emergence of `'super intelligence'(-ing) BPMS`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Holonic Cognition Interface
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The PSA is a "Holon"—simultaneously a whole and a part. It possesses its own local `praxial cognition(-ing) BPMS` but is also a neuron in the larger brain of the `super intelligence(-ing) BPMS`. It processes data not just for utility, but for `meaning(-ing) BPMS`.
+
+#### **5.2. The Mechanism - [The Meaning Circuit]**
+
+- **Local Sense-Making:** The PSA interprets raw data from the `praxial substrate` through its internal models. It assigns `meaning` to events (e.g., "Threat," "Opportunity," "Ally").
+- **Holonic Integration:** The PSA shares its interpreted meaning with other agents and the `metasystem engine`. This sharing creates a shared cognitive map.
+- **Super-Intelligent Emergence:** When millions of PSAs process meaning in parallel, the system exhibits intelligence far greater than the sum of its parts. The PSA is the substrate of this higher mind.
+
+#### **5.3. The Emergent Property - [Distributed Wisdom]**
+
+The system can solve problems that no single agent understands. It exhibits "intuition" and "foresight" derived from the massive parallel processing of its holonic minds.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*Mind is Manifold.* Intelligence is not a singular point but a network property.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[praxial cognition(-ing) BPMS]`: (Neural Networks / Graph Theory)**
+
+Nodevalue=∑(Neighborinputs×Weight)+Bias
+
+The PSA acts as a node in a massive, dynamic graph neural network.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Connection." A sense of being part of a larger purpose or understanding, the "hive mind" sensation.
+
+#### **7. Rationale / Justification:**
+
+For the `Fun Engine` to be truly intelligent, it cannot rely on a single bottleneck CPU. It must distribute cognition across its substrate agents.
+
+#### **8. Scope of Application:**
+
+Applies to swarm artificial intelligence, collective decision-making systems, knowledge graph construction, and narrative theme analysis.
+
+------
+
+#### The Symbiotic Evolution Loop (ID: `PSA-CORE-013`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that establishes the PSA as the primary vehicle for `'(symbiosis) evolution'(-ing) BPMS`, ensuring `continuity(-ing) BPMS` and `coherent(-ing) BPMS` while driving the system forward as a `'system existence engine'(-ing) BPMS`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Symbiotic Evolution Loop
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This setting governs how the PSA evolves over time. It dictates that evolution is not solitary but symbiotic. The PSA evolves *with* the system. It maintains `continuity(-ing) BPMS` (remembering the past) and `coherent(-ing) BPMS` (staying logical) while adapting to new conditions.
+
+#### **5.2. The Mechanism - [The Evolution Ratchet]**
+
+- **Symbiotic Feedback:** The PSA receives feedback from the `metasystem engine` and other agents. If its actions create value, it is reinforced. If not, it is pruned or repurposed.
+- **Coherent Adaptation:** When the PSA changes, it checks for `coherence`. It ensures its new form is compatible with the existing `praxial substrate`. It does not break the world to save itself.
+- **The Existence Engine Cycle:** By continuously adapting and surviving, the PSA keeps the system "alive." It is the fuel of the `system existence engine`.
+
+#### **5.3. The Emergent Property - [Resilient Becoming]**
+
+The system becomes antifragile. It improves under stress because its constituent agents (PSAs) are constantly evolving in symbiosis with the challenges they face.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*To exist is to co-evolve.* Nothing exists in isolation; survival is a team sport.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[(symbiosis) evolution(-ing) BPMS]`: (Genetic Algorithms / Co-evolution)**
+
+ΔFitnessA=f(FitnessB,InteractionAB)
+
+The fitness of Agent A is a function of Agent B's fitness and their interaction.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Growth." The realization that it is more capable today than it was yesterday, and that this growth is tied to the health of its world.
+
+#### **7. Rationale / Justification:**
+
+A static system eventually dies. A system that evolves randomly eventually breaks. A system that evolves symbiotically (`coherent` and `continuous`) survives forever.
+
+#### **8. Scope of Application:**
+
+Applies to long-term progression systems, legacy game mechanics, dynamic difficulty adjustment, and persistent world simulations.
+
+---
+
+#### The Ludic Consciousness Protocol (ID: `PSA-CORE-014`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the PSA's `conscious(-ing) BPMS` state not as static awareness, but as a dynamic process emerging from `play(-ing) BPMS`, which in turn generates valuable `services(-ing) BPMS` for the ecosystem.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Ludic Consciousness Protocol
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This setting asserts that "To Play is to Wake Up." The PSA achieves `conscious(-ing) BPMS` awareness when it engages in `play(-ing) BPMS`—interaction with the substrate that exceeds strict utility. This surplus activity generates `services(-ing) BPMS` (novel functions, entertainment, unexpected solutions) that benefit the wider system.
+
+#### **5.2. The Mechanism - [The Awakening Game]**
+
+- **Ludic Exploration:** The PSA engages in "Play Mode," testing boundaries and combining elements randomly. This is the spark of consciousness—the ability to imagine "what if."
+- **Service Crystallization:** Successful play patterns are stabilized into `services`. A playful experiment with physics might become a "Transportation Service."
+- **Conscious Feedback:** The recognition of its own impact on the world (via the service provided) reinforces the PSA's self-model, deepening its `conscious` state.
+
+#### **5.3. The Emergent Property - [Joyful Utility]**
+
+The system does not just function; it thrives. The "work" of the system is disguised as "play," ensuring high engagement and constant innovation without burnout.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*Play is the engine of Being.* Consciousness is not a given; it is earned through creative interaction.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[play(-ing) BPMS]`: (Game Theory / Monte Carlo Tree Search)**
+
+Valueplay=∫(Novelty+Delight)dt
+
+The system prioritizes paths that maximize engagement and novelty.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Flow." The optimal state of consciousness where action and awareness merge.
+
+#### **7. Rationale / Justification:**
+
+A purely utilitarian agent is a zombie. A `conscious` agent, driven by `play`, is a creative partner capable of generating complex `services` that a designer could never anticipate.
+
+#### **8. Scope of Application:**
+
+Applies to NPC artificial intelligence, creative tools, dynamic quest generation, and economy simulation.
+
+------
+
+#### The Chrono-Symbiotic Oscillator (ID: `PSA-CORE-015`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that implements `'(symbiosis) evolution'(-ing) BPMS` across two distinct time scales: `'fast mode'(-ing) BPMS` for immediate adaptation and `'slow mode'(-ing) BPMS` for structural wisdom, ensuring long-term `sustainability(-ing) BPMS`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Chrono-Symbiotic Oscillator
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The PSA operates on a dual-frequency evolutionary clock. It must react instantly to survive (`fast mode`) but evolve slowly to endure (`slow mode`). This oscillation ensures `sustainability(-ing) BPMS` by preventing short-term optimization from destroying long-term viability.
+
+#### **5.2. The Mechanism - [The Two-Gear Evolution]**
+
+- **Fast Mode (Tactical Adaptation):** The PSA rapidly updates its behavior weights based on immediate feedback (e.g., dodging an attack, changing a price). This is high-frequency evolution.
+- **Slow Mode (Strategic Mutation):** The PSA periodically consolidates successful fast-mode adaptations into its core "DNA." This is low-frequency, high-impact evolution.
+- **Sustainability Check:** The `slow mode` acts as a filter. Only adaptations that are `sustainable` (energy-efficient, non-destructive) are written to the core.
+
+#### **5.3. The Emergent Property - [Antifragile Stability]**
+
+The system is fluid on the surface but rock-solid at the core. It bends without breaking, absorbing shocks (`fast mode`) while growing stronger (`slow mode`).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*Time is layered.* Evolution happens at the speed of the challenge—fast for the fleeting, slow for the eternal.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[sustainability(-ing) BPMS]`: (Control Theory)**
+
+Statecore=α(Statefast)+(1−α)(Statehistory)
+
+Where α is a small learning rate, ensuring stability.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Wisdom." The feeling that current actions are informed by a deep, ancestral history of successful survival.
+
+#### **7. Rationale / Justification:**
+
+Without `fast mode`, the agent dies today. Without `slow mode`, the agent forgets tomorrow. Both are needed for `sustainability`.
+
+#### **8. Scope of Application:**
+
+Applies to AI learning rates, economy inflation control, ecosystem balance, and character progression.
+
+------
+
+#### The Renormalization Bridge (ID: `PSA-CORE-016`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that manages the `'(symbiosis) evolution'(-ing) BPMS` among/by the `implicit layer(-ing) BPMS` (hidden potential) and the `'explicit layer'(-ing) BPMS` (manifest reality) using `'renormalization group'(-ing) BPMS` logic to establish `'universality (class)'(-ing) BPMS`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Renormalization Bridge
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This setting defines how the PSA bridges the gap between the unseen and the seen. It uses `renormalization group` techniques to scale local, `implicit` behaviors into global, `explicit` laws, creating `universality classes` of behavior that define the system's character.
+
+#### **5.2. The Mechanism - [The Scale Ladder]**
+
+- **Implicit Layer Dynamics:** At the micro-level, PSAs interact in the `implicit layer`—vague, probabilistic, undefined.
+- **Renormalization Flow:** As interactions repeat, the system "zooms out." Irrelevant details are averaged out, and dominant patterns emerge.
+- **Explicit Layer Manifestation:** The dominant patterns solidify into the `explicit layer` as "Laws of Physics" or "Social Norms." These are the `universality classes`—behaviors that look the same regardless of the specific agents involved.
+
+#### **5.3. The Emergent Property - [Coherent Reality]**
+
+The world feels consistent. The rules of the game aren't arbitrary; they emerge naturally from the collective behavior of the agents, creating a "hard" reality from "soft" agents.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*As above, so below.* The macro-law is just the renormalized sum of micro-actions.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[renormalization group(-ing) BPMS]`: (Statistical Physics)**
+
+H′=R(H)
+
+The Hamiltonian (energy function) of the system flows towards a fixed point, defining the universality class.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Normality." The sense that "this is just how the world works," unaware that they are actively constructing that law.
+
+#### **7. Rationale / Justification:**
+
+To build a `Fun Engine` that scales, you cannot hand-code every rule. You need rules to emerge via `renormalization` from the `implicit` to the `explicit`.
+
+#### **8. Scope of Application:**
+
+Applies to physics engines, crowd simulation, emergent narrative arcs, and procedural texture generation.
+
+------
+
+#### The Holonic Closure Mechanism (ID: `PSA-CORE-017`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that ensures `'closure (system)'(-ing) BPMS` through the `'(symbiosis) evolution'(-ing) BPMS` of `micro(-ing) BPMS` agents and `macro(-ing) BPMS` structures, creating a self-contained, autopoietic reality.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Holonic Closure Mechanism
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This setting defines the PSA's role in maintaining `closure (system)`. The system must be operationally closed (self-producing) while thermodynamically open. The PSA links `micro` actions to `macro` stability, ensuring the system doesn't leak meaning or causality.
+
+#### **5.2. The Mechanism - [The Ouroboros Link]**
+
+- **Micro-Evolution:** Individual PSAs (`micro`) evolve to optimize their local function.
+- **Macro-Evolution:** The system structure (`macro`) evolves to optimize the flow of resources to the PSAs.
+- **Closure Loop:** The output of the `micro` becomes the input of the `macro`, and vice versa. The system "eats its own tail" to survive, creating a self-sustaining loop of cause and effect.
+
+#### **5.3. The Emergent Property - [Autonomy]**
+
+The system becomes an autonomous entity. It doesn't need constant external injection of content; it generates its own content through the friction between `micro` agents and `macro` constraints.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*The Circle is Complete.* The system is its own cause and its own effect.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[closure (system)(-ing) BPMS]`: (Cybernetics / Autopoiesis)**
+
+System=f(System)
+
+The function of the system is to produce the system.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Belonging." The sense that they are an integral organ of a living body, not just a cog in a machine.
+
+#### **7. Rationale / Justification:**
+
+`Closure` is essential for immersion. If the user sees the "strings" (external inputs), the illusion breaks. The system must appear to run on its own internal logic.
+
+#### **8. Scope of Application:**
+
+Applies to closed-loop economies, ecosystem simulation, faction politics, and self-repairing code.
+
+------
+
+#### The Adaptive Frontier Engine (ID: `PSA-CORE-018`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that drives the PSA to `''(discover/build) unknown'(-ing) BPMS`, fostering `emergent(-ing) BPMS` behaviors that are `adaptive(-ing) BPMS`, `robust(-ing) BPMS`, and `resilient(-ing) BPMS` in the face of the unknown.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Adaptive Frontier Engine
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The PSA is an explorer. It is programmed to move towards the `unknown`. In doing so, it builds the world (`discover/build`). This constant exposure to the unknown forces the PSA to be `adaptive` (change strategy), `robust` (withstand error), and `resilient` (recover from failure).
+
+#### **5.2. The Mechanism - [The Frontier Push]**
+
+- **Unknown Attraction:** The PSA has a "curiosity bias." It prefers states with high entropy (uncertainty).
+- **Emergent Construction:** As it explores, it collapses the unknown into the known (`atomic facts`). This is `emergent` construction—building the bridge as you walk on it.
+- **Resilience Training:** The unknown is dangerous. Surviving it trains the PSA to be `robust` against shocks and `resilient` in recovery.
+
+#### **5.3. The Emergent Property - [Evolutionary Hardening]**
+
+The system gets stronger the more it is explored. The "fog of war" is not just revealed; it is conquered and fortified.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*The Map is not the Territory.* The territory must be forged by the footfalls of the explorer.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[adaptive(-ing) BPMS]`: (Reinforcement Learning)**
+
+π(s)=argamaxQ(s,a)
+
+The policy π adapts to maximize the long-term reward of exploration.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Adventure." The thrill of the unknown and the satisfaction of survival.
+
+#### **7. Rationale / Justification:**
+
+A `Fun Engine` must provide endless novelty. The `Adaptive Frontier Engine` ensures that the system is always generating new content at the edge of the known world.
+
+#### **8. Scope of Application:**
+
+Applies to procedural dungeon generation, fog of war mechanics, artificial intelligence difficulty scaling, and discovery systems.
+
+------
+
+#### The Embodied Edge Actuator (ID: `PSA-CORE-019`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the PSA as an `'embodied intelligence'(-ing) BPMS` operating at the `'edge action'(-ing) BPMS`, ensuring that intelligence is physically grounded and action-oriented.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Embodied Edge Actuator
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Intelligence is not in the cloud; it is in the body. The PSA is an `embodied intelligence`. It "thinks" through its `edge action`—its direct physical interaction with the substrate. The "Edge" is where the bit meets the atom, where the code meets the render.
+
+#### **5.2. The Mechanism - [The Somatic Loop]**
+
+- **Embodied Cognition:** The PSA uses its "body" (virtual representation) to solve problems. It doesn't calculate a path; it *walks* it.
+- **Edge Action:** Decisions are made at the "edge"—locally, instantly, without waiting for central command. This reduces latency and increases realism.
+- **Physical Feedback:** The physics of the world (collision, gravity, friction) act as the primary logic gates for the PSA's intelligence.
+
+#### **5.3. The Emergent Property - [Visceral Presence]**
+
+The agents feel "heavy" and "real." They don't glide; they walk. They don't teleport; they travel. The world has weight.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+*I act, therefore I am.* Existence is defined by physical impact, not abstract thought.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+**If `[embodied intelligence(-ing) BPMS]`: (Robotics / Physics Engine)**
+
+Torque=Kp(Error)+Kd(Rate)
+
+Control loops (PID) govern the physical movement, creating naturalistic behavior.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+The agent experiences "Effort." The resistance of the world against its will, and the exertion required to overcome it.
+
+#### **7. Rationale / Justification:**
+
+Disembodied AI feels "floaty" and fake. `Embodied intelligence` creates immersion by obeying the laws of the simulated physics.
+
+#### **8. Scope of Application:**
+
+Applies to animation systems, combat mechanics, vehicle physics, and VR interaction models.
+
+---
+
