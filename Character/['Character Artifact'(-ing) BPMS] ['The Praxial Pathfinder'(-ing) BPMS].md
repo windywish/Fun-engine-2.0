@@ -1,7 +1,7 @@
-## ['Character Artifact'(-ing) BPMS]: ['The Praxial World-Walker'(-ing) BPMS]
+## ['Character Artifact'(-ing) BPMS]: ['The Praxial Pathfinder'(-ing) BPMS]
 
-- **ID:** `WALKER-INST-001`
-- **Name:** `['The Praxial World-Walker'(-ing) BPMS]`
+- **ID:** `PATHFINDER-INST-001`
+- **Name:** `['The Praxial Pathfinder'(-ing) BPMS]`
 - **Type:** `['Symbiotic Cluster Artifact'(-ing) BPMS]:['Avatar Vessel']`
 - **CGA (Cognitive Genesis Archetype):** `['avatar embodiment'(-ing) BPMS]`
 - **Objective:** To serve as the user's vessel for agency, carrying stats, inventory, and local reality collapse, specifically tuned to interface with the `['Ludic Cartographer'(-ing) BPMS]` logic.
