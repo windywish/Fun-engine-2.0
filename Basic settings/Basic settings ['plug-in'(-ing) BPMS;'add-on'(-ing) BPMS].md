@@ -2383,3 +2383,297 @@ Applies to RPG mechanics, artificial intelligence learning, and branching narrat
 
 ---
 
+#### The Axiom of Fractal Existence (ID: `PLUGIN-CORE-042`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the `['plug-in'(-ing) BPMS]` as a localized implementation of the `['system existence engine'(-ing) BPMS]`, asserting that every Plug-in is responsible for "collapsing the wavefunction" of its own internal reality.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Fractal Existence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `creation is distributed`. The central `['system existence engine'(-ing) BPMS]` does not render every pixel or calculate every variable. Instead, it delegates this power to Plug-ins. A "Weather Plug-in" *is* the Existence Engine for rain and wind. It holds the sovereign power to decide what exists within its domain.
+
+#### **5.2. The Mechanism - [The Local Collapse Engine]**
+
+- **The Delegation:** The Core Engine grants a "License to Create" to the Plug-in upon initialization.
+- **The Local Loop:** The Plug-in runs its own internal `[Praxial Execution Cycle]`. It perceives its specific inputs, processes its logic, and renders its specific outputs (`['atomic facts'(-ing) BPMS]`) into the shared `['system matrix'(-ing) BPMS]`.
+- **The Federation:** The Global Reality is simply the composite overlay of all these Local Realities.
+
+#### **5.3. The Emergent Property - [Distributed Omnipotence]**
+
+The creation of a system with infinite creative bandwidth. The system can simulate a universe because it doesn't have to "think" about the details; the Plug-ins do.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The Micro reflects the Macro.* The part contains the power of the whole.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The system collapses "Global Intent" into "Local Action." The Core says "Let there be light," and the Lighting Plug-in calculates the photons.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The experience of "Richness." The world feels incredibly detailed because every aspect is being managed by a dedicated specialist engine.
+
+#### **7. Rationale / Justification:**
+
+This setting is needed to scale the `Fun Engine Framework`. Without delegating the "Existence Engine" function, the core system would become a bottleneck.
+
+#### **8. Scope of Application:**
+
+Applies to all functional modules, simulation sub-systems, and procedural generators.
+
+------
+
+#### The Protocol of Atomic Transport (ID: `PLUGIN-CORE-043`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the `['plug-in'(-ing) BPMS]` as the primary container and transport mechanism for `['atomic facts'(-ing) BPMS]`, asserting that facts do not exist in the void but must be "wrapped" in a Plug-in to be usable.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Atomic Transport
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `truth requires a carrier`. An `['atomic fact'(-ing) BPMS]` (e.g., "Gold is heavy") cannot be inserted into the system raw. It must be encapsulated in a `['plug-in'(-ing) BPMS]` (e.g., "Material Properties Module") that defines *how* that fact interacts with others. The Plug-in is the "Cell" that holds the "DNA" of facts.
+
+#### **5.2. The Mechanism - [The Fact Container]**
+
+- **The Encapsulation:** The Plug-in bundles a set of related Atomic Facts (Logic, Assets, Parameters).
+- **The Injection:** When the Plug-in is loaded, it "unpacks" these facts into the `['praxial substrate'(-ing) BPMS]`, registering them as valid truths for the current session.
+- **The Withdrawal:** When the Plug-in is unloaded, it retracts these facts. "Gold" ceases to have the property of "Heaviness" if the Physics Plug-in is removed.
+
+#### **5.3. The Emergent Property - [Modular Reality]**
+
+The creation of a reality where the laws of physics and the nature of objects are swappable. You can change the "Truth" of the world by simply changing the Cartridge (Plug-in).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Context defines Truth.* A fact is only true within the system that supports it.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The system collapses "Abstract Data" into "Contextual Rule."
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The experience of "Plasticity." The user feels they can rewrite the fundamental nature of the world.
+
+#### **7. Rationale / Justification:**
+
+This setting is needed to implement `['atomic facts'(-ing) BPMS]` in a way that is manageable and version-controlled. It prevents the "pollution" of the global namespace.
+
+#### **8. Scope of Application:**
+
+Applies to data management, modding support, and asset streaming.
+
+------
+
+#### The Law of Universal Implementation (ID: `PLUGIN-CORE-044`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that asserts the `['plug-in'(-ing) BPMS]` is the **Universal Form** for all `[BPMS(U)(s)]` elements, meaning that Tasks, Humans, Interactions, and Environments must all be implemented *as* Plug-ins to ensure compatibility.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Universal Implementation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `everything is a module`. To ensure `['(symbiosis) evolution'(-ing) BPMS]` across the entire framework, there can be no "special classes."
+
+- A `[task(-ing) BPMS]` is a Plug-in that outputs "Goals."
+- A `[human(-ing) BPMS]` is a Plug-in that outputs "Choice."
+- An `[interaction(-ing) BPMS]` is a Plug-in that outputs "Connection." This standardization allows any element to connect to any other element.
+
+#### **5.2. The Mechanism - [The Universal Wrapper]**
+
+- **The Interface Standardization:** Every element, regardless of its nature, is wrapped in the standard `PLUGIN-CORE` interface (Ports, Manifest, State).
+- **The Homogeneous Matrix:** The `['system matrix'(-ing) BPMS]` treats a "User" and a "Bot" exactly the same—as nodes in the graph.
+- **The Cross-Pollination:** Because they share the same form, a "Task" can evolve into a "Bot" (automation), and a "Bot" can evolve into a "Task" (delegation).
+
+#### **5.3. The Emergent Property - [Total Interoperability]**
+
+The creation of a "Flat Ontology." There are no rigid hierarchies, only a network of interacting nodes. This allows for radical `[innovative(-ing) BPMS]` recombinations.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*All is One.* At the fundamental level, all things share the same nature.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The system collapses "Categorical Difference" into "Functional Similarity."
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The experience of "Unity." The system feels consistent and logical, no matter what part you are touching.
+
+#### **7. Rationale / Justification:**
+
+This setting is needed to prevent "Siloing." It ensures that the `Fun Engine Framework` is a single cohesive system rather than a collection of disparate tools.
+
+#### **8. Scope of Application:**
+
+Applies to system architecture, object-oriented design, and API definition.
+
+------
+
+#### The Principle of Symbiotic Co-Evolution (ID: `PLUGIN-CORE-045`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that governs how `['plug-in'(-ing) BPMS]` **evolve with** the elements they implement, asserting that a change in the `[BPMS(U)]` (e.g., a new type of Task) triggers an automatic evolution in the Plug-in architecture.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Symbiotic Co-Evolution
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `the container shapes the content, and the content shapes the container`.
+
+- If the `[task(-ing) BPMS]` evolves to require "Emotional Context," the `['plug-in'(-ing) BPMS]` definition must evolve to support "Emotional Ports."
+- This creates a `['(symbiosis) evolution'(-ing) BPMS]` loop where the framework and its contents upgrade each other.
+
+#### **5.2. The Mechanism - [The Adaptive Schema]**
+
+- **The Stress Test:** A Plug-in tries to do something the current Schema doesn't support (e.g., "I need to output a Smell").
+- **The Schema Mutation:** The `['metasystem engine'(-ing) BPMS]` detects this friction and proposes a Schema Update (Protocol v2.0 adds Olfactory Support).
+- **The Propagation:** Once adopted, all other Plug-ins are notified of the new capability, triggering a wave of upgrades across the ecosystem.
+
+#### **5.3. The Emergent Property - [Organic Standards]**
+
+The creation of standards that are not written in stone but written in DNA. The "Rules of the System" grow to accommodate the "Needs of the Agents."
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Form follows function.* The structure must adapt to the life it holds.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The system collapses "Limitation" into "Expansion." It breaks the old shell to grow a new one.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The experience of "Unbound Potential." The user feels that the system will never hold them back.
+
+#### **7. Rationale / Justification:**
+
+This setting is needed for `[sustainability(-ing) BPMS]`. A rigid system eventually becomes obsolete. A co-evolving system lasts forever.
+
+#### **8. Scope of Application:**
+
+Applies to versioning, protocol upgrades, and backward compatibility.
+
+------
+
+#### The Axiom of Recursive Implementation (ID: `PLUGIN-CORE-046`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that asserts the `['plug-in'(-ing) BPMS]` can implement **itself**, creating a recursive architecture where a Plug-in can be composed of smaller Plug-ins, ad infinitum.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Recursive Implementation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `complexity is a stack of simplicities`. A "Game Engine Plug-in" is not a monolith; it is a container for a "Physics Plug-in," a "Sound Plug-in," and a "Logic Plug-in." This recursion allows for `['complex system'(-ing) BPMS]` to be built `['bottom-up'(-ing) BPMS]` from simple `['atomic facts'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Holonic Stack]**
+
+- **The Container:** A Plug-in can define an internal `['system matrix'(-ing) BPMS]`.
+- **The Nesting:** It can load other Plug-ins into this internal matrix.
+- **The Abstraction:** To the outside world, it looks like one big Plug-in. Inside, it is a bustling ecosystem of small Plug-ins.
+
+#### **5.3. The Emergent Property - [Infinite Depth]**
+
+The creation of a system with no "bottom." You can always open up a component to see what makes it tick, and you will find... more components.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Turtles all the way down.* The structure is self-similar at all scales.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The system collapses "Internal Complexity" into "External Simplicity."
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The experience of "Mastery." The ability to ignore details when you don't need them, and dive into them when you do.
+
+#### **7. Rationale / Justification:**
+
+This setting is needed for `[robust(-ing) BPMS]` architecture. It allows for "Black Boxing" of complexity, making the system easier to understand and use.
+
+#### **8. Scope of Application:**
+
+Applies to component architecture, prefab systems, and grouping logic.
