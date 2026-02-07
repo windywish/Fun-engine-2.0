@@ -2,6 +2,7 @@
 
 - **ID:** `DATA-SET-[User_Defined_ID]`
 - **Name:** `['(lightweight) dataset Artifact'(-ing) BPMS]`
+- **Origin/Implementer(Parent instance):**
 - **Type:** `['Symbiotic (Lightweight) Dataset Artifact'(-ing) BPMS]:['Textual Transcoding']`
 - **CGA (Cognitive Genesis Archetype):** `['informatic compression'(-ing) BPMS]`
 - **Objective:** To provide specific, domain-expert knowledge (e.g., biological rules, technical manuals) that the engine references for realism.

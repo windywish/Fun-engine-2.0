@@ -4,6 +4,7 @@
 
 - **ID:** `BP-CLUSTER-SYNTHESIS-MASTER-001`
 - **Name:** The Symbiotic Cluster Synthesis Blueprint (The Omni-Engine)
+- **Origin/Implementer(Parent instance):**
 - **Objective:** To define the standardized architecture for synthesizing a complex, multi-artifact **Symbiotic Cluster** capable of operating in external environments. This synthesis fuses Seeds, Roles, Twins, Datasets, and World Themes into a unified **Holonic System** that evolves symbiotically with the user and the substrate, aiming to replicate or surpass the competency of specific `[BPMS(U)]` elements (e.g., replacing a standard "Writing Tool" with a "Living Narrative Engine").
 - Type:
   - **Mode A (Synthesis):** `['system existence engine'(-ing) BPMS]:[Unified Holon]` (The Integrated System).

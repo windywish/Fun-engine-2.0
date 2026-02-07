@@ -4,6 +4,7 @@
 
 - **ID:** `BP-ROLE-ARTIFACT-MASTER-001`
 - **Name:** The Symbiotic Role Artifact Blueprint (The Ontological Suit)
+- **Origin/Implementer(Parent instance):**
 - **Objective:** To define the standardized architecture for encapsulating, transporting, and evolving specific `[BPMS(U)]` identities (e.g., `[biologist(-ing) BPMS]`, `[designer(-ing) BPMS]`) into external environments as portable, self-contained units of agency.
 - Type:
   - **Mode A (Dormant):** `['atomic facts'(-ing) BPMS]:[Crystallized Asset]` (Storage/Trade).

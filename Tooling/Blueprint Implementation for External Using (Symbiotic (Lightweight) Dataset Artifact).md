@@ -4,6 +4,7 @@
 
 - **ID:** `BP-DATA-ARTIFACT-MASTER-001`
 - **Name:** The Symbiotic Lightweight Dataset Artifact Blueprint (The Holographic Seed)
+- **Origin/Implementer(Parent instance):**
 - **Objective:** To define the standardized architecture for encapsulating, transporting, and evolving specific `[BPMS(U)]` knowledge structures (e.g., `[lore(-ing) BPMS]`, `[physics(-ing) BPMS]`) into external environments as portable, self-contained units of truth.
 - Type:
   - **Mode A (Dormant):** `['atomic facts'(-ing) BPMS]:[Crystallized Truth]` (Storage/Archive).

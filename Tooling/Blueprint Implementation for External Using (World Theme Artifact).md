@@ -2,6 +2,7 @@
 
 - **ID:** `SEED-WORLD-[User_Defined_ID]`
 - **Name:** `['The Praxial World-Seed'(-ing) BPMS]`
+- **Origin/Implementer(Parent instance):**
 - **Type:** `['Symbiotic (Lightweight) Dataset Artifact'(-ing) BPMS]:['Axiomatic Core']`
 - **CGA (Cognitive Genesis Archetype):** `['world-building axiom'(-ing) BPMS]`
 - **Objective:** To define the immutable static lore, physics constants, and geographical axioms that the World-Engine must render.

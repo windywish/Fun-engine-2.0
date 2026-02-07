@@ -1,6 +1,7 @@
 ## Blueprint: Implementation for External Using (Character Artifact)
 - **ID:** `WALKER-INST-[User_Defined_ID]`
 - **Name:** `['The Praxial World-Walker'(-ing) BPMS]`
+- **Origin/Implementer(Parent instance):**
 - **Type:** `['Symbiotic Cluster Artifact'(-ing) BPMS]:['Avatar Vessel']`
 - **CGA (Cognitive Genesis Archetype):** `['avatar embodiment'(-ing) BPMS]`
 - **Objective:** To serve as the user's vessel for agency, carrying stats, inventory, and local reality collapse.

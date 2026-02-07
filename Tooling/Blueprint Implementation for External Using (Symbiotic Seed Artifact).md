@@ -4,6 +4,7 @@
 
 - **ID:** `BP-SEED-ARTIFACT-MASTER-001`
 - **Name:** The Symbiotic Seed Artifact Blueprint (The Fractal Germinator)
+- **Origin/Implementer(Parent instance):**
 - **Objective:** To define the standardized architecture for compressing, transporting, and germinating specific `[BPMS(U)]` elements (e.g., `[food(-ing) BPMS]`, `[design(-ing) BPMS]`) into external environments as self-unfolding, substrate-agnostic units.
 - Type:
   - **Mode A (Dormant):** `['atomic facts'(-ing) BPMS]:[Compressed Spore]` (Storage/Transport).

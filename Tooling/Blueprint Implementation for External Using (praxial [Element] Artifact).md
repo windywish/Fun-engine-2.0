@@ -2,6 +2,7 @@
 
 - **ID:** `ELEM-PRAX-[User_Defined_ID]`
 - **Name:** `['praxial [Element] Artifact'(-ing) BPMS]`
+- **Origin/Implementer(Parent instance):**
 - **Type:** `['praxial substrate'(-ing) BPMS]` OR `['praxial actor'(-ing) BPMS]`
 - **CGA (Cognitive Genesis Archetype):** `['atomic unit'(-ing) BPMS]`
 - **Objective:** To define a specific interactive entity, law, or object within the simulation with unique properties.

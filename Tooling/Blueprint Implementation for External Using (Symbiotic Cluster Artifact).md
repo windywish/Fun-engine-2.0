@@ -4,6 +4,7 @@
 
 - **ID:** `BP-CLUSTER-ARTIFACT-MASTER-001`
 - **Name:** The Symbiotic Cluster Artifact Blueprint (Polymorphic Container)
+- **Origin/Implementer(Parent instance):**
 - **Objective:** To define the standardized architecture for encapsulating and exporting **Symbiotic Matrices**—individually or in combination—into external environments as self-contained, evolutionary units.
 - Type:
   - **Mode A (Core):** `['system existence engine'(-ing) BPMS]:[['Symbiotic Core Matrix'(-ing) BPMS]]` (Pure Agent).

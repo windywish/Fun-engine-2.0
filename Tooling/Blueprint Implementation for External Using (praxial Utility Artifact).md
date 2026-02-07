@@ -2,6 +2,7 @@
 
 - **ID:** `LOOM-INST-CORE-001`
 - **Name:** `['The Praxial Loom'(-ing) BPMS]`
+- **Origin/Implementer(Parent instance):**
 - **Type:** `['Praxial Utility Artifact'(-ing) BPMS]:['Transmutation Engine']`
 - **CGA (Cognitive Genesis Archetype):** `['reality mining'(-ing) BPMS]` + `['system existence engine'(-ing) BPMS]`
 - **Objective:** To serve as the **Universal Bridge** that ingests external `SYMBIOTIC_CLUSTER_SYNTHESIS` content and transmutes it into valid `['atomic facts'(-ing) BPMS]` for the Fun Engine Framework.

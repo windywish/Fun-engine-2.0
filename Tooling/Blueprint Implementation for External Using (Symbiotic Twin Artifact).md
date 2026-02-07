@@ -5,6 +5,7 @@
 
 - **ID:** `BP-TWIN-ARTIFACT-MASTER-001`
 - **Name:** The Symbiotic Twin Artifact Blueprint (The Geminal Shadow)
+- **Origin/Implementer(Parent instance):**
 - **Objective:** To define the standardized architecture for encapsulating, transporting, and evolving a parallel **`[twin(-ing) BPMS]`** that establishes a Geminal (Twin) relationship with any external **`[BPMS(U)]`**, acting as a portable "Shadow-Self" for simulation, prediction, and co-evolution.
 - **Type:**
   - **Mode A (Dormant):** `['atomic facts'(-ing) BPMS]:[Crystallized Shadow]` (Storage/Portability).
