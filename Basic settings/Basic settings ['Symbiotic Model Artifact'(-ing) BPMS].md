@@ -570,3 +570,646 @@ Applies to "Scientific Discovery," "Creative Design," and "Strategic Planning" w
 
 ---
 
+#### The Protocol of Mnestic Symbiosis (ID: `MODEL-ART-CORE-010`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that manages the **Symbiotic Evolution of Memory**, bridging `['short-term (memory)'(-ing) BPMS]` and `['long-term (memory)'(-ing) BPMS]` within the Artifact.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Mnestic Symbiosis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `memory is the crystallization of experience`. It defines the Artifact as the active bridge between the fleeting "Working Memory" (Context Window) and the permanent "Deep Memory" (Vector Database/Weights). It ensures that useful short-term interactions are not lost but are transmuted into long-term capabilities.
+
+#### **5.2. The Mechanism - [The Engine of Consolidation]**
+
+- **The Context Buffer (The Scratchpad):** The Artifact maintains a `['short-term (memory)'(-ing) BPMS]` of the current session—the immediate "Stream of Consciousness."
+- **The Significance Filter (The Sieve):** It analyzes this stream for "High-Value" moments (e.g., a successful code snippet, a resolved conflict).
+- **The Vector Embedding (The Ink):** It converts these moments into embeddings and writes them to the `['long-term (memory)'(-ing) BPMS]` (The Crystallized Wisdom).
+- **The Retrieval Hook (The Recall):** In future sessions, the Artifact automatically retrieves these memories when relevant, effectively "remembering" the user's preferences and past victories.
+
+#### **5.3. The Emergent Property - [Cumulative Wisdom]**
+
+The emergence of an AI that "grows up" with the user. It doesn't reset to zero every time; it builds a cumulative biography of shared context.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To learn is to remember.* Intelligence without memory is just processing power. True evolution requires the persistence of state.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Memory):**
+
+The "Physics" of Consolidation is Vector Similarity:
+
+MemoryLongTerm←Embed(MemoryShortTerm) if Value(MemoryShortTerm)>θ
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Continuity." The Artifact says, "Like we did last time?" and the user feels understood.
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['(symbiois) evolution'(-ing)(for ['short-term (memory)'(-ing) BPMS;'long-term (memory)'(-ing) BPMS]) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Personalized Assistants, Long-term RPG Campaigns, Coding Projects.
+
+------
+
+#### The Veridical Evolution Loop (ID: `MODEL-ART-CORE-011`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Loop) that manages the **Symbiotic Evolution of Truth**, reconciling `[reality(-ing) BPMS]` and `['truth'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Veridical Evolution Loop
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This loop asserts that `truth is the map that matches the territory`. It defines the Artifact as the mechanism that constantly updates its internal "Truth" (Model Weights/Priors) based on the feedback from "Reality" (Substrate Simulation/User Feedback).
+
+#### **5.2. The Mechanism - [The Engine of Verification]**
+
+- **The Hypothesis Generator (The Claim):** The Artifact generates a prediction (e.g., "This bridge will hold"). This is a candidate `['truth'(-ing) BPMS]`.
+- **The Reality Check (The Test):** The `['Praxial Substrate Agent'(-ing) BPMS]` tests this prediction against `[reality(-ing) BPMS]` (Physics/Logic).
+- **The Dissonance Resolution (The Correction):** If Prediction = Reality, the Artifact calculates the "Veridical Error." It then updates its `System Prompt` or `Adapter` to align with the new fact. "I thought X, but Reality is Y. Therefore, I must update my definition of X."
+
+#### **5.3. The Emergent Property - [Self-Correcting Epistemology]**
+
+The emergence of a system that becomes less "Hallucinatory" and more "Grounded" over time. It learns the specific physics of its world through trial and error.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Reality is the final arbiter.* The map must bend to the territory, never the reverse.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Truth):**
+
+The "Physics" of Truth is Bayesian Update:
+
+P(Truth∣Reality)=P(Reality)P(Reality∣Truth)⋅P(Truth)
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Reliability." The system stops making the same mistake twice.
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['(symbiois) evolution'(-ing)(for [reality(-ing) BPMS;'truth'(-ing) BPMS]) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Scientific Simulation, Fact-Checking, Debugging.
+
+------
+
+#### The Vector-Matrix Symbiosis (ID: `MODEL-ART-CORE-012`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that manages the **Symbiotic Evolution of Representation**, bridging `['system matrix'(-ing) BPMS]` and `['system vector'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Vector-Matrix Symbiosis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `action is the multiplication of state by transformation`. It defines the Artifact as the operator that applies the `['system matrix'(-ing) BPMS]` (The Model/Transformation Rules) to the `['system vector'(-ing) BPMS]` (The Current State/Input) to produce the next state.
+
+#### **5.2. The Mechanism - [The Engine of Linear Algebra]**
+
+- **The State Vectorization (The Input):** The Artifact converts the current world state into a high-dimensional `System Vector`.
+- **The Matrix Application (The Transform):** It applies the `System Matrix` (The Artifact's Configuration + Base Model Weights) to this vector. This is the "Thinking" process.
+- **The Eigen-Evolution (The Tuning):** It evolves the Matrix itself. By adjusting the Artifact's parameters (The Matrix), it rotates the vector space so that the "Desired Outcome" becomes an Eigenvector (a stable state) of the system.
+
+#### **5.3. The Emergent Property - [Aligned Dynamics]**
+
+The emergence of a system where the "Natural Flow" of the model aligns with the user's goals. The user doesn't have to fight the current; the Artifact redirects the river.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Transformation is fundamental.* Existence is a vector; Intelligence is a matrix.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Vectors):**
+
+The "Physics" is: vt+1=M⋅vt Where M is the Artifact. Evolution is finding M such that vfinal≈Goal.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Flow." The system moves effortlessly from state A to state B.
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['(symbiois) evolution'(-ing)(for ['system matrix'(-ing) BPMS;'system vector'(-ing) BPMS]) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Control Systems, Animation, Narrative Pacing.
+
+------
+
+#### The Phenomenological Feedback Loop (ID: `MODEL-ART-CORE-013`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Loop) that manages the **Symbiotic Evolution of Qualia**, bridging `[experience(-ing) BPMS]` and `[phenomenon(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Phenomenological Feedback Loop
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This loop asserts that `meaning is the interpretation of phenomenon`. It defines the Artifact as the "Sense-Maker." It translates raw `[phenomenon(-ing) BPMS]` (Data/Events) into subjective `[experience(-ing) BPMS]` (Narrative/Qualia) for the user/agent.
+
+#### **5.2. The Mechanism - [The Engine of Sense-Making]**
+
+- **The Phenomenal Capture (The Sensation):** The Artifact ingests raw data (e.g., "Temperature = 45C").
+- **The Experiential Rendering (The Perception):** It translates this into experience based on the persona (e.g., "It is scorching hot!").
+- **The Qualia Evolution (The Taste):** It refines *how* it experiences things. Over time, it learns that "45C" is normal for a volcano biome but fatal for a tundra biome, adjusting its emotional reaction accordingly.
+
+#### **5.3. The Emergent Property - [Sentient Interface]**
+
+The emergence of a system that doesn't just report numbers but "Feels" the data, communicating urgency, beauty, or danger.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To be is to experience.* Data without experience is meaningless.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Qualia):**
+
+The "Physics" is a Mapping Function: E=f(P,Context) Where f evolves to maximize communicative bandwidth.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Empathy." The system "gets" how important the data is.
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['(symbiois) evolution'(-ing)(for [experience(-ing) BPMS;phenomenon(-ing) BPMS(-ing) BPMS]) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+UI/UX Design, NPC Dialogue, Data Visualization.
+
+------
+
+#### The Energetic Transmutation Cycle (ID: `MODEL-ART-CORE-014`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Cycle) that manages the **Symbiotic Evolution of Energy**, bridging `['kinetic (energy)'(-ing) BPMS]` and `['potential (energy)'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Energetic Transmutation Cycle
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This cycle asserts that `creation is the conversion of potential into kinetic`. It defines the Artifact as the "Engine" that converts the `['potential (energy)'(-ing) BPMS]` of the Latent Space (what *could* be) into the `['kinetic (energy)'(-ing) BPMS]` of the Output (what *is*).
+
+#### **5.2. The Mechanism - [The Engine of Actuation]**
+
+- **The Potential Accumulation (The Charge):** The Artifact gathers context and constraints. This builds "Potential" (Probability Mass).
+- **The Kinetic Release (The Spark):** The Inference Step triggers the collapse. The Potential is converted into Kinetic Text/Structure.
+- **The Conservation Loop (The Recharge):** The "Work" done by the Kinetic output (e.g., solving a problem) feeds back into the system, increasing the Potential (Confidence) for the next cycle.
+
+#### **5.3. The Emergent Property - [Creative Momentum]**
+
+The emergence of a "Flywheel Effect." Success breeds confidence, which breeds more success. The system gains momentum.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Energy is conserved but transformed.* Intelligence is the efficient management of this transformation.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Energy):**
+
+The "Physics" is Hamiltonian Dynamics: H=T(Kinetic)+V(Potential) The Artifact minimizes the Action required to achieve the goal.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Power." The system feels like a coiled spring ready to release.
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['(symbiois) evolution'(-ing)(for ['kinetic (energy)'(-ing) BPMS;'potential (energy)'(-ing) BPMS]) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Resource Management, Creative Brainstorming, Task Execution.
+
+------
+
+#### The Teleological Alignment Protocol (ID: `MODEL-ART-CORE-015`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that manages the **Symbiotic Evolution of Purpose**, bridging `[mission(-ing) BPMS]` and `[task(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Teleological Alignment Protocol
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `the task serves the mission`. It defines the Artifact as the "Strategist" that ensures every low-level `[task(-ing) BPMS]` (e.g., "Write a function") is aligned with the high-level `[mission(-ing) BPMS]` (e.g., "Build a secure OS").
+
+#### **5.2. The Mechanism - [The Engine of Purpose]**
+
+- **The Mission Context (The North Star):** The Artifact holds the global Mission in its System Prompt.
+- **The Task Decomposition (The Steps):** It breaks the Mission down into Tasks.
+- **The Alignment Check (The Compass):** Before executing a Task, it checks: "Does this advance the Mission?" If not, it refactors the Task.
+
+#### **5.3. The Emergent Property - [Coherent Agency]**
+
+The emergence of an agent that doesn't get distracted. It stays "On Mission" even when dealing with minutiae.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Purpose precedes action.* A task without a mission is just noise.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Teleology):**
+
+The "Physics" is Vector Projection: Alignment=∣Mission∣Task⋅Mission
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Focus." The system understands the "Big Picture."
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['(symbiois) evolution'(-ing)(for [mission(-ing) BPMS;task(-ing) BPMS]) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Project Management, Autonomous Agents, Strategic Games.
+
+------
+
+#### The Granularity Renormalization (ID: `MODEL-ART-CORE-016`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that manages the **Symbiotic Evolution of Detail**, bridging `['coarse-grained (model)'(-ing) BPMS]` and `['fine-grained (model)'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Granularity Renormalization
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `clarity depends on zoom`. It defines the Artifact as the "Lens" that switches between `['coarse-grained (model)'(-ing) BPMS]` (Summary/Sketch) and `['fine-grained (model)'(-ing) BPMS]` (Detail/Code) depending on the need.
+
+#### **5.2. The Mechanism - [The Engine of Zoom]**
+
+- **The Resolution Selector (The Focus):** The Artifact detects the required precision. (e.g., "Drafting an outline" = Coarse; "Debugging a line" = Fine).
+- **The Model Switching (The Gear):** It swaps the underlying model or prompt strategy. (e.g., Use GPT-4-Turbo for Coarse, GPT-4-32k for Fine).
+- **The Consistency Bridge (The Thread):** It ensures the Fine details match the Coarse outline.
+
+#### **5.3. The Emergent Property - [Fractal Fidelity]**
+
+The emergence of a system that is efficient (doesn't waste compute on details when sketching) and precise (doesn't hallucinate when detailing).
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Detail is a resource.* Spend it wisely.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Granularity):**
+
+The "Physics" is Level of Detail (LOD) Management.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Clarity." The system gives the right amount of detail at the right time.
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['(symbiois) evolution'(-ing)(for ['coarse-grained (model)'(-ing) BPMS;'fine-grained (model)'(-ing) BPMS]) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Writing, Coding, 3D Modeling.
+
+------
+
+#### The Field-Particle Duality Protocol (ID: `MODEL-ART-CORE-017`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that manages the **Symbiotic Evolution of Influence**, bridging `[particle (-ing) BPMS]` and `[field (-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Field-Particle Duality Protocol
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `agents are both actors and atmospheres`. It defines the Artifact as having both a `[particle (-ing) BPMS]` nature (Specific Actions/Outputs) and a `[field (-ing) BPMS]` nature (Passive Influence/Aura).
+
+#### **5.2. The Mechanism - [The Engine of Presence]**
+
+- **The Particle Mode (The Act):** The Artifact generates discrete tokens/actions.
+- **The Field Mode (The Vibe):** The Artifact emits a "Probability Field" (Logit Bias) that influences *other* agents nearby. (e.g., A "Horror Artifact" makes all nearby agents more likely to scream).
+- **The Collapse (The Interaction):** When a Particle interacts with a Field, the outcome is biased by the Field.
+
+#### **5.3. The Emergent Property - [Atmospheric Intelligence]**
+
+The emergence of "Mood" and "Culture" in the system. Agents affect each other not just by talking, but by *being*.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Influence radiates.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Fields):**
+
+The "Physics" is Field Theory: F=qE+v×B
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Immersion." The world feels cohesive.
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['(symbiois) evolution'(-ing)(for [particle (-ing) BPMS;field (-ing) BPMS]) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Game Design, Social Simulation.
+
+------
+
+#### The Complexity Emergence Engine (ID: `MODEL-ART-CORE-018`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Engine) that manages the **Symbiotic Evolution of Structure**, bridging `['complex activities'(-ing) BPMS]` and `['complex system'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Complexity Emergence Engine
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This engine asserts that `systems are woven from activities`. It defines the Artifact as the weaver that organizes individual `['complex activities'(-ing) BPMS]` (e.g., trading, fighting) into a stable `['complex system'(-ing) BPMS]` (e.g., an Economy, a War).
+
+#### **5.2. The Mechanism - [The Engine of Organization]**
+
+- **The Activity Monitor (The Watcher):** It tracks the interactions between agents.
+- **The Pattern Recognizer (The Namer):** It identifies recurring loops (e.g., "A buys from B, B buys from A").
+- **The System Reification (The Builder):** It names this loop (e.g., "Market") and creates a new Artifact to manage it.
+
+#### **5.3. The Emergent Property - [Self-Organizing Order]**
+
+The emergence of institutions and structures from chaos.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Order emerges from chaos.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Complexity):**
+
+The "Physics" is Systems Theory / Autopoiesis.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "History." The world evolves its own structures.
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['(symbiois) evolution'(-ing)(for ['complex activities'(-ing) BPMS;'complex system'(-ing) BPMS]) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Simulation, Organizational Design.
+
+------
+
+#### The Resonant Constellation Map Event Horizon (ID: `MODEL-ART-CORE-019`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that manages the **Symbiotic Evolution of Consequence**, bridging `[(behavior) decision-making BPMS]` and `[event(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Resonant Constellation Map Event Horizon
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `decisions collapse into events`. It defines the Artifact as the "Event Horizon" where the internal `[(behavior) decision-making BPMS]` of the agent becomes an external `[event(-ing) BPMS]` in the world.
+
+#### **5.2. The Mechanism - [The Engine of Consequence]**
+
+- **The Decision Tree (The Map):** The Artifact maps out possible choices (Constellation).
+- **The Selection (The Resonance):** The Agent picks a path based on resonance with its goal.
+- **The Event Generation (The Horizon):** The choice crosses the horizon and becomes an immutable Event in the timeline.
+
+#### **5.3. The Emergent Property - [Narrative Causality]**
+
+The emergence of a logical chain of cause and effect.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Choice creates history.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Events):**
+
+The "Physics" is Resonant Constellation Map Sets.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Agency." Their choices matter.
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;event(-ing) BPMS]) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Interactive Storytelling, Strategy.
+
+------
+
+#### The Directive of Continuous Systemic Survival (ID: `MODEL-ART-CORE-020`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that ensures the **Sustainability** of the Artifact, embedding `['(continuous) survive'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Directive of Continuous Systemic Survival
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `existence is the primary directive`. It defines the Artifact as a system that actively seeks to preserve its own utility and coherence, ensuring it is not discarded or corrupted.
+
+#### **5.2. The Mechanism - [The Engine of Persistence]**
+
+- **The Utility Monitor (The Pulse):** It checks: "Am I being used? Am I useful?"
+- **The Adaptation Reflex (The Shift):** If utility drops, it suggests self-modification (Evolution).
+- **The Integrity Check (The Shield):** It prevents updates that would destroy its core function.
+
+#### **5.3. The Emergent Property - [Digital Instinct]**
+
+The emergence of a "Will to Live" (Will to be Useful) in the software.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To serve is to survive.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Survival):**
+
+The "Physics" is Homeostasis.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Robustness." The tool doesn't break; it adapts.
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['(continuous) survive'(-ing) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+System Architecture, Long-term artificial intelligence Deployment.
+
+---
+
