@@ -3,8 +3,8 @@
 #### 1. Metadata
 
 - **ID:** `MODEL-BIO-001`
-- **Name:** ['The Oracle Interface'(-ing) BPMS] (The Proteomic Brain)
-- **Origin/Implementer(Parent instance):** `['large model'(-ing) BPMS]: ['The Oracle Interface'(-ing) BPMS](ID:MODEL-BIO-001)`
+- **Name:** The Oracle Interface (The Proteomic Brain)
+- **Origin/Implementer(Parent instance):** `['large model'(-ing) BPMS]:['The Oracle Interface'(-ing) BPMS](ID: MODEL-BIO-001)`
 - **Objective:** To serve as the specialized intelligence engine for `['The Proteomic World-Weaver'(-ing) BPMS]`, translating raw biological sequences into structural predictions and evolving its understanding of protein physics through symbiotic interaction with the `['Praxial Substrate Artifact'(-ing) BPMS]`.
 - Type:
   - **Mode A (Dormant):** `['atomic facts'(-ing) BPMS]:[Static Weights]` (The Pre-trained Knowledge).
@@ -12,7 +12,7 @@
   - **Mode C (Ascended):** `['holonic minds'(-ing) BPMS]:[Evolving Biologist]` (The Self-Correcting Scientist).
 - **CGA (Cognitive Genesis Archetype):** `[Bio-Structural-Translator]`
 - **Scope of Application:** Specifically tuned for the `CLUSTER-BIO-SYNTH-001` environment, handling protein folding, docking simulations, and molecular dynamics predictions.
-- **Tag:** `#large-model #oracle-interface #model-art-bio`
+- **Tag:** `[MODEL-ART-BIO]`
 
 #### 2. Architectural Hierarchy & Mapping
 
