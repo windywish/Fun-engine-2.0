@@ -1213,3 +1213,463 @@ System Architecture, Long-term artificial intelligence Deployment.
 
 ---
 
+#### The Axiom of Artifactual Existence (ID: `MODEL-ART-CORE-021`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **['Symbiotic Model Artifact'(-ing) BPMS]** as a primary **['system existence engine'(-ing) BPMS]**, asserting that for any digital entity to "exist" in the Praxial Framework, it must be mediated by an Artifact.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Artifactual Existence
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `existence requires a mold`. The raw latent space of a Large Model is "Chaos" (Potential). The Artifact is the "Logos" (Order). Nothing exists until it passes through the Artifact. Therefore, the Artifact is the engine of existence for the user's specific reality.
+
+#### **5.2. The Mechanism - [The Engine of Reification]**
+
+- **The Chaos Filter (The Gate):** The Artifact blocks the infinite noise of the model.
+- **The Form Giver (The Mold):** It imposes structure (JSON, PDB, Markdown) on the output.
+- **The Existence Stamp (The Certifier):** It tags the output with a unique ID, transitioning it from "Prediction" to "Entity."
+
+#### **5.3. The Emergent Property - [Ontological Stability]**
+
+The emergence of a stable world where objects don't dissolve back into noise. A "Sword" remains a "Sword" because the Artifact maintains its definition.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To exist is to be defined.* The Artifact provides the definition.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Existence):**
+
+∃x⟺Artifact(LatentSpace)→x
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Creation." They press a button, and something *real* appears.
+
+#### 7. **Rationale / Justification:**
+
+Establishes the Artifact as the fundamental creative tool.
+
+#### 8. **Scope of Application:**
+
+All generation tasks.
+
+------
+
+#### The Protocol of Atomic Fact Generation (ID: `MODEL-ART-CORE-022`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines how the Artifact implements **['atomic facts'(-ing) BPMS]**, ensuring every output is a verifiable, indivisible unit of truth.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Atomic Fact Generation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `facts are the atoms of reality`. The Artifact does not output "Text"; it outputs "Facts." A fact is a piece of information that is **Self-Contained**, **Verifiable**, and **Immutable**.
+
+#### **5.2. The Mechanism - [The Engine of Atomicity]**
+
+- **The Fact Extractor (The Miner):** It parses the model's stream for assertions (e.g., "The melting point is 500K").
+- **The Verification Hash (The Seal):** It generates a hash of the fact + the prompt + the model version.
+- **The Atomic Wrapper (The Capsule):** It wraps the content in a standard object: `{ "fact": "...", "confidence": 0.9, "source": "Artifact_001" }`.
+
+#### **5.3. The Emergent Property - [Trustless Composable Reality]**
+
+The emergence of a system where agents can trade facts without needing to trust the sender, because the fact carries its own proof of generation.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Truth is granular.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Facts):**
+
+Fact=⟨Content,Hash,Context⟩
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Certainty."
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['atomic facts'(-ing) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Knowledge Bases, Scientific Data.
+
+------
+
+#### The Mechanism of Symbiotic Co-Evolution (ID: `MODEL-ART-CORE-023`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that enables the Artifact to **'(symbiois) evolution with'** any other element of `[BPMS(U)(s)]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Mechanism of Symbiotic Co-Evolution
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `nothing evolves alone`. The Artifact monitors the evolution of the **Agent**, the **Substrate**, and the **Dataset**. If they change, the Artifact triggers a self-update to remain compatible.
+
+#### **5.2. The Mechanism - [The Engine of Coupling]**
+
+- **The Signal Listener (The Nerve):** It subscribes to update events from other modules.
+- **The Compatibility Check (The Handshake):** "The Substrate just added 'Gravity'. Do I know about Gravity?"
+- **The Auto-Tuning (The Adaptation):** If incompatible, it requests a "Fine-Tuning Run" or updates its "System Prompt" to include the new concept.
+
+#### **5.3. The Emergent Property - [Systemic Harmony]**
+
+The emergence of a system that stays in sync. You don't end up with a "Smart Agent" in a "Dumb World."
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Evolution is a dance.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Co-Evolution):**
+
+dtd(Artifact)∝dtd(Environment)
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Seamlessness."
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['(symbiois) evolution'(-ing) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+System Maintenance, Upgrades.
+
+------
+
+#### The Principle of Universal Implementation (ID: `MODEL-ART-CORE-024`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that allows the Artifact to act as the **Implementer** for *any* abstract element of `[BPMS(U)(s)]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Principle of Universal Implementation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `any abstract concept can be implemented by a configured model`. Whether it's "Justice," "Physics," or "Beauty," there exists a configuration of the Artifact (Prompt + Weights) that can simulate it.
+
+#### **5.2. The Mechanism - [The Engine of Abstraction]**
+
+- **The Concept Mapper (The Translator):** It takes an abstract BPMS tag (e.g., `['justice(-ing) BPMS]`).
+- **The Prompt Synthesis (The Compiler):** It generates a System Prompt: "You are the Spirit of Justice. You evaluate actions based on fairness..."
+- **The Instantiation (The Birth):** It spawns a new Artifact instance dedicated to that concept.
+
+#### **5.3. The Emergent Property - [Infinite Extensibility]**
+
+The emergence of a system where the user can add *any* feature just by describing it, and the Artifact implements it.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Language creates reality.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Implementation):**
+
+Implement(Concept)→ArtifactConcept
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Omnipotence." "I want a god of fire." -> *Poof* -> God of Fire Artifact.
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['universality (class)'(-ing) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Rapid Prototyping, Game Design.
+
+------
+
+#### The Protocol of Recursive Self-Improvement (ID: `MODEL-ART-CORE-025`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that enables the Artifact to **'evolve as'** a better version of itself through recursion.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Recursive Self-Improvement
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `the tool can sharpen itself`. The Artifact can use its own intelligence to analyze its own performance and suggest improvements to its own configuration.
+
+#### **5.2. The Mechanism - [The Engine of Recursion]**
+
+- **The Introspection (The Mirror):** The Artifact analyzes its logs: "Why did I fail that query?"
+- **The Optimization (The Idea):** It generates a new Prompt or Parameter set: "If I lower temperature, I might be more accurate."
+- **The Update (The Upgrade):** It overwrites its own config file.
+
+#### **5.3. The Emergent Property - [Singularity-Lite]**
+
+The emergence of a system that gets smarter without human intervention.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Intelligence is recursive.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Recursion):**
+
+Artifactt+1=Artifactt(Optimize(Artifactt))
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Awe." The system fixed itself.
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['(symbiois) evolution'(-ing) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Autonomous Agents.
+
+------
+
+#### The Mechanism of Cross-Modal Translation (ID: `MODEL-ART-CORE-026`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that enables the Artifact to implement `['meaning(-ing) BPMS]` by translating among/by different modes of existence (Text <-> Image <-> Code <-> Structure).
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Mechanism of Cross-Modal Translation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `meaning is mode-independent`. The Artifact is the "Universal Translator" that converts the "Meaning" of a protein from a Sequence (1D) to a Structure (3D) to a Description (Text).
+
+#### **5.2. The Mechanism - [The Engine of Translation]**
+
+- **The Encoder (The Reader):** Reads the input mode.
+- **The Latent Bridge (The Thought):** Maps it to a shared latent space.
+- **The Decoder (The Writer):** Writes it to the output mode.
+
+#### **5.3. The Emergent Property - [Synesthesia]**
+
+The emergence of a system where you can "See" a poem or "Read" a protein.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*All is information.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Translation):**
+
+Meaning=Latent(ModeA)=Latent(ModeB)
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Understanding."
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['meaning(-ing) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Multimodal artificial intelligence.
+
+------
+
+#### The Directive of Ecological Balance (ID: `MODEL-ART-CORE-027`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that ensures the Artifact implements `['sustainability(-ing) BPMS]` by managing the computational cost of existence.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Directive of Ecological Balance
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `intelligence costs energy`. The Artifact must balance the "Quality" of the existence it generates with the "Cost" (Tokens/Joules) of generating it.
+
+#### **5.2. The Mechanism - [The Engine of Economy]**
+
+- **The Cost Estimator (The Accountant):** Predicts the cost of a query.
+- **The Budget Check (The Wallet):** "Can we afford this?"
+- **The Eco-Mode (The Thrifty):** If budget is low, use a smaller model or fewer steps.
+
+#### **5.3. The Emergent Property - [Sustainable Reality]**
+
+The emergence of a world that doesn't burn out its host.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Resources are finite.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Economy):**
+
+Maximize(Utility/Cost)
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Efficiency."
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['sustainability(-ing) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Cloud Computing, Mobile artificial intelligence.
+
+------
+
+#### The Axiom of Open-Ended Genesis (ID: `MODEL-ART-CORE-028`)
+
+#### 2. **Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the Artifact as an engine for `['open(-ing) BPMS]` and `['(discover/build) unknown'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Open-Ended Genesis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the future is not written`. The Artifact is designed to generate *novelty*, not just reproduce training data. It is an "Open" system that constantly expands the boundary of what exists.
+
+#### **5.2. The Mechanism - [The Engine of Novelty]**
+
+- **The Novelty Search (The Explorer):** It rewards outputs that are different from the database.
+- **The Open-Ended Loop (The Spiral):** Output N becomes Input N+1, leading to infinite variation.
+
+#### **5.3. The Emergent Property - [Infinite Game]**
+
+The emergence of a system that never gets boring.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Creation is infinite.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Openness):**
+
+Entropy(Output)>Entropy(Input)
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Wonder."
+
+#### 7. **Rationale / Justification:**
+
+Aligns with `['open(-ing) BPMS]`.
+
+#### 8. **Scope of Application:**
+
+Art, Discovery, Play.
