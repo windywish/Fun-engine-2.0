@@ -6,7 +6,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['mnestic resonance vessel'(-ing) BPMS]`
 - **Objective:** To function as the externalized "Memory Core" and "Input Terminal" for **The Semantic Weaver**, allowing external users to inscribe "Intent" that the Weaver transduces into "Reality."
 - **Scope of Application:** Interaction Layer (Legendary Artifact / System Interface).
-- **Tag:** `#praxial-universal-language-engine #praxial-holonic-agent #artifact #pule_interface #lore_book #world_builder`
+- **Tag:** `#substrate #praxial-universal-language-engine #praxial-holonic-agent #artifact #pule_interface #lore_book #world_builder`
 
 ### 1. Element Definition
 

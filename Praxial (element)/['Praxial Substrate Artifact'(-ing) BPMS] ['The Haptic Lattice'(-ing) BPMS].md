@@ -12,7 +12,7 @@
   - **Mode C (Ascended):** `['holonic minds'(-ing) BPMS]:[The Ecological Niche]` (Evolutionary Context).
 - **CGA (Cognitive Genesis Archetype):** `[Bio-Physical-Voxel-Matrix]`
 - **Scope of Application:** Applies to the spatial and energetic definition of the simulation environment within the **['Symbiotic Cluster Synthesis'(-ing) BPMS]**, specifically interfacing with the **['The Molecular Kernel'(-ing) BPMS]** to enforce physical laws.
-- **Tag:** `#praxial-substrate-agent #molecular-kernel #haptic-lattice` `#molecular-Reality` `#voxel-physics` `#substrate-enforcement`
+- **Tag:** `#substrate #praxial-substrate-agent #molecular-kernel #haptic-lattice` `#molecular-Reality` `#voxel-physics` `#substrate-enforcement`
 
 #### 2. Architectural Hierarchy & Mapping
 
