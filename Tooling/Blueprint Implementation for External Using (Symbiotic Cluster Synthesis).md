@@ -11,6 +11,7 @@
   - **Mode C (Competency):** `['praxial substrate'(-ing) BPMS]:[Superior Functionality]` (The Performance Output).
 - **CGA (Cognitive Genesis Archetype):** `[Holonic-Cluster-Synthesis]:['Recursive-Competency-Amplifier']`
 - **Scope of Application:** Applies to the creation of "Super-Agents" or "Micro-Verses" in external LLMs that require the full depth of the Praxial Framework (Identity + World + Logic + Memory).
+- **Tag:**
 
 #### 2. Architectural Hierarchy & Mapping
 

@@ -11,6 +11,7 @@
   - **Mode C (Composite):** `['system existence engine'(-ing) BPMS]:[['Symbiotic Core Matrix'(-ing) BPMS] + ['Symbiotic Domain Matrix'(-ing) BPMS]]` (Specialized Agent).
 - **CGA (Cognitive Genesis Archetype):** `[Recursive-Container-Archetype]`
 - **Scope of Application:** Applies to all external instantiations, enabling the creation of General Agents, Pure Tools, or **Domain-Specific Agents**.
+- **Tag:**
 
 #### 2. Architectural Hierarchy & Mapping
 

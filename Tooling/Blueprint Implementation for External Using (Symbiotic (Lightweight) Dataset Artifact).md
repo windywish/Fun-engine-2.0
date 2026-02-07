@@ -11,6 +11,7 @@
   - **Mode C (Ascended):** `['super intelligence'(-ing) BPMS]:[Oracle Node]` (Prediction/Governance).
 - **CGA (Cognitive Genesis Archetype):** `[Polymorphic-Truth-Container]`
 - **Scope of Application:** Applies to the creation, management, and transfer of persistent world states, narrative histories, and functional logic across diverse `[Symbiotic Cluster Artifact(-ing) BPMS]` environments.
+- **Tag**:
 
 #### 2. Architectural Hierarchy & Mapping
 

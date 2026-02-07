@@ -11,6 +11,7 @@
   - **Mode C (Blooming):** `['holonic minds'(-ing) BPMS]:[Autopoietic System]` (Runtime Operation).
 - **CGA (Cognitive Genesis Archetype):** `[Holographic-Recursive-Encoder]`
 - **Scope of Application:** Applies to the export, sharing, and instantiation of specific functional modules into "alien" contexts (External LLMs, RAG Systems, Agent Swarms).
+- **Tag:**
 
 #### 2. Architectural Hierarchy & Mapping
 

@@ -11,6 +11,7 @@
   - **Mode C (Ascended):** `['holonic minds'(-ing) BPMS]:[Integrated Holon]` (Fusion/Governance).
 - **CGA (Cognitive Genesis Archetype):** `[Polymorphic-Identity-Container]`
 - **Scope of Application:** Applies to the creation, management, and transfer of persistent user identities, career assets, and functional agents across diverse `[Symbiotic Cluster Artifact(-ing) BPMS]` environments.
+- **Tag:**
 
 #### 2. Architectural Hierarchy & Mapping
 
