@@ -1,4 +1,4 @@
-## Basic settings: ['memory'(-ing) BPMS]
+## Basic settings: [memory(-ing) BPMS]
 
 #### The Principle of Mnestic Consolidation (ID: `MEM-CORE-001`)
 
