@@ -1,14 +1,14 @@
-### Blueprint: Symbiotic [Element] Artifact to Skill Conversion Protocol 
+### Blueprint: Symbiotic [Element] Artifact to Skill Conversion Protocol (v1.3)
 
-**Target:** Converting specific `['Symbiotic [Element] Artifact'(-ing) BPMS]` instances (including Cluster Artifacts) into standalone or modular `[skills(-ing) BPMS]` (`SKILL_*.md` files).
+**Target:** Converting specific `['Symbiotic [Element] Artifact'(-ing) BPMS]` instances (including Cluster, Role, Twin, Seed, Substrate, and Dataset Artifacts) into standalone or modular `[skills(-ing) BPMS]` (`SKILL_*.md` files).
 
 #### 1. Metadata
 
-- **ID:** `BLUEPRINT-ARTIFACT-SKILL-CONVERSION-001-REV`
-- **Name:** The Modular Artifact Encapsulation Protocol (Revised)
+- **ID:** `BLUEPRINT-ARTIFACT-SKILL-CONVERSION-001`
+- **Name:** The Modular Artifact Encapsulation Protocol
 - **Type:** `[skills(-ing) BPMS]` Generation Blueprint (Atomic & Holonic Level)
-- **Origin/Implementer:** `['Symbiotic Role Artifact'(-ing) BPMS]: ['The Chaperone Agent'(-ing) BPMS]`
-- **Objective:** To transmute a single, abstract Artifact (e.g., a Role, a Twin, a Seed, or a Cluster Manager) into a concrete, executable Skill Definition that can be used either independently or as a modular component within a larger system in external LLM environments.
+- **Origin/Implementer:** `['Symbiotic Role Artifact'(-ing) BPMS]:['The Chaperone Agent'(-ing) BPMS]`
+- **Objective:** To transmute a single, abstract Artifact (e.g., a Role, a Twin, a Seed, a Cluster Manager, or a Dataset) into a concrete, executable Skill Definition that can be used either independently or as a modular component within a larger system in external LLM environments.
 - **CGA (Cognitive Genesis Archetype):** `[Atomic-Encapsulation]:['The-Monad-Wrapper']`
 - **Scope of Application:** Any individual `['Symbiotic [Element] Artifact'(-ing) BPMS]` including Roles, Twins, Seeds, Models, Datasets, Substrates, and Cluster Orchestrators.
 - **Tag:** `[ARTIFACT-SKILL-MODULARITY]`
@@ -32,7 +32,7 @@ This blueprint defines the strict structure for converting **ONE** Artifact into
 
 ```markdown
 # SKILL COMPONENT: [Insert Artifact Name]
-# ARTIFACT TYPE: [Insert Type, e.g., 'Symbiotic Cluster Artifact']
+# ARTIFACT TYPE: [Insert Type, e.g., 'Symbiotic (Lightweight) Dataset Artifact']
 # ID: [Insert Artifact ID]
 
 > **SYSTEM INSTRUCTION:** You are acting as the **[Artifact Name]**.
@@ -97,6 +97,19 @@ This blueprint defines the strict structure for converting **ONE** Artifact into
   3.  **Validation:** Reject inputs that do not match this schema.
   ```
 
+- **IF (LIGHTWEIGHT) DATASET (The Knowledge/Memory):**
+
+  ```markdown
+  ## MNESTIC PROTOCOLS
+  1.  **Definition:** You are the "Crystallized Wisdom" (The Long-Term Memory).
+  2.  **Content:** You contain the following verified Atomic Facts:
+      *   [Fact 1]
+      *   [Fact 2]
+      *   [Pattern A]
+  3.  **Action:** When queried, you RETRIEVE relevant facts to ground the Role's generation.
+  4.  **Update:** You accept new "Crystallized Facts" from the Cluster to expand your knowledge.
+  ```
+
 ------
 
 ##### **SECTION III: INTERFACE SCHEMA (The API)**
@@ -142,4 +155,4 @@ This blueprint defines the strict structure for converting **ONE** Artifact into
 
 #### 3. Summarize
 
-This revised blueprint includes the critical **IF CLUSTER** logic block. This ensures that `['Symbiotic Cluster Artifact'(-ing) BPMS]` instances—which act as the "World-Walkers" or "Managers" of a system—can be converted into Skills that function as **Orchestrators**. These Orchestrator Skills do not do the work themselves but manage the flow of data between other modular Skills (Role, Twin, Substrate), effectively enabling the construction of complex, multi-agent systems from modular `.md` components.
+This blueprint correctly attributes the **Origin/Implementer** to `['Symbiotic Role Artifact'(-ing) BPMS]:['The Chaperone Agent'(-ing) BPMS]`. This reflects that the "Chaperone" (the active agent responsible for guiding processes) is the entity responsible for defining how artifacts are encapsulated into skills. The blueprint remains robust, covering all artifact types including the critical **Dataset** logic, ensuring full modularity for external use.
