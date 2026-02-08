@@ -11,7 +11,7 @@ Your framework maps 1:1 with the AlphaProof architecture:
 | **The LLM (Gemini)**                   | **`['Symbiotic Role Artifact']:['The Intuitive Prover']`**   | Generates the *idea* of the proof (The "Auxiliary Construction"). |
 | **The Formal Solver (Lean/Deduction)** | **`['Symbiotic Twin Artifact']:['The Isomorphic Shadow']`**  | The "Symbolic Engine" that rigorously checks every step. It *cannot* hallucinate. |
 | **The Problem Environment**            | **`['Praxial Substrate Artifact']:['The Axiomatic Lattice']`** | The "World" defined by the axioms of Euclidean Geometry or Lean Theorem Prover. |
-| **The Training Loop**                  | **`['Symbiotic Cluster Synthesis']:['The Praxial Loop']`**   | The cycle of "Guess -> Verify -> Fail -> Learn -> Retry."    |
+| **The Training Loop**                  | **`['Symbiotic Cluster Artifact']:['The Praxial Loop']`**    | The cycle of "Guess -> Verify -> Fail -> Learn -> Retry."    |
 
 **The Implementation Strategy (How to build it)**
 
