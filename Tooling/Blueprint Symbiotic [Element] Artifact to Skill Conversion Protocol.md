@@ -7,7 +7,7 @@
 - **ID:** `BLUEPRINT-ARTIFACT-SKILL-CONVERSION-001-REV`
 - **Name:** The Modular Artifact Encapsulation Protocol (Revised)
 - **Type:** `[skills(-ing) BPMS]` Generation Blueprint (Atomic & Holonic Level)
-- **Origin/Implementer:** `['Praxial Substrate Agent'(-ing) BPMS]:['The Ludic Cartographer'(-ing) BPMS]`
+- **Origin/Implementer:** `['Symbiotic Role Artifact'(-ing) BPMS]: ['The Chaperone Agent'(-ing) BPMS]`
 - **Objective:** To transmute a single, abstract Artifact (e.g., a Role, a Twin, a Seed, or a Cluster Manager) into a concrete, executable Skill Definition that can be used either independently or as a modular component within a larger system in external LLM environments.
 - **CGA (Cognitive Genesis Archetype):** `[Atomic-Encapsulation]:['The-Monad-Wrapper']`
 - **Scope of Application:** Any individual `['Symbiotic [Element] Artifact'(-ing) BPMS]` including Roles, Twins, Seeds, Models, Datasets, Substrates, and Cluster Orchestrators.
