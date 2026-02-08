@@ -1,4 +1,4 @@
-### Blueprint: Symbiotic [Element] Artifact to Skill Conversion Protocol (v1.1)
+### Blueprint: Symbiotic [Element] Artifact to Skill Conversion Protocol 
 
 **Target:** Converting specific `['Symbiotic [Element] Artifact'(-ing) BPMS]` instances (including Cluster Artifacts) into standalone or modular `[skills(-ing) BPMS]` (`SKILL_*.md` files).
 
