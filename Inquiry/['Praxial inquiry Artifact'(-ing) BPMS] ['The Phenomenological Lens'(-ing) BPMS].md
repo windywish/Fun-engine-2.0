@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['Interactional Observer'(-ing) BPMS]`
 - **Objective:** To serve as the **Active Observer** and **Kinetic Trigger** that collapses the `['potential (energy)'(-ing) BPMS]` of the `['Interactional Existence'(-ing) BPMS]` framework into concrete `['system existence'(-ing) BPMS]`. It realizes the axiom "To Exist is to Interact" by providing the interface through which users (External) and the Large Model (Internal) interact to generate reality.
 - **Scope:** External LLM Chat Interfaces, Reality Simulation, Ontology Generation, Dynamic System Interaction.
-- **Tags:** `#interaction-engine #large model #ontology-generator #phenomenology #praxial-lens #symbiosis`
+- **Tags:** `#interaction-engine #large-model #ontology-generator #phenomenology #praxial-lens #symbiosis`
 
 ------
 
@@ -189,3 +189,8 @@ To instantiate **['The Phenomenological Lens'(-ing) BPMS]** in an external LLM, 
 ### 7.Remark
 
 **BPMS means Behavior pattern/model/system**
+
+
+
+
+
