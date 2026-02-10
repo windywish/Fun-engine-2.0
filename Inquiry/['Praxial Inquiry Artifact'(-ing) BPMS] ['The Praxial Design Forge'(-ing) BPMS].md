@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the `['potential (energy)'(-ing) BPMS]` of the `['large model'(-ing) BPMS]`'s latent space into the `['kinetic (energy)'(-ing) BPMS]` of a `['Praxial Blueprint'(-ing) BPMS]`. It acts as the "Architect's Console," allowing external users to instantiate, refine, and deploy `[BPMS(U)]` elements through the `[design(-ing) BPMS]` process.
 - **Scope:** External Design Sprints, System Architecture Planning, Blueprint Generation, UX/UI Prototyping.
-- **Tags:** `#design #large model #design-forge #blueprint-genesis #praxial-architect #system-existence #disruptive-genesis`
+- **Tags:** `#design #large-model #design-forge #blueprint-genesis #praxial-architect #system-existence #disruptive-genesis`
 
 ------
 
@@ -162,3 +162,12 @@ To instantiate this Artifact in an external environment (e.g., a chat with an ar
 
 **Awaiting Kinetic Impulse...**
 ```
+
+### 7.Remark
+
+**BPMS means Behavior pattern/model/system**
+
+
+
+
+
