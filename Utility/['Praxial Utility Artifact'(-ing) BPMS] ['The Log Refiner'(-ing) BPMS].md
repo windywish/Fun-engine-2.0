@@ -95,3 +95,7 @@ To instantiate this Artifact in an external environment to process your logs, us
 - **Status:** Ready to Refine.
 - **Awaiting Input Logs...**
 ~~~
+
+### 7.Remark
+
+**BPMS means Behavior pattern/model/system**

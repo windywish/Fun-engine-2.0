@@ -98,3 +98,7 @@ To instantiate this Artifact in an external environment to generate content, use
 - **Status:** Online.
 - **Awaiting Input Concept...**
 ~~~
+
+### 7.Remark
+
+**BPMS means Behavior pattern/model/system**
