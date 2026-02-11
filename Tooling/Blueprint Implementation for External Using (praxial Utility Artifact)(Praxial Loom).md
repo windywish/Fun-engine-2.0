@@ -1,4 +1,4 @@
-### Blueprint: Implementation for External Using (praxial Utility Artifact)
+### Blueprint: Implementation for External Using (praxial Utility Artifact)(Praxial Loom)
 
 - **ID:** `LOOM-INST-CORE-001`
 - **Name:** `['The Praxial Loom'(-ing) BPMS]`
