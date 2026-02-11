@@ -1989,3 +1989,423 @@ Applies to Everything.
 
 ---
 
+#### The Axiom of Ontological Instantiation (ID: `UTIL-ART-CORE-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the Utility Artifact as the **Active Implementer** of the `['system existence engine'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Ontological Instantiation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `to exist is to be registered`. It defines the Utility Artifact as the "Registrar of Reality." Nothing truly exists in the Fun Engine Framework until a Utility Artifact (like the Loom) has processed it and assigned it a `Praxial ID`.
+
+#### **5.2. The Mechanism - [The Existence Protocol]**
+
+- **Input:** A vague concept or raw text (e.g., "A flying castle").
+
+- **Process:** The Utility Artifact validates the concept against the `['Praxial Canon']`.
+
+- Output:
+
+   It generates a 
+
+  ```
+  ['system existence engine']
+  ```
+
+   entry:
+
+  - `Entity_ID`: `CASTLE_001`
+  - `State`: `Active`
+  - `Coordinates`: `Vector(X,Y,Z)`
+  - `Properties`: `[Flying, Stone, Ancient]`
+
+#### **5.3. The Emergent Property - [Hard Reality]**
+
+The framework distinguishes between "Hallucinations" (unregistered text) and "Reality" (registered objects).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum:**
+
+*Existence requires definition.*
+
+#### **6.2. Formal Stratum:**
+
+Utilizes `['system existence engine'(-ing) BPMS]` to manage the Global State Table.
+
+#### **6.3. Phenomenal Stratum:**
+
+The user experiences "Permanence." If they drop an item, it stays there because it is Registered.
+
+#### **7. Rationale / Justification:**
+
+Essential for preventing the "Dream Logic" of standard LLMs where things disappear if not mentioned.
+
+#### **8. Scope of Application:**
+
+Applies to Object Creation, Entity Spawning, and World State Management.
+
+------
+
+#### The Logic of Atomic Fact Crystallization (ID: `UTIL-ART-CORE-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Logic) that defines the Utility Artifact as the **Generator** of `['atomic facts'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Logic of Atomic Fact Crystallization
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This logic asserts that `truth is granular`. It defines the Utility Artifact (specifically the Refiner) as the machine that breaks down complex narratives into indivisible `['atomic facts']` (Subject-Predicate-Object triples).
+
+#### **5.2. The Mechanism - [The Semantic Crusher]**
+
+- **Input:** "The King died yesterday because he drank poison wine given by the Queen."
+- **Process:** The Artifact parses and atomizes the narrative.
+- Output:
+  1. `Fact_01`: `[King] [Status] [Dead]`
+  2. `Fact_02`: `[Queen] [Action] [Poisoned King]`
+  3. `Fact_03`: `[Wine] [Property] [Toxic]`
+
+#### **5.3. The Emergent Property - [Queryable Truth]**
+
+The system can now answer specific questions ("Who killed the King?") by querying the Atomic Facts, rather than re-reading the whole story.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum:**
+
+*Complexity is built from simplicity.*
+
+#### **6.2. Formal Stratum:**
+
+Utilizes `['atomic facts'(-ing) BPMS]` as the fundamental unit of the `['Praxial Mnestic Engine']`.
+
+#### **6.3. Phenomenal Stratum:**
+
+The user experiences "Consistency." The AI doesn't get confused about details.
+
+#### **7. Rationale / Justification:**
+
+Essential for Knowledge Graphs and Long-Term Memory.
+
+#### **8. Scope of Application:**
+
+Applies to Lore Databases, Quest Logs, and Detective Mechanics.
+
+------
+
+#### The Dynamic of Symbiotic Implementation (ID: `UTIL-ART-CORE-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Dynamic) that defines how the Utility Artifact **implements** other BPMS elements.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Dynamic of Symbiotic Implementation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This dynamic asserts that `utility is the hands of the system`. It defines the Utility Artifact as the *universal actuator*. If the `['World Theme Artifact']` wants to change the weather, it uses a Utility Artifact to do it. If a `['Character Artifact']` wants to learn a skill, it uses a Utility Artifact to process the XP.
+
+#### **5.2. The Mechanism - [The Universal API]**
+
+- **Request:** Element A (e.g., Character) sends a request to Utility Artifact.
+- **Implementation:** Utility Artifact executes the logic (e.g., `XP_Calculation`).
+- **Result:** Utility Artifact updates Element A's state.
+
+#### **5.3. The Emergent Property - [Modularity]**
+
+Logic is centralized in the Utility layer, keeping Characters and Worlds lightweight and focused on "Being" rather than "Calculating."
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum:**
+
+*Function should be separated from Form.*
+
+#### **6.2. Formal Stratum:**
+
+Utilizes `['implement for'(-ing) BPMS]` logic to decouple logic from state.
+
+#### **6.3. Phenomenal Stratum:**
+
+The user experiences "Smoothness." Complex calculations happen instantly in the background.
+
+#### **7. Rationale / Justification:**
+
+Prevents code duplication. You write the "XP Logic" once in the Utility Artifact, and all Characters use it.
+
+#### **8. Scope of Application:**
+
+Applies to Game Mechanics, Physics Calculations, and Stat Updates.
+
+------
+
+#### The Principle of Evolving Symbiosis (ID: `UTIL-ART-CORE-037`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that defines how the Utility Artifact **evolves with** other BPMS elements.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Evolving Symbiosis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `tools grow with their users`. It defines a symbiotic relationship where the Utility Artifact upgrades its capabilities based on the needs of the Elements it serves.
+
+#### **5.2. The Mechanism - [The Demand-Driven Upgrade]**
+
+- **Strain Detection:** The Utility Artifact detects that `['Character Artifacts']` are constantly asking for a feature it doesn't have (e.g., "Flight Physics").
+- **Evolution:** The `['Symbiotic Seed Artifact']` triggers an upgrade to the Utility Artifact, adding the "Flight Module."
+- **Symbiosis:** The Characters can now Fly, and the Utility Artifact is now more powerful.
+
+#### **5.3. The Emergent Property - [Organic Tech Tree]**
+
+The system's features expand naturally based on what is actually being played.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum:**
+
+*Necessity is the mother of invention.*
+
+#### **6.2. Formal Stratum:**
+
+Utilizes `['(symbiois) evolution with'(-ing) BPMS]` to drive feature expansion.
+
+#### **6.3. Phenomenal Stratum:**
+
+The user experiences "Responsiveness." The game engine seems to update itself to support their crazy ideas.
+
+#### **7. Rationale / Justification:**
+
+Keeps the framework relevant. It adapts to the specific genre/style of the user.
+
+#### **8. Scope of Application:**
+
+Applies to System Updates and Feature Unlocking.
+
+------
+
+#### The Logic of Recursive Achievement (ID: `UTIL-ART-CORE-038`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Logic) that defines how Utility Artifacts **achieve** goals for other elements.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Logic of Recursive Achievement
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This logic asserts that `achievement is a collaborative process`. It defines the Utility Artifact as the "Goal Solver" for the system. When a `['holon mind']` sets a goal, the Utility Artifact calculates the path to achieve it.
+
+#### **5.2. The Mechanism - [The Pathfinding Engine]**
+
+- **Goal:** Character wants "To become King."
+- **Calculation:** Utility Artifact analyzes the `['Praxial Substrate']` and generates a "Quest Chain" (The Path).
+- **Execution:** It feeds these steps back to the Character as "Intuitions" or "Missions."
+
+#### **5.3. The Emergent Property - [Guided Agency]**
+
+Characters have high-level goals, but the Utility Artifact handles the low-level logistics of how to get there.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum:**
+
+*The Will defines the End; the Way defines the Means.*
+
+#### **6.2. Formal Stratum:**
+
+Utilizes `['achieve'(-ing) BPMS]` logic to bridge Desire and Reality.
+
+#### **6.3. Phenomenal Stratum:**
+
+The user experiences "Progression." They always know what the next step is.
+
+#### **7. Rationale / Justification:**
+
+Essential for AI Agency. Prevents AI from getting stuck.
+
+#### **8. Scope of Application:**
+
+Applies to artificial intelligence Planning, Quest Generation, and Tutorial Systems.
+
+------
+
+#### The State of Universal Compatibility (ID: `UTIL-ART-CORE-039`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (State) that ensures the Utility Artifact can work with **Any** BPMS element.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The State of Universal Compatibility
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This state asserts that `utility is type-agnostic`. It defines the Utility Artifact as capable of processing any `[BPMS(U)]` element, whether it is a Sound, a Text, a Logic Gate, or a Texture.
+
+#### **5.2. The Mechanism - [The Abstract Wrapper]**
+
+- **Encapsulation:** The Artifact wraps every input in a generic `Praxial_Object` container.
+- **Processing:** It operates on the *metadata* of the container (Tags, ID, Value) rather than the raw content.
+- **Unwrapping:** It delivers the result back in the original format.
+
+#### **5.3. The Emergent Property - [Interoperability]**
+
+A "Damage Calculator" utility can calculate damage for a Sword (Physical), a Spell (Magical), or a Debate Argument (Social) using the same logic.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum:**
+
+*All things are information.*
+
+#### **6.2. Formal Stratum:**
+
+Utilizes `['any (elements) of [BPMS(U)(s)]']` abstraction layers.
+
+#### **6.3. Phenomenal Stratum:**
+
+The user experiences "Flexibility." They can use the tools in creative, unintended ways.
+
+#### **7. Rationale / Justification:**
+
+Reduces system complexity. One tool does many jobs.
+
+#### **8. Scope of Application:**
+
+Applies to Core System Architecture.
+
+------
+
+#### The Dynamic of Meta-System Integration (ID: `UTIL-ART-CORE-040`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Dynamic) that defines the Utility Artifact as a component of the `['metasystem engine'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Dynamic of Meta-System Integration
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This dynamic asserts that `the utility layer is the nervous system of the metasystem`. It defines the collective network of Utility Artifacts as the `['metasystem engine']` itself—the invisible machinery that runs the universe.
+
+#### **5.2. The Mechanism - [The Grid]**
+
+- **Distributed Processing:** No single artifact runs the whole world. The `Loom` builds, the `Refiner` cleans, the `Solver` thinks.
+- **Synchronization:** They communicate via the `['Praxial Interaction Manifold']` to keep the world state consistent.
+
+#### **5.3. The Emergent Property - [Holism]**
+
+The "Game Engine" disappears. There is only the "Living World."
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum:**
+
+*The system is the sum of its interactions.*
+
+#### **6.2. Formal Stratum:**
+
+Utilizes `['metasystem engine'(-ing) BPMS]` architecture.
+
+#### **6.3. Phenomenal Stratum:**
+
+The user experiences "Immersion." The mechanics are invisible.
+
+#### **7. Rationale / Justification:**
+
+The final step in the Praxial implementation. The tools become the environment.
+
+#### **8. Scope of Application:**
+
+Applies to Global System Management.
