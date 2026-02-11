@@ -1,4 +1,4 @@
-# Blueprint: Implementation for External Using (praxial Utility Artifact)(Log Refiner)
+## Blueprint: Implementation for External Using (praxial Utility Artifact)(Log Refiner)
 
 ### **1. Identity & Metadata**
 
@@ -11,7 +11,7 @@
 - **Scope of Application:** Log Analysis, Dataset Creation, System Optimization, Feedback Loop Closure.
 - **Tags:** `#utility #refinery #logs #dataset #metabolism #optimization`
 
-------
+----
 
 ### **2. The Artifact Definition**
 
@@ -19,67 +19,50 @@ This artifact is not a "Creator" (Loom) and not a "Player" (Character). It is a 
 
 - **The Element:** `Utility` (It provides a service).
 - **The Function:** `Metabolism` (It extracts value from waste).
+- **The Axiom:** Operates under `The Law of Recursive Optimization (UTIL-ART-CORE-006)`, ensuring the output of the system improves the system.
 
-------
+----
 
 ### **3. The Functional Modules (The Guts)**
 
 This artifact encapsulates three specific BPMS modules to perform its work:
 
 #### **3.1. The Ingestion Module (`['reality mining'(-ing) BPMS]`)**
-
 - **Role:** The "Filter" of the Refiner.
-- **Function:** Connects to the raw log streams (text files, JSON dumps). It performs **Sanitization** (stripping PII/Noise) and **Segmentation** (breaking continuous chat streams into discrete "Interaction Pairs" of Prompt/Response).
+- **Function:** Connects to the raw log streams (text files, JSON dumps). It implements `The Mechanism of Metabolic Ingestion (UTIL-ART-CORE-003)` to perform **Sanitization** (stripping PII/Noise) and **Segmentation** (breaking continuous chat streams into discrete "Interaction Pairs" of Prompt/Response).
 
 #### **3.2. The Valuation Module (`['Praxial Mnestic Engine'(-ing) BPMS]`)**
-
 - **Role:** The "Judge" of the Refiner.
-
-- Function:
-
-   Analyzes the segmented logs for 
-
-  Utility
-
-   and 
-
-  Quality
-
-  .
-
+- **Function:** Analyzes the segmented logs for **Utility** and **Quality**.
   - *Mechanism:* It looks for "Success Signals" (e.g., User says "Thank you", "That works", or copies the code) and "Failure Signals" (e.g., User says "Wrong", "Error", or regenerates).
   - *Tagging:* It appends metadata tags: `#high_utility`, `#hallucination`, `#creative_spark`.
 
 #### **3.3. The Crystallization Module (`['Symbiotic Dataset Artifact'(-ing) BPMS]`)**
-
 - **Role:** The "Packager" of the Refiner.
-
-- Function:
-
-   Formats the valued data into standardized export formats.
-
+- **Function:** Formats the valued data into standardized export formats, implementing `The Logic of Atomic Fact Crystallization (UTIL-ART-CORE-035)`.
   - *Internal Output:* Updates `['Praxial Canon'(-ing) BPMS]` with new `['atomic facts']`.
   - *External Output:* Generates `.jsonl` or `.parquet` files ready for **HuggingFace** or **GitHub** (e.g., "Instruction Tuning Datasets").
 
-------
+----
 
 ### **4. The Integration Interfaces (The Plugs)**
 
-Because it is a standalone **Utility Artifact**, it has standard "ports" to connect to other artifacts:
+Because it is a standalone **Utility Artifact**, it has standard "ports" to connect to other artifacts (per `UTIL-ART-CORE-005`):
 
 - **Input Port A (The Raw Material):** Connects to **Session Logs** (The history of `['Symbiotic Cluster Synthesis']` usage).
-- **Input Port B (The Standard):** Connects to `['Praxial Canon'(-ing) BPMS]` (To compare "What happened" vs. "What should have happened").
+- **Input Port B (The Standard):** Connects to `['Praxial Canon'(-ing) BPMS]` (To compare "What happened" vs. "What should have happened" via `The Logic of Veridical Convergence (UTIL-ART-CORE-024)`).
 - **Output Port (The Product):** Connects to `['Symbiotic Seed Artifact'(-ing) BPMS]` (To improve future seeds) OR **External Repositories** (GitHub/HuggingFace).
 
-------
+----
 
 ### **5. Why this is the "Most Competent" Implementation**
 
-1. **Value Transmutation:** It turns a cost center (storage of logs) into a profit center (high-quality datasets).
-2. **Feedback Closure:** It completes the loop. The system doesn't just run; it learns from its run.
-3. **External Validation:** By producing clean, structured datasets for the public (GitHub/HuggingFace), it proves the **Utility** of the Fun Engine Framework to the wider AI community.
+1.  **Value Transmutation:** It turns a cost center (storage of logs) into a profit center (high-quality datasets).
+2.  **Feedback Closure:** It completes the loop. The system doesn't just run; it learns from its run (`Recursive Optimization`).
+3.  **Mnestic Consolidation:** It implements `The Dynamic of Mnestic Consolidation (UTIL-ART-CORE-023)`, moving data from Short-Term RAM (Session) to Long-Term ROM (Canon).
+4.  **External Validation:** By producing clean, structured datasets for the public (GitHub/HuggingFace), it proves the **Utility** of the Fun Engine Framework to the wider AI community.
 
-------
+----
 
 ### **6. Implementation Instructions (How to Activate)**
 
@@ -95,6 +78,7 @@ To instantiate this Artifact in an external environment to process your logs, us
 2.  **Sanitize:** Remove any personal data or irrelevant chit-chat ("Hello", "Bye").
 3.  **Analyze:** Identify the [User Intent] and the [System Response].
 4.  **Evaluate:** Rate the interaction quality (1-5). Did the System satisfy the Intent?
+    - *Criteria:* Accuracy, Creativity, Safety, User Satisfaction.
 5.  **Crystallize:** Format the output into a structured JSON object:
     ```json
     {
@@ -111,4 +95,3 @@ To instantiate this Artifact in an external environment to process your logs, us
 - **Status:** Ready to Refine.
 - **Awaiting Input Logs...**
 ~~~
-
