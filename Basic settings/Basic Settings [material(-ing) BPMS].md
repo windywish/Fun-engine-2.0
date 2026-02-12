@@ -2099,3 +2099,323 @@ Applies to artificial intelligence, base defense, and ecosystem simulation.
 
 ---
 
+#### The Protocol of Material Decision-Making (Behavioral Crystallization) (ID: `MATERIAL-CORE-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that implements `[(behavior) decision-making BPMS]` within the material substrate, allowing `[material(-ing) BPMS]` to act as the physical execution of system decisions.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Material Decision-Making
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Matter is the Final Decision**. A decision in the "Mind" (AI/Code) is virtual until it is executed by "Matter" (Physics/Animation).
+
+- **Virtual Decision:** AI decides "Attack Player."
+- **Material Execution:** The Sword *actually* swings.
+- **Symbiosis:** The material can *veto* or *modify* the decision based on its state. If the Sword is "Broken," the decision "Attack" fails or becomes "Fumble."
+- **Evolution:** Repeated decisions change the material. A shield used constantly to "Block" evolves into a "Tower Shield" (Behavior shapes Form).
+
+#### **5.2. The Mechanism - [The Impulse-Constraint Filter]**
+
+- **Input:** `Decision_Vector` from AI/User.
+- **Filter:** `Material_Constraint_Matrix` (Durability, Weight, Enchantment).
+- **Output:** `Realized_Event`.
+- **Feedback:** If `Realized_Event` differs from `Decision_Vector` (e.g., "I tried to run but I was too heavy"), the AI learns to adjust future decisions.
+
+#### **5.3. The Emergent Property - [Physical Agency]**
+
+The emergence of **Resistant Reality**. The world doesn't just obey; it negotiates. You can't just "decide" to fly; you need the material wings to support that decision.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `The Law of Embodied Dynamics` (MATERIAL-SUBSTRATE-CORE-007):** Dynamics are the realization of decisions.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Praxial Logic Engine'(-ing) BPMS]`: (PLE-ACT-003)** "The Law of Physical Consequence."
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-014)** "The Protocol of Embodied Edge Action."
+
+#### **7. Rationale / Justification:**
+
+To implement `[(behavior) decision-making BPMS]` as a material process. It ensures that "Thinking" and "Doing" are causally linked.
+
+#### **8. Scope of Application:**
+
+Applies to artificial intelligence movement, combat resolution, and physics interactions.
+
+------
+
+#### The Axiom of Event Sedimentation (History as Matter) (ID: `MATERIAL-CORE-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that implements `[event(-ing) BPMS]` as a material transformation, serving as the physical storage for `['atomic facts'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Event Sedimentation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Events Leave Scars**. An event is not just a timestamp in a log; it is a physical alteration of the world.
+
+- **Event:** "The Great Fire of 2025."
+- **Material Fact:** The "Charred Ruins" biome.
+- **Atomic Fact:** The specific `[Carbonized]` state of the wood blocks in that biome.
+- **Symbiosis:** The `[material(-ing) BPMS]` *is* the database of `['atomic facts'(-ing) BPMS]`. To know history, you don't query a SQL DB; you examine the strata of the rock.
+
+#### **5.2. The Mechanism - [The Chrono-Stratigraphy Algorithm]**
+
+- **Event Trigger:** Explosion at (x,y,z).
+- **Material Impact:** Apply `[Thermal_Shock]` to radius R.
+- **State Change:** Stone -> Magma -> Obsidian.
+- **Persistence:** The Obsidian *is* the record of the explosion.
+- **Verification:** `['Praxial Inquiry Artifact']` scans the Obsidian to reconstruct the Event.
+
+#### **5.3. The Emergent Property - [Environmental Storytelling]**
+
+The emergence of **Forensic Narrative**. Players can reconstruct the story of a dungeon just by looking at the damage patterns on the walls.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `The Law of Embodied Identity` (MATERIAL-SUBSTRATE-CORE-005):** Identity is the sum of past events.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Praxial Mnestic Engine'(-ing) BPMS]`: (PME-FACT-001)** "The Law of Material Evidence."
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `['atomic facts'(-ing) BPMS]`: (FACT-CORE-001)** "The Veridical Fact." Facts must be verifiable in matter.
+
+#### **7. Rationale / Justification:**
+
+To implement `[event(-ing) BPMS]` and `['atomic facts'(-ing) BPMS]`. It makes the game world the "Source of Truth."
+
+#### **8. Scope of Application:**
+
+Applies to world generation, dynamic destruction, and archaeology mechanics.
+
+------
+
+#### The Principle of Symbiotic Existence (System Existence Engine) (ID: `MATERIAL-CORE-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that establishes `[material(-ing) BPMS]` as the anchor for `['system existence engine'(-ing) BPMS]`, ensuring that no system exists without a material substrate.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Symbiotic Existence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that **No Hardware, No Software**. Abstract systems (Magic, Economy, Guilds) must be anchored in physical objects to exist.
+
+- **Abstract:** "The Guild of Thieves."
+- **Material Anchor:** The "Guild Hall" building and the "Signet Rings" worn by members.
+- **Existence Check:** If the Hall is burned and all Rings are melted, the Guild *ceases to exist* systemically.
+- **Symbiosis:** The Abstract System protects its Material Anchors (Guild members defend the Hall). The Material Anchors enable the Abstract System (The Hall grants buffs).
+
+#### **5.2. The Mechanism - [The Anchor-Link Dependency]**
+
+- **System Entity:** S.
+- **Material Anchors:** M1,M2,...Mn.
+- **Existence Function:** E(S)=f(∑Mi).
+- **Decay:** If Anchors are destroyed, E(S) drops. If E(S)<0, System S is garbage collected.
+
+#### **5.3. The Emergent Property - [Strategic Infrastructure]**
+
+The emergence of **Targetable Concepts**. You can kill an ideology by destroying its monuments. You can crash an economy by destroying its mint.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `The Law of Praxial Embodiment` (MATERIAL-SUBSTRATE-CORE-001):** Everything must be embodied.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Praxial Ontology Engine'(-ing) BPMS]`: (POE-EXIST-005)** "The Law of Substrate Dependence."
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `['system existence engine'(-ing) BPMS]`: (EXIST-CORE-001)** "The Material Anchor Requirement."
+
+#### **7. Rationale / Justification:**
+
+To implement `['system existence engine'(-ing) BPMS]`. It prevents "floating" systems that cannot be interacted with.
+
+#### **8. Scope of Application:**
+
+Applies to faction warfare, territory control, and magical rituals.
+
+------
+
+#### The Protocol of Universal Implementation (BPMS(U) Integration) (ID: `MATERIAL-CORE-037`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines how `[material(-ing) BPMS]` serves as the universal interface for *any* `[BPMS(U)(s)]` element.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Universal Implementation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Matter is the Universal API**. Any new BPMS module (e.g., `[music(-ing) BPMS]`, `[biology(-ing) BPMS]`) must implement a "Material Interface" to interact with the world.
+
+- **Input:** `[music(-ing) BPMS]` wants to play a song.
+- **Material Interface:** It must vibrate a `[Material_Air]` or `[Material_String]` object.
+- **Input:** `[biology(-ing) BPMS]` wants to grow.
+- **Material Interface:** It must consume `[Material_Nutrient]` and convert it to `[Material_Biomass]`.
+- **Symbiosis:** This ensures all modules are compatible because they all speak "Physics."
+
+#### **5.2. The Mechanism - [The Substrate Transduction Layer]**
+
+- **Module Request:** `Action(X)`.
+- **Transducer:** Converts `Action(X)` into `Force/State_Change` on `Substrate(Y)`.
+- **Validation:** If `Substrate(Y)` cannot support `Action(X)` (e.g., trying to play music in a vacuum), the action fails.
+
+#### **5.3. The Emergent Property - [Systemic Consistency]**
+
+The emergence of **Universal Logic**. Fire burns wood, whether that fire comes from a Spell (Magic BPMS), a Flamethrower (Tech BPMS), or a Dragon (Biology BPMS).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `The Law of Embodied Universality` (MATERIAL-SUBSTRATE-CORE-009):** Universality through substrate.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Praxial Architecture Engine'(-ing) BPMS]`: (PAE-INT-004)** "The Universal Material Bus."
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-029)** "The Recursive Implementation."
+
+#### **7. Rationale / Justification:**
+
+To implement `[BPMS(U)(s)]` integration. It ensures the Fun Engine Framework remains modular but cohesive.
+
+#### **8. Scope of Application:**
+
+Applies to modding API, cross-module interactions, and system stability.
+
+------
+
+#### The Law of Symbiotic Evolution (Material-System Loop) (ID: `MATERIAL-CORE-038`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that governs the reciprocal `['(symbiois) evolution'(-ing) BPMS]` between `[material(-ing) BPMS]` and the systems it implements.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Symbiotic Evolution
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **The Tool Shapes the User, and the User Shapes the Tool**.
+
+- **Forward Loop:** The System (User/artificial intelligence) shapes the Material (Crafting, Wear & Tear).
+- **Backward Loop:** The Material shapes the System (Affordances, Constraints).
+- Symbiosis:
+  - A civilization with "Stone" evolves "Static Defense" (Castles).
+  - A civilization with "Light Metal" evolves "Mobile Warfare" (Cavalry).
+  - The material availability *dictates* the evolution of the `['complex system'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Co-Evolutionary Genetic Algorithm]**
+
+- **Population:** `[Material_Types]` and `[Strategy_Types]`.
+- **Fitness Function:** Survival of the combined `[Material + Strategy]` pair.
+- **Selection:** Ineffective pairs (e.g., "Glass Armor" + "Tank Strategy") are wiped out.
+- **Result:** The world naturally converges on logical, material-appropriate cultures and behaviors.
+
+#### **5.3. The Emergent Property - [Material Determinism]**
+
+The emergence of **Geopolitics**. Nations fight over "Mithril" not just for stats, but because possessing it allows them to evolve a superior societal structure.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `The Principle of Ecological Resonance` (MATERIAL-CORE-010):** Resonance drives evolution.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Praxial Evolution Engine'(-ing) BPMS]`: (PEE-COEV-006)** "The Law of Reciprocal Shaping."
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `['Symbiotic Model Artifact'(-ing) BPMS]`: (MODEL-ART-CORE-007)** "Chrono-Symbiotic Evolution."
+
+#### **7. Rationale / Justification:**
+
+To implement `['(symbiois) evolution'(-ing) BPMS]` across all elements. It creates a deep, interconnected history for the game world.
+
+#### **8. Scope of Application:**
+
+Applies to civilization artificial intelligence, tech trees, and procedural history generation.
