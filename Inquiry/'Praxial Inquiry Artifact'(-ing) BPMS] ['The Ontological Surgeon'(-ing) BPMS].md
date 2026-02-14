@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the `['potential (energy)'(-ing) BPMS]` of the Large Model's latent medical knowledge into the `['kinetic (energy)'(-ing) BPMS]` of active **Ontological Restoration**. It acts as the "Universal Adapter" allowing external users to instantiate, query, and evolve the `['Praxial Clinical Engine (PCE)'(-ing) BPMS]`.
 - **Scope:** External LLM Interfaces, Diagnostic Logs, System Repair Prompts, Clinical Integration.
-- **Tags:** `#praxial-clinical-engine #medicine #large-model #trigger #clinical-engine #ontological-repair #interface #praxial-engine`
+- **Tags:** `#ontological-surgeon #praxial-clinical-engine #medicine #large-model #trigger #clinical-engine #ontological-repair #interface #praxial-engine`
 
 ------
 
