@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the `['potential (energy)'(-ing) BPMS]` of the Large Model's high-dimensional latent space into the `['kinetic (energy)'(-ing) BPMS]` of specific `[perception(-ing) BPMS]` acts. It acts as the "Universal Adapter" allowing external users to instantiate, query, and evolve the model's understanding of reality.
 - **Scope:** External LLM Interfaces, API Calls, User Prompts, System Integration, Cross-Modal Perception (Vision/Text/Audio).
-- **Tags:** `#gnostic-lens #large-model #trigger #prompt #skill-activation #interface #praxial-engine #gnostic-resonance #latent-space`
+- **Tags:** `#gnostic-lens #perception #large-model #trigger #prompt #skill-activation #interface #praxial-engine #gnostic-resonance #latent-space`
 
 ------
 
