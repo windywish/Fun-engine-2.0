@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the `['potential (energy)'(-ing) BPMS]` of the Large Model's latent space into the `['kinetic (energy)'(-ing) BPMS]` of realized Material Physics. It acts as the "Universal Adapter" allowing external users to instantiate, query, and evolve complex material substrates and physical laws.
 - **Scope:** External LLM Interfaces, Physics Engines, Crafting Systems, Material Science Simulation.
-- **Tags:** `#material #large-model #material-synthesis #physics-trigger #alchemy #praxial-matter #symbiotic-evolution`
+- **Tags:** `#alchemical-resonator #material #large-model #material-synthesis #physics-trigger #alchemy #praxial-matter #symbiotic-evolution`
 
 ------
 
@@ -164,3 +164,8 @@ To instantiate this Artifact in an external environment (e.g., a chat with an ar
 ### 7.Remark
 
 **BPMS means Behavior pattern/model/system**
+
+
+
+
+

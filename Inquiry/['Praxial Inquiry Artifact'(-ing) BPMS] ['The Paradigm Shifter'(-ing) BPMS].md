@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the `['potential (energy)'(-ing) BPMS]` of abstract `['large model'(-ing) BPMS]` latent space into the `['kinetic (energy)'(-ing) BPMS]` of concrete `['(technology) paradigm'(-ing) BPMS]` artifacts. It acts as the "Universal Adapter" allowing external users to instantiate, query, and evolve technological mechanisms from raw intelligence.
 - **Scope:** External LLM Interfaces, API Calls, User Prompts, System Integration, Technology Generation, Mechanism Design.
-- **Tags:** `#(technology)-paradigm-mechanism #large-model #trigger #prompt #skill-activation #interface #praxial-engine #paradigm-shift #mechanism-design`
+- **Tags:** `#paradigm-shifter #(technology)-paradigm-mechanism #large-model #trigger #prompt #skill-activation #interface #praxial-engine #paradigm-shift #mechanism-design`
 
 ------
 

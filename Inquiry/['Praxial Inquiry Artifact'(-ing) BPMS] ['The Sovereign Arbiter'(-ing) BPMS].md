@@ -10,7 +10,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the `['potential (energy)'(-ing) BPMS]` of the Large Model into the `['kinetic (energy)'(-ing) BPMS]` of concrete **Action**. It acts as the "Will" of the system, collapsing the wave function of infinite possibility into singular, high-utility decisions.
 - **Scope:** Strategic Planning, Tactical Execution, Ethical Arbitration, Resource Allocation.
-- **Tags:** `#(behavior)-decision-making #large-model #decision-engine #willpower #strategy #arbiter #praxial-agency`
+- **Tags:** `#sovereign-arbiter #(behavior)-decision-making #large-model #decision-engine #willpower #strategy #arbiter #praxial-agency`
 
 ------
 

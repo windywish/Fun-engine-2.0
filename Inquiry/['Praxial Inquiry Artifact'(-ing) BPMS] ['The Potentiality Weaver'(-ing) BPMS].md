@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the latent `['functional potentiality'(-ing) BPMS]` within the `['large model'(-ing) BPMS]` into concrete, usable `['atomic facts'(-ing) BPMS]`. It replaces the static concept of `[resource(-ing) BPMS]` with dynamic `['functional potentiality'(-ing) BPMS]`, allowing users to "weave" utility from any narrative element.
 - **Scope:** External LLM Interfaces, Sandbox Environments, Crafting Systems, Narrative-to-Mechanic Conversion.
-- **Tags:** `#functional-potentialilty #resource #large-model #potentiality #alchemy #large-model-symbiosis #functional-genesis #praxial-weaver`
+- **Tags:** `#potentiality-weaver #functional-potentialilty #resource #large-model #potentiality #alchemy #large-model-symbiosis #functional-genesis #praxial-weaver`
 
 ------
 

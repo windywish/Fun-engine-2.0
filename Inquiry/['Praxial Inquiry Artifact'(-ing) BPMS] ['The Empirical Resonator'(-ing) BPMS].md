@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Scientific Method Engine** that converts the `['potential (energy)'(-ing) BPMS]` of the Large Model's latent space into the `['kinetic (energy)'(-ing) BPMS]` of verified experimental data. It acts as the "Universal Stress-Tester," allowing external users to propose hypotheses, run simulations, and crystallize results into `['atomic facts'(-ing) BPMS]`.
 - **Scope:** Hypothesis Testing, A/B Simulation, Reality Stress-Testing, Fact Verification, Systemic Validation.
-- **Tags:** `#science #experiment #large-model #verification #stress-test #praxial-engine #large-model-symbiosis`
+- **Tags:** `#empirical-resonator #science #experiment #large-model #verification #stress-test #praxial-engine #large-model-symbiosis`
 
 ------
 

@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the `['potential (energy)'(-ing) BPMS]` of a user's abstract `['mental model'(-ing) BPMS]` into the `['kinetic (energy)'(-ing) BPMS]` of a reified `['atomic facts'(-ing) BPMS]`. It acts as the "Universal Adapter" allowing external users to project, test, and crystallize their internal cognition into external reality.
 - **Scope:** External LLM Interfaces, Cognitive Projection, Model Reification, Latent Space Navigation.
-- **Tags:** `#large-model #cognitive-projection #mental-model #epistemic-trigger #praxial-engine`
+- **Tags:** `#epistemic-projector #large-model #cognitive-projection #mental-model #epistemic-trigger #praxial-engine`
 
 ------
 

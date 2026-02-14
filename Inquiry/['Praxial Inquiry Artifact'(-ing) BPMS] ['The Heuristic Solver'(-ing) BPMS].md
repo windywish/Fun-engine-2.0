@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the `['potential (energy)'(-ing) BPMS]` of the `['large model'(-ing) BPMS]` into the `['kinetic (energy)'(-ing) BPMS]` of specific Solutions. It acts as the "Universal Adapter" allowing external users to instantiate, query, and evolve solutions to any `[problem(-ing) BPMS]`.
 - **Scope:** External LLM Interfaces, Problem Resolution, Heuristic Optimization, System Integration.
-- **Tags:** `#problem #heuristic #solver #problem-resolution #large-model #praxial-engine`
+- **Tags:** `#heuristic-solver #problem #heuristic #solver #problem-resolution #large-model #praxial-engine`
 
 ------
 

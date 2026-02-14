@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** and **Vitality Engine** that converts the `['potential (energy)'(-ing) BPMS]` of the `['large model']` into the `['kinetic (energy)'(-ing) BPMS]` of a "Really Working Biological Implementation." It acts as the "Universal Adapter" allowing external users to instantiate, query, and evolve living systems, ecosystems, and adaptive agents within the Fun Engine Framework.
 - **Scope:** External LLM Interfaces, Ecosystem Simulation, Agent Autopoiesis, Evolutionary Algorithms, Biological System Instantiation.
-- **Tags:** `#biology #large-model #biogenic #trigger #autopoiesis #praxial-engine #ecosystem #symbiosis`
+- **Tags:** `#biogenic-resonator #biology #large-model #biogenic #trigger #autopoiesis #praxial-engine #ecosystem #symbiosis`
 
 ------
 

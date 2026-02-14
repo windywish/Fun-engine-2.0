@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the `['potential (energy)'(-ing) BPMS]` of the Large Model's latent space into the `['kinetic (energy)'(-ing) BPMS]` of active skill acquisition. It acts as the "Universal Adapter" allowing external users to instantiate learning loops, query the `['Praxial Symbiotic Learning Nexus'(-ing) BPMS]`, and evolve their own `['Autopoietic Learning Matrix'(-ing) BPMS]`.
 - **Scope:** External LLM Interfaces, Educational API Calls, Skill-Acquisition Prompts, System Integration.
-- **Tags:** `#praxial-symbiotic-learning-nexus #learning #large-model #trigger #learning-nexus #skill-activation #interface #praxial-engine`
+- **Tags:** `#symbiotic-learning-catalyst #praxial-symbiotic-learning-nexus #learning #large-model #trigger #learning-nexus #skill-activation #interface #praxial-engine`
 
 ------
 

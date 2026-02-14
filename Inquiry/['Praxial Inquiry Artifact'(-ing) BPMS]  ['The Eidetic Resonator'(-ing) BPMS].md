@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Visual Trigger** that converts the latent `['potential (energy)'(-ing) BPMS]` of the Large Model's visual cortex into the `['kinetic (energy)'(-ing) BPMS]` of high-fidelity, semantically resonant imagery. It acts as the "Universal Visual Adapter," allowing external users to instantiate, query, and evolve visual qualia with precision exceeding standard "text-to-image" paradigms.
 - **Scope:** Visual Synthesis, Image Manipulation, Style Transfer, Semantic Editing, Cross-Modal Transduction.
-- **Tags:** `#image #large-model #visual-synthesis #eidetic-resonance #nano-banana-transcendence #praxial-image-engine`
+- **Tags:** `#eidetic-resonator #image #large-model #visual-synthesis #eidetic-resonance #nano-banana-transcendence #praxial-image-engine`
 
 ------
 

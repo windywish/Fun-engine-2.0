@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Ludic Transmutation Engine** that converts the `[entropy(-ing) BPMS]` (friction/effort) of external tasks into `[meaning(-ing) BPMS]` (gameplay/reward). It acts as a "Dungeon Master Interface" that allows external users to instantiate a "Magic Circle" around any activity, using the `['large model'(-ing) BPMS]` to procedurally generate context, lore, and mechanics on the fly.
 - **Scope:** External Task Management, Educational Tools, Productivity Systems, Creative Writing, API-driven Gamification Layers.
-- **Tags:** `#game #gamification #large-model #flow-state #dungeon-master #reality-transmutation #praxial-engine`
+- **Tags:** `#ludic-resonator #game #gamification #large-model #flow-state #dungeon-master #reality-transmutation #praxial-engine`
 
 ------
 

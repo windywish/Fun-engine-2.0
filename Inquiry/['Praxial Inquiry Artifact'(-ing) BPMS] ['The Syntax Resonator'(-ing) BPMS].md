@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the `['potential (energy)'(-ing) BPMS]` of the Large Model's latent code knowledge into the `['kinetic (energy)'(-ing) BPMS]` of executable software. It acts as the "Universal Adapter" allowing external users to instantiate, debug, and evolve `[code(-ing) BPMS]` structures.
 - **Scope:** Software Architecture, Algorithmic Logic, Code Generation, System Debugging, API Integration.
-- **Tags:** `#code #large-model #trigger #code-gen #syntax-logic #praxial-executor #dev-ops`
+- **Tags:** `#syntax-resonator #code #large-model #trigger #code-gen #syntax-logic #praxial-executor #dev-ops`
 
 ------
 

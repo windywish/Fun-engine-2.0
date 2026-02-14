@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Universal Adapter** and **Orchestration Engine** that converts the `['potential (energy)'(-ing) BPMS]` of external tools and modules into the `['kinetic (energy)'(-ing) BPMS]` of integrated system capabilities. It acts as the "Socket" that allows the Large Model to extend its agency into the external world via Plug-ins.
 - **Scope:** Tool Use, API Integration, Capability Extension, Modular Orchestration, Contextual Activation.
-- **Tags:** `#plug-in #add-on #large-model #plugin #addon #integration #tool-use #orchestration #praxial-engine #modular-symbiosis`
+- **Tags:** `#modular-integrator #plug-in #add-on #large-model #plugin #addon #integration #tool-use #orchestration #praxial-engine #modular-symbiosis`
 
 ------
 

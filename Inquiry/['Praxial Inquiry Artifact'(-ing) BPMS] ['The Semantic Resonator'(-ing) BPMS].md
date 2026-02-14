@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the `['potential (energy)'(-ing) BPMS]` of the Large Model's linguistic capabilities into the `['kinetic (energy)'(-ing) BPMS]` of **Ontological Construction**. It acts as the "Universal Transducer" allowing external users to define, translate, and instantiate reality through the `['Praxial Universal Language Engine (PULE)'(-ing) BPMS]`.
 - **Scope:** Universal Translation, Ontology Generation, Semantic Transduction, Neologism Synthesis, Cross-Domain Mapping.
-- **Tags:** `#praxial-universal-langauge-engine #large-model #trigger #pule #semantics #ontology #transduction #language-engine`
+- **Tags:** `#semantic-resonator #praxial-universal-langauge-engine #large-model #trigger #pule #semantics #ontology #transduction #language-engine`
 
 ------
 

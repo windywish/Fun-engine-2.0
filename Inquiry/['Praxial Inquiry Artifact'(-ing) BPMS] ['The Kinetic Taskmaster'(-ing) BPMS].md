@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the `['potential (energy)'(-ing) BPMS]` of the Large Model's latent space into the `['kinetic (energy)'(-ing) BPMS]` of executed `[task(-ing) BPMS]`. It acts as the "Universal Adapter" allowing external users to instantiate, query, and evolve Tasks within the Fun Engine Framework.
 - **Scope:** External LLM Interfaces, Task Execution Logs, User Prompts, System Integration.
-- **Tags:** `#task #large-model #trigger #task-engine #skill-activation #interface #praxial-engine`
+- **Tags:** `#kinetic-taskmaster #task #large-model #trigger #task-engine #skill-activation #interface #praxial-engine`
 
 ------
 

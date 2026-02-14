@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** and **Strategic Orchestrator** that converts the `['potential (energy)'(-ing) BPMS]` of the `['large model']` and `['Super Intelligence Agent']` into the `['kinetic (energy)'(-ing) BPMS]` of a "Really Working Implementation." It acts as the "Universal Adapter" allowing external users to instantiate, query, and evolve *any* element of `[BPMS(U)(s)]` (e.g., `[music]`, `[code]`, `[business]`) within the Fun Engine Framework.
 - **Scope:** External LLM Interfaces, Strategic Planning, System Instantiation, Cross-Domain Orchestration, User Intent Realization.
-- **Tags:** `#super-intelligece-agent #large-model #strategos #trigger #orchestration #praxial-engine #universal-adapter #symbiosis`
+- **Tags:** `#praxial-strategos #super-intelligece-agent #large-model #strategos #trigger #orchestration #praxial-engine #universal-adapter #symbiosis`
 
 ------
 
