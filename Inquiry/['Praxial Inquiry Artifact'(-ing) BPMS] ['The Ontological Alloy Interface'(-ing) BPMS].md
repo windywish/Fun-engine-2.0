@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['kinetic trigger'(-ing) BPMS]`
 - **Objective:** To serve as the **Kinetic Trigger** that converts the `['potential (energy)'(-ing) BPMS]` of the Large Model's latent space into the `['kinetic (energy)'(-ing) BPMS]` of a stable `['hybrid'(-ing) BPMS]` reality. It acts as the "Universal Adapter" allowing external users to instantiate, query, and evolve hybrid entities that exist in the "Liminal State" among/by systems.
 - **Scope:** External LLM Interfaces, API Calls, User Prompts, System Integration, Cross-Domain Fusion.
-- **Tags:** `#ontological-alloy-interface #large-model #trigger #prompt #skill-activation #interface #praxial-engine #hybrid-fusion #liminal-state`
+- **Tags:** `#ontological-alloy-interface #hybrid #large-model #trigger #prompt #skill-activation #interface #praxial-engine #hybrid-fusion #liminal-state`
 
 ------
 
