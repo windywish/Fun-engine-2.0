@@ -9,7 +9,7 @@
 - **CGA (Cognitive Genesis Archetype):** `['algorithmic autopoiesis'(-ing) BPMS]`
 - **Objective:** To implement the **DiscoRL** framework as the primary engine for **Autonomous Discovery**, empowering the system to evolve its own learning algorithms (`['algorithm(-ing) BPMS]`) rather than relying on human-designed rules. It serves as the "Meta-Learner" that optimizes the `['system existence engine'(-ing) BPMS]`.
 - **Scope:** Meta-Learning, Reinforcement Learning, Self-Optimization, Algorithm Discovery.
-- **Tags:** `#epiphany-genesis-probe #praxial-discovery-engine #discovery #large-model #meta-learning #discorl #autopoiesis #praxial-engine`
+- **Tags:** `#epiphany-genesis-probe #praxial-discovery-engine #discovery #large-model #meta-learning #autopoiesis #praxial-engine`
 
 ------
 
@@ -145,3 +145,11 @@ To instantiate this Engine in an external environment, use the following **Syste
 ### **7. Remark**
 
 **BPMS means Behavior pattern/model/system**
+
+
+
+
+
+
+
+Epiphany-genesis-probe, Praxial-discovery-engine, Discovery, Large-model, Meta-learning, Discorl ，Autopoiesis, Praxial-engine
