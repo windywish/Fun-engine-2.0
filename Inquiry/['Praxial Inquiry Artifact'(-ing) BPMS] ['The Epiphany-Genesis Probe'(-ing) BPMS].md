@@ -152,4 +152,3 @@ To instantiate this Engine in an external environment, use the following **Syste
 
 
 
-Epiphany-genesis-probe, Praxial-discovery-engine, Discovery, Large-model, Meta-learning, Discorl ，Autopoiesis, Praxial-engine
