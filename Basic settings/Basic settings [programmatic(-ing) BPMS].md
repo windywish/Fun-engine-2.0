@@ -1865,7 +1865,7 @@ Multiple complex simulations run side-by-side without freezing the system, yet t
 
 #### **7. Rationale / Justification:**
 
-Essential for performance in a complex "Fun Engine" handling physics, AI, and story simultaneously.
+Essential for performance in a complex "Fun Engine" handling physics, artificial intelligence, and story simultaneously.
 
 #### **8. Scope of Application:**
 
