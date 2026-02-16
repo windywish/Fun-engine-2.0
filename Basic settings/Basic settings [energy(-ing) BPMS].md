@@ -1238,3 +1238,1696 @@ Party buffs, alliance systems, and pet/companion mechanics.
 
 ---
 
+#### The Law of Metabolic Consciousness (ID: `ENERGY-CORE-027`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that defines **`conscious(-ing)`** as a high-energy **`metabolic state`**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Metabolic Consciousness
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `awareness costs calories`. **`Conscious(-ing)`** is not a passive state; it is the active, high-frequency processing of **`[energy BPMS]`** (Information) through the **`entropic scaffold`**. When an entity "wakes up" (becomes conscious), its energy consumption spikes. The **`system`** treats consciousness as a "Turbo Mode" for **`praxial cognition`**—powerful, but expensive.
+
+#### **5.2. The Mechanism - [The Awareness Tax]**
+
+- **The Sleep State:** Low Energy Cost. Automatic behaviors (Breathing, Idle Animation).
+- **The Wake State:** High Energy Cost. Complex decision making, sensory processing.
+- **The Focus:** "Concentration" (Hyper-Consciousness) drains energy rapidly (Stamina Bar).
+- **The Limit:** When Energy < Threshold, Consciousness fails (Fainting/Sleep).
+
+#### **5.3. The Emergent Property - [Lucidity]**
+
+The world is brightest when you burn the hottest.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To see is to spend.* (Ref: `ENERGY-CORE-011`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[neuroscience(-ing) BPMS]`: (Brain Metabolism)** The brain consumes 20% of the body's energy.
+- **If `[computing(-ing) BPMS]`: (Active Process)** Background vs. Foreground processes.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Alertness." The buzzing of high-voltage thought.
+
+#### **7. Rationale / Justification:**
+
+Balances the power of artificial intelligence and player attention.
+
+#### **8. Scope of Application:**
+
+Stamina systems, artificial intelligence wake/sleep cycles, and focus mechanics.
+
+------
+
+#### The Axiom of Service Stability (ID: `ENERGY-CORE-028`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **`services`** as low-entropy, high-efficiency **`energy loops`**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Service Stability
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `a service is a solved problem`. **`Services`** (e.g., a Shop, a Guard, a Healer) are **`energy`** transactions that have been optimized to minimize waste. They are "crystallized" behaviors. The **`system`** encourages the formation of Services because they provide the stable **`energy`** infrastructure (The Grid) upon which **`play`** can happen.
+
+#### **5.2. The Mechanism - [The Transactional Standardization]**
+
+- **The Chaos:** Bartering with random strangers (High Friction/Risk).
+- **The Service:** "Potion Shop." Fixed Price. Instant Transaction.
+- **The Efficiency:** Low cognitive load for both parties. High throughput.
+- **The Evolution:** Successful Services become "Institutions" (Banks, Guilds).
+
+#### **5.3. The Emergent Property - [Civilization]**
+
+The background hum of a working society.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Order is the platform for chaos.* (Ref: `ENERGY-CORE-007`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[economics(-ing) BPMS]`: (Institutions)** Reducing transaction costs.
+- **If `[software(-ing) BPMS]`: (API)** Standardized interface for services.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Convenience." "I know exactly where to get a sword."
+
+#### **7. Rationale / Justification:**
+
+The backbone of the economy and NPC roles.
+
+#### **8. Scope of Application:**
+
+Shopkeepers, guards, transport systems, and automated crafting.
+
+------
+
+#### The Axiom of Ludic Expenditure (ID: `ENERGY-CORE-029`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **`play`** as the **`adaptive`** expenditure of **`surplus energy`**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Ludic Expenditure
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `play is the luxury of the living`. **`Play`** is what you do when you are not dying. It is the **`disruptive`**, high-entropy expenditure of **`[energy BPMS]`** to test boundaries, learn skills, and generate **`fun`**. The **`system`** requires Play to prevent stagnation (Heat Death). Play injects noise and novelty into the **`system matrix`**.
+
+#### **5.2. The Mechanism - [The Sandbox Protocol]**
+
+- **The Surplus:** Agent is safe and fed.
+- **The Action:** "I bet I can jump that gap." (High Risk, Zero Utility).
+- **The Result:** Success -> "Cool!" (Dopamine/XP). Failure -> "Ouch." (Damage).
+- **The Learning:** The agent learns physics limits through Play.
+
+#### **5.3. The Emergent Property - [Joy]**
+
+The feeling of wasting energy just because you can.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*We play to learn how to live.* (Ref: `LOGIC-CORE-022`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[biology(-ing) BPMS]`: (Surplus Energy Theory)** Herbert Spencer. Play is burning off excess energy.
+- **If `['game design'(-ing) BPMS]`: (Intrinsic Motivation)** Doing things for their own sake.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Freedom." The absence of necessity.
+
+#### **7. Rationale / Justification:**
+
+The core of the "Fun Engine."
+
+#### **8. Scope of Application:**
+
+Minigames, exploration, combat (for sport), and social emotes.
+
+------
+
+#### The Law of Dual-Mode Evolution (ID: `ENERGY-CORE-030`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that governs the **`(symbiosis) evolution`** of **`fast mode`** and **`slow mode`** systems based on **`energy`** cost.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Dual-Mode Evolution
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `speed evolves fast; structure evolves slow`.
+
+- **`[fast mode BPMS]` (Tactics):** Low Energy Cost to change. Evolves rapidly (e.g., changing weapons).
+- **`[slow mode BPMS]` (Strategy/Biology):** High Energy Cost to change. Evolves slowly (e.g., growing a new limb). The **`system`** balances these to create a world that is both **`adaptive`** (Fast) and **`robust`** (Slow).
+
+#### **5.2. The Mechanism - [The Evolutionary Gearbox]**
+
+- **The Stimulus:** "Ice Age."
+- **The Fast Response:** Put on a coat. (Cheap, Reversible).
+- **The Slow Response:** Grow fur. (Expensive, Permanent).
+- **The Symbiosis:** Fast Mode buys time for Slow Mode to catch up.
+
+#### **5.3. The Emergent Property - [Resilience]**
+
+The system bends before it breaks.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The leaf flutters; the root holds.* (Ref: `LOGIC-CORE-018`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[biology(-ing) BPMS]`: (Phenotypic Plasticity vs. Genotypic Change)** Acclimatization vs. Evolution.
+- **If `[cybernetics(-ing) BPMS]`: (Control Theory)** Fast loops (Reflex) vs. Slow loops (Planning).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Growth." The slow hardening of temporary habits into permanent traits.
+
+#### **7. Rationale / Justification:**
+
+Realistic character progression and world evolution.
+
+#### **8. Scope of Application:**
+
+Skill trees, civilization tech trees, and biological evolution.
+
+------
+
+#### The Axiom of Renormalization Universality (ID: `ENERGY-CORE-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that uses **`renormalization group`** theory to define **`universality (class)`** behaviors across **`micro`** and **`macro`** scales.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Renormalization Universality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the macro is the micro writ large`. The physics of a single agent (Micro) and the physics of a nation (Macro) are governed by the same **`energy`** laws, just at different scales. The **`system`** uses **`renormalization`** to group these behaviors into **`universality classes`**. A "Market Crash" is just a "Panic Attack" at scale.
+
+#### **5.2. The Mechanism - [The Scale-Invariant Logic]**
+
+- **Micro:** Agent runs out of energy -> Dies.
+- **Macro:** Empire runs out of resources -> Collapses.
+- **The Class:** "Resource Depletion Cascade."
+- **The Prediction:** By studying the Agent, we can predict the Empire.
+
+#### **5.3. The Emergent Property - [Fractal Reality]**
+
+The patterns of the world repeat at every level of zoom.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*As above, so below.* (Ref: `LOGIC-CORE-020`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[physics(-ing) BPMS]`: (Renormalization Group)** Extracting relevant features at large scales.
+- **If `[complexity science(-ing) BPMS]`: (Power Laws)** Scale-free networks.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Familiarity." "I understand this war because I understand a fistfight."
+
+#### **7. Rationale / Justification:**
+
+Allows for massive simulation scale without massive compute cost.
+
+#### **8. Scope of Application:**
+
+Simulation LOD (Level of Detail), economy modeling, and historical generation.
+
+------
+
+#### The Law of Implicit-Explicit Energy Exchange (ID: `ENERGY-CORE-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that governs the **`energy`** exchange among/by the **`implicit layer`** (Potential/Culture) and the **`explicit layer`** (Kinetic/Code).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Implicit-Explicit Energy Exchange
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `culture fuels code; code structures culture`.
+
+- **Implicit -> Explicit:** "Belief" (Implicit Energy) is converted into "Law" (Explicit Structure). This costs energy (Codification).
+- **Explicit -> Implicit:** "Law" (Explicit Structure) guides "Behavior" (Implicit Energy). This saves energy (Habit). The **`system`** constantly cycles energy between these two states to maintain **`closure`**.
+
+#### **5.2. The Mechanism - [The Crystallization Cycle]**
+
+- **The Implicit:** People start walking a certain path across the grass.
+- **The Investment:** City Council pays Gold (Energy) to pave it.
+- **The Explicit:** It is now a "Road."
+- **The Return:** Walking is now faster (Energy Saved).
+
+#### **5.3. The Emergent Property - [Tradition]**
+
+The accumulated wisdom of the past, frozen in structure.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The path is made by walking.* (Ref: `LOGIC-CORE-019`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[sociology(-ing) BPMS]`: (Social Construction of Reality)** Berger and Luckmann.
+- **If `[software(-ing) BPMS]`: (Refactoring)** Turning messy code into clean libraries.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Culture." The invisible rules that guide action.
+
+#### **7. Rationale / Justification:**
+
+The engine of cultural evolution and lawmaking.
+
+#### **8. Scope of Application:**
+
+Reputation systems, law systems, and dynamic terrain modification.
+
+------
+
+#### The Axiom of Emergent Discovery (ID: `ENERGY-CORE-033`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **`(discover/build) unknown`** as the **`emergent`** result of **`edge action`**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Emergent Discovery
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the edge is where the energy is`. The **`unknown`** is a high-potential, high-risk zone. **`Edge action`** (exploring the unknown) is the process of converting that Potential Energy into Kinetic Reality (**`atomic facts`**). The **`system`** rewards this conversion, making **`discovery`** a profitable **`energy`** strategy.
+
+#### **5.2. The Mechanism - [The Fog of War Economy]**
+
+- **The Unknown:** "Here be Dragons." (High Potential / High Threat).
+- **The Edge Action:** Hero enters the zone.
+- **The Collapse:** The Unknown becomes "Dragon's Lair" (Fact).
+- **The Reward:** Hero gets Loot (Energy) + XP (Information).
+
+#### **5.3. The Emergent Property - [Expansion]**
+
+The known world constantly grows into the unknown.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Light eats the dark.* (Ref: `LOGIC-CORE-024`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[quantum physics(-ing) BPMS]`: (Measurement)** Collapsing the wave function.
+- **If `[exploration(-ing) BPMS]`: (Frontier Thesis)** The frontier drives development.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Wonder." The thrill of the reveal.
+
+#### **7. Rationale / Justification:**
+
+The core loop of exploration games.
+
+#### **8. Scope of Application:**
+
+Map generation, fog of war, and secret discovery.
+
+------
+
+#### The Law of Embodied Resilience (ID: `ENERGY-CORE-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that defines **`resilience`** as the capacity of **`embodied intelligence`** to buffer **`energy`** shocks.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Embodied Resilience
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `a body is a battery`. **`Embodied intelligence`** is not just software; it is hardware (Body/Scaffold) that can store **`[energy BPMS]`** (Fat/Mana/HP). This storage allows the agent to survive "Shocks" (Damage/Famine) that would destroy a disembodied system. **`Resilience`** is the size of this buffer. **`Robustness`** is the strength of the scaffold.
+
+#### **5.2. The Mechanism - [The Buffer Tank]**
+
+- **The Shock:** "Fireball hits for 50 Damage."
+- **The Buffer:** Agent has 100 HP.
+- **The Result:** Agent survives with 50 HP. (Resilient).
+- **The Recovery:** Agent eats/rests to recharge the Buffer.
+- **The Failure:** If Shock > Buffer, System Crash (Death).
+
+#### **5.3. The Emergent Property - [Grit]**
+
+The ability to take a hit and keep moving.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To live is to endure.* (Ref: `LOGIC-CORE-023`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[engineering(-ing) BPMS]`: (Safety Factor)** Building stronger than necessary.
+- **If `[biology(-ing) BPMS]`: (Homeostasis)** Maintaining stability despite external fluctuation.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Pain." The signal that the buffer is being depleted.
+
+#### **7. Rationale / Justification:**
+
+The basis of health systems and survival mechanics.
+
+#### **8. Scope of Application:**
+
+HP, armor, resistance, and hunger mechanics.
+
+---
+
+#### The Axiom of Energetic Existence (ID: `ENERGY-CORE-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that establishes **`[energy BPMS]`** as the fundamental condition for the **`['system existence engine'(-ing) BPMS]`**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Energetic Existence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `to exist is to burn`. The **`['system existence engine'(-ing) BPMS]`** does not check for a boolean flag `isAlive = true`. Instead, it checks for `Energy > 0`. Every entity, from a single **`atomic fact`** to a complex **`holonic mind`**, has a maintenance cost (Entropy). If it cannot pay this cost (Metabolism), the System garbage collects it. Thus, **Existence** is an active, ongoing process of energy acquisition, not a static state.
+
+#### **5.2. The Mechanism - [The Existence Check]**
+
+- **The Entity:** "Ancient Ruins."
+- **The Cost:** 1 Energy/Year (Weathering).
+- **The Payment:** 0 Energy (No one visits/maintains it).
+- **The Result:** Ruins crumble -> "Dust." (Existence Ceased).
+- **The Entity:** "Active Temple."
+- **The Payment:** 100 Energy/Year (Worshippers).
+- **The Result:** Temple stands. (Existence Maintained).
+
+#### **5.3. The Emergent Property - [Mortality]**
+
+Nothing lasts forever unless it is fed.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Existence is a subscription service, not a one-time purchase.* (Ref: `META-001`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[thermodynamics(-ing) BPMS]`: (Dissipative Structures)** Prigogine. Life exists by dissipating energy.
+- **If `[computer science(-ing) BPMS]`: (Garbage Collection)** Removing objects with no references (Energy).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Hunger." The primal drive to continue existing.
+
+#### **7. Rationale / Justification:**
+
+The fundamental logic of the simulation's lifecycle management.
+
+#### **8. Scope of Application:**
+
+Decay mechanics, hunger/thirst, building maintenance, and memory culling.
+
+------
+
+#### The Protocol of Atomic Binding (ID: `ENERGY-CORE-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines **`['atomic facts'(-ing) BPMS]`** as stable configurations of bound **`energy`**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Atomic Binding
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `a fact is frozen energy`. An **`atomic fact`** (e.g., "The sword is sharp") is not just data; it is a low-entropy state that required work to create (Sharpening) and requires work to change (Dulling). The **`system`** treats Facts as "Energy Wells." To change a Fact (e.g., break the sword), an agent must input **`energy`** greater than the **`binding energy`** of the Fact.
+
+#### **5.2. The Mechanism - [The Fact Mutation Cost]**
+
+- **The Fact:** "Door is Locked." (Binding Energy: 50).
+- **The Action:** "Kick Door." (Input Energy: 30).
+- **The Result:** 30 < 50. Door remains Locked. Agent takes recoil damage.
+- **The Action:** "Battering Ram." (Input Energy: 100).
+- **The Result:** 100 > 50. Fact Mutates -> "Door is Broken."
+
+#### **5.3. The Emergent Property - [Solidity]**
+
+The world resists change. This resistance makes it feel real.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Truth has weight.* (Ref: `LOGIC-CORE-009`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[physics(-ing) BPMS]`: (Binding Energy)** Energy required to disassemble a nucleus.
+- **If `[cryptography(-ing) BPMS]`: (Proof of Work)** Energy required to validate a block.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Effort." The struggle to change the world.
+
+#### **7. Rationale / Justification:**
+
+Prevents arbitrary world changes and gives weight to player actions.
+
+#### **8. Scope of Application:**
+
+Destruction physics, crafting difficulty, and lockpicking/hacking mechanics.
+
+------
+
+#### The Law of Symbiotic Exchange (ID: `ENERGY-CORE-037`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that governs **`['(symbiosis) evolution'(-ing) BPMS]`** through the exchange of **`energy`** packets.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Symbiotic Exchange
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `symbiosis is an energy contract`. Two elements of **`[BPMS(U)(s)]`** (e.g., a Player and a Sword, or a Fungus and a Tree) enter a symbiotic relationship only if the **`energy`** exchange is mutually beneficial (Positive Sum). The **`system`** facilitates these exchanges by creating "Channels" (Bonds) that reduce the **`entropy`** (Loss) of transfer.
+
+#### **5.2. The Mechanism - [The Bond Efficiency]**
+
+- **Entity A (Warrior):** Has Kinetic Energy (Muscle). Needs Cutting Power.
+- **Entity B (Sword):** Has Structural Energy (Sharpness). Needs Kinetic Input.
+- **The Bond:** Warrior wields Sword.
+- **The Exchange:** Warrior inputs Kinetic -> Sword outputs Damage.
+- **The Symbiosis:** Warrior kills faster (Saves Energy). Sword fulfills purpose (Maintains Existence).
+
+#### **5.3. The Emergent Property - [Synergy]**
+
+The whole is greater than the sum of its parts because the parts feed each other.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Trade is the engine of peace.* (Ref: `ENERGY-CORE-026`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[biology(-ing) BPMS]`: (Mutualism)** Clownfish and Anemone.
+- **If `[economics(-ing) BPMS]`: (Comparative Advantage)** Ricardo. Trade benefits both parties.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Harmony." The feeling of a perfect fit.
+
+#### **7. Rationale / Justification:**
+
+The basis of equipment systems, pet classes, and cooperative multiplayer.
+
+#### **8. Scope of Application:**
+
+Item bonding, party mechanics, and ecosystem simulation.
+
+------
+
+#### The Axiom of Trophic Cascades (ID: `ENERGY-CORE-038`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how **`energy`** flows through the **`['system existence engine'(-ing) BPMS]`** in hierarchical layers (Trophic Levels).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Trophic Cascades
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `energy flows downhill, but control flows uphill`.
+
+- **Bottom-Up (Energy):** Sun -> Grass -> Deer -> Wolf. (Energy supports the predator).
+- **Top-Down (Control):** Wolf eats Deer -> Grass grows back. (Predator controls the ecosystem). The **`system`** models these **`trophic cascades`** to ensure **`ecological possibility`**. If you remove the Wolf (Top), the Deer overpopulate and destroy the Grass (Bottom), causing System Collapse.
+
+#### **5.2. The Mechanism - [The Keystone Regulator]**
+
+- **The Event:** Player kills all Wolves.
+- **The Cascade:** Deer population explodes (Unchecked Energy).
+- **The Crash:** Grass is depleted (Energy Source Exhausted).
+- **The Extinction:** Deer starve. The zone becomes a desert.
+
+#### **5.3. The Emergent Property - [Balance]**
+
+Nature is a self-correcting equation, provided the variables remain within bounds.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The king eats the peasant, but the peasant feeds the king.* (Ref: `META-006`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[ecology(-ing) BPMS]`: (Trophic Cascade)** Yellowstone Wolves.
+- **If `['systems theory'(-ing) BPMS]`: (Feedback Loops)** Positive vs. Negative feedback.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Consequence." "I killed the dragon, and now the rats are everywhere."
+
+#### **7. Rationale / Justification:**
+
+Creates a reactive, living world where player actions have ecological weight.
+
+#### **8. Scope of Application:**
+
+Mob spawning logic, ecosystem simulation, and quest consequences.
+
+------
+
+#### The Protocol of Energetic Renormalization (ID: `ENERGY-CORE-039`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that allows the **`['system existence engine'(-ing) BPMS]`** to compress **`micro`** energy states into **`macro`** **`atomic facts`**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Energetic Renormalization
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `detail is expensive; summary is cheap`. To save processing power (System Energy), the **`system`** constantly **`renormalizes`** complex micro-states into simple macro-facts.
+
+- **Micro:** 1000 individual soldiers fighting (High Cost).
+- **Renormalization:** "Army A is fighting Army B."
+- **Macro:** "Army A wins." (Low Cost Fact). This allows the **`system`** to simulate vast worlds by only rendering the **`micro`** when an observer (Player) is close (LOD).
+
+#### **5.2. The Mechanism - [The LOD Collapse]**
+
+- **The Observer:** Far away.
+- **The State:** "Forest." (1 Atomic Fact).
+- **The Observer:** Approaches.
+- **The Expansion:** "Forest" -> 1000 "Trees." (1000 Atomic Facts).
+- **The Interaction:** Chops 1 Tree.
+- **The Renormalization:** Observer leaves. State -> "Forest (99.9% Health)."
+
+#### **5.3. The Emergent Property - [Infinity]**
+
+The world feels infinite because it only exists where you look.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Reality is a bandwidth optimization.* (Ref: `LOGIC-CORE-031`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[computer graphics(-ing) BPMS]`: (Level of Detail)** Rendering fewer polygons at a distance.
+- **If `[physics(-ing) BPMS]`: (Coarse Graining)** Statistical mechanics.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Focus." The world sharpens around them.
+
+#### **7. Rationale / Justification:**
+
+Essential for performance in large-scale simulations.
+
+#### **8. Scope of Application:**
+
+World streaming, simulation culling, and narrative summarization.
+
+------
+
+#### The Law of Conservation of Narrative Energy (ID: `ENERGY-CORE-040`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that applies **`conservation of energy`** to **`narrative`** structures within the **`['atomic facts'(-ing) BPMS]`**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Conservation of Narrative Energy
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `drama cannot be created or destroyed, only transformed`.
+
+- **Potential Narrative Energy:** A "Secret" or a "Prophecy."
+- **Kinetic Narrative Energy:** A "Reveal" or a "Battle." The **`system`** ensures that every **`atomic fact`** introduced as a "Gun on the Wall" (Chekhov's Gun) must eventually be fired (Energy Release) or diffused (Energy Dissipation). Unresolved energy creates "Plot Holes" (System Dissonance).
+
+#### **5.2. The Mechanism - [The Chekhov Check]**
+
+- **The Setup:** "The King has a secret heir." (Potential Energy Added).
+- **The Tension:** Energy builds up over time.
+- **The Climax:** Heir is revealed. (Kinetic Release).
+- **The Balance:** Energy returns to baseline.
+- **The Failure:** Heir is never mentioned again. (Energy Leak -> User Dissatisfaction).
+
+#### **5.3. The Emergent Property - [Catharsis]**
+
+The satisfaction of a closed loop.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Every beginning implies an end.* (Ref: `META-008`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[literature(-ing) BPMS]`: (Dramatic Structure)** Freytag's Pyramid.
+- **If `[physics(-ing) BPMS]`: (Conservation Laws)** Energy in = Energy out.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Meaning." The sense that things happen for a reason.
+
+#### **7. Rationale / Justification:**
+
+Ensures satisfying storytelling and quest design.
+
+#### **8. Scope of Application:**
+
+Quest generation, dynamic storytelling, and NPC dialogue trees.
+
+------
+
+#### The Axiom of Adaptive Metabolism (ID: `ENERGY-CORE-041`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **`adaptive(-ing) BPMS`** as the ability to change **`metabolic`** pathways in response to **`energy`** scarcity.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Adaptive Metabolism
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `life finds a way to eat`. If one **`energy`** source (e.g., Solar) is blocked, an **`adaptive`** system switches to another (e.g., Geothermal). The **`['system existence engine'(-ing) BPMS]`** grants this ability to high-level agents.
+
+- **Normal Mode:** Eat Food.
+- **Starvation Mode:** Burn Fat.
+- **Crisis Mode:** Cannibalize Muscle. This flexibility ensures **`robustness`** and **`resilience`**.
+
+#### **5.2. The Mechanism - [The Pathway Switch]**
+
+- **The Context:** "Famine." (Food Energy = 0).
+- **The Adaptation:** Agent activates "Hibernation."
+- **The Change:** Metabolism drops by 90%. Stored Fat is consumed.
+- **The Result:** Agent survives until Spring.
+
+#### **5.3. The Emergent Property - [Survival]**
+
+The refusal to die quietly.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*If you can't walk, crawl.* (Ref: `LOGIC-CORE-023`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[biology(-ing) BPMS]`: (Metabolic Flexibility)** Switching between glucose and ketones.
+- **If `[business(-ing) BPMS]`: (Pivot)** Changing business model to survive.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Desperation." The willingness to do anything to survive.
+
+#### **7. Rationale / Justification:**
+
+Creates dramatic survival situations and complex AI behavior.
+
+#### **8. Scope of Application:**
+
+Survival mechanics, artificial intelligence state machines, and economic crisis simulation.
+
+------
+
+#### The Protocol of Systemic Closure (ID: `ENERGY-CORE-042`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines **`closure (system)`** as the state where all **`energy`** flows are accounted for within the **`['system existence engine'(-ing) BPMS]`**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Systemic Closure
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `there is no outside`. In a closed system (The Simulation), **`energy`** cannot be created or destroyed, only moved. If an Agent gains 100 Gold, it must come from somewhere (A Monster, A Mine, Another Agent). It cannot appear from `null`. This ensures **`economic integrity`** and prevents inflation/exploits. **`Closure`** is the seal that makes the world "Real."
+
+#### **5.2. The Mechanism - [The Zero-Sum Audit]**
+
+- **The Transaction:** Agent sells Item for 100 Gold.
+
+- The Audit:
+
+  Does Shopkeeper have 100 Gold?
+
+  - Yes -> Transfer.
+  - No -> Transaction Failed.
+
+- **The Spawn:** Monster drops 10 Gold.
+
+- **The Source:** System "Mint" (Limited Global Pool).
+
+- **The Sink:** Agent buys Potion (Gold returns to Pool).
+
+#### **5.3. The Emergent Property - [Value]**
+
+Gold has value because it is scarce and finite.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Everything comes from something.* (Ref: `META-002`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[physics(-ing) BPMS]`: (First Law of Thermodynamics)** Conservation of energy.
+- **If `[economics(-ing) BPMS]`: (Closed Economy)** Money supply management.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Scarcity." The realization that resources are limited.
+
+#### **7. Rationale / Justification:**
+
+Prevents economic collapse and infinite money glitches.
+
+#### **8. Scope of Application:**
+
+Economy balance, loot tables, and resource management.
+
+---
+
+#### The Law of Mnestic Consolidation (ID: `ENERGY-CORE-043`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that governs the **`(symbiosis) evolution`** of **`short-term (memory)`** into **`long-term (memory)`** via **`energy`** expenditure.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Mnestic Consolidation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `memory is expensive; forgetting is cheap`.
+
+- **`[short-term (memory) BPMS]` (RAM):** High Energy volatility. Fast access. Disappears if not fed (Rehearsal).
+- **`[long-term (memory) BPMS]` (Hard Drive):** Low Energy maintenance. Slow access. Permanent structure. The **`system`** evolves Short-Term into Long-Term only if the Agent invests significant **`energy`** (Repetition/Trauma) to "write" it to the **`praxial substrate`**.
+
+#### **5.2. The Mechanism - [The Consolidation Cost]**
+
+- **The Event:** "Met a stranger named Bob." (Short-Term).
+- **The Cost:** 1 Energy to hold for 1 hour.
+- **The Choice:** Agent ignores Bob -> Memory fades (Energy Saved).
+- **The Investment:** Agent talks to Bob for 5 hours (50 Energy).
+- **The Evolution:** "Bob is a Friend." (Long-Term Fact). Maintenance: 0.01 Energy/Year.
+
+#### **5.3. The Emergent Property - [Significance]**
+
+We only remember what we paid attention to.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To remember is to burn a groove in the world.* (Ref: `PCM-004`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[neuroscience(-ing) BPMS]`: (Long-Term Potentiation)** Strengthening synapses requires protein synthesis (Energy).
+- **If `[computing(-ing) BPMS]`: (Write Cycles)** Writing to disk costs more than reading from RAM.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Learning." The effort of making something stick.
+
+#### **7. Rationale / Justification:**
+
+Simulates realistic learning and relationship building.
+
+#### **8. Scope of Application:**
+
+Skill leveling, NPC relationship meters, and quest journals.
+
+------
+
+#### The Axiom of Veridical Convergence (ID: `ENERGY-CORE-044`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **`(symbiosis) evolution`** of **`reality`** and **`truth`** as an **`energy`** minimization process.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Veridical Convergence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `truth is the lowest energy state of reality`.
+
+- **`[reality(-ing) BPMS]` (The Territory):** The raw, chaotic energy field.
+- **`[truth(-ing) BPMS]` (The Map):** The structured, low-entropy description. When a Map perfectly matches the Territory, **`energy`** friction drops to zero (Resonance). The **`system`** constantly evolves its "Truths" to match "Reality" to minimize the energy cost of error (Surprise/Correction).
+
+#### **5.2. The Mechanism - [The Error Correction Loop]**
+
+- **The Truth:** "Fire is safe." (Incorrect Map).
+- **The Reality:** Agent touches Fire -> Burn (High Energy Cost).
+- **The Dissonance:** Map != Territory.
+- **The Evolution:** Truth mutates -> "Fire is hot." (Correct Map).
+- **The Result:** Agent avoids Fire -> No Burn (Low Energy Cost).
+
+#### **5.3. The Emergent Property - [Wisdom]**
+
+The accumulation of scars that prevent future pain.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Pain is the teacher of truth.* (Ref: `LOGIC-CORE-005`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[machine learning(-ing) BPMS]`: (Loss Function)** Minimizing the difference between prediction and reality.
+- **If `[philosophy(-ing) BPMS]`: (Pragmatism)** Truth is what works.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Realization." The moment the world makes sense.
+
+#### **7. Rationale / Justification:**
+
+The core mechanic of AI learning and player discovery.
+
+#### **8. Scope of Application:**
+
+AI pathfinding updates, recipe discovery, and trap detection.
+
+------
+
+#### The Protocol of Vectorial Alignment (ID: `ENERGY-CORE-045`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs the **`(symbiosis) evolution`** of the **`system matrix`** and **`system vector`** via **`energy`** flow.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Vectorial Alignment
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `the matrix guides the vector; the vector shapes the matrix`.
+
+- **`['system matrix'(-ing) BPMS]` (The Environment):** The passive field of potentials (Hills, Valleys).
+- **`['system vector'(-ing) BPMS]` (The Agent):** The active flow of energy (River). The Vector flows where the Matrix allows (Gravity). But over time, the Vector erodes the Matrix (Canyon). This **`symbiosis`** creates a dynamic, evolving world.
+
+#### **5.2. The Mechanism - [The Erosion Algorithm]**
+
+- **The Matrix:** Flat Plain.
+- **The Vector:** Thousands of Agents walk the same line (Trade Route).
+- **The Evolution:** The Matrix deforms -> "Road" (Movement Cost reduced).
+- **The Feedback:** More Agents use the Road -> Road becomes Highway.
+
+#### **5.3. The Emergent Property - [Infrastructure]**
+
+The physical footprint of collective behavior.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*We shape our buildings; thereafter they shape us.* (Ref: `META-003`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[geology(-ing) BPMS]`: (Erosion)** Water shaping stone.
+- **If `['urban planning'(-ing) BPMS]`: (Desire Paths)** Paths created by foot traffic.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Legacy." Seeing their actions leave a mark on the world.
+
+#### **7. Rationale / Justification:**
+
+Dynamic terrain and economy modification.
+
+#### **8. Scope of Application:**
+
+Road building, economy hubs, and terrain deformation.
+
+------
+
+#### The Law of Phenomenological Transmutation (ID: `ENERGY-CORE-046`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that defines the **`(symbiosis) evolution`** of **`experience`** into **`phenomenon`** via **`energy`** crystallization.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Phenomenological Transmutation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `a phenomenon is a shared experience`.
+
+- **`[experience(-ing) BPMS]` (Subjective):** Internal energy state of one Agent. "I saw a ghost."
+- **`[phenomenon(-ing) BPMS]` (Objective):** External energy structure. "The Ghost of the Castle." When enough Agents pour **`energy`** (Belief/Attention) into a shared Experience, it crystallizes into a Phenomenon (an **`atomic fact`**). The **`system`** validates this transition when the Energy Threshold is met.
+
+#### **5.2. The Mechanism - [The Myth Genesis]**
+
+- **The Experience:** 1 Agent sees a shadow. (Energy: 1).
+- **The Spread:** Agent tells 10 friends. (Energy: 10).
+- **The Critical Mass:** 1000 Agents believe in the Shadow. (Energy: 1000).
+- **The Transmutation:** System spawns "Shadow Mob" at the location.
+- **The Result:** The Myth becomes Real.
+
+#### **5.3. The Emergent Property - [Folklore]**
+
+Stories that come to life.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Belief is the clay of reality.* (Ref: `LOGIC-CORE-015`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[sociology(-ing) BPMS]`: (Thomas Theorem)** "If men define situations as real, they are real in their consequences."
+- **If `[magic(-ing) BPMS]`: (Tulpa)** Thoughtform creation.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Magic." The power of the mind over matter.
+
+#### **7. Rationale / Justification:**
+
+Dynamic quest and monster generation based on player rumors.
+
+#### **8. Scope of Application:**
+
+Rumor systems, religion mechanics, and dynamic events.
+
+------
+
+#### The Axiom of Energetic Duality (ID: `ENERGY-CORE-047`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that governs the **`(symbiosis) evolution`** of **`kinetic (energy)`** and **`potential (energy)`**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Energetic Duality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `potential is the promise; kinetic is the payment`.
+
+- **`['potential (energy)'(-ing) BPMS]` (Stored):** Gold in the bank. Arrow in the bow.
+- **`['kinetic (energy)'(-ing) BPMS]` (Active):** Gold spent. Arrow flying. The **`system`** is a constant cycle of converting Potential to Kinetic (Action) and Kinetic to Potential (Reward/Storage). **`Symbiosis`** occurs when one agent's Kinetic output becomes another's Potential input.
+
+#### **5.2. The Mechanism - [The Battery Cycle]**
+
+- **The Input:** Farmer works (Kinetic).
+- **The Storage:** Harvests Wheat (Potential).
+- **The Transfer:** Baker buys Wheat (Kinetic Exchange).
+- **The Output:** Baker bakes Bread (Kinetic).
+- **The Consumption:** Warrior eats Bread (Potential -> Kinetic).
+
+#### **5.3. The Emergent Property - [Economy]**
+
+The flow of energy through different forms of storage and action.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Energy never dies; it just changes jobs.* (Ref: `ENERGY-CORE-001`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[physics(-ing) BPMS]`: (Conservation of Energy)** PE + KE = Constant.
+- **If `[economics(-ing) BPMS]`: (Capital vs. Labor)** Stored value vs. Active work.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Flow." The seamless conversion of intent into action.
+
+#### **7. Rationale / Justification:**
+
+The fundamental physics of the game economy and combat.
+
+#### **8. Scope of Application:**
+
+Resource management, combat stamina, and crafting chains.
+
+------
+
+#### The Protocol of Teleological Alignment (ID: `ENERGY-CORE-048`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs the **`(symbiosis) evolution`** of **`mission`** and **`task`** via **`energy`** focus.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Teleological Alignment
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `the mission is the destination; the task is the step`.
+
+- **`[mission(-ing) BPMS]` (Strategy):** High-level Goal. "Save the Kingdom." (High Potential).
+- **`[task(-ing) BPMS]` (Tactics):** Low-level Action. "Kill 10 Rats." (Kinetic). The **`system`** ensures that every Task contributes **`energy`** towards the Mission. If a Task does not feed the Mission, it is "Busywork" (Entropy) and is discarded. **`Symbiosis`** is the perfect alignment where completing the Task advances the Mission.
+
+#### **5.2. The Mechanism - [The Quest Tree]**
+
+- **The Mission:** "Build a Castle." (Requires 1000 Stone).
+- **The Task:** "Mine Stone."
+- **The Alignment:** Mining Stone (Task) -> Castle Progress (Mission).
+- **The Reward:** System releases "XP" (Energy) to reinforce the behavior.
+
+#### **5.3. The Emergent Property - [Purpose]**
+
+The feeling that small actions have big meaning.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*A journey of a thousand miles begins with a single step.* (Ref: `LOGIC-CORE-021`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[management(-ing) BPMS]`: (KPIs)** Key Performance Indicators aligning with Strategic Goals.
+- **If `[AI(-ing) BPMS]`: (Hierarchical Reinforcement Learning)** Sub-goals serving the main policy.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Progress." The satisfaction of the progress bar filling up.
+
+#### **7. Rationale / Justification:**
+
+Quest design and AI planning logic.
+
+#### **8. Scope of Application:**
+
+Quest logs, achievement systems, and AI goal-oriented action planning (GOAP).
+
+------
+
+#### The Law of Granular Renormalization (ID: `ENERGY-CORE-049`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that governs the **`(symbiosis) evolution`** of **`coarse-grained (model)`** and **`fine-grained (model)`** via **`energy`** efficiency.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Granular Renormalization
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `resolution is a function of relevance`.
+
+- **`[fine-grained (model) BPMS]` (High Res):** Expensive. Used for Focus (Combat, Crafting).
+- **`[coarse-grained (model) BPMS]` (Low Res):** Cheap. Used for Background (Simulation, Distant Lands). The **`system`** dynamically switches between these models based on **`energy`** availability and observer attention. **`Symbiosis`** is the seamless transition where the Coarse model predicts the Fine model's outcome without running the full simulation.
+
+#### **5.2. The Mechanism - [The Zoom Function]**
+
+- **The View:** World Map (Coarse). "Region is Prosperous."
+- **The Action:** Player Zooms In.
+- **The Transition:** System spends Energy to instantiate "Prosperous Village" (Fine).
+- **The Consistency:** The Village must match the "Prosperous" tag (High Loot, Happy NPCs).
+
+#### **5.3. The Emergent Property - [Depth]**
+
+The illusion of infinite detail.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Don't draw the leaves until you see the tree.* (Ref: `ENERGY-CORE-039`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[physics(-ing) BPMS]`: (Effective Field Theory)** Ignoring high-energy details at low energies.
+- **If `[simulation(-ing) BPMS]`: (LOD)** Level of Detail management.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Immersion." The world holds up to scrutiny.
+
+#### **7. Rationale / Justification:**
+
+Performance optimization and simulation scalability.
+
+#### **8. Scope of Application:**
+
+World rendering, economic simulation, and artificial intelligence complexity scaling.
+
+------
+
+#### The Axiom of Field-Particle Duality (ID: `ENERGY-CORE-050`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that governs the **`(symbiosis) evolution`** of **`particle`** and **`field`** via **`energy`** condensation.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Field-Particle Duality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the agent is a knot in the field`.
+
+- **`[field (-ing) BPMS]` (Context):** The ambient energy/influence (Culture, Magic, Economy).
+- **`[particle (-ing) BPMS]` (Agent):** The localized concentration of energy (Hero, Item). The Field guides the Particle (Influence). The Particle disturbs the Field (Action). **`Symbiosis`** is the continuous feedback loop where Agents create Culture, and Culture shapes Agents.
+
+#### **5.2. The Mechanism - [The Influence Map]**
+
+- **The Field:** "Fear Field" (High in Haunted Forest).
+- **The Particle:** Agent enters Forest.
+- **The Interaction:** Field applies "Debuff: Scared" to Particle.
+- **The Reaction:** Particle casts "Light Spell."
+- **The Change:** "Fear Field" is reduced locally.
+
+#### **5.3. The Emergent Property - [Atmosphere]**
+
+The mood of a place affects those within it.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*We swim in the water we displace.* (Ref: `META-005`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[quantum physics(-ing) BPMS]`: (QFT)** Particles are excitations of fields.
+- **If `[sociology(-ing) BPMS]`: (Structure vs. Agency)** The interplay between social forces and individual choice.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Vibe." The intangible feeling of a location.
+
+#### **7. Rationale / Justification:**
+
+Environmental storytelling and area-of-effect mechanics.
+
+#### **8. Scope of Application:**
+
+Magic systems, morale systems, and weather effects.
+
+------
+
+#### The Law of Complexity Metabolism (ID: `ENERGY-CORE-051`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that governs the **`(symbiosis) evolution`** of **`complex activities`** and **`complex system`** via **`energy`** throughput.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Complexity Metabolism
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `complexity requires calories`.
+
+- **`[complex system(-ing) BPMS]` (Structure):** A City, A Guild, An Ecosystem.
+- **`[complex activities(-ing) BPMS]` (Function):** Trade, War, Politics. A Complex System can only sustain Complex Activities if it has a high **`energy`** throughput (Metabolism). If Energy drops, the System simplifies (Collapse). **`Symbiosis`** is the state where the Activities generate enough Energy to maintain the System.
+
+#### **5.2. The Mechanism - [The Civilization Check]**
+
+- **The System:** "Empire." (Maintenance: 1,000,000 Energy/Turn).
+- **The Activity:** "Global Trade Network." (Income: 1,200,000 Energy/Turn).
+- **The Result:** Empire Grows.
+- **The Crisis:** "War" disrupts Trade. Income drops to 500,000.
+- **The Collapse:** Empire fractures into "City States" (Simpler System, Lower Cost).
+
+#### **5.3. The Emergent Property - [Rise and Fall]**
+
+Civilizations are engines that must keep running to stay standing.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Entropy eats empires first.* (Ref: `ENERGY-CORE-025`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[history(-ing) BPMS]`: (Tainter's Collapse)** Complexity collapses when the marginal return on energy investment becomes negative.
+- **If `[thermodynamics(-ing) BPMS]`: (Dissipative Structures)** Complex structures require energy flow to resist entropy.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Golden Age" vs. "Dark Age."
+
+#### **7. Rationale / Justification:**
+
+Grand strategy mechanics and dynamic world history.
+
+#### **8. Scope of Application:**
+
+Faction management, city building, and historical simulation.
+
+------
+
+#### The Protocol of Decisive Resonant Constellation Map (ID: `ENERGY-CORE-052`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs the **`(symbiosis) evolution`** of **`(behavior) decision-making`** and **`event`** via **`energy`** triggers.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Decisive Resonant Constellation Map
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `a decision is a trigger; an event is the explosion`.
+
+- **`[(behavior) decision-making BPMS]` (Trigger):** The internal choice. "I will attack." (Low Energy).
+- **`[event(-ing) BPMS]` (Explosion):** The external consequence. "Battle of the Hill." (High Energy). The **`system`** links Decision to Event via **`Resonant Constellation Map `**. **`Symbiosis`** occurs when the Agent's Decision accurately predicts the Event's outcome (Strategy).
+
+#### **5.2. The Mechanism - [The Butterfly Effect]**
+
+- **The Decision:** Agent kills a messenger.
+- **The Chain:** Message lost -> Reinforcements don't arrive -> Castle falls.
+- **The Event:** "Fall of the Kingdom."
+- **The Lesson:** Small Decisions can trigger massive Energy releases.
+
+#### **5.3. The Emergent Property - [Agency]**
+
+The power to change the world with a choice.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The finger pulls the trigger, but the powder does the work.* (Ref: `LOGIC-CORE-012`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `['chaos theory'(-ing) BPMS]`: (Sensitive Dependence)** Small changes in initial conditions lead to large differences in outcome.
+- **If `['game design'(-ing) BPMS]`: (Player Agency)** Meaningful choices.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Responsibility." "I did this."
+
+#### **7. Rationale / Justification:**
+
+Narrative branching and emergent storytelling.
+
+#### **8. Scope of Application:**
+
+Dialogue choices, tactical combat, and plot generation.
+
+------
+
+#### The Axiom of Continuous Survival (ID: `ENERGY-CORE-053`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **`(continuous) survive`** as the ultimate **`energy`** imperative.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Continuous Survival
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the game never ends for the survivor`. **`(continuous) survive`** is the process of maintaining **`[energy BPMS]`** > 0 indefinitely. It is the master loop of the **`['system existence engine'(-ing) BPMS]`**. Every other mechanic (Combat, Trade, Crafting) is subservient to this goal. To Survive is to Win the right to keep playing.
+
+#### **5.2. The Mechanism - [The Infinite Loop]**
+
+- **The State:** Alive.
+- **The Threat:** Entropy (Hunger, Damage, Age).
+- **The Response:** Action (Eat, Heal, Reproduce).
+- **The Result:** Alive (Loop Continues).
+- **The Goal:** Not "Victory," but "Persistence."
+
+#### **5.3. The Emergent Property - [Life]**
+
+The stubborn refusal to become dust.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*There is no finish line, only the next sunrise.* (Ref: `META-001`).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+- **If `[biology(-ing) BPMS]`: (Survival of the Fittest)** Those who survive, propagate.
+- **If `[philosophy(-ing) BPMS]`: (Conatus)** Spinoza. The endeavor to persist in being.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Hope." The belief that tomorrow is worth fighting for.
+
+#### **7. Rationale / Justification:**
+
+The fundamental motivation for all agents in the simulation.
+
+#### **8. Scope of Application:**
+
+Survival mode, permadeath mechanics, and lineage systems.
