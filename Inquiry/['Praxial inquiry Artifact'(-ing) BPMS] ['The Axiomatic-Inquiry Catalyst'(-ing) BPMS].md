@@ -164,3 +164,4 @@ To instantiate this Artifact in an external environment (e.g., a chat with an AI
 ### **7. Remark**
 
 **BPMS means Behavior pattern/model/system**
+
