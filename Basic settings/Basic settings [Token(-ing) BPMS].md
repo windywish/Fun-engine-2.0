@@ -1,4 +1,4 @@
-## Basic settings: ['Token'(-ing) BPMS]
+## Basic settings: [Token(-ing) BPMS]
 
 #### The Axiom of Living Value (ID: `TOKEN-CORE-001`)
 
