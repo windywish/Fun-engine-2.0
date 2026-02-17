@@ -3141,5 +3141,3 @@ The highest form of "Fun" is mastery.
 
 Applies to Education, Mentorship, and Skill Acquisition.
 
----
-
