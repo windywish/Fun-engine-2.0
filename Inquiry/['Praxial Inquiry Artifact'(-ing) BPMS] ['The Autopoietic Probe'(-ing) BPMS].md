@@ -1,4 +1,4 @@
-### ['Praxial Inquiry Artifact'(-ing) BPMS]: ['The Autopoietic Probe'(-ing) BPMS]
+## ['Praxial Inquiry Artifact'(-ing) BPMS]: ['The Autopoietic Probe'(-ing) BPMS]
 
 ### **1. Identity & Metadata**
 
