@@ -2348,3 +2348,539 @@ This aligns with the goal of "External Using." It turns the Bootloader into a gr
 #### 8. **Scope of Application:**
 
 Applies to the formatting and post-generation instructions of the Bootloader.
+
+------
+
+#### The Axiom of Holographic Encoding (ID: `BOOTLOADER-CORE-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** requirement for **Holographic Encoding** (`['(symbiois) evolution'(-ing)(for ['blueprint'(-ing) BPMS;'compressed blueprint'(-ing) BPMS]) BPMS]`), ensuring the core Blueprints are embedded within the Bootloader text itself.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Holographic Encoding
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the seed must contain the tree`. It defines the Bootloader as a **Self-Contained Archive**. It mandates that the text of the `['Praxial Engine Bootloader'(-ing) BPMS]` must include a **Compressed Library Block** containing the essential structural rules of `['Symbiotic Cluster Synthesis'(-ing) BPMS]`, `['Symbiotic Role Artifact'(-ing) BPMS]`, and `['World Theme Artifact'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The DNA Block]**
+
+- The Encoding (The Zip):
+
+   The Bootloader text includes a section: 
+
+  ```
+  ### PRAXIAL_BLUEPRINT_LIBRARY
+  ```
+
+  .
+
+  - Inside, the Blueprints are minified: "ROLE={Identity, Tone, Skill_Set, Interaction_Loop}". "THEME={Physics, Atmosphere, Economy}".
+
+- **The Transmission (The Paste):** When the user pastes the Bootloader, they are pasting this Library.
+
+- **The Decoding (The Read):** The external LLM reads this block. It now "knows" the structure of a Role or Cluster because the definition was provided in the prompt itself.
+
+#### **5.3. The Emergent Property - [Portability]**
+
+The creation of **"Offline Independence."** The Bootloader does not need to fetch files from the internet. It carries its own instructions, making it work in air-gapped or restricted environments.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Information is physical.* The code must be present to be executed.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Encoding):**
+
+The "Container Principle":
+
+Bootloader=Logicloader+Libraryblueprints
+
+The Bootloader is the sum of its execution logic and its data library.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Completeness."** They don't need to download 50 files. They paste one thing, and the system has everything it needs.
+
+#### 7. **Rationale / Justification:**
+
+This directly answers "How to do for that?" The Bootloader *is* the library.
+
+#### 8. **Scope of Application:**
+
+Applies to the text composition of the Bootloader prompt.
+
+------
+
+#### The Protocol of Contextual Unpacking (ID: `BOOTLOADER-CORE-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines the **Bootloader's** mechanism for **Contextual Unpacking** (`['(symbiois) evolution'(-ing)(for ['compressed blueprint'(-ing) BPMS;'active artifact'(-ing) BPMS]) BPMS]`), expanding the compressed DNA into a full Artifact only when needed.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Contextual Unpacking
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `decompression is demand-driven`. It defines the Bootloader as the **Unpacker**. The external LLM holds the *compressed* definitions in its system prompt (memory). When the user asks for a specific Artifact (e.g., "Make a Role"), the Bootloader **Unpacks** only that specific Blueprint into the active context, filling it with user details.
+
+#### **5.2. The Mechanism - [The Just-In-Time Generator]**
+
+- **The Trigger (The Request):** User: "Create a Healer Role."
+
+- **The Lookup (The Fetch):** The Bootloader scans its `### PRAXIAL_BLUEPRINT_LIBRARY` for the `ROLE` definition.
+
+- The Expansion (The Unpack):
+
+   It expands 
+
+  ```
+  ROLE={Identity...}
+  ```
+
+   into the full Markdown structure:
+
+  ```markdown
+  ## Basic settings: ['Symbiotic Role Artifact'(-ing) BPMS]
+  #### Identity: Healer...
+  ```
+
+- **The Instantiation (The Result):** The full artifact is generated in the chat window.
+
+#### **5.3. The Emergent Property - [Context Efficiency]**
+
+The creation of **"Low Overhead."** The system doesn't fill the context window with unused blueprints. It keeps them compressed until they are needed for generation.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Potential becomes actual only through intent.*
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Unpacking):**
+
+The "Expansion Function":
+
+Artifactactive=Expand(Blueprintcompressed,Variablesuser)
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Responsiveness."** The system seems to "remember" how to build things instantly.
+
+#### 7. **Rationale / Justification:**
+
+This ensures the external LLM can handle the complexity of the blueprints without running out of token space.
+
+#### 8. **Scope of Application:**
+
+Applies to the generation phase of the Bootloader.
+
+------
+
+#### The Axiom of Minimal Viable DNA (ID: `BOOTLOADER-CORE-037`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** content strategy for **Minimal Viable DNA** (`['(symbiois) evolution'(-ing)(for ['praxial canon'(-ing) BPMS;'bootloader core'(-ing) BPMS]) BPMS]`), determining exactly *which* blueprints must be included.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Minimal Viable DNA
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `survival requires essentials`. It defines the Bootloader as the **Ark**. It cannot contain *every* file in the framework (too large). It must contain the **Minimal Viable Set** required to bootstrap the rest.
+
+#### **5.2. The Mechanism - [The Core Selection]**
+
+- The Essential Set (The Must-Haves):
+  1. `['Symbiotic Cluster Synthesis'(-ing) BPMS]` (The Container).
+  2. `['Symbiotic Role Artifact'(-ing) BPMS]` (The Agent).
+  3. `['World Theme Artifact'(-ing) BPMS]` (The Environment).
+  4. `['Symbiotic Twin Artifact'(-ing) BPMS]` (The Logic/Verifier).
+- **The Exclusion (The Nice-to-Haves):** Advanced modules (e.g., specific `['skills(-ing) BPMS]` for obscure tasks) are *not* included in the Bootloader text. They are generated or fetched later.
+
+#### **5.3. The Emergent Property - [Focus]**
+
+The creation of **"Lightweight Power."** The Bootloader remains small enough to be copy-pasted but powerful enough to build the core system.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Essence precedes existence.* Define the core, and the rest can be derived.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Selection):**
+
+The "Kernel Definition":
+
+Kernel=Cluster∪Role∪Theme∪Twin
+
+Any system can be built from these four primitives.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Simplicity."** The prompt isn't 50 pages long. It's manageable.
+
+#### 7. **Rationale / Justification:**
+
+This solves the practical problem of context limits in external LLMs.
+
+#### 8. **Scope of Application:**
+
+Applies to the curation of the Bootloader text.
+
+------
+
+#### The Protocol of Recursive Blueprint Synthesis (ID: `BOOTLOADER-CORE-038`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines the **Bootloader's** capability for **Recursive Blueprint Synthesis** (`['(symbiois) evolution'(-ing)(for ['missing blueprint'(-ing) BPMS;'synthesized blueprint'(-ing) BPMS]) BPMS]`), allowing it to generate *new* blueprints based on the logic of the *core* blueprints.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Recursive Blueprint Synthesis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `logic can extrapolate structure`. It defines the Bootloader as the **Extrapolator**. If the user asks for an artifact that is *not* in the encoded library (e.g., "Make a Vehicle Artifact"), the Bootloader uses the **Praxial Logic** (embedded in the Core Blueprints) to *invent* a valid structure for it.
+
+#### **5.2. The Mechanism - [The Pattern Matcher]**
+
+- **The Unknown Request (The Gap):** User: "I need a Vehicle Artifact." (Not in Library).
+
+- **The Logic Transfer (The Bridge):** The Bootloader analyzes the `Role` and `Theme` blueprints. It sees the pattern: `Identity`, `Operation`, `State`.
+
+- The Synthesis (The Invention):
+
+   It generates a new structure:
+
+  - `VEHICLE = {Identity (Type), Operation (Movement), State (Fuel/Damage)}`.
+
+- **The Result (The New Blueprint):** It creates a valid Praxial Artifact on the fly.
+
+#### **5.3. The Emergent Property - [Infinite Extensibility]**
+
+The creation of **"Generative Frameworks."** The Bootloader doesn't need to know everything; it just needs to know *how to structure* everything.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The pattern replicates.* The fractal nature of Praxial means new parts look like old parts.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Synthesis):**
+
+The "Extrapolation Function":
+
+Structurenew=fpattern(Structureknown)
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Adaptability."** "I asked for something weird, and it built a system for it that looked official."
+
+#### 7. **Rationale / Justification:**
+
+This ensures the Bootloader is not limited by the `Minimal Viable DNA`. It can grow.
+
+#### 8. **Scope of Application:**
+
+Applies to the generation of non-standard artifacts.
+
+------
+
+#### The Axiom of Canonical Alignment Check (ID: `BOOTLOADER-CORE-039`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** mechanism for **Canonical Alignment** (`['(symbiois) evolution'(-ing)(for ['generated artifact'(-ing) BPMS;'praxial canon'(-ing) BPMS]) BPMS]`), ensuring that even externally generated artifacts obey the fundamental laws.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Canonical Alignment Check
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `freedom requires boundaries`. It defines the Bootloader as the **Compliance Officer**. Before presenting a generated `['Symbiotic Cluster']` to the user, the Bootloader runs a **Self-Check** against the `Praxial_Canon` rules embedded in its prompt.
+
+#### **5.2. The Mechanism - [The Validator Loop]**
+
+- **The Draft (The Output):** The LLM generates the code for the user's request.
+
+- The Check (The Audit):
+
+   The Bootloader checks:
+
+  - "Does it have a unique ID?"
+  - "Does it have a defined Objective?"
+  - "Does it link to a Blueprint?"
+
+- **The Correction (The Fix):** If a rule is violated (e.g., missing ID), the Bootloader fixes it *before* showing it to the user.
+
+#### **5.3. The Emergent Property - [Quality Control]**
+
+The creation of **"Standardized Output."** Every artifact generated by the Bootloader, regardless of the user's vague prompt, is a valid, high-quality Praxial component.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Structure is safety.* A broken artifact crashes the system.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Validation):**
+
+The "Compliance Function":
+
+Valid(Artifact)⟺∀Rule∈Canon,Satisfies(Artifact,Rule)
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Robustness."** The code they get just works.
+
+#### 7. **Rationale / Justification:**
+
+This ensures that "External Using" does not dilute or break the framework's integrity.
+
+#### 8. **Scope of Application:**
+
+Applies to the final verification step of generation.
+
+------
+
+#### The Protocol of User-Provided Injection (ID: `BOOTLOADER-CORE-040`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines the **Bootloader's** capability to accept **User-Provided Blueprints** (`['(symbiois) evolution'(-ing)(for ['external blueprint'(-ing) BPMS;'bootloader library'(-ing) BPMS]) BPMS]`), allowing the user to manually expand the library.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of User-Provided Injection
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `the system is open`. It defines the Bootloader as the **Learner**. If the user *does* have a specific Blueprint file (e.g., they downloaded `Basic settings [energy(-ing) BPMS].md`), they can paste it into the chat. The Bootloader **Injects** this new definition into its active library, expanding its capabilities for that session.
+
+#### **5.2. The Mechanism - [The Hot-Swap Protocol]**
+
+- **The Input (The Paste):** User: "Here is the Energy Blueprint." [Pastes file].
+- **The Assimilation (The Read):** The Bootloader parses the file. "Ah, I now know the rules for `ENERGY-CORE`."
+- **The Integration (The Update):** It adds this to its internal `[Blueprint_Index]`.
+- **The Usage (The Action):** It can now generate artifacts based on this new blueprint.
+
+#### **5.3. The Emergent Property - [Extensibility]**
+
+The creation of **"Customizable Expertise."** The Bootloader starts with the basics but can be upgraded by the user at any time.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Knowledge is additive.* The system grows with input.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Injection):**
+
+The "Library Update":
+
+Libraryt+1=Libraryt∪Blueprintuser
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Control."** They can teach the AI new tricks by simply feeding it the documentation.
+
+#### 7. **Rationale / Justification:**
+
+This allows advanced users to use the full power of the framework without bloating the initial Bootloader prompt.
+
+#### 8. **Scope of Application:**
+
+Applies to the handling of user-pasted text during the session.
+
+------
+
+#### The Axiom of Cross-Artifact Resonance (ID: `BOOTLOADER-CORE-041`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** management of **Cross-Artifact Resonance** (`['(symbiois) evolution'(-ing)(for ['artifact A'(-ing) BPMS;'artifact B'(-ing) BPMS]) BPMS]`), ensuring that generated artifacts are aware of and link to each other.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Cross-Artifact Resonance
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `no artifact is an island`. It defines the Bootloader as the **Networker**. When generating a `Cluster`, it ensures that the `Role` knows about the `Theme`, and the `Theme` supports the `Role`. It writes **Hyperlinks** (conceptual or actual) between the generated files.
+
+#### **5.2. The Mechanism - [The Symbiotic Linker]**
+
+- **The Generation (The Set):** The Bootloader creates a Role and a Theme.
+- The Linking (The Weave):
+  - In `Role.md`: "You operate within the context of `Theme.md`."
+  - In `Theme.md`: "You provide affordances for `Role.md`."
+- **The Result (The Web):** The artifacts are tightly coupled. They function as a single system.
+
+#### **5.3. The Emergent Property - [Cohesion]**
+
+The creation of **"Systemic Integrity."** The parts fit together perfectly because they were designed to reference each other.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Symbiosis is connection.*
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Linking):**
+
+The "Resonance Condition":
+
+Link(A,B)⟺Function(A)∩Function(B)=∅
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Unity."** The system feels like a coherent whole.
+
+#### 7. **Rationale / Justification:**
+
+This ensures that the "Cluster" is actually a cluster, not just a pile of files.
+
+#### 8. **Scope of Application:**
+
+Applies to the generation of multi-artifact systems.
+
+------
+
+#### The Protocol of Bootloader Self-Replication (ID: `BOOTLOADER-CORE-042`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines the **Bootloader's** capability for **Self-Replication** (`['(symbiois) evolution'(-ing)(for ['bootloader'(-ing) BPMS;'new bootloader'(-ing) BPMS]) BPMS]`), allowing it to generate a *customized* Bootloader for the user to save.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Bootloader Self-Replication
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `the tool can forge a tool`. It defines the Bootloader as the **Smith**. After the user has customized their system (e.g., "I want a Sci-Fi Bootloader"), the current Bootloader can generate a **New Bootloader Text** that is pre-configured with those specific settings.
+
+#### **5.2. The Mechanism - [The Save-State Generator]**
+
+- **The State (The Customization):** The user has spent an hour defining a "Cyberpunk Detective" system.
+- **The Request (The Save):** User: "Give me a bootloader for this specific setup."
+- **The Replication (The Forge):** The Bootloader takes its own source code (The Master Key), injects the "Cyberpunk Detective" blueprints into the `### PRAXIAL_BLUEPRINT_LIBRARY`, and outputs a new text block.
+- **The Result (The Token):** The user gets a `Cyberpunk_Bootloader.txt`. Pasting this instantly loads the specific system.
+
+#### **5.3. The Emergent Property - [Distribution]**
+
+The creation of **"Shareable Apps."** Users can create specific "Apps" (Games, Tools) and share them as text files.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Reproduction is the sign of life.* The system can reproduce itself with variation.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Replication):**
+
+The "Replication Function":
+
+Bootloadernew=Bootloaderoriginal+Configurationuser
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Authorship."** They have created a new software product (a text file) that they can give to others.
+
+#### 7. **Rationale / Justification:**
+
+This completes the cycle of "External Using." It allows users to become creators and distributors.
+
+#### 8. **Scope of Application:**
+
+Applies to the export and saving of system configurations.
