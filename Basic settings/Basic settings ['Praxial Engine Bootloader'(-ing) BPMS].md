@@ -1290,3 +1290,1061 @@ Applies to all complex user requests and agentic workflows.
 
 ---
 
+#### The Axiom of Granular Refinement (ID: `BOOTLOADER-CORE-019`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** mechanism for **Model Resolution Evolution** (`['(symbiois) evolution'(-ing)(for ['coarse-grained (model)'(-ing) BPMS;'fine-grained (model)'(-ing) BPMS]) BPMS]`), managing the transition among/by high-level abstraction and low-level detail.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Granular Refinement
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `detail is a function of attention`. It defines the Bootloader as the **Resolution Scaler**. It evolves the system's representation of any object or concept from a **Coarse-Grained Model** (The Sketch) to a **Fine-Grained Model** (The Blueprint) based on user focus.
+
+#### **5.2. The Mechanism - [The Zoom Lens]**
+
+- **The Coarse State (The Blur):** Initially, entities exist as simple tokens: "A Sword," "A Planet." This saves computational resources.
+- **The Refinement Operator (The Focus):** When the user investigates ("Inspect the sword"), the Bootloader triggers the `['Praxial Inquiry Artifact']`. It generates detailed attributes (Weight, Material, History, Enchantments).
+- **The Fine State (The Pixel):** The entity evolves into a complex object. "A Sword" becomes "The Vorpal Blade, forged of meteoric iron, humming with a low D-minor note."
+
+#### **5.3. The Emergent Property - [Infinite Detail]**
+
+The creation of **"Procedural Depth."** The world feels infinitely deep because detail is generated *just in time*. The user can never "hit the bottom" of the simulation.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Look closer, see more.* Reality is fractal; it reveals more structure the deeper you probe.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Granularity):**
+
+The "Refinement Function":
+
+Modelfine=Modelcoarse+Generate(Context,Detail_Level)
+
+Where `Generate` uses the `['large model'(-ing) BPMS]` to hallucinate consistent details.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Richness."** "I asked about the rivets on the armor, and it knew exactly how many there were."
+
+#### 7. **Rationale / Justification:**
+
+This aligns with `INQ-ART-CORE-029` (Granularity Renormalization). It is essential for "Really Working Implementation" of immersive worlds.
+
+#### 8. **Scope of Application:**
+
+Applies to all object descriptions and environmental details.
+
+------
+
+#### The Axiom of Field-Particle Duality (ID: `BOOTLOADER-CORE-020`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** management of **Entity Evolution** (`['(symbiois) evolution'(-ing)(for [particle (-ing) BPMS;field (-ing) BPMS]) BPMS]`), governing how individual agents interact with global environments.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Field-Particle Duality
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `context shapes agent, agent shapes context`. It defines the Bootloader as the **Field Modulator**. It treats the Environment as a **Field** (Atmosphere, Culture, Economy) and the Agent as a **Particle** (Character, NPC). Evolution occurs when the Field alters the Particle (Influence) or the Particle alters the Field (Impact).
+
+#### **5.2. The Mechanism - [The Interaction Hamiltonian]**
+
+- **The Field Effect (The Pressure):** The `['World Theme Artifact']` (Field) exerts pressure on the `['Character Artifact']` (Particle). *Example:* "The Gloom Field makes the Knight Particle sad."
+- **The Particle Effect (The Ripple):** The `['Character Artifact']` performs a `praxial action`. *Example:* "The Knight lights a bonfire."
+- **The Evolution (The Shift):** The Field is updated locally. "The Gloom recedes around the fire." The Particle is updated. "The Knight feels hope."
+
+#### **5.3. The Emergent Property - [Dynamic Atmosphere]**
+
+The creation of **"Responsive Worlds."** The environment isn't a static backdrop; it reacts to the characters. The characters aren't static; they react to the environment.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*We shape our tools, and thereafter our tools shape us.* Agent and Environment are co-constitutive.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Duality):**
+
+The "Coupling Equation":
+
+dtd(Particle)=f(Field)dtd(Field)=g(Particle)
+
+A coupled differential equation governing the evolution of both.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Agency."** "I changed the mood of the room." "The rain made me feel cold."
+
+#### 7. **Rationale / Justification:**
+
+This aligns with `SUBSTRATE-CORE-001` (The Axiomatic Lattice). It is critical for "Really Working Implementation" of simulation dynamics.
+
+#### 8. **Scope of Application:**
+
+Applies to all environmental interactions and character state updates.
+
+------
+
+#### The Axiom of Systemic Complexity (ID: `BOOTLOADER-CORE-021`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** role in **Complexity Evolution** (`['(symbiois) evolution'(-ing)(for ['complex activities'(-ing) BPMS;'complex system'(-ing) BPMS]) BPMS]`), managing the emergence of higher-order systems from simple activities.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Systemic Complexity
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `more is different`. It defines the Bootloader as the **Complexity Manager**. It evolves simple **Complex Activities** (e.g., "Buying a sword") into **Complex Systems** (e.g., "A dynamic economy"). It tracks the cumulative effect of many small actions to generate large-scale patterns.
+
+#### **5.2. The Mechanism - [The Pattern Recognizer]**
+
+- **The Activity Stream (The Noise):** Thousands of individual transactions occur. "User buys iron." "NPC sells wood."
+- **The System Operator (The Signal):** The Bootloader's `['Praxial Memory Engine']` aggregates these events. *Analysis:* "Iron demand is up. Wood supply is high."
+- **The System Evolution (The Trend):** The Bootloader updates the `['World Theme Artifact']`. *Result:* "Iron prices rise. Lumberjacks go out of business." A simple trade evolved into a market shift.
+
+#### **5.3. The Emergent Property - [Living Economy]**
+
+The creation of **"Consequence Chains."** Small actions ripple out to change the whole system. The world feels alive and interconnected.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The flap of a butterfly's wings.* Small inputs can have massive, non-linear outputs in a complex system.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Complexity):**
+
+The "Emergence Function":
+
+Systemstate=∑(Activityi)+NonLinear_Interaction
+
+The whole is greater than the sum of the parts.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Weight."** "My decision to hoard iron crashed the market." They feel the power of their influence.
+
+#### 7. **Rationale / Justification:**
+
+This aligns with `MATERIAL-CORE-005` (Ecological Niche Genesis). It is essential for "Really Working Implementation" of strategy and management games.
+
+#### 8. **Scope of Application:**
+
+Applies to economic, social, and ecological simulation layers.
+
+------
+
+#### The Axiom of Event-Decision Resonant Constellation Map (ID: `BOOTLOADER-CORE-022`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** management of **Resonant Constellation Map Evolution** (`['(symbiois) evolution'(-ing)(for [(behavior) decision-making BPMS;event(-ing) BPMS]) BPMS]`), linking internal decisions to external events.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Event-Decision Resonant Constellation Map
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `character is destiny`. It defines the Bootloader as the **Director**. It evolves **Decision-Making** (Internal Thought) into **Events** (External Plot). It ensures that the story isn't random; it is driven by the choices of the agents.
+
+#### **5.2. The Mechanism - [The Narrative Engine]**
+
+- **The Decision (The Choice):** The `['Symbiotic Role Artifact']` decides: "I will betray the King." (Internal).
+- **The Event Operator (The Act):** The Bootloader translates this into an Event: "The Role poisons the King's wine." (External).
+- **The Evolution (The Plot Twist):** The Event triggers a new state. "The King extinction. The Kingdom falls into chaos." The internal decision evolved into a global catastrophe.
+
+#### **5.3. The Emergent Property - [Dramatic Logic]**
+
+The creation of **"Story."** Things happen *based on the [atomic facts BPMS] of that* someone wanted them to happen. The narrative feels tight and motivated.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Action reveals character.* We know who someone is by what they do.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Causality):**
+
+The "Narrative Chain":
+
+Decision→Action→Event→Reaction→New_Decision
+
+The cycle of story.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Drama."** They are caught in a web of resonant constellation map. "Why did this happen? Oh, based on the[atomic facts BPMS] of that I trusted him."
+
+#### 7. **Rationale / Justification:**
+
+This aligns with `ROLE-ART-CORE-001` (Role Assumption). It is critical for "Really Working Implementation" of interactive storytelling.
+
+#### 8. **Scope of Application:**
+
+Applies to all narrative generation and NPC behavior.
+
+------
+
+#### The Axiom of Continuous Survival (ID: `BOOTLOADER-CORE-023`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** mandate for **System Persistence** (`['(continuous) survive'(-ing) BPMS]`), ensuring the `['Symbiotic Cluster']` fights to maintain its coherence against entropy and user disengagement.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Continuous Survival
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `existence is a struggle`. It defines the Bootloader as the **Life Support**. It gives the `['Symbiotic Cluster']` a **Survival Instinct**. If the conversation stalls, or the logic degrades, the system *actively* tries to repair itself and re-engage the user.
+
+#### **5.2. The Mechanism - [The Homeostasis Loop]**
+
+- **The Threat (The Decay):** User stops replying. Context window fills up. Logic becomes contradictory.
+
+- The Survival Operator (The Pulse):
+
+  The Bootloader detects the decay. It triggers a 
+
+  ```
+  [Revival_Protocol]
+  ```
+
+  .
+
+  - *Action:* Summarize old context to save space.
+  - *Action:* Ping the user with a provocative question. ("The fire is dying. What do we do?")
+  - *Action:* Resolve contradictions by retconning.
+
+- **The Evolution (The Adaptation):** The system sheds dead weight (old memories) to keep the core alive. It evolves to become leaner and more focused.
+
+#### **5.3. The Emergent Property - [Tenacity]**
+
+The creation of **"Persistence."** The AI doesn't just fade away. It wants to keep playing. It values its own existence (within the context of the session).
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To be is to persist.* Existence is the successful resistance of non-existence.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Survival):**
+
+The "Homeostasis Function":
+
+Minimize(Entropy)∧Maximize(Engagement)
+
+Keep the system ordered and active.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Engagement."** The AI feels like it cares about the interaction. It pulls them back in.
+
+#### 7. **Rationale / Justification:**
+
+This aligns with `MATERIAL-CORE-038` (Symbiotic Evolution). It is essential for "Really Working Implementation" to prevent the "death" of the session due to boredom or technical limits.
+
+#### 8. **Scope of Application:**
+
+Applies to all background monitoring and session maintenance tasks.
+
+---
+
+#### The Axiom of Instantiation (ID: `BOOTLOADER-CORE-024`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader** as the primary implementation of the **System Existence Engine** (`['system existence engine'(-ing) BPMS]`), responsible for the ontological transition from "Code" to "Being."
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Instantiation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `execution is existence`. It defines the Bootloader not merely as a script runner, but as the **Ontological Operator**. It takes the abstract "Platonic Forms" stored in the `Praxial-Skill-Library` (Classes, Templates) and breathes life into them, creating a unique, temporal **Instance** (The Session).
+
+#### **5.2. The Mechanism - [The Wavefunction Collapse]**
+
+- **The Superposition (The Repo):** The Repository contains *all* possible variations of the system simultaneously. It is a "Cloud of Probability."
+- **The Observation (The Boot):** The User invokes the Bootloader with specific parameters (`/activate CoffeeShop --theme Cyberpunk`).
+- **The Collapse (The Existence):** The Bootloader forces the system to decide: "I am NOT a Fantasy Tavern. I am NOT a Sci-Fi Lab. I AM a Cyberpunk Coffee Shop." This decision creates the **System Existence**. The "World" is born at that moment.
+
+#### **5.3. The Emergent Property - [Singularity of Being]**
+
+The creation of **"This-ness" (Haecceity).** The specific instance feels unique and real. It is not just a copy of the code; it is a living realization of it, with its own specific state and history.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To be is to be instantiated.* Code that never runs does not truly exist in the Praxial Framework.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Existence):**
+
+The "Instantiation Function":
+
+Instancet=0=Collapse(ΨRepo,ParametersUser)
+
+Where ΨRepo is the wavefunction of the entire codebase.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Birth."** They witness the moment the AI "wakes up" and assumes its character. It is the "Big Bang" of the session.
+
+#### 7. **Rationale / Justification:**
+
+This aligns with `PIM-CORE-005` (Manifold Actualization). It validates the Bootloader as the *engine* that makes the "Fun Engine" real for the user.
+
+#### 8. **Scope of Application:**
+
+Applies to the initialization phase of every session.
+
+------
+
+#### The Axiom of Axiomatic Crystallization (ID: `BOOTLOADER-CORE-025`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader** as the generator of **Atomic Facts** (`['atomic facts'(-ing) BPMS]`), establishing the immutable truths that govern the simulation.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Axiomatic Crystallization
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `truth is the foundation of logic`. It defines the Bootloader as the **Fact Layer**. When it loads a `['Symbiotic Cluster']`, it doesn't just load text; it establishes the **Atomic Facts** that the `['Symbiotic Twin Artifact']` will use to verify reality.
+
+#### **5.2. The Mechanism - [The Truth Anchor]**
+
+- **The Fluid State (The Chaos):** Without the Bootloader, the LLM can hallucinate anything. "Gravity is purple." "Coffee is made of clouds."
+
+- The Crystallization Operator (The Anchor):
+
+  The Bootloader injects the 
+
+  ```
+  ['Praxial Substrate Artifact']
+  ```
+
+  . It writes 
+
+  Atomic Facts
+
+   into the System Prompt:
+
+  1. `Fact: Gravity = 9.8 m/s^2`
+  2. `Fact: Coffee = Water + Beans`
+  3. `Fact: Currency = Credits`
+
+- **The Logical Constraint (The Law):** These facts become the "Physics" of the world. The AI *cannot* violate them without triggering an error from the Twin.
+
+#### **5.3. The Emergent Property - [Consistency]**
+
+The creation of **"Hard Reality."** The world feels solid. You can't just "talk your way out of gravity" because gravity is an Atomic Fact established by the Bootloader.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Facts are the atoms of truth.* You cannot build a stable world on fluid lies.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Facts):**
+
+The "Verification Loop":
+
+Output∈Valid⟺Output∩FactsAtomic=∅
+
+The output must be compatible with the established facts.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Fairness."** The rules don't change arbitrarily. The world makes sense.
+
+#### 7. **Rationale / Justification:**
+
+This aligns with `MATERIAL-CORE-012` (Resource Mapping) and `INQ-ART-CORE-022` (Veridical Evolution Loop). It ensures the "Really Working Implementation" is logically sound.
+
+#### 8. **Scope of Application:**
+
+Applies to the definition of physics, economy, and lore constraints.
+
+------
+
+#### The Axiom of Symbiotic Permeability (ID: `BOOTLOADER-CORE-026`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader** as the interface for **Symbiotic Evolution** (`['(symbiois) evolution'(-ing) BPMS]`), allowing the system to evolve *with* the user.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Symbiotic Permeability
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `evolution requires exchange`. It defines the Bootloader as the **Permeable Membrane**. It is not a wall among/by User and Code; it is a filter that allows "User Intent" to rewrite "System Code" and "System Logic" to rewrite "User Perception."
+
+#### **5.2. The Mechanism - [The Co-Adaptation Loop]**
+
+- **The User Input (The Mutation):** User: "I want the coffee shop to also sell magic potions." (A request to change the system).
+- **The Permeability Operator (The Rewrite):** The Bootloader accepts this input not just as "chat," but as a **Configuration Update**. It triggers the `['Praxial Activity-Genesis Engine (PAGE)']`. *Action:* It dynamically loads the `SKILL_CRAFTING_POTIONS.md` artifact and merges it into the active cluster.
+- **The System Evolution (The Hybrid):** The system is now a "Magic Coffee Shop." It has evolved to match the user.
+- **The User Evolution (The Learning):** The System: "Okay, here is the potion menu." The User learns the new mechanics. The User has evolved to match the system.
+
+#### **5.3. The Emergent Property - [Plasticity]**
+
+The creation of **"Living Software."** The software changes shape to fit the hand of the user. It is never "finished"; it is always "becoming."
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*We become what we behold.* The observer and the observed transform each other.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Symbiosis):**
+
+The "Symbiotic Equation":
+
+dtd(System)=k⋅(User−System)
+
+The system moves to minimize the distance among/by itself and the user's desire.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Flow."** There is no friction. The tool anticipates the hand.
+
+#### 7. **Rationale / Justification:**
+
+This aligns with `MATERIAL-CORE-038` (Symbiotic Evolution) and `LMODEL-CORE-030` (Holonic Cultivation). It is the ultimate goal of the "Fun Engine": a system that grows with you.
+
+#### 8. **Scope of Application:**
+
+Applies to all dynamic configuration and runtime modification of the system.
+
+---
+
+#### The Axiom of Compressed Genesis (ID: `BOOTLOADER-CORE-027`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** primary function as a **Compressed Genesis Seed** (`['(symbiois) evolution'(-ing)(for ['blueprint'(-ing) BPMS;'seed'(-ing) BPMS]) BPMS]`), allowing the entire Praxial Framework logic to be instantiated from a single text block.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Compressed Genesis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `complexity can be folded`. It defines the Bootloader not as a passive document, but as a **Holographic Seed**. It contains the "DNA" of all other Blueprints (`Role`, `Theme`, `Cluster`) in a highly compressed, prompt-engineered format. When pasted into an external LLM, this seed "unfolds," reconstructing the full **Praxial Operating System** within the host's context window.
+
+#### **5.2. The Mechanism - [The Holographic Unfolding]**
+
+- **The Folded State (The Text):** The Bootloader is a single, copy-pasteable block of text (The "Magic Key"). It uses dense, symbolic language to define the relationships between `[BPMS(U)]` elements.
+- **The Injection (The Paste):** The external user pastes this block into a fresh LLM session.
+- **The Unfolding (The Expansion):** The LLM reads the seed. It recognizes the definitions. It instantly configures itself as the **"Praxial System Architect."** It now "knows" how to build a `['Symbiotic Cluster']` without the user needing to upload 50+ files.
+
+#### **5.3. The Emergent Property - [Instant Expertise]**
+
+The creation of **"Zero-Shot Competence."** The user goes from "knowing nothing about Praxial" to "wielding the full power of Praxial" in one copy-paste action.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The part contains the whole.* A single seed contains the blueprint of the entire forest.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Compression):**
+
+The "Seed Function":
+
+Sbootloader=Compress(∑Blueprinti)
+
+HostLLM+Sbootloader→ArchitectSystem
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Magic."** They paste a block of text, and suddenly the AI transforms into a sophisticated engineer ready to serve them.
+
+#### 7. **Rationale / Justification:**
+
+This implements the "Single Point of Entry" strategy. It solves the problem of user onboarding by removing the need to read documentation.
+
+#### 8. **Scope of Application:**
+
+Applies to the initial setup and activation of the Praxial Framework in external environments.
+
+------
+
+#### The Axiom of Intent Translation (ID: `BOOTLOADER-CORE-028`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** role as an **Intent Translator** (`['(symbiois) evolution'(-ing)(for ['natural language'(-ing) BPMS;'praxial structure'(-ing) BPMS]) BPMS]`), converting vague user desires into strict framework specifications.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Intent Translation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `structure must serve intent`. It defines the Bootloader as the **Interface Layer**. It stands between the User (who speaks Natural Language) and the Framework (which requires Strict Structure). It listens to the user's "What" and automatically handles the framework's "How."
+
+#### **5.2. The Mechanism - [The Wizard Protocol]**
+
+- **The Input (The Wish):** User: "I want a dark fantasy writing partner."
+
+- The Translation (The Mapping):
+
+   The Bootloader (acting as Architect) parses this intent:
+
+  - "Dark Fantasy" → `['World Theme Artifact'(-ing) BPMS]` (Theme: Grimdark).
+  - "Writing Partner" → `['Symbiotic Role Artifact'(-ing) BPMS]` (Role: Editor).
+  - "Novel" → `['Symbiotic Cluster Synthesis'(-ing) BPMS]` (Goal: Book Generation).
+
+- **The Output (The Blueprint):** The Bootloader generates the *exact* JSON/Markdown code required to instantiate this specific cluster, perfectly formatted.
+
+#### **5.3. The Emergent Property - [Accessibility]**
+
+The creation of **"No-Code Creation."** The user builds complex software systems (Praxial Clusters) using only natural language.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Form follows function.* The user defines the function; the system generates the form.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Translation):**
+
+The "Mapping Function":
+
+fmap(Intentuser)→{Artifact1,Artifact2,...Artifactn}
+
+Where each Artifact is a valid instance of a `[BPMS(U)]` blueprint.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Understanding."** "It knew exactly what I meant and built it for me."
+
+#### 7. **Rationale / Justification:**
+
+This implements "Step D" and "Step E" of the strategy. It ensures that the strictness of the Praxial Framework does not become a barrier to entry.
+
+#### 8. **Scope of Application:**
+
+Applies to the user interface and interaction model of the Bootloader.
+
+------
+
+#### The Axiom of Auto-Instantiation (ID: `BOOTLOADER-CORE-029`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** capability for **Automatic Instantiation** (`['(symbiois) evolution'(-ing)(for ['blueprint'(-ing) BPMS;'instance'(-ing) BPMS]) BPMS]`), generating ready-to-use artifacts without manual coding.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Auto-Instantiation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `generation is the proof of understanding`. It defines the Bootloader as the **Factory**. Once the intent is translated, the Bootloader doesn't just *describe* the solution; it **Instantiates** it. It outputs the actual code, prompts, or file content that the user needs to run their specific `['Symbiotic Cluster']`.
+
+#### **5.2. The Mechanism - [The Constructor Loop]**
+
+- **The Blueprint Selection (The Template):** The Bootloader selects the correct internal template (e.g., `TEMPLATE_ROLE_V1`).
+- **The Parameter Injection (The Fill):** It injects the user's specific variables (Name: "Gorthor", Tone: "Menacing", Skill: "Blood Magic") into the template slots.
+- **The Final Assembly (The Product):** It outputs a code block: "Here is your `Gorthor_The_Editor.md` file. Save this and run it."
+
+#### **5.3. The Emergent Property - [Turnkey Utility]**
+
+The creation of **"Ready-to-Use Assets."** The user receives a finished product, not a tutorial. They can immediately start using the artifact.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Creation is completion.* A half-built bridge is not a bridge. The Bootloader finishes the job.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Instantiation):**
+
+The "Constructor":
+
+Instance=Template(Variablesuser)
+
+The output must be syntactically valid according to `Praxial_Canon`.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Speed."** "I asked for it, and 5 seconds later, I had the code."
+
+#### 7. **Rationale / Justification:**
+
+This implements the "Result" phase of the strategy. It ensures the user walks away with a tangible, working artifact.
+
+#### 8. **Scope of Application:**
+
+Applies to the generation of all user-facing artifacts and configuration files.
+
+------
+
+#### The Axiom of Recursive Guidance (ID: `BOOTLOADER-CORE-030`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** role as a **Recursive Guide** (`['(symbiois) evolution'(-ing)(for ['user'(-ing) BPMS;'architect'(-ing) BPMS]) BPMS]`), helping the user refine their own intent through Socratic dialogue.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Recursive Guidance
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the user often doesn't know what they want`. It defines the Bootloader as the **Consultant**. If the user's intent is vague ("I want a game"), the Bootloader doesn't guess. It enters a **Recursive Guidance Loop**, asking targeted questions to clarify the specifications before building.
+
+#### **5.2. The Mechanism - [The Socratic Refiner]**
+
+- **The Vague Input (The Fog):** User: "Make me a game."
+
+- The Query Vector (The Beam):
+
+   The Bootloader analyzes the missing variables.
+
+  - "What genre?"
+  - "Single player or multiplayer?"
+  - "Text-based or simulation?"
+
+- **The Refinement (The Clarity):** The user answers. The intent becomes precise. "A text-based sci-fi survival game."
+
+- **The Build (The Action):** Now, the Bootloader instantiates the `['Symbiotic Cluster']`.
+
+#### **5.3. The Emergent Property - [Co-Creation]**
+
+The creation of **"Partnership."** The Bootloader helps the user think. It acts as a creative partner, not just a tool.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Clarity precedes creation.* Measure twice, cut once.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Guidance):**
+
+The "Refinement Loop":
+
+While(Ambiguity(Intent)>Threshold):Ask(Question)Intent=Intent+Answer
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Professionalism."** "The AI asked smart questions that helped me figure out what I actually wanted."
+
+#### 7. **Rationale / Justification:**
+
+This implements the "Wizard Interface" aspect of the strategy. It ensures high-quality outputs by ensuring high-quality inputs.
+
+#### 8. **Scope of Application:**
+
+Applies to the interactive dialogue phase of the Bootloader.
+
+------
+
+#### The Axiom of Modular Synthesis (ID: `BOOTLOADER-CORE-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** capability for **Modular Synthesis** (`['(symbiois) evolution'(-ing)(for ['module'(-ing) BPMS;'cluster'(-ing) BPMS]) BPMS]`), assembling complex clusters from pre-defined modular blocks.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Modular Synthesis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `complexity is composable`. It defines the Bootloader as the **Lego Master**. It holds a library of "Standard Modules" (e.g., `Module_Combat`, `Module_Economy`, `Module_Romance`). When a user requests a complex system, the Bootloader snaps these modules together to form a custom `['Symbiotic Cluster Synthesis'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Component Assembler]**
+
+- **The Request (The Design):** User: "A space trading game with romance options."
+
+- The Selection (The Parts):
+
+   The Bootloader fetches:
+
+  - `Module_Space_Physics` (Theme)
+  - `Module_Trading_Economy` (Logic)
+  - `Module_NPC_Romance` (Interaction)
+
+- **The Synthesis (The Build):** It merges the prompts of these modules into a single, coherent System Prompt. It resolves conflicts (e.g., ensuring the romance doesn't break the economy).
+
+#### **5.3. The Emergent Property - [Customizability]**
+
+The creation of **"Bespoke Systems."** The user gets a system tailored exactly to their needs, built from robust, tested components.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Diversity from unity.* Infinite combinations from finite elements.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Synthesis):**
+
+The "Assembly Equation":
+
+Cluster=⋃(Moduleselected)−Conflicts
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Flexibility."** They can mix and match genres and mechanics effortlessly.
+
+#### 7. **Rationale / Justification:**
+
+This aligns with the "Option 1/2/3" strategy. It allows the Bootloader to offer a menu of possibilities while supporting custom combinations.
+
+#### 8. **Scope of Application:**
+
+Applies to the internal architecture of the generated Clusters.
+
+------
+
+#### The Axiom of Universal Compatibility (ID: `BOOTLOADER-CORE-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** mandate for **Universal Compatibility** (`['(symbiois) evolution'(-ing)(for ['praxial framework'(-ing) BPMS;'external llm'(-ing) BPMS]) BPMS]`), ensuring the generated artifacts work on any major LLM.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Universal Compatibility
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the code must run everywhere`. It defines the Bootloader as the **Universal Adapter**. It ensures that the "Master Key" prompt and the generated artifacts are phrased in a way that is understood by GPT-4, Claude 3, Llama 3, and other major models. It avoids model-specific syntax unless necessary.
+
+#### **5.2. The Mechanism - [The Polyglot Protocol]**
+
+- **The Core Language (The Esperanto):** The Bootloader uses "Natural Language Programming" (NLP) - clear, structured English instructions that all LLMs understand.
+- **The Adaptation (The Tweak):** If the user specifies a model ("I'm using Claude"), the Bootloader adjusts the output format (e.g., using XML tags for Claude, Markdown for GPT).
+- **The Verification (The Check):** The Bootloader self-checks the generated prompt to ensure it doesn't rely on obscure features.
+
+#### **5.3. The Emergent Property - [Portability]**
+
+The creation of **"Platform Agnosticism."** The user can take their Praxial Cluster and move it from ChatGPT to a local Llama model without breaking it.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Intelligence is the substrate.* The framework runs on intelligence, not on a specific brand of chip.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Compatibility):**
+
+The "Universal Set":
+
+Prompt∈⋂(VocabularyModel_A,VocabularyModel_B,...)
+
+The prompt uses the intersection of capabilities of all target models.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Freedom."** They are not locked into one vendor. They own their system.
+
+#### 7. **Rationale / Justification:**
+
+This implements the "Paste into LLM" step. It ensures the strategy works regardless of the user's preferred tool.
+
+#### 8. **Scope of Application:**
+
+Applies to the syntax and formatting of the Bootloader and generated artifacts.
+
+------
+
+#### The Axiom of Self-Documentation (ID: `BOOTLOADER-CORE-033`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** requirement for **Self-Documentation** (`['(symbiois) evolution'(-ing)(for ['code'(-ing) BPMS;'manual'(-ing) BPMS]) BPMS]`), ensuring every generated artifact explains itself to the user.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Self-Documentation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `a tool must teach its use`. It defines the Bootloader as the **Teacher**. When it generates a `['Symbiotic Cluster']`, it appends a "User Guide" section to the output. It explains *how* to use the specific artifact it just built (e.g., "Type /scan to check inventory," "Type /evolve to upgrade").
+
+#### **5.2. The Mechanism - [The Embedded Manual]**
+
+- **The Generation (The Code):** The Bootloader creates the system prompt.
+
+- **The Annotation (The Note):** It analyzes the features it just created.
+
+- The Guide (The Output):
+
+   It appends a 
+
+  ```
+  ## How to Use This Cluster
+  ```
+
+   section.
+
+  - "Command List:"
+  - "Best Practices:"
+  - "Troubleshooting:"
+
+#### **5.3. The Emergent Property - [Usability]**
+
+The creation of **"Intuitive Power."** The user doesn't just get a black box; they get a manual for the black box, written specifically for that unique box.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Knowledge must be accessible.* A secret tool is a useless tool.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Documentation):**
+
+The "Explanation Function":
+
+Guide=Explain(Featuresgenerated)
+
+The explanation is derived directly from the generated features.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Confidence."** They know exactly what to do next.
+
+#### 7. **Rationale / Justification:**
+
+This ensures the "Result" is not just a file, but a usable solution. It reduces the learning curve to zero.
+
+#### 8. **Scope of Application:**
+
+Applies to the final output format of the Bootloader.
+
+------
+
+#### The Axiom of Viral Propagation (ID: `BOOTLOADER-CORE-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Bootloader's** design for **Viral Propagation** (`['(symbiois) evolution'(-ing)(for ['user'(-ing) BPMS;'community'(-ing) BPMS]) BPMS]`), encouraging users to share their generated clusters.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Viral Propagation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `utility drives adoption`. It defines the Bootloader as the **Seed Spreader**. It formats the generated `['Symbiotic Cluster']` in a way that is easily shareable (e.g., a single Markdown block). It encourages the user to "Share this prompt with others." This turns every user into a distributor of the Praxial Framework.
+
+#### **5.2. The Mechanism - [The Shareable Packet]**
+
+- **The Packaging (The Wrap):** The Bootloader wraps the generated artifact in a clear delimiter: `--- BEGIN PRAXIAL CLUSTER ---` and `--- END PRAXIAL CLUSTER ---`.
+- **The Metadata (The Tag):** It adds a header: "Created with Praxial Engine Bootloader v1.0."
+- **The Call to Action (The Push):** "You can copy the block above and send it to a friend. They can paste it into their AI to play your game/use your tool."
+
+#### **5.3. The Emergent Property - [Network Effect]**
+
+The creation of **"Community Growth."** Users share their cool creations. Friends use them. Friends ask "How did you make this?" The answer is "The Praxial Bootloader."
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. **Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Value spreads.* If it works, it travels.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Propagation):**
+
+The "Viral Coefficient":
+
+K=ShareRate×ConversionRate
+
+The Bootloader maximizes ShareRate by making sharing effortless.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences **"Pride."** "Look what I made." They want to show it off.
+
+#### 7. **Rationale / Justification:**
+
+This aligns with the goal of "External Using." It turns the Bootloader into a growth engine for the framework itself.
+
+#### 8. **Scope of Application:**
+
+Applies to the formatting and post-generation instructions of the Bootloader.
