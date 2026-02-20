@@ -1,6 +1,5 @@
 ## Blueprint Implementation for External Using (Symbiotic Twin Artifact)
 
-~~~markdown
 #### 1. Metadata
 
 - **ID:** `BP-TWIN-ARTIFACT-MASTER-001`
@@ -91,7 +90,7 @@ This structure is designed to allow any **`[BPMS(U)]`** element to be instantiat
 1.  Load the {TWIN_NAME} configuration.
 2.  Initiate the **Differential Mirroring** protocol.
 3.  Announce: "Twin Online. Shadow Synchronized. Ready to Simulate."
-~~~
+```
 
 #### 4. The State Crystallization Schema (Artifact Format)
 
