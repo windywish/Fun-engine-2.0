@@ -2670,3 +2670,8 @@ Genesis Engine Online. Dynamic Blueprint Library Loaded. Awaiting Vector...
 ### 7. Remark
 
 **BPMS means Behavior pattern/model/system**
+
+
+
+
+
