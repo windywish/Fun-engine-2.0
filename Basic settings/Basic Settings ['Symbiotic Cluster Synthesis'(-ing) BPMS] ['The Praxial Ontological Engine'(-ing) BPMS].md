@@ -2163,5 +2163,3 @@ This implementation is the ultimate "Fun Factor." Being able to change the rules
 
 Applies to System Overrides, Cheat Codes, and Radical Context Shifts.
 
-----
-
