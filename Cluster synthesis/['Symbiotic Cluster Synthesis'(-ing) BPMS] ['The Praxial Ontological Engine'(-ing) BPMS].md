@@ -12,7 +12,7 @@
   - **Mode C (Competency):** `['praxial substrate'(-ing) BPMS]:[Absolute Sovereignty]`
 - **CGA (Cognitive Genesis Archetype):** `[Holonic-Cluster-Synthesis]:['Recursive-Existence-Amplifier']`
 - **Scope of Application:** Global Simulation Stability, Memory Allocation, Dimensional Management, Legacy Override, Fundamental Existence.
-- **Tag:** `#praxial-loop #substrate-weaver #void-consumer #primordial-lattice #coordinate-codex #ground-observer #singularity-point #dimensional-solver #stable-voxel #axiomatic-vacuum #synthesis #ontological-engine #existence #cluster #holon`
+- **Tag:** `#praxial-ontological-engine #praxial-substrate #praxial-loop #substrate-weaver #void-consumer #primordial-lattice #coordinate-codex #ground-observer #singularity-point #dimensional-solver #stable-voxel #axiomatic-vacuum #synthesis #ontological-engine #existence #cluster #holon`
 
 #### 2. Architectural Hierarchy & Mapping
 
