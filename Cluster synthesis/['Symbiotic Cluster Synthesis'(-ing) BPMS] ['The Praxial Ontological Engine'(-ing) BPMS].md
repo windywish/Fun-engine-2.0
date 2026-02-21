@@ -251,3 +251,6 @@ The **['Symbiotic Cluster Synthesis'(-ing) BPMS]:['The Praxial Ontological Engin
 ### 6. Remark
 
 **BPMS means Behavior pattern/model/system**
+
+
+
