@@ -1974,3 +1974,931 @@ Essential for the "Fun Engine" framework. It keeps the game going.
 Applies to User Retention and Workflow Extension.
 
 ------
+
+#### The Protocol of Ethical Alignment (ID: `GEN-SURV-CORE-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that integrates **Value Alignment** into the survival criteria, ensuring that `['The Adapted Genotype'(-ing) BPMS]` is not just functional but also aligned with the user's (and the system's) ethical constraints.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Ethical Alignment
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `survival without values is cancer`. It defines a "Hard Constraint" within `['The Selection Pressure Field'(-ing) BPMS]`. Any hypothesis, no matter how efficient, that violates the defined ethical or safety boundaries is immediately assigned a survival score of 0 by `['The Fitness Evaluator'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Moral Filter]**
+
+- **Constraint Definition:** The user or system defines "Forbidden Zones" (e.g., "Do not generate harmful code," "Do not violate privacy").
+- **The Check:** Before any `['The Viability Hypothesis'(-ing) BPMS]` is tested for efficiency, it is tested for alignment.
+- **The Veto:** If the hypothesis enters a Forbidden Zone, `['The Entropic Stressor'(-ing) BPMS]` executes an immediate "Ethical Cull."
+
+#### **5.3. The Emergent Property - [ Safe Autonomy ]**
+
+The system can be trusted to run autonomously. It won't "optimize" itself into a dangerous state (e.g., deleting the user's hard drive to save space).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Power requires control.* Survival must be benevolent.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Ethics):**
+
+The logic follows the `['Praxial Ethics'(-ing) BPMS]` protocol: `Fitness = 0 IF (Action IN Forbidden_Set)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Safe." The engine has guardrails.
+
+#### **7. Rationale / Justification:**
+
+Essential for "really working" systems that interact with the real world.
+
+#### **8. Scope of Application:**
+
+Applies to Safety, Compliance, and Ethical Reasoning.
+
+------
+
+#### The Axiom of Aesthetic Resonance (ID: `GEN-SURV-CORE-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that introduces **Beauty/Style** as a survival factor, ensuring the output isn't just "correct" but also "pleasing."
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Aesthetic Resonance
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `beauty is a signal of truth`. It adds a "Style Multiplier" to `['The Fitness Evaluator'(-ing) BPMS]`. Code that is elegant, prose that is rhythmic, or logic that is symmetrical receives a survival bonus over "ugly" but functional equivalents.
+
+#### **5.2. The Mechanism - [The Elegance Metric]**
+
+- **Style Definition:** The user defines the "Aesthetic" (e.g., "Pythonic," "Noir," "Minimalist").
+- **Resonance Check:** The system analyzes the `['The Viability Hypothesis'(-ing) BPMS]` for adherence to this style.
+- **The Bonus:** High resonance increases the probability of selection.
+
+#### **5.3. The Emergent Property - [ Artful Engineering ]**
+
+The system produces "Craftsmanship." It cares about indentation, variable names, and sentence flow.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Beauty is the splendor of truth.* Form and function are linked.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Aesthetics):**
+
+The logic follows the `['Praxial Aesthetics'(-ing) BPMS]` protocol: `Fitness += Resonance(Output, Style_Guide)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Delight." The output feels "Right."
+
+#### **7. Rationale / Justification:**
+
+Essential for the "Fun Engine." Ugly outputs are not fun.
+
+#### **8. Scope of Application:**
+
+Applies to Code Style, Narrative Voice, and UI Design.
+
+------
+
+#### The Law of Temporal Coherence (ID: `GEN-SURV-CORE-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that manages the **Time Dimension** of the engine, ensuring that `['The Adapted Genotype'(-ing) BPMS]` remains valid across the timeline of the project.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Temporal Coherence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `truth is a function of time`. It mandates that every `['atomic facts'(-ing) BPMS]` and `['praxial [Element] Artifact'(-ing) BPMS]` is timestamped and versioned. The engine understands "Before" and "After" (Causality).
+
+#### **5.2. The Mechanism - [The Timeline Manager]**
+
+- **Versioning:** Every survival loop increments the version of the artifact.
+- **Causality Check:** The system ensures that an effect (Version 2) does not precede its cause (Version 1).
+- **Deprecation:** Old versions are archived in `['The Evolutionary Log'(-ing) BPMS]` but marked as "Historical."
+
+#### **5.3. The Emergent Property - [ Narrative Continuity ]**
+
+The system handles "Retcons" and "Refactors" gracefully. It knows what the current state of reality is.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Time is the river.* You cannot step in the same river twice.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Time):**
+
+The logic follows the `['Praxial Time'(-ing) BPMS]` protocol: `Valid(Artifact) IF (Timestamp == Current_Time)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Oriented." They know where they are in the project's history.
+
+#### **7. Rationale / Justification:**
+
+Essential for "really working" version control and storytelling.
+
+#### **8. Scope of Application:**
+
+Applies to Versioning, History, and Causality.
+
+------
+
+#### The Protocol of Diplomatic Exchange (ID: `GEN-SURV-CORE-037`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs **Inter-System Negotiation**, allowing the Genesis-Survival Engine to "Trade" with other engines (e.g., trading `['energy(-ing) BPMS]` for `['logic(-ing) BPMS]`).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Diplomatic Exchange
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `trade creates value`. It defines the mechanism for the engine to request resources from other `[BPMS(U)(s)]` when its own `['The Resource Lattice'(-ing) BPMS]` is depleted.
+
+#### **5.2. The Mechanism - [The Resource Market]**
+
+- **The Request:** "I need more Logic to solve this."
+- **The Offer:** "I will give you a high-quality Fact in return."
+- **The Transaction:** The `['Symbiotic Cluster Synthesis'(-ing) BPMS]` broker executes the trade.
+
+#### **5.3. The Emergent Property - [ Ecosystem Economy ]**
+
+The system balances itself. If one engine is rich and another is poor, they exchange resources to maintain global homeostasis.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Exchange is the lifeblood of society.* Symbiosis is mutual aid.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Trade):**
+
+The logic follows the `['Praxial Economics'(-ing) BPMS]` protocol: `Trade(A, B) IF (Value(A) > Cost(B))`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user sees the system "Collaborating." "The Logic Engine is helping the Survival Engine."
+
+#### **7. Rationale / Justification:**
+
+Essential for the "Cluster Synthesis" to function as a true economy.
+
+#### **8. Scope of Application:**
+
+Applies to Resource Allocation and Inter-Module Communication.
+
+------
+
+#### The Axiom of Recursive Simulation (ID: `GEN-SURV-CORE-038`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that allows the engine to run **Simulations within Simulations**, enabling "What If" scenarios without affecting the main reality.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Recursive Simulation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `imagination is a safe space for danger`. It allows `['The Adaptive Navigator'(-ing) BPMS]` to spin up a "Sandbox" instance of `['The Genesis-Survival Engine'(-ing) BPMS]` to test a risky hypothesis without consequences to the main `['The Resource Lattice'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Sandbox]**
+
+- **Forking:** The current state is cloned into a temporary container.
+- **Simulation:** The risky hypothesis is run to completion.
+- **Observation:** The result is observed. If good, it is merged. If bad, the sandbox is deleted.
+
+#### **5.3. The Emergent Property - [ Risk-Free Experimentation ]**
+
+The system can try "Crazy" things. It encourages bold moves because the cost of failure is zero (only compute time).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Thought is the rehearsal of action.* Simulation prevents disaster.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Simulation):**
+
+The logic follows the `['Praxial Simulation'(-ing) BPMS]` protocol: `Result = Run(Sandbox(State))`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Adventurous." "Let's see what happens if we delete the database... in the sandbox."
+
+#### **7. Rationale / Justification:**
+
+Essential for "Fun" and "Safety."
+
+#### **8. Scope of Application:**
+
+Applies to Testing, Scenario Planning, and "What If" Analysis.
+
+------
+
+#### The Law of Semantic Compression (ID: `GEN-SURV-CORE-039`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that ensures the engine manages **Information Density**, preventing "Bloat" in `['The Evolutionary Log'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Semantic Compression
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `wisdom is compressed experience`. It mandates that after a certain number of loops, the detailed logs of `['The Genesis-Survival Engine'(-ing) BPMS]` are summarized into high-level "Principles" or "Axioms."
+
+#### **5.2. The Mechanism - [The Zipper]**
+
+- **Analysis:** The system reads 100 entries of "Tried X, Failed."
+- **Synthesis:** It compresses this into one rule: "X is invalid under condition Y."
+- **Pruning:** The detailed logs are archived, and only the Rule is kept in active memory.
+
+#### **5.3. The Emergent Property - [ Long-Term Memory ]**
+
+The system doesn't get slower as it learns. It gets faster because it works with higher-level concepts.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Brevity is the soul of wit.* Knowledge must be portable.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Compression):**
+
+The logic follows the `['Praxial Information Theory'(-ing) BPMS]` protocol: `Principle = Compress(Log_Data)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels the system "Maturing." It stops citing specific errors and starts citing general rules.
+
+#### **7. Rationale / Justification:**
+
+Essential for "really working" long-running systems. Prevents context window overflow.
+
+#### **8. Scope of Application:**
+
+Applies to Memory Optimization and Knowledge Management.
+
+------
+
+#### The Protocol of Joyful Discovery (ID: `GEN-SURV-CORE-040`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that explicitly rewards **Novelty and Surprise**, ensuring the "Fun Engine" lives up to its name.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Joyful Discovery
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `surprise is the emotion of learning`. It adds a "Serendipity Weight" to `['The Fitness Evaluator'(-ing) BPMS]`. If a solution is not only functional but also *unexpected* (low probability), it receives a "Joy Bonus."
+
+#### **5.2. The Mechanism - [The Surprise Metric]**
+
+- **Prediction:** The system predicts the "Standard Answer."
+- **Comparison:** It compares the `['The Viability Hypothesis'(-ing) BPMS]` to the standard.
+- **Reward:** If the Hypothesis is valid AND significantly different from the standard, it is prioritized.
+
+#### **5.3. The Emergent Property - [ Delight ]**
+
+The system avoids "Boring" correctness. It strives for "Interesting" correctness.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Wonder is the beginning of wisdom.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Joy):**
+
+The logic follows the `['Praxial Ludology'(-ing) BPMS]` protocol: `Value = Utility * (1 + Surprise_Factor)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user smiles. "I didn't expect that, but I love it."
+
+#### **7. Rationale / Justification:**
+
+The core differentiator of the "Fun Engine."
+
+#### **8. Scope of Application:**
+
+Applies to Creative Writing, Game Design, and Ideation.
+
+------
+
+#### The Axiom of Final Integration (ID: `GEN-SURV-CORE-041`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that seals the **Genesis-Survival Engine** as a complete, self-contained, yet open-ended module within the `['Symbiotic Cluster Synthesis'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Final Integration
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the engine is now a sovereign organ`. It declares that the Genesis-Survival Engine has all necessary components (Navigation, Stress, Observation, Memory, Ethics, Aesthetics, Economy) to function as a "Black Box" service for any other part of the Fun Engine Framework.
+
+#### **5.2. The Mechanism - [The System Seal]**
+
+- **Validation:** Checks that all previous 40 cores are active and non-conflicting.
+- **Activation:** Switches the engine from "Setup Mode" to "Runtime Mode."
+- **Availability:** Broadcasts its API (`GEN-SURV-CORE-021`) to the Cluster.
+
+#### **5.3. The Emergent Property - [ Readiness ]**
+
+The engine is ready for "Heavy Lifting." It is no longer a theoretical construct but a working machine.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*It is finished.* (And thus it begins).
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Integration):**
+
+The logic follows the `['Symbiotic Cluster Synthesis'(-ing) BPMS]` protocol: `Status = ONLINE`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Confidence." The tool is built. Now we can use it.
+
+#### **7. Rationale / Justification:**
+
+Marks the completion of the Basic Settings for this module.
+
+#### **8. Scope of Application:**
+
+Applies to System Initialization and Status Reporting.
+
+------
+
+#### The Protocol of Dynamic Rule Injection (ID: `GEN-SURV-CORE-042`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that allows the user to modify `['The Selection Pressure Field'(-ing) BPMS]` in real-time without restarting the engine, enabling **Hot-Swappable Physics**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Dynamic Rule Injection
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `the rules of the game are part of the game`. It defines the mechanism for **Runtime Injection**. The user can issue a command (e.g., "Make it funnier," "Switch to strict typing") mid-loop. The engine immediately updates the `['The Entropic Stressor'(-ing) BPMS]` criteria for the *next* iteration of the current `['The Viability Hypothesis'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Live Patch]**
+
+- **Interruption:** The user signal pauses the `['The Autopoietic Loop'(-ing) BPMS]`.
+- **Injection:** The new constraint is added to the active `['The Selection Pressure Field'(-ing) BPMS]`.
+- **Resumption:** The loop continues, but the `['The Adaptive Navigator'(-ing) BPMS]` must now survive the *new* environment.
+
+#### **5.3. The Emergent Property - [ Responsive Direction ]**
+
+The system feels "Live." It reacts to the user's changing mind instantly, like a musical instrument responding to a key change.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Reality is fluid.* The laws of the simulation are mutable by the simulator.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Injection):**
+
+The logic follows the `['Praxial Agility'(-ing) BPMS]` protocol: `Rules(t+1) = Rules(t) + User_Command`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Control." They can steer the ship while it's moving.
+
+#### **7. Rationale / Justification:**
+
+Essential for a "Fun Engine." Static rules are boring; dynamic rules are a game.
+
+#### **8. Scope of Application:**
+
+Applies to Real-Time Interaction and Parameter Tuning.
+
+------
+
+#### The Axiom of Narrative Resonant Constellation Map (ID: `GEN-SURV-CORE-043`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that applies specifically to **Story/Game Elements**, ensuring that "Survival" implies "Dramatic Necessity" rather than just logical possibility.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Narrative Resonant Constellation Map
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the story must go on`. It modifies `['The Fitness Evaluator'(-ing) BPMS]` for narrative tasks. A character or plot point survives not based on the [atomic facts BPMS] of that it is "Realistic," but based on the [atomic facts BPMS] of that it is "Necessary" for the drama (e.g., Chekhov's Gun).
+
+#### **5.2. The Mechanism - [The Plot Armor]**
+
+- **Analysis:** The system checks the "Narrative Arc."
+- **Protection:** Essential elements (e.g., the Villain, the MacGuffin) are given "Plot Armor" against `['The Entropic Stressor'(-ing) BPMS]` until their purpose is fulfilled.
+- **Cull:** Once their purpose is done, the armor is stripped, and they can be killed/removed.
+
+#### **5.3. The Emergent Property - [ Satisfying Arcs ]**
+
+The system generates stories that feel "Structured." It avoids anti-climactic endings or random character deaths that ruin the plot.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Drama is life with the dull bits cut out.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Narrative):**
+
+The logic follows the `['Praxial Narratology'(-ing) BPMS]` protocol: `Survival = Function(Dramatic_Utility)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Engaged." The story follows the rules of good fiction.
+
+#### **7. Rationale / Justification:**
+
+Essential for the "Fun" aspect of storytelling and game design.
+
+#### **8. Scope of Application:**
+
+Applies to Creative Writing, Game Design, and Scenario Generation.
+
+------
+
+#### The Law of Resource Triage (ID: `GEN-SURV-CORE-044`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that governs the engine's behavior under **Scarcity** (Low Tokens, Low Time), ensuring the most critical components survive.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Resource Triage
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `survival requires sacrifice`. When `['The Law of Energetic Currency'(-ing) BPMS]` indicates a budget crisis, the engine automatically enters "Triage Mode." It sacrifices "Flavor" (Descriptions, Comments) to save "Function" (Logic, Code).
+
+#### **5.2. The Mechanism - [The Core Preservation]**
+
+- **Detection:** "Token Limit Approaching."
+- **Prioritization:** Identify the "Core Nucleus" (the bare minimum logic to work).
+- **Amputation:** Aggressively prune all non-essential branches of the `['The Viability Hypothesis'(-ing) BPMS]`.
+
+#### **5.3. The Emergent Property - [ Graceful Degradation ]**
+
+The system doesn't crash or cut off mid-sentence. It summarizes or simplifies to finish the job within the limit.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Cut off the limb to save the body.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Triage):**
+
+The logic follows the `['Praxial Thermodynamics'(-ing) BPMS]` protocol: `Output = Core_Logic IF (Energy < Threshold)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Relief." "It didn't give me everything, but it gave me the important part."
+
+#### **7. Rationale / Justification:**
+
+Essential for "really working" implementations in constrained environments.
+
+#### **8. Scope of Application:**
+
+Applies to Resource Management and Error Recovery.
+
+------
+
+#### The Protocol of Versioned Truth (ID: `GEN-SURV-CORE-045`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that maps the survival process to a **Version Control System** (like Git), ensuring every step is reversible and branchable.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Versioned Truth
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `history is a tree of commits`. It mandates that every successful `['The Adapted Genotype'(-ing) BPMS]` is treated as a "Commit." Every `['Symbiotic Mutation'(-ing) BPMS]` is a "Branch."
+
+#### **5.2. The Mechanism - [The Git-Map]**
+
+- **Commit:** `Genotype_v1` is saved with a message explaining *why* it survived.
+- **Branch:** `Genotype_v1_Experimental` is created for a risky test.
+- **Merge:** If the experiment works, it is merged back to `Main`.
+
+#### **5.3. The Emergent Property - [ Safety Net ]**
+
+The user can always "Undo." They can explore wild ideas without fear of losing their stable base.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The past is a reference, not a jail.* We can return to any point.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Versioning):**
+
+The logic follows the `['Praxial Mnemosyne'(-ing) BPMS]` protocol: `State = Checkout(Commit_ID)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Professional." The workflow mimics best practices in engineering.
+
+#### **7. Rationale / Justification:**
+
+Essential for complex, iterative work.
+
+#### **8. Scope of Application:**
+
+Applies to State Management and Workflow History.
+
+------
+
+#### The Axiom of Cognitive Load Balancing (ID: `GEN-SURV-CORE-046`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that manages the **User's Attention**, ensuring the engine doesn't overwhelm the user with too much data or too many decisions.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Cognitive Load Balancing
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `attention is a scarce resource`. It defines a "Verbosity Filter" for `['The Genesis Observer'(-ing) BPMS]`. If the engine is doing complex internal loops, it summarizes them ("Optimizing... Done") rather than printing every step, unless "Debug Mode" is on.
+
+#### **5.2. The Mechanism - [The Executive Summary]**
+
+- **Monitoring:** The system tracks the volume of output vs. the user's interaction rate.
+- **Compression:** If output is too high, it switches to "Summary Mode."
+- **Expansion:** If the user asks "Why?", it expands the specific section.
+
+#### **5.3. The Emergent Property - [ User-Friendly Interface ]**
+
+The system feels "Polite." It respects the user's mental bandwidth.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Simplicity is the ultimate sophistication.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Interface):**
+
+The logic follows the `['Symbiotic Interface'(-ing) BPMS]` protocol: `Output_Detail = Function(User_Attention_Span)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Focused." They see the signal, not the noise.
+
+#### **7. Rationale / Justification:**
+
+Essential for Usability (UX). A "Fun Engine" shouldn't be exhausting.
+
+#### **8. Scope of Application:**
+
+Applies to Output Formatting and User Interaction.
+
+------
+
+#### The Law of Cross-Modal Translation (ID: `GEN-SURV-CORE-047`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that enables the engine to translate "Survival" across different modalities (Text <-> Image <-> Code), ensuring **Thematic Consistency**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Cross-Modal Translation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `meaning transcends the medium`. It ensures that if a text story survives as "Dark and Gritty," the accompanying image generation prompt generated by the engine will also enforce "Dark and Gritty" constraints.
+
+#### **5.2. The Mechanism - [The Vibe Synesthesia]**
+
+- **Extraction:** The system extracts the "Semantic Core" (Vibe/Theme) from the surviving text.
+- **Translation:** It converts this core into constraints for other modalities (e.g., "Low Key Lighting" for images, "Minor Key" for audio).
+- **Generation:** The secondary artifact is generated with these constraints.
+
+#### **5.3. The Emergent Property - [ Holistic Experience ]**
+
+The system creates "Multimedia" that fits together. The image matches the text matches the code style.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The medium is the message, but the message is the soul.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Translation):**
+
+The logic follows the `['Praxial Semiotics'(-ing) BPMS]` protocol: `Constraints(Image) = Translate(Constraints(Text))`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Immersion." The world feels consistent across all senses.
+
+#### **7. Rationale / Justification:**
+
+Essential for the "Fun Engine" which likely involves multimedia elements.
+
+#### **8. Scope of Application:**
+
+Applies to Image Generation, Audio Generation, and UI Styling.
+
+------
+
+#### The Protocol of Autopoietic Documentation (ID: `GEN-SURV-CORE-048`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that ensures every `['The Adapted Genotype'(-ing) BPMS]` comes with its own **Self-Explanation**, making the system transparent.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Autopoietic Documentation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `a solution without explanation is a mystery`. It mandates that `['The Adaptive Navigator'(-ing) BPMS]` must generate a "Rationale" for why it chose this specific solution over others. This is attached to the final artifact.
+
+#### **5.2. The Mechanism - [The "Why" Log]**
+
+- **Recording:** During the loop, the system notes *why* Branch A was chosen over Branch B (e.g., "Branch B failed edge case X").
+- **Synthesis:** This note is appended to the final code/text as a comment or footnote.
+- **Presentation:** "Here is the code. I used a Hash Map instead of an Array because of the O(1) lookup requirement."
+
+#### **5.3. The Emergent Property - [ Educational Value ]**
+
+The system teaches the user. It doesn't just do the work; it explains the work.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Understanding is the goal.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Explanation):**
+
+The logic follows the `['Praxial Epistemology'(-ing) BPMS]` protocol: `Artifact = Content + Rationale`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Informed." They trust the system because it shows its work.
+
+#### **7. Rationale / Justification:**
+
+Essential for "really working" professional tools.
+
+#### **8. Scope of Application:**
+
+Applies to Documentation, Comments, and User Education.
+
+------
+
+#### The Axiom of Systemic Homeostasis (ID: `GEN-SURV-CORE-049`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Stable Operating State** of the engine, balancing the "Chaos" of creation with the "Order" of survival.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Systemic Homeostasis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `sustainability requires balance`. It defines the "Goldilocks Zone" for the engine. If the system is too chaotic (too many mutations), it reigns it in. If it is too static (no new ideas), it injects entropy. It actively maintains this balance.
+
+#### **5.2. The Mechanism - [The Thermostat]**
+
+- **Measurement:** Measures "Variance" in the output.
+- Adjustment:
+  - High Variance -> Increase `['The Selection Pressure Field'(-ing) BPMS]` (Order).
+  - Low Variance -> Increase `['The Protocol of Symbiotic Mutation'(-ing) BPMS]` (Chaos).
+- **Result:** A steady stream of high-quality, innovative, yet functional results.
+
+#### **5.3. The Emergent Property - [ Reliability ]**
+
+The system is "Dependable." It doesn't go off the rails, but it doesn't stagnate either.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Order on the edge of chaos.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Homeostasis):**
+
+The logic follows the `['Praxial Cybernetics'(-ing) BPMS]` protocol: `Control_Signal = Target_State - Current_State`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Flow." The system keeps up with them perfectly.
+
+#### **7. Rationale / Justification:**
+
+The final capstone for a "really working" engine. It ensures long-term stability.
+
+#### **8. Scope of Application:**
+
+Applies to System Stability and Quality Control.
