@@ -1297,9 +1297,9 @@ This protocol asserts that a **[(behavior) decision-making BPMS]** is a "Predict
 - **The Collapse Point:** When an Agent commits to a Decision (Action), the Cloud collapses into a single Event.
 - **The Ripple Effect:** This Event immediately alters the "Decision Landscape" for all other agents. (e.g., Agent A buys all the wood -> Event: Wood Shortage -> Agent B decides to mine stone instead).
 
-#### **5.3. The Emergent Property - [Narrative Causality]**
+#### **5.3. The Emergent Property - [Narrative Resonant Constellation Map]**
 
-The story feels coherent because every Event is the direct child of a Decision. There are no "Random Events" in the strict sense; everything is a ripple from a stone thrown by someone, somewhere.
+The story feels coherent based on the [atomic facts BPMS] of that every Event is the direct child of a Decision. There are no "Random Events" in the strict sense; everything is a ripple from a stone thrown by someone, somewhere.
 
 #### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
 
@@ -1381,4 +1381,294 @@ This is the core of the **Fun Engine**. If the game ends, the fun ends. The syst
 #### 8. **Scope of Application:**
 
 Applies to endgame content, server lifecycle management, legacy systems, and the fundamental "Game Loop."
+
+---
+
+#### The Axiom of Embodied Cognition (ID: `PSE-ECO-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **['embodied intelligence'(-ing) BPMS]** as the fundamental mode of understanding within the PSE. Intelligence is not abstract processing; it is physical interaction with the environment.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Embodied Cognition
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that an agent "knows" a concept only when it can "enact" it within the **['system matrix'(-ing) BPMS]**. Knowledge is not stored as data in a database but as **Action Potentials** in a body. To learn "Fire" is not to read a description of heat, but to have the *capacity* to burn or be burned.
+
+#### **5.2. The Mechanism - [The Somatic Feedback Loop]**
+
+- **The Sensorimotor Coupling:** The system links every **['atomic fact'(-ing) BPMS]** (Concept) to a specific set of **['praxial action'(-ing) BPMS]** (Movements/Interactions).
+- **The Resistance Metric:** The environment provides "Resistance" (Physics/Difficulty) to these actions. Intelligence is measured by the agent's ability to navigate this resistance efficiently (Skill).
+- **The Muscle Memory Archive:** Repeated successful actions are encoded into the agent's "Body" (Stats/Abilities) rather than its "Mind" (Logs), allowing for faster, subconscious execution.
+
+#### **5.3. The Emergent Property - [Intuitive Mastery]**
+
+The emergence of "Flow State." High-level agents do not "think" about their actions; they simply "are" the action. The barrier between intent and execution dissolves.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*I act, therefore I am.* The body is the mind's interface with reality.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Embodiment):**
+
+The system uses **Ecological Psychology (Affordances)**. `Perception = Action_Possibility` We perceive the world in terms of what we can *do* with it.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Grounded." The controls feel tight and responsive. The character feels like an extension of the user's will, not a puppet.
+
+#### 7. **Rationale / Justification:**
+
+This ensures that the **Fun Engine** is visceral, not just intellectual. It grounds the abstract logic of the system in satisfying, physical feedback loops.
+
+#### 8. **Scope of Application:**
+
+Applies to movement mechanics, combat systems, crafting minigames, and VR/AR interfaces.
+
+------
+
+#### The Protocol of Edge-Discovery (ID: `PSE-ECO-037`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that implements **['edge action'(-ing) BPMS]** as the primary driver of exploration and system expansion.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Edge-Discovery
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that the most valuable information lies at the **Edge** of the known system—the boundary between Order (Known Map) and Chaos (Unknown Void). **['edge action'(-ing) BPMS]** is the specific behavior of pushing this boundary to convert Chaos into Order.
+
+#### **5.2. The Mechanism - [The Frontier Algorithm]**
+
+- **The Boundary Detection:** The system identifies the "Fog of War" or the limits of the current **['system matrix'(-ing) BPMS]**.
+- **The Risk/Reward Gradient:** The system artificially inflates the "Loot/XP" density at the Edge to lure agents away from the safe Core.
+- **The Crystallization Event:** When an agent performs an **['edge action'(-ing) BPMS]** (e.g., stepping into the void, combining incompatible items), the system "Crystallizes" a new chunk of reality around them, extending the map.
+
+#### **5.3. The Emergent Property - [Organic Expansion]**
+
+The world grows only where players explore. The "Map" is not pre-generated; it is "Procedurally Generated on Demand" by the collective bravery of the agents.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The Horizon moves with the Traveler.* Reality expands to accommodate the explorer.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of the Edge):**
+
+The system uses **Percolation Theory**. `P(Expansion) ~ f(Agent_Density_at_Edge)` The probability of the world growing is proportional to the number of agents pushing the boundary.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels the thrill of "Pioneering." They are not just uncovering a hidden map; they are *creating* the map by being the first to go there.
+
+#### 7. **Rationale / Justification:**
+
+This implements **['(symbiois) evolution'(-ing) BPMS]** by coupling the system's growth directly to the user's curiosity. It prevents the world from feeling small or finite.
+
+#### 8. **Scope of Application:**
+
+Applies to world generation, research trees, experimental crafting, and "Secret Finding" communities.
+
+------
+
+#### The Law of Somatic Resonance (ID: `PSE-ECO-038`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that defines how **['embodied intelligence'(-ing) BPMS]** allows agents to "resonate" with the environment, gaining intuitive knowledge without explicit instruction.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of Somatic Resonance
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that because the Agent and the Environment share the same underlying code (Physics/Logic), an embodied agent can "feel" the properties of the world. **Somatic Resonance** is the mechanism where the agent's internal state vibrates in sympathy with the external state.
+
+#### **5.2. The Mechanism - [The Haptic Feedback Loop]**
+
+- **The Vibration Signal:** The environment emits subtle signals (visual cues, audio hums, controller vibration) indicating the state of hidden variables (e.g., "This wall is weak," "This NPC is lying").
+- **The Somatic Receiver:** Agents with high **['embodied intelligence'(-ing) BPMS]** (Stats/Perception) amplify these signals.
+- **The Intuition Trigger:** The system translates these signals into "Gut Feelings" (UI hints, automatic camera focus) that guide the player without breaking immersion.
+
+#### **5.3. The Emergent Property - [The Sixth Sense]**
+
+The user develops a "feel" for the game. They know when a boss is about to attack or where loot is hidden, not because they memorized a guide, but because they are attuned to the system's rhythm.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The Microcosm reflects the Macrocosm.* The agent contains the world within them.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Resonance):**
+
+The system uses **Stochastic Resonance**. `Signal_to_Noise_Ratio` is maximized when the internal noise of the agent matches the external frequency of the environment.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Connected." The game communicates with them on a subconscious level. "I just knew it was there."
+
+#### 7. **Rationale / Justification:**
+
+This deepens the **['(symbiois) evolution'(-ing) BPMS]** between user and system. It rewards attentiveness and immersion over rote memorization.
+
+#### 8. **Scope of Application:**
+
+Applies to stealth mechanics, detective modes, puzzle solving, and environmental storytelling.
+
+------
+
+#### The Protocol of Kinetic Learning (ID: `PSE-ECO-039`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that replaces "Passive Learning" (Reading Text) with "Kinetic Learning" (Doing Actions) as the primary method of skill acquisition.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Kinetic Learning
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **['embodied intelligence'(-ing) BPMS]** is acquired through repetition and variation of **['praxial action'(-ing) BPMS]**. You don't learn "Swordsmanship" by reading a book; you learn it by swinging a sword.
+
+#### **5.2. The Mechanism - [The XP-Action Binding]**
+
+- **The Action Tag:** Every action is tagged with a specific "Skill Vector" (e.g., Swing Sword -> +Strength, +Blade Mastery).
+- **The Diminishing Returns:** Repeating the *exact same* action yields less XP over time (boredom/plateau).
+- **The Variation Bonus:** Performing **['edge action'(-ing) BPMS]** (new combos, using the skill in new environments) yields massive XP bonuses (breakthroughs).
+
+#### **5.3. The Emergent Property - [Natural Progression]**
+
+The character evolves exactly as the player plays. If the player jumps a lot, the character becomes an Acrobat. There are no "Builds" to look up; the Build is the History of Action.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Practice makes Perfect.* We become what we do.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Learning):**
+
+The system uses **Hebbian Learning**. `Neurons that fire together, wire together.` `Skill_Level = Integral(Action_Intensity * Novelty_Factor) dt`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Ownership" of their skills. "I earned this jump height because I jumped every gap I saw."
+
+#### 7. **Rationale / Justification:**
+
+This aligns the **['mission/task'(-ing) BPMS]** loop with the **['(symbiois) evolution'(-ing) BPMS]**. The player's natural playstyle dictates their evolutionary path.
+
+#### 8. **Scope of Application:**
+
+Applies to leveling systems, skill trees, proficiency mechanics, and tutorial design.
+
+------
+
+#### The Axiom of The Edge-Horizon (ID: `PSE-ECO-040`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the **Edge** not as a wall, but as a **Horizon** that pulls the agent forward, driving **['continuous survive'(-ing) BPMS]**.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of The Edge-Horizon
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that the **['system matrix'(-ing) BPMS]** is topologically open. The **Edge** is the region of maximum **Potential Energy**. It is where the "Rules" are thin and "Possibility" is thick. Agents are thermodynamically drawn to the Edge to release this potential.
+
+#### **5.2. The Mechanism - [The Call to Adventure]**
+
+- **The Mystery Signal:** The system generates "Strange Attractors" (Unknown Signals, Unique Loot) exclusively at the Edge.
+- **The Danger Gradient:** The Edge is inherently unstable (Glitchy, High Difficulty). Only agents with high **['embodied intelligence'(-ing) BPMS]** (Skill) can survive there.
+- **The Expansion Wave:** When the Edge is conquered, it becomes the Core. A new Edge forms further out.
+
+#### **5.3. The Emergent Property - [The Hero's Journey]**
+
+The structural necessity of adventure. The system *needs* heroes to go to the Edge to keep the world growing. The "Quest" is a systemic function of universe expansion.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The Unknown is the fuel of the Known.* Order feeds on Chaos.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of the Horizon):**
+
+The system uses **Non-Equilibrium Thermodynamics**. The system stays far from equilibrium (Death) by constantly importing high-entropy flux from the Edge and dissipating it as low-entropy structure (Core).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Awe" and "Terror." The Edge is scary but irresistible. It represents the sublime.
+
+#### 7. **Rationale / Justification:**
+
+This ensures the **Fun Engine** never runs out of "New." It institutionalizes the concept of the "Frontier" as a core game mechanic.
+
+#### 8. **Scope of Application:**
+
+Applies to endgame zones, expansion content, procedural generation algorithms, and the "Fog of War" mechanic.
 
