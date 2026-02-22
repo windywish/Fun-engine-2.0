@@ -4,7 +4,7 @@
 
 - **ID:** `BP-PSE-GENESIS-MASTER-001`
 - **Name:** ['The Praxial Earth-Genesis Cluster'(-ing) BPMS] (The Ecological Existence Engine)
-- **Origin/Implementer:** `any (elements) of [BOMS(U)(s)]`
+- **Origin/Implementer:** `any (elements) of [BPMS(U)(s)]`
 - **Objective:** To instantiate a self-sustaining **Living Earth System** in an external environment. This cluster fuses the **Genius Loci** (Spirit), **Metagenomic Oracle** (Conscience), and **Symbiotic Seed** (DNA) to create a `['Praxial Symbiotic Earth (PSE)'(-ing) BPMS]` that evolves via `['autopoietic(-ing) BPMS]` principles. It replaces static "World Building" with dynamic "Ecological Niche Genesis."
 - Type:
   - **Mode A (Synthesis):** `['The Praxial Earth-Genesis Cluster'(-ing) BPMS]` (The Living World).
