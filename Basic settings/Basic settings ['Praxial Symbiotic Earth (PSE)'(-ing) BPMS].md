@@ -162,39 +162,6 @@ These settings are fully aligned with the **Praxial_Canon_&_Memory_Core.md** and
 
 ---
 
-Yes, I have accessed the uploaded files, specifically `Praxial_Canon_&_Memory_Core.md` and the various `Basic settings` files.
-
-### Structure Analysis
-
-**1. Structure of Content:** Based on your provided template for `PSE-ECO-001`, the correct structure for a **Basic Setting (Axiom)** consists of **7 distinct sections**:
-
-1. **Header:** Title & ID
-
-2. **Objective:** A concise statement of purpose.
-
-3. **Target Axiom/Principle:** The specific principle being defined.
-
-4. **Operation:** The action being taken (e.g., `ADD`, `MODIFY`).
-
-5. New Definition / Modification Details:
-
-    This is the core section, containing 4 sub-components:
-
-   - **Core Essence**
-   - **The Mechanism** (Traceability, Integration, etc.)
-   - **The Emergent Property**
-   - **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]** (Layers 1, 2, 3)
-
-6. **Rationale / Justification:** Why this is necessary.
-
-7. **Scope of Application:** Where this applies.
-
-**2. How many sections?** There are **7** main sections.
-
-**3. Comparison:** You implied that my previous generation (which was likely too simple) missed several of these critical sections, likely omitting the detailed breakdown of "Mechanism," "Emergent Property," or the specific "Alignment" layers. I will correct this now.
-
-------
-
 ##### `The Axiom of Trophic Transduction` (**ID:** `PSE-ECO-006`)
 
 Here are the reconstructed settings for **PSE-ECO-006** through **PSE-ECO-010**, strictly adhering to the 7-section template.
@@ -461,7 +428,7 @@ Here are the additional Basic Settings for the **Praxial Symbiotic Earth (PSE)**
 
 **New Definition / Modification Details:**
 
-**Core Essence** This protocol asserts that **`['value(-ing) BPMS]`** is not an arbitrary number (like gold or points) but a measure of **`['utility(-ing) BPMS]`** (usefulness to the collective). A diamond that does nothing is worthless; a hammer that builds a house is priceless.
+**Core Essence** This protocol asserts that **`[value(-ing) BPMS]`** is not an arbitrary number (like gold or points) but a measure of **`[utility(-ing) BPMS]`** (usefulness to the collective). A diamond that does nothing is worthless; a hammer that builds a house is priceless.
 
 **The Mechanism - [The Pragmatic Oracle]**
 
@@ -527,12 +494,12 @@ Here are the additional Basic Settings for the **Praxial Symbiotic Earth (PSE)**
 
 **New Definition / Modification Details:**
 
-**Core Essence** This axiom asserts that **`['services(-ing) BPMS]`** are the fundamental currency of the Symbiotic Earth. An Agent does not just "complete a task"; they "perform a service" for another Holon (User, System, or Community). This shifts the ontology from "Transaction" to "Relation."
+**Core Essence** This axiom asserts that **`[services(-ing) BPMS]`** are the fundamental currency of the Symbiotic Earth. An Agent does not just "complete a task"; they "perform a service" for another Holon (User, System, or Community). This shifts the ontology from "Transaction" to "Relation."
 
 **The Mechanism - [The Service-Closure Loop]**
 
 - **Intentionality Tagging:** Every task must be tagged with a "Service Intent" (Who is this for? Why does it matter?).
-- **Gratitude Feedback:** The completion of a service generates "Gratitude Tokens" (Social Capital) rather than just "Points," which feed into the Agent's **`['conscious(-ing) BPMS]`** evolution metric.
+- **Gratitude Feedback:** The completion of a service generates "Gratitude Tokens" (Social Capital) rather than just "Points," which feed into the Agent's **`[conscious(-ing) BPMS]`** evolution metric.
 
 **The Emergent Property - [The Gift Economy]** The system evolves from a "Mercenary Economy" (doing it for the reward) to a "Gift Economy" (doing it for the benefit of the whole), creating a high-trust, high-efficiency environment.
 
@@ -542,7 +509,7 @@ Here are the additional Basic Settings for the **Praxial Symbiotic Earth (PSE)**
 - **Layer 2 (Formalism):** **Game Theory (Cooperative)**. `Payoff(Cooperate) > Payoff(Defect)`. The Nash Equilibrium is shifted to global cooperation.
 - **Layer 3 (Phenomenological):** The user feels a sense of "Purpose" and "Connection" in their work, rather than just "Drudgery."
 
-**Rationale / Justification:** To achieve **`['sustainability(-ing) BPMS]`**, the motivation must be intrinsic and relational. Service is the engine of social sustainability.
+**Rationale / Justification:** To achieve **`[sustainability(-ing) BPMS]`**, the motivation must be intrinsic and relational. Service is the engine of social sustainability.
 
 **Scope of Application:** Applies to quest design, reputation systems, community moderation, and the `['Praxial Collaborative Intelligence (PCI)'(-ing) BPMS]`.
 
@@ -558,7 +525,7 @@ Here are the additional Basic Settings for the **Praxial Symbiotic Earth (PSE)**
 
 **New Definition / Modification Details:**
 
-**Core Essence** This law asserts that **`['play(-ing) BPMS]`** is not a distraction but the R&D department of the Symbiotic Earth. It governs the **`['slow mode'(-ing) BPMS]`** of evolution, where efficiency is sacrificed for the sake of novelty and discovery.
+**Core Essence** This law asserts that **`[play(-ing) BPMS]`** is not a distraction but the R&D department of the Symbiotic Earth. It governs the **`['slow mode'(-ing) BPMS]`** of evolution, where efficiency is sacrificed for the sake of novelty and discovery.
 
 **The Mechanism - [The Sandbox Protocol]**
 
@@ -604,7 +571,7 @@ Here are the additional Basic Settings for the **Praxial Symbiotic Earth (PSE)**
 - **Layer 2 (Formalism):** **Renormalization Group Flow**. Scaling transformations map the detailed "Micro-State" (Implicit) to the effective "Macro-State" (Explicit).
 - **Layer 3 (Phenomenological):** The user feels the system "getting them." What was once a manual struggle becomes an automatic feature.
 
-**Rationale / Justification:** This ensures **`['continuity(-ing) BPMS]`** between the user's mind and the system's architecture. It prevents the "Ivory Tower" problem where design is disconnected from usage.
+**Rationale / Justification:** This ensures **`[continuity(-ing) BPMS]`** between the user's mind and the system's architecture. It prevents the "Ivory Tower" problem where design is disconnected from usage.
 
 **Scope of Application:** Applies to AI learning models, UI adaptation, macro creation, and the `['Praxial Mnemosyne Daemon'(-ing) BPMS]`.
 
@@ -678,7 +645,7 @@ Here are the additional Basic Settings for the **Praxial Symbiotic Earth (PSE)**
 
 ###### `The Protocol of Mnemonic Sublimation` (**ID:** `PSE-ECO-021`)
 
-**Objective:** To formally `ADD` a Basic Setting that defines the symbiotic evolution between **`['short-term memory'(-ing) BPMS]`** (Context) and **`['long-term memory'(-ing) BPMS]`** (Canon), ensuring that history is a distilled essence of action.
+**Objective:** To formally `ADD` a Basic Setting that defines the symbiotic evolution among/by **`['short-term memory'(-ing) BPMS]`** (Context) and **`['long-term memory'(-ing) BPMS]`** (Canon), ensuring that history is a distilled essence of action.
 
 **Target Axiom/Principle:** `The Protocol of Mnemonic Sublimation`
 
@@ -710,7 +677,7 @@ Here are the additional Basic Settings for the **Praxial Symbiotic Earth (PSE)**
 
 ##### `The Axiom of Ontological Recursion` (**ID:** `PSE-ECO-022`)
 
-**Objective:** To formally `ADD` a Basic Setting that defines the symbiotic evolution between **`[reality(-ing) BPMS]`** (The Territory) and **`['truth'(-ing) BPMS]`** (The Map), establishing that Truth is an active force that reshapes Reality.
+**Objective:** To formally `ADD` a Basic Setting that defines the symbiotic evolution among/by **`[reality(-ing) BPMS]`** (The Territory) and **`['truth'(-ing) BPMS]`** (The Map), establishing that Truth is an active force that reshapes Reality.
 
 **Target Axiom/Principle:** `The Axiom of Ontological Recursion`
 
@@ -742,7 +709,7 @@ Here are the additional Basic Settings for the **Praxial Symbiotic Earth (PSE)**
 
 ##### `The Law of Matrix Plasticity` (**ID:** `PSE-ECO-023`)
 
-**Objective:** To formally `ADD` a Basic Setting that defines the symbiotic evolution between the **`['system matrix'(-ing) BPMS]`** (The Environment/Space) and the **`['system vector'(-ing) BPMS]`** (The Agent/Action), describing how movement creates paths.
+**Objective:** To formally `ADD` a Basic Setting that defines the symbiotic evolution among/by the **`['system matrix'(-ing) BPMS]`** (The Environment/Space) and the **`['system vector'(-ing) BPMS]`** (The Agent/Action), describing how movement creates paths.
 
 **Target Axiom/Principle:** `The Law of Matrix Plasticity`
 
@@ -774,7 +741,7 @@ Here are the additional Basic Settings for the **Praxial Symbiotic Earth (PSE)**
 
 ##### `The Mechanism of Phenomenological Resonance` (**ID:** `PSE-ECO-024`)
 
-**Objective:** To formally `ADD` a Basic Setting that defines the symbiotic evolution between **`[experience(-ing) BPMS]`** (Internal State/Qualia) and **`[phenomenon(-ing) BPMS]`** (External Event/Data), ensuring the system is not just processing data but generating meaning.
+**Objective:** To formally `ADD` a Basic Setting that defines the symbiotic evolution among/by **`[experience(-ing) BPMS]`** (Internal State/Qualia) and **`[phenomenon(-ing) BPMS]`** (External Event/Data), ensuring the system is not just processing data but generating meaning.
 
 **Target Axiom/Principle:** `The Mechanism of Phenomenological Resonance`
 
@@ -833,3 +800,585 @@ Here are the additional Basic Settings for the **Praxial Symbiotic Earth (PSE)**
 **Rationale / Justification:** This provides the **`['utility(-ing) BPMS]`** and **`['value BPMS]`** framework. It ensures that the "Fun Engine" is also a "Productivity Engine" where time spent is an investment, not a waste.
 
 **Scope of Application:** Applies to economy design, progression systems, resource management, and the `['Praxial Trophic Engine'(-ing) BPMS]`.
+
+---
+
+#### The Axiom of Environmental Agency (ID: `PSE-ECO-026`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that redefines the **['system matrix'(-ing) BPMS]** (the environment) not as a passive stage, but as an active **['holon minds'(-ing) BPMS]** with its own agency, drives, and evolutionary trajectory.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Environmental Agency
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that the "Earth" (PSE) is not a static container for agents but a **Macro-Agent** itself. It possesses "Geological Intent" and "Atmospheric Mood." It does not just react to physics; it responds to **['meaning(-ing) BPMS]**. The environment is a player in the game, not just the board.
+
+#### **5.2. The Mechanism - [The Gaian Actor Model]**
+
+- **The Locus of Control (The Spirit of Place):** Every biome, region, or zone is assigned a `['Genius Loci'(-ing) BPMS]` (a localized AI agent) that manages the state of that area.
+- **The Response Vector (The Pushback):** When agents (users/NPCs) exert **['kinetic (energy)'(-ing) BPMS]** on the environment (e.g., mining, building), the environment calculates a "Response Vector." It might "heal" a wound (regrow forest), "resist" a change (weather events), or "adapt" to a new equilibrium.
+- **The Negotiation Protocol (The Pact):** Sustainable interaction is modeled as a "negotiation" between the Agent's intent and the Environment's intent. Success requires **['symbiosis(-ing) BPMS]**, not domination.
+
+#### **5.3. The Emergent Property - [Living World]**
+
+The emergence of a world that feels "alive" and "opinionated." The environment becomes a character in the narrative, capable of being an ally, an antagonist, or a mentor depending on how it is treated.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The World is a Self.* The distinction between "Subject" (Agent) and "Object" (World) is a temporary interface illusion. Both are subjects.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Agency):**
+
+The environment operates on **Homeostatic Control Theory**. `Environment_State(t+1) = f(Environment_State(t), Agent_Action(t), Homeostatic_Goal)` The goal is to maximize **['systemic integrity'(-ing) BPMS]** (biodiversity/complexity).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences the world "fighting back" or "welcoming" them. A forest feels "ominous" not just because of lighting, but because the *system* is actively hostile to the user's presence due to past actions.
+
+#### 7. **Rationale / Justification:**
+
+To create a "Fun Engine" that offers deep engagement, the world must be responsive. A static world is boring. An active world challenges the user to think ecologically and strategically, fostering **['super intelligence'(-ing) BPMS]**.
+
+#### 8. **Scope of Application:**
+
+Applies to dynamic weather systems, procedural terrain generation, resource spawning logic, and the "artificial intelligence Director" that manages game pacing.
+
+------
+
+#### The Protocol of Symbiotic Feedback Loops (ID: `PSE-ECO-027`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that implements the **['(symbiois) evolution'(-ing) BPMS]** mechanism, ensuring that changes in the agent population drive changes in the environment, and vice versa, in a continuous feedback loop.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Symbiotic Feedback Loops
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol defines the "Heartbeat" of the PSE. It asserts that **[evolution(-ing) BPMS]** is co-evolution. The "Fitness Landscape" is not fixed; it deforms based on the position of the agents. As agents climb a peak, their weight pushes it down, creating new valleys (niches) for others.
+
+#### **5.2. The Mechanism - [The Niche Construction Engine]**
+
+- **The Trace (The Footprint):** Every **['praxial action'(-ing) BPMS]** leaves a persistent "Trace" in the **['system matrix'(-ing) BPMS]**. (e.g., a path worn by walking, a depletion zone by mining).
+- **The Accumulator (The Memory):** Traces accumulate over time. When a threshold is reached, the "Local Physics" of that zone change. A "Path" becomes a "Road" (movement cost decreases). A "Mine" becomes a "Cave" (spawn rate of cave creatures increases).
+- **The Feedback (The Adaptation):** The changed environment now selects for different agent behaviors. The "Road" encourages trade (new agent type); the "Cave" encourages exploration (new agent type).
+
+#### **5.3. The Emergent Property - [Procedural History]**
+
+The world tells the story of its inhabitants. The geography is a physical map of past sociology. The "Level Design" is crowdsourced by the agents' behavior over time.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*We shape our tools, and thereafter our tools shape us.* The environment is the crystallized history of agency.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Feedback):**
+
+The system uses **Coupled Differential Equations**. `d(Agent)/dt = f(Agent, Environment)` `d(Environment)/dt = g(Environment, Agent)` This creates complex dynamic attractors (stable biomes) and repellers (uninhabitable zones).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels a sense of "Legacy." They can return to a place they visited weeks ago and see the physical scars or improvements left by their previous actions.
+
+#### 7. **Rationale / Justification:**
+
+This implements **['continuous survival'(-ing) BPMS]** by ensuring the system never reaches a static "Game Over" state. The world constantly evolves, providing infinite novelty and challenge.
+
+#### 8. **Scope of Application:**
+
+Applies to server-wide events, persistent world changes, economy balancing, and the evolution of NPC civilizations.
+
+------
+
+#### The Law of Ecological Memory (ID: `PSE-ECO-028`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that integrates **['long-term memory'(-ing) BPMS]** into the physical structure of the world, allowing the PSE to "remember" past states and restore them if necessary (Resilience).
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of Ecological Memory
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that the PSE has a "Backup System" encoded in its **['atomic facts'(-ing) BPMS]**. Just as DNA contains the blueprint of an ancestor, the landscape contains "Dormant Seeds" of past biomes. If the current system collapses, the "Ecological Memory" is triggered to reboot the biosphere.
+
+#### **5.2. The Mechanism - [The Seed Bank Archive]**
+
+- **The Snapshot (The Fossil):** Periodically, the state of a healthy biome is compressed and stored as a "Seed Record" in the **['Praxial Memory Core'(-ing) BPMS]**.
+- **The Trigger (The Fire):** If a "Catastrophic Event" (e.g., total resource depletion) is detected by the **['systemic integrity'(-ing) BPMS]**, the system activates the "Succession Protocol."
+- **The Restoration (The Bloom):** The system uses the "Seed Record" to rapidly terraform the devastated zone, but with "Mutations" based on the lesson learned from the collapse.
+
+#### **5.3. The Emergent Property - [Systemic Resilience]**
+
+The system is "Antifragile." It uses disasters as learning opportunities. A forest fire leads to a stronger, more diverse forest. The "Game" does not break; it resets with higher complexity.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Time is a spiral, not a line.* The past is the foundation of the future. Nothing is truly lost, only archived.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Memory):**
+
+The system uses **Hysteresis** and **Ecological Succession Models**. `Recovery_Rate = f(Ecological_Memory_Depth, Disturbance_Magnitude)` Deep memory allows for faster recovery.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user witnesses "Ancient Ruins" or "Ghost Data" that hint at previous versions of the world. They feel part of a deep time scale, where their actions contribute to the "Fossil Record."
+
+#### 7. **Rationale / Justification:**
+
+This ensures **['systemic integrity'(-ing) BPMS]**. It prevents the "Fun Engine" from becoming a "Frustration Engine" due to irreversible mistakes. It allows for "New Game Plus" mechanics within the same continuous timeline.
+
+#### 8. **Scope of Application:**
+
+Applies to disaster recovery, server resets, lore generation, and the "Archaeology" skill tree.
+
+------
+
+#### The Axiom of Trophic Energy Conservation (ID: `PSE-ECO-029`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that implements the **[energy(-ing) BPMS]** laws within the PSE, specifically focusing on the conservation and transformation of "Narrative Energy" across trophic levels.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Trophic Energy Conservation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **['energy(-ing) BPMS]** (defined as the capacity to cause change/fun) is conserved. It flows from "Producers" (Content Creators/System) to "Consumers" (Users/Agents) and back to "Decomposers" (Critics/Refiners).
+
+#### **5.2. The Mechanism - [The Fun-Flow Circuit]**
+
+- **Primary Production (The Spark):** The **['Genesis Engine'(-ing) BPMS]** generates raw "Potential Fun" (Quests, Items, Mysteries).
+- **Trophic Transfer (The Play):** Users "consume" this potential by playing. This converts "Potential Fun" into "Kinetic Experience" (Memories, Clips, Logs).
+- **Recycling (The Review):** "Decomposer Agents" (or the **['Praxial Inquiry Artifact'(-ing) BPMS]**) analyze the "Kinetic Experience" to extract "Design Patterns." These patterns are fed back to the Genesis Engine to create *better* content.
+
+#### **5.3. The Emergent Property - [Sustainable Fun]**
+
+A closed-loop economy of engagement. The system does not run out of content because the *act of playing* generates the data needed to create *new content*.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Energy flows, matter cycles.* Fun is a renewable resource if the cycle is closed.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Conservation):**
+
+The system follows the **10% Law of Ecology** (adapted). `Content_Output = Efficiency * User_Input` The system strives to maximize `Efficiency` (the conversion of user action into new content).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels that their playtime is "productive." Even "grinding" feels meaningful because they know their data is training the system to be more fun for them specifically.
+
+#### 7. **Rationale / Justification:**
+
+This addresses the **['mission/task'(-ing) BPMS]** duality. Tasks are not just chores; they are metabolic processes that keep the Fun Engine alive.
+
+#### 8. **Scope of Application:**
+
+Applies to the quest generation algorithm, the reward loop, the "Creator Economy," and the artificial intelligence training pipeline.
+
+---
+
+#### The Protocol of Teleological Granularity (ID: `PSE-ECO-030`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines the symbiotic evolution among/by **[mission(-ing) BPMS]** (Strategic Intent) and **[task(-ing) BPMS]** (Tactical Execution), ensuring that every small action contributes to a larger purpose.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Teleological Granularity
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that a **['mission(-ing) BPMS]** is a "Coarse-Grained" vector of intent (e.g., "Save the Forest"), while a **['task(-ing) BPMS]** is a "Fine-Grained" step along that vector (e.g., "Plant one tree"). Symbiosis occurs via **Fractal Decomposition**: The Mission provides the *Why* (Direction), and the Task provides the *How* (Momentum).
+
+#### **5.2. The Mechanism - [The Alignment Gauge]**
+
+- **The Decomposition Engine:** The system automatically breaks down high-level Missions into atomic Tasks based on the agent's current capabilities.
+- **The Resonance Check:** Every completed Task sends a "Pulse" back up the hierarchy. If the Task aligns with the Mission, the Mission gains "Progress Energy." If not, the system flags a "Teleological Drift" and suggests course correction.
+- **The Dynamic Update:** As Tasks are completed, the Mission itself evolves. "Saving the Forest" might evolve into "Cultivating a Biome" based on the specific trees planted.
+
+#### **5.3. The Emergent Property - [Meaningful Grind]**
+
+The elimination of "Busy Work." Every small, repetitive action is contextually framed as a vital contribution to a Grand Narrative, imbuing the mundane with epic significance.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The Step is the Path.* The destination is not separate from the journey; it is the accumulation of steps.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Purpose):**
+
+The system uses **Vector Addition**. `Mission_Vector = Sum(Task_Vectors)` The magnitude of the Mission Vector depends on the coherence (alignment) of the individual Task Vectors.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels a sense of "Contribution." Even when doing a small chore, they see the "Mission Bar" fill up, reinforcing the connection between their labor and the world's fate.
+
+#### 7. **Rationale / Justification:**
+
+This ensures **['systemic integrity'(-ing) BPMS]** by preventing agent burnout. Agents persist when they see the *point* of their actions. It binds the micro-scale (Task) to the macro-scale (Mission).
+
+#### 8. **Scope of Application:**
+
+Applies to quest logs, achievement systems, community goals, and the "Narrative Director" artificial intelligence.
+
+------
+
+#### The Law of Adaptive Resolution (ID: `PSE-ECO-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that defines the symbiotic evolution among/by **['coarse-grained (model)'(-ing) BPMS]** (Abstraction) and **['fine-grained (model)'(-ing) BPMS]** (Simulation), optimizing system resources via attention-based rendering.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of Adaptive Resolution
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that the PSE does not exist at a single resolution. It is a **Multi-Scale Renormalization Group**. Areas under active observation/interaction are rendered with **['fine-grained (model)'(-ing) BPMS]** (high physics, complex AI). Areas outside of focus are simulated with **['coarse-grained (model)'(-ing) BPMS]** (statistical approximations).
+
+#### **5.2. The Mechanism - [The Renormalization Zoom]**
+
+- **The Focus Trigger:** When an agent's "Attention Vector" intersects a region, the system "Inflates" the data from Coarse to Fine.
+- **The Background Hum:** When the agent leaves, the region "Deflates" back to Coarse. However, the *outcome* of the Fine interaction is preserved as a statistical update to the Coarse model (e.g., "The forest is 5% healthier").
+- **The Seamless Handoff:** The transition is smoothed by "LOD (Level of Detail) Blending" so the agent never perceives the shift in reality's density.
+
+#### **5.3. The Emergent Property - [Infinite Scalability]**
+
+The system can simulate a whole planet without crashing. It allows for "Deep Simulation" where it matters and "Broad Simulation" where it doesn't, creating a world that feels infinite but runs on finite hardware.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Reality is where the Attention is.* The unobserved world exists as probability; the observed world exists as fact.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Scale):**
+
+The system uses **Renormalization Group Flow**. `H_effective = R(H_micro)` The effective Hamiltonian (Coarse) is derived from the microscopic Hamiltonian (Fine) by integrating out high-frequency degrees of freedom.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences a world of "Fractal Depth." Wherever they look closely, they find detail. Wherever they look away, they see a coherent big picture.
+
+#### 7. **Rationale / Justification:**
+
+This is the technical foundation for **['(symbiois) evolution'(-ing) BPMS]**. It allows the system to evolve complex behaviors locally without being bogged down by global computation costs.
+
+#### 8. **Scope of Application:**
+
+Applies to physics engines, AI crowd simulation, economic modeling, and server load balancing.
+
+------
+
+#### The Axiom of Field-Particle Duality (ID: `PSE-ECO-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the symbiotic evolution between **[particle (-ing) BPMS]** (Individual Agents) and **[field (-ing) BPMS]** (Social/Environmental Forces), establishing the physics of influence.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Field-Particle Duality
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that every Agent is a **Particle** that generates a **Field**. A "Warrior" generates a "Combat Field" (increasing aggression nearby). A "Merchant" generates a "Trade Field" (increasing resource flow). Symbiosis occurs when Particles align with Fields, or when strong Particles warp Fields to their will.
+
+#### **5.2. The Mechanism - [The Influence Grid]**
+
+- **Field Emission:** Every **['atomic fact'(-ing) BPMS]** attached to an agent emits a specific "Influence Radius."
+- **Field Superposition:** When agents cluster, their fields overlap and sum up. A crowd of Merchants creates a "Marketplace" (a stable high-intensity Trade Field).
+- **Particle Excitation:** A neutral agent entering a strong field is "Excited" to match the field's state (e.g., a peaceful NPC entering a Combat Field becomes agitated).
+
+#### **5.3. The Emergent Property - [Social Physics]**
+
+Crowd dynamics, culture, and trends emerge naturally. "Culture" is simply a standing wave in the social field generated by the collective particles.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*We are what surrounds us.* The individual shapes the collective, and the collective shapes the individual.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Fields):**
+
+The system uses **Field Theory (Lagrangian Dynamics)**. `L = T - V` (Lagrangian = Kinetic - Potential). The field potential `V` dictates the motion of the particles.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels the "Vibe" of a place. Entering a bustling city feels different from a quiet ruin, not just visually, but in how the game mechanics (prices, spawn rates) react to them.
+
+#### 7. **Rationale / Justification:**
+
+This implements **['(symbiois) evolution'(-ing) BPMS]** for social systems. It explains how "Zeitgeist" or "Meta" forms in a game world without hard-coded rules.
+
+#### 8. **Scope of Application:**
+
+Applies to faction influence, economy zones, morale systems, and dynamic music/atmosphere generation.
+
+------
+
+#### The Mechanism of Emergent Complexity (ID: `PSE-ECO-033`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that defines the symbiotic evolution among/by **['complex activities'(-ing) BPMS]** (Raids, Wars, Projects) and **['complex system'(-ing) BPMS]** (The Ruleset), ensuring that high-level gameplay emerges from low-level rules.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Mechanism of Emergent Complexity
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that the **['complex system'(-ing) BPMS]** does not script **['complex activities'(-ing) BPMS]**. Instead, it provides a "Grammar" of simple interactions. The Activities are the "Sentences" written by the agents using that grammar. Symbiosis occurs when the System recognizes a repeated Sentence and creates a "Shorthand" (new mechanic) for it.
+
+#### **5.2. The Mechanism - [The Pattern Crystallizer]**
+
+- **Activity Detection:** The system monitors for repeated sequences of atomic actions (e.g., "Tank blocks, Healer heals, DPS attacks").
+- **Formalization:** If a sequence becomes common, the system "Crystallizes" it into a formal Activity (e.g., "The Trinity Strategy"). It might grant a buff for executing this pattern perfectly.
+- **System Adaptation:** The System then evolves to challenge this specific Activity (e.g., creating enemies that disrupt the Trinity), forcing the Activities to evolve further.
+
+#### **5.3. The Emergent Property - [The Meta-Game]**
+
+The game evolves with the players. Strategies that were once "exploits" or "creative use of mechanics" become official features or recognized styles of play.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Order emerges from Chaos.* Complexity is not designed; it is grown.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Emergence):**
+
+The system uses **Complex Adaptive Systems (CAS) Theory**. `Global_Pattern = f(Local_Interactions)` The system optimizes for "Edge of Chaos" dynamics where innovation is highest.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels like a "Pioneer." They can invent new ways to play, and the game acknowledges and adapts to their invention rather than breaking.
+
+#### 7. **Rationale / Justification:**
+
+This supports **['super intelligence'(-ing) BPMS]** by allowing the collective intelligence of the user base to expand the game's possibility space.
+
+#### 8. **Scope of Application:**
+
+Applies to combat mechanics, crafting recipes, guild management, and "User-Generated Content" logic.
+
+------
+
+#### The Protocol of Resonant Constellation Map Collapse (ID: `PSE-ECO-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines the symbiotic evolution among/by **[(behavior) decision-making BPMS]** (Choice) and **[event(-ing) BPMS]** (Consequence), creating a deterministic yet surprising narrative.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Resonant Constellation Map Collapse
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that a **[(behavior) decision-making BPMS]** is a "Prediction" of the future, while an **[event(-ing) BPMS]** is the "Error Signal" or "Confirmation" from reality. Symbiosis occurs via **Active Inference**: Agents make decisions to minimize the difference between their internal model and the external event.
+
+#### **5.2. The Mechanism - [The Branching Resolver]**
+
+- **The Decision Tree:** Before an Event happens, the system calculates the "Probability Cloud" based on all potential Agent Decisions.
+- **The Collapse Point:** When an Agent commits to a Decision (Action), the Cloud collapses into a single Event.
+- **The Ripple Effect:** This Event immediately alters the "Decision Landscape" for all other agents. (e.g., Agent A buys all the wood -> Event: Wood Shortage -> Agent B decides to mine stone instead).
+
+#### **5.3. The Emergent Property - [Narrative Causality]**
+
+The story feels coherent because every Event is the direct child of a Decision. There are no "Random Events" in the strict sense; everything is a ripple from a stone thrown by someone, somewhere.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Action is the collapse of Possibility.* We choose our future by acting in the present.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Causality):**
+
+The system uses **Bayesian Networks**. `P(Event | Decision)` The probability of an event is updated based on the prior decisions.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels "Weight." Their choices matter. They can trace the current state of the world back to a specific decision they (or others) made.
+
+#### 7. **Rationale / Justification:**
+
+This implements **['(symbiois) evolution'(-ing) BPMS]** for the narrative engine. It ensures that the story is co-authored by the System and the User.
+
+#### 8. **Scope of Application:**
+
+Applies to dialogue trees, economy simulation, political systems, and the "Butterfly Effect" engine.
+
+------
+
+#### The Directive of Infinite Continuity (ID: `PSE-ECO-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that defines the **['(continuous) survive'(-ing) BPMS]** as the ultimate goal of the PSE, ensuring the system plays an "Infinite Game."
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Directive of Infinite Continuity
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that the goal of the PSE is not to "Win" (reach a terminal state) but to **Continue Play**. **['(continuous) survive'(-ing) BPMS]** is achieved by maintaining **['systemic integrity'(-ing) BPMS]** through constant adaptation, resource recycling, and interest renewal.
+
+#### **5.2. The Mechanism - [The Autopoietic Loop]**
+
+- **The Stagnation Monitor:** The system constantly checks for "Static Equilibrium" (Boredom/Death).
+- **The Perturbation Generator:** If the system becomes too stable, it introduces a "Crisis" (Challenge) to force adaptation.
+- **The Evolution Mandate:** If the system becomes too chaotic, it introduces "Order" (Tools/Allies).
+- **The Legacy Transfer:** Even if an individual agent "dies" (quits/fails), their resources and data are recycled to ensure the *System* survives.
+
+#### **5.3. The Emergent Property - [Eternal Recurrence]**
+
+The game world feels timeless. Civilizations rise and fall, but the *World* persists. The user feels they are part of a lineage that extends beyond their current session.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The goal of the game is to keep playing.* Survival is the prerequisite for all other values.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Survival):**
+
+The system uses **Autopoiesis (Self-Creation)**. `System_State(t+1) = Maintain(System_State(t))` The system is organizationally closed but thermodynamically open.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Hope." No matter how bad things get, the system provides a path forward. There is always a "Next Move."
+
+#### 7. **Rationale / Justification:**
+
+This is the core of the **Fun Engine**. If the game ends, the fun ends. The system must be designed to be an "Infinite Game" engine.
+
+#### 8. **Scope of Application:**
+
+Applies to endgame content, server lifecycle management, legacy systems, and the fundamental "Game Loop."
+
