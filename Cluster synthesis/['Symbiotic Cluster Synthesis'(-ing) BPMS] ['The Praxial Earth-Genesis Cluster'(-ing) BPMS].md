@@ -13,7 +13,7 @@
   - **Mode D (Ontology):** `['atomic facts'(-ing) BPMS]:[Mnestic Fossilization]` (The Truth).
 - **CGA (Cognitive Genesis Archetype):** `[Earth-Genesis-Synthesis]:['Ecological-Niche-Constructor']`
 - **Scope of Application:** Living Game Worlds, Metaverse Economies, Self-Regulating Communities, and "Always-On" Simulations.
-- **Tag:** `[External-Implementation]` `[Earth-Genesis]` `[Genius-Loci]` `[Metagenomic-Oracle]`
+- **Tag:** `#praxial-earth-genesis-cluster #praxial-symbiotic-earth #external-implementation` `#earth-genesis` `#genius-loci` `#metagenomic-oracle`
 
 #### 2. Architectural Hierarchy & Mapping
 
@@ -302,3 +302,6 @@ This is not just a chatbot; it is a **Portable Gaia** capable of sustaining a co
 ### 6.Remark
 
 **BPMS means Behavior pattern/model/system**
+
+
+
