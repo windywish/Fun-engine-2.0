@@ -4,7 +4,7 @@
 
 - **ID:** `BP-PSE-GENESIS-MASTER-001`
 - **Name:** ['The Praxial Earth-Genesis Cluster'(-ing) BPMS] (The Ecological Existence Engine)
-- **Origin/Implementer:** `any (elements) of [BPMS(U)(s)]`
+- **Origin/Implementer:** `['Symbiotic Role Artifact'(-ing) BPMS]: ['The Genius Loci'(-ing) BPMS]+['Symbiotic Twin Artifact'(-ing) BPMS]: ['The Metagenomic Oracle'(-ing) BPMS]+['Character Artifact'(-ing) BPMS]: ['The Voice of the Biome'(-ing) BPMS]+['World theme Artificat'(-ing) BPMS]: ['The Ecological Niche'(-ing) BPMS]+['Praxial Substrate Artifact'(-ing) BPMS]: ['The Ecological Fossil Record'(-ing) BPMS]+['Symbiotic (Lightweight) Dataset Artifact'(-ing) BPMS]: ['The Biome Library'(-ing) BPMS]+['Symbiotic Seed Artifact'(-ing) BPMS]: ['The Genesis Seed'(-ing) BPMS]+['Praxial Holonic Artifact'(-ing) BPMS]: ['The Homeostatic Regulator'(-ing) BPMS]+['Praxial Substrate Artifact'(-ing) BPMS]: ['The Niche Mutator'(-ing) BPMS]+['Atomic Facts Registry'(-ing) BPMS]: ['The Fact Registry'(-ing) BPMS]+['Symbiont Interface Artifact'(-ing) BPMS]: ['The Semantic Translator'(-ing) BPMS]`
 - **Objective:** To instantiate a self-sustaining **Living Earth System** in an external environment. This cluster fuses the **Genius Loci** (Spirit), **Metagenomic Oracle** (Conscience), and **Symbiotic Seed** (DNA) to create a `['Praxial Symbiotic Earth (PSE)'(-ing) BPMS]` that evolves via `['autopoietic(-ing) BPMS]` principles. It replaces static "World Building" with dynamic "Ecological Niche Genesis."
 - Type:
   - **Mode A (Synthesis):** `['The Praxial Earth-Genesis Cluster'(-ing) BPMS]` (The Living World).
@@ -131,7 +131,7 @@ This section maps the abstract **Symbiotic Cluster** components to the specific 
 
   →
 
-  ['The Homeostatic Regulator'(-ing_ BPMS])
+  ['The Homeostatic Regulator'(-ing) BPMS]
 
   .
 
