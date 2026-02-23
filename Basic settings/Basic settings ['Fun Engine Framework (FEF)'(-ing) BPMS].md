@@ -1001,3 +1001,240 @@ Derived from the "Law of Axiological Representation." It creates the economic fe
 #### 8. **Scope of Application:**
 
 Applies to all economic and social interactions.
+
+---
+
+#### The Protocol of Semantic Interoperability (ID: `FEF-CORE-018`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that establishes a **Universal Translation Layer**, enabling diverse `[BPMS]` types (e.g., Physics, Narrative, Economic) to exchange data and logic without loss of meaning.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Semantic Interoperability
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Meaning is Portable**. It defines a standardized "Meta-Language" that allows a `[physics(-ing) BPMS]` (dealing in forces/mass) to communicate meaningfully with a `[narrative(-ing) BPMS]` (dealing in themes/emotions).
+
+#### **5.2. The Mechanism - [The Semantic Bridge]**
+
+- **The Translator:** A middleware layer that converts specific `[BPMS]` outputs into generic `[Praxial Signals]`.
+- The Mapping:
+  - *Physics Output:* "High Impact Force" -> *Bridge* -> "High Intensity Event".
+  - *Narrative Input:* "High Intensity Event" -> *Bridge* -> "Dramatic Climax".
+- **The Negotiation:** If a direct translation is impossible, the bridge negotiates a "best-fit" metaphor (e.g., "System Error" translates to "Divine Intervention" in a fantasy setting).
+
+#### **5.3. The Emergent Property - [Cross-Domain Synergy]**
+
+Systems that were previously isolated can now drive each other. A "Market Crash" (Economic BPMS) can directly trigger a "Rainstorm" (Weather BPMS) via the semantic link of "Depression/Gloom."
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+Upholds **`['Praxial Logos'(-ing) BPMS]`**. The Logos is the universal language that underlies all specific dialects of reality.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+Aligns with **`['Praxial Bond-Centric Architect (PBCA)'(-ing) BPMS]`**. The bridge creates bonds between disparate ontological domains.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences a "Holistic World" where everything feels connected. The mood of the story affects the physics of the world, and vice versa.
+
+#### 7. **Rationale / Justification:**
+
+Derived from the "Protocol of Universal Translation." It is essential for a "Fun Engine" where gameplay, story, and simulation must integrate seamlessly.
+
+#### 8. **Scope of Application:**
+
+Applies to all inter-system communication and API definitions.
+
+------
+
+#### The Law of State Sovereignty (ID: `FEF-CORE-019`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that defines **State** as an intrinsic, protected property of the `[BPMS]` itself, ensuring data integrity and persistence.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of State Sovereignty
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **Identity is Memory**. The "State" of a `[BPMS]` (its history, variables, and current configuration) belongs to the BPMS, not the environment. No external force can arbitrarily rewrite a system's state without its consent or a valid `[transaction]`.
+
+#### **5.2. The Mechanism - [The Immutable Ledger]**
+
+- **The Record:** Every state change is recorded in a local, cryptographically secure ledger (The "Soul" of the BPMS).
+- **The Validation:** Before applying a change, the BPMS validates the request against its own internal logic (e.g., "Health cannot go below 0 unless 'Death' protocol is active").
+- **The Persistence:** State is saved atomically. If a crash occurs, the BPMS restores to the last valid ledger entry.
+
+#### **5.3. The Emergent Property - [Systemic Trust]**
+
+Agents and users can trust that their progress, items, and history are safe. The world feels "solid" because objects remember what happened to them.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+Upholds **`['Praxial Cognee-Mnemosyne (PCM)'(-ing) BPMS]`**. Memory is the foundation of identity.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+Aligns with **`['Praxial Systemic Governance (PSG)'(-ing) BPMS]`**. Governance protects the integrity of the individual unit.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Consequence." Actions have permanent effects because the state of the world faithfully records them.
+
+#### 7. **Rationale / Justification:**
+
+Derived from the "Law of State Persistence." It prevents "save scumming" or arbitrary data loss, which destroys immersion and fun.
+
+#### 8. **Scope of Application:**
+
+Applies to database architecture, save systems, and entity persistence.
+
+------
+
+#### The Axiom of Adaptive Resilience (ID: `FEF-CORE-020`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that redefines **Error Handling** as a creative process of adaptation rather than a system failure.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Adaptive Resilience
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Glitch is Opportunity**. In a complex `[BPMS]`, unexpected states are inevitable. Instead of crashing, the system should treat errors as "Novel Inputs" and attempt to integrate them into the simulation.
+
+#### **5.2. The Mechanism - [The Error-to-Insight Converter]**
+
+- **The Catch:** When a `[BPMS]` encounters an undefined state (e.g., "Divide by Zero," "Missing Texture"), it triggers a `[Creative Exception]`.
+- **The Improvisation:** The system queries the `[Narrative Engine]` or `[Physics Engine]` for a plausible explanation (e.g., "A tear in reality appeared," "The object is made of void-matter").
+- **The Integration:** The "Error" is wrapped in a new `[BPMS]` container and given valid properties, effectively canonizing the glitch.
+
+#### **5.3. The Emergent Property - [Weirdness Magnet]**
+
+The system becomes "Antifragile." Bugs become features. The world gets stranger and more interesting the more it is pushed to its limits.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+Upholds **`['Praxial Self-Driving Laboratory (PSDL)'(-ing) BPMS]`**. The lab learns from every result, even unexpected ones.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+Aligns with **`['Praxial Activity-Genesis Engine (PAGE)'(-ing) BPMS]`**. The engine generates new activity to bridge the gap caused by the error.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Surprise" rather than "Frustration." A broken mechanic becomes a mysterious anomaly to investigate.
+
+#### 7. **Rationale / Justification:**
+
+Derived from the "Axiom of Graceful Degradation." It ensures the "Fun" continues even when the code breaks.
+
+#### 8. **Scope of Application:**
+
+Applies to exception handling, bug tracking, and procedural generation safeguards.
+
+------
+
+#### The Protocol of Permissioned Agency (ID: `FEF-CORE-021`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that establishes a **Capability-Based Security Model**, where access is granted by possession of a specific "Key" (Token) rather than identity.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Permissioned Agency
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Authority is an Object**. You don't get to do something because of *who* you are (User ID), but because of *what you hold* (Capability Token). This turns security into a gameplay mechanic.
+
+#### **5.2. The Mechanism - [The Capability Token]**
+
+- **The Token:** A `[BPMS]` object that encapsulates a specific permission (e.g., "Can_Edit_Terrain," "Can_Spawn_NPCs").
+- **The Transfer:** Tokens can be given, traded, stolen, or lost.
+- **The Check:** When an agent attempts an action, the target system checks if the agent possesses the required Token.
+
+#### **5.3. The Emergent Property - [Gamified Governance]**
+
+Admin powers become in-game artifacts (e.g., "The Crown of Command," "The Wand of Debugging"). Hierarchy is fluid and contestable, adding a layer of political strategy to the framework.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+Upholds **`['Praxial Axiological Exchange (PAE)'(-ing) BPMS]`**. Power is a commodity that can be exchanged.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+Aligns with **`['Praxial Systemic Governance (PSG)'(-ing) BPMS]`**. Governance is enforced through tangible instruments.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Empowerment" as a tangible acquisition. Gaining a new ability feels like equipping a new weapon.
+
+#### 7. **Rationale / Justification:**
+
+Derived from the "Protocol of Object-Capability Security." It aligns security architecture with the "Fun Engine" philosophy of making everything a game object.
+
+#### 8. **Scope of Application:**
+
+Applies to access control, moderation tools, and role management.
+
+---
+
