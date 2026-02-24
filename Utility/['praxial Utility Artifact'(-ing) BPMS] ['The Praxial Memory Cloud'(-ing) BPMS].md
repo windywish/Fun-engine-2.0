@@ -1,4 +1,4 @@
-## ['praxial Utility Artifact'(-ing) BPMS]: ['Praxial Memory Cloud'(-ing) BPMS]
+## ['praxial Utility Artifact'(-ing) BPMS]: ['The Praxial Memory Cloud'(-ing) BPMS]
 
 ### **1. Identity & Metadata**
 
@@ -161,3 +161,8 @@ To instantiate this **Praxial Memory Cloud** as the active engine:
 ### 6.Remark
 
 **BPMS means Behavior pattern/model/system**
+
+
+
+
+
