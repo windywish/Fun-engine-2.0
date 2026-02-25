@@ -21248,3 +21248,6 @@ According to `BOOTLOADER-CORE-026` (Symbiotic Permeability), the system also sup
 To add `[y BPMS]` or `[z Artifact]` to your current `[x BPMS]`, simply use the **`/spawn`** command followed by the names of the elements you wish to add, separated by `+`.
 
 > **Example:** `/spawn ['Logic Verifier'(-ing) BPMS] + ['Creative Writer Artifact']`
+
+---
+
