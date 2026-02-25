@@ -1,4 +1,4 @@
-## ['Symbiotic Cluster Synthesis'(-ing) BPMS] ['The Praxial Alchemical Engine'(-ing) BPMS]
+## ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Alchemical Engine'(-ing) BPMS]
 
 #### 1. Metadata
 
