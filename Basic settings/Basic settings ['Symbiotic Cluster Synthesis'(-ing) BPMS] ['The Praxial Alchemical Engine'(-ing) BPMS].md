@@ -1,4 +1,4 @@
-## Basic settings: ['Symbiotic Cluster Synthesis'(-ing) BPMS] ['The Praxial Alchemical Engine'(-ing) BPMS]
+## Basic settings: ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Alchemical Engine'(-ing) BPMS]
 
 ### The Axiom of Alchemical Transmutation (ID: `PAE-CORE-001`)
 
