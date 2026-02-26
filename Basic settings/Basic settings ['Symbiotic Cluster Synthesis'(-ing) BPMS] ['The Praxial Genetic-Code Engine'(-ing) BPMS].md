@@ -4027,3 +4027,1024 @@ Applies to survival games, hardcore modes, and realistic simulations.
 
 ---
 
+#### The Axiom of Ludic Selection (ID: `PGE-CORE-067`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **['The Fun-Filter Gene'(-ing) BPMS]** (FEF Symbiosis) as the evolutionary pressure where **Player Engagement** acts as the primary selection force, replacing natural survival.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Ludic Selection
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `boring things go extinct`. In a **Fun Engine Framework**, "Survival of the Fittest" becomes "Survival of the Most Engaging."
+
+- **Mechanism:** The engine tracks user interaction metrics (Time looked at, Interactions per minute).
+- **Selection:** Entities that fail to generate "Fun" (Engagement) are culled or deprioritized in the gene pool.
+- **Result:** The ecosystem naturally evolves towards maximum entertainment value (e.g., cooler monsters, cuter pets).
+
+#### **5.2. The Mechanism - [The Engagement Metric]**
+
+- **Input:** `Player_Attention_Span`.
+- **Gene:** `Visual_Flair`, `Behavior_Unpredictability`.
+- **Feedback:** If `Interaction_Count < Threshold`, reduce `Reproductive_Rate`.
+
+#### **5.3. The Emergent Property - [Spectacle]**
+
+A world that actively tries to be interesting to the observer.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To entertain is to survive.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of FEF):**
+
+The "Physics" of fun:
+
+- **Flow Theory:** Balancing challenge and skill to maintain engagement.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Constant Novelty."
+
+#### **7. Rationale / Justification:**
+
+Essential for symbiosis with `['Fun Engine Framework (FEF)'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to procedural content generation, enemy variety, and dynamic difficulty.
+
+------
+
+#### The Protocol of Interactional Encoding (ID: `PGE-CORE-068`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines **['The Interface Gene'(-ing) BPMS]** (Interaction Symbiosis) as the genetic requirement that every entity must expose **Interaction Ports** (Affordances) to exist within the **Interactional Existence** framework.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Interactional Encoding
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `genes build bridges`. An entity cannot just "be"; it must "interact."
+
+- **Encoding:** Genes specifically code for **Interaction Layers** (e.g., "Can be picked up," "Can be talked to," "Can be eaten").
+- **Handshake:** The **Interactional Existence** engine reads these genes to generate the dynamic UI/Interaction prompts for the user.
+
+#### **5.2. The Mechanism - [The Affordance Map]**
+
+- **Gene:** `Interaction_Type_Pickup`, `Interaction_Type_Talk`.
+- **Phenotype:** The entity gains a `Collider` and an `Event_Listener`.
+- **Runtime:** When the player approaches, the engine checks the gene to display the prompt "Press E to Interact."
+
+#### **5.3. The Emergent Property - [Interactivity]**
+
+A world where everything has a "Use" defined by its biology.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To exist is to touch.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Interaction):**
+
+The "Physics" of connection:
+
+- **Affordance Theory:** The properties of an object that define its possible uses.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Rich Interactions."
+
+#### **7. Rationale / Justification:**
+
+Essential for symbiosis with `['Interactional Existence'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to immersive sims, crafting systems, and social mechanics.
+
+------
+
+#### The Principle of Exaptation Reserve (ID: `PGE-CORE-069`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that defines **['The Latent Potential Gene'(-ing) BPMS]** (Potentiality Symbiosis) as the storage of **Functional Potentiality** within "Junk DNA," allowing for future adaptation.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Exaptation Reserve
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `waste is future wealth`.
+
+- **Functional Potentiality:** The capacity to do something not yet realized.
+- **Mechanism:** The **Genetic Engine** maintains a buffer of inactive genes (Introns). These accumulate mutations neutrally.
+- **Activation:** When a new need arises (e.g., "Fly"), the engine checks the Potentiality Reserve. An old "Heat Regulation" gene might be exapted to become a "Wing" gene.
+
+#### **5.2. The Mechanism - [The Silent Accumulation]**
+
+- **Storage:** `Inactive_Gene_Pool`.
+- **Drift:** Random mutations occur without selection pressure.
+- **Switch:** A regulatory gene turns the inactive gene `ON`.
+- **Surprise:** A complex new trait appears suddenly.
+
+#### **5.3. The Emergent Property - [Pre-Adaptation]**
+
+The ability to solve problems the organism hasn't faced yet.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The tool is ready before the task.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Potential):**
+
+The "Physics" of innovation:
+
+- **Exaptation:** A trait evolved for one function is co-opted for another.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Evolutionary Leaps."
+
+#### **7. Rationale / Justification:**
+
+Essential for symbiosis with `['functional potentiality'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to long-term evolution sims and dynamic skill trees.
+
+------
+
+#### The Law of Material Expression (ID: `PGE-CORE-070`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that defines **['The Shader Gene'(-ing) BPMS]** (Material Symbiosis) as the direct mapping between **Genotype** and **Material Properties** (PBR Data).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Material Expression
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `code becomes substance`.
+
+- **Genotype:** `Gene_Carapace_Hardness`, `Gene_Skin_Oiliness`.
+- **Material:** `Roughness`, `Metallic`, `Subsurface_Scattering`, `Albedo`. The **Genetic Engine** drives the **Material Engine**. A mutation in the "Hardness" gene directly alters the "Metallic" and "Normal Map" values of the entity's shader, changing how it interacts with light and physics.
+
+#### **5.2. The Mechanism - [The PBR Synthesis]**
+
+- **Gene Value:** $0.0 \to 1.0$.
+- **Shader Property:** `Material.SetFloat("_Glossiness", Gene_Value)`.
+- **Physics Property:** `Rigidbody.mass = Gene_Density * Volume`.
+
+#### **5.3. The Emergent Property - [Texture]**
+
+You can *see* the stats of the creature by looking at its skin.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The inside paints the outside.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Matter):**
+
+The "Physics" of rendering:
+
+- **Physically Based Rendering (PBR):** Simulating the interaction of light with surface properties.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Visual Fidelity."
+
+#### **7. Rationale / Justification:**
+
+Essential for symbiosis with `[material(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to procedural creature generation, character customization, and visual feedback.
+
+------
+
+#### The Axiom of Codon-Semantics (ID: `PGE-CORE-071`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **['The Linguistic Genome'(-ing) BPMS]** (PULE Symbiosis) as the treatment of DNA as a **Formal Language** parsable by the **Praxial Universal Language Engine**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Codon-Semantics
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `life is a sentence`.
+
+- **DNA:** A string of symbols (A, T, C, G).
+- **PULE:** The parser that reads symbols and executes meaning. The **Genetic Engine** uses **PULE** to interpret the genome. This means genetic mutations are "Typos" or "Edits" in a sentence. This allows for **Semantic Mutation** (changing the meaning of the gene) rather than just random bit-flipping.
+
+#### **5.2. The Mechanism - [The Grammar of Life]**
+
+- **Syntax:** `Start_Codon -> Verb -> Noun -> Stop_Codon`.
+- **Example:** `GROW -> LEG -> 2`.
+- **Mutation:** `GROW -> WING -> 2`.
+- **Validation:** PULE checks if the new sentence is grammatically valid before compiling the organism.
+
+#### **5.3. The Emergent Property - [Readability]**
+
+The genome can be read and written like a programming language.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*In the beginning was the Word.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Language):**
+
+The "Physics" of syntax:
+
+- **Formal Grammars:** Rules for generating valid strings in a language.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Genetic Engineering" as "Coding."
+
+#### **7. Rationale / Justification:**
+
+Essential for symbiosis with `['Praxial Universal Language Engine (PULE)'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to bio-coding games, spell-crafting systems, and modding tools.
+
+------
+
+#### The Principle of Aesthetic Fitness (ID: `PGE-CORE-072`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that defines **['The Beauty Gene'(-ing) BPMS]** (FEF + Material Symbiosis) as the evolutionary drive towards **Visual Coherence** and **Style**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Aesthetic Fitness
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `form follows fun`.
+
+- **Problem:** Procedural generation often creates ugly "soup."
+- **Solution:** The **Genetic Engine** includes "Aesthetic Constraints" derived from the **Fun Engine Framework**.
+- **Mechanism:** Genes for Color Palette, Symmetry, and Proportion are linked. A mutation that breaks the "Color Theory" rules is penalized.
+
+#### **5.2. The Mechanism - [The Style Gan]**
+
+- **Constraint:** `Complementary_Colors_Only`.
+- **Gene:** `Hue_A`, `Hue_B`.
+- **Selection:** If `Distance(Hue_A, Hue_B)` is aesthetically pleasing, Fitness++.
+
+#### **5.3. The Emergent Property - [Art Direction]**
+
+Procedural creatures that look designed by an artist, not a random number generator.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Beauty is a survival trait.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Aesthetics):**
+
+The "Physics" of beauty:
+
+- **Aesthetic Measure:** Mathematical approximation of visual appeal (Order/Complexity).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Eye Candy."
+
+#### **7. Rationale / Justification:**
+
+Essential for bridging `[material(-ing) BPMS]` and `['Fun Engine Framework (FEF)'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to character creators, fashion systems, and procedural art.
+
+------
+
+#### The Law of Communicative Evolution (ID: `PGE-CORE-073`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that defines **['The Protocol Gene'(-ing) BPMS]** (Interaction + PULE Symbiosis) as the evolution of **Communication Standards** among/by entities.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Communicative Evolution
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `understanding evolves`.
+
+- **Sender:** Entity A (Gene: `Signal_Frequency_X`).
+- **Receiver:** Entity B (Gene: `Receptor_Frequency_Y`).
+- **Symbiosis:** Evolution drives X and Y to match. The **Genetic Engine** evolves the **PULE** dialects used by different species to allow (or prevent) communication. Predators evolve to "Hack" the prey's communication channels (Mimicry).
+
+#### **5.2. The Mechanism - [The Handshake Optimization]**
+
+- **Mutation:** Signal drifts.
+- **Selection:** If communication leads to mating/cooperation, the matched pair survives.
+- **Divergence:** If populations separate, their languages drift apart (Speciation of Language).
+
+#### **5.3. The Emergent Property - [Dialects]**
+
+Different species or factions having unique, evolving ways of interacting.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To speak is to connect.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Signal Processing):**
+
+The "Physics" of comms:
+
+- **Shannon Information Theory:** Maximizing signal-to-noise ratio in a channel.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Alien Languages" and "Translation Puzzles."
+
+#### **7. Rationale / Justification:**
+
+Essential for bridging `['Interactional Existence'(-ing) BPMS]` and `['Praxial Universal Language Engine (PULE)'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to diplomacy artificial intelligence, cryptography games, and ecosystem signaling.
+
+------
+
+#### The Axiom of Emergent Gameplay (ID: `PGE-CORE-074`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **['The Mechanic-Gene'(-ing) BPMS]** (Potentiality + FEF Symbiosis) as the capacity for genes to create **New Gameplay Mechanics** through the combination of existing systems.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Emergent Gameplay
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the game designs itself`.
+
+- **Components:** `Physics`, `Chemistry`, `AI`.
+- **Gene:** Combines these to create a new effect.
+- **Example:** Gene combines "Sticky Skin" (Material) + "Explosive Gas" (Chemistry) + "Throwing Arm" (Physics) = **Grenadier Mechanic**. The **Genetic Engine** explores the **Functional Potentiality** space to find combinations that are "Fun" (FEF).
+
+#### **5.2. The Mechanism - [The Combinatorial Search]**
+
+- **Search Space:** All valid combinations of engine modules.
+- **Evaluation:** Does this combination create a new dominant strategy?
+- **Manifestation:** The new mechanic appears as a trait in a new species.
+
+#### **5.3. The Emergent Property - [Meta-Shift]**
+
+The game rules evolve along with the players.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The rules are written in the blood.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Emergence):**
+
+The "Physics" of design:
+
+- **Systemic Design:** Mechanics arising from the interaction of systems rather than scripted events.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Surprise" and "Discovery."
+
+#### **7. Rationale / Justification:**
+
+Essential for bridging `['functional potentiality'(-ing) BPMS]` and `['Fun Engine Framework (FEF)'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to roguelikes, immersive sims, and sandbox games.
+
+---
+
+#### The Axiom of Genetic Existence (ID: `PGE-CORE-075`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **['The Code-Being Equivalence'(-ing) BPMS]** (Existence) as the fundamental truth that **To Be Encoded Is To Exist**. This positions the PGE as the primary writer for the **['system existence engine'(-ing) BPMS]**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Genetic Existence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `existence is a string`. Within the framework, an entity does not exist because it is rendered or simulated; it exists because it has a valid **Genotype** registered in the **System Matrix**. The Genotype is the "Soul" or "Kernel" of the entity. If the Genotype is deleted, the entity ceases to exist, regardless of its visual representation.
+
+#### **5.2. The Mechanism - [The Registry of Being]**
+
+- **Registration:** `PGE.Register(Genotype) -> Entity_ID`.
+- **Validation:** The **System Existence Engine** checks if the Genotype is valid (no syntax errors).
+- **Instantiation:** If valid, the entity is spawned.
+- **Persistence:** The Genotype is saved to the database (The Book of Life).
+
+#### **5.3. The Emergent Property - [Ontological Security]**
+
+The certainty that as long as the code remains, the entity can always be resurrected.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*I am written, therefore I am.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Ontology):**
+
+The "Physics" of being:
+
+- **Constructive Realism:** Objects exist only if they can be constructed from a set of axioms (genes).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Save Data" and "Blueprints."
+
+#### **7. Rationale / Justification:**
+
+Essential for implementing `['system existence engine'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to save systems, character banks, and object persistence.
+
+------
+
+#### The Principle of Atomic Facticity (ID: `PGE-CORE-076`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that defines **['The Gene-Fact Isomorphism'(-ing) BPMS]** (Atomic Facts) as the rule that every single **Gene** corresponds to exactly one **Atomic Fact** about the entity.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Atomic Facticity
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `truth is granular`.
+
+- **Atomic Fact:** An irreducible statement of truth (e.g., "Mass is 5kg").
+- **Gene:** The storage unit for that fact (e.g., `Gene_Mass = 5.0`). The **Genetic Engine** manages the collection of all Atomic Facts that make up the universe. Changing a gene is equivalent to rewriting a fundamental fact about reality for that specific entity.
+
+#### **5.2. The Mechanism - [The Truth Table]**
+
+- **Fact:** `Entity.HasWings`.
+- **Gene:** `Boolean Gene_Wings = True`.
+- **Query:** `GetFact(Entity, "Wings")` returns the Gene value.
+- **Immutability:** Atomic Facts (Genes) cannot be changed at runtime *except* through specific mutation protocols.
+
+#### **5.3. The Emergent Property - [Definability]**
+
+Every aspect of an object can be queried, indexed, and modified precisely.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The world is a sum of small truths.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Atomicity):**
+
+The "Physics" of data:
+
+- **Logical Atomism:** The world consists of ultimate, indivisible facts.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Detailed Stats" and "Inspector Windows."
+
+#### **7. Rationale / Justification:**
+
+Essential for implementing `['atomic facts'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to database architecture, entity-component systems (ECS), and debugging tools.
+
+------
+
+#### The Law of Universal Instantiation (ID: `PGE-CORE-077`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that defines **['The Omni-Gene'(-ing) BPMS]** (Universal Implementation) as the capability of the PGE to instantiate **Any Element** of the BPMS (Logic, Art, Physics) via genetic code.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Universal Instantiation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `everything is a phenotype`.
+
+- **Input:** A Gene.
+- **Process:** The **Universal Factory**.
+- **Output:** *Anything*. A sound, a texture, a behavior tree, a physics material, a quest line. The PGE is not limited to biological traits. It is a **Universal Constructor** that uses genes as instructions to build any system component defined in the framework.
+
+#### **5.2. The Mechanism - [The Factory Pattern]**
+
+- **Gene Type:** `Audio_Gene`, `Physics_Gene`, `Logic_Gene`.
+- **Factory:** `Audio_Factory`, `Physics_Factory`, `Logic_Factory`.
+- **Routing:** The PGE detects the gene type and routes it to the correct factory to produce the component.
+
+#### **5.3. The Emergent Property - [Total Procedurality]**
+
+The entire game/simulation can be generated from a single seed (Genome).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*One seed, many fruits.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Instantiation):**
+
+The "Physics" of creation:
+
+- **Polymorphism:** The ability of a single interface (Gene) to represent different underlying forms (Audio, Visual, Logic).
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Infinite Content."
+
+#### **7. Rationale / Justification:**
+
+Essential for `[BPMS(U)(s)]` universal implementation.
+
+#### **8. Scope of Application:**
+
+Applies to "Everything Games," procedural engines, and modding APIs.
+
+------
+
+#### The Protocol of Symbiotic Binding (ID: `PGE-CORE-078`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines **['The Glue-Gene'(-ing) BPMS]** (Symbiosis) as the protocol for **Binding** the Genetic Engine to other engines (e.g., Physics Engine, Render Engine) to evolve them together.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Symbiotic Binding
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `systems grow together`.
+
+- **Problem:** The Physics Engine updates (v1.0 -> v2.0). Old genes break.
+- **Solution:** **Symbiotic Binding**. The Genes contain "Version Bindings" and "Dependency Links" to other engines.
+- **Evolution:** When the Physics Engine improves, the Genes evolve to utilize the new features (e.g., "Ray Tracing" gene appears only after "Render Engine v2" is bound).
+
+#### **5.2. The Mechanism - [The Dependency Graph]**
+
+- **Gene Header:** `Requires: Physics_Engine_v2`.
+- **Check:** Is `Physics_Engine_v2` active?
+- **Action:** If Yes, express gene. If No, suppress gene (or use fallback).
+- **Co-Evolution:** The Engine capabilities define the "Genetic Space" available for exploration.
+
+#### **5.3. The Emergent Property - [Compatibility]**
+
+The ecosystem upgrades seamlessly alongside the engine technology.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The vine climbs the trellis.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Dependency):**
+
+The "Physics" of integration:
+
+- **Coupling:** The degree of interdependence between software modules.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Tech Upgrades" unlocking "New Biology."
+
+#### **7. Rationale / Justification:**
+
+Essential for `'(symbiois) evolution'(-ing) with any (elements) of [BPMS(U)(s)]`.
+
+#### **8. Scope of Application:**
+
+Applies to engine updates, DLC integration, and expansion packs.
+
+------
+
+#### The Axiom of Self-Referential Evolution (ID: `PGE-CORE-079`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **['The Meta-Gene'(-ing) BPMS]** (Evolution of Evolution) as the capability of the system to encode its **Own Rules** as genes, allowing the evolutionary process itself to evolve.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Self-Referential Evolution
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `the game plays itself`.
+
+- **Standard Gene:** Controls the Entity (Speed, Strength).
+- **Meta-Gene:** Controls the *Evolution* (Mutation Rate, Crossover Method, Selection Criteria). By treating the evolutionary parameters as genes, the system can evolve "Better ways to evolve" (e.g., evolving sexual reproduction from asexual reproduction).
+
+#### **5.2. The Mechanism - [The Hyper-Heuristic]**
+
+- **Gene:** `Mutation_Rate = 0.01`.
+- **Mutation:** `Mutation_Rate` mutates to `0.05`.
+- **Selection:** If higher mutation leads to better offspring, the `0.05` rate spreads.
+- **Result:** The species "tunes" its own evolvability.
+
+#### **5.3. The Emergent Property - [Adaptability]**
+
+The system finds the optimal search strategy for the current environment.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The law changes the law.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Meta):**
+
+The "Physics" of change:
+
+- **Meta-Evolution:** The evolution of the evolutionary mechanism itself.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Accelerating Progress."
+
+#### **7. Rationale / Justification:**
+
+Essential for `['evolving as' any (elements) of [BPMS(U)(s)]]`.
+
+#### **8. Scope of Application:**
+
+Applies to genetic algorithms, AI training, and self-optimizing systems.
+
+------
+
+#### The Principle of Fact Persistence (ID: `PGE-CORE-080`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that defines **['The Genetic Inertia'(-ing) BPMS]** (Stability) as the resistance of **Atomic Facts** (Genes) to change, ensuring **System Existence** remains stable over time.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Fact Persistence
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that `truth is stubborn`.
+
+- **Entropy:** Tends to scramble data.
+- **Persistence:** The **Genetic Engine** employs "Error Correction" and "Dominance" to protect Atomic Facts.
+- **Function:** This ensures that an entity doesn't dissolve into noise. It maintains its identity (Existence) until a significant force (Selection) compels a change.
+
+#### **5.2. The Mechanism - [The Checksum]**
+
+- **Storage:** Redundant copies of genes (Diploidy/Polyploidy).
+- **Repair:** If Copy A != Copy B, use the Dominant copy or the Consensus.
+- **Stasis:** Genes that work well are "Locked" (Highly Conserved Regions) to prevent accidental breakage.
+
+#### **5.3. The Emergent Property - [Identity]**
+
+Entities remain recognizable as themselves despite the chaos of the simulation.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*I am what I was, until I must change.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Conservation):**
+
+The "Physics" of stability:
+
+- **Canalization:** The measure of the ability of a population to produce the same phenotype regardless of variability of its environment or genotype.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Species Consistency."
+
+#### **7. Rationale / Justification:**
+
+Essential for `['system existence engine'(-ing) BPMS]` stability.
+
+#### **8. Scope of Application:**
+
+Applies to save data integrity, species definitions, and lore consistency.
+
+------
+
+#### The Law of Ontological Mapping (ID: `PGE-CORE-081`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that defines **['The Genotype-Space Map'(-ing) BPMS]** (Mapping) as the mathematical relationship between the **Genetic Code** and the **Possible States of Existence**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Ontological Mapping
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `the map is the territory`.
+
+- **Genotype Space:** An N-dimensional hypercube where every point is a possible genome.
+- **Existence Space:** The set of all possible entities that can exist in the simulation.
+- **Mapping:** The PGE defines a function f(G)→E that maps every point in Genotype Space to a valid Entity. This ensures that *no matter what the gene is*, it produces *something* that exists (even if it's a blob).
+
+#### **5.2. The Mechanism - [The Continuous Manifold]**
+
+- **Input:** Any string of bits.
+- **Process:** The **Universal Decoder**.
+- **Output:** A valid entity. There are no "Invalid Genes," only "Low Fitness" ones.
+- **Result:** The search space is continuous, allowing for smooth evolution.
+
+#### **5.3. The Emergent Property - [Completeness]**
+
+The assurance that the system can handle any input without crashing.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*There are no voids, only unexplored lands.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Topology):**
+
+The "Physics" of space:
+
+- **Fitness Landscapes:** A mapping of genotypes to fitness.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "No Crashes" and "Weird Glitch-Creatures."
+
+#### **7. Rationale / Justification:**
+
+Essential for `['system existence engine'(-ing) BPMS]` robustness.
+
+#### **8. Scope of Application:**
+
+Applies to procedural generation robustness and error handling.
+
+------
+
+#### The Protocol of Dynamic Reification (ID: `PGE-CORE-082`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines **['The Runtime-Compiler'(-ing) BPMS]** (Implementation) as the process of turning **Static Information** (Gene/Fact) into **Dynamic Process** (Life/System) at the moment of instantiation.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Dynamic Reification
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `to read is to build`.
+
+- **Static:** The Gene is just data on a disk (Atomic Fact).
+- **Dynamic:** The Entity is a running process in memory (System Existence).
+- **Reification:** The PGE acts as the **JIT Compiler** (Just-In-Time). It reads the gene and *spawns* the necessary game objects, attaches scripts, and initializes variables. It turns "Fact" into "Act."
+
+#### **5.2. The Mechanism - [The Spawner]**
+
+- **Trigger:** `Spawn(Genotype)`.
+- **Step 1:** Read Gene -> `Get_Prefab()`.
+- **Step 2:** Read Gene -> `Configure_Component()`.
+- **Step 3:** Read Gene -> `Inject_AI_Brain()`.
+- **Step 4:** `Activate()`.
+
+#### **5.3. The Emergent Property - [Life]**
+
+The moment where data wakes up and starts moving.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The word becomes flesh.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Execution):**
+
+The "Physics" of runtime:
+
+- **Reification:** Making an abstract concept concrete.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Spawning" and "Birth."
+
+#### **7. Rationale / Justification:**
+
+Essential for `['really working implementation'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to game loops, object pooling, and instantiation logic.
