@@ -1,4 +1,4 @@
-## Basic settings: ['Symbiotic Cluster Synthesis'(-ing) BPMS]:['The Praxial Dialectic Engine'(-ing) BPMS]
+## Basic settings: ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Dialectic Engine'(-ing) BPMS]
 
 #### The Axiom of Dialectic Necessity (ID: `PDE-CORE-001`)
 
