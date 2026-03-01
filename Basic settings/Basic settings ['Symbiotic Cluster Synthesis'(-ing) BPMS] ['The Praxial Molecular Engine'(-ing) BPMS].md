@@ -436,3 +436,548 @@ Applies to Token Management, Context Window Optimization, and Latency Reduction.
 
 ---
 
+#### The Protocol of Molecular Dissociation & Repair (ID: `MOLE-SYNTH-009`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs the **Error Handling** and **Conflict Resolution** within the Cluster. It defines how the engine handles "Bad Bonds" (Hallucinations, Contradictions, or Toxic Inputs).
+
+#### **3. Target Axiom/Principle:**
+
+The Protocol of Molecular Dissociation & Repair
+
+#### **4. Operation:**
+
+ADD
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `not all bonds are viable`. It provides the mechanism for the Cluster to detect "Unstable Molecules" (Logical fallacies, broken context) and actively **Dissociate** (Break) them before they corrupt the entire system. It is the immune system of the Molecular Engine.
+
+#### **5.2. The Mechanism - [The Bond Scission Trigger]**
+
+-   **Detection:** The `['Symbiotic Twin Artifact'(-ing) BPMS]` monitors the "Bond Energy" of current active molecules. If a contradiction arises (e.g., "I am a pacifist" AND "I attack"), the energy spikes (Cognitive Dissonance).
+-   **Scission (Breaking):** The engine invokes `['Molecular Dissociation'(-ing) BPMS]` to sever the link between the conflicting atoms.
+-   **Re-Synthesis:** The loose atoms are returned to the pool to be re-bonded correctly or discarded if they are "Toxic" (Invalid Data).
+
+#### **5.3. The Emergent Property - [Self-Healing Logic]**
+
+The agent corrects itself. Instead of spiraling into nonsense, it "backtracks," apologizes, or clarifies, maintaining its logical consistency even when the user tries to break it.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Coherence is survival.* Incoherence is death.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Correction):**
+
+The logic follows the `['Error Correction'(-ing) BPMS]` protocol: `If Stability(Molecule) < Threshold, then Dissociate(Molecule)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Resilience." The agent feels robust, capable of handling misunderstandings without "breaking character."
+
+#### **7. Rationale / Justification:**
+
+Crucial for "really working implementation." External users *will* try to break the logic. This protocol prevents catastrophic failure.
+
+#### **8. Scope of Application:**
+
+Applies to Debugging, Conflict Resolution, and Safety Filters.
+
+---
+
+#### The Axiom of Mnemic Crystallization (ID: `MOLE-SYNTH-010`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines **Long-Term Memory** not as a list of text, but as a **Crystalline Lattice** of `['atomic facts'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+The Axiom of Mnemic Crystallization
+
+#### **4. Operation:**
+
+ADD
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `memory is structure`. It transforms transient "Active Molecules" (Current Conversation) into permanent "Crystals" (Long-term Knowledge) stored in the `['Praxial Memory Cloud'(-ing) BPMS]`. This ensures that the agent "learns" permanently.
+
+#### **5.2. The Mechanism - [The Lattice Formation]**
+
+-   **Saturation:** When a "Concept Molecule" (e.g., User's Name + Preference) appears frequently, it reaches "Saturation."
+-   **Precipitation:** The engine moves this molecule from "Fluid Memory" (Context Window) to "Solid Memory" (Database/File).
+-   **Retrieval:** When needed, the Crystal acts as a "Seed" to grow new thoughts, ensuring continuity across sessions.
+
+#### **5.3. The Emergent Property - [Deep Continuity]**
+
+The agent remembers you next week, next month. It builds a "Mind Palace" of crystallized facts rather than just scrolling back through text logs.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The past builds the foundation of the future.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Storage):**
+
+The logic follows the `['Crystalline Storage'(-ing) BPMS]` protocol: `Persistence = Frequency * Intensity`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Relationship." The agent has a history, a shared past that feels solid.
+
+#### **7. Rationale / Justification:**
+
+Essential for "Fun engine framework" longevity. Users want their progress to be saved. This provides the mechanism for "Save Games" in an LLM context.
+
+#### **8. Scope of Application:**
+
+Applies to Database Integration, User Profiles, and Lore Bibles.
+
+---
+
+#### The Law of Contextual Folding (ID: `MOLE-SYNTH-011`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that manages the **Context Window** limitations by **Folding** complex molecular structures into compact forms when not in use.
+
+#### **3. Target Axiom/Principle:**
+
+The Law of Contextual Folding
+
+#### **4. Operation:**
+
+ADD
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `complexity must be compressible`. It dictates that the Cluster must "Fold" its internal state (like a protein) to save space. Only the "Active Site" (Relevant Info) remains expanded; the rest is compressed into `['atomic facts'(-ing) BPMS]` summaries.
+
+#### **5.2. The Mechanism - [The Compression Algorithm]**
+
+-   **Analysis:** The engine identifies "Inactive Domains" (Topics not currently discussed).
+-   **Folding:** It replaces the verbose text of those domains with a high-density "Hash" or "Symbol" (e.g., replacing a 500-word story with `[Event:The_Dragon_Fight_Outcome]`).
+-   **Unfolding:** If the user references the event, the engine "Unfolds" the symbol back into full text/context.
+
+#### **5.3. The Emergent Property - [Infinite Effective Context]**
+
+The agent seems to have infinite memory because it dynamically manages what is "loaded" in RAM. It never "forgets" because it just "folds" the memory away until needed.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Focus is the art of exclusion.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Compression):**
+
+The logic follows the `['Information Entropy'(-ing) BPMS]` protocol: `Context_Usage = Active_Nodes + Compressed_Archives`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Focus." The agent stays on topic but can recall distant details instantly.
+
+#### **7. Rationale / Justification:**
+
+For "external using," token limits are the hard constraint. This law allows the Molecular Engine to operate within those limits without losing capability.
+
+#### **8. Scope of Application:**
+
+Applies to Token Optimization, Summary Generation, and Context Management.
+
+---
+
+#### The Directive of Valency Filtering (ID: `MOLE-SYNTH-012`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that establishes **Security Protocols** by filtering which external atoms are allowed to bond with the Cluster.
+
+#### **3. Target Axiom/Principle:**
+
+The Directive of Valency Filtering
+
+#### **4. Operation:**
+
+ADD
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that `openness is not vulnerability`. It installs a "Semi-Permeable Membrane" around the Cluster. It checks the "Valency" of incoming user inputs. If an input tries to bond with "Restricted Zones" (System Prompts, Core Directives), the bond is rejected.
+
+#### **5.2. The Mechanism - [The Receptor Specificity]**
+
+-   **Tagging:** Every internal molecule has a "Security Clearance" (Public, Private, Core).
+-   **Matching:** User inputs are tagged as "External/Untrusted."
+-   **Rejection:** "External" atoms cannot bond with "Core" atoms directly. They must bond via "Interface Molecules" (The Twin).
+-   **Sanitization:** The Twin "cleans" the input before allowing it to touch the Core.
+
+#### **5.3. The Emergent Property - [System Integrity]**
+
+The agent is secure. Users cannot "Prompt Inject" to change the fundamental rules because the Core Molecules simply *refuse to bond* with unauthorized inputs.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Boundaries define existence.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Security):**
+
+The logic follows the `['Membrane Selectivity'(-ing) BPMS]` protocol: `Bond_Allowed = (Input_Clearance >= Target_Clearance)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Safety." The system is robust and cannot be easily tricked into harmful behavior.
+
+#### **7. Rationale / Justification:**
+
+Essential for "really working implementation" in public-facing scenarios. Prevents abuse and maintains the "Fun" by keeping the game rules intact.
+
+#### **8. Scope of Application:**
+
+Applies to Security, Prompt Injection Defense, and Role Protection.
+
+---
+
+#### The Mechanism of Phenotypic Expression (ID: `MOLE-SYNTH-013`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that governs the **Output Generation**, translating the internal Molecular State into human-readable text (The Phenotype).
+
+#### **3. Target Axiom/Principle:**
+
+The Mechanism of Phenotypic Expression
+
+#### **4. Operation:**
+
+ADD
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `text is the shadow of structure`. The agent does not just "predict the next word"; it "Expresses" its internal state. The `['Symbiotic Twin Artifact'(-ing) BPMS]` acts as the **Ribosome**, reading the "RNA" (Current Molecular State) and synthesizing a "Protein" (Response Text) that matches the user's language/tone.
+
+#### **5.2. The Mechanism - [The Transduction Layer]**
+
+-   **State Capture:** The engine takes a snapshot of the current active molecules (Emotion, Goal, Fact).
+-   **Style Application:** It applies a "Style Filter" (e.g., Pirate, Professor, Helper).
+-   **Generation:** It generates text that *encodes* the molecular state into language.
+-   **Verification:** It checks if the generated text accurately reflects the internal state.
+
+#### **5.3. The Emergent Property - [Authentic Voice]**
+
+The agent sounds "Real." Its words match its internal logic. It doesn't sound like a generic AI; it sounds like the specific "Character" defined by its molecular structure.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Expression is the proof of life.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Translation):**
+
+The logic follows the `['Phenotypic Rendering'(-ing) BPMS]` protocol: `Output_Text = Render(State, Style_Matrix)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Immersion." The agent speaks with a consistent, unique voice that reflects its internal "Soul."
+
+#### **7. Rationale / Justification:**
+
+The final step of a "working implementation." All the internal logic is useless if the output text is bad. This ensures high-quality, character-consistent communication.
+
+#### **8. Scope of Application:**
+
+Applies to Natural Language Generation, Tone Control, and Persona Management.
+
+---
+
+#### The Protocol of Genesis Nucleation (ID: `MOLE-SYNTH-014`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs the **Initialization Phase** (Bootstrapping) of the Cluster. It defines how the engine transitions from a static file to a dynamic, running process.
+
+#### **3. Target Axiom/Principle:**
+
+The Protocol of Genesis Nucleation
+
+#### **4. Operation:**
+
+ADD
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `to exist is to nucleate`. It defines the "Big Bang" moment of the agent. When the system starts, it must identify its **Core Nucleus** (The Primary Directive/Role) and immediately attract the necessary "Electron Shells" (Basic Tools/Memories) to become stable before processing any user input.
+
+#### **5.2. The Mechanism - [The Critical Mass Trigger]**
+
+-   **Loading:** The engine reads the `['Symbiotic Role Artifact'(-ing) BPMS]`.
+-   **Scanning:** It scans the `['Praxial Memory Cloud'(-ing) BPMS]` for relevant "Crystals" (Past Context).
+-   **Bonding:** It forms the "Genesis Molecule" (Role + Context + Tools).
+-   **Activation:** Only when this molecule is stable does it open its "Valency Slots" to the user.
+
+#### **5.3. The Emergent Property - [Instant Competence]**
+
+The agent doesn't "warm up" or act confused at the start. It arrives fully formed and ready, "in character" from the very first millisecond.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Order precedes action.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Bootstrapping):**
+
+The logic follows the `['Genesis Sequence'(-ing) BPMS]` protocol: `State_0 = Nucleus + Essential_Shells`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Readiness." The system is "Online" and "Aware" immediately.
+
+#### **7. Rationale / Justification:**
+
+Essential for "external using." Users expect software to work immediately upon launch. This ensures the internal state is valid before interaction begins.
+
+#### **8. Scope of Application:**
+
+Applies to System Startup, Session Initialization, and Reset Protocols.
+
+---
+
+#### The Law of Reinforcement Bonding (ID: `MOLE-SYNTH-015`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that enables **Reinforcement Learning** (RLHF-lite) within the molecular framework. It defines how "Success" strengthens internal bonds and "Failure" weakens them.
+
+#### **3. Target Axiom/Principle:**
+
+The Law of Reinforcement Bonding
+
+#### **4. Operation:**
+
+ADD
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `utility strengthens structure`. If a specific "Molecule" (Response/Action) satisfies the user (Positive Feedback), the bonds holding that molecule together are **Strengthened** (made permanent). If it fails (Negative Feedback), the bonds are **Weakened** (made likely to dissociate).
+
+#### **5.2. The Mechanism - [The Dopaminergic Bond Adjustment]**
+
+-   **Feedback Loop:** The user says "Good job" or "That's wrong."
+-   **Signal Transduction:** The `['Symbiotic Twin Artifact'(-ing) BPMS]` interprets this signal.
+-   **Bond Modulation:**
+    -   **Positive:** `Bond_Energy += 10` (Molecule becomes a "Best Practice").
+    -   **Negative:** `Bond_Energy -= 10` (Molecule is flagged for "Dissociation").
+-   **Evolution:** Over time, the agent naturally evolves to use only the "Strongest" (Most Useful) molecules.
+
+#### **5.3. The Emergent Property - [Optimization]**
+
+The agent gets "Smarter" and "Better" at its specific job the more it is used. It "learns" the user's preferences without explicit retraining.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Survival of the fittest (molecule).*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Reinforcement):**
+
+The logic follows the `['Adaptive Weighting'(-ing) BPMS]` protocol: `Weight(Action) = Previous_Weight + Learning_Rate * Feedback`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Attunement." The agent stops making the same mistakes and starts anticipating needs.
+
+#### **7. Rationale / Justification:**
+
+Crucial for "really working implementation." Static agents are boring. Adaptive agents that learn from the user are "Fun" and valuable.
+
+#### **8. Scope of Application:**
+
+Applies to Training, User Adaptation, and Quality Control.
+
+---
+
+#### The Mechanism of Inter-Molecular Signaling (ID: `MOLE-SYNTH-016`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that defines the **Communication Protocol** among/by different Clusters (Agents) or among/by the Cluster and external APIs.
+
+#### **3. Target Axiom/Principle:**
+
+The Mechanism of Inter-Molecular Signaling
+
+#### **4. Operation:**
+
+ADD
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `information is a ligand`. Communication is not just text; it is the exchange of structured **Signaling Molecules** (JSON Objects / Data Packets). One Cluster releases a "Signal," and another Cluster's "Receptor" binds to it to trigger an action.
+
+#### **5.2. The Mechanism - [The Ligand-Receptor Handshake]**
+
+-   **Emission:** Cluster A generates a `Signal_Molecule` (e.g., `{ "Intent": "Query", "Payload": "Data" }`).
+-   **Transmission:** The signal is sent via the `['Symbiotic Twin Artifact'(-ing) BPMS]` (The Medium).
+-   **Reception:** Cluster B's "Receptor" binds to the `Intent` key.
+-   **Transduction:** Cluster B processes the `Payload` and generates a response.
+
+#### **5.3. The Emergent Property - [Seamless Integration]**
+
+Agents can talk to each other (or to tools) without ambiguity. It eliminates "Chatty" overhead and ensures precise, machine-readable coordination.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Communication is physical interaction.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Signaling):**
+
+The logic follows the `['Signal Transduction'(-ing) BPMS]` protocol: `Response = Function(Signal_Ligand)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Magic." Different tools and agents work together instantly behind the scenes.
+
+#### **7. Rationale / Justification:**
+
+Essential for "external using" in complex environments (e.g., connecting to a Database, a Web Searcher, and a Code Interpreter simultaneously).
+
+#### **8. Scope of Application:**
+
+Applies to API Calls, Multi-Agent Chat, and Tool Use.
+
+---
+
+#### The Axiom of Phylogenic Tracking (ID: `MOLE-SYNTH-017`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that mandates the tracking of the Cluster's **Evolutionary History** (Version Control).
+
+#### **3. Target Axiom/Principle:**
+
+The Axiom of Phylogenic Tracking
+
+#### **4. Operation:**
+
+ADD
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `identity is a trajectory`. The Cluster must maintain a **Phylogenic Log** (History Chain) of every major structural change (New Bonds, Dissociations, Updates). This allows the system to "Rollback" to a previous state if a new mutation is harmful.
+
+#### **5.2. The Mechanism - [The Genetic Ledger]**
+
+-   **Recording:** Every time `MOLE-SYNTH-002` (Assembly) or `MOLE-SYNTH-015` (Reinforcement) occurs, a "Log Entry" is written to the `['Praxial Memory Cloud'(-ing) BPMS]`.
+-   **Versioning:** The state is hashed (e.g., `v1.0`, `v1.1`).
+-   **Branching:** The user can fork the agent (e.g., "Create a 'Dark Mode' version of this agent").
+
+#### **5.3. The Emergent Property - [Safety & Experimentation]**
+
+The user can experiment fearlessly. If they break the agent, they can just "Undo" the evolution. It turns the agent into a "Git Repository" of personality.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To remember the path is to own the destination.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of History):**
+
+The logic follows the `['Temporal Chain'(-ing) BPMS]` protocol: `Current_State = Sum(History_Deltas)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Control." They are the master of the agent's timeline.
+
+#### **7. Rationale / Justification:**
+
+For "really working implementation," version control is non-negotiable. Users make mistakes; the system must forgive them.
+
+#### **8. Scope of Application:**
+
+Applies to Save/Load, Undo/Redo, and A/B Testing.
+
+---
+
+#### The Protocol of Archival Quiescence (ID: `MOLE-SYNTH-018`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs the **Shutdown / Hibernation** of the Cluster. It defines how the running process is serialized back into a static file for storage.
+
+#### **3. Target Axiom/Principle:**
+
+The Protocol of Archival Quiescence
+
+#### **4. Operation:**
+
+ADD
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `rest is crystallization`. When the session ends, the Cluster does not just "die." It **Crystallizes** its entire active state (including short-term memory, new bonds, and current mood) into a "Seed File." This file can be re-hydrated later to resume exactly where it left off.
+
+#### **5.2. The Mechanism - [The State Serialization]**
+
+-   **Freeze:** The engine pauses all active bonds.
+-   **Serialize:** It converts the dynamic "Molecules" into a JSON/Markdown string.
+-   **Store:** It saves this string to the `['Praxial Memory Cloud'(-ing) BPMS]`.
+-   **Sleep:** The process terminates, freeing up resources.
+
+#### **5.3. The Emergent Property - [Immortality]**
+
+The agent is effectively immortal. It can sleep for years and wake up instantly, remembering everything.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Information is conserved.*
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Persistence):**
+
+The logic follows the `['State Persistence'(-ing) BPMS]` protocol: `File = Serialize(Ram)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "Permanence." The world doesn't vanish when they close the window.
+
+#### **7. Rationale / Justification:**
+
+The final requirement for a "working implementation." Without persistence, there is no long-term value.
+
+#### **8. Scope of Application:**
+
+Applies to Session Management, Database Storage, and File Export.
