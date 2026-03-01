@@ -2786,3 +2786,1223 @@ The ultimate **Meta-Goal**. It ensures the system is robust, resilient, and sust
 #### **8. Scope of Application:**
 
 Applies to Everything.
+
+---
+
+#### The Protocol of External Molecular Binding (ID: `MOLE-SYNTH-051`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines the standard interface for binding **External Elements** (non-native code, data, or assets) into the `['Praxial Molecular Engine'(-ing) BPMS]`, treating them as valid `[molecular(-ing) BPMS]` atoms.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of External Molecular Binding
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Anything is a Molecule**. It provides a "Universal Wrapper" that takes any external object (e.g., a JSON file, a Python script, a JPEG image) and wraps it in a `[Praxial Molecular Shell]`. This shell exposes the object's properties as `[valency(-ing) BPMS]` hooks, allowing it to bond with native Fun Engine elements.
+
+#### **5.2. The Mechanism - [The Universal Wrapper]**
+
+- **Input:** External Entity `E` (e.g., `User_Profile.json`).
+
+- **Analysis:** The engine scans `E` for structure (Keys, Methods, Metadata).
+
+- Shell Generation:
+
+   It generates a 
+
+  ```
+  [Molecular_Shell]
+  ```
+
+   with:
+
+  - **Nucleus:** The original `E` (preserved intact).
+  - **Valency Hooks:** Derived from `E`'s keys (e.g., `Key: "Name"` becomes `Hook: Name_Connector`).
+
+- **Binding:** The wrapped `E` can now form `[covalent bonds]` with internal systems (e.g., binding `User_Profile` to `Game_Character`).
+
+#### **5.3. The Emergent Property - [Frictionless Import]**
+
+The emergence of **Universal Compatibility**. Users can drag-and-drop *any* file or connect *any* API, and the Molecular Engine will instantly "molecularize" it, making it ready for synthesis without manual coding.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-018)** "The Protocol of Semantic Interoperability." It implements the semantic bridge for external data.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-032)** "The Protocol of Cross-Element Hybridization." It enables the hybridization of external and internal elements.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-002)** "The Protocol of Contextual Collapse." The external file's potential is collapsed into a specific function within the engine.
+
+#### 7. **Rationale / Justification:**
+
+Essential for "External Using." It allows the Fun Engine to act as a "Glue Layer" for any other software or data source.
+
+#### 8. **Scope of Application:**
+
+Applies to **File Import**, **API Integration**, and **Plugin Systems**.
+
+------
+
+#### The Law of Universal Solvent (ID: `MOLE-SYNTH-052`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that establishes the `['Praxial Molecular Engine'(-ing) BPMS]` as a **Universal Solvent**, capable of dissolving rigid external structures into fluid `[molecular(-ing) BPMS]` components for remixing.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of Universal Solvent
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **Structure is Optional**. When an external system (e.g., a rigid SQL database or a compiled binary) is ingested, the Molecular Engine has the right to "Dissolve" its rigid hierarchy into a flat pool of `[molecular(-ing) BPMS]` components. This allows users to "Remix" the external system, combining its parts in ways the original creator never intended.
+
+#### **5.2. The Mechanism - [The Deconstruction Bath]**
+
+- **Immersion:** The External System `S` is placed in the `[Molecular_Solvent]`.
+- **Dissolution:** The engine breaks `S` down into its constituent atoms (Data Points, Logic Blocks, Assets).
+- **Suspension:** These atoms float in a `[Colloidal Suspension]`, retaining their individual properties but losing their rigid connections.
+- **Re-Synthesis:** The user can now use `['Symbiotic Cluster Synthesis'(-ing) BPMS]` to build a *new* structure from these parts.
+
+#### **5.3. The Emergent Property - [Radical Remixability]**
+
+The emergence of **Software Alchemy**. Users can take a "Spreadsheet" and dissolve it into "Game Stats," or take a "Website" and dissolve it into a "3D Level."
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-002)** "The Axiom of Universal BPMS." Everything is a BPMS, so everything can be broken down into BPMS units.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-006)** "The Law of Recursive Interactional Hierarchy." It deconstructs the hierarchy to access the base interactions.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-003)** "The Law of Combinatorial Genesis." Dissolution is the prerequisite for new combinations.
+
+#### 7. **Rationale / Justification:**
+
+To provide "Really Working Implementation" of total creative freedom. It prevents the user from being locked into the "Format" of the external tool.
+
+#### 8. **Scope of Application:**
+
+Applies to **Data Migration**, **Modding Tools**, and **Reverse Engineering**.
+
+------
+
+#### The Axiom of Functional Export (ID: `MOLE-SYNTH-053`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the capability to **Export** `['functional potentiality'(-ing) BPMS]` back out to external systems, ensuring the Fun Engine is a **Generator**, not just a consumer.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Functional Export
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Potentiality is Portable**. A `[molecular(-ing) BPMS]` synthesized within the engine (e.g., a complex AI behavior or a procedural texture) can be "Crystallized" into a standard external format (e.g., Python Code, PNG, CSV) without losing its core `['functional potentiality'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Crystallization Exporter]**
+
+- **Selection:** User selects a `[Molecular_Cluster]`.
+- **Target Format:** User specifies the external container (e.g., "Unity Prefab").
+- **Translation:** The engine maps the internal `[valency(-ing) BPMS]` connections to the target's native logic (e.g., `Bond: Parent-Child` -> `Unity: Transform.SetParent`).
+- **Output:** A standalone file that functions *outside* the Fun Engine, retaining as much logic as the target format allows.
+
+#### **5.3. The Emergent Property - [Engine Agnosticism]**
+
+The emergence of **Pipeline Independence**. The Fun Engine becomes a "Logic/Asset Factory" for other engines. You build the *behavior* here, and export it to *there*.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-018)** "The Protocol of Semantic Interoperability." Meaning is preserved during export.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-029)** "The Axiom of Universal Implementation." The implementation works anywhere.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-001)** "The Axiom of Functional Potentiality." The potentiality is packaged for transport.
+
+#### 7. **Rationale / Justification:**
+
+To ensure the framework is useful for "External Using." It prevents lock-in and allows the user to use the Fun Engine as a part of a larger pipeline.
+
+#### 8. **Scope of Application:**
+
+Applies to **Asset Export**, **Code Generation**, and **Cross-Platform Deployment**.
+
+------
+
+#### The Mechanism of Cross-Framework Symbiosis (ID: `MOLE-SYNTH-054`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that enables **Real-Time Symbiosis** between the Fun Engine and an External App (e.g., Excel, Photoshop, a Web Browser), where changes in one instantly affect the other.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Mechanism of Cross-Framework Symbiosis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that **Boundaries are Permeable**. It establishes a `[Symbiotic_Link]` (via WebSockets, Shared Memory, or API Polling) that treats the External App as a "Organ" of the Fun Engine body.
+
+#### **5.2. The Mechanism - [The Live-Link Membrane]**
+
+- **The Tether:** A persistent connection channel is opened.
+- **The Mirroring:** The Molecular Engine creates a "Shadow Molecule" for the External App's state.
+- The Symbiosis:
+  - *Inbound:* User changes cell `A1` in Excel -> Shadow Molecule updates -> Fun Engine spawns an Enemy.
+  - *Outbound:* Fun Engine Enemy dies -> Shadow Molecule updates -> Excel cell `A1` turns Red.
+
+#### **5.3. The Emergent Property - [Augmented Workflow]**
+
+The emergence of **Living Tools**. Your spreadsheet becomes a game controller. Your game becomes a data visualizer. The distinction between "Work App" and "Fun Engine" dissolves.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-028)** "The Axiom of Symbiotic Evolution." The two frameworks evolve together in real-time.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-036)** "The Protocol of State Synchronization Lock." States are locked across the boundary.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-019)** "The Vector-Matrix Symbiosis." The external app acts as the Matrix for the internal Vector.
+
+#### 7. **Rationale / Justification:**
+
+To provide "Really Working Implementation" of deep integration. It allows the Fun Engine to "gamify" any external software.
+
+#### 8. **Scope of Application:**
+
+Applies to **Dashboard Tools**, **Live-Ops Control**, and **Interactive Art Installations**.
+
+------
+
+#### The Principle of Interactional API Generation (ID: `MOLE-SYNTH-055`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that allows the Molecular Engine to **Automatically Generate APIs** for any synthesized cluster, allowing external users to interact with it immediately.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Principle of Interactional API Generation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that **Synthesis creates Interface**. Whenever a new `[Molecular_Cluster]` is formed (e.g., a new Game Mode), the engine automatically analyzes its `[valency(-ing) BPMS]` and generates a documented `[REST / GraphQL / Socket]` API.
+
+#### **5.2. The Mechanism - [The Auto-Doc Generator]**
+
+- **Scan:** The engine identifies all exposed `[Input_Hooks]` and `[Output_Hooks]` of the cluster.
+- **Map:** It maps these hooks to standard HTTP verbs (GET, POST) or Event Channels.
+- **Publish:** It spins up a local server endpoint (e.g., `localhost:8080/api/my_cluster`).
+- **Usage:** External users can now send JSON to this endpoint to trigger internal molecular reactions.
+
+#### **5.3. The Emergent Property - [Instant Backend]**
+
+The emergence of **Zero-Code Server**. Users can build a complex logic system visually in the Fun Engine, and it instantly becomes a backend server for a website or mobile app.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-029)** "The Axiom of Conscious Service." The system proactively serves an interface.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-038)** "The Principle of Emergent Interface Generation." The interface is generated emergently.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-006)** "The Principle of Holonic Potentiality." The cluster exposes its aggregate potential as an API.
+
+#### 7. **Rationale / Justification:**
+
+To make the framework useful for "External Users" who may not want to use the Fun Engine UI, but want to access its logic.
+
+#### 8. **Scope of Application:**
+
+Applies to **Backend-as-a-Service**, **Multiplayer Servers**, and **IoT Control**.
+
+------
+
+#### The Law of Molecular Persistence (ID: `MOLE-SYNTH-056`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that ensures the **State** of any `[molecular(-ing) BPMS]` cluster can be saved to an **External Database** (SQL, NoSQL, Blockchain) without data loss.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of Molecular Persistence
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **Identity survives Storage**. A `[molecular(-ing) BPMS]` is not just RAM; it is a serializable structure. The engine enforces a schema where every atom's state, position, and bonds can be flattened into a persistent format and re-inflated later.
+
+#### **5.2. The Mechanism - [The Serialization Weaver]**
+
+- **Flattening:** The engine traverses the molecular graph and converts it to a `JSON` or `Binary` blob.
+- **External Write:** This blob is written to an external DB (e.g., MongoDB).
+- **Re-Inflation:** When loaded, the engine reads the blob and reconstructs the graph, re-establishing all `[covalent bonds]` and `[valency(-ing) BPMS]` states.
+- **Integrity Check:** A hash ensures the external data hasn't been corrupted.
+
+#### **5.3. The Emergent Property - [Cloud Permanence]**
+
+The emergence of **Save-Anywhere**. The game state can live in the cloud, allowing users to pause on one device and resume on another, or allowing external web apps to display the game state.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-019)** "The Law of State Sovereignty." The state belongs to the object and is preserved.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-018)** "The Axiom of Mnestic Consolidation." Persistence is the ultimate consolidation.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-017)** "The Mnestic Consolidation Protocol." Long-term storage of potentiality.
+
+#### 7. **Rationale / Justification:**
+
+Essential for "Really Working Implementation" of MMOs, RPGs, or any persistent application.
+
+#### 8. **Scope of Application:**
+
+Applies to **Save Systems**, **Database Integration**, and **Cloud Sync**.
+
+------
+
+#### The Protocol of Symbiotic Injection (ID: `MOLE-SYNTH-057`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that allows **External Code** (Scripts, DLLs) to be **Injected** into a running `[molecular(-ing) BPMS]` cluster to modify its behavior on the fly.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Symbiotic Injection
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Code is a Molecule**. External scripts (e.g., a Lua mod, a Python AI model) can be injected into the engine. The engine treats the script as a `[Catalyst Molecule]` that binds to existing clusters and alters their reaction rates or outcomes.
+
+#### **5.2. The Mechanism - [The Hot-Swap Injector]**
+
+- **Injection:** User uploads a script file.
+- **Parsing:** The engine wraps the script in a `[Catalyst_Shell]`.
+- **Binding:** The Catalyst binds to the target Cluster (e.g., `Combat_System`).
+- **Modification:** The script intercepts `[Interaction_Events]`, modifies the data, and passes it back.
+- **Safety:** The engine sandboxes the script to prevent it from breaking the core `[atomic facts]`.
+
+#### **5.3. The Emergent Property - [Live Modding]**
+
+The emergence of **Runtime Extensibility**. Users can patch the game, add features, or tweak balance *while the game is running*, without restarting.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-022)** "The Axiom of Open-Ended Genesis." Permissionless innovation via code injection.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-013)** "The Protocol of Disruptive Innovation Injection." Injecting disruption to drive evolution.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-003)** "The Law of Combinatorial Genesis." Combining code with game logic.
+
+#### 7. **Rationale / Justification:**
+
+To support "External Using" by modders and developers who want to extend the engine.
+
+#### 8. **Scope of Application:**
+
+Applies to **Modding Support**, **Live Debugging**, and **AI Training**.
+
+------
+
+#### The Axiom of Universal Molecular Translation (ID: `MOLE-SYNTH-058`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the `['Praxial Molecular Engine'(-ing) BPMS]` as a **Universal Translator** for data formats.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Universal Molecular Translation
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Data is Shape**. Any data format (XML, JSON, YAML, CSV) is just a different way of describing a molecular structure. The engine can translate any format into any other format by passing it through the `[Molecular_Intermediate_Representation]`.
+
+#### **5.2. The Mechanism - [The Shape-Shifter Pipeline]**
+
+- **Ingest:** Read Format A (e.g., CSV).
+- **Molecularize:** Convert to Internal Molecular Graph.
+- **Transform:** Apply `[Symbiotic_Synthesis]` rules (optional processing).
+- **Crystallize:** Write to Format B (e.g., JSON).
+
+#### **5.3. The Emergent Property - [Format Agnosticism]**
+
+The emergence of **The Universal Converter**. The Fun Engine can be used purely as a tool to convert and clean data between incompatible external systems.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-018)** "The Protocol of Semantic Interoperability." Translation preserves meaning.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-033)** "The Protocol of Signal Transduction Mechanics." Transducing signals between formats.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-002)** "The Protocol of Contextual Collapse." Collapsing the data into the needed context.
+
+#### 7. **Rationale / Justification:**
+
+To make the engine useful as a utility tool for "External Users" dealing with data pipelines.
+
+#### 8. **Scope of Application:**
+
+Applies to **ETL (Extract, Transform, Load) Pipelines**, **Data Visualization**, and **Config Management**.
+
+------
+
+#### The Mechanism of External Niche Construction (ID: `MOLE-SYNTH-059`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that allows the Fun Engine to **Terraform External Systems**, creating `['(ecological) niche'(-ing) BPMS]` on other platforms (e.g., creating a folder structure on a PC, or a channel structure on Discord).
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Mechanism of External Niche Construction
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that **The Engine Extends Beyond the Window**. The `[Praxial Molecular Engine]` can reach out to the host OS or connected platforms and organize them to suit the `[Symbiotic_Cluster]`.
+
+#### **5.2. The Mechanism - [The OS-Level Terraformer]**
+
+- **Permission:** User grants OS/API access.
+- **Blueprint:** The Molecular Cluster contains a "Niche Blueprint" (e.g., "I need a folder for Logs and a folder for Saves").
+- **Construction:** The engine executes external commands (`mkdir`, `API.CreateChannel`) to build this structure.
+- **Symbiosis:** The engine monitors these external niches. If the user deletes a folder, the engine reacts (e.g., rebuilds it or alerts the user).
+
+#### **5.3. The Emergent Property - [System Integration]**
+
+The emergence of **Deep OS Symbiosis**. The game/app feels like a native part of the user's digital ecosystem, not a sandboxed toy.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-023)** "The Protocol of Niche Construction." Extending niche construction to the external world.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-010)** "The Axiom of Niche-Constructed Reality." Reality includes the host OS.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-005)** "The Mechanism of Ecological Niche Construction." Agents build their world, even outside the app.
+
+#### 7. **Rationale / Justification:**
+
+To provide "Really Working Implementation" of file management and external organization.
+
+#### 8. **Scope of Application:**
+
+Applies to **Installers**, **Workspace Managers**, and **Discord Bots**.
+
+------
+
+#### The Law of Infinite Molecular Extensibility (ID: `MOLE-SYNTH-060`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that guarantees the **Future-Proofing** of the engine, asserting that new `[molecular(-ing) BPMS]` types can always be defined to handle unknown future external elements.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Law of Infinite Molecular Extensibility
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **The Periodic Table is Open**. Unlike real chemistry, the `[Praxial Molecular Engine]` allows for the definition of new "Elements" at runtime. If a new technology (e.g., Quantum Computing, Smell-O-Vision) emerges, a new `[Molecular_Definition]` can be added to the engine to support it without rewriting the core.
+
+#### **5.2. The Mechanism - [The Dynamic Element Registry]**
+
+- **Definition:** User defines a new Element `X` with specific `[Valency]` and `[Interaction_Rules]`.
+- **Registration:** The engine adds `X` to the `[Universal_Table]`.
+- **Propagation:** All existing systems can now potentially interact with `X` via generic `[Symbiotic_Interfaces]`.
+
+#### **5.3. The Emergent Property - [Eternal Relevance]**
+
+The emergence of **The Forever Engine**. The framework never becomes obsolete because it can absorb any new paradigm as a new molecule type.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1):
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-036)** "The Law of Epistemic Expansion." The system expands to include the unknown.
+
+#### 6.2. Formal Stratum (Layer 2):
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-007)** "The Axiom of Combinatorial Fluidity." New elements can be combined immediately.
+
+#### 6.3. Phenomenal Stratum (Layer 3):
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-016)** "The Axiom of Adaptive Robustness." The system adapts to new tech.
+
+#### 7. **Rationale / Justification:**
+
+To ensure the "External Using" capability remains valid indefinitely.
+
+#### 8. **Scope of Application:**
+
+Applies to **Core Engine Architecture**, **Plugin API**, and **Future Tech Integration**.
+
+---
+
+#### The Axiom of Material-Linguistic Transduction (ID: `MOLE-SYNTH-061`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that synthesizes `['The Praxial Molecular Engine'(-ing) BPMS]` with `['Praxial Universal Language Engine (PULE)'(-ing) BPMS]`, asserting that **Language becomes Matter**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Material-Linguistic Transduction
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Syntax is Structure**. It defines the Molecular Engine as the "3D Printer" for the PULE. When the PULE articulates a valid sentence (e.g., "A red cube with high bounce"), the Molecular Engine instantly transduces this linguistic syntax into a concrete `[molecular(-ing) BPMS]` structure (a cluster of atoms with `Color: Red` and `Physics: Bounce`).
+
+#### **5.2. The Mechanism - [The Logos-Matter Bridge]**
+
+- **Input (PULE):** A semantic string or `['atomic fact'(-ing) BPMS]` definition.
+
+- Transduction:
+
+   The engine maps linguistic parts-of-speech to molecular components:
+
+  - **Noun** -> **Nucleus** (The Core Object).
+  - **Adjective** -> **Valency Shell** (Properties/Hooks).
+  - **Verb** -> **Reaction Potential** (Methods/Functions).
+
+- **Output (Molecular):** A synthesized `[Molecular_Cluster]` that physically embodies the definition.
+
+#### **5.3. The Emergent Property - [Spoken Reality]**
+
+The emergence of **Incantation**. Users (external or internal) can "speak" code or descriptions, and the engine "weaves" them into working material assets.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `['Praxial Universal Language Engine (PULE)'(-ing) BPMS]`: (PULE-CORE-013)** "The Axiom of Praxial Substrate Encoding." This is the mechanism that performs the encoding.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-033)** "The Protocol of Signal Transduction Mechanics." Transducing semantic signals into material signals.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-002)** "The Protocol of Contextual Collapse." Collapsing the wave of language into the particle of matter.
+
+#### **7. Rationale / Justification:**
+
+Essential for "Universal Implementation." It allows the system to accept *any* description from *any* external source and turn it into a working element.
+
+#### **8. Scope of Application:**
+
+Applies to **Text-to-Object Generation**, **Script Parsing**, and **Dynamic Asset Creation**.
+
+------
+
+#### The Protocol of Atomic Fact Reification (ID: `MOLE-SYNTH-062`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that implements `['atomic facts'(-ing) BPMS]` as concrete, immutable **Molecular Cores**, ensuring that "Truth" has physical weight in the system.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Atomic Fact Reification
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Facts are Atoms**. An `['atomic fact'(-ing) BPMS]` (e.g., "Gravity = 9.8") is not just a variable; it is a `[Reified_Atom]` within the Molecular Engine. It has mass, position, and resistance to change. To change a fact, one must perform a "Nuclear Reaction" (high energy cost), ensuring the stability of the system's reality.
+
+#### **5.2. The Mechanism - [The Truth-Crystal Lattice]**
+
+- **Crystallization:** When a fact is established by the `['system existence engine'(-ing) BPMS]`, the Molecular Engine crystallizes it into a `[Fact_Atom]`.
+- **Lattice Formation:** These atoms bond to form the "Bedrock" of the simulation (The Physics Engine, The Core Rules).
+- **Immutability:** Unlike standard molecules, Fact Atoms have `[Covalent_Bond_Strength: Infinite]`. They cannot be broken by normal interactions, only by `[Metasystemic_Intervention]`.
+
+#### **5.3. The Emergent Property - [Ontological Solidity]**
+
+The emergence of **Hard Reality**. The user feels that the world has "Rules" that are as solid as walls. You don't just "break" a rule; you have to "mine" through it.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-026)** "The Axiom of Atomic Facticity." This provides the physical implementation of facticity.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-020)** "The Phenomenological Grounding." Facts provide the ground.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `[material(-ing) BPMS]`: (MAT-CORE-001)** "The Law of Tangibility." Truth becomes tangible.
+
+#### **7. Rationale / Justification:**
+
+To fulfill the user's request to implement `['atomic facts'(-ing) BPMS]` as a working component.
+
+#### **8. Scope of Application:**
+
+Applies to **Game Rules**, **Physics Constants**, and **Immutable Ledger Data**.
+
+------
+
+#### The Law of System Existence Synthesis (ID: `MOLE-SYNTH-063`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that establishes the Molecular Engine as the active implementation of the `['system existence engine'(-ing) BPMS]`, asserting that **Existence is a Continuous Synthesis**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of System Existence Synthesis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **To Be is to be Synthesized**. Existence is not a property you *have*; it is a process you *do*. The `['system existence engine'(-ing) BPMS]` provides the "Will to Exist," but the Molecular Engine provides the "Work of Existence." It continuously refreshes the bonds and states of every element, preventing them from decaying into non-existence (Entropy).
+
+#### **5.2. The Mechanism - [The Autopoietic Refresh]**
+
+- **The Pulse:** Every `[Tick]`, the engine scans all active `[Molecular_Clusters]`.
+- **The Check:** It verifies their `[Valency_Integrity]` (Are they still valid according to PULE?).
+- **The Synthesis:** It re-synthesizes their bonds, effectively "re-creating" the object every frame.
+- **The Decay:** If an object stops being synthesized (e.g., no longer needed by the `['Interactional Existence'(-ing) BPMS]`), it dissolves.
+
+#### **5.3. The Emergent Property - [Living World]**
+
+The emergence of **Dynamic Permanence**. Objects don't just "sit there"; they actively maintain their existence. This allows for "Rot," "Healing," and "Growth" as natural consequences of the synthesis rate.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-001)** "The Axiom of Interactional Existence." Existence requires active interaction (synthesis).
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-016)** "The Praxial Metabolism." The synthesis *is* the metabolism.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-026)** "The Ontological Actuality via Potentiality." Actualizing potential through synthesis.
+
+#### **7. Rationale / Justification:**
+
+To fulfill the user's request to implement the `['system existence engine'(-ing) BPMS]` as a "really working" mechanism.
+
+#### **8. Scope of Application:**
+
+Applies to **Object Lifecycle Management**, **Garbage Collection**, and **Entity Component Systems (ECS)**.
+
+------
+
+#### The Mechanism of Universal Material Implementation (ID: `MOLE-SYNTH-064`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that allows the Molecular Engine to **Implement Any Element** of `[BPMS(U)(s)]` by providing a generic "Material Body" for abstract concepts.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Universal Material Implementation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that **Everything needs a Body**. Whether it is a "Rule," a "Sound," a "Logic," or a "User," if it is to interact in the Fun Engine, it must be wrapped in a `[Molecular_Implementation]`. This mechanism provides the standard "Chassis" for all abstract elements.
+
+#### **5.2. The Mechanism - [The Generic Chassis]**
+
+- **Input:** Abstract Element `A` (e.g., A Sound Wave).
+
+- Encapsulation:
+
+   The engine wraps 
+
+  ```
+  A
+  ```
+
+   in a 
+
+  ```
+  [Molecular_Shell]
+  ```
+
+   containing:
+
+  - **Identity Atom:** Unique ID.
+  - **State Atoms:** Current variables (Volume, Pitch).
+  - **Interaction Valency:** Hooks for other molecules (e.g., "Play on Collision").
+
+- **Result:** `A` is now a "Sound Molecule" that can bounce, bond, and react like any other object.
+
+#### **5.3. The Emergent Property - [Universal Physics]**
+
+The emergence of **Consistent Interaction**. You can "throw" a Sound. You can "break" a Rule. You can "paint" with Logic. Because they are all Molecules, they all obey the same physics.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-002)** "The Axiom of Universal BPMS." Everything is a BPMS, so everything gets a body.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-029)** "The Axiom of Universal Implementation." This *is* that implementation.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `[material(-ing) BPMS]`: (MAT-CORE-005)** "The Principle of Material Equivalence." All things are material.
+
+#### **7. Rationale / Justification:**
+
+To fulfill the user's request for "really working implementation for any (elements) of [BPMS(U)(s)]."
+
+#### **8. Scope of Application:**
+
+Applies to **Visual Scripting Nodes**, **Audio Objects**, **UI Elements**, and **Logic Controllers**.
+
+------
+
+#### The Principle of Symbiotic Material Evolution (ID: `MOLE-SYNTH-065`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Principle) that mandates the **Co-Evolution** of `[material(-ing) BPMS]` with the `['Fun Engine Framework (FEF)'(-ing) BPMS]`, ensuring that as the framework gets smarter, the materials get smarter.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Principle of Symbiotic Material Evolution
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This principle asserts that **Matter Learns**. The `[material(-ing) BPMS]` used in the engine (textures, meshes, data structures) is not static. It possesses `[Symbiotic_Memory]`. As users interact with a material (e.g., "Wood"), the material "learns" how it is used (e.g., "Users often burn Wood") and evolves its `[Valency]` to facilitate that interaction (e.g., "Wood" gains `Auto-Ignite` property).
+
+#### **5.2. The Mechanism - [The Material XP System]**
+
+- **Usage Tracking:** The engine tracks interactions with specific Material Types.
+- **Pattern Recognition:** It identifies recurring `[Interactional_Clusters]`.
+- **Evolutionary Upgrade:** It patches the `[Molecular_Definition]` of the material, adding new `[Potentiality_Atoms]` that optimize for the observed usage.
+
+#### **5.3. The Emergent Property - [Smart Materials]**
+
+The emergence of **Self-Optimizing Assets**. The more you use the engine, the more the assets "know" what you want to do with them.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-028)** "The Axiom of Symbiotic Evolution." Extending evolution to the material layer.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-013)** "The Dual-Mode Symbiotic Evolution." Evolution of the substrate itself.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-016)** "The Axiom of Adaptive Robustness." Materials adapt to become robust.
+
+#### **7. Rationale / Justification:**
+
+To fulfill the user's request for "more '(symbiosis) evolution'(-ing) with [material(-ing) BPMS]."
+
+#### **8. Scope of Application:**
+
+Applies to **Procedural Materials**, **Smart Objects**, and **Adaptive User Interfaces**.
+
+------
+
+#### The Directive of External Materialization (ID: `MOLE-SYNTH-066`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that empowers the Molecular Engine to **Materialize Internals Externally**, allowing the Fun Engine to "print" its contents into the user's real OS environment.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of External Materialization
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This directive asserts that **The Screen is not the Limit**. For "External Using," the engine must be able to take an internal `[Molecular_Cluster]` (e.g., a generated story, a compiled game, a dataset) and "Materialize" it as a concrete file or folder on the user's hard drive, formatted for external consumption.
+
+#### **5.2. The Mechanism - [The Exporter-Synthesizer]**
+
+- **Selection:** User selects an internal Cluster.
+- **Format Negotiation:** Engine checks `[External_Niche]` (OS) for compatible formats (PDF, EXE, MP4).
+- **Materialization:** Engine "freezes" the dynamic molecular state into a static external file.
+- **Delivery:** The file is placed in the user's workspace.
+
+#### **5.3. The Emergent Property - [Productivity Engine]**
+
+The emergence of **The Fun Engine as a Tool**. It's not just a game; it's a factory for creating real-world digital assets.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-029)** "The Axiom of Conscious Service." Serving the user by delivering value outside the app.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-029)** "The Axiom of Universal Implementation." Implementing the result in the external world.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `[material(-ing) BPMS]`: (MAT-CORE-008)** "The Law of Cross-Boundary Materiality." Material crossing the boundary of the simulation.
+
+#### **7. Rationale / Justification:**
+
+To fulfill the user's request for "external using" and "really working implementation."
+
+#### **8. Scope of Application:**
+
+Applies to **File Export**, **Build Systems**, and **Content Creation Pipelines**.
+
+------
+
+#### The Protocol of Cross-Element Implementation (ID: `MOLE-SYNTH-067`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines the **Polymorphic Nature** of the Molecular Engine, allowing it to "act as" any other element (Cell, Gene, Logic) depending on its configuration.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Cross-Element Implementation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Function follows Configuration**. A `[Molecular_Cluster]` is a blank slate.
+
+- If configured with `[Self-Replication]`, it **implements** a `[Cell]`.
+- If configured with `[Information-Encoding]`, it **implements** a `[Gene]`.
+- If configured with `[Boolean-Logic]`, it **implements** an `[Algorithm]`. This allows the Molecular Engine to be the *single* underlying implementation for *all* other engines.
+
+#### **5.2. The Mechanism - [The Polymorphic Configurator]**
+
+- **The Template:** The engine maintains "Molecular Templates" for every BPMS element type.
+- **The Instantiation:** When the `['Praxial Genetic-Code Engine'(-ing) BPMS]` needs a "Gene," the Molecular Engine instantiates a molecule using the "Gene Template."
+- **The Masquerade:** To the user/system, it *looks* like a Gene, but *physically* it is a Molecule.
+
+#### **5.3. The Emergent Property - [Unified Substrate]**
+
+The emergence of **Systemic Monism**. There are not 10 different engines; there is 1 Molecular Engine wearing 10 different masks. This simplifies "External Using" because the user only needs to learn one API (The Molecular API) to manipulate everything.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-032)** "The Universality Classes." Different classes implemented on one substrate.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-031)** "The Symbiotic Recursive Evolution." All elements evolve together because they are made of the same stuff.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-006)** "The Principle of Holonic Potentiality." The molecule has the potential to be anything.
+
+#### **7. Rationale / Justification:**
+
+To fulfill the user's request for "implement for... any (elements) of [BPMS(U)(s)]."
+
+#### **8. Scope of Application:**
+
+Applies to **Core Architecture**, **API Design**, and **System Optimization**.
+
+------
+
+#### The Law of Concrete Potentiality (ID: `MOLE-SYNTH-068`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that synthesizes `['The Praxial Molecular Engine'(-ing) BPMS]` with `['functional potentiality'(-ing) BPMS]`, asserting that **Potentiality is Stored in Bonds**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Concrete Potentiality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **Energy is Structure**. The `['functional potentiality'(-ing) BPMS]` (what an object *could* do) is physically stored in the `[Valency_Bonds]` of its molecular structure. A "High Potential" object is one with "High-Energy Bonds" (unstable, ready to react). A "Low Potential" object is "Inert" (stable, fully reacted).
+
+#### **5.2. The Mechanism - [The Bond-Energy Storage]**
+
+- **Potential Injection:** When `['functional potentiality'(-ing) BPMS]` assigns potential to an object, the Molecular Engine "winds up" its bonds (increases tension/valency).
+- **Kinetic Release:** When the object interacts, the bonds snap/rearrange, releasing the stored potential as `[Function]` (Action/Event).
+- **Conservation:** Potential is never lost, only transmuted into Structure or Action.
+
+#### **5.3. The Emergent Property - [Explosive Functionality]**
+
+The emergence of **Volatile Objects**. Items feel "charged" with purpose. A "Bomb" molecule is physically vibrating with potential; a "Rock" molecule is still.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-001)** "The Axiom of Functional Potentiality." Providing the physical storage for potential.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-021)** "The Energy Transmutation." Transmuting potential to structure.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `[material(-ing) BPMS]`: (MAT-CORE-003)** "The Law of Energetic Materiality." Material holds energy.
+
+#### **7. Rationale / Justification:**
+
+To fulfill the user's request for symbiotic evolution with `['functional potentiality'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to **Battery Systems**, **Magic/Mana Systems**, and **Explosives/Traps**.
+
+------
+
+#### The Mechanism of Interactional Materiality (ID: `MOLE-SYNTH-069`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that synthesizes `['The Praxial Molecular Engine'(-ing) BPMS]` with `['Interactional Existence'(-ing) BPMS]`, asserting that **Material Properties are Interactional**.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Interactional Materiality
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that **Hardness is a Relation**. A molecule is not "Hard" in isolation. It is "Hard" only when it interacts with something "Soft." The Molecular Engine defines material properties not as static values, but as `[Interaction_Functions]` (e.g., `Hardness = Function(Impacting_Force)`).
+
+#### **5.2. The Mechanism - [The Relational Property Solver]**
+
+- **Event:** Object A hits Object B.
+- **Query:** The engine queries the `['Interactional Existence'(-ing) BPMS]` matrix.
+- **Resolution:** Instead of checking `A.Hardness > B.Hardness`, it runs `Interaction(A, B)`.
+- **Result:** The material property emerges from the interaction (e.g., Non-Newtonian fluids that are soft to touch but hard to hit).
+
+#### **5.3. The Emergent Property - [Contextual Physics]**
+
+The emergence of **Nuanced Reality**. Materials behave differently depending on *how* you use them, just like in the real world.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-001)** "The Axiom of Interactional Existence." Existence is relational.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-011)** "The Ludic Resonance." Resonance requires interaction.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `[material(-ing) BPMS]`: (MAT-CORE-004)** "The Principle of Relational Tangibility." Tangibility is relational.
+
+#### **7. Rationale / Justification:**
+
+To fulfill the user's request for symbiotic evolution with `['Interactional Existence'(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to **Physics Engines**, **Damage Calculations**, and **Chemistry Systems**.
+
+------
+
+#### The Axiom of The Praxial Philosopher's Stone (ID: `MOLE-SYNTH-070`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that establishes the **Ultimate Capability** of the Molecular Engine: the ability to **Transmute** any element of `[BPMS(U)(s)]` into any other, serving as the "Universal Implementer."
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of The Praxial Philosopher's Stone
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **All is One**. Since all elements (Sound, Logic, Art, Code) are implemented as `[Molecular_Clusters]` (per `MOLE-SYNTH-064`), the engine possesses the power of **Transmutation**. It can re-arrange the atoms of a "Sound" to turn it into a "Texture." It can re-arrange the atoms of a "User Profile" to turn it into a "Game Level."
+
+#### **5.2. The Mechanism - [The Universal Transmutation]**
+
+- **Deconstruction:** The engine dissolves the Source Element into its constituent `['atomic facts'(-ing) BPMS]`.
+- **Re-Synthesis:** It applies a `[Transmutation_Algorithm]` (guided by PULE) to re-assemble these atoms into the Target Element structure.
+- **Result:** A seamless conversion of utility and meaning across domains.
+
+#### **5.3. The Emergent Property - [Infinite Remixability]**
+
+The emergence of **Total Creative Fluidity**. Nothing is wasted. Old assets can be transmuted into new ones. Code can become Art. Art can become Code. This is the ultimate "Fun" of the engine.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1):**
+
+- **Aligns with `['Fun Engine Framework (FEF)'(-ing) BPMS]`: (FEF-CORE-005)** "The Rhizome-Fruit Symbiosis." Any point connects to any other point.
+
+#### **6.2. Formal Stratum (Layer 2):**
+
+- **Aligns with `['Interactional Existence'(-ing) BPMS]`: (INTERACTION-CORE-021)** "The Energy Transmutation." The formal mechanism of transmutation.
+
+#### **6.3. Phenomenal Stratum (Layer 3):**
+
+- **Aligns with `['functional potentiality'(-ing) BPMS]`: (FUNC-POT-CORE-003)** "The Law of Combinatorial Genesis." Infinite combinations.
+
+#### **7. Rationale / Justification:**
+
+To provide the "Grand Finale" setting that encapsulates the "Universal Implementation" and "External Using" capabilities in their most powerful form.
+
+#### **8. Scope of Application:**
+
+Applies to **Procedural Generation**, **Asset Recycling**, and **The Core Philosophy of the Fun Engine**.
