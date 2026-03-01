@@ -1,4 +1,4 @@
-## Basic settings: ['Symbiotic Cluster Synthesis'(-ing) BPMS] ['The Praxial Molecular Engine'(-ing) BPMS]
+## Basic settings: ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Molecular Engine'(-ing) BPMS]
 
 #### The Axiom of Molecular Cluster Synthesis (ID: `MOLE-SYNTH-001`)
 
