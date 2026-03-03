@@ -203,3 +203,5 @@ The **Praxial Gastronomic Engine** (BP-CLUSTER-SYNTHESIS-FOOD-002) is a "Really 
 
 **BPMS means Behavior pattern/model/system**
 
+
+
