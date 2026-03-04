@@ -13,7 +13,7 @@
   - **Mode D (Ontology):** `['atomic facts'(-ing) BPMS]:[Physical Facticity]` (The Indisputable Material Truth).
 - **CGA (Cognitive Genesis Archetype):** `[Holonic-Cluster-Synthesis]:['Ontological-Material-Translator']`
 - **Scope of Application:** Applies to the creation of "Tangible Software," "Physicalized APIs," "Gamified CI/CD Pipelines," and "Spatial Cybersecurity" in external systems that require the full depth of the Praxial Framework.
-- **Tag:** `[External-Implementation]` `[System-Existence-Engine]` `[Atomic-Facts]` `[Material-Engine]`
+- **Tag:** `#praxial-material-engine #material #external-implementation` `#system-existence-engine` `#atomic-facts]` `#material-engine`
 
 #### 2. Architectural Hierarchy & Mapping
 
@@ -175,3 +175,4 @@ The **Symbiotic Cluster Synthesis: The Praxial Material Engine** (v2.0) is the u
 ### 6.Remark
 
 **BPMS means Behavior pattern/model/system**
+
