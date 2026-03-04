@@ -175,3 +175,8 @@ The **Symbiotic Cluster Synthesis: The Praxial Latency Gateway (v2.0)** is a rev
 ### 6.Remark
 
 **BPMS means Behavior pattern/model/system**
+
+
+
+
+
