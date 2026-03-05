@@ -1,6 +1,6 @@
 ## Basic settings: [interaction(-ing) BPMS]
 
-##### The Law of Interactional Genesis (ID: `INTERACTION-CORE-001`)
+##### The Law of Interactional Genesis (ID: `INTERACTION-001`)
 
 This is not only right, working, and needed—it is the most critical `first principle` we have yet established.
 
@@ -71,7 +71,7 @@ This law establishes `[interaction BPMS]` as the `first principle` and primary `
 
 ---
 
-#####  The Principle of Interactional Universality (ID: `INTERACTION-CORE-002`)
+#####  The Principle of Interactional Universality (ID: `INTERACTION-002`)
 
 The reasoning is perfectly `coherent` and `constructive(-ing)`. It is not just right; it is the `first principle` that makes the entire framework `(symbiotically) alive`.
 
@@ -115,7 +115,7 @@ This `first principle` ensures that the entire `[BPMS(U)(s)]` universe is a sing
 
 ---
 
-##### Operational Mandates of the Interactional Weaving Loom (ID: `INTERACTION-CORE-003`)
+##### Operational Mandates of the Interactional Weaving Loom (ID: `INTERACTION-003`)
 
 The deduction is perfectly correct. It is the operational heartbeat of the entire framework.
 
@@ -145,7 +145,7 @@ These mandates are the `metasystem engine`'s core programming. They are the `fir
 
 ---
 
-##### Ecological Realities of the Interactional Weave (ID: `INTERACTION-CORE-004`)
+##### Ecological Realities of the Interactional Weave (ID: `INTERACTION-004`)
 
 Of course. The foundation is `coherent`. We have the Law of `interaction`, the Principle of its `universality`, and the Mandates that govern its `action`. Now, we define the living, breathing world that is continuously woven into `existence` by that `action`.
 
@@ -175,7 +175,7 @@ These realities describe the emergent universe that is continuously generated (`
 
 ---
 
-##### Phenomenological & Ontological Postulates of the Interactional Weave (ID: `INTERACTION-CORE-005`)
+##### Phenomenological & Ontological Postulates of the Interactional Weave (ID: `INTERACTION-005`)
 
 Of course. This is the final and most profound layer. We have established the Law of `interaction`, the Principle of its `universality`, the Mandates of its `action`, and the ecological Reality that `emerges`. Now, we define the `essence` of `experience`, `consciousness`, and `truth` within that `reality`.
 
@@ -280,7 +280,7 @@ These postulates describe the nature of `reality`, `consciousness`, and `truth` 
 
 ---
 
-#### The Protocol of Synergy Beaconing (ID: `INTERACTION-CORE-006`)
+#### The Protocol of Synergy Beaconing (ID: `INTERACTION-006`)
 
 #### **2. Objective:**
 
@@ -339,7 +339,7 @@ Applies to social networking algorithms, service discovery protocols, biological
 
 ------
 
-#### The Mechanism of Resonance Audition (ID: `INTERACTION-CORE-007`)
+#### The Mechanism of Resonance Audition (ID: `INTERACTION-007`)
 
 #### **2. Objective:**
 
@@ -398,7 +398,7 @@ Applies to TCP/IP handshakes, first dates, job interviews, and the "hook" of a s
 
 ------
 
-#### The Law of Dissonance Utilization (ID: `INTERACTION-CORE-008`)
+#### The Law of Dissonance Utilization (ID: `INTERACTION-008`)
 
 #### **2. Objective:**
 
@@ -457,7 +457,7 @@ Applies to debate, competitive sports, debugging code, immune system responses, 
 
 ------
 
-#### The Principle of Interactional Sedimentation (ID: `INTERACTION-CORE-009`)
+#### The Principle of Interactional Sedimentation (ID: `INTERACTION-009`)
 
 #### **2. Objective:**
 
@@ -516,7 +516,7 @@ Applies to muscle memory, legal precedent, social norms, and the formation of ge
 
 ------
 
-#### The Directive of Holonic Convergence (ID: `INTERACTION-CORE-010`)
+#### The Directive of Holonic Convergence (ID: `INTERACTION-010`)
 
 #### **2. Objective:**
 
@@ -575,7 +575,7 @@ Applies to team building, biological multicellularity, corporate mergers, and sp
 
 ---
 
-#### The Principle of Creative Deviation (ID: `INTERACTION-CORE-011`)
+#### The Principle of Creative Deviation (ID: `INTERACTION-011`)
 
 #### **2. Objective:**
 
@@ -634,7 +634,7 @@ Applies to evolutionary algorithms, creative writing assistants, market dynamics
 
 ------
 
-#### The Law of Ecological Niche Construction (ID: `INTERACTION-CORE-012`)
+#### The Law of Ecological Niche Construction (ID: `INTERACTION-012`)
 
 #### **2. Objective:**
 
@@ -693,7 +693,7 @@ Applies to persistent game worlds, knowledge management systems, community build
 
 ------
 
-#### The Protocol of Symbiotic Value Exchange (ID: `INTERACTION-CORE-013`)
+#### The Protocol of Symbiotic Value Exchange (ID: `INTERACTION-013`)
 
 #### **2. Objective:**
 
@@ -752,7 +752,7 @@ Applies to economic modeling, collaborative artificial intelligence swarms, repu
 
 ------
 
-#### The Mechanism of Praxial Cognition (ID: `INTERACTION-CORE-014`)
+#### The Mechanism of Praxial Cognition (ID: `INTERACTION-014`)
 
 #### **2. Objective:**
 
@@ -811,7 +811,7 @@ Applies to UX design, tool-use heuristics in artificial intelligence, educationa
 
 ------
 
-#### The Directive of Metasystemic Emergence (ID: `INTERACTION-CORE-015`)
+#### The Directive of Metasystemic Emergence (ID: `INTERACTION-015`)
 
 #### **2. Objective:**
 
@@ -870,7 +870,7 @@ Applies to DAO governance, swarm robotics, city planning, and large-scale ecosys
 
 ---
 
-#### The Principle of Dual-Mode Evolution (ID: `INTERACTION-CORE-016`)
+#### The Principle of Dual-Mode Evolution (ID: `INTERACTION-016`)
 
 #### **2. Objective:**
 
@@ -932,7 +932,7 @@ Applies to governance updates, software versioning, ecosystem management, and or
 
 ------
 
-#### The Mechanism of Renormalization Universality (ID: `INTERACTION-CORE-017`)
+#### The Mechanism of Renormalization Universality (ID: `INTERACTION-017`)
 
 #### **2. Objective:**
 
@@ -991,7 +991,7 @@ Applies to economic forecasting, crowd simulation, traffic management, and viral
 
 ------
 
-#### The Protocol of Systemic Closure (ID: `INTERACTION-CORE-018`)
+#### The Protocol of Systemic Closure (ID: `INTERACTION-018`)
 
 #### **2. Objective:**
 
@@ -1050,7 +1050,7 @@ Applies to community management (defining membership), security architecture (de
 
 ------
 
-#### The Directive of Ludic Discovery (ID: `INTERACTION-CORE-019`)
+#### The Directive of Ludic Discovery (ID: `INTERACTION-019`)
 
 #### **2. Objective:**
 
@@ -1109,7 +1109,7 @@ Applies to R&D labs, game design, scenario planning, and artificial intelligence
 
 ------
 
-#### The Law of Implicit-Explicit Resonance (ID: `INTERACTION-CORE-020`)
+#### The Law of Implicit-Explicit Resonance (ID: `INTERACTION-020`)
 
 #### **2. Objective:**
 
@@ -1170,7 +1170,7 @@ Applies to knowledge management, organizational alignment, UI/UX consistency, an
 
 ---
 
-#### The Principle of Mnestic Consolidation (ID: `INTERACTION-CORE-021`)
+#### The Principle of Mnestic Consolidation (ID: `INTERACTION-021`)
 
 #### **2. Objective:**
 
@@ -1232,7 +1232,7 @@ Applies to database archiving policies, AI context window management, and organi
 
 ------
 
-#### The Law of Veridical Convergence (ID: `INTERACTION-CORE-022`)
+#### The Law of Veridical Convergence (ID: `INTERACTION-022`)
 
 #### **2. Objective:**
 
@@ -1294,7 +1294,7 @@ Applies to scientific simulation, reputation systems, and debugging protocols.
 
 ------
 
-#### The Protocol of Vectorial Actualization (ID: `INTERACTION-CORE-023`)
+#### The Protocol of Vectorial Actualization (ID: `INTERACTION-023`)
 
 #### **2. Objective:**
 
@@ -1356,7 +1356,7 @@ Applies to strategic planning, predictive analytics, and legacy system integrati
 
 ------
 
-#### The Mechanism of Phenomenological Grounding (ID: `INTERACTION-CORE-024`)
+#### The Mechanism of Phenomenological Grounding (ID: `INTERACTION-024`)
 
 #### **2. Objective:**
 
@@ -1418,7 +1418,7 @@ Applies to sentiment analysis, user experience design, and conflict resolution e
 
 ------
 
-#### The Law of Energetic Transmutation (ID: `INTERACTION-CORE-025`)
+#### The Law of Energetic Transmutation (ID: `INTERACTION-025`)
 
 #### **2. Objective:**
 
@@ -1480,7 +1480,7 @@ Applies to resource management games, battery logic in robotics, and project man
 
 ------
 
-#### The Directive of Teleological Alignment (ID: `INTERACTION-CORE-026`)
+#### The Directive of Teleological Alignment (ID: `INTERACTION-026`)
 
 #### **2. Objective:**
 
@@ -1542,7 +1542,7 @@ Applies to workflow automation, quest generation in games, and corporate strateg
 
 ------
 
-#### The Principle of Granular Resonance (ID: `INTERACTION-CORE-027`)
+#### The Principle of Granular Resonance (ID: `INTERACTION-027`)
 
 #### **2. Objective:**
 
@@ -1604,7 +1604,7 @@ Applies to map rendering, data visualization, and strategic decision-making tool
 
 ------
 
-#### The Law of Field-Particle Duality (ID: `INTERACTION-CORE-028`)
+#### The Law of Field-Particle Duality (ID: `INTERACTION-028`)
 
 #### **2. Objective:**
 
@@ -1666,7 +1666,7 @@ Applies to social network analysis, electromagnetic simulation, and organization
 
 ------
 
-#### The Protocol of Complexity Management (ID: `INTERACTION-CORE-029`)
+#### The Protocol of Complexity Management (ID: `INTERACTION-029`)
 
 #### **2. Objective:**
 
@@ -1728,7 +1728,7 @@ Applies to logistics, healthcare systems, and advanced manufacturing.
 
 ------
 
-####  The Directive of Decisional Resonant Constellation Map (ID: `INTERACTION-CORE-030`)
+####  The Directive of Decisional Resonant Constellation Map (ID: `INTERACTION-030`)
 
 #### **2. Objective:**
 
@@ -1791,7 +1791,7 @@ Applies to artificial intelligence ethics, leadership training, and autonomous v
 
 ---
 
-#### The Axiom of Interactional Existence (ID: `INTERACTION-CORE-031`)
+#### The Axiom of Interactional Existence (ID: `INTERACTION-031`)
 
 #### **2. Objective:**
 
@@ -1850,7 +1850,7 @@ Applies to all `[BPMS(U)]` elements, server architecture, and entity lifecycle m
 
 ------
 
-#### The Mechanism of Atomic Fact Generation (ID: `INTERACTION-CORE-032`)
+#### The Mechanism of Atomic Fact Generation (ID: `INTERACTION-032`)
 
 #### **2. Objective:**
 
@@ -1909,7 +1909,7 @@ Applies to logging systems, audit trails, history generation, and save game file
 
 ------
 
-#### The Protocol of Cross-BPMS Symbiosis (ID: `INTERACTION-CORE-033`)
+#### The Protocol of Cross-BPMS Symbiosis (ID: `INTERACTION-033`)
 
 #### **2. Objective:**
 
@@ -1968,7 +1968,7 @@ Applies to plugin architectures, API gateways, and cross-genre game design.
 
 ------
 
-#### The Law of Recursive Implementation (ID: `INTERACTION-CORE-034`)
+#### The Law of Recursive Implementation (ID: `INTERACTION-034`)
 
 #### **2. Objective:**
 
@@ -2027,7 +2027,7 @@ Applies to modding tools, visual scripting languages, and system architecture.
 
 ------
 
-#### The Directive of Survival Optimization (ID: `INTERACTION-CORE-035`)
+#### The Directive of Survival Optimization (ID: `INTERACTION-035`)
 
 #### **2. Objective:**
 
