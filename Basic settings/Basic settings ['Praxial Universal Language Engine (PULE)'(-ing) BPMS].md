@@ -2103,3 +2103,636 @@ Applies to the core game loop architecture, global state management, and the fou
 
 ---
 
+#### The Axiom of Semantic-Material Transmutation (ID: `PULE-CORE-038`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that establishes the `['(symbiosis) evolution'(-ing) BPMS]` among/by PULE and `[material(-ing) BPMS]`, defining language as an active catalyst capable of rearranging the physical substrate of reality.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Semantic-Material Transmutation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This axiom asserts that **Syntax Alters Substance**. It defines PULE not merely as a descriptive overlay, but as a direct interface to the `[Praxial Forge BPMS]`. When a valid, high-density semantic command is articulated, PULE translates the linguistic intent directly into `[Substrate Primitives]`, forcing the `[material(-ing) BPMS]` to physically mutate to match the description.
+
+**5.2. The Mechanism - [The Alchemical Parser]**
+
+- **The Utterance:** A user or agent articulates a command targeting a material (e.g., "Harden this Iron").
+- **The Semantic Compilation:** PULE parses the verb ("Harden") and translates it into a substrate operation (e.g., `Increase_Resilience_Parameter`).
+- **The Material Shift:** The target `[material(-ing) BPMS]` receives the compiled instruction and undergoes a physical transmutation, altering its atomic facts to align with the spoken sentence.
+- **The Symbiosis:** The language gains physical weight, and the material gains linguistic malleability.
+
+**5.3. The Emergent Property - [Linguistic Alchemy]** The emergence of a world where "Magic" or "Crafting" is fundamentally a language game. Players do not just combine items in a menu; they speak or write the physical properties of the world into existence.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`['Praxial Logos'(-ing) BPMS]`** (The Word is the Deed) and **`The Law of Material Manifestation`** (MATERIAL-CORE-001). The word directly manifests the material. **6.2. Formal Stratum (Layer 2):** Implements **`['Praxial Crafting Engine'(-ing) BPMS]`** by replacing traditional UI crafting with semantic crafting. **6.3. Phenomenal Stratum (Layer 3):** The user experiences "Incantation"—the visceral thrill of watching matter obey grammar.
+
+#### **7. Rationale / Justification:**
+
+To fulfill the requirement for symbiotic evolution with `[material(-ing) BPMS]`. It bridges the gap between the abstract language engine and the concrete physical world, making words physically impactful.
+
+#### **8. Scope of Application:**
+
+Applies to spellcasting systems, advanced crafting, terraforming, and dynamic environmental manipulation.
+
+------
+
+#### The Protocol of Linguistic Sedimentation (ID: `PULE-CORE-039`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines how PULE's semantic history physically embeds itself into the `['implicit layer'(-ing) BPMS]` of `[material(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Linguistic Sedimentation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This protocol asserts that **Matter Records the Conversation**. It establishes a symbiotic loop where the `[material(-ing) BPMS]` acts as the physical hard drive for PULE's linguistic output. Every interaction, command, or narrative event that occurs near or with an object leaves a semantic trace in its atomic structure.
+
+**5.2. The Mechanism - [The Semantic Fossilization]**
+
+- **The Discourse:** An event occurs (e.g., a hero gives a speech while holding a sword). PULE generates the semantic data of this event.
+- **The Deposition:** PULE compresses this semantic data into a `[Mnestic Vector]` and deposits it into the sword's `[Implicit Layer]`.
+- **The Crystallization:** Over time, repeated semantic exposure (e.g., the sword is constantly called "Brave") crystallizes into a physical material property (e.g., the sword gains a glowing aura or bonus damage).
+- **The Symbiosis:** The material becomes a physical archive of the language used around it.
+
+**5.3. The Emergent Property - [Whispering Artifacts]** The emergence of objects that "speak" their history. A player can use PULE to "read" a stone wall and uncover the ancient battles or conversations that sedimented into its structure.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`The Principle of Material Memory`** (MATERIAL-CORE-002). Memory is not just physical stress; it is semantic stress. **6.2. Formal Stratum (Layer 2):** Implements **`['Praxial Mnestic Engine'(-ing) BPMS]`** by using matter as the storage medium for language. **6.3. Phenomenal Stratum (Layer 3):** The user experiences "Deep Lore." The history of the world is not in a menu; it is literally written in the rocks and weapons.
+
+#### **7. Rationale / Justification:**
+
+To integrate PULE with the memory and implicit layer mechanics of the material system, ensuring that language has long-term physical persistence.
+
+#### **8. Scope of Application:**
+
+Applies to legendary item generation, environmental storytelling, archaeology mechanics, and lore retrieval.
+
+------
+
+#### The Mechanism of Syntactic Phase Transition (ID: `PULE-CORE-040`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that links PULE's semantic density to the physical phase transitions of `[material(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Syntactic Phase Transition
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This mechanism asserts that **Meaning is Thermodynamic**. It defines a direct correlation between the "Semantic Weight" of a PULE statement and the "Thermal/Kinetic Energy" applied to a `[material(-ing) BPMS]`. If a linguistic concept becomes dense enough, it forces the material to undergo a phase transition.
+
+**5.2. The Mechanism - [The Semantic Critical Point]**
+
+- **The Accumulation:** A user repeatedly applies a specific semantic tag to a material (e.g., chanting "Burn" at a piece of wood).
+- **The Density Check:** PULE calculates the `[Semantic Density]`.
+- **The Phase Shift:** When the density breaches the material's `[Critical Point Threshold]` (from MATERIAL-CORE-003), PULE triggers a physical state change. The wood transitions from `[Solid]` to `[Plasma/Fire]`.
+- **The Symbiosis:** Language acts as the heat source; matter acts as the phase-shifting medium.
+
+**5.3. The Emergent Property - [Narrative Physics]** The emergence of a reality where the intensity of a story or dialogue can literally melt walls or freeze lakes. The physical state of the world reflects the emotional and semantic state of the narrative.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`The Mechanism of Phase Transition`** (MATERIAL-CORE-003). It provides a linguistic trigger for physical phase changes. **6.2. Formal Stratum (Layer 2):** Implements **`['Praxial Thermodynamics Engine'(-ing) BPMS]`** by treating language as a form of heat/energy. **6.3. Phenomenal Stratum (Layer 3):** The user experiences "Climactic Resonance." During high-tension moments, the environment physically reacts to the dialogue.
+
+#### **7. Rationale / Justification:**
+
+To create a dynamic, symbiotic link between the abstract intensity of language and the concrete physics of the material world.
+
+#### **8. Scope of Application:**
+
+Applies to dynamic weather, boss fight environmental changes, and emotion-driven magic systems.
+
+------
+
+#### The Directive of Programmable Matter Syntax (ID: `PULE-CORE-041`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that establishes PULE as the compiler and operating system for `[Open Source Matter]` within the `[material(-ing) BPMS]` framework.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Programmable Matter Syntax
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This directive asserts that **Matter is the Terminal; Language is the Code**. It defines PULE as the interface through which users can inject logic into "Blank" or "Programmable" materials, turning inert objects into active, logic-driven systems.
+
+**5.2. The Mechanism - [The Substrate Compiler]**
+
+- **The Target:** A user interacts with `[Programmable Matter]` (e.g., a blank runestone or nanobot swarm).
+- **The Syntax Injection:** The user inputs a logical sentence via PULE (e.g., "If touched by an enemy, emit light").
+- **The Compilation:** PULE validates the grammar and compiles the sentence into a `[Logic Block]`.
+- **The Embodiment:** The `[material(-ing) BPMS]` absorbs the Logic Block, permanently altering its physical behavior to execute the script.
+- **The Symbiosis:** PULE provides the intelligence; the material provides the physical execution (Edge Action).
+
+**5.3. The Emergent Property - [Spontaneous Engineering]** The emergence of a sandbox where players can invent their own tools, traps, and automated systems simply by describing what they want the matter to do.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`The Axiom of Open Source Matter`** (MATERIAL-CORE-013). PULE is the engine that makes open-source matter functional. **6.2. Formal Stratum (Layer 2):** Implements **`['Praxial Logic Engine'(-ing) BPMS]`** by embedding logic directly into physical objects. **6.3. Phenomenal Stratum (Layer 3):** The user experiences "God-like Agency." They are not restricted to pre-made items; they can program the universe.
+
+#### **7. Rationale / Justification:**
+
+To fulfill the requirement for `[creative(-ing) BPMS]` and `[open(-ing) BPMS]` potential by linking the language engine to programmable materials.
+
+#### **8. Scope of Application:**
+
+Applies to trap creation, custom spell crafting, automation systems, and puzzle solving.
+
+------
+
+#### The Law of Animistic Dialogue (ID: `PULE-CORE-042`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that defines PULE as the communication bridge among/by the user and `[conscious(-ing) BPMS]` materials, enabling social interaction with the physical environment.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Animistic Dialogue
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This law asserts that **To Wield is to Negotiate**. It establishes that when a `[material(-ing) BPMS]` reaches the threshold of `[Substrate Awakening]` (Sentience), PULE automatically generates a localized vocabulary and persona for that object, allowing it to converse with the user.
+
+**5.2. The Mechanism - [The Panpsychic Interface]**
+
+- **The Awakening:** A material (e.g., an ancient forest or a highly complex sword) crosses the complexity threshold and gains `[Material Agency]`.
+- **The Persona Generation:** PULE analyzes the material's `[Substrate Primitives]` (e.g., Iron = Stubborn, Fire = Aggressive) and its `[Implicit Layer]` history to generate a unique linguistic persona.
+- **The Dialogue:** The user can now use PULE to talk to the object. The object can demand things (e.g., "Feed me coal") or refuse to work if insulted.
+- **The Symbiosis:** The user must use language (Diplomacy/Intimidation) to unlock the material's full physical potential.
+
+**5.3. The Emergent Property - [Social Crafting]** The emergence of a world where crafting and combat require social skills. You don't just repair a sword; you apologize to it for hitting a rock. The environment is a cast of characters.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`The Protocol of Material Consciousness`** (MATERIAL-CORE-017) and **`The Law of Material Agency`** (MATERIAL-CORE-009). **6.2. Formal Stratum (Layer 2):** Implements **`['Praxial Psychology Engine'(-ing) BPMS]`** by giving psychological profiles to inanimate objects. **6.3. Phenomenal Stratum (Layer 3):** The user experiences "Animism." The world feels deeply alive, and every object has a voice and a perspective.
+
+#### **7. Rationale / Justification:**
+
+To fully integrate PULE with the panpsychic and animistic elements of the material system, turning physical objects into conversational agents.
+
+#### **8. Scope of Application:**
+
+Applies to sentient weapons, genius loci (living environments), advanced AI cores, and faction negotiation with nature.
+
+---
+
+#### The Protocol of Cross-Ontological Translation (ID: `PULE-CORE-043`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines how PULE processes, decodes, and assimilates foreign, external, or non-standard inputs (such as natural human languages, API payloads, or alien syntaxes) into the internal Praxial Grammar.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Cross-Ontological Translation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This protocol asserts that **Intent Precedes Syntax**. It defines PULE as the ultimate "Rosetta Stone" of the Fun Engine Framework. When an external `[BPMS(U)]` inputs a command in a non-native format (e.g., a user typing "open the door" in English, or sending a JSON payload), PULE does not perform a literal 1:1 dictionary translation. Instead, it performs an *Ontological Translation*, mapping the external input to its fundamental `[Interactional Potentiality]`.
+
+**5.2. The Mechanism - [The Semantic Assimilator]**
+
+- **The Foreign Input:** An external `[BPMS(U)]` submits a string, gesture, or data packet.
+- **The Intent Extraction:** PULE strips away the cultural/formatting shell of the input to isolate the core verb and target (e.g., "Separate [Barrier] from [Frame]").
+- **The Praxial Compilation:** PULE recompiles this intent into the native `[Universal Praxial Grammar]`, ensuring it aligns with the local physics and material constraints.
+- **The Execution:** The translated command is executed within the engine.
+- **The Symbiosis:** The external user feels understood in their native tongue, while the internal engine only processes pure, safe Praxial logic.
+
+**5.3. The Emergent Property - [Universal Interoperability]** The emergence of a seamless interface where players, AI agents, and external software can all "speak" to the engine in their own way, and the engine perfectly understands the physical and narrative intent behind the words.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`The Principle of Interactional Primacy`**. The translation is based on what the word *does* (interaction), not what it *is* (symbol). **6.2. Formal Stratum (Layer 2):** Implements the core requirement for the **`['Praxial External Gateway'(-ing) BPMS]`**, acting as the linguistic bridge for external users. **6.3. Phenomenal Stratum (Layer 3):** The user experiences "Frictionless Agency." They do not need to learn a complex coding language to manipulate the world; the world learns to understand them.
+
+#### **7. Rationale / Justification:**
+
+A working implementation requires the engine to handle messy, unpredictable external inputs without crashing. This protocol ensures PULE can safely ingest and utilize any form of communication.
+
+#### **8. Scope of Application:**
+
+Applies to Natural Language Processing (NLP) interfaces, API endpoint parsing, cross-game modding, and player chat commands.
+
+------
+
+#### The Mechanism of Syntactic Paradox Resolution (ID: `PULE-CORE-044`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that dictates how PULE handles contradictory, impossible, or reality-breaking semantic commands issued by a `[BPMS(U)]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Syntactic Paradox Resolution
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This mechanism asserts that **The Engine Does Not Crash; It Ironizes**. It defines the error-handling protocol for PULE. If a user issues a command that creates an ontological paradox (e.g., "Make this fire freeze itself" or "Destroy the concept of destruction"), PULE does not return a standard "Error 404" or crash the material substrate. Instead, it resolves the paradox through localized mutation or narrative irony.
+
+**5.2. The Mechanism - [The Ludic Rebound]**
+
+- **The Paradoxical Input:** A `[BPMS(U)]` articulates a logically impossible command.
+- **The Collision Detection:** PULE attempts to compile the command and detects a fatal contradiction in the `[Substrate Primitives]`.
+- **The Resolution (Rebound):** Instead of failing, PULE forcefully collapses the paradox into a new, often chaotic, emergent state. (e.g., "Freezing Fire" creates a crystal that burns the user with absolute zero temperatures).
+- **The Symbiosis:** The user's error becomes a feature of the world. The engine absorbs the contradiction and spits out a novel interaction.
+
+**5.3. The Emergent Property - [Wild Magic & Anomalies]** The emergence of "Wild Magic" or "Glitches as Features." Players who try to break the game's language system are rewarded (or punished) with bizarre, unpredictable, but physically consistent anomalies.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`The Axiom of Ludic Potentiality Collapse`**. Even a paradox is a form of potentiality that must collapse into a "Fun" (ludic) outcome. **6.2. Formal Stratum (Layer 2):** Implements **`['Praxial Error Handling'(-ing) BPMS]`** by turning system errors into gameplay mechanics. **6.3. Phenomenal Stratum (Layer 3):** The user experiences "Consequential Experimentation." Trying to break the rules is dangerous but highly entertaining.
+
+#### **7. Rationale / Justification:**
+
+A working language engine that alters reality must have a robust way to handle edge cases and malicious/ignorant inputs without compromising the stability of the entire framework.
+
+#### **8. Scope of Application:**
+
+Applies to spell miscasts, crafting failures, artificial intelligence hallucination handling, and anomaly generation.
+
+------
+
+#### The Axiom of Semantic Caloric Cost (ID: `PULE-CORE-045`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that establishes an economic and energetic limit on PULE, preventing infinite reality manipulation by tying semantic weight to physical/vitality costs.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Semantic Caloric Cost
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This axiom asserts that **Words Have Weight, and Weight Requires Strength**. It defines that invoking PULE to alter reality is not free. Every semantic command carries a "Caloric Cost" proportional to the degree of ontological change it demands.
+
+**5.2. The Mechanism - [The Vitality Toll]**
+
+- **The Calculation:** When a `[BPMS(U)]` issues a command, PULE calculates the delta between the current state of reality and the requested state.
+- **The Cost Assessment:** This delta is converted into a `[Semantic Caloric Cost]`. (e.g., Saying "Ignite" to a dry twig costs very little; saying "Turn this mountain into glass" costs an astronomical amount).
+- **The Expenditure:** The cost is deducted from the user's `[Interactional Potentiality]`, `[Vitality]`, or a localized energy source (Mana/Stamina).
+- **The Symbiosis:** If the user lacks the required energy, the sentence "fails to materialize," resulting in a mere whisper or a partial, fizzled effect.
+
+**5.3. The Emergent Property - [The Economy of Miracles]** The emergence of a balanced magic/crafting economy. Players cannot simply talk their way to omnipotence; they must manage their energy, gather resources, or use multiple users (choirs/chants) to pool enough energy for massive semantic changes.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`The Mechanism of Potentiality Exhaustion`**. Interaction depletes potentiality; language is a high-tier interaction. **6.2. Formal Stratum (Layer 2):** Implements **`['Praxial Economy Engine'(-ing) BPMS]`** by creating a scarcity of reality-altering power. **6.3. Phenomenal Stratum (Layer 3):** The user experiences "The Burden of Power." Great spells or commands feel physically exhausting and require preparation.
+
+#### **7. Rationale / Justification:**
+
+Without a cost mechanism, a universal language engine would instantly break game balance. This setting grounds PULE in the thermodynamic reality of the Fun Engine Framework.
+
+#### **8. Scope of Application:**
+
+Applies to mana systems, stamina drain, cooldowns, ritual magic, and resource management.
+
+------
+
+#### The Directive of Lexical Genesis and Assimilation (ID: `PULE-CORE-046`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that allows PULE to dynamically learn, evolve, and officially adopt new words, slang, or concepts invented by the `[BPMS(U)(s)]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Lexical Genesis and Assimilation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This directive asserts that **The Dictionary is Alive**. It defines PULE not as a static lexicon, but as an evolutionary linguistic organism. If users invent a new word or use an existing word in a novel way, PULE observes this behavior and, upon reaching a critical mass of usage, assimilates it into the official Universal Grammar.
+
+**5.2. The Mechanism - [The Slang Compiler]**
+
+- **The Innovation:** A community of `[BPMS(U)(s)]` starts using a made-up word (e.g., "Yeet") to describe the action of throwing something with high kinetic force.
+- **The Observation:** PULE tracks the contextual usage and the physical interactions associated with this new string of characters.
+- **The Assimilation:** Once the usage crosses a `[Cultural Consensus Threshold]`, PULE officially compiles "Yeet" into a valid semantic command linked to the `[High_Velocity_Displacement]` substrate primitive.
+- **The Symbiosis:** The users literally write the code of the universe through their cultural habits.
+
+**5.3. The Emergent Property - [Cultural Magic]** The emergence of localized dialects and player-driven magic systems. A guild might invent their own secret language that the engine learns to recognize, giving them unique, culturally-bound abilities.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`The Principle of Continuous Genesis`**. The language itself must evolve symbiotically with its users. **6.2. Formal Stratum (Layer 2):** Implements **`['Praxial Cultural Engine'(-ing) BPMS]`** by tracking and validating social consensus. **6.3. Phenomenal Stratum (Layer 3):** The user experiences "Linguistic Ownership." They realize the game is listening to them and adapting to their specific community culture.
+
+#### **7. Rationale / Justification:**
+
+A truly symbiotic language engine must be shaped by its users. This allows the framework to organically grow and adapt to the evolving culture of its player base.
+
+#### **8. Scope of Application:**
+
+Applies to dynamic spell creation, community-driven lore, evolving NPC dialogue, and cultural faction building.
+
+------
+
+#### The Law of Embodied Kinesic Syntax (ID: `PULE-CORE-047`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that expands PULE's definition of "Language" to include physical movements, gestures, and combat stances, treating them as valid semantic inputs.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Embodied Kinesic Syntax
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This law asserts that **Motion is Grammar**. It establishes that PULE does not only parse text or speech; it parses the physical kinematics of a `[BPMS(U)]`. A sword swing, a dodge, or a dance are treated as "sentences" written in the medium of space and time.
+
+**5.2. The Mechanism - [The Kinesic Parser]**
+
+- **The Action:** A user performs a specific sequence of movements (e.g., a perfect parry followed by a thrust).
+- **The Parsing:** PULE reads the trajectory, velocity, and timing of the `[material(-ing) BPMS]` (the user's body and weapon).
+- **The Translation:** PULE translates this physical sequence into a semantic command (e.g., "Deflect Force -> Penetrate Defense").
+- **The Execution:** The engine applies the resulting physical effects, potentially triggering "combos" which are essentially highly articulate, multi-clause physical sentences.
+- **The Symbiosis:** Combat and movement become forms of dialogue with the physics engine.
+
+**5.3. The Emergent Property - [The Poetry of Combat]** The emergence of a system where "button mashing" is equivalent to speaking gibberish (resulting in poor physical outcomes), while mastering a combat style is equivalent to becoming an eloquent orator. A perfect combo is a perfectly structured argument that the enemy cannot refute.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`The Axiom of Embodied Interactional Syntax`** (INTERACTION-CORE-050). The body's limits and motions dictate the language. **6.2. Formal Stratum (Layer 2):** Implements **`['Praxial Combat Engine'(-ing) BPMS]`** by treating hitboxes and animations as linguistic components. **6.3. Phenomenal Stratum (Layer 3):** The user experiences "Flow State." Physical mastery of the game controls feels identical to fluency in a language.
+
+#### **7. Rationale / Justification:**
+
+To ensure PULE is truly universal, it must encompass non-verbal, physical interactions. This bridges the gap between abstract language processing and real-time action gameplay.
+
+#### **8. Scope of Application:**
+
+Applies to combat combo systems, gesture-based spellcasting (e.g., VR hand tracking), stealth mechanics, and dance/performance mini-games.
+
+---
+
+#### The Mechanism of Semantic Propagation and Attenuation (ID: `PULE-CORE-048`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that defines how linguistic commands travel through the `[material(-ing) BPMS]` substrate, establishing rules for signal range, degradation, and environmental interference.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Semantic Propagation and Attenuation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This mechanism asserts that **Syntax is a Wave**. It defines that a semantic command issued by a `[BPMS(U)]` does not instantly affect the entire universe. Instead, it propagates outward from the source as a `[Semantic Field]`. As this field travels through space and interacts with physical matter, its `[Semantic Density]` attenuates (degrades) based on distance and the acoustic/conceptual resistance of the environment.
+
+**5.2. The Mechanism - [The Lexical Wavefront]**
+
+- **The Emission:** A user speaks a command (e.g., "Shatter"). PULE generates a localized semantic wavefront.
+- **The Propagation:** The wave travels through the `[material(-ing) BPMS]`. Air offers low resistance; solid lead or magically warded stone offers high resistance.
+- **The Attenuation:** For every unit of distance and resistance encountered, the command loses `[Semantic Density]`.
+- **The Execution/Failure:** If the wave reaches a target (e.g., a glass window 50 meters away) but its density has dropped below the target's `[Phase Transition Threshold]`, the command fails, resulting in a mere vibration rather than a shatter.
+- **The Symbiosis:** The physical environment actively filters and shapes the reach of language.
+
+**5.3. The Emergent Property - [Acoustic Tactics]** The emergence of spatial language mechanics. Players must consider positioning, line-of-sight, and environmental acoustics. Whispering a spell only affects the immediate vicinity, while shouting from a mountaintop (or using a megaphone/amplifier) increases the propagation range.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`The Mechanism of Latent Interactional Resonance`** (INTERACTION-CORE-041). Language is a form of resonance that must physically travel through the potentiality field. **6.2. Formal Stratum (Layer 2):** Implements **`['Praxial Physics Engine'(-ing) BPMS]`** by treating language as a physical wave subject to inverse-square laws and material dampening. **6.3. Phenomenal Stratum (Layer 3):** The user experiences "Spatial Agency." They realize they must close the distance to their target or clear obstacles to make their words effective.
+
+#### **7. Rationale / Justification:**
+
+A working implementation requires spatial limits. Without attenuation, a user could say "Destroy all enemies" and affect the entire server. This mechanism grounds PULE in physical, spatial reality.
+
+#### **8. Scope of Application:**
+
+Applies to area-of-effect (AoE) spells, stealth/eavesdropping mechanics, communication ranges, and environmental puzzle design (e.g., speaking through a tube to bypass a warded wall).
+
+------
+
+#### The Protocol of Syntactic Encryption and True Nomenclature (ID: `PULE-CORE-049`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that allows entities and objects to lock their `[Interactional Potentiality]` behind highly specific, encrypted semantic strings, establishing a system of "True Names" and passwords.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Syntactic Encryption and True Nomenclature
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This protocol asserts that **Identity is the Ultimate Cipher**. It defines a security layer within PULE where a `[BPMS(U)]` or a complex `[material(-ing) BPMS]` can bind its core functions to a unique, hidden semantic string (a "True Name"). Unless PULE parses this exact string from an interacting agent, access to the entity's deeper potentialities is denied.
+
+**5.2. The Mechanism - [The Semantic Lock]**
+
+- **The Encryption:** An entity (or a creator of an object) registers a specific syntactic sequence with PULE as its `[True Name]` or `[Access Key]`.
+- **The Interrogation:** Another user attempts to command or alter the entity.
+- **The Verification:** PULE intercepts the command and checks it against the entity's encryption layer. If the command does not contain the True Name, PULE returns a `[Null Interaction]` or triggers a defensive rebound.
+- **The Decryption:** If the user discovers and speaks the True Name, PULE bypasses the entity's standard resistance, granting the user absolute semantic authority over it.
+- **The Symbiosis:** Language becomes the primary tool for cybersecurity and ontological defense within the framework.
+
+**5.3. The Emergent Property - [Information as Power]** The emergence of a gameplay loop centered around investigation, espionage, and lore-hunting. To defeat a powerful boss or open an ancient vault, players cannot just use brute force; they must research the world to discover the target's True Name.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`The Directive of Reflexive Interactional Genesis`** (INTERACTION-CORE-044). As entities become sovereign, they develop boundaries; True Names are the linguistic manifestation of these boundaries. **6.2. Formal Stratum (Layer 2):** Implements **`['Praxial Security Engine'(-ing) BPMS]`** by using semantics as access control (Authentication/Authorization). **6.3. Phenomenal Stratum (Layer 3):** The user experiences "The Weight of Secrets." Knowing a name gives visceral, mechanical power over the named thing.
+
+#### **7. Rationale / Justification:**
+
+A working implementation needs access control. If PULE allows words to alter reality, there must be a way to protect critical assets, NPCs, and player properties from unauthorized semantic manipulation.
+
+#### **8. Scope of Application:**
+
+Applies to lockpicking (semantic hacking), boss vulnerabilities, player-owned property protection, and API authentication for external users.
+
+------
+
+#### The Axiom of Polyphonic Resonance (ID: `PULE-CORE-050`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how PULE handles simultaneous, identical semantic inputs from multiple `[BPMS(U)(s)]`, enabling collective action and ritual scaling.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Polyphonic Resonance
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This axiom asserts that **The Chorus Alters the Cosmos**. It establishes that when multiple entities articulate the same semantic intent simultaneously, PULE does not process them as separate, additive commands. Instead, they enter `[Polyphonic Resonance]`, multiplying their `[Semantic Density]` non-linearly while distributing the `[Semantic Caloric Cost]` among the participants.
+
+**5.2. The Mechanism - [The Ritual Compiler]**
+
+- **The Synchronization:** Multiple `[BPMS(U)(s)]` (players, NPCs, or external API nodes) input the exact same semantic command within a tight temporal window (e.g., chanting together).
+- **The Resonance Calculation:** PULE detects the syntactic overlap. Instead of `Density = A + B + C`, PULE calculates `Density = (A + B + C) ^ Resonance_Multiplier`.
+- **The Cost Distribution:** The massive caloric cost required for the resulting macro-scale reality alteration is divided equally among the participants.
+- **The Symbiosis:** Individual weakness is overcome by collective linguistic synchronization.
+
+**5.3. The Emergent Property - [Ritual Mechanics and Mob Rule]** The emergence of "Ritual Magic" and collective world-building. A single player cannot summon a mountain, but a guild of 100 players chanting the same command in unison can. Conversely, if a crowd of NPCs all scream in fear of a "Monster," PULE might actually manifest a monster from their collective semantic panic.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`The Protocol of Symbiotic Entanglement`** (INTERACTION-CORE-047). The shared language permanently entangles the participants' potentiality fields. **6.2. Formal Stratum (Layer 2):** Implements **`['Praxial Social Engine'(-ing) BPMS]`** by mechanically rewarding cooperation and synchronization. **6.3. Phenomenal Stratum (Layer 3):** The user experiences "Collective Transcendence." The thrill of participating in a massive, synchronized event that changes the server's reality.
+
+#### **7. Rationale / Justification:**
+
+To support MMO-scale interactions and external cluster computing, PULE must have a mechanism for scaling up. This allows the engine to handle massive, community-driven events and distributed processing.
+
+#### **8. Scope of Application:**
+
+Applies to guild-level spellcasting, server-wide world events, belief-based deity systems, and distributed API payload processing.
+
+------
+
+#### The Directive of Ontological Censorship and Taboo (ID: `PULE-CORE-051`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Directive) that establishes a systemic defense mechanism within PULE to prevent semantic commands that would drive/trigger infinite loops, server crashes, or total ontological collapse.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Directive of Ontological Censorship and Taboo
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+**5.1. Core Essence** This directive asserts that **The Engine Protects Itself**. It defines a hardcoded list of `[Taboo Syntaxes]` within PULE. These are semantic constructs that threaten the structural integrity of the `[Praxial Forge BPMS]` (e.g., commands attempting to delete the root directory, divide by zero, or create infinite recursive loops). PULE actively censors, dampens, or violently rejects these inputs.
+
+**5.2. The Mechanism - [The Taboo Filter]**
+
+- **The Malicious Input:** A user attempts a reality-breaking command (e.g., "Make this statement false and true simultaneously forever").
+- **The Pre-Compilation Scan:** PULE scans the intent against the `[Ontological Hazard Registry]`.
+- **The Censorship/Backlash:** If flagged as Taboo, PULE refuses to compile the command. To maintain ludic immersion, it does not show an error code. Instead, it triggers an `[Ontological Backlash]`—the user's avatar is struck by "divine lightning," silenced, or temporarily banished to a penalty dimension (The Void).
+- **The Symbiosis:** The system maintains its stability by treating malicious code injection as a severe, punishable sin within the game world's lore.
+
+**5.3. The Emergent Property - [The Forbidden Words]** The emergence of "Forbidden Magic" or "Cursed Knowledge." Players learn that certain phrases are actively hostile to the universe. This turns anti-cheat and crash-prevention mechanics into deep, terrifying lore.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+**6.1. Axiomatic Stratum (Layer 1):** Aligns with **`The Axiom of Ludic Potentiality Collapse`** (INTERACTION-CORE-042). The engine must ensure that interactions collapse into *playable* states, not broken ones. **6.2. Formal Stratum (Layer 2):** Implements **`['Praxial Anti-Cheat/Stability Engine'(-ing) BPMS]`** by wrapping server protection in narrative mechanics. **6.3. Phenomenal Stratum (Layer 3):** The user experiences "Cosmic Dread." They realize there are boundaries to their power, enforced by the very fabric of the universe.
+
+#### **7. Rationale / Justification:**
+
+A working implementation of a language-driven reality engine is highly susceptible to semantic exploits, griefing, and logic bombs. This directive is the ultimate failsafe to ensure the Fun Engine Framework remains stable and operational.
+
+#### **8. Scope of Application:**
+
+Applies to anti-cheat systems, exploit prevention, moderation tools, and the creation of "Forbidden Zones" or "Cursed Items" in the game world.
+
