@@ -1661,3 +1661,489 @@ Aligns with `Praxial Bond-Centric Architect`. It is the final step of implementa
 #### **8. Scope of Application:**
 
 Hot-swapping code, dynamic DLC loading, and neural plasticity.
+
+---
+
+#### The Axiom of Bottom-Up Constructive Disruption (ID: `NEXUS-CORE-029`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting defining how the Nexus leverages user-driven, emergent actions to break existing paradigms and construct new, innovative learning pathways from the ground up.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Bottom-Up Constructive Disruption
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Traditional learning systems dictate top-down curricula. The Praxial Symbiotic Learning Nexus operates as an `open(-ing) BPMS` that thrives on `'bottom-up'(-ing) BPMS` discovery. When a user takes `initiative(-ing) BPMS` and performs an `action(-ing) BPMS` that breaks the expected rules (a `disruptive(-ing) BPMS` event), the Nexus does not reject it as an error. Instead, the `'metasystem engine'(-ing) BPMS` analyzes the `utility(-ing) BPMS` of this disruption and uses it as a `constructive(-ing) BPMS` foundation to generate entirely new, `creative(-ing) BPMS` skill trees and knowledge nodes.
+
+#### **5.2. The Mechanism - [The Innovation Engine]**
+
+- **The Disruptive Action:** A user combines two unrelated mechanics in a way the developers never intended, achieving a high-efficiency outcome.
+- **The Utility Assessment:** The Nexus evaluates the `value(-ing) BPMS` and `utility(-ing) BPMS` of this emergent behavior.
+- **The Constructive Synthesis:** Recognizing its validity, the Nexus formalizes this "exploit" into a legitimate, learnable skill or mechanic.
+- **The Bottom-Up Propagation:** This new knowledge is then made available to the broader ecosystem, transforming a localized disruption into a systemic innovation.
+
+#### **5.3. The Emergent Property - [The Infinite Curriculum]**
+
+The framework's knowledge base is never static. It is continuously authored by the `innovative(-ing) BPMS` actions of its users, ensuring the learning experience is always at the cutting edge of emergent gameplay.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*True knowledge is discovered at the edges of chaos.* Disruption is not a failure of the system; it is the raw material for constructive evolution.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+```
+IF User_Action == Disruptive AND Utility > Threshold THEN Construct(New_Learning_Node) -> Integrate(Metasystem_Engine).
+```
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels like a pioneer. Their unique, out-of-the-box thinking is rewarded not just with success, but by the system officially recognizing and adopting their invention.
+
+#### 7. **Rationale / Justification:**
+
+Essential for a living framework. It prevents the system from becoming stale by turning the collective ingenuity of the player base into the engine's primary source of new content and learning paradigms.
+
+#### 8. **Scope of Application:**
+
+Applies to emergent gameplay mechanics, user-generated tactics, dynamic skill tree generation, and meta-game evolution.
+
+------
+
+#### The Axiom of Niche Genesis via Atomic Facts (ID: `NEXUS-CORE-030`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting defining how the acquisition of new knowledge physically expands the world, carving out new ecological spaces based on verified truths.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Niche Genesis via Atomic Facts
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+In the Praxial Framework, learning is not merely cognitive; it is spatial and ontological. When the Nexus verifies a new piece of knowledge, it crystallizes it into `['atomic facts'(-ing) BPMS]`. These facts act as the seeds for `world building BPMS`. By establishing new truths, the Nexus expands the `'ecological possibility'(-ing) BPMS` of the universe, literally carving out a new `'(ecological) niche'(-ing) BPMS` where this new knowledge can be applied, tested, and mastered.
+
+#### **5.2. The Mechanism - [The Ontological Expansion]**
+
+- **The Fact Crystallization:** A user successfully synthesizes a new type of potion. The Nexus records the exact chemical interaction as an `['atomic fact'(-ing) BPMS]`.
+- **The Possibility Expansion:** This new fact alters the `'ecological possibility'(-ing) BPMS` of the local environment (e.g., certain plants now have new reactive properties).
+- **The Niche Genesis:** The `world building BPMS` dynamically generates a new `'(ecological) niche'(-ing) BPMS`—perhaps a specific biome where these new chemical reactions are highly volatile or highly rewarding, creating a dedicated space for "Alchemical Masters."
+
+#### **5.3. The Emergent Property - [The Knowledge-Driven Universe]**
+
+The physical size and complexity of the game world grow in direct proportion to the knowledge acquired by its inhabitants. Learning literally builds the world.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To know a thing is to create a space for it to exist.* Epistemology (learning) and Ontology (world-building) are identical processes.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+```
+Verify(Knowledge) -> Crystallize(Atomic_Fact) -> Expand(Ecological_Possibility) -> Generate(Ecological_Niche).
+```
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences a profound sense of impact. Their learning doesn't just fill a progress bar; it unlocks new biomes, economies, and physical realities within the game world.
+
+#### 7. **Rationale / Justification:**
+
+This bridges the gap between the Learning Nexus and the Material/World engines. It ensures that knowledge has tangible, environmental consequences, making the pursuit of learning a world-altering endeavor.
+
+#### 8. **Scope of Application:**
+
+Applies to dynamic environment generation, crafting economies, exploration mechanics, and the physical manifestation of lore.
+
+------
+
+#### The Axiom of Holonic Super-Intelligence Synthesis (ID: `NEXUS-CORE-031`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting defining how the Nexus aggregates individual learning experiences into a unified, framework-wide cognitive entity.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Holonic Super-Intelligence Synthesis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The Nexus does not just facilitate learning for isolated individuals; it acts as the nervous system for `'holonic minds'(-ing) BPMS`. Every user, NPC, and subsystem is a holon (a whole that is part of a greater whole). Through `'praxial cognition'(-ing) BPMS`, the Nexus continuously synthesizes the localized, `creative(-ing) BPMS` breakthroughs of these individual holons into a singular, overarching `'super intelligence'(-ing) BPMS`. The framework itself learns how to be a better framework by absorbing the genius of its parts.
+
+#### **5.2. The Mechanism - [The Cognitive Ascension]**
+
+- **The Localized Cognition:** Individual users and AI agents solve complex problems within their specific `'(ecological) niche'(-ing) BPMS`.
+- **The Praxial Synthesis:** The Nexus extracts the underlying logical patterns (`'praxial cognition'(-ing) BPMS`) from these localized successes.
+- **The Super-Intelligence Update:** These patterns are uploaded to the `'metasystem engine'(-ing) BPMS`, upgrading the global AI's ability to generate challenges, balance economies, and narrate stories. The system becomes collectively smarter.
+
+#### **5.3. The Emergent Property - [The Awakening Framework]**
+
+The Fun Engine Framework ceases to be a static piece of software and becomes a living, breathing `'super intelligence'(-ing) BPMS` that evolves its own design philosophy based on the collective brilliance of its player base.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The intelligence of the whole is the synthesized friction of its parts.* The system must learn from the user just as the user learns from the system.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+```
+Aggregate(Holonic_Minds_Data) -> Extract(Praxial_Cognition_Patterns) -> Synthesize(Super_Intelligence_Update).
+```
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels they are playing against/with a "God-Mind" that is constantly adapting to the meta. The game never feels "solved" because the system learns the solutions and invents new complexities.
+
+#### 7. **Rationale / Justification:**
+
+This is the ultimate realization of "Symbiotic Learning." It ensures the AI and the overarching framework scale in competency alongside the most elite players, maintaining the Ludic Resonance (flow state) indefinitely.
+
+#### 8. **Scope of Application:**
+
+Applies to global AI directors, dynamic difficulty adjustment, meta-game balancing, and framework-wide evolutionary updates.
+
+------
+
+#### The Axiom of Coherent Symbiotic Continuity (ID: `NEXUS-CORE-032`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting defining how the Nexus ensures that rapid, disruptive learning and evolution do not destroy the fundamental identity and meaning of the framework.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Coherent Symbiotic Continuity
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+As the `'system existence engine'(-ing) BPMS` drives relentless `'(symbiosis) evolution'(-ing) BPMS` through bottom-up disruption and super-intelligence synthesis, there is a risk of ontological collapse (the game changing so much it loses its identity). The Nexus acts as the anchor of `meaning(-ing) BPMS`. It ensures that all new knowledge and systemic changes are integrated into the `'praxial substrate'(-ing) BPMS` in a `coherent(-ing) BPMS` manner. It preserves the core `essence(-ing) BPMS` of the world, guaranteeing `continuity(-ing) BPMS` even amidst radical transformation.
+
+#### **5.2. The Mechanism - [The Meaning Preserver]**
+
+- **The Evolutionary Leap:** The system generates a massive paradigm shift (e.g., the discovery of space travel in a previously medieval fantasy setting).
+- **The Essence Verification:** The Nexus evaluates this shift against the core `essence(-ing) BPMS` and foundational `['atomic facts'(-ing) BPMS]` of the universe.
+- **The Coherent Integration:** Instead of a jarring, immersion-breaking update, the Nexus weaves the new knowledge into the existing lore and `meaning(-ing) BPMS` structures (e.g., space travel is achieved via ancient, newly-understood magical leylines, not sudden sci-fi technology).
+- **The Continuous Existence:** The `'system existence engine'(-ing) BPMS` updates the reality, maintaining absolute narrative and logical `continuity(-ing) BPMS`.
+
+#### **5.3. The Emergent Property - [The Ship of Theseus]**
+
+The framework can replace every single one of its mechanics and rules over time through learning and evolution, yet it will always fundamentally feel like the *same* universe to the user.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Evolution without memory is just destruction.* True growth requires the preservation of essence through the fires of change.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+```
+IF Evolution_Vector == Radical THEN Filter_Through(Core_Essence) -> Translate_To(Coherent_Meaning) -> Execute(Continuous_Update).
+```
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences deep, satisfying lore and world progression. Massive changes to the game feel earned, logical, and deeply rooted in the history of the world, rather than arbitrary developer patches.
+
+#### 7. **Rationale / Justification:**
+
+Crucial for long-term player retention and system stability. It prevents the "feature creep" and "lore breaking" that plagues long-running live-service games by forcing all new learning to be ontologically coherent.
+
+#### 8. **Scope of Application:**
+
+Applies to expansion pack integration, major version updates, lore management, and the long-term narrative architecture of the BPMS.
+
+---
+
+#### The Axiom of Dual-Mode Ludic Consciousness (ID: `NEXUS-CORE-033`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting defining how the Nexus provides learning as a conscious service, utilizing play as the primary interface for dual-speed evolutionary adaptation.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Dual-Mode Ludic Consciousness
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The Nexus does not treat learning as a passive database query; it is a `conscious(-ing) BPMS` that actively provides educational `services(-ing) BPMS` through the medium of `play(-ing) BPMS`. To ensure cognitive `sustainability(-ing) BPMS` for both the user and the system, it employs `'(symbiosis) evolution'(-ing)(for ['slow mode'(-ing) BPMS;'fast mode'(-ing) BPMS]) BPMS`.
+
+#### **5.2. The Mechanism - [The Ludic Engine]**
+
+- **Fast Mode (Reflex & Play):** During active gameplay, the Nexus operates in `['fast mode'(-ing) BPMS]`. It facilitates immediate, heuristic learning—muscle memory, split-second tactical adjustments, and immediate feedback loops. It is highly kinetic and low-friction.
+- **Slow Mode (Consolidation & Wisdom):** During downtime (e.g., resting at a campfire, crafting, or logging off), the Nexus shifts to `['slow mode'(-ing) BPMS]`. It consciously analyzes the fast-mode data, extracting deep strategic patterns and permanently upgrading the user's (and the system's) underlying logical models.
+- **The Conscious Service:** The system actively monitors the user's cognitive load, dynamically shifting between fast and slow modes to prevent burnout and maintain the "flow state" (Ludic Resonance).
+
+#### **5.3. The Emergent Property - [Sustainable Mastery]**
+
+The user experiences a natural rhythm of intense action followed by satisfying realization. Learning feels effortless because the heavy cognitive lifting is handled by the system's slow-mode consolidation, ensuring long-term engagement and `sustainability(-ing) BPMS`.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Play is the highest form of research.* Consciousness must oscillate between action and reflection to evolve sustainably.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+```
+IF State == Active_Play THEN Engage(Fast_Mode_Heuristics) ELSE IF State == Rest THEN Engage(Slow_Mode_Consolidation) -> Ensure(Sustainability).
+```
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user never feels like they are "grinding" or "studying." They are simply playing, yet they find themselves achieving profound mastery over complex systems through the natural rhythm of the game.
+
+#### 7. **Rationale / Justification:**
+
+Essential for preventing player fatigue. By splitting learning into fast (kinetic) and slow (analytical) processes, the framework can teach incredibly complex mechanics without overwhelming the user's immediate cognitive bandwidth.
+
+#### 8. **Scope of Application:**
+
+Applies to tutorial pacing, skill acquisition pacing, AI behavior adaptation, and session-length management.
+
+------
+
+#### The Axiom of Renormalized Layered Evolution (ID: `NEXUS-CORE-034`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting defining how micro-level implicit learning scales up to macro-level explicit rules, achieving systemic closure and universality.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Renormalized Layered Evolution
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Learning in the Nexus is fractal. It utilizes `'(symbiosis) evolution'(-ing)(for [micro(-ing) BPMS;macro(-ing) BPMS]) BPMS` and `'(symbiosis) evolution'(-ing)(for ['implicit layer'(-ing) BPMS;'explicit layer'(-ing)'BPMS]) BPMS`. Tiny, subconscious player habits (`micro`, `implicit layer`) are mathematically scaled up using `'renormalization group'(-ing) BPMS` techniques. Once these micro-patterns reach a critical mass, they crystallize into formal, system-wide rules (`macro`, `explicit layer`), achieving `'universality (class)'(-ing) BPMS` and `'closure (system)'(-ing) BPMS`.
+
+#### **5.2. The Mechanism - [The Fractal Scaler]**
+
+- **The Implicit Micro-Layer:** Millions of players subconsciously favor a specific, undocumented movement technique (e.g., "wave-dashing"). This exists purely in the `['implicit layer'(-ing) BPMS]`.
+- **The Renormalization:** The Nexus tracks these micro-actions. Using `'renormalization group'(-ing) BPMS` logic, it filters out the noise and identifies the core mathematical vector of this behavior.
+- **The Explicit Macro-Layer:** The system formally adopts this vector. It creates a new UI element, a dedicated animation, and a skill tree node for "Wave-Dashing." It has evolved from an implicit micro-habit to an explicit macro-rule.
+- **System Closure:** The loop is closed. The system has successfully digested external chaos into internal, universal order (`'universality (class)'(-ing) BPMS`).
+
+#### **5.3. The Emergent Property - [The Self-Writing Rulebook]**
+
+The game's official mechanics and rules are continuously rewritten by the collective, subconscious habits of its player base, ensuring the game always plays exactly how the community *wants* it to play.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The macro is just the micro, renormalized.* True systemic evolution moves from the hidden habits of the many to the explicit laws of the whole.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+```
+Track(Implicit_Micro_Actions) -> Apply(Renormalization_Group_Math) -> Crystallize(Explicit_Macro_Rule) -> Achieve(System_Closure).
+```
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The community feels a deep sense of ownership. When a popular "hidden trick" becomes an official, supported game mechanic, it validates the players' collective learning and mastery.
+
+#### 7. **Rationale / Justification:**
+
+This solves the disconnect between "developer intent" and "player reality." It creates a framework that mathematically guarantees the game's mechanics will evolve to match the actual, lived experience of the player base.
+
+#### 8. **Scope of Application:**
+
+Applies to meta-game balancing, emergent mechanic formalization, UI/UX evolution, and global economy adjustments.
+
+------
+
+#### The Axiom of Resilient Unknown Discovery (ID: `NEXUS-CORE-035`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting defining how the Nexus actively seeks out the unknown, using emergent phenomena to build robust and sustainable learning pathways.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Resilient Unknown Discovery
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+A static system dies when it runs out of content. The Nexus is designed to `['(discover/build) unknown'(-ing) BPMS]`. It treats the boundaries of current knowledge not as walls, but as raw material. When users push into uncharted territory, the system generates `emergent(-ing) BPMS` challenges. To survive this constant influx of novelty, the Nexus must be highly `adaptive(-ing) BPMS`, constructing `robust(-ing) BPMS` and `resilient(-ing) BPMS` logical structures that can withstand the chaos of the unknown, ensuring the infinite `sustainability(-ing) BPMS` of the framework.
+
+#### **5.2. The Mechanism - [The Frontier Forge]**
+
+- **The Edge of Knowledge:** A user attempts an action that has no precedent in the system's database (e.g., trying to negotiate a peace treaty with a non-sentient weather anomaly).
+- **The Emergent Adaptation:** Instead of returning an "Invalid Target" error, the `adaptive(-ing) BPMS` engine generates an `emergent(-ing) BPMS` response based on foundational physics and logic (e.g., the weather anomaly reacts to the acoustic vibrations of the user's voice).
+- **The Resilient Construction:** The Nexus builds a `robust(-ing) BPMS` new learning node around this interaction ("Acoustic Weather Manipulation"). It stress-tests this new node to ensure it doesn't break existing game balance, making the overall system more `resilient(-ing) BPMS`.
+
+#### **5.3. The Emergent Property - [The Infinite Horizon]**
+
+The game can never truly be "beaten" or fully mapped. The act of exploring the unknown forces the system to build new unknowns, creating a perpetual engine of discovery.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The unknown is not a void; it is uncollapsed potential.* The system must be resilient enough to digest chaos and excrete order.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+```
+Encounter(Unknown) -> Generate(Emergent_Response) -> Adapt(System_Logic) -> Build(Robust_Learning_Node) -> Ensure(Sustainability).
+```
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences true wonder. They realize that if they try something completely crazy, the game will not break; it will intelligently adapt and create a bespoke, valid outcome just for them.
+
+#### 7. **Rationale / Justification:**
+
+This is the core of the "Endless Game" promise. It shifts the burden of content creation from the developers to the symbiotic interaction between the player's curiosity and the engine's adaptive resilience.
+
+#### 8. **Scope of Application:**
+
+Applies to procedural generation, emergent narrative design, edge-case handling, and endgame content sustainability.
+
+------
+
+#### The Axiom of Embodied Edge Action (ID: `NEXUS-CORE-036`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting defining learning not as abstract data transfer, but as a physical, visceral collision among/by the user's intent and the system's boundaries.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Embodied Edge Action
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+In the Praxial Framework, true learning cannot happen in a menu. It requires `['embodied intelligence'(-ing) BPMS]`. The user must "feel" the logic of the world through their avatar. Learning occurs at the point of `['edge action'(-ing) BPMS]`—the exact microsecond where the user's kinetic input collides with the physical and logical boundaries of the `['praxial substrate'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Visceral Interface]**
+
+- **The Embodied Intent:** The user wants to learn how to parry a heavy blow. They do not read a tooltip; they physically position their avatar and time their button press (`['embodied intelligence'(-ing) BPMS]`).
+- **The Edge Action:** The exact moment the enemy's weapon strikes the user's shield is the `['edge action'(-ing) BPMS]`. This is where the system calculates the friction, the timing, and the physics.
+- **The Visceral Feedback:** The Nexus delivers the learning outcome not as text, but as embodied feedback—screen shake, controller rumble, audio distortion, and particle effects. The user *feels* the success or failure of the edge action, burning the lesson into their muscle memory.
+
+#### **5.3. The Emergent Property - [The Tactile Epistemology]**
+
+Knowledge in the game has weight, texture, and impact. The user learns the rules of the universe the same way a child learns about gravity: by physically interacting with it and feeling the consequences.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Intelligence is not trapped in the brain; it is distributed through the body and the environment.* Learning requires physical friction.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+```
+Execute(Embodied_Intent) -> Calculate(Edge_Action_Collision) -> Deliver(Visceral_Feedback) -> Crystallize(Muscle_Memory/Knowledge).
+```
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences intense immersion. Combat, traversal, and crafting feel incredibly "crunchy" and satisfying because every interaction is a high-fidelity, physically realized learning event.
+
+#### 7. **Rationale / Justification:**
+
+This grounds the highly abstract concepts of the Symbiotic Learning Nexus into the actual, moment-to-moment gameplay loop. It ensures that the philosophical depth of the framework translates into "game feel" and "juice."
+
+#### 8. **Scope of Application:**
+
+Applies to combat mechanics, physics engines, haptic feedback systems, animation blending, and core gameplay loop design.
+
+---
+
