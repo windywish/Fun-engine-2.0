@@ -1,4 +1,4 @@
-## basic settings: ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Living Logic Engine'(-ing) BPMS]
+## Basic settings: ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Living Logic Engine'(-ing) BPMS]
 
 #### The Axiom of Intent Transduction (Syntax-to-Life Conversion) (ID: `SYNTH-LOGIC-CORE-001`)
 
