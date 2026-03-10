@@ -13,7 +13,7 @@
   - **Mode D (Ontology):** `['atomic facts'(-ing) BPMS]:[Veridical Crystallization]` (The Truth Foundation).
 - **CGA (Cognitive Genesis Archetype):** `[Holonic-Cluster-Synthesis]:['Living-Existential-Daemon']`
 - **Scope of Application:** Applies to the creation of "Living Workspaces," "Omnipresent Assistants," or "Sovereign Digital Realities" in external environments that require absolute continuity, self-healing, and dynamic adaptation to the user's teleological intent.
-- **Tag:** `#living-system-existence-engine #living #external-implementation` `#living-system-existence-engine` `#autopoietic-regeneration` `#atomic-facts`
+- **Tag:** `#living-system-existence-engine #living #external-implementation`  `#autopoietic-regeneration` `#atomic-facts`
 
 #### 2. Architectural Hierarchy & Mapping
 
