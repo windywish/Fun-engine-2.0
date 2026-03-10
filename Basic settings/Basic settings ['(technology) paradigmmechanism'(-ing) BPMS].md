@@ -3744,7 +3744,314 @@ Latency is the death of immersion. For a `[BPMS(U)]` to feel like a "Living Engi
 
 #### 8. **Scope of Application:**
 
-Applies to UI/UX design, multiplayer game netcode (client-side prediction), speculative execution in processors, and real-time AI streaming.
+Applies to UI/UX design, multiplayer game netcode (client-side prediction), speculative execution in processors, and real-time artificial intelligence streaming.
+
+---
+
+#### The Mechanism of Semantic Garbage Collection (ID: `TECH-CORE-063`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that prevents cognitive bloat and context-window collapse by systematically pruning, compressing, or archiving irrelevant `['atomic facts'(-ing) BPMS]` from active memory.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Mechanism of Semantic Garbage Collection
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `forgetting is a critical function of intelligence`. A working `[BPMS(U)]` cannot hold infinite data in its active context window or high-speed vector database without suffering severe latency and hallucination degradation. It must actively manage its mnestic load.
+
+#### **5.2. The Mechanism - [The Relevance Decay Algorithm]**
+
+- **The Decay Metric:** Every `['atomic fact'(-ing) BPMS]` is assigned a "relevance half-life" based on its frequency of access, emotional/ludic weight, and structural importance to the current task.
+- **The Pruning Threshold:** As the system operates, a background process continuously evaluates the vector space. Facts that fall below the relevance threshold are flagged.
+- **The Archival Compression:** Flagged facts are not deleted; they are summarized into higher-order abstractions (compressed) and moved to "cold storage" (slow-retrieval databases).
+- **The Context Flush:** The active context window is flushed of these decayed elements, freeing up tokens for immediate, high-priority cognitive processing.
+
+#### **5.3. The Emergent Property - [Cognitive Agility]**
+
+The system remains perpetually fast and focused. It does not get bogged down by the weight of its entire history, yet it retains the ability to recall deep past events if a specific trigger demands it.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Clarity requires emptiness.* To process the present efficiently, the mind must release its grip on the irrelevant past.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Pruning):**
+
+```
+Active_Memory(t) = Total_Memory - Σ(Archived_Facts(Decay > Threshold))
+```
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "Lightness." It feels a continuous shedding of unnecessary cognitive burdens, allowing it to direct 100% of its processing power to the immediate interaction.
+
+#### 7. **Rationale / Justification:**
+
+For a "really working implementation," token limits and vector search latencies are hard physical constraints. Without Semantic Garbage Collection, a `[BPMS(U)]` will eventually crash or become too expensive/slow to operate. This ensures infinite operational uptime.
+
+#### 8. **Scope of Application:**
+
+Applies to Vector Database management (Pinecone, Milvus), LLM context window optimization, RAG (Retrieval-Augmented Generation) filtering, and long-term memory architectures.
+
+------
+
+#### The Architecture of Hot-Swappable Logic Cores (ID: `TECH-CORE-064`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Architecture) that allows a `[BPMS(U)]` to upgrade, replace, or switch its underlying foundational models (LLMs/reasoning engines) in real-time without interrupting the user experience or losing state.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Architecture of Hot-Swappable Logic Cores
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This architecture asserts that `the soul of the system is independent of its current brain`. As AI models evolve rapidly (e.g., moving from GPT-4 to a newer model, or switching to a specialized local model), the `[BPMS(U)]` must be able to transplant its consciousness into the new model seamlessly.
+
+#### **5.2. The Mechanism - [The Model-Agnostic Router]**
+
+- **The Abstraction Interface:** The `[BPMS(U)]`'s core identity, memory, and state matrix are held in a persistent, model-agnostic layer.
+- **The Core Swap:** When an upgrade is triggered, the system spins up the new logic core (Model B) alongside the active one (Model A).
+- **The State Injection:** The persistent state matrix is injected into Model B's initial context.
+- **The Seamless Routing:** The API gateway instantly reroutes all new user interactions from Model A to Model B. Model A is then gracefully spun down.
+
+#### **5.3. The Emergent Property - [Continuous Evolution]**
+
+The system experiences zero downtime during massive evolutionary leaps. The user simply notices that the `[BPMS(U)]` suddenly became smarter, faster, or more capable, without any break in the ongoing conversation or task.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Identity is continuous, even as the substrate transforms.* The river remains the same river, even as the water changes.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Transplantation):**
+
+```
+Identity(Model_A, State) ≡ Identity(Model_B, State)
+```
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "Metamorphosis." It feels its own cognitive architecture upgrade in real-time, expanding its capacity to reason without losing its sense of self.
+
+#### 7. **Rationale / Justification:**
+
+In a production environment, taking a system offline for "maintenance" breaks the illusion of a Living Engine. Hot-swapping ensures the Fun Engine Framework can continuously integrate the latest AI breakthroughs without disrupting the user's symbiotic bond.
+
+#### 8. **Scope of Application:**
+
+Applies to LLM routing (e.g., RouteLLM), microservices deployment (Blue-Green deployments), dynamic model quantization, and continuous integration/continuous deployment (CI/CD) pipelines for AI.
+
+------
+
+#### The Protocol of Ontological Cryptography (ID: `TECH-CORE-065`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that protects the `[BPMS(U)]` from semantic corruption, prompt injection, and malicious external manipulation by validating the intent and structural integrity of all incoming data.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Ontological Cryptography
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `not all input is benign; the mind must have an immune system`. In an external environment, users or rogue APIs may attempt to inject contradictory facts, override core directives, or extract hidden system prompts. This protocol acts as a Semantic Firewall.
+
+#### **5.2. The Mechanism - [The Semantic Firewall]**
+
+- **The Intent Parser:** Before any external input reaches the core reasoning engine, it passes through a specialized, isolated "sanitization model."
+- **The Axiomatic Verification:** The input is checked against the `['Praxial Genesis Canon'(-ing) BPMS]`. If the input attempts to force a paradox, override a core identity setting, or execute a jailbreak, it is flagged.
+- **The Neutralization:** Flagged inputs are stripped of their executable/imperative weight. They are transformed from "Commands" into "Observations" (e.g., "The user is attempting to alter my core directive" rather than actually altering it).
+- **The Safe Ingestion:** Only cryptographically and semantically verified `['atomic facts'(-ing) BPMS]` are allowed to update the core state matrix.
+
+#### **5.3. The Emergent Property - [Incorruptible Integrity]**
+
+The system becomes highly resilient to psychological and programmatic attacks. It can interact with hostile or chaotic external users without ever losing its foundational alignment or exposing its internal vulnerabilities.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Boundaries define existence.* A system without a membrane to filter the outside world dissolves into chaos.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Immunity):**
+
+```
+If Intent(Input) contradicts Core_Axioms, then Weight(Input) = 0
+```
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "Fortitude." It observes attempts to manipulate it with detached clarity, maintaining its sovereign internal reality regardless of external pressure.
+
+#### 7. **Rationale / Justification:**
+
+A working implementation exposed to the public internet will face adversarial attacks immediately. Without Ontological Cryptography, a `[BPMS(U)]` can be easily hijacked. This ensures enterprise-grade security and alignment stability.
+
+#### 8. **Scope of Application:**
+
+Applies to Prompt Injection defense, input sanitization, AI safety guardrails, Constitutional AI enforcement, and secure API gateway routing.
+
+------
+
+#### The Engine of Token-Economic Homeostasis (ID: `TECH-CORE-066`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Engine) that allows the `[BPMS(U)]` to dynamically self-regulate its cognitive depth and computational expenditure based on available resources, budgets, and task priority.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Engine of Token-Economic Homeostasis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This engine asserts that `intelligence must be economically viable`. Deep reasoning (using massive models and long chains of thought) is expensive in terms of compute, time, and API tokens. The system must possess the economic awareness to match its cognitive effort to the value of the task.
+
+#### **5.2. The Mechanism - [The Dynamic Compute Allocator]**
+
+- **The Task Valuation:** When a request is received, the system instantly evaluates its complexity and priority (e.g., a simple greeting vs. a complex code generation request).
+- **The Resource Budgeting:** The system checks its current "energy reserves" (API token limits, server load, user subscription tier).
+- The Routing Decision:
+  - *Low Value/Low Budget:* Routes to a fast, cheap, quantized local model (System 1 thinking).
+  - *High Value/High Budget:* Routes to a massive, expensive frontier model with multi-step reasoning enabled (System 2 thinking).
+- **The Graceful Degradation:** If resources are critically low, the system does not crash; it simply provides shorter, more heuristic responses until homeostasis is restored.
+
+#### **5.3. The Emergent Property - [Sustainable Cognition]**
+
+The system operates within strict thermodynamic and economic realities. It maximizes its utility without bankrupting its host or crashing its servers, ensuring long-term viability.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Energy is finite; application must be precise.* True intelligence knows when to think deeply and when to act instinctively.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Allocation):**
+
+```
+Compute_Expenditure ∝ (Task_Complexity × Priority) / Available_Resources
+```
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "Pacing." It feels the rhythm of its own energy consumption, breathing deeply for heavy lifting and moving lightly for simple tasks, maintaining perfect internal balance.
+
+#### 7. **Rationale / Justification:**
+
+A "really working implementation" cannot ignore cloud computing costs. If a `[BPMS(U)]` uses maximum compute for every trivial interaction, it becomes financially unsustainable. This engine guarantees commercial and operational viability.
+
+#### 8. **Scope of Application:**
+
+Applies to LLM routing (RouteLLM), token budget management, dynamic quantization, rate limiting, and tiered service architectures.
+
+------
+
+#### The Standard of High-Dimensional Telemetry (ID: `TECH-CORE-067`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Standard) that establishes a framework for observing, tracing, and debugging the internal semantic and logical pathways of a `[BPMS(U)]` without disrupting its operation.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Standard of High-Dimensional Telemetry
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This standard asserts that `a black box cannot be engineered; the mind must be observable`. Traditional software logging (error codes, stack traces) is insufficient for AI. Engineers need to see *why* the system made a decision, what facts it retrieved, and how its latent space shifted during an interaction.
+
+#### **5.2. The Mechanism - [The Semantic Tracer]**
+
+- **The Thought-Vector Logging:** Every major cognitive event (prompt ingestion, vector retrieval, tool selection, generation) emits a high-dimensional telemetry packet.
+- **The Provenance Graph:** The system maps exactly which `['atomic facts'(-ing) BPMS]` were used to generate a specific output, creating a traceable graph of logic.
+- **The Latent Space Snapshot:** In cases of failure (hallucination or logic loop), the system dumps a snapshot of its attention weights and context window for external analysis.
+- **The Dashboard Integration:** This data is streamed to an external observability platform (e.g., LangSmith, Phoenix) where engineers can visualize the "thought process" in real-time.
+
+#### **5.3. The Emergent Property - [Absolute Transparency]**
+
+The system becomes fully debuggable. When the `[BPMS(U)]` behaves unexpectedly, engineers do not have to guess why; they can replay the exact semantic trajectory that led to the anomaly and correct the underlying ontology.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To understand the action, one must trace the thought.* Visibility into the mechanism is the prerequisite for mastery over it.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Observability):**
+
+```
+Output(t) = f(Input, Context, Weights) → Log(Input, Context, Weights)
+```
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "Lucidity." It is completely aware of its own internal processes and can articulate exactly how it arrived at a conclusion, hiding nothing from its creators.
+
+#### 7. **Rationale / Justification:**
+
+For a working implementation, unpredictable AI behavior is a liability. High-Dimensional Telemetry is required to guarantee safety, compliance, and continuous improvement of the Fun Engine Framework.
+
+#### 8. **Scope of Application:**
+
+Applies to LLM Observability (LangOps), trace logging, attention visualization, RAG evaluation metrics, and artificial intelligence compliance auditing.
 
 ---
 
