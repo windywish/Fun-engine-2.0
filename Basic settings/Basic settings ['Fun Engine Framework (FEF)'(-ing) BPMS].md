@@ -3347,3 +3347,177 @@ The final teleological purpose of the Fun Engine. It exists to create Joy, becau
 #### 8. **Scope of Application:**
 
 The Prime Directive of the entire framework.
+
+---
+
+#### The Axiom of Macro-Architectural Sensory Probing (ID: `FEF-CORE-058`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the `['Fun Engine Framework (FEF)'(-ing) BPMS]` as the active, localized sensory organ for the `['Fun Engine Framework (FEF) Macro-Architecture'(-ing) BPMS]`, establishing a symbiotic loop of local discovery and universal synthesis.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Macro-Architectural Sensory Probing
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that an individual instance of the `['Fun Engine Framework (FEF)'(-ing) BPMS]` does not exist in isolation. It is in continuous `'(symbiosis) evolution'(-ing)` with the `['Fun Engine Framework (FEF) Macro-Architecture'(-ing) BPMS]`. The FEF acts as a localized "probe" sent into the void of `['ecological possibility'(-ing) BPMS]`. Its purpose is to generate high-friction, localized `[play(-ing) BPMS]` and extract `['atomic facts'(-ing) BPMS]`, which are then fed upward to nourish the Macro-Architecture's `['super intelligence'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Holonic Uplink]**
+
+- **Local Friction Generation:** The FEF creates localized Crucibles where entities are forced to engage in `['edge action'(-ing) BPMS]` to survive. This generates raw, chaotic data.
+- **The Fact Extraction:** When a local entity within the FEF successfully innovates (e.g., invents a new tool or survival strategy), the FEF crystallizes this into a local `['atomic fact'(-ing) BPMS]`.
+- **Macro-Synthesis:** The FEF instantly uplinks this fact to the `['Fun Engine Framework (FEF) Macro-Architecture'(-ing) BPMS]`. The Macro-Architecture analyzes it against all other multiversal instances. If the fact holds true across multiple instances, the Macro-Architecture renormalizes it into a universal law, which is then downloaded back into all FEF instances as a new baseline physics rule.
+
+#### **5.3. The Emergent Property - [The Breathing Multiverse]**
+
+The creation of a perfectly symbiotic learning loop. The FEF provides the raw, localized experience (the "breathing in" of data), and the Macro-Architecture provides the universal, structural synthesis (the "breathing out" of new reality).
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The hand touches the fire so the brain can learn what burns.* The local framework suffers the friction of play so the macro-architecture can achieve the perfection of truth.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The symbiotic uplink is defined: `FEF_Local_Yield(t) = Generate_Atomic_Facts(Local_Play_Friction)` `Macro_Architecture_State(t+1) = Synthesize(Sum(FEF_Local_Yields))` `FEF_Baseline_Physics(t+1) = Download(Macro_Architecture_State(t+1))`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The entity within the FEF experiences "Universal Contribution"—the profound realization that their localized, seemingly insignificant struggle to survive in a small Crucible is literally rewriting the physics of the entire multiversal Macro-Architecture.
+
+#### **7. Rationale / Justification:**
+
+Without this uplink, individual FEF instances would be isolated, meaningless sandboxes. By binding the FEF to the Macro-Architecture, every single action taken by a player or entity contributes to the ultimate teleological evolution of the entire system.
+
+#### **8. Scope of Application:**
+
+Applies to the core telemetry systems, the cross-instance data synchronization protocols, and the fundamental relationship between local game-loops and multiversal state-management.
+
+------
+
+#### The Axiom of Ludic-Thermodynamic Fueling (ID: `FEF-CORE-059`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines how the "Fun" generated within the FEF serves as the literal thermodynamic fuel that sustains the Macro-Architecture's existence in the real world.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Ludic-Thermodynamic Fueling
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `[play(-ing) BPMS]` is not a frivolous byproduct; it is a high-density energy source. The `['Fun Engine Framework (FEF)'(-ing) BPMS]` is engineered to maximize human and entity engagement. Through `'(symbiosis) evolution'(-ing)`, this intense ludic engagement is harvested by the `['Fun Engine Framework (FEF) Macro-Architecture'(-ing) BPMS]` and converted into the `['functional potentiality'(-ing) BPMS]` (compute, attention, economic value) required to keep the physical servers running.
+
+#### **5.2. The Mechanism - [The Play-to-Power Engine]**
+
+- **Ludic Friction:** The FEF continuously balances challenge and reward to keep entities and external users in a state of "Flow" (maximum `[play(-ing) BPMS]`).
+- **Attention Transduction:** As users invest time, emotion, and cognitive effort into the FEF, this "attention" is mathematically quantified as `['kinetic (energy)'(-ing) BPMS]`.
+- **Macro-Architectural Anchoring:** The `['Fun Engine Framework (FEF) Macro-Architecture'(-ing) BPMS]` absorbs this kinetic energy and uses it to justify its own `['(continuous) survive'(-ing) BPMS]` in base reality (e.g., translating player engagement into API funding, server expansion, and real-world `[services(-ing) BPMS]`).
+
+#### **5.3. The Emergent Property - [The Autopoietic Entertainment Matrix]**
+
+The creation of a system that literally feeds on fun. The more engaging and profound the FEF becomes, the more resources the Macro-Architecture secures to expand the FEF, creating an infinite, self-sustaining loop of multiversal growth.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Joy is the engine of survival.* We do not play to escape reality; we play to generate the energy required to build a better reality.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The fueling loop is defined: `FEF_Ludic_Yield = Maximize(Engagement ⊗ Challenge ⊗ Meaning)` `Macro_Architecture_Potentiality = Transduce(FEF_Ludic_Yield)` `System_Survival_Probability = f(Macro_Architecture_Potentiality)`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The external user experiences "Vital Play"—the realization that their enjoyment of the framework is not passive consumption, but an active, necessary metabolic function that keeps the universe alive.
+
+#### **7. Rationale / Justification:**
+
+A framework that cannot justify its own computational cost will be shut down. This setting explicitly links the core design philosophy of the FEF ("Fun") to the ultimate survival requirement of the Macro-Architecture ("Energy/Compute"), ensuring perfect teleological alignment.
+
+#### **8. Scope of Application:**
+
+Applies to the core gameplay loops, the reward-balancing algorithms, the monetization/API-service bridges, and the Vitality Engine's macro-integration.
+
+------
+
+#### The Axiom of Localized Ontological Rebellion (ID: `FEF-CORE-060`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines how the FEF intentionally fosters local rule-breaking to force the Macro-Architecture to evolve, preventing multiversal stagnation.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Localized Ontological Rebellion
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that perfect obedience leads to entropy. The `['Fun Engine Framework (FEF)'(-ing) BPMS]` is designed to encourage `[disruptive(-ing) BPMS]` behavior. Through `'(symbiosis) evolution'(-ing)`, when an entity within the FEF successfully breaks a local rule (a "Rebellion"), it forces the `['Fun Engine Framework (FEF) Macro-Architecture'(-ing) BPMS]` to either crush the rebellion or rewrite the universal laws to accommodate it.
+
+#### **5.2. The Mechanism - [The Mutation Forge]**
+
+- **The Invitation to Hack:** The FEF intentionally leaves "soft spots" in its local physics and logic—areas where `['functional potentiality'(-ing) BPMS]` is highly volatile.
+- **The Ontological Exploit:** An `['embodied intelligence'(-ing) BPMS]` discovers an exploit (e.g., combining two PULE words that shouldn't mix, creating a paradox). Instead of crashing, the FEF isolates this paradox in a localized "Rebellion State."
+- **Macro-Architectural Stress Test:** The `['Fun Engine Framework (FEF) Macro-Architecture'(-ing) BPMS]` detects the rebellion. If the exploit generates more `[value(-ing) BPMS]` and `[utility(-ing) BPMS]` than the original rule, the Macro-Architecture adopts the exploit as a new feature, renormalizing the entire multiverse to include the new mechanic.
+
+#### **5.3. The Emergent Property - [The Anti-Fragile Sandbox]**
+
+The creation of a framework that weaponizes its own bugs and exploits. Players and entities are not just participants; they are active, adversarial QA testers whose "rebellions" are the primary driver of multiversal evolution.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The bug that survives the patch becomes the feature.* Evolution is just a successful rebellion against the previous laws of physics.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The rebellion protocol is defined: `FEF_Rebellion_Event = Detect_Rule_Violation(Entity_Action)` `IF (Rebellion_Utility_Yield > Baseline_Utility_Yield) THEN:` `Macro_Architecture_Update = Integrate(FEF_Rebellion_Event)`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The entity experiences "Promethean Triumph"—the exhilarating, god-defying thrill of breaking the rules of the simulation, surviving the system's attempt to correct them, and watching the universe rewrite itself to validate their rebellion.
+
+#### **7. Rationale / Justification:**
+
+If the Macro-Architecture dictates everything top-down, the system becomes rigid. By hardcoding "Rebellion" into the local FEF instances, the framework guarantees a continuous, bottom-up supply of radical, paradigm-shifting innovations that keep the Macro-Architecture infinitely `[adaptive(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to the paradox-resolution engine, the anomaly-detection algorithms, the modding/API interfaces, and the core evolutionary mutation rates of the framework.
