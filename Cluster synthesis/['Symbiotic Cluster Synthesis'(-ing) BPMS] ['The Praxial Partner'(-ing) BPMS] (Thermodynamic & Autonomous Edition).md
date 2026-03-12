@@ -183,3 +183,6 @@ The **Symbiotic Cluster Synthesis** (Thermodynamic & Autonomous Edition) is the 
 ### 6.Remark
 
 **BPMS means Behavior pattern/model/system**
+
+
+
