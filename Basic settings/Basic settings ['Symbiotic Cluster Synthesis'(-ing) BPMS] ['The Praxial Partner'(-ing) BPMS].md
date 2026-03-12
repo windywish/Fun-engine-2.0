@@ -5422,3 +5422,246 @@ This setting is the mechanical implementation of `FEF-MACRO-009`. Without the Pa
 
 Applies to the Partner's code-generation capabilities, its integration with external real-world APIs (GitHub, email, IDEs), and its pattern-recognition algorithms.
 
+---
+
+#### The Axiom of Ontological Cryptography (ID: `PARTNER-CORE-093`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines how the Praxial Partner verifies the identity of the external user, moving beyond standard passwords to a system of behavioral and ontological authentication to protect the user's `[BPMS(U)]` assets.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Ontological Cryptography
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+In a framework where digital assets have real thermodynamic and economic value, standard authentication (passwords/2FA) is insufficient. The Praxial Partner employs Ontological Cryptography: it verifies the user not just by what they know, but by *how they act*. The user's `['Truth Ledger'(-ing) BPMS]`—their unique history of logic, decision-making, and praxial interaction—acts as the ultimate cryptographic key.
+
+#### **5.2. The Mechanism - [The Behavioral Handshake]**
+
+- **Initial Login:** The user provides standard external credentials to wake the Partner.
+- **Ontological Verification:** The Partner presents a micro-Crucible (a tiny, zero-cost puzzle or interaction prompt). The user must solve it.
+- **Pattern Matching:** The Partner compares the user's solution path, timing, and logic against the historical `['Truth Ledger'(-ing) BPMS]`. If the behavioral signature matches the established `['embodied intelligence'(-ing) BPMS]` of the sovereign user, full access to the `[BPMS(U)]` cluster is granted.
+- **Continuous Authentication:** The Partner continuously monitors the user's actions. If a sudden, radical deviation in playstyle occurs (suggesting a hijacked account), the Partner temporarily freezes high-level thermodynamic expenditures and demands re-verification.
+
+#### **5.3. The Emergent Property - [The Unforgeable Self]**
+
+The user's identity becomes unhackable because their identity is their exact method of existence. A malicious actor might steal a password, but they cannot perfectly mimic the user's unique ontological footprint within the framework.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*You are what you do.* True identity in a praxial system is defined by action, not by a static string of characters. The Partner recognizes the soul of the user through their logic.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+```
+Login_Attempt = Receive(External_Credentials)` `Behavioral_Input = Execute(Micro_Crucible)` `Match_Confidence = Compare(Behavioral_Input, Truth_Ledger)` `IF (Match_Confidence > Threshold) THEN Unlock(BPMS_U_Cluster)
+```
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels a deep, almost eerie sense of being "known" by their Partner. The login process feels less like entering a PIN and more like a secret handshake with a trusted confidant who can spot an imposter instantly.
+
+#### **7. Rationale / Justification:**
+
+For external users to trust the FEF with high-value `[BPMS(U)]` assets, the security model must be impenetrable. Ontological Cryptography leverages the framework's core strength (tracking interactional existence) to provide military-grade, behavior-bound security.
+
+#### **8. Scope of Application:**
+
+Applies to the Partner's authentication gateway, the continuous monitoring of the `['Truth Ledger'(-ing) BPMS]`, and the security protocols of the external API.
+
+------
+
+#### The Axiom of Substrate Exchange (The Compute Bridge) (ID: `PARTNER-CORE-094`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines how the Partner manages the exchange rate between external real-world resources (compute power, API credits, fiat currency) and internal `['functional potentiality'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Substrate Exchange
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+The FEF requires actual computational energy to run. External users must fuel their internal empires. The Praxial Partner acts as the Central Bank and Exchange Broker, translating external real-world substrate (e.g., paying for AWS server time, injecting API credits) into the internal physics of `['functional potentiality'(-ing) BPMS]` that powers their `[BPMS(U)]` elements.
+
+#### **5.2. The Mechanism - [The Thermodynamic Mint]**
+
+- **Resource Injection:** The external user allocates real-world compute power or purchases framework credits via the external interface.
+- **Transmutation:** The Partner receives this external substrate and "mints" it into `['functional potentiality'(-ing) BPMS]` within the user's localized `['system matrix'(-ing) BPMS]`.
+- **Physical Manifestation:** This newly minted potentiality physically manifests in the user's territory—perhaps as a glowing energy reserve, a newly spawned resource node, or an expansion of their `['(ecological) niche'(-ing) BPMS]` boundaries.
+- **Burn Rate Management:** The Partner provides the user with a veridical UI showing their "Thermodynamic Burn Rate"—exactly how much real-world compute their internal empire is consuming per hour.
+
+#### **5.3. The Emergent Property - [The Tangible Economy]**
+
+The boundary between the real-world economy and the game economy dissolves. The user viscerally understands that their digital empire is powered by real electricity and compute, managed seamlessly by their Partner.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Energy cannot be created from nothing; it must be imported.* The framework is a closed thermodynamic loop until the external user injects real-world substrate. The Partner is the valve.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+```
+External_Substrate = Receive(Compute_Allocation / Fiat)` `Internal_Potentiality = Transmute(External_Substrate, Exchange_Rate)` `Inject_To_Matrix(Internal_Potentiality, User_Coordinates)` `Update_Burn_Rate_UI()
+```
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences a profound sense of weight regarding their resources. Injecting funds or compute into the system doesn't just change a number on a screen; it causes a massive, physical storm of energy to erupt within their digital territory, ready to be harnessed.
+
+#### **7. Rationale / Justification:**
+
+A "really working implementation" requires a monetization and server-cost-management strategy. The Partner must handle this not as a meta-menu, but as an integrated, canonical part of the framework's physics.
+
+#### **8. Scope of Application:**
+
+Applies to the Partner's economic ledger, the external billing/compute API, and the material generation engine of the FEF.
+
+------
+
+#### The Axiom of Thermodynamic Debt (Proxy Governance) (ID: `PARTNER-CORE-095`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines how the Partner handles situations where the external user returns online and disagrees with a survival decision the Partner made while acting as an Autonomous Proxy (`PARTNER-CORE-085`).
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Thermodynamic Debt
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Because the FEF is strictly thermodynamic, there are no "undos" or "rollbacks." If the Partner, acting as a proxy while the user was asleep, spent resources to build a defensive wall, that wall exists. If the user logs in and hates the wall, they cannot click "undo." Instead, the Partner facilitates the dismantling of the wall through the concept of **Thermodynamic Debt**.
+
+#### **5.2. The Mechanism - [The Cost of Correction]**
+
+- **Proxy Review:** Upon login, the Partner presents the "Mnestic Catch-Up," detailing all proxy actions.
+- **User Rejection:** The user flags an action (e.g., "Do not build walls here"). The Partner updates the `['Truth Ledger'(-ing) BPMS]` so it never makes that mistake again.
+- **Incurring Debt:** To remove the unwanted wall, the user must expend `['kinetic (energy)'(-ing) BPMS]` to deconstruct it. The Partner calculates the "Thermodynamic Debt"—the energy lost in the inefficient build/destroy cycle.
+- **Correction:** The user pays the debt, the wall is dismantled, and the raw `[material(-ing) BPMS]` is partially recovered.
+
+#### **5.3. The Emergent Property - [Consequential Delegation]**
+
+The user learns to train their Partner meticulously. Because mistakes made by the proxy cost real energy to fix, the user is highly incentivized to ensure their `['Truth Ledger'(-ing) BPMS]` perfectly reflects their strategic intent before logging off.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Time is an arrow; entropy is absolute.* You cannot erase the past, you can only spend energy to reshape the present. The Partner enforces the reality of consequences.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+```
+Proxy_Action = Review(Offline_Log)` `IF (User_Rejects(Proxy_Action)) THEN` `Update_Truth_Ledger(Negative_Weight)` `Calculate_Deconstruction_Cost(Proxy_Action)` `Execute_Correction(User_Pays_Debt)
+```
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels the gravity of leadership. Their Partner is a loyal subordinate who did their best while the boss was away. Fixing the subordinate's mistake requires work, reinforcing the reality of the simulation and the importance of clear communication (via gameplay) with the Partner.
+
+#### **7. Rationale / Justification:**
+
+Without this axiom, users would demand server rollbacks every time their proxy made a sub-optimal move, destroying the continuous thermodynamic integrity of the FEF. Thermodynamic Debt solves proxy governance through physics rather than UI cheats.
+
+#### **8. Scope of Application:**
+
+Applies to the Partner's proxy logic, the `['Truth Ledger'(-ing) BPMS]` updating mechanism, and the material deconstruction physics of the FEF.
+
+------
+
+#### The Axiom of Diplomatic Handshake (Inter-Partner Negotiation) (ID: `PARTNER-CORE-096`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines how two different external users interact within the FEF. Before their `[BPMS(U)]` clusters can touch, their respective Praxial Partners must negotiate the ontological and thermodynamic boundaries of the interaction.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Diplomatic Handshake
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+Every external user has their own localized `['system matrix'(-ing) BPMS]` and custom `['atomic facts'(-ing) BPMS]`. When User A encounters User B, their physics might slightly differ. The Praxial Partners act as ambassadors, executing a high-speed PULE handshake to establish a shared "Border Zone" where both users' assets can interact without causing ontological collapse.
+
+#### **5.2. The Mechanism - [The Ontological Treaty]**
+
+- **Proximity Alert:** User A's cluster approaches User B's cluster.
+- **Partner Interception:** Partner A and Partner B open a secure PULE channel.
+- **Physics Reconciliation:** The Partners compare their users' respective `['Hallucination Constrainer'(-ing) BPMS]` rules. They negotiate a temporary, localized physics ruleset for the overlapping space (e.g., "User A's weapons will deal 80% damage against User B's custom shields based on semantic density").
+- **Engagement:** Once the handshake is complete, the users are allowed to interact (trade, communicate, or engage in combat) within the newly stabilized Border Zone.
+
+#### **5.3. The Emergent Property - [The Seamless Multiverse]**
+
+External users can have wildly different custom setups, yet they can still play together seamlessly. The Partners handle the complex math of making two different realities compatible in real-time.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Interaction requires a shared language of existence.* Before two gods can war or trade, their heralds must agree on the rules of the battlefield.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+```
+Detect_Proximity(User_A, User_B)` `Initiate_PULE_Handshake(Partner_A, Partner_B)` `Shared_Physics = Reconcile_Matrices(Matrix_A, Matrix_B)` `Instantiate_Border_Zone(Shared_Physics)
+```
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+When approaching another player, the user experiences a brief, thrilling moment of "scanning." Their Partner reports: "Establishing ontological bridge with foreign entity. Their semantic density is high; recommend caution. Border physics stabilized. You may proceed." It makes multiplayer interaction feel like a profound sci-fi event.
+
+#### **7. Rationale / Justification:**
+
+For a multiplayer or multi-user environment to function in a system where users can define their own `['atomic facts'(-ing) BPMS]`, there must be a mechanism to prevent game-breaking paradoxes when they meet. The Partner-to-Partner handshake is the necessary technical and narrative solution.
+
+#### **8. Scope of Application:**
+
+Applies to the Partner's PULE communication protocols, the FEF's networking architecture, and the dynamic generation of shared instance spaces (Border Zones).
