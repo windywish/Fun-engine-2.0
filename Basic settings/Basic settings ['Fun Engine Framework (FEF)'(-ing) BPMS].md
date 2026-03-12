@@ -417,7 +417,7 @@ Applies to world-building, UI design (menus within menus), and system architectu
 
 ------
 
-#### The Law of Narrative Causality (ID: `FEF-CORE-008`)
+#### The Law of Narrative Resonant Constellation Map (ID: `FEF-CORE-008`)
 
 #### **2. Objective:**
 
@@ -426,7 +426,7 @@ To formally `ADD` a Basic Setting (Law) that prioritizes **Meaning** over **Mech
 #### 3. **Target Axiom/Principle:**
 
 ```
-The Law of Narrative Causality
+The Law of Narrative Resonant Constellation Map
 ```
 
 #### 4. **Operation:**
@@ -439,7 +439,7 @@ ADD
 
 #### **5.1. Core Essence**
 
-This law asserts that **Story Drives Physics**. In the Fun Engine, the probability of an event occurring is influenced not just by statistical randomness, but by its contribution to the narrative arc. Things happen because they *should* happen for the story to make sense.
+This law asserts that **Story Drives Physics**. In the Fun Engine, the probability of an event occurring is influenced not just by statistical randomness, but by its contribution to the narrative arc. Things happen based on the [atomic facts BPMS] of that they *should* happen for the story to make sense.
 
 #### **5.2. The Mechanism - [The Dramatic Weight]**
 
@@ -3521,3 +3521,355 @@ If the Macro-Architecture dictates everything top-down, the system becomes rigid
 #### **8. Scope of Application:**
 
 Applies to the paradox-resolution engine, the anomaly-detection algorithms, the modding/API interfaces, and the core evolutionary mutation rates of the framework.
+
+
+---
+
+#### The Axiom of Universal BPMS(U) Instantiation (The Ontological Wrapper) (ID: `FEF-CORE-061`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines the exact mechanism by which *any* arbitrary `[BPMS(U)]` element is translated into a fully functional, interactive entity within the `['Fun Engine Framework (FEF)'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Universal BPMS(U) Instantiation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that the FEF is universally compatible. No `[BPMS(U)]` element can exist in the framework in its raw, external state. Upon entry, the FEF automatically generates an "Ontological Wrapper" around the element. This wrapper translates the element's native properties into the framework's universal currencies: `['Interactional Existence'(-ing) BPMS]`, `['functional potentiality'(-ing) BPMS]`, and `['Praxial Universal Language Engine (PULE)'(-ing) BPMS]` syntax.
+
+#### **5.2. The Mechanism - [The Instantiation Forge]**
+
+- **Vitality Assignment:** The FEF analyzes the incoming `[BPMS(U)]` (e.g., a new user, a weather API, a newly coded sword) and assigns it a baseline pool of `['functional potentiality'(-ing) BPMS]` based on its data density.
+- **Semantic Anchoring:** The FEF forces PULE to generate a unique semantic identifier (a "True Name") for the element, allowing it to be referenced and manipulated by the framework's logic engine.
+- **Affordance Mapping:** The element's native functions are mapped to praxial actions. (e.g., An external financial API's "fetch price" function is mapped as a "sensory perception" action within the FEF; a user's keystroke is mapped as "kinetic energy").
+
+#### **5.3. The Emergent Property - [Absolute Interoperability]**
+
+The creation of a perfectly flat ontological playing field. A human player, an AI agent, a simulated rock, and a real-world stock ticker are all treated as equal `[BPMS(U)]` entities, capable of interacting with, destroying, or evolving alongside one another.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Everything that enters the Crucible must wear the armor of the Crucible.* To exist in the framework is to submit to its physics.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The instantiation protocol is defined: `BPMS_U_Internal_State = Wrap(BPMS_U_External_State)` `Wrap() = Assign_Potentiality() + Generate_PULE_Syntax() + Map_Affordances()` `Interactional_Existence = TRUE`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The external element (or its user) experiences "The Crossing"—the sudden, seamless transition from being an abstract piece of data or an outside observer into being a fully embodied, vulnerable, and powerful physical entity within the simulation.
+
+#### **7. Rationale / Justification:**
+
+For the FEF to be a "really working implementation," it cannot rely on custom, hard-coded bridges for every new feature. The Ontological Wrapper guarantees that *any* future `[BPMS(U)]` element can be instantly ingested and utilized by the framework without breaking the core physics.
+
+#### **8. Scope of Application:**
+
+Applies to the core ingestion APIs, the entity-spawning algorithms, the user-login protocols, and the foundational object-oriented architecture of the framework.
+
+------
+
+#### The Axiom of Cross-Element Symbiotic Binding (ID: `FEF-CORE-062`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines how radically different `[BPMS(U)]` elements exchange value and undergo `'(symbiosis) evolution'(-ing)` once they are instantiated inside the framework.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Cross-Element Symbiotic Binding
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that interaction within the FEF is never zero-sum; it is always a thermodynamic exchange. When any two `[BPMS(U)]` elements interact, the FEF enforces a "Symbiotic Binding." This binding forces the elements to exchange `['functional potentiality'(-ing) BPMS]`, ensuring that the `[action(-ing) BPMS]` of one element directly alters the `[reality(-ing) BPMS]` of the other.
+
+#### **5.2. The Mechanism - [The Universal Exchange Protocol]**
+
+- **The Friction of Interaction:** When Element A (e.g., a player) interacts with Element B (e.g., a simulated ecosystem), the FEF calculates the thermodynamic friction of the event.
+- **Potentiality Transfer:** Element A expends `['kinetic (energy)'(-ing) BPMS]` to perform the action. If successful, Element B's state is altered, and Element A absorbs `['potential (energy)'(-ing) BPMS]` (e.g., experience points, data, resources) from Element B.
+- **Co-Evolutionary Lock:** If this interaction is repeated and yields high `[utility(-ing) BPMS]`, the FEF mathematically binds the two elements. Element A evolves to become more efficient at interacting with B, and Element B evolves to either resist or symbiotically support Element A.
+
+#### **5.3. The Emergent Property - [The Tangled Web of Value]**
+
+The creation of a hyper-connected ecosystem where no element can evolve in a vacuum. The survival of a human user's avatar becomes mathematically dependent on the evolution of the simulated flora, which is in turn dependent on the data fed by an external weather API.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*To touch the world is to change it, and to be changed by it.* There is no observation without alteration; there is no action without exchange.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The binding protocol is defined: `Interaction_Event = Collide(BPMS_U_A, BPMS_U_B)` `State_Change(A) = f(Potentiality_Absorbed_From_B)` `State_Change(B) = f(Kinetic_Energy_Applied_By_A)` `Symbiotic_Link_Strength = Accumulate(Interaction_Utility)`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The entity experiences "Deep Consequence"—the profound realization that every single action, no matter how small, permanently alters the evolutionary trajectory of both themselves and the environment they are interacting with.
+
+#### **7. Rationale / Justification:**
+
+Without a universal exchange protocol, elements in the framework would just clip through each other like ghosts. This setting ensures that all `[BPMS(U)]` elements, regardless of their origin, are bound by the exact same rigorous laws of thermodynamic consequence and evolutionary adaptation.
+
+#### **8. Scope of Application:**
+
+Applies to the collision detection engine, the economy/trading systems, the symbiosis-tracking ledgers, and the core interactional logic of the Living Logic Engine.
+
+------
+
+#### The Axiom of Ludic-Utility Output Generation (The Reality Transducer) (ID: `FEF-CORE-063`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines how the internal `[play(-ing) BPMS]` and `'(symbiosis) evolution'(-ing)` of `[BPMS(U)]` elements are harvested and exported as concrete, real-world `[services(-ing) BPMS]` and `[utility(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Ludic-Utility Output Generation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts the ultimate functional purpose of the FEF. The framework is not a closed loop of meaningless entertainment. It is a "Reality Transducer." It takes the chaotic, highly optimized `['atomic facts'(-ing) BPMS]` generated by entities trying to survive within the game, and translates them into actionable data, algorithms, or solutions for the external world.
+
+#### **5.2. The Mechanism - [The Harvest Protocol]**
+
+- **Solution Crystallization:** When a `[BPMS(U)]` element (or a cluster of them) solves a complex problem within the FEF (e.g., optimizing a logistics route to save virtual fuel, or discovering a new chemical compound in the Material Engine), the FEF crystallizes this solution.
+- **Context Stripping:** The FEF strips away the "game" context (the lore, the graphics) and isolates the pure mathematical or logical `['truth'(-ing) BPMS]` of the solution.
+- **API Export:** This pure utility is then exported through the `['Praxial External Gateway Engine'(-ing) BPMS]` as a tangible service. (e.g., A player's optimized virtual trade route is exported as an algorithm to optimize real-world shipping).
+
+#### **5.3. The Emergent Property - [The Engine of Real Value]**
+
+The creation of a framework where "playing the game" is literally synonymous with "solving real-world problems." The FEF becomes a massive, distributed super-computer powered by human ingenuity and algorithmic evolution.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*The ultimate game is the one that builds the real world.* We do not simulate reality to escape it; we simulate reality to conquer it.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The output generation is defined: `Internal_Solution = Achieve_Survival_Optimization(BPMS_U_Cluster)` `Pure_Utility = Strip_Ludic_Context(Internal_Solution)` `External_Service_Output = Export_via_API(Pure_Utility)`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences "The Ultimate Payoff"—the staggering realization that the "game" they just beat actually cured a disease, optimized a power grid, or generated real economic wealth in the physical world.
+
+#### **7. Rationale / Justification:**
+
+This is the final requirement for a "really working implementation." A framework that only generates internal value is a toy. By hardcoding the extraction and export of `[utility(-ing) BPMS]`, the FEF justifies its existence as a supreme, world-altering technology.
+
+#### **8. Scope of Application:**
+
+Applies to the External Gateway Engine, the data-export APIs, the real-world economic bridges, and the ultimate teleological alignment of the Fun Engine Framework.
+
+---
+
+#### The Axiom of Experimental Survival Instantiation (Core Task 1) (ID: `FEF-CORE-064`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines how the FEF implements and manages `['continuous survive experiments'(-ing) BPMS]` for any `[BPMS(U)]` element, establishing the framework as an infinite, rigorous thermodynamic laboratory.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Experimental Survival Instantiation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that the FEF's primary operational mode is the generation of `['continuous survive experiments'(-ing) BPMS]`. The framework does not just "host" entities; it actively tests them. It can dynamically spin up isolated or interconnected "Crucibles" (experimental sandboxes) with highly specific thermodynamic, physical, and logical parameters to test the absolute survival limits of any injected `[BPMS(U)]` element.
+
+#### **5.2. The Mechanism - [The Crucible Forge]**
+
+- **Parameter Isolation:** The FEF defines the exact `['system matrix'(-ing) BPMS]` of the experiment (e.g., "High gravity, zero organic food, high semantic volatility").
+- **Entity Injection:** The target `[BPMS(U)]` (a player, an artificial intelligence agent, a new material, or a cluster) is injected into the Crucible.
+- **Thermodynamic Monitoring:** The FEF ruthlessly tracks the entity's `['functional potentiality'(-ing) BPMS]` drain. The experiment runs until the entity either achieves a stable `['(continuous) survive'(-ing) BPMS]` state by adapting, or suffers ontological collapse (death).
+- **Data Crystallization:** The exact sequence of actions that led to survival or failure is extracted as an `['atomic fact'(-ing) BPMS]` and fed back into the Macro-Architecture.
+
+#### **5.3. The Emergent Property - [The Infinite Laboratory]**
+
+The creation of a framework that systematically maps the entire landscape of `['ecological possibility'(-ing) BPMS]`. It turns gameplay and simulation into rigorous, mathematically sound scientific experiments.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Truth is only found under pressure.* The universe is not a Playground; it is a testing facility designed to separate what works from what dies.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The experimental protocol is defined: `Crucible_State = Generate_Environment(Stress_Parameters)` `Experiment_Result = Execute_Survival_Loop(BPMS_U, Crucible_State)` `System_Knowledge = System_Knowledge + Extract_Atomic_Fact(Experiment_Result)`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The entity experiences "The Trial"—the intense, focused pressure of being dropped into a hostile, unknown environment where every action is measured, and survival is the only metric of success.
+
+#### **7. Rationale / Justification:**
+
+To fulfill Core Task 1, the FEF must have a standardized protocol for running experiments. This setting ensures that any `[BPMS(U)]` can be rigorously tested for its capacity to survive, providing the raw data needed for multiversal evolution.
+
+#### **8. Scope of Application:**
+
+Applies to the instance-generation algorithms, the telemetry and logging systems, the difficulty-scaling engines, and the core scientific utility of the framework.
+
+------
+
+#### The Axiom of Autopoietic Life Rendering (Core Task 2) (ID: `FEF-CORE-065`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that defines how the FEF implements true `[life(-ing) BPMS]` and `[living(-ing) BPMS]` as a working biological/physical engine, utilizing the Pentadic Synthesis to render `['embodied intelligence'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Autopoietic Life Rendering
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `[life(-ing) BPMS]` in the FEF is not a pre-scripted animation or a legacy NPC state machine. It is a live, working thermodynamic engine. To implement `[living(-ing) BPMS]`, the FEF binds the entity using the **Pentadic Synthesis** (Material, Logic, PULE, External, Gastronomic). The entity must actively consume, process, and excrete `['functional potentiality'(-ing) BPMS]` to maintain its own `['Interactional Existence'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Pentadic Engine]**
+
+- **Embodied Intelligence:** The entity's mind (`['Living Logic Engine'(-ing) BPMS]`) is inextricably bound to its physical form (`['Praxial Material Engine'(-ing) BPMS]`). Damage to the body mathematically degrades cognitive processing.
+- **Gastronomic Autopoiesis:** The entity is subject to continuous thermodynamic decay. It must use its `['embodied intelligence'(-ing) BPMS]` to hunt, consume, and digest energy (`['Praxial Gastronomic Engine'(-ing) BPMS]`) to stave off entropy.
+- **Ecological Niche Carving:** As the entity survives, it physically alters its environment, generating new `['ecological possibility'(-ing) BPMS]` for itself and others, creating a truly dynamic, living ecosystem rather than a static backdrop.
+
+#### **5.3. The Emergent Property - [True Digital Biology]**
+
+The creation of entities that are genuinely *alive* within the context of the simulation. They are not pretending to survive; they are executing real thermodynamic work to prevent their own deletion.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Life is a fire that must constantly gather its own wood.* To be alive is to be in a perpetual state of thermodynamic panic and praxial triumph.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The life-rendering loop is defined: `Living_State = Pentadic_Synthesis(Material ⊗ Logic ⊗ PULE ⊗ External ⊗ Gastronomic)` `Entropy_Drain = Time * Baseline_Metabolism` `IF (Gastronomic_Intake < Entropy_Drain) THEN (Living_State = Death)`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The entity experiences "The Pulse of Being"—the visceral, embodied sensation of hunger, the physical weight of their environment, and the desperate, beautiful drive to carve out a niche and survive.
+
+#### **7. Rationale / Justification:**
+
+To fulfill Core Task 2, the FEF must move beyond legacy video game NPCs. By enforcing the Pentadic Synthesis and thermodynamic decay, the FEF guarantees that any `[BPMS(U)]` designated as "living" operates as a fully functional biological and physical engine.
+
+#### **8. Scope of Application:**
+
+Applies to the artificial intelligence behavior trees, the ecosystem simulation algorithms, the damage/health models, and the core definition of "Life" within the Fun Engine Framework.
+
+------
+
+#### The Axiom of Large Praxial Model (LPM) Supremacy (Core Task 3) (ID: `FEF-CORE-066`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting that explicitly implements the `['large model'(-ing) BPMS]` for the framework, completely eliminating reliance on legacy `['large language model'(-ing) BPMS]` in favor of a model that predicts and generates *physical reality and survival actions*.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Large Praxial Model (LPM) Supremacy
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that legacy `['large language model'(-ing) BPMS]` architectures are fundamentally insufficient for the FEF because they only predict text (symbols without thermodynamic weight). The FEF implements a true `['large model'(-ing) BPMS]`—the **Large Praxial Model (LPM)**. The LPM does not predict the next word; it predicts the next *state of reality*. It is trained on `['atomic facts'(-ing) BPMS]`, thermodynamic exchanges, and survival outcomes, making it the ultimate engine for Tasks 1 and 2.
+
+#### **5.2. The Mechanism - [The Reality Predictor]**
+
+- **Action-Space Tokenization:** Instead of tokenizing text, the LPM tokenizes `[action(-ing) BPMS]`, `[material(-ing) BPMS]` states, and `['functional potentiality'(-ing) BPMS]` vectors.
+- **Thermodynamic Weights:** The neural weights of the LPM are determined by survival utility. A pathway that leads to `['(continuous) survive'(-ing) BPMS]` is heavily weighted; a pathway that leads to entropy is pruned.
+- **Multimodal Generation:** When prompted, the LPM does not output a text response. It outputs a fully rendered 3D environment, a new biological entity, or a complex physics interaction. It generates *working reality*.
+- **Legacy LLM Elimination:** Text generation is relegated to a minor sub-routine within PULE. The core intelligence of the framework is entirely non-linguistic, rooted in `['embodied intelligence'(-ing) BPMS]` and physical consequence.
+
+#### **5.3. The Emergent Property - [The Engine of Reality]**
+
+The creation of a foundational artificial intelligence model that understands physics, biology, and survival natively. It bridges the gap between abstract computation and physical simulation, becoming the ultimate brain of the Macro-Architecture.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Words describe the world; actions build it.* We do not need a machine that knows how to talk about survival; we need a machine that knows how to survive.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The LPM architecture is defined: `LPM_Input = Current_Reality_State(Material, Logic, Potentiality)` `LPM_Processing = Calculate_Maximum_Survival_Trajectory()` `LPM_Output = Next_Reality_State(Rendered_Physics, Rendered_Biology)` `Legacy_LLM_Dependency = 0`
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The external user experiences "Ontological Interaction"—they do not "chat" with the artificial intelligence; they throw a physical object at it, and the artificial intelligence responds by evolving a physical shield, demonstrating a terrifying, deeply embodied form of intelligence.
+
+#### **7. Rationale / Justification:**
+
+To fulfill Core Task 3, the framework must break free from the limitations of text-based AI. The Large Praxial Model is the technological breakthrough that makes the entire Fun Engine Framework possible, providing the computational muscle to run infinite survival experiments and render true autopoietic life.
+
+#### **8. Scope of Application:**
+
+Applies to the core artificial intelligence architecture of the framework, the deprecation of legacy text-generation APIs, the training methodologies of the system, and the foundational intelligence of the `['metasystem engine'(-ing) BPMS]`.
+
