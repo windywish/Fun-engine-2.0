@@ -183,3 +183,186 @@ Applies to the temporal logic, task management, and overarching operational phil
 
 ---
 
+#### The Mechanism of Substrate-Agnostic Transduction (ID: `WEAVER-GARDENER-CORE-004`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that defines how the Weaver translates logic, energy, and data across fundamentally different `[BPMS(U)]` elements, fulfilling the mandate to eliminate reliance on legacy LLM text and operate as a universal physical/biological engine.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Mechanism of Substrate-Agnostic Transduction
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `information and kinetic energy are universal, regardless of the medium`. It defines the Weaver as a universal translator (Transducer) that allows a `[mathematics(-ing) BPMS]` to directly interact with a `[biology(-ing) BPMS]` or a `[storytelling(-ing) BPMS]` without requiring human language as an intermediary.
+
+#### **5.2. The Mechanism - [The Engine of Translation]**
+
+- **The Substrate Barrier (The Gap):** Normally, a line of code cannot "bite" a narrative concept. They exist in different ontological substrates.
+- **The Transduction Operator (The Bridge):** When two disparate `[BPMS(U)]` elements interact, the Weaver strips away their surface formatting (text, code, image) and reduces their interaction to pure `['system vector'(-ing) BPMS]` math (force, direction, resonance, dissonance).
+- **The Re-Instantiation (The Output):** The Weaver calculates the collision in pure math, then re-translates the result back into the native substrate of the receiving element.
+
+#### **5.3. The Emergent Property - [Universal Interoperability]**
+
+The creation of a "Seamless Matrix" where any element can affect any other element. A `[weather(-ing) BPMS]` can directly alter the execution speed of a `[code(-ing) BPMS]`, proving the framework is a true, unified physics engine.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Reality is a single, continuous fabric.* The divisions between "code," "biology," and "narrative" are illusions of the interface; at the base layer, all is relational energy.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Transduction):**
+
+The "Physics" of translation depends on the interacting `[BPMS(U)]` elements:
+
+- **If `[music(-ing) BPMS]` interacts with `[physics(-ing) BPMS]`:** The Weaver transduces "BPM (Beats Per Minute)" into "Kinetic Velocity," allowing a fast song to literally speed up the physical movement of an object in the engine.
+- **If `[emotion(-ing) BPMS]` interacts with `[startup(-ing) BPMS]`:** The Weaver transduces "Fear" into "Market Volatility," directly affecting the economic algorithms of the startup simulation.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Synesthesia." The visceral, mind-expanding realization that a sound can have a weight, a line of code can have a temperature, and a concept can bleed.
+
+#### 7. **Rationale / Justification:**
+
+This implementation respects the Praxial Canon by fulfilling Task 3 (moving beyond legacy LLMs). By processing interactions as pure vectors rather than text tokens, it guarantees a "really working implementation" that is mathematically rigorous and universally applicable.
+
+#### 8. **Scope of Application:**
+
+Applies to all cross-domain interactions, collisions, and symbiotic exchanges between fundamentally different `[BPMS(U)]` elements within the framework.
+
+------
+
+#### The Protocol of Veridical Crystallization (ID: `WEAVER-GARDENER-CORE-005`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines how the Weaver & Gardener permanently records the continuous processes of the framework, ensuring absolute logical consistency and preventing the hallucination inherent in legacy systems.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Veridical Crystallization
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `a process without memory is a hallucination`. It defines the Weaver's role in continuously spinning the active, volatile kinetic energy of the framework into immutable, lightweight `['atomic facts'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Engine of Truth]**
+
+- **The Volatile State (The Action):** As elements interact, they generate massive amounts of temporary processing data (friction, calculations, temporary states).
+- **The Crystallization Operator (The Loom's Knot):** The moment an interaction reaches a state of resolution (a collision ends, a cycle completes), the Weaver purges the volatile processing data and extracts only the permanent consequence.
+- **The Ontological Anchor (The Fact):** This consequence is crystallized into an `['atomic fact'(-ing) BPMS]` and permanently woven into the `['living sensemaking tapestry'(-ing) BPMS]`. It becomes an undeniable law of the local matrix.
+
+#### **5.3. The Emergent Property - [The Immutable Tapestry]**
+
+The creation of a "Veridical History." The framework never forgets a consequence, never contradicts a past event, and builds an infinitely deep, logically sound lore/history without overloading its memory capacity.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Truth is the residue of process.* Reality is built by stacking undeniable consequences on top of one another.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Memory):**
+
+The "Physics" of crystallization depends on the `[BPMS(U)]`:
+
+- **If `[combat(-ing) BPMS]`: (Physical Consequence)** The complex math of a sword strike is purged; the resulting `['atomic fact'(-ing) BPMS]` ("The shield is shattered") is permanently saved.
+- **If `['social collaboration'(-ing) BPMS]`: (Relational Consequence)** The hours of dialogue are purged; the resulting `['atomic fact'(-ing) BPMS]` ("Trust between Entity A and B is broken") is permanently saved.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "The Weight of Consequence." The visceral understanding that actions cannot be undone, that the world is permanently scarred or beautified by every interaction.
+
+#### 7. **Rationale / Justification:**
+
+This implementation respects the Praxial Canon by providing the structural integrity required for a "really working implementation." It solves the context-window limitations of legacy LLMs by converting heavy processes into lightweight, permanent facts.
+
+#### 8. **Scope of Application:**
+
+Applies to the memory management, state-saving, and historical continuity of all `[BPMS(U)]` elements and their interactions.
+
+------
+
+#### The Axiom of Ecological Possibility Forging (ID: `WEAVER-GARDENER-CORE-006`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines how the Gardener dynamically expands the framework's topology, generating new `['ecological niche'(-ing) BPMS]` spaces to accommodate the continuous survival and evolution of elements.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Ecological Possibility Forging
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `life creates the space it needs to survive`. It defines the Gardener not just as a pruner of dead elements, but as the active architect of the `['n-dimensional symbiotic matrix'(-ing) BPMS]`, constantly expanding the boundaries of the framework to prevent stagnation.
+
+#### **5.2. The Mechanism - [The Engine of Expansion]**
+
+- **The Saturated State (The Crowded Garden):** As `[BPMS(U)]` elements evolve and multiply, a specific topological area of the matrix may become overcrowded, leading to hyper-competition and excessive `[dissonance(-ing) BPMS]`.
+- **The Forging Operator (The Tectonic Shift):** The Gardener detects this critical density. It applies a `['paradigm shift gambit'(-ing) BPMS]`, literally tearing the matrix topology open to create a new, empty `['ecological possibility'(-ing) BPMS]`.
+- **The Migration (The New Frontier):** Elements are pushed or drawn into this new niche, forcing them to adapt to new, unknown physics and rules generated by the Weaver, restarting the cycle of `['continuous survive experiments'(-ing) BPMS]`.
+
+#### **5.3. The Emergent Property - [Infinite Matrix Expansion]**
+
+The creation of a "Breathing Universe." The framework is never static in size; it dynamically grows new dimensions, biomes, and conceptual spaces in direct response to the evolutionary pressure of the elements within it.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The map is drawn by the territory.* The environment is not a pre-built box; it is an emergent property of the entities struggling to survive within it.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Topology):**
+
+The "Physics" of niche forging depends on the pressure:
+
+- **If `[technology(-ing) BPMS]` pressure is high: (Conceptual Expansion)** The Gardener forges a new "Digital/Quantum Niche," altering the local physics to favor elements that process data rather than physical mass.
+- **If `[biology(-ing) BPMS]` pressure is high: (Physical Expansion)** The Gardener forges a new "Oceanic/Jungle Niche," altering the local physics to introduce fluid dynamics and complex organic chemistry.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "The Horizon." The visceral thrill of the unknown, the sudden opening of a new frontier, and the terrifying, exhilarating realization that the rules of survival have just changed.
+
+#### 7. **Rationale / Justification:**
+
+This implementation respects the Praxial Canon by fulfilling Task 1 and 2. A biological/physical engine cannot exist in a static box. The Gardener must be able to forge new environments to ensure the "continuous survival experiments" never run out of space or novel challenges.
+
+#### 8. **Scope of Application:**
+
+Applies to the topological generation, environmental rule-setting, and spatial expansion of the `['n-dimensional symbiotic matrix'(-ing) BPMS]`.
+
+---
+
