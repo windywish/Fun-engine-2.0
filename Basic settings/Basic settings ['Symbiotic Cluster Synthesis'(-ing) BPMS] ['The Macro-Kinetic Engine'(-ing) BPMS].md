@@ -1,4 +1,4 @@
-## Basic settings: ['Symbiotic Cluster Synthesis'(-ing) BPMS]:['The Macro-Kinetic Engine'(-ing) BPMS]
+## Basic settings: ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Macro-Kinetic Engine'(-ing) BPMS]
 
 #### The Axiom of Universal Kinetic Transmutation (ID: `MACRO-KINETIC-CORE-001`)
 
