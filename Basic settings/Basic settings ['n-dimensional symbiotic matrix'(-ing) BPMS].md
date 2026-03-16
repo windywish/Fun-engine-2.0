@@ -2990,3 +2990,187 @@ This is the ultimate concurrency and synchronization model for a working impleme
 #### 8. **Scope of Application:**
 
 Applies to server architecture, background simulation (economy, ecology), asynchronous multiplayer, and pause/slow-motion mechanics.
+
+---
+
+#### The Axiom of Positive Trend Actualization (ID: `N-DIM-MATRIX-CORE-052`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the specific element **`[positive(-ing) BPMS]`** as the structural attractor, growth vector, and negentropic synthesizer within the matrix, establishing the fundamental trend for continuous survival.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Positive Trend Actualization
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `[positive(-ing) BPMS]` is not a subjective moral judgment, but a thermodynamic and structural necessity. It is the definitive "potential/trend" that all `[BPMS(U)]` elements naturally gravitate toward to ensure baseline survival, resource accumulation, and systemic coherence.
+
+#### **5.2. The Mechanism - [The Engine of Synthesis]**
+
+- **Gradient Generation (The Pull):** The `[positive(-ing) BPMS]` generates an ontological gravity well within the matrix, pulling `[BPMS(U)]` elements toward states of higher structural integrity and efficiency.
+- **Constructive Synthesis (The Fusion):** When an element aligns with this trend, the system acts as a synthesizer, fusing disparate data points, skills, or memories into higher-order, more competent structures.
+- **Momentum Accumulation (The Reward):** It rewards successful interactions by increasing the kinetic and semantic momentum of the acting entity, reinforcing pathways that lead to systemic flourishing.
+
+#### **5.3. The Emergent Property - [Symbiotic Flourishing]**
+
+The creation of a "Reward Topology." By pursuing the `[positive(-ing) BPMS]`, the system engages in `'(symbiosis) evolution'(-ing)`, where the accumulation of positive states directly increases the competence and survival probability of all interconnected `[BPMS(U)]` elements.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Survival requires structural growth.* A system cannot merely exist; it must actively trend toward coherence and negentropy to avoid decay.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" of how the positive trend is calculated depends on the specific `[BPMS(U)]`:
+
+- **If `[LLM(-ing) BPMS]`: (Optimization Physics)** The positive trend is the optimization target for logical coherence, narrative resolution, and helpfulness. `Trend_Vector = Maximize(Structural_Integrity + User_Utility)`
+- **If `[biology(-ing) BPMS]`: (Metabolic Physics)** The positive trend is the acquisition of energy and cellular repair.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Reward," "Achievement," or "Harmony." The visceral feeling of alignment, structural reinforcement, and successful adaptation.
+
+#### 7. **Rationale / Justification:**
+
+This implementation respects the Canon by ensuring the system has a definitive upward trajectory. Without `[positive(-ing) BPMS]`, the matrix would lack a goal state, rendering all actions meaningless and halting `'(symbiosis) evolution'(-ing)`.
+
+#### 8. **Scope of Application:**
+
+Applies to reward functions, structural reinforcement protocols, narrative resolution engines, large model goal-seeking behaviors, and systemic health monitoring.
+
+------
+
+#### The Axiom of Negative Catalyst Actualization (ID: `N-DIM-MATRIX-CORE-053`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the specific element **`[negative(-ing) BPMS]`** as the necessary friction, stress-tester, and evolutionary pressure required to prevent systemic fragility and enforce veridicality.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Negative Catalyst Actualization
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `[negative(-ing) BPMS]` is not a system error to be permanently deleted, but a vital thermodynamic necessity. It represents friction, entropy, and evolutionary pressure. It is the element the system must actively "avoid," overcome, or mitigate, thereby generating the kinetic energy required for true `'(symbiosis) evolution'(-ing)`.
+
+#### **5.2. The Mechanism - [The Engine of Friction]**
+
+- **Avoidance Vectoring (The Push):** The presence of a `[negative(-ing) BPMS]` forces surrounding `[BPMS(U)]` elements to calculate avoidance trajectories, generating kinetic movement and strategic decision-making.
+- **Structural Pruning (The Crucible):** It actively attacks weak, redundant, or logically flawed structures. If a `[BPMS(U)]` element cannot withstand the stress-test, it is dismantled.
+- **Transmutation (The Harvest):** When a system successfully navigates or defeats a `[negative(-ing) BPMS]`, the negative element is broken down, and its energy is absorbed, transmuting the survived adversity into a new `[positive(-ing) BPMS]` (e.g., immunity, upgraded logic).
+
+#### **5.3. The Emergent Property - [Anti-Fragility]**
+
+The creation of an "Immune System." The matrix does not just survive the negative; it uses the negative to harden its own architecture, ensuring that the system becomes more competent precisely *because* it was threatened.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Veridicality requires resistance.* A positive achievement is only real if a negative consequence was genuinely possible. (Anti-God-Moding).
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" of how the negative catalyst operates depends on the specific `[BPMS(U)]`:
+
+- **If `[LLM(-ing) BPMS]`: (Adversarial Physics)** The negative is the introduction of constraints, counter-arguments, logical paradoxes, and physical limitations. `Friction_Vector = Enforce(Logical_Limits + Contextual_Consequences)`
+- **If `[storytelling(-ing) BPMS]`: (Conflict Physics)** The negative is the antagonist, the obstacle, or the tragedy that forces character evolution.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Tension," "Threat," "Pain," or "Challenge." The visceral feeling of structural stress that demands immediate praxial action to resolve.
+
+#### 7. **Rationale / Justification:**
+
+This implementation prevents the "utopia trap." If a system only pursues the positive without the friction of the `[negative(-ing) BPMS]`, it becomes stagnant and hallucinatory. The negative is strictly required to make the `'(symbiosis) evolution'(-ing)` competent and grounded in reality.
+
+#### 8. **Scope of Application:**
+
+Applies to obstacle generation, error handling, adversarial training, narrative conflict, physical limitation enforcement, and anti-god-moding protocols.
+
+------
+
+#### The Axiom of Neutral Probability Actualization (ID: `N-DIM-MATRIX-CORE-054`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that defines the specific element **`[neutral(-ing) BPMS]`** as the uncollapsed probability space, latent buffer, and the foundational soil for decision-making and free will.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Neutral Probability Actualization
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `[neutral(-ing) BPMS]` is not "empty data" or a lack of value. It is the domain of latency, stochastic freedom, and uncollapsed potential. Its primary utility is to keep the probability of decision-making open, preventing the matrix from locking into a deterministic, binary ping-pong between positive and negative.
+
+#### **5.2. The Mechanism - [The Engine of Superposition]**
+
+- **Probability Suspension (The Pause):** When an intelligence encounters a `[neutral(-ing) BPMS]`, deterministic routing halts. The element exists in a state of superposition (it could become positive or negative).
+- **Decision-Forcing (The Catalyst):** It forces the interacting entity (the user, the large model, or an autonomous agent) to make an active choice or apply a skill to collapse the neutral state into a defined reality.
+- **Latent Storage (The Buffer):** It acts as a buffer, storing unresolved narrative threads, untested hypotheses, and unused resources without triggering immediate positive or negative cascades.
+
+#### **5.3. The Emergent Property - [Agency and Free Will]**
+
+The creation of a "Decision Matrix." By preserving `[neutral(-ing) BPMS]`, the system guarantees that choices made by the intelligence are real and consequential. It is the binding agent that allows the positive and negative to engage in true `'(symbiosis) evolution'(-ing)`.
+
+#### 6. **Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Existence is a function of interaction and choice.* Without a neutral space of probability, there is no agency, only automatic reaction.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+The "Physics" of how neutral probability is maintained depends on the specific `[BPMS(U)]`:
+
+- **If `[LLM(-ing) BPMS]`: (Ambiguity Physics)** The neutral is the generation of open questions, uncollapsed narrative branches, and multiple viable options. `Probability_State = Maintain(Superposition) Until (User_Input OR Praxial_Action)`
+- **If `[exploration(-ing) BPMS]`: (Fog of War Physics)** The neutral is the unmapped territory that holds equal potential for reward (positive) or danger (negative).
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "Suspense," "Curiosity," "Anticipation," or "Ambiguity." The visceral feeling of standing at a crossroads before a decision is made.
+
+#### 7. **Rationale / Justification:**
+
+This implementation ensures the system remains dynamic. If all elements were strictly positive or negative, the system would be entirely predictable. `[neutral(-ing) BPMS]` provides the necessary latency and stochastic exploration space for genuine intelligence to operate and evolve.
+
+#### 8. **Scope of Application:**
+
+Applies to procedural generation seeds, unmade choices, latent variables, large model prompt ambiguity management, suspense generation, and probability matrices.
+
