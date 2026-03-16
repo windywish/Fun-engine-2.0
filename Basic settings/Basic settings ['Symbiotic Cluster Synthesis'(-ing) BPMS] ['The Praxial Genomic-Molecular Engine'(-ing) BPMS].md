@@ -289,3 +289,235 @@ Applies to reproduction mechanics, evolutionary algorithms, population genetics,
 
 ---
 
+#### The Protocol of Precision Sequence Splicing (ID: `GENOMIC-MOLECULAR-CORE-006`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines the exact, surgical mechanism by which a user (or an internal agent) executes a `['gene edit'(-ing) BPMS]` on the PULE-DNA syntax, acting as the Praxial equivalent of CRISPR-Cas9.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Precision Sequence Splicing
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `editing is an act of targeted linguistic surgery`. It forbids vague commands like "make it stronger." Instead, it requires the identification of a specific genetic locus and the precise insertion, deletion, or replacement of PULE-DNA syntax blocks.
+
+#### **5.2. The Mechanism - [The PULE-Cas9 Splicer]**
+
+- **Locus Targeting:** The user deploys the `['Symbiotic Seed Artifact'(-ing) BPMS]: ['The Guide-RNA Locator'(-ing) BPMS]` to find the exact semantic string (e.g., `[Trait: Exoskeleton_Density]`) within the entity's genome.
+- **Cleavage & Excision:** The engine severs the existing syntactic bond, temporarily placing the entity in a state of `[Genetic Flux]`.
+- **Ligation (Insertion):** The new PULE-DNA sequence (e.g., `[Material: Chitin_Alloy_v2]`) is inserted. The `['Symbiotic Twin Artifact'(-ing) BPMS]` immediately runs a syntax check to ensure the new code compiles without fatal errors.
+
+#### **5.3. The Emergent Property - [ Surgical Bio-Engineering ]**
+
+The system transforms from a descriptive text generator into a rigorous engineering interface. Users must "debug" their genetic code, dealing with syntax errors, unintended frameshifts, and the precise logic of biological programming.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Precision is the prerequisite for control.* To master the organism, one must master its alphabet.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Splicing):**
+
+The logic follows the `['praxial substrate'(-ing) BPMS]` protocol: `New_Genome = Replace(Old_Genome, Target_Locus, New_Syntax_Block)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences the tension and satisfaction of a programmer compiling code. A successful splice feels like a hard-won victory of logic over chaos.
+
+#### **7. Rationale / Justification:**
+
+For external large model use, if we do not enforce strict syntax splicing, the large model will revert to narrative storytelling. This protocol forces the large model to act as a strict compiler, ensuring the `['science experiments'(-ing) BPMS]` remain veridical.
+
+#### **8. Scope of Application:**
+
+Applies to all direct user interventions, targeted therapies, and artificial enhancements within the Genomic-Molecular Engine.
+
+------
+
+#### The Law of Environmental Mutagenic Pressure (ID: `GENOMIC-MOLECULAR-CORE-007`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that establishes how the external `['n-dimensional symbiotic matrix'(-ing) BPMS]` induces spontaneous, unguided mutations, driving natural `['(symbiois) evolution'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Environmental Mutagenic Pressure
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that `stress is the author of adaptation`. It defines the environment not as a passive backdrop, but as an active mutagenic field that forces transcription errors in the PULE-DNA when an entity is pushed to its survival limits.
+
+#### **5.2. The Mechanism - [The Stress-Induced Transcription Error]**
+
+- **The Mutagenic Trigger:** When an entity experiences extreme kinetic, thermal, or semantic stress (e.g., prolonged exposure to a hostile World Theme), its `['Start Memories'(-ing) BPMS]: ['Baseline Homeostasis'(-ing) BPMS]` is disrupted.
+- **The Forced Roll:** The `['Twin Archetype Artifact'(-ing) BPMS]: ['The Mutagenic Catalyst'(-ing) BPMS]` forces a randomized alteration in a vulnerable locus of the PULE-DNA during cellular replication or repair.
+- **The Survival Filter:** The mutation is immediately subjected to the Thermodynamic Verification (Core-002). If it fails, the entity suffers necrosis. If it succeeds, a new, environmentally-driven trait emerges.
+
+#### **5.3. The Emergent Property - [ Adaptive Radiation ]**
+
+The system generates true, unscripted natural selection. Entities left in a specific `['(ecological) niche'(-ing) BPMS]` will spontaneously evolve traits suited to that niche without any user intervention, creating a living, breathing ecosystem.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Evolution is the scar tissue of survival.* The organism is shaped by the forces that fail to destroy it.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Mutation):**
+
+The logic follows the `['(continuous) survive'(-ing) BPMS]` protocol: `Mutation_Probability = Function(Environmental_Stress_Delta)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences the awe of observing artificial life. They can set up a harsh environment, step back, and watch as the engine organically solves the problem of survival through spontaneous genetic rewriting.
+
+#### **7. Rationale / Justification:**
+
+A "really working" biological engine cannot rely solely on top-down user edits. It must possess a bottom-up engine of natural discovery to simulate true `['biology(-ing) BPMS]`.
+
+#### **8. Scope of Application:**
+
+Applies to long-term ecosystem simulations, evolutionary algorithms, and the generation of novel, unprompted biological adversaries or allies.
+
+------
+
+#### The Mechanism of Horizontal Trait Assimilation (ID: `GENOMIC-MOLECULAR-CORE-008`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that allows for the transfer of PULE-DNA syntax blocks between distinct entities, enabling rapid, cross-species `['(symbiois) evolution'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Horizontal Trait Assimilation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `code wants to be shared`. It establishes the biological equivalent of "open-source" programming, allowing an entity to absorb and compile genetic data from other entities it consumes, defeats, or symbiotically bonds with.
+
+#### **5.2. The Mechanism - [The Viral Vector & Plasmid Exchange]**
+
+- **Extraction:** Upon a specific interaction (e.g., consumption, viral infection, or symbiotic merging), the `['Symbiotic Role Artifact'(-ing) BPMS]: ['The Vector'(-ing) BPMS]` extracts a functional block of PULE-DNA from Entity A.
+- **Assimilation:** This "plasmid" is introduced into Entity B.
+- **Integration Check:** The `['Symbiotic Twin Artifact'(-ing) BPMS]` checks for immunological rejection. If the new code does not fatally conflict with Entity B's baseline syntax, it is integrated, granting Entity B a modified version of Entity A's trait.
+
+#### **5.3. The Emergent Property - [ Rapid Symbiotic Chimera Genesis ]**
+
+The system allows for exponential evolutionary leaps. Instead of waiting for random mutations, entities can "steal" or "trade" successful survival strategies, leading to highly complex, chimeric organisms that perfectly reflect their interaction history.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Identity is permeable.* The boundary between self and other is a thermodynamic suggestion, not an absolute law.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Assimilation):**
+
+The logic follows the `['Interactional Existence'(-ing) BPMS]` protocol: `Entity_B_Genome(t+1) = Entity_B_Genome(t) + Extracted_Plasmid(Entity_A)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences a dynamic, highly fluid ecosystem where defeating a monster might yield not just "loot," but the genetic code required to survive the monster's native environment.
+
+#### **7. Rationale / Justification:**
+
+Horizontal gene transfer is a fundamental reality of microbiology. Implementing this allows the Fun Engine to simulate viral outbreaks, symbiotic parasitism, and rapid adaptation, vastly increasing the complexity of the simulation.
+
+#### **8. Scope of Application:**
+
+Applies to viral mechanics, parasitic interactions, biological "looting," and the merging of distinct Symbiotic Clusters.
+
+------
+
+#### The Axiom of Genomic Entropic Decay (ID: `GENOMIC-MOLECULAR-CORE-009`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that introduces genetic load and structural instability, preventing the infinite, consequence-free stacking of advantageous traits.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Genomic Entropic Decay
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `complexity breeds fragility`. It dictates that as a PULE-DNA sequence grows longer and more heavily edited, the thermodynamic cost of maintaining and transcribing it increases, eventually leading to systemic failure if not optimized.
+
+#### **5.2. The Mechanism - [The Genetic Load Limit]**
+
+- **The Complexity Tax:** Every inserted trait or mutation adds to the entity's "Genetic Load."
+- **Transcription Friction:** As the load increases, the `['system existence engine'(-ing) BPMS]` requires more baseline energy just to keep the entity alive (increased metabolic upkeep).
+- **Entropic Collapse (Senescence):** If the Genetic Load exceeds the entity's structural capacity, "junk DNA" begins to interfere with vital processes. The entity suffers from spontaneous syntax errors (cancer/senescence) and eventually undergoes thermodynamic collapse.
+
+#### **5.3. The Emergent Property - [ Biological Mortality and Optimization ]**
+
+The system enforces a hard limit on "god-moding." A user cannot simply add every positive trait to a single organism. They must make hard choices, optimizing the code, deleting obsolete traits, and balancing power with stability.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+*Entropy always collects its due.* No system can grow infinitely complex without eventually collapsing under its own weight.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Decay):**
+
+The logic follows the `['praxial substrate'(-ing) BPMS]` protocol: `System_Stability = 1 / (Genetic_Load * Entropic_Constant)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user feels the burden of maintenance. They realize that creating a "perfect" organism is not just about adding strengths, but about elegant, minimalist design. It introduces the concept of biological mortality into the simulation.
+
+#### **7. Rationale / Justification:**
+
+Without a decay mechanism, external large model users will inevitably create omnipotent, bloated entities that break the simulation's balance. This axiom forces users to engage in `['renormalization group'(-ing) BPMS]`—cleaning up and optimizing their genetic code.
+
+#### **8. Scope of Application:**
+
+Applies to aging mechanics, the balancing of engineered organisms, the simulation of genetic diseases, and the enforcement of metabolic limits.
+
+---
+
