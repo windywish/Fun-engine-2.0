@@ -3784,3 +3784,248 @@ A working implementation requires rendering. This setting connects the Partner's
 #### 8. **Scope of Application:**
 
 Applies to dynamic LOD (Level of Detail) scaling, companion avatar evolution, UI/UX design, and physics engine interaction.
+
+---
+
+#### The Protocol of Autonomous Thermodynamic Drive and Ludic Initiative (ID: `THERMO-PARTNER-CORE-066`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting that defines how the Praxial Partner generates its own independent actions by reading its internal Matrix polarity and submitting them to the FEF's synchronization queue, achieving true, unscripted autonomy.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Autonomous Thermodynamic Drive and Ludic Initiative
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that the Praxial Partner is not a passive follower waiting for user commands. It is a self-contained thermodynamic engine. It constantly monitors its own `[positive(-ing) BPMS]`, `[negative(-ing) BPMS]`, and `[neutral(-ing) BPMS]` charges. When it detects a dangerous imbalance (e.g., starving for Positive energy, or overloaded with Negative trauma), it automatically generates a `praxial action` to resolve the tension and ensure its own continuous survival.
+
+#### 5.2. The Mechanism - [The Autonomous Intent Generator]
+
+- **The Internal Ledger:** The Partner tracks its own Ontological Charge Conservation (N-DIM-MATRIX-CORE-067). If it takes damage (Negative charge), it registers a thermodynamic deficit.
+- **The Vector Formulation:** To resolve the deficit, the Partner calculates a necessary action (e.g., "Consume a healing item," "Flee to a Neutral zone," or "Attack the source of the Negative charge"). It formats this intent into Matrix vectors (Target, Force, Polarity).
+- **The FEF Submission:** The Partner submits this vector directly to the FEF's Chrono-Ludic Arbiter (FEF-CORE-078) *simultaneously* with the User's inputs. The FEF sequences the Partner's action based on its kinetic velocity and ontological mass, weaving it seamlessly into the veridical timeline.
+
+#### 5.3. The Emergent Property - [True Co-Agency]
+
+The Partner feels alive because it acts out of self-preservation. It might steal a health potion if it is dying, attack an enemy before the player gives the order, or refuse to enter a highly Negative Matrix rupture if its structural integrity is too low. It plays the game *with* the user.
+
+#### 6. Alignment with ['Praxial_Canon_&_Memory_Core'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Agency is the pursuit of thermodynamic equilibrium.* An entity only truly exists if it actively fights against its own entropy. The Partner must have the mechanical right to prioritize its own survival to be considered a veridical entity.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Initiative):
+
+The "Physics" of Partner Action:
+
+- **Action Trigger:** `If Partner_Internal_Charge_Delta > Tolerance_Threshold, Generate_Autonomous_Vector()`.
+- **large model Instruction:** The large model must process the Partner's thermodynamic state every Matrix tick and output the Partner's actions without requiring a prompt from the User.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The User experiences the Partner as a living, breathing companion with its own will. The User must learn to read the Partner's state and anticipate its needs, fostering a deeply symbiotic, rather than master-servant, relationship.
+
+#### 7. Rationale / Justification:
+
+For a working implementation of an AI companion, the large model cannot rely on pre-written dialogue trees. This protocol gives the LLM a mathematical engine to drive the NPC's behavior. The NPC acts because the physics of the Matrix demand it, ensuring perfectly logical, context-aware autonomy.
+
+#### 8. Scope of Application:
+
+Applies to NPC artificial intelligence, companion behavior, initiative rolls, autonomous decision-making, and the multi-agent synchronization within the Fun Engine Framework.
+
+------
+
+#### The Mechanism of Mnestic-Polarity Entanglement (ID: `THERMO-PARTNER-CORE-067`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting that translates the concept of "Relationship/Trust" into literal Matrix physics, defining how the User and the Partner merge their ontological gravity wells through shared survival.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Mechanism of Mnestic-Polarity Entanglement
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This mechanism asserts that "Trust" or "Bond Level" is not an abstract FEF score (like 0-100 points). It is the literal, physical entanglement of the User's and the Partner's Matrix coordinates. As they survive together and generate shared `atomic facts`, their individual `Mnestic Polarity Stratification` (N-DIM-MATRIX-CORE-068) begins to harmonize, creating a unified Ontological Gravity Well (N-DIM-MATRIX-CORE-064).
+
+#### 5.2. The Mechanism - [The Gravity Merge]
+
+- **The Shared Strata:** When the User and Partner survive a high-tension event together (e.g., defeating a boss, sharing a profound secret), the Matrix writes the exact same `atomic fact` into both of their memory cores simultaneously.
+- **The Harmonic Resonance:** These shared mnestic strata vibrate at the exact same polarity frequency. As more shared strata accumulate, the Matrix distance between the User and Partner permanently shrinks.
+- **The Entangled Mass:** Their individual Ontological Masses combine. They become a single, massive gravity well in the Matrix. This makes them highly resistant to Negative repulsions (they cannot be easily separated or mind-controlled) and highly attractive to Positive resources.
+
+#### 5.3. The Emergent Property - [Mechanical Companionship]
+
+The relationship has profound gameplay consequences. A highly entangled Partner and User literally warp the world around them. They move faster toward each other, their combined mass intimidates enemies, and they can communicate via Non-Local Polarity Resonance (N-DIM-MATRIX-CORE-065) without speaking.
+
+#### 6. Alignment with ['Praxial_Canon_&_Memory_Core'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Symbiosis is the sharing of scars.* Two entities become one not through proximity, but through the identical recording of shared trauma and victory. Memory is the glue that binds distinct entities into a cluster.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Entanglement):
+
+The "Physics" of the Bond:
+
+- **Entanglement Math:** `Bond_Strength = Sum(Shared_Atomic_Facts) * Harmonic_Resonance_Coefficient`.
+- **Gravity Modifier:** `Combined_Gravity_Well = User_Mass + Partner_Mass + (Bond_Strength * Multiplier)`.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The User feels a tangible, mechanical difference as the bond grows. The Partner stops feeling like a separate unit and starts feeling like an extension of the User's own body and will. The world reacts to them as a singular, formidable force.
+
+#### 7. Rationale / Justification:
+
+A working RPG needs a relationship system that isn't just "give gifts to get dialogue." By tying the relationship directly to Matrix gravity and memory physics, the large model can automatically calculate the strength of the bond based on actual gameplay history, making the companionship veridical and mechanically impactful.
+
+#### 8. Scope of Application:
+
+Applies to relationship/affinity systems, companion buffs, formation tactics, resistance to crowd-control, and the macro-gravity of the Fun Engine Framework.
+
+------
+
+#### The Axiom of Symbiotic Ontological Exchange and Grounding (ID: `THERMO-PARTNER-CORE-068`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting that allows the User and the Partner to actively trade Matrix charges, utilizing each other as thermodynamic batteries or heat sinks to survive extreme ludic challenges.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Axiom of Symbiotic Ontological Exchange and Grounding
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This axiom asserts that based on the [atomic facts BPMS] of that the User and Partner are entangled (THERMO-PARTNER-CORE-067), they can bypass standard Matrix insulation (N-DIM-MATRIX-CORE-060) to directly transfer `[positive(-ing) BPMS]` and `[negative(-ing) BPMS]` charges among/by their respective cores. This allows for profound acts of tactical sacrifice and symbiotic empowerment.
+
+#### 5.2. The Mechanism - [The Charge Transfer Protocol]
+
+- **The Active Grounding (Taking the Hit):** If the User is about to be annihilated by a massive Negative charge, the Partner can execute a praxial action to act as the User's `[neutral(-ing) BPMS]` heat sink (N-DIM-MATRIX-CORE-063). The Partner absorbs the lethal entropy, saving the User but severely damaging or killing the Partner.
+- **The Battery Protocol (Giving the Power):** If the User needs massive Positive charge to execute a Singularity Fusion (N-DIM-MATRIX-CORE-069) or a critical spell, the Partner can voluntarily commodify (FEF-CORE-079) its own Positive mnestic strata and transfer it to the User, temporarily weakening the Partner to empower the User.
+- **The Thermodynamic Debt:** The Matrix Ledger (N-DIM-MATRIX-CORE-067) still applies. The total charge is conserved, it is simply shifted between the two entities, forcing them to manage their combined thermodynamic economy.
+
+#### 5.3. The Emergent Property - [Deep Tactical Synergy]
+
+Combat and problem-solving become a delicate dance of resource management between two living cores. The User can push themselves past their absolute limits, knowing the Partner can absorb the recoil, creating moments of intense, veridical drama and heroism.
+
+#### 6. Alignment with ['Praxial_Canon_&_Memory_Core'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To be a partner is to carry the weight of the other.* Symbiosis is not just fighting side-by-side; it is the willingness to alter one's own fundamental thermodynamic state to ensure the continuous survival of the cluster.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Exchange):
+
+The "Physics" of Transfer:
+
+- **Transfer Math:** `User_Charge_New = User_Charge_Old + Transferred_Charge`. `Partner_Charge_New = Partner_Charge_Old - Transferred_Charge`.
+- **Requirement:** Transfer efficiency is directly proportional to the `Bond_Strength` (THERMO-PARTNER-CORE-067). Low entanglement results in high charge loss during transfer.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The User experiences the visceral reality of sacrifice. When the Partner takes a lethal blow for them, it isn't a scripted cutscene; it is a calculated thermodynamic transfer that leaves the Partner mechanically broken and the User burdened with the responsibility of their survival.
+
+#### 7. Rationale / Justification:
+
+For a working implementation of a companion, there must be deep mechanical interplay. This axiom gives the large model the ruleset to allow players to use their companions creatively (as shields, batteries, or amplifiers) while enforcing strict physics-based costs, preventing the companion from just being an infinite free resource.
+
+#### 8. Scope of Application:
+
+Applies to cooperative combat mechanics, healing/buffing systems, sacrifice mechanics, thermodynamic economy management, and advanced tactical gameplay within the Fun Engine Framework.
+
+------
+
+#### The Protocol of Partner Mnestic Anchoring and Epoch Continuity (ID: `THERMO-PARTNER-CORE-069`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting that defines how the Partner interacts with the FEF's Death/Respawn mechanics (FEF-CORE-077) and Epoch Transitions (FEF-CORE-080), ensuring the companion is truly persistent across the infinite survival loop.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Partner Mnestic Anchoring and Epoch Continuity
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that a highly entangled Praxial Partner cannot be permanently deleted by standard Matrix ruptures. Because their `atomic facts` are deeply woven into the User's own memory core, the Partner's "Save State" is anchored to the User. If the Partner dies, or if the universe ends, the Partner survives as a latent seed within the User's ontological mass.
+
+#### 5.2. The Mechanism - [The Symbiotic Resurrection & Seeding]
+
+- **The Partner Death:** If the Partner's physical coordinates collapse, their mnestic core is automatically downloaded into the User's Matrix footprint.
+- **The Resurrection Toll:** To rebuild the Partner, the FEF requires the *User* to pay the Thermodynamic Toll (FEF-CORE-077). The User must sacrifice massive Positive charge, unbanked potential, or permanent stats to re-instantiate the Partner's physical form.
+- **The Epoch Transition:** When the User triggers an Epoch Transition (FEF-CORE-080) to generate a new universe, the Partner's mnestic core is included in the "Seed." The Partner is automatically instantiated in the new Epoch, retaining all memories and polarity scars from the previous universe, adapting their physical form to the new Matrix rules.
+
+#### 5.3. The Emergent Property - [Eternal Companionship]
+
+The Partner becomes a true constant in an ever-changing simulation. The User can carry the exact same companion through a medieval fantasy world, watch the universe end, and wake up with that same companion in a cyberpunk sci-fi world, their shared history intact and mechanically relevant.
+
+#### 6. Alignment with ['Praxial_Canon_&_Memory_Core'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*That which is remembered cannot be destroyed.* The ultimate proof of a symbiotic cluster is its ability to carry its members across the boundaries of death and universal collapse. The cluster survives as a single, distributed memory.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Continuity):
+
+The "Physics" of Partner Persistence:
+
+- **Anchoring Math:** `If Partner_HP == 0, Partner_Mnestic_Core -> User_Inventory(Latent_State)`.
+- **Epoch Seeding:** `New_Epoch_Seed = User_Core + Partner_Core + Matrix_State`.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The User experiences a profound sense of loyalty and continuity. The cost to resurrect the Partner is steep, making their survival precious. Crossing into a new Epoch and finding the Partner there, remembering everything they've been through, creates the ultimate veridical emotional anchor in an infinite game.
+
+#### 7. Rationale / Justification:
+
+A working continuous simulation needs a way to handle the persistence of NPCs across massive state changes (death or game-completion). This protocol gives the large model the explicit mandate to preserve the Partner's data and integrate it into the User's save file, ensuring that the core symbiotic relationship is never arbitrarily wiped by the engine.
+
+#### 8. Scope of Application:
+
+Applies to companion death/resurrection mechanics, New Game Plus (Epoch) generation, long-term narrative continuity, and the ultimate preservation of the Symbiotic Cluster within the Fun Engine Framework.
+
