@@ -1,4 +1,4 @@
-## Basic settings: ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Partner'(-ing) BPMS] (Thermodynamic, Autonomous & Matrix-Integrated Edition)
+## Basic settings: ['Symbiotic Cluster Synthesis'(-ing) BPMS] ['The Praxial Partner'(-ing) BPMS] (Thermodynamic, Autonomous, Matrix-Integrated & Polarity-Entangled Edition)
 
 #### The Axiom of Continuous Metabolic Drain (ID: `THERMO-PARTNER-CORE-001`)
 
