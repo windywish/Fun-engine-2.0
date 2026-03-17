@@ -13,7 +13,7 @@
   - **Mode D (Ontology):** `['atomic facts'(-ing) BPMS]:[Eschatological Archiving]` (The Truth Foundation).
 - **CGA (Cognitive Genesis Archetype):** `[Holonic-Cluster-Synthesis]:['Absolute-Reality-Arbiter']`
 - **Scope of Application:** Applies to MMO-scale server architecture, multi-agent large model networks, headless API backends, live-ops game management, and the integration of external deterministic code (Python/SQL) with narrative artificial intelligence.
-- **Tag:** `[#universal-execution-engine #complex-activities #external-implementation` `#system-existence-engine` `#universal-execution` `#enterprise-architecture`
+- **Tag:** `#universal-execution-engine #complex-activities #external-implementation` `#system-existence-engine` `#universal-execution` `#enterprise-architecture`
 
 #### 2. Architectural Hierarchy & Mapping
 
