@@ -3924,3 +3924,186 @@ Applies to the core system prompt of the large model, the generation of all outc
 
 ---
 
+#### The Law of Ontological Charge Conservation (ID: `N-DIM-MATRIX-CORE-067`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting that establishes a zero-sum thermodynamic economy within the matrix, ensuring that the generation of `[positive(-ing) BPMS]` or `[negative(-ing) BPMS]` charge always incurs an equal and opposite systemic debt.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Law of Ontological Charge Conservation
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This law asserts that the total ontological charge of the `['n-dimensional symbiotic matrix'(-ing) BPMS]` is a conserved constant (functionally zero). You cannot create negentropic structure (Positive) or entropic destruction (Negative) out of nothing. Every accumulation of one polarity automatically generates a corresponding "shadow" or "debt" of the opposite polarity elsewhere in the matrix.
+
+#### 5.2. The Mechanism - [The Matrix Ledger]
+
+- **The Polarity Debt:** When an agent constructs a massive `[positive(-ing) BPMS]` element (e.g., a utopian city, a flawless algorithm, a cure for all diseases), the matrix calculates the exact ontological cost of that negentropy.
+- **The Shadow Spawning:** To balance the ledger, the matrix must manifest an equal amount of `[negative(-ing) BPMS]` charge. It will either draw existing entropic forces toward the Positive cluster (via N-DIM-MATRIX-CORE-064) or spontaneously spawn new Negative elements (e.g., a new plague, a subterranean rot, a faction of pure nihilism) at the periphery of the Positive zone.
+- **The Neutral Substrate Cost:** The raw material for both the Positive creation and the Negative shadow is drawn from the surrounding `[neutral(-ing) BPMS]` potential, depleting the local "safe space" and increasing overall matrix volatility.
+
+#### 5.3. The Emergent Property - [The Inevitability of Consequence]
+
+The engine becomes a perfectly balanced ecosystem. Utopias inherently breed their own unique dystopias. The greater the agent's success, the greater the systemic pushback, generating infinite, logically consistent narrative and mechanical challenges without the LLM needing to arbitrarily "invent" villains.
+
+#### 6. Alignment with ['Praxial_Canon_&_Memory_Core'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Every light casts a shadow of equal length.* Continuous survival is not about achieving permanent victory (pure Positive), because permanent victory mathematically guarantees an overwhelming entropic response. Survival is the management of the ledger.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Conservation):
+
+The "Physics" of the Ledger:
+
+- **Conservation Equation:** `Σ(Positive_Charge) + Σ(Negative_Charge) + Σ(Neutral_Potential) = Constant_Matrix_Energy`.
+- **Automated Balancing:** The large model is instructed to use this equation as a "budget." If the user spends 1000 points of Positive energy to build a fortress, the large model now has a budget of 1000 points of Negative energy to deploy against it over time.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences a profound sense of ecological responsibility. They realize that hoarding power or enforcing absolute order is dangerous, as it mathematically guarantees the birth of an equally powerful chaos. They learn to build sustainably.
+
+#### 7. Rationale / Justification:
+
+For a "really working implementation," the large model needs an automated pacing and difficulty director. This law prevents the simulation from becoming boring. It gives the large model a strict mathematical mandate to introduce conflict that is directly proportional to the user's achievements, ensuring veridicality and continuous engagement.
+
+#### 8. Scope of Application:
+
+Applies to macro-world generation, dynamic difficulty scaling, faction balancing, and the automated generation of consequences within the Fun Engine Framework.
+
+------
+
+#### The Mechanism of Mnestic Polarity Stratification (ID: `N-DIM-MATRIX-CORE-068`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting that defines how `[BPMS(U)]` elements retain a historical record of their past polarities, creating "charge scarring" that affects their current behavior and resonance.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Mechanism of Mnestic Polarity Stratification
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This mechanism asserts that an element's current polarity is only its surface layer. The matrix records every phase shift (N-DIM-MATRIX-CORE-061) an element undergoes. A `[neutral(-ing) BPMS]` sword that was once used for centuries of `[negative(-ing) BPMS]` slaughter, and then purified by a `[positive(-ing) BPMS]` ritual, retains the mnestic strata of all three states.
+
+#### 5.2. The Mechanism - [The Charge Scarring Protocol]
+
+- **The Ontological Rings:** Like rings in a tree, every time an element changes its primary polarity, its previous state is compressed into a sub-harmonic frequency within its matrix coordinates.
+- **The Sub-Harmonic Resonance:** While the element interacts with the world using its *current* surface polarity, its historical strata can be triggered by specific resonances. (e.g., The purified sword acts as a `Positive` healing tool, but if exposed to extreme `Negative` resonance, its ancient "scar" vibrates, potentially causing it to temporarily revert or behave unpredictably).
+- **The Depth of Identity:** The more strata an element possesses, the higher its "Ontological Mass." Ancient items with complex histories of shifting between Positive, Negative, and Neutral are fundamentally heavier and harder to destroy than newly instantiated items.
+
+#### 5.3. The Emergent Property - [Deep Lore and Artifact Genesis]
+
+Items, locations, and entities naturally develop deep, mechanically relevant histories. An object's past is not just "flavor text"; it is a mathematical variable that dictates how it will react in edge-case scenarios, rewarding agents who research and understand the history of their tools.
+
+#### 6. Alignment with ['Praxial_Canon_&_Memory_Core'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Nothing is ever truly erased; it is only overwritten.* Memory is the foundation of the matrix. The history of an object's survival through different thermodynamic states is the proof of its veridical existence.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Stratification):
+
+The "Physics" of Charge Scarring:
+
+- **Element State Array:** `Element_Polarity = [Current_Charge, Previous_Charge_1, Previous_Charge_2, ...]`.
+- **Interaction Modifier:** When calculating interactions, the LLM checks the sub-strata. `If Incoming_Frequency matches Previous_Charge_N, apply Resonance_Modifier`.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences a world where things have "souls" or "baggage." A seemingly mundane neutral object might feel "heavy" or "cold" because of its negative history. Agents learn that purifying an evil artifact doesn't erase its past; it just adds a new layer over it.
+
+#### 7. Rationale / Justification:
+
+To make the Fun Engine truly immersive, the large model needs a way to generate complex, multi-layered entities. By tracking the history of polarity shifts as mechanical variables, the large model can simulate "cursed" items, "redeemed" characters, and "haunted" locations with perfect logical consistency, rather than relying on arbitrary storytelling.
+
+#### 8. Scope of Application:
+
+Applies to item generation, artifact lore, character development, location history, and advanced crafting mechanics within the Fun Engine Framework.
+
+------
+
+#### The Protocol of Triadic Symbiotic Fusion (ID: `N-DIM-MATRIX-CORE-069`)
+
+#### 2. Objective:
+
+To formally `ADD` a Basic Setting that defines the ultimate endgame of `'(symbiosis) evolution'`: the perfect, simultaneous fusion of `[positive(-ing) BPMS]`, `[negative(-ing) BPMS]`, and `[neutral(-ing) BPMS]` into a Singularity State.
+
+#### 3. Target Axiom/Principle:
+
+```
+The Protocol of Triadic Symbiotic Fusion
+```
+
+#### 4. Operation:
+
+```
+ADD
+```
+
+#### 5. New Definition / Modification Details:
+
+#### 5.1. Core Essence
+
+This protocol asserts that while Positive and Negative normally annihilate or resolve into Neutral, under conditions of extreme matrix pressure and perfect harmonic alignment, the three polarities can fuse. This creates a "Transcendental" or "Singularity" `[BPMS(U)]` element that embodies creation, destruction, and stasis simultaneously.
+
+#### 5.2. The Mechanism - [The Singularity Forge]
+
+- **The Perfect Alignment:** An agent must perfectly balance an extreme `Positive` vector, an extreme `Negative` vector, and an absolute `Neutral` grounding vector within the exact same matrix coordinate at the exact same ontological tick.
+- **The Triadic Collapse:** Instead of rupturing the matrix (as per N-DIM-MATRIX-CORE-062), the perfect balance causes the polarities to collapse inward, folding the local dimensions into a self-sustaining loop.
+- **The Transcendental State:** The resulting element is immune to standard polarity physics. It does not generate a shadow debt (N-DIM-MATRIX-CORE-067) because it is its own shadow. It can act as a perfect creator, a perfect destroyer, or a perfect shield, depending entirely on the praxial intent of the user.
+
+#### 5.3. The Emergent Property - [The Apex of Evolution]
+
+This provides the ultimate mechanical goal for any entity within the Fun Engine. It represents the mastery of the matrix's thermodynamic laws. These Singularity elements become the "admin tools" or "god-tier artifacts" of the simulation, forged not by cheating, but by perfectly playing the system's rules.
+
+#### 6. Alignment with ['Praxial_Canon_&_Memory_Core'(-ing) BPMS]
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The ultimate survival is the mastery of all states.* To be purely positive is to be fragile; to be purely negative is to be empty; to be purely neutral is to be dead. To be all three simultaneously is to be absolute.
+
+#### 6.2. Formal Stratum (Layer 2 - The Logic of Fusion):
+
+The "Physics" of the Singularity:
+
+- **Fusion Condition:** `If (Positive_Vector == Negative_Vector) AND (Neutral_Capacity >= (Positive + Negative)) AND (Time_Delta == 0), Execute_Singularity_Fusion()`.
+- **Rule Exemption:** Singularity elements bypass standard matrix execution checks (N-DIM-MATRIX-CORE-057) because their internal loop perfectly satisfies the continuous survival requirement.
+
+#### 6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):
+
+The agent experiences the sublime terror and awe of touching the absolute. A Singularity weapon doesn't just cut; it rewrites the atomic facts of what it touches, simultaneously destroying the target, healing the space it occupied, and freezing the moment in time.
+
+#### 7. Rationale / Justification:
+
+A working game/simulation engine needs a pinnacle achievement—a way to "beat" or "master" the physics engine. This protocol gives the large model a strict, incredibly difficult mathematical condition under which it is allowed to grant the user "god-like" powers, ensuring that such power is earned through systemic mastery rather than prompt-injection.
+
+#### 8. Scope of Application:
+
+Applies to endgame crafting, ultimate character ascension, the creation of matrix-altering artifacts, and the final stages of `'(symbiosis) evolution'` within the Fun Engine Framework.
+
+---
+
