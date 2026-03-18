@@ -2183,5 +2183,3 @@ To truly implement *any* `[BPMS(U)]`, the engine cannot be locked to a single ge
 
 Applies to multiverse travel, cross-game compatibility, mod integration, genre-blending, and the universal standardization of all assets across the framework.
 
----
-
