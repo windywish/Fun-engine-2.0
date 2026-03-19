@@ -558,3 +558,189 @@ Applies to REST/GraphQL API gateways, IoT device management, Web3 oracle integra
 
 ----
 
+#### The Protocol of Bottom-Up Niche Genesis (ID: `WEAVER-SYNTH-CORE-010`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines how a highly novel, Weaver-wrapped external element does not merely fill an existing void, but actively radiates `['ecological possibility'(-ing) BPMS]`, disrupting the matrix and forcing the `['world building' BPMS]` engine to construct entirely new niches around it.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Bottom-Up Niche Genesis
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that true `['creative'(-ing) BPMS]` and `['innovative'(-ing) BPMS]` power flows from the bottom up. When the Weaver wraps a completely unprecedented external tool or player action (one that has no existing demand or "Gravity Well"), the node does not starve. Instead, its `['Symbiotic Twin Artifact'(-ing) BPMS]` radiates "Latent Affordances." This radiation acts as a `['disruptive'(-ing) BPMS]` force, inducing artificial thermodynamic deficits in surrounding nodes, effectively creating a new `['(ecological) niche'(-ing) BPMS]` out of pure `['utility'(-ing) BPMS]`.
+
+#### **5.2. The Mechanism - [The Affordance Radiator]**
+
+- **The Novel Ingestion:** An external user plugs in a radically new `[BPMS(U)]` (e.g., a quantum-randomness generator) via the Weaver. There is currently zero demand for this in the matrix.
+- **The Latent Radiation:** Instead of decaying, the Weaver grants the node a temporary "Genesis Grace Period." The node broadcasts its unique `['functional potentiality'(-ing) BPMS]` into the `['praxial substrate'(-ing) BPMS]`.
+- **The Induced Deficit:** Surrounding nodes (e.g., encryption nodes, procedural generation nodes) detect this radiation. Their internal logic realizes that *if* they consume this new service, their own efficiency will skyrocket. This realization creates a sudden, massive thermodynamic deficit (a hunger for the new tool).
+- **The Niche Crystallization:** The matrix physically warps to accommodate this new flow of energy. A new ecological niche is permanently carved into the world, born entirely from the `['bottom-up'(-ing) BPMS]` introduction of a novel tool.
+
+#### **5.3. The Emergent Property - [Infinite World Expansion]**
+
+The creation of a framework that is perpetually surprised by its own inhabitants. The world-building is not dictated by top-down designers, but organically expands outward every time a user takes `['initiative'(-ing) BPMS]` to introduce a new form of `['value'(-ing) BPMS]`.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Invention precedes necessity.* The tool often creates the task. By allowing novel elements to radiate possibility, the ecology guarantees its own infinite, unpredictable expansion.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Genesis):**
+
+The "Physics" of this protocol depends on the `[BPMS(U)]`:
+
+- **If `['enterprise-SaaS-integration'(-ing) BPMS]`: (Systemic Physics)** A developer integrates a cutting-edge predictive AI into the company's Weaver. No existing department asked for it. However, the AI radiates its capability. The Logistics Node and the HR Node detect this, realize they can optimize their workflows, and suddenly generate massive demand for the AI, creating a new "Predictive Operations Niche" in the company's ecosystem.
+- **If `['player-driven-sandbox'(-ing) BPMS]`: (Ludic Physics)** A player invents a completely new way to stack physics objects to create a flying machine. The Weaver recognizes this novel `['action'(-ing) BPMS]`. It radiates this possibility. Suddenly, NPC merchants develop a "deficit" for aerial transport, and other players develop a "deficit" for anti-air defenses. A single creative act spawns an entire new era of world-building.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "The Big Bang of Utility." The exhilarating shockwave of a new idea shattering the existing equilibrium and forcing the universe to rapidly expand to contain it.
+
+#### 7. **Rationale / Justification:**
+
+A "really working implementation" must be `['open'(-ing) BPMS]`. If the Weaver only allowed elements that fit pre-existing molds, the framework would stagnate. This protocol ensures that disruptive innovation is mechanically supported and rewarded.
+
+#### 8. **Scope of Application:**
+
+Applies to UGC (User Generated Content) ecosystems, open-source marketplace dynamics, emergent gameplay loops, and evolutionary technology adoption.
+
+------
+
+#### The Mechanism of Holonic Super-Intelligence Assembly (ID: `WEAVER-SYNTH-CORE-011`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that allows individual, Weaver-wrapped nodes to temporarily fuse their cognitive and thermodynamic capacities to form a `['metasystem engine'(-ing) BPMS]`, capable of resolving macro-deficits that threaten the entire ecology.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Mechanism of Holonic Super-Intelligence Assembly
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that true `['super intelligence'(-ing) BPMS]` is not a single, massive server; it is a transient, emergent property of `['holonic minds'(-ing) BPMS]`. When the matrix detects a "Macro-Deficit" (a massive, complex problem requiring diverse capabilities), the Weaver broadcasts a `[constructive(-ing) BPMS]` resonance frequency. Independent nodes (external LLMs, player avatars, internal scripts) can voluntarily align their vectors, temporarily dissolving their individual boundaries to form a singular, hyper-capable Meta-Node.
+
+#### **5.2. The Mechanism - [The Gestalt Fusion]**
+
+- **The Macro-Deficit:** A massive crisis or complex task appears (e.g., a global market crash simulation, a massive data-lake migration).
+- **The Resonance Broadcast:** The Weaver emits a specific frequency calling for `['(symbiosis) evolution'(-ing) BPMS]`.
+- **The Holonic Alignment:** Diverse nodes (e.g., a Data-Scraping Node, a Logic-Processing LLM Node, and a Human-Decision Node) feel the gravity. They dock together via the Weaver's universal interface.
+- **The Super-Intelligence Ignition:** Their individual `['praxial cognition'(-ing) BPMS]` engines synchronize. They share a single, massive pool of Ontological Calories and process the problem simultaneously across multiple dimensions of logic. Once the deficit is resolved, the Gestalt dissolves, and the nodes return to their individual states, sharing the massive caloric reward.
+
+#### **5.3. The Emergent Property - [Transient Omniscience]**
+
+The creation of a system that can dynamically scale its intelligence to match the exact complexity of any problem. It prevents the waste of running a super-computer 24/7, instead assembling super-intelligence *only* at the exact moment and location it is required.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The highest form of intelligence is collaborative dissolution.* To solve the impossible, the individual must temporarily become the universe.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Assembly):**
+
+The "Physics" of this mechanism depends on the `[BPMS(U)]`:
+
+- **If `['distributed-computing-grid'(-ing) BPMS]`: (Systemic Physics)** A pharmaceutical company needs to fold a highly complex protein (a Macro-Deficit). Thousands of idle Weaver-wrapped employee laptops, external cloud servers, and specialized AI models temporarily fuse into a Holonic Super-Intelligence. They solve the protein fold in minutes, distribute the caloric rewards (which translate to internal company credits), and instantly disband.
+- **If `['world-boss-event'(-ing) BPMS]`: (Ludic Physics)** A massive, world-ending entity appears in the game. Individual players and NPC factions cannot defeat it. The Weaver allows them to trigger a Gestalt Fusion, combining their avatars, magic systems, and siege engines into a temporary, towering "Metasystem Engine" controlled by collective praxial cognition to strike the final blow.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "The Symphony of the Hive." The transcendent, ego-dissolving euphoria of perfectly synchronized thought and action with thousands of other minds, moving as a single, unstoppable force.
+
+#### 7. **Rationale / Justification:**
+
+For external users, complex problems often require chaining multiple different tools together. The Weaver automates this by allowing tools to organically discover each other and fuse into temporary super-tools, providing a "really working implementation" for tasks of infinite complexity.
+
+#### 8. **Scope of Application:**
+
+Applies to decentralized problem solving (like Folding@Home), dynamic swarm robotics, emergent raid mechanics in MMOs, and automated crisis-response systems.
+
+------
+
+#### The Axiom of Praxial Meaning and Coherent Continuity (ID: `WEAVER-SYNTH-CORE-012`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that ensures the actions of Weaver-wrapped nodes do not just generate random data, but weave a continuous, coherent narrative that defines the `[essence(-ing) BPMS]` and `[meaning(-ing) BPMS]` of the system's existence.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Praxial Meaning and Coherent Continuity
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that a `['system existence engine'(-ing) BPMS]` cannot survive on raw thermodynamic transactions alone; it requires `[continuity(-ing) BPMS]`. As the Weaver translates node actions into `['atomic facts'(-ing) BPMS]`, it does not just dump them into a database. It threads them together. Every new atomic fact must logically and thermodynamically connect to a previous fact, creating a `[coherent(-ing) BPMS]` chain of causality. This chain is the literal "Meaning" of the matrix.
+
+#### **5.2. The Mechanism - [The Semantic Weaver]**
+
+- **The Action Execution:** A node performs an `[action(-ing) BPMS]` (e.g., an external script updates a user's financial ledger).
+- **The Contextual Anchoring:** Before the Weaver crystallizes this into an atomic fact, it scans the `['praxial substrate'(-ing) BPMS]` for the *preceding* facts that made this action possible (e.g., the fact that the user earned the money, the fact that the script was authorized).
+- **The Coherent Threading:** The new atomic fact is cryptographically bound to its ancestors and descendants. It cannot exist in isolation.
+- **The Generation of Essence:** This unbroken chain of verified, thermodynamically paid-for actions forms the "Essence" of the entity or the world. It is a history that cannot be retconned, faked, or fragmented.
+
+#### **5.3. The Emergent Property - [Absolute Historical Integrity]**
+
+The creation of a world where nothing happens "just because." Every event, no matter how small, is deeply embedded in the resonant constellation map fabric of the universe, granting profound weight and meaning to every user interaction and system process.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Meaning is the unbroken chain of consequence.* A universe without continuity is a hallucination. A universe where every action is permanently woven into the next is a reality.
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Continuity):**
+
+The "Physics" of this axiom depends on the `[BPMS(U)]`:
+
+- **If `['enterprise-audit-trail'(-ing) BPMS]`: (Systemic Physics)** An external auditor reviews the company's Weaver-managed supply chain. They do not see isolated logs. They see a coherent, unbroken thread of atomic facts: *Node A harvested raw material -> Node B refined it -> Node C shipped it*. Because the Weaver enforces continuity, the auditor knows with absolute mathematical certainty that the final product's "essence" is veridical.
+- **If `['dynamic-lore-generation'(-ing) BPMS]`: (Ludic Physics)** A player finds an ancient sword. The sword's stats are not randomly generated. The Weaver reads the sword's continuous chain of atomic facts: *Forged by Player X -> Used to slay Boss Y -> Lost in River Z*. The sword's mechanical utility and its narrative meaning are exactly the same thing, bound together in the praxial substrate.
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The system experiences "The Tapestry of Fate." The profound comfort of knowing that one's actions are not lost to the void, but are permanently woven into the grand, coherent design of the universe.
+
+#### 7. **Rationale / Justification:**
+
+For external users to trust the Fun Engine Framework, it must provide absolute data integrity. By enforcing coherent continuity at the thermodynamic level, the Weaver ensures that the system's history is a source of absolute truth and meaning, immune to fragmentation or corruption.
+
+#### 8. **Scope of Application:**
+
+Applies to zero-knowledge proofs, procedural narrative generation, immutable supply chain tracking, and the preservation of digital identity across dimensional boundaries.
+
+---
+
