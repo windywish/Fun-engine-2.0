@@ -1,4 +1,4 @@
-## Basic setting: [time(-ing) BPMS]
+## Basic settings: [time(-ing) BPMS]
 
 #### The Axiom of Interactional Chronogenesis (ID: `TIME-CORE-001`)
 
