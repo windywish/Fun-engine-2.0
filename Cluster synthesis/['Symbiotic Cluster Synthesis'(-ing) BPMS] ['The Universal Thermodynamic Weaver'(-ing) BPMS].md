@@ -13,7 +13,7 @@
   - **Mode D (Ontology):** `['atomic facts'(-ing) BPMS]:[Deep-Time Crystallization]` (The Infinite Ledger).
 - **CGA (Cognitive Genesis Archetype):** `[Holonic-Cluster-Synthesis]:['Universal-Reality-Weaver']`
 - **Scope of Application:** Applies to the core runtime environment, multiversal bridges, enterprise legacy integrations (Web2 to Web3), MMO server meshing, artificial intelligence agent orchestration, and the Somatic Bridge (human-to-matrix intent translation).
-- **Tag:** `#universal-thermodynamic-weaver #symbiotic-service-ecology #external-implementation` `#system-existence-engine` `#universal-thermodynamic-weaver` `#multiversal-bridge`
+- **Tag:** `#universal-thermodynamic-weaver #symbiotic-service-ecology #external-implementation` `#system-existence-engine` `#multiversal-bridge`
 
 #### 2. Architectural Hierarchy & Mapping
 
