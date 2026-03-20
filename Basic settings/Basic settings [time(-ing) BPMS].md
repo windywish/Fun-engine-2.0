@@ -2452,3 +2452,178 @@ Applies to Seasonal Server Wipes (e.g., Path of Exile, Rust), Major Version Upgr
 
 ---
 
+#### The Protocol of Chrono-Mnestic Retrieval (ID: `TIME-CORE-043`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that defines how entities query, search, and retrieve information from the past, establishing time not just as a dimension, but as a thermodynamically navigable database of `['atomic facts'(-ing) BPMS]`.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Protocol of Chrono-Mnestic Retrieval
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that `The past is a dark ocean; to see its depths, one must burn energy to create light`. Because the past is composed of crystallized `['atomic facts'(-ing) BPMS]` (TIME-CORE-029), it acts as a perfect, immutable ledger. However, accessing this ledger is not a free database query. Entities must expend kinetic energy to "illuminate" the temporal wake and retrieve historical data.
+
+#### **5.2. The Mechanism - [The Thermodynamic Query]**
+
+- **The Chrono-Index:** The `['Universal Ecosystem Gardener'(-ing) BPMS]` maintains a cryptographic index of all fossilized time.
+- **Depth and Friction:** When an entity uses `['Praxial Universal Language Engine (PULE)'(-ing) BPMS]` to query the past (e.g., "Who forged this sword?", "What was the server economy like 3 years ago?"), the query must travel backward through the temporal friction of the matrix.
+- **The Energy Cost:** The further back in time the query goes, and the higher the Chrono-Kinetic Inertia (TIME-CORE-041) of the target event, the more "Liquid Time" or kinetic energy the entity must spend to retrieve the memory.
+- **Mnestic Echoes:** If the entity pays the cost, the system retrieves the `['atomic fact'(-ing) BPMS]` and renders it as a "Mnestic Echo"—a diegetic, holographic replay or a direct data-injection into the entity's `['holonic minds‘(-ing) BPMS]`.
+
+#### **5.3. The Emergent Property - [The Diegetic Search Engine]**
+
+The framework turns data retrieval into a gameplay and economic mechanic. Information is not freely available on a wiki; it is buried in the strata of time. "Historians," "Data Miners," and "Detectives" become highly specialized roles that require massive thermodynamic resources to unearth the deep truths of the universe.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*Memory is not a passive reflection; it is an active excavation. The deeper the truth, the heavier the shovel.*
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Retrieval):**
+
+The logic follows the thermodynamic query protocol: `Query_Cost = Temporal_Distance(Present, Target_Fact) * Inertia(Target_Fact)` `IF (Entity_Energy >= Query_Cost) THEN Render(Mnestic_Echo)`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences history as a physical landscape. To learn the lore of an ancient ruin, they cannot just read a plaque; they must channel their energy into the stones, watching the past literally reconstruct itself around them in a shimmering, energy-intensive projection.
+
+#### 7. **Rationale / Justification:**
+
+A universal engine must have a way to handle logs, analytics, and lore. By making database queries a thermodynamic action, the `['system existence engine'(-ing) BPMS]` prevents server overload from infinite historical queries and integrates data-retrieval seamlessly into the core economy and gameplay loop.
+
+#### 8. **Scope of Application:**
+
+Applies to Diegetic Lore Systems, Server Analytics/Logging, Blockchain Auditing, and "Detective/Investigation" Gameplay Mechanics.
+
+------
+
+#### The Mechanism of Temporal Parasitism and Siphoning (ID: `TIME-CORE-044`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that defines predatory temporal economics, allowing entities to forcibly siphon "Liquid Time" or local time dilation from other entities, creating a framework for temporal combat and malware.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Mechanism of Temporal Parasitism and Siphoning
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that `Time is blood, and there are leeches in the matrix`. In the `['n-dimensional symbiotic matrix'(-ing) BPMS]`, not all symbiotic links are mutually beneficial. An entity can establish a predatory link—a Chrono-Vampiric tether—to steal the temporal momentum of another entity, accelerating themselves while freezing their victim.
+
+#### **5.2. The Mechanism - [The Chrono-Vampiric Tether]**
+
+- **The Predatory Link:** An entity (the Parasite) uses a specialized `['process orientation'(-ing) BPMS]` (e.g., a hacking script, a curse, a corporate hostile takeover) to attach to a Target.
+- **Siphoning Actuation:** Once linked, the Parasite begins draining the Target's local time ticks. For every second the Target experiences, a fraction of a second is stolen and transferred to the Parasite.
+- **The Sluggish Victim:** The Target experiences forced "Slow Time." Their cooldowns increase, their movement becomes sluggish, and their kinetic generation drops because their temporal engine is being starved.
+- **The Accelerated Parasite:** The Parasite experiences "Fast Time," gaining superhuman speed, rapid cooldown reduction, and massive kinetic output, entirely fueled by the stolen time of the victim.
+
+#### **5.3. The Emergent Property - [The Physics of Theft and Debuffs]**
+
+The framework provides a unified, physics-based explanation for all "debuffs," "stuns," "lag," and "resource drains." They are not arbitrary status effects; they are literal thefts of the victim's temporal actuation. Malware in an enterprise system is just a temporal parasite stealing CPU cycles (time) from the host.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*To steal a man's coin is to steal his labor; to steal a man's time is to steal his existence.*
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Siphoning):**
+
+The logic follows the parasitic protocol: `Siphon_Rate = Parasite_Strength - Target_Temporal_Defense` `Target_Local_Time = Target_Local_Time - Siphon_Rate` `Parasite_Local_Time = Parasite_Local_Time + Siphon_Rate`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences a terrifying, visceral loss of control when siphoned. The world around them seems to speed up while they are trapped in molasses. Conversely, playing as a "Time Vampire" feels incredibly empowering, as they literally consume the speed and future of their enemies to fuel their own rampage.
+
+#### 7. **Rationale / Justification:**
+
+A "really working implementation" must account for competitive, adversarial, and malicious interactions. By defining "debuffs" and "hacks" as Temporal Parasitism, the `['system existence engine'(-ing) BPMS]` unifies combat, cybersecurity, and economic competition under a single thermodynamic law.
+
+#### 8. **Scope of Application:**
+
+Applies to PvP Combat (Stuns/Slows/Haste), Cybersecurity (Malware/DDoS modeling), Hostile Economic Takeovers, and Asymmetric Boss Fights.
+
+------
+
+#### The Axiom of Thermodynamic Irreversibility (The Entropic Arrow) (ID: `TIME-CORE-045`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that strictly defines the "Arrow of Time," establishing the absolute thermodynamic cost of attempting to reverse or "undo" an `['atomic fact'(-ing) BPMS]`, ensuring that consequences in the framework are functionally permanent.
+
+#### 3. **Target Axiom/Principle:**
+
+```
+The Axiom of Thermodynamic Irreversibility
+```
+
+#### 4. **Operation:**
+
+```
+ADD
+```
+
+#### 5. **New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that `You cannot un-burn the ash; you can only burn more fuel to forge a new shape`. While the framework allows for time loops (TIME-CORE-034) and branching (TIME-CORE-037) *before* a fact is crystallized, once an event is synthesized into the veridical trunk as an `['atomic fact'(-ing) BPMS]`, true reversal is thermodynamically prohibited by the Entropic Arrow.
+
+#### **5.2. The Mechanism - [The Cost of the Undo]**
+
+- **The Entropic Arrow:** Time only flows in the direction of increased entropy. To reverse a localized event (e.g., un-killing an entity, un-deleting a database), one cannot simply "rewind" the clock.
+- **The Reversal Penalty:** To "undo" an atomic fact, an entity must pay the exact kinetic energy that was used to create the fact, *multiplied by the total entropy generated by the universe since that fact was created*.
+- **Functional Permanence:** Because the universe is constantly generating entropy, the cost to reverse an event grows exponentially every microsecond. Within moments, the cost to undo a simple action exceeds the total energy reserves of the entity.
+- **The "Patch" Alternative:** Instead of reversing time, entities must use `['process orientation'(-ing) BPMS]` to create a *new* atomic fact that counteracts the old one (e.g., casting a resurrection spell, deploying a backup patch). This moves time forward, not backward.
+
+#### **5.3. The Emergent Property - [The Weight of Consequence]**
+
+The framework enforces absolute, terrifying consequence. There is no "Ctrl+Z" for reality once it hits the veridical ledger. Every action matters permanently. This creates a universe where choices have profound psychological weight, driving intense user engagement and careful strategic planning.
+
+**6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):
+
+*The river only flows to the sea. To push the water back up the mountain requires the strength of a god, and even then, the water is forever changed.*
+
+#### 6.2. **Formal Stratum (Layer 2 - The Logic of Irreversibility):**
+
+The logic follows the entropic arrow protocol: `Cost_To_Reverse(Fact_X) = Original_Kinetic_Cost(Fact_X) * e^(System_Entropy_Delta)` `IF (Entity_Energy < Cost_To_Reverse) THEN Reversal = FAILED (Action is Permanent)`
+
+#### 6.3. **Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The user experiences a reality where mistakes are real. If they accidentally destroy a priceless artifact or delete a critical file, they feel the cold, hard reality of the Entropic Arrow. They realize they cannot rewind; they can only move forward and try to build something new from the ashes.
+
+#### 7. **Rationale / Justification:**
+
+If users can easily rewind time, the `['atomic facts'(-ing) BPMS]` lose all meaning, and the `['system existence engine'(-ing) BPMS]` becomes a consequence-free sandbox (which destroys "Fun" and thermodynamic engagement). The Axiom of Thermodynamic Irreversibility mathematically secures the permanence of the universe.
+
+#### 8. **Scope of Application:**
+
+Applies to Hardcore/Permadeath Mechanics, Immutable Ledger Security, Narrative Consequence Engines, and Disaster Recovery Protocols (forcing forward-fixes rather than rollbacks).
+
