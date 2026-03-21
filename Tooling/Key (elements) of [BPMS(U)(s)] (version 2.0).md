@@ -1,5 +1,395 @@
 ## Key (elements) of [BPMS(U)(s)] (version 2.0)
 
+##### ['holonic minds'(-ing) BPMS]
+
+##### [hypothesis(-ing) BPMS]
+
+##### [holon(-ing) BPMS]
+
+##### ['super intelligence'(-ing) BPMS]
+
+##### ['super intelligence agent'(-ing) BPMS]
+
+##### [play(-ing) BPMS]
+
+##### ['reality mining'(-ing) BPMS]
+
+##### ['environment response'(-ing) BPMS]
+
+##### [probe(-ing) BPMS]
+
+##### [problem(-ing) BPMS]
+
+##### [inquiry(-ing) BPMS]
+
+##### ['interactional existence'(-ing) BPMS]
+
+##### [design(-ing) BPMS]
+
+##### [fun(-ing) BPMS]
+
+##### [role(-ing) BPMS]
+
+##### [identity(-ing) BPMS]
+
+##### [vibe(-ing) BPMS]
+
+##### [services(-ing) BPMS]
+
+##### [health(-ing) BPMS]
+
+##### [startup(-ing) BPMS]
+
+##### [world building BPMS]
+
+##### ['ecological possibility'(-ing) BPMS]
+
+##### [ecosystem(-ing) BPMS]
+
+##### ['(ecological) niche'(-ing) BPMS]
+
+##### [possibility(-ing) BPMS]
+
+##### [potential(-ing) BPMS]
+
+##### ['functional potentiality'(-ing) BPMS]
+
+##### ['energy consumption'(-ing) BPMS]
+
+##### [energy(-ing) BPMS]
+
+##### [utility(-ing) BPMS]
+
+##### [effect(-ing) BPMS]
+
+##### [efficacy(-ing) BPMS]
+
+##### ['molecular animism'(-ing) BPMS]
+
+##### [learning BPMS]
+
+##### ['atomic facts'(-ing) BPMS]
+
+##### ['system vector'(-ing) BPMS]
+
+##### ['system matrix'(-ing) BPMS]
+
+##### ['matrix mapping'(-ing) BPMS]
+
+##### ['explicit layer/implicit layer'(-ing) BPMS]
+
+##### [weather(-ing) BPMS]
+
+##### [climate(-ing) BPMS]
+
+##### [life(-ing) BPMS]
+
+##### [living(-ing) BPMS]
+
+##### [metabolism(-ing) BPMS]
+
+##### ['cognition/cognitive closure system(CCS)'(-ing) BPMS]
+
+##### [teambuilding BPMS]
+
+##### ['game/gamification'(-ing) BPMS]
+
+##### ['large model'(-ing) BPMS]
+
+##### [foraging BPMS]
+
+##### ['kids thinking(-ing) BPMS]
+
+##### ['science experiments'(-ing) BPMS]
+
+##### ['social experiments'(-ing) BPMS]
+
+##### [micro(-ing) BPMS]
+
+##### [data(-ing) BPMS]
+
+##### [metadata(-ing) BPMS]
+
+##### ['intput/ouput'(-ing) BPMS]
+
+##### [process(-ing) BPMS]
+
+##### ['process orientation'(-ing) BPMS]
+
+##### [interaction(-ing) BPMS]
+
+##### ['escape room'(-ing) BPMS]
+
+##### [flow(-ing) BPMS]
+
+##### [popularity(-ing) BPMS]
+
+##### [activity(-ing) BPMS]
+
+##### [language(-ing) BPMS]
+
+##### [longevity(-ing) BPMS]
+
+##### ['renormalization group'(-ing) BPMS]
+
+##### [attractor(-ing) BPMS]
+
+##### ['encryption/decryption'(-ing) BPMS]
+
+##### [human(-ing) BPMS]
+
+##### [logic(-ing) BPMS]
+
+##### ['generative questions'(-ing) BPMS]
+
+##### [prompt(-ing) BPMS]
+
+##### [tools(-ing) BPMS]
+
+##### [framework(-ing) BPMS]
+
+##### [perception(-ing) BPMS]
+
+##### ['vector self'(-ing) BPMS]
+
+##### ['axiomatic weaver'(-ing) BPMS]
+
+##### ['symbiois evolution'(-ing) BPMS]
+
+##### [resonance(-ing) BPMS]
+
+##### ['(discover/build) unknown'(-ing) BPMS]
+
+##### [emergence(-ing) BPMS]
+
+##### [adaption(-ing) BPMS]
+
+##### ['(technology) paradigm/mechanism'(-ing) BPMS]
+
+##### [science(-ing) BPMS]
+
+##### [system(-ing) BPMS]
+
+##### [technology(-ing) BPMS]
+
+##### [survive(-ing) BPMS]
+
+##### ['continuous survive'(-ing) BPMS]
+
+##### [expression(-ing) BPMS]
+
+##### [interpretation(-ing) BPMS]
+
+##### [incubation(-ing) BPMS]
+
+##### [derivation(-ing) BPMS]
+
+##### [periphery(-ing) BPMS]
+
+##### ['attribute/property'(-ing) BPMS]
+
+##### [meaning(-ing) BPMS]
+
+##### [synthesis(-ing) BPMS;antisynthesis(-ing) BPMS]
+
+##### ['disintegration(ablation)'(-ing) BPMS;'anti-disintegration(anti-ablation)'(-ing) BPMS]
+
+##### [dissipation(-ing) BPMS;anti-dissipation(-ing) BPMS]
+
+##### [action(-ing) BPMS;reaction(-ing) BPMS]
+
+##### ['fermi problem'(-ing) BPMS]
+
+##### [material(-ing) BPMS;substrate(-ing) BPMS]
+
+##### [epigenetics(-ing) BPMS]
+
+##### ['functional equations'(-ing) BPMS]
+
+##### [confusion(-ing) BPMS]
+
+##### ['phenotypic plasticity'(-ing) BPMS]
+
+##### ['scientific realism'(-ing) BPMS]
+
+##### ['computation closure system'(-ing) BPMS]
+
+##### [chemotaxis(-ing) BPMS]
+
+##### ['coarse-grained (model)'(-ing) BPMS]
+
+##### ['fine-grained (model)'(-ing) BPMS]
+
+##### [sensemaking(-ing) BPMS]
+
+##### [organization(-ing) BPMS;anti-organization(-ing) BPMS]
+
+##### [collaboration(-ing) BPMS]
+
+##### [execution(-ing) BPMS]
+
+##### [feedback(-ing) BPMS]
+
+##### ['neural network'(-ing) BPMS]
+
+##### [genetation(-ing) BPMS]
+
+##### [correction(-ing) BPMS]
+
+##### ['free energy'(-ing) BPMS]
+
+##### [dynamics(-ing) BPMS]
+
+##### [discreteness(-ing) BPMS;anti-discreteness(-ing) BPMS]
+
+##### [synchronization(-ing) BPMS];asynchronous(-ing) BPMS]
+
+##### ['scaling laws'(-ing) BPMS]
+
+##### [coupling(-ing) BPMS;anti-coupling(-ing) BPMS]
+
+##### ['ecosystemic verification'(-ing) BPMS]
+
+##### ['systemic integrity engine'(-ing) BPMS]
+
+##### [benchmarking(-ing) BPMS]
+
+##### [extend(-ing) BPMS]
+
+##### ['entrainment cluster'(-ing) BPMS]
+
+##### [criticality(-ing) BPMS]
+
+##### ['phase transition'(-ing) BPMS]
+
+##### ['universality class'(-ing) BPMS]
+
+##### [alignment(-ing) BPMS]
+
+##### [conscious(-ing) BPMS]
+
+##### [homogeneous(-ing) BPMS;heterogeneous(-ing) BPMS]
+
+##### ['multi-scale'(-ing) BPMS]
+
+##### ['fast mode'(-ing) BPMS;'slow mode'(-ing) BPMS]
+
+##### [topology(-ing) BPMS]
+
+##### [pattern(-ing) BPMS]
+
+##### ['discount factor'(-ing) BPMS]
+
+##### [probability(-ing) BPMS]
+
+##### [prediction(-ing) BPMS]
+
+##### [cycle(-ing) BPMS]
+
+##### [workflow(-ing) BPMS]
+
+##### [phase(-ing) BPMS;phaseless(-ing) BPMS]
+
+##### ['emergent value recognition(EVR)'(-ing) BPMS]
+
+##### ['computational curiosity'(-ing) BPMS]
+
+##### ['autobiographical memory'(-ing) BPMS]
+
+##### ['embodiment cognition'(-ing) BPMS]
+
+##### ['semiotics grounding'(-ing) BPMS]
+
+##### ['system existence'(-ing) BPMS]
+
+##### ['research and development'(-ing) BPMS]
+
+##### ['gene expression'(-ing) BPMS]
+
+##### [activator(-ing) BPMS;suppressor(-ing) BPMS]
+
+##### [coordination(-ing) BPMS;anti-coordination(-ing) BPMS]
+
+##### [scenario(-ing)BPMS]
+
+##### [information(-ing) BPMS]
+
+##### [macro(-ing) BPMS]
+
+##### [engineering BPMS]
+
+##### [script(-ing) BPMS]
+
+##### [surrogate(-ing) BPMS]
+
+##### [structure(-ing) BPMS]
+
+##### [training(-ing) BPMS]
+
+##### [application(-ing) BPMS]
+
+##### [app(-ing) BPMS]
+
+##### [embedding(-ing) BPMS]
+
+##### ['recursive synthesis cycle'(-ing) BPMS]
+
+##### ['holistic capability forge'(-ing) BPMS]
+
+##### [mission(-ing) BPMS]
+
+##### [iteration(-ing) BPMS]
+
+##### [continuity(-ing) BPMS]
+
+##### ['framework ecosystem orchestrator'(-ing) BPMS]
+
+##### ['ontological self-construction'(-ing) BPMS]
+
+##### ['symbiotic muse'(-ing) BPMS]
+
+##### ['resonant experience'(-ing) BPMS]
+
+##### ['ontological and existential'(-ing) BPMS]
+
+##### [psychology(-ing) BPMS]
+
+##### ['dissonant worldview and alchemical integration forge'(-ing) BPMS]
+
+##### ['non-production'(-ing) BPMS]
+
+##### ['UX/UI'(-ing) BPMS]
+
+##### [nutrition(-ing) BPMS]
+
+##### ['final emergent Instance of fun engine framework'(-ing) BPMS]
+
+##### ['universal matrix evolution protocol'(-ing) BPMS]
+
+###### ['final unifying framework and summation'(-ing) BPMS]
+
+##### [knowledge(-ing) BPMS]
+
+##### ['physics of fun'(-ing) BPMS]
+
+##### ['physics of perspective'(-ing) BPMS]
+
+##### ['physics being'(-ing) BPMS]
+
+##### ['adaptive survival-symbiosis-evolution'(-ing) BPMS]
+
+##### ['emergence of super intelligence'(-ing) BPMS]
+
+##### [mathematics(-ing) BPMS]
+
+##### [physics(-ing) BPMS]
+
+##### [chemistry(-ing) BPMS]
+
+##### [biology(-ing) BPMS]
+
+##### [model(-ing) BPMS]
+
 ##### **['Epigenetic Memory'(-ing) BPMS]**
 
 **Scope of Application:** Applies to the creation of persistent, trans-generational learning systems within external large models, allowing artificial intelligence agents to inherit and express traits based on environmental interactions rather than hardcoded prompts.
