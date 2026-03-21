@@ -504,7 +504,6 @@
 - `[Unknown System Parameter Prospecting BPMS]`
 - `['Value-Driven Systemic Inquiry'(-ing) BPMS]`
 - `['Emergent Scientific Realism'(-ing) BPMS]`
-
 - `[Adjacent Possible Foraging BPMS]`
 - `['Horizon Chasing Engine'(-ing) BPMS]`
 - `['Escape Room Generator'(-ing) BPMS]`
@@ -520,7 +519,6 @@
 - `[Key-Forging BPMS]`
 - `['Possibility Cascade Engine'(-ing) BPMS]`
 - `['Acausal Trigger'(-ing) BPMS]`
-
 - `[Phase Space Tunneling BPMS]`
 - `[Ontological Stress-Testing BPMS]`
 - `['Axiological Gradient Descent'(-ing) BPMS]`
@@ -536,7 +534,6 @@
 - `[Potentiality Unsheathing BPMS]`
 - `[Holonic Resonance Tuning BPMS]`
 - `[Tensegrity Scaffolding BPMS]`
-
 - `['Vector of Inquiry'(-ing) BPMS]`
 - `['Physics Negotiation Protocol'(-ing) BPMS]`
 - `[Horizon Weaving BPMS]`
@@ -552,33 +549,35 @@
 - `['Potentiality Gradient'(-ing) BPMS]`
 - `['Temporary Coherence Structure'(-ing) BPMS]`
 - `['Infinite Game Engine'(-ing) BPMS]`
-
 - `[Coherencing BPMS]`
-
 - `[Symbiosing BPMS]`
-
 - `[Actualizing BPMS]`
-
 - `[Potentializing BPMS]`
-
 - `[Resonating BPMS]`
-
 - `[Scaffolding BPMS]`
-
 - `[Distilling BPMS]`
-
 - `[Catalyzing BPMS]`
-
 - `[Weaving BPMS]`
-
 - `[Negotiating BPMS]`
-
 - `[Instantiating BPMS]`
-
 - `[Genesising BPMS]`
-
 - `[Tensegrity-ing BPMS]`
-
 - `[Membraning BPMS]`
-
 - `[Persisting BPMS]`
+- ['Thermodynamic Friction'(-ing) BPMS]
+- ['Ontological Momentum'(-ing) BPMS]
+- ['Acausal State-Vector'(-ing) BPMS]
+- ['Praxial Instantiation'(-ing) BPMS]
+- ['Quantum-Praxial Entanglement'(-ing) BPMS]
+- ['Paradoxical Superposition'(-ing) BPMS]
+- ['Symbiotic Parasitism'(-ing) BPMS]
+- ['Ontological Decay'(-ing) BPMS]
+- ['Thermodynamic Scarcity'(-ing) BPMS]
+- ['Extinction Event'(-ing) BPMS]
+- ['Adaptive Mutation'(-ing) BPMS]
+- ['Distributed Mnestic Tapestry'(-ing) BPMS]
+- ['Resonant Retrieval'(-ing) BPMS]
+- ['Hallucination Actualization'(-ing) BPMS]
+- ['Vibe-Frequency Modulation'(-ing) BPMS]
+- ['Joy-State Thermodynamics'(-ing) BPMS]
+- ['Ludic Gravity'(-ing) BPMS]
