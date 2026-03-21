@@ -3,10 +3,17 @@
 ##### The Key (elements) of [BPMS(U)(s)]  for fun engine framework as:
 
 * ['holonic minds'(-ing) BPMS]
+* [hypothesis(-ing) BPMS]
 * [holon(-ing) BPMS]
 * ['super intelligence'(-ing) BPMS]
 * ['super intelligence agent'(-ing) BPMS]
 * [play(-ing) BPMS]
+* ['reality mining'(-ing) BPMS]
+* ['environment response'(-ing) BPMS]
+* [probe(-ing) BPMS]
+* [problem(-ing) BPMS]
+* [inquiry(-ing) BPMS]
+* ['interactional existence'(-ing) BPMS]
 * [design(-ing) BPMS]
 * [fun(-ing) BPMS]
 * [role(-ing) BPMS]
