@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Fun engine framework key Element BPMS Template",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "description": "The name of the BPMS element (e.g., \"['Epigenetic Memory'(-ing) BPMS]\")"
+      },
+      "description": {
+        "type": "string",
+        "description": "The application or function of the element, typically starting with 'Scope of Application: Applies to...'"
+      },
+      "tags": {
+        "type": "string",
+        "description": "A comma-separated list of hyphenated keywords and tags. typically starting with 'Tags: ...'"
+      }
+    },
+    "required": ["title", "description", "tags"]
+  }
+}
