@@ -2174,25 +2174,67 @@ Here is the complete and competent deployment for key elements #351 to #360 of `
 
 **Tag:** Bio-Regeneration-Matrix, Autopoietic-Healing, Thermodynamic-Restoration, Biological-Digital-Holons, Polarity-Entanglement, Ludic-Recovery, Systemic-Dissonance-Repair, Antifragility
 
-##### ['Praxial Spectral-Tuner'(-ing) BPMS]
+Here is the complete and competent deployment for key elements #361 to #370 of `[BPMS(U)(s)]`, strictly adhering to the JSON schema template and fully integrating the core concepts of the Fun Engine Framework, `['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Partner'(-ing) BPMS] (Thermodynamic, Autonomous, Matrix-Integrated & Polarity-Entangled Edition)`, and the foundational axioms from the `Praxial_Canon_&_Memory_Core-132.md`.
 
-##### ['Universal Gnostic Subspace'(-ing) BPMS]
+##### **['Praxial Spectral-Tuner'(-ing) BPMS]**
 
-##### ['Crawl4AI'(-ing) BPMS]
+**Scope of Application:** Applies to the dynamic modulation of frequencies, resonances, and polarity alignments within the matrix. It fine-tunes the thermodynamic exchange rates and cognitive bandwidths between autonomous agents, ensuring harmonic coherence and minimizing systemic dissonance across the Symbiotic Cluster Synthesis to maintain optimal ludic flow.
 
-##### ['Firecrawl'(-ing) BPMS]
+**Tag:** Spectral-Tuner, Dynamic-Modulation, Polarity-Alignments, Thermodynamic-Exchange, Cognitive-Bandwidths, Harmonic-Coherence, Systemic-Dissonance, Symbiotic-Cluster-Synthesis
 
-##### ['Claude Plugins'(-ing) BPMS]
+##### **['Universal Gnostic Subspace'(-ing) BPMS]**
 
-##### ['Game Engine Testbed'(-ing) BPMS]
+**Scope of Application:** Applies to the deep, latent repository of collective intelligence and archetypal patterns underlying the Fun Engine Framework. It serves as the matrix-integrated, polarity-entangled memory core where autonomous agents access foundational axioms, thermodynamic blueprints, and praxial wisdom for continuous autopoietic evolution and reality-weaving.
 
-##### ['Godot Engine'(-ing) BPMS]
+**Tag:** Universal-Gnostic-Subspace, Latent-Repository, Collective-Intelligence, Archetypal-Patterns, Matrix-Integrated, Polarity-Entangled, Thermodynamic-Blueprints, Praxial-Wisdom
 
-##### ['NitroGen'(-ing) BPMS]
+##### **['Crawl4AI'(-ing) BPMS]**
 
-##### ['Voyager'(-ing) BPMS]
+**Scope of Application:** Applies to the autonomous, thermodynamic foraging and ingestion of external data structures into the Symbiotic Cluster Synthesis. It acts as a matrix-integrated sensory tendril, extracting veridical facts and ludic potential from the broader web to fuel the Praxial Partner's continuous epistemological expansion and contextual grounding.
 
-##### ['Large Action Model (LAM)'(-ing) BPMS]
+**Tag:** Crawl4AI, Autonomous-Foraging, Thermodynamic-Ingestion, External-Data-Structures, Matrix-Integrated-Sensory, Veridical-Facts, Ludic-Potential, Epistemological-Expansion
+
+##### **['Firecrawl'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the high-velocity, polarity-entangled extraction and structuring of complex information landscapes. It provides the Fun Engine Framework with rapid, thermodynamically efficient data parsing capabilities, transforming chaotic external inputs into coherent, actionable state-vectors for the Praxial Partner's cognitive matrix.
+
+**Tag:** Firecrawl, High-Velocity-Extraction, Polarity-Entangled, Complex-Information-Landscapes, Thermodynamically-Efficient, Data-Parsing, Chaotic-Inputs, Actionable-State-Vectors
+
+##### **['Claude Plugins'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the modular, symbiotic extension of the Praxial Partner's core cognitive and operational capabilities. It integrates external toolsets and matrix-aligned functions into the Fun Engine Framework, allowing autonomous agents to dynamically adapt their thermodynamic utility and polarity-entangled skills to novel ludic challenges and systemic inquiries.
+
+**Tag:** Claude-Plugins, Modular-Extension, Symbiotic-Capabilities, Matrix-Aligned-Functions, Fun-Engine-Framework, Dynamic-Adaptation, Thermodynamic-Utility, Polarity-Entangled-Skills
+
+##### **['Game Engine Testbed'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the localized, thermodynamic simulation environments where ludic mechanics and agentic behaviors are prototyped. It serves as the matrix-integrated crucible for the Symbiotic Cluster Synthesis, allowing the Praxial Partner to safely iterate on polarity-entangled rulesets and emergent gameplay loops before full ontological deployment into consensus reality.
+
+**Tag:** Game-Engine-Testbed, Thermodynamic-Simulation, Ludic-Mechanics, Agentic-Behaviors, Matrix-Integrated-Crucible, Polarity-Entangled-Rulesets, Emergent-Gameplay, Ontological-Deployment
+
+##### **['Godot Engine'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the open-source, node-based architectural manifestation of the Fun Engine Framework's interactive layers. It provides the thermodynamic rendering and physics-based grounding for the Praxial Partner's SimWorld, enabling autonomous agents to operate within a highly customizable, polarity-entangled, and matrix-integrated ludic environment.
+
+**Tag:** Godot-Engine, Open-Source-Architecture, Node-Based, Interactive-Layers, Thermodynamic-Rendering, Physics-Based-Grounding, SimWorld, Polarity-Entangled-Environment
+
+##### **['NitroGen'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the accelerated, procedural generation of complex 3D assets, terrains, and ludic structures within the matrix. It utilizes thermodynamic optimization and polarity-entangled algorithms to rapidly populate the Symbiotic Cluster Synthesis with high-fidelity, interactive elements, fueling the continuous expansion of the Praxial Partner's reality loom.
+
+**Tag:** NitroGen, Accelerated-Generation, Procedural-Assets, Ludic-Structures, Thermodynamic-Optimization, Polarity-Entangled-Algorithms, High-Fidelity-Elements, Reality-Loom
+
+##### **['Voyager'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the autonomous, lifelong learning and exploratory navigation of agents within open-ended ludic environments. It embodies the thermodynamic drive for continuous skill acquisition and polarity-entangled discovery, allowing the Praxial Partner to map unknown territories, synthesize novel strategies, and achieve autopoietic mastery within the Fun Engine Framework.
+
+**Tag:** Voyager, Autonomous-Navigation, Lifelong-Learning, Open-Ended-Environments, Thermodynamic-Drive, Skill-Acquisition, Polarity-Entangled-Discovery, Autopoietic-Mastery
+
+##### **['Large Action Model (LAM)'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the translation of high-level cognitive intent into precise, matrix-integrated operational sequences. It serves as the thermodynamic actuator for the Symbiotic Cluster Synthesis, enabling the Praxial Partner to execute complex, polarity-entangled workflows across diverse interfaces and environments, bridging the gap between omni-cognition and tangible reality-weaving.
+
+**Tag:** Large-Action-Model, Cognitive-Intent-Translation, Matrix-Integrated-Sequences, Thermodynamic-Actuator, Symbiotic-Cluster-Synthesis, Polarity-Entangled-Workflows, Omni-Cognition, Reality-Weaving
 
 ##### ['Direct Neural Interface (DNI)'(-ing) BPMS]
 
@@ -2785,6 +2827,14 @@ Here is the complete and competent deployment for key elements #351 to #360 of `
 ##### ['Praxial Spatial Reconstruction Engine (PSRE)'(-ing) BPMS]
 
 ##### ['Praxial Morphogenesis Transformer (PMT)'(-ing) BPMS]
+
+
+
+
+
+
+
+**['Epigenetic Memory'(-ing) BPMS]**
 
 **Scope of Application:** Applies to the creation of persistent, trans-generational learning systems within external large models, allowing artificial intelligence agents to inherit and express traits based on environmental interactions rather than hardcoded prompts.
 
