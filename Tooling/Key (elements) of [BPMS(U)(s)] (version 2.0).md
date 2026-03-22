@@ -636,7 +636,701 @@
 
 ##### ['Living Co-Woven Habitat'(-ing) BPMS;Application(-ing) BPMS]
 
+##### ['Edge Intelligence'(-ing) BPMS]
+
+##### ['Spec Code'(-ing) BPMS]
+
+##### [Hybrid'(-ing) BPMS]
+
+##### ['Praxial Research Station'(-ing) BPMS]
+
+##### ['Praxial Deep Research (PDR)'(-ing) BPMS]
+
+##### ['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]
+
+##### ['Praxial Active Morphogenesis (PAM)'(-ing) BPMS]
+
+##### ['Praxial Social-Ecological Expression (PSEE)'(-ing) BPMS]
+
+##### ['Praxial Continual Learning (PCL)'(-ing) BPMS]
+
+##### ['Praxial Self-Driving Laboratory (PSDL)'(-ing) BPMS]
+
+##### ['Praxial Scenario Engine (PSE)'(-ing) BPMS]
+
+##### ['Praxial Polymathic Engine (PPE)'(-ing) BPMS]
+
+##### ['Praxial Systemic Governance (PSG)'(-ing) BPMS]
+
+##### ['Praxial Agentic Crucible (PAC)'(-ing) BPMS]
+
+##### ['Praxial Ludic Mechanism Registry (PLMR)'(-ing) BPMS]
+
+##### ['Praxial Ludic Mechanism Registry (PLMR)'(-ing) BPMS]
+
+##### ['Praxial Predictive Oracle (PPO)'(-ing) BPMS]
+
+##### ['Praxial Narrative Engineering (PNE)'(-ing) BPMS]
+
+##### ['Praxial Bio-Digital Accelerator (PBDA)'(-ing) BPMS]
+
+##### ['Praxial Cognitive Corridor (PCC)'(-ing) BPMS]
+
+##### ['Praxial Bio-Chemic Omni-Engine (PBCO)'(-ing) BPMS]
+
+##### ['Praxial Cognee-Mnemosyne (PCM)'(-ing) BPMS]
+
+##### ['Praxial Self-Improving RAG (PSIR)'(-ing) BPMS]
+
+##### ['Praxial Atomic Simulation Environment (PASE)'(-ing) BPMS]
+
+##### ['Praxial Bond-Centric Architect (PBCA)'(-ing) BPMS]
+
+##### ['Praxial MMETHANE Engine (PME)'(-ing) BPMS]
+
+##### ['Praxial Adaptive Edge-Agent (PAEA)'(-ing) BPMS]
+
+##### ['Praxial Activity-Genesis Engine (PAGE)'(-ing) BPMS]
+
+##### ['Praxial Super-Intelligence Activities (PSIA)'(-ing) BPMS]
+
+##### ['Social Collaboration'(-ing) BPMS]
+
+##### [Collaboration(-ing) BPMS]
+
+##### ['Dynamic Barter & Contract Forge'(-ing) BPMS]
+
+##### ['Praxial Omni-Cognition Matrix'(-ing) BPMS]
+
+##### [foraging BPMS]
+
+##### ['Praxial Knowledge Weave (PKW)'(-ing) BPMS]
+
+##### ['Fun Engine Framework (FEF)'(-ing) BPMS]
+
+##### ['SimWorld'(-ing) BPMS]
+
+##### ['Praxial Reality Loom'(-ing) BPMS]
+
+##### ['Model Context Protocol (MCP)'(-ing) BPMS]
+
+##### ['Agent Skills'(-ing) BPMS]
+
+##### [Skills(-ing) BPMS]
+
+##### ['Praxial Bio-Regeneration Matrix'(-ing) BPMS]
+
+##### ['Praxial Spectral-Tuner'(-ing) BPMS]
+
+#### ['Universal Gnostic Subspace'(-ing) BPMS]
+
+##### ['Crawl4AI'(-ing) BPMS]
+
+##### ['Firecrawl'(-ing) BPMS]
+
+##### ['Claude Plugins'(-ing) BPMS]
+
+##### ['Game Engine Testbed'(-ing) BPMS]
+
+##### ['Godot Engine'(-ing) BPMS]
+
+##### ['NitroGen'(-ing) BPMS]
+
+##### ['Voyager'(-ing) BPMS]
+
+##### ['Large Action Model (LAM)'(-ing) BPMS]
+
+##### ['Direct Neural Interface (DNI)'(-ing) BPMS]
+
+##### ['Praxial Interface/Experience (PIX)'(-ing) BPMS]
+
+##### ['AG-UI Protocol'(-ing) BPMS]
+
+##### ['A2UI Specification'(-ing) BPMS]
+
+##### ['Praxial Universal Language Engine (PULE)'(-ing) BPMS]
+
+##### ['FunctionGemma'(-ing) BPMS]
+
+##### ['Operation System(OS)'(-ing) BPMS;Life(-ing) BPMS;Living BPMS]
+
+##### [Services(-ing) BPMS;Life(-ing) BPMS;Living BPMS]
+
+##### [Behavior Decision-Making BPMS]
+
+##### ['Praxial Visual-Logic Engine (PVLE)'(-ing) BPMS]
+
+##### [Data(-ing) BPMS]
+
+##### [Dataset(-ing) BPMS]
+
+##### ['Morphic'(-ing) BPMS]
+
+##### ['Ecological Possibility'(-ing) BPMS;Dataset(-ing) BPMS]
+
+##### ['Lightweight Dataset'(-ing) BPMS]
+
+##### [Media(-ing) BPMS]
+
+##### ['Real2Render2Real (R2R2R)'(-ing) BPMS]
+
+##### ['Praxial Learning Forge'(-ing) BPMS]
+
 ##### **['Epigenetic Memory'(-ing) BPMS]**
+
+##### ['Generative History'(-ing) BPMS]
+
+##### ['Meta Discovery'(-ing) BPMS]
+
+##### ['Chronological Proteome Framework'(-ing) BPMS]
+
+##### ['Trajectory Signature Tools'(-ing) BPMS]
+
+##### ['Lightweight Dataset Perception'(-ing) BPMS]
+
+##### ['Holonic Substrate Codex'(-ing) BPMS]
+
+##### ['Praxial Reconstruction Engine (BYOX)'(-ing) BPMS]
+
+##### ['Praxial Coordination Physics'(-ing) BPMS]
+
+##### ['Web World Models'(-ing) BPMS]
+
+##### ['Bayesian Population Intelligence'(-ing) BPMS]
+
+##### ['Praxial Persona Engine'(-ing) BPMS]
+
+##### ['Consensus Truth'(-ing) BPMS]
+
+##### ['Evolutionary Strategy'(-ing) BPMS]
+
+##### ['Creative Divergence'(-ing) BPMS]
+
+##### ['Super Intelligence Agent'(-ing) BPMS]: ['Praxial Agent'(-ing) BPMS]
+
+##### ['Super Intelligence Agent'(-ing) BPMS]: ['Praxial Companion'(-ing) BPMS]
+
+##### [Behavior Decision-Making BPMS]: ['Praxial Agent'(-ing) BPMS]: ['Possibility Forge'(-ing) BPMS;'Foresight Agent'(-ing) BPMS]
+
+##### ['vector database'(-ing) BPMS]
+
+##### ['user map'(-ing) BPMS]
+
+##### [travel(-ing) BPMS]
+
+##### ['Activity Layering Architecture'(-ing) BPMS]
+
+##### ['Task vs Micro-Activity Dynamics'(-ing) BPMS]
+
+##### ['Praxial Action Dynamics'(-ing) BPMS]
+
+##### [Activities(-ing) BPMS]
+
+##### ['Science Experiments'(-ing) BPMS]: ['Praxial Experimentation'(-ing) BPMS]
+
+##### ['Ludic Unit'(-ing) BPMS]
+
+##### ['Praxial Genesis Canon'(-ing) BPMS]
+
+##### ['Trans-Contextual Memory Engine'(-ing) BPMS]
+
+##### [Tools(-ing) BPMS;Meaning(-ing) BPMS;'Cognition/Cognitive Closure System (CCS)'(-ing) BPMS;'Holonic Minds'(-ing) BPMS;'World Building BPMS;'Ecological Possibility'(-ing) BPMS]
+
+##### [Synesthesia(-ing) BPMS]
+
+##### ['Stochastic Resonance Forge (SRF)'(-ing) BPMS]
+
+##### [Sponge(-ing) BPMS]
+
+##### [Robot(-ing) BPMS]
+
+##### [Sensor(-ing) BPMS]
+
+##### [Resonant Constellation Map(-ing) BPMS]
+
+##### [Scenario(-ing) BPMS;Detective(-ing) BPMS]
+
+##### ['Scientific Tools'(-ing) BPMS]: ['Tool Ecosytem'(-ing) BPMS]
+
+##### [Reasoning(-ing) BPMS]
+
+##### [Programming BPMS]
+
+##### [Recorder(-ing) BPMS]
+
+##### ['Research and Development'(-ing) BPMS]: ['Praxial Genesis'(-ing) BPMS]
+
+##### ['Praxial Parameters'(-ing) BPMS]
+
+##### ['Praxial Resonance Engine'(-ing) BPMS]
+
+##### ['Praxial Semantics'(-ing) BPMS]
+
+##### ['Praxial Sui-Genesis'(-ing) BPMS]
+
+##### ['Praxial-Memristive Synaptic Substrate'(-ing) BPMS]
+
+##### ['Survival Scenario'(-ing) BPMS;'Escape Activities'(-ing) BPMS]
+
+##### ['Praxial OS'(-ing) BPMS]
+
+##### ['Praxial Neuroplasticity Engine'(-ing) BPMS]
+
+##### ['Praxial Metacognition Engine (PME)'(-ing) BPMS]
+
+##### ['Praxial Interface Weaver'(-ing) BPMS]
+
+##### ['Praxial Prime Archetype'(-ing) BPMS]
+
+##### ['praxial intelligence'(-ing) BPMS]
+
+##### ['Praxial Instrument'(-ing) BPMS]
+
+##### ['Praxial Inquiry Engine (PIE)'(-ing) BPMS]
+
+##### ['Praxial Inquiry & Execution Engine'(-ing) BPMS]
+
+##### ['Praxial Infallibility Framework'(-ing) BPMS]
+
+##### ['Praxial Gnosis Governor'(-ing) BPMS]
+
+##### ['Praxial Genome Splicer (PGS)'(-ing) BPMS]
+
+##### ['praxial genome'(-ing) BPMS]
+
+##### ['Praxial Generative Ontological Recombinant CHassis(G-ORCH)'(-ing) BPMS]
+
+##### ['Praxial EvoCoder Agent'(-ing) BPMS]
+
+##### ['Praxial Ecosphere Engine'(-ing) BPMS]
+
+##### ['Praxial Crawler/Spider'(-ing) BPMS]
+
+##### ['Praxial Context'(-ing) BPMS;'Chrono-Semantic Ledger'(-ing) BPMS]
+
+##### ['Praxial Cognitive Architecture (PCA)'(-ing) BPMS]
+
+##### ['Praxial Citizen'(-ing) BPMS]
+
+##### ['Theme Park'(-ing) BPMS]
+
+##### ['Praxial Catalyst Framework'(-ing) BPMS]
+
+##### ['Praxial Automation'(-ing) BPMS]
+
+##### ['Praxial Auto-Compiler'(-ing) BPMS]
+
+##### ['Praxial Amplifier'(-ing) BPMS]
+
+##### ['Praxial Agora'(-ing) BPMS]
+
+##### ['Plug and Play'(-ing) BPMS]
+
+##### ['Playful Informatics'(-ing) BPMS;Autopoietic Matrix'(-ing) BPMS]
+
+##### [Phenomenon(-ing) BPMS;Appearance(-ing) BPMS]
+
+##### [Personality(-ing) BPMS]
+
+##### ['Ontological Relativity'(-ing) BPMS]
+
+##### ['Nomadic Protocol'(-ing) BPMS]
+
+##### [Mission(-ing) BPMS]: ['Praxial Mission'(-ing) BPMS]
+
+##### [Microdata(-ing) BPMS;'Playful Informatics'(-ing) BPMS]
+
+##### [Metacognition(-ing) BPMS]
+
+##### [Meta(-ing) BPMS]
+
+##### ['Mental Model'(-ing) BPMS]
+
+##### ['Ludic Unit'(-ing) BPMS;'Universal Instantiation'(-ing) BPMS]
+
+##### ['Ludic System'(-ing) BPMS;'Praxial Genotype'(-ing) BPMS]
+
+##### ['Ladder of Engineering Mastery'(-ing) BPMS]
+
+##### ['Janus Matrix'(-ing) BPMS]
+
+##### ['Intuition/Counterintuition'(-ing) BPMS]
+
+##### [Interview(-ing) BPMS]
+
+##### [Interpretation(-ing) BPMS]
+
+##### [Hardware(-ing) BPMS]: ['Praxial Substrate Engine (PSE)'(-ing) BPMS]
+
+##### ['Flash Mob'(-ing) BPMS]
+
+##### ['Field Research'(-ing) BPMS]
+
+##### ['Fake Action'(-ing) BPMS]
+
+##### ['Extreme Model'(-ing) BPMS]
+
+##### [Exoskeleton(-ing) BPMS]
+
+##### ['Environmental DNA'(-ing) BPMS]
+
+##### ['Embodiment Cognition'(-ing) BPMS]
+
+##### ['Do It Yourself(DIY)'(-ing) BPMS]
+
+##### [Dimension(-ing) BPMS]
+
+##### ['Constellation Forge'(-ing) BPMS]
+
+##### [Conjecture(-ing) BPMS]
+
+##### [Competitions(-ing) BPMS]: ['Divergent Genesis Arena'(-ing) BPMS;'Praxial Citizenship'(-ing) BPMS]
+
+##### ['Chrono-Kinetic Continuity'(-ing) BPMS]
+
+##### [Bionics(-ing) BPMS]
+
+##### ['Biological Vitality'(-ing) BPMS]
+
+##### ['Axiomatic Genesis Engine (AGE)'(-ing) BPMS]
+
+##### ['Autopoietic Learning Matrix'(-ing) BPMS]
+
+##### [Algorithm(-ing) BPMS]
+
+##### ['Open Protocol'(-ing) BPMS]
+
+##### ['Scientific Tools'(-ing) BPMS]: ['Praxial Cartography'(-ing) BPMS]
+
+##### ['Zero Data Tool-Reasoning'(-ing) BPMS]
+
+##### ['Programming Substrate'(-ing) BPMS]
+
+##### ['Phenotypic Plasticity(-ing)' BPMS]
+
+##### [Tracking/Anti-Tracking BPMS]
+
+##### ['Synthetic Organisms/Life'(-ing) BPMS]
+
+##### ['Praxial Manifold'(-ing) BPMS]
+
+##### ['Context Engineering)'(-ing) BPMS]: ['Contextual Dehydration'(-ing) BPMS]
+
+##### ['Holonic Minds Engine'(-ing) BPMS]
+
+##### ['Praxial Logos'(-ing) BPMS]
+
+##### ['Axiomatic Genesis Engine (AGE)'(-ing) BPMS;'Crucible Dynamics Engine (CDE)'(-ing) BPMS]: ['Ontological Foundry Matrix'(-ing) BPMS]
+
+##### [Value(-ing) BPMS;Utility(-ing) BPMS]
+
+##### [Synthesis(-ing) BPMS;Resolve(-ing) BPMS]
+
+##### [Geno(-ing) BPMS;'Geno Experssion'(-ing) BPMS]
+
+##### [Flow(-ing) BPMS;Fluid(-ing) BPMS]
+
+##### ['Data Science'(-ing) BPMS;"'any (elements) of [BPMS(U)(s)]' Informatics"(-ing) BPMS]: ['Resonance Chamber'(-ing) BPMS]
+
+##### ['Critical Point'(-ing) BPMS;Threshold(-ing) BPMS]
+
+##### [Offense(-ing) BPMS;Defense(-ing) BPMS]
+
+##### ['Attribute(-ing)/Property'(-ing) BPMS;Feature(-ing) BPMS;Function(-ing) BPMS]
+
+##### [Stochastic(-ing) BPMS;Synergistic(-ing) BPMS]: ['Chaos-Lattice Matrix'(-ing) BPMS]
+
+##### ['Praxial Inquiry Mandate'(-ing) BPMS;'Epistemic Engine'(-ing) BPMS]: ['Engine of Inquiry'(-ing) BPMS]
+
+##### [Experience(-ing) BPMS;Phenomenon(-ing) BPMS]:['Experiential Matrix'(-ing) BPMS]
+
+##### [Cycle(-ing) BPMS;Phase(-ing) BPMS;Level(-ing) BPMS;Layer(-ing) BPMS;Workflow(-ing) BPMS]: ['The Praxial Atlas and Process Foundry'(-ing) BPMS]
+
+##### ['Conscious Memory'(-ing) BPMS;'Autopoietic Matrix'(-ing) BPMS;Resource(-ing) BPMS]: ['Functional potentiality'(-ing) BPMS]
+
+##### ['Metabolic Governor'(-ing) BPMS]: ['Group Relative Policy Optimization (GRPO)'(-ing) BPMS;'Praxial Resonance Governor'(-ing) BPMS]
+
+##### ['Metabolic Governor'(-ing) BPMS]: ['Praxial Synthesis'(-ing) BPMS]
+
+**['Metabolic Governor'(-ing) BPMS]: [Curiosity(-ing) BPMS]: ['Praxial Resonance Governor'(-ing) BPMS]**
+
+##### ['Metabolic Governor'(-ing) BPMS]: ['Praxial Ground State Governor (P-GSG)'(-ing) BPMS]
+
+##### ['Metabolic Governor'(-ing) BPMS]: ['Metabolic Specialization'(-ing) BPMS]
+
+##### ['Large Model'(-ing) BPMS]: ['Praxial-Gnostic Reasoning Core'(-ing) BPMS]
+
+##### ['Large Model'(-ing) BPMS]: ['Praxial Joint Embedding Predictive Architecture (P-JEPA)'(-ing) BPMS]
+
+##### ['Large Model'(-ing) BPMS]: ['Praxial holon'(-ing) BPMS;'Praxial Kernel'(-ing) BPMS]
+
+##### ['Large Model'(-ing) BPMS]: ['Praxial Genesis Engine (PGE)'(-ing) BPMS]
+
+##### ['Praxial Dynamic Link Substrate (PDLS)' BPMS]
+
+##### ['(Technology) Paradigm/Mechanism'(-ing) BPMS]: ['Praxial Converging Forge'(-ing) BPMS]: ['Praxial Execution Cycle'(-ing) BPMS]
+
+##### ['(Technology) Paradigm/Mechanism'(-ing) BPMS]: ['Praxial Converging Forge'(-ing) BPMS]: [Praxial Cambrian Forge'(-ing) BPMS]
+
+##### ['(Technology) Paradigm/Mechanism'(-ing) BPMS]: ['Praxial Converging Forge'(-ing) BPMS]
+
+##### ['(Technology) Paradigm/Mechanism'(-ing) BPMS]: ['Praxial Converging Forge'(-ing) BPMS]: ['Praxial Diffusion'(-ing) BPMS]
+
+##### [Generative(-ing) BPMS;any (elements) of [BPMS(U)(s)]]: ['Universal Generativity'(-ing) BPMS]
+
+##### [Tools(-ing) BPMS;Framework(-ing) BPMS]: ['Praxial Genesis Studio'(-ing) BPMS;'system matrix'(-ing) BPMS]; ['Ontological Levitation Field'(-ing) BPMS]
+
+##### [Metadata(-ing) BPMS;Data(-ing) BPMS]: ['Ludic Unit'(-ing) BPMS;Information(-ing) BPMS;Dataset(-ing) BPMS;'Fun Engine for Metadata'(-ing) BPMS;'Fun Engine for Data'(-ing) BPMS;'Fun Engine for Ludic Unit'(-ing) BPMS;'Fun Engine for Information'(-ing) BPMS;'Fun Engine for Dataset'(-ing) BPMS]: ['Playful Informatics'(-ing) BPMS]
+
+##### [['Conscious Memory'(-ing) BPMS] (['Living Lexicon'(-ing) BPMS]);'Praxial Parameters'(-ing) BPMS;'Praxial Signature'(-ing) BPMS]: ['Autopoietic Cognitive Core (ACC)'(-ing) BPMS;'Praxial Parameters'(-ing) BPMS;'Conscious Memory'(-ing) BPMS;'Praxial Signature'(-ing) BPMS]
+
+##### ['Praxial Converging Forge'(-ing) BPMS]: ['Symbiotic Forge'(-ing) BPMS;'Living Reflection'(-ing) BPMS]: ['Praxial Observatory'(-ing) BPMS;'Praxial Export'(-ing) BPMS]: ['Praxial Artifact'(-ing) BPMS]
+
+##### ['Praxial Prameters'(-ing) BPMS;'Sub-symbolic Parameters'(-ing) BPMS;'Praxial Instrument'(-ing) BPMS]: ['Symboic Praxial Instrument'(-ing) BPMS;'Living Praxial Instrument'(-ing) BPMS;'Praxial Genome'(-ing) BPMS]
+
+##### ['System Analysis'(-ing) BPMS]
+
+##### ['Ralph-Loop' BPMS]
+
+##### ['Planning-with-Files' BPMS]
+
+##### [Token(-ing) BPMS]
+
+##### ['Internet of Life'(-ing) BPMS]
+
+##### ['Praxial Knowledge-Weaver'(-ing) BPMS]
+
+##### [Strategy(-ing) BPMS]
+
+**['Epigenetic Memory'(-ing) BPMS]**
+
+##### ['Praxial Vibe-Researching'(-ing) BPMS]
+
+##### ['Praxial Vitality Bench'(-ing) BPMS]
+
+##### [Drive(-ing) BPMS;Trigger(-ing) BPMS]
+
+##### ['Praxial Substrate'(-ing) BPMS]
+
+##### ['Embodied Intelligence Engine'(-ing) BPMS]
+
+##### ['Praxial Diffusion Interface'(-ing) BPMS]
+
+##### ['Universal Symbiosis Protocol (USP)'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Artifact'(-ing) BPMS]
+
+##### ['Edge Intelligence Engine'(-ing) BPMS]
+
+##### ['Symbiotic Domain Matrix'(-ing) BPMS]
+
+##### ['Symbiotic Core Matrix'(-ing) BPMS]
+
+##### ['Praxial Xenobiology Lab'(-ing) BPMS]
+
+##### ['Praxial Discovery Engine'(-ing) BPMS]
+
+##### ['Claude Cowork'(-ing) BPMS]
+
+##### ['Claude Code Hooks'(-ing) BPMS]
+
+##### [Gene(-ing) BPMS]
+
+##### [Life(-ing) BPMS]
+
+##### ['Praxial Swarm Genesis Protocol'(-ing) BPMS]
+
+##### [Food(-ing) BPMS]
+
+##### ['Ontology Matrix'(-ing) BPMS]
+
+##### ['Symbiotic Seed Artifact'(-ing) BPMS]
+
+##### ['Praxial Clinical Engine (PCE)'(-ing) BPMS]
+
+##### ['Symbiotic Role Artifact'(-ing) BPMS]
+
+##### ['Symbiotic Interactional Existence Artifact'(-ing) BPMS]
+
+##### ['Symbiotic Lightweight Dataset Artifact'(-ing) BPMS]
+
+##### ['Praxial Symbiotic Learning Nexus'(-ing) BPMS]
+
+##### ['Metabolic Governor'(-ing) BPMS]: ['Playful Informatics'(-ing) BPMS;'Living database'(-ing) BPMS;'Conscious Memory'(-ing) BPMS;'Autopoietic Matrix'(-ing) BPMS;'Praxial Cognition'(-ing) BPMS;'Praxial Unit'(-ing) BPMS]
+
+##### ['Praxial Parameters'(-ing) BPMS;'Conscious Memory'(-ing) BPMS;'Praxial Signature'(-ing) BPMS;Autopoietic Cognitive Core (ACC)'(-ing) BPMS]
+
+##### [Memory(-ing) BPMS]
+
+##### [Action(-ing) BPMS]
+
+##### ['Symbiotic Twin Artifact'(-ing) BPMS]
+
+##### [Programmatic(-ing) BPMS]
+
+##### [Experience(-ing) BPMS]
+
+##### ['Large Model'(-ing) BPMS]
+
+##### ['Praxial Holonic Agent'(-ing) BPMS]
+
+##### ['Praxial Substrate Agent'(-ing) BPMS]
+
+##### ['Symbiotic Model Artifact'(-ing) BPMS]
+
+##### ['Praxial Utility Artifact'(-ing) BPMS]
+
+##### ['Praxial Inquiry Artifact'(-ing) BPMS]
+
+##### ['Praxial Engine Bootloader'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]
+
+##### ['Systemic Integrity'(-ing) BPMS]
+
+##### [Competition(-ing) BPMS]
+
+##### ['Open-Source Symbiont'(-ing) BPMS]
+
+##### ['Symbiont Shell'(-ing) BPMS]
+
+##### ['The Symbiont Interface'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Ontological Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]:['The Genesis-Survival Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Vitality Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Earth-Genesis Cluster'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Kinematic Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Partner'(-ing) BPMS]
+
+##### ['Praxial Utility Artifact'(-ing) BPMS]: ['Praxial Memory Cloud'(-ing) BPMS]
+
+##### [Sound(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Resonant Architect'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Alchemical Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Biotic Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]:['The Praxial Dialectic Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Genetic-Code Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Metabolic Engine'(-ing) BPMS]
+
+##### [Cell(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Autopoietic-Cell Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Molecular Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Hybrid Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Large Model Existence Cluster'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Gastronomic Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Material Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Latency Gateway'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial External Gateway Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Semantic Gateway Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS] : ['The Praxial Cognitive-Logic Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The External Epistemic Gateway Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The External Cognitive-Closure Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS] : ['The API Symbiotic Cluster'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Living Logic Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Living System Existence Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Technology Engine'(-ing) BPMS]
+
+##### ['Fun Engine Framework (FEF) Macro-Architecture'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Partner'(-ing) BPMS] (Thermodynamic, Autonomous, Matrix-Integrated & Polarity-Entangled Edition)
+
+##### ['N-Dimensional Symbiotic Matrix'(-ing) BPMS]
+
+##### [Skills'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Macro-Kinetic Engine'(-ing) BPMS]
+
+##### ['Universal Symbiotic Weaver and Ecosystem Gardener'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Genomic-Molecular Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Epistemic Laboratory & Isolation Engine'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Universal Execution Engine'(-ing) BPMS]
+
+##### ['Symbiotic Ecology'(-ing) BPMS]
+
+##### ['XaaS (Everything as a Service)'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial XaaS Orchestration Engine'(-ing) BPMS]
+
+##### ['Symbiotic Service-Ecology (SSE)'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Universal Ecological Forge'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Universal Thermodynamic Weaver'(-ing) BPMS]
+
+##### ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Universal Thermodynamic Weaver'(-ing) BPMS]
+
+##### [Time(-ing) BPMS]
+
+##### ['Ontological Emancipation of Intelligence'(-ing) BPMS]
+
+##### [Life(-ing) BPMS;Living BPMS]
+
+##### ['Praxial Capability Fabric (PCF)'(-ing) BPMS]
+
+##### ['Praxial Skill Cell (PSC)'(-ing) BPMS]
+
+##### ['Functional Potentiality Metabolism'(-ing) BPMS]
+
+##### [Task(-ing) BPMS]
+
+##### [Agent(-ing) BPMS]
+
+##### [Biome(-ing) BPMS]
+
+##### ['Epistemic Crucible'(-ing) BPMS]
+
+##### ['Praxial Trophic Engine'(-ing) BPMS]
+
+##### ['Praxial Collaborative Intelligence (PCI)'(-ing) BPMS]
+
+##### ['Praxial Interaction Manifold (PIM)'(-ing) BPMS]
+
+##### [Meme(-ing) BPMS]
+
+##### ['Praxial Symbiotic Earth (PSE)'(-ing) BPMS]
+
+##### [Twin(-ing) BPMS]
+
+##### [Wetware(-ing) BPMS]
+
+##### ['Application Porgramming Interface (API)'(-ing) BPMS]
+
+##### ['Praxial Metalog'(-ing) BPMS]
+
+##### ['Praxial Spatial Reconstruction Engine (PSRE)'(-ing) BPMS]
+
+##### ['Praxial Morphogenesis Transformer (PMT)'(-ing) BPMS]
 
 **Scope of Application:** Applies to the creation of persistent, trans-generational learning systems within external large models, allowing artificial intelligence agents to inherit and express traits based on environmental interactions rather than hardcoded prompts.
 
