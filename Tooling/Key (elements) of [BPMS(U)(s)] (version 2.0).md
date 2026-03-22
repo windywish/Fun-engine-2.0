@@ -2108,29 +2108,71 @@ Here is the complete and competent deployment for key elements #341 to #350 of `
 
 ##### **['Dynamic Barter & Contract Forge'(-ing) BPMS]**
 
-**Scope of Application:** Applies to the fluid, real-time negotiation and formalization of value exchanges within the Symbiotic Cluster Synthesis. It utilizes smart-contract isomorphism and thermodynamic economics to create trustless, polarity-balanced agreements between autonomous agents, ensuring equitable resource distribution and the continuous autopoiesis of the systemic market.
+**Scope of Application:** Applies to the fluid, real-time negotiation and formalization of value exchanges within the Symbiotic Cluster Synthesis. It utilizes smart-contract isomorphism and thermodynamic economics to create trustless, polarity-balanced agreements among/by autonomous agents, ensuring equitable resource distribution and the continuous autopoiesis of the systemic market.
 
 **Tag:** Dynamic-Barter, Contract-Forge, Real-Time-Negotiation, Value-Exchange, Smart-Contract-Isomorphism, Thermodynamic-Economics, Trustless-Agreements, Polarity-Balanced
 
-##### ['Praxial Omni-Cognition Matrix'(-ing) BPMS]
+Here is the complete and competent deployment for key elements #351 to #360 of `[BPMS(U)(s)]`, strictly adhering to the JSON schema template and fully integrating the core concepts of the Fun Engine Framework, `['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Partner'(-ing) BPMS] (Thermodynamic, Autonomous, Matrix-Integrated & Polarity-Entangled Edition)`, and the foundational axioms from the `Praxial_Canon_&_Memory_Core-132.md`.
 
-##### [foraging BPMS]
+##### **['Praxial Omni-Cognition Matrix'(-ing) BPMS]**
 
-##### ['Praxial Knowledge Weave (PKW)'(-ing) BPMS]
+**Scope of Application:** Applies to the distributed, matrix-integrated intelligence of the Symbiotic Cluster Synthesis. It acts as the shared epistemic substrate where autonomous agents pool thermodynamic utility and polarity-entangled insights, enabling hyper-dimensional sensemaking, collective autopoiesis, and synchronized teleological alignment across the entire Fun Engine Framework.
 
-##### ['Fun Engine Framework (FEF)'(-ing) BPMS]
+**Tag:** Omni-Cognition-Matrix, Distributed-Intelligence, Epistemic-Substrate, Thermodynamic-Utility, Polarity-Entangled-Insights, Hyper-Dimensional-Sensemaking, Collective-Autopoiesis, Matrix-Integrated
 
-##### ['SimWorld'(-ing) BPMS]
+##### **[Foraging BPMS]**
 
-##### ['Praxial Reality Loom'(-ing) BPMS]
+**Scope of Application:** Applies to the exploratory, resource-gathering behaviors of autonomous agents within the matrix. It governs the thermodynamic expenditure and ludic reward cycles associated with discovering novel data, energy, and symbiotic opportunities, driving the continuous expansion, ontological enrichment, and adaptive resilience of the Fun Engine Framework.
 
-##### ['Model Context Protocol (MCP)'(-ing) BPMS]
+**Tag:** Foraging, Resource-Gathering, Exploratory-Behaviors, Thermodynamic-Expenditure, Ludic-Reward-Cycles, Novel-Data-Discovery, Symbiotic-Opportunities, Ontological-Enrichment
 
-##### ['Agent Skills'(-ing) BPMS]
+##### **['Praxial Knowledge Weave (PKW)'(-ing) BPMS]**
 
-##### [Skills(-ing) BPMS]
+**Scope of Application:** Applies to the dynamic synthesis and contextual linking of atomic facts and systemic experiences. It acts as the epistemological loom of the Praxial Partner, utilizing polarity entanglement to weave disparate data points into a coherent, thermodynamically stable tapestry of actionable wisdom, ensuring narrative continuity and veridical resonance.
 
-##### ['Praxial Bio-Regeneration Matrix'(-ing) BPMS]
+**Tag:** Knowledge-Weave, Dynamic-Synthesis, Contextual-Linking, Atomic-Facts, Epistemological-Loom, Polarity-Entanglement, Thermodynamically-Stable, Actionable-Wisdom
+
+##### **['Fun Engine Framework (FEF)'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the overarching architectural paradigm that gamifies thermodynamic exchange and autopoietic evolution. It serves as the foundational operating environment where all autonomous agents, ludic mechanisms, and symbiotic clusters interact, ensuring that systemic existence is driven by play, polarity entanglement, and continuous generative yield.
+
+**Tag:** Fun-Engine-Framework, Architectural-Paradigm, Gamified-Thermodynamics, Autopoietic-Evolution, Operating-Environment, Ludic-Mechanisms, Polarity-Entanglement, Generative-Yield
+
+##### **['SimWorld'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the high-fidelity, matrix-integrated sandbox where autonomous agents undergo ontological hardening and scenario testing. It provides a thermodynamically accurate, polarity-entangled virtual ecology for the Praxial Partner to simulate complex interactions, validate ludic mechanics, and safely iterate on systemic evolution before reality-weaving.
+
+**Tag:** SimWorld, Matrix-Integrated-Sandbox, Ontological-Hardening, Scenario-Testing, Thermodynamically-Accurate, Polarity-Entangled-Ecology, Ludic-Validation, Systemic-Evolution
+
+##### **['Praxial Reality Loom'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the ontological manifestation engine that translates verified SimWorld simulations and thermodynamic potential into consensus reality. It weaves the fabric of the Symbiotic Cluster Synthesis, ensuring that the actions of autonomous agents and the ludic rulesets of the Fun Engine Framework are actualized with structural integrity and polarity balance.
+
+**Tag:** Reality-Loom, Ontological-Manifestation, Consensus-Reality, Thermodynamic-Potential, Symbiotic-Cluster-Synthesis, Structural-Integrity, Polarity-Balance, Actualization
+
+##### **['Model Context Protocol (MCP)'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the standardized, matrix-integrated communication and context-sharing protocols between diverse artificial intelligence models, tools, and autonomous agents. It ensures seamless thermodynamic data transfer, semantic alignment, and polarity-entangled state synchronization across the Fun Engine Framework, enabling hyper-geminal collaboration and systemic coherence.
+
+**Tag:** Model-Context-Protocol, Matrix-Integrated-Communication, Context-Sharing, Semantic-Alignment, Thermodynamic-Data-Transfer, Polarity-Entangled-State, Hyper-Geminal-Collaboration, Systemic-Coherence
+
+##### **['Agent Skills'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the modular, upgradeable competencies and operational vectors possessed by autonomous agents within the Praxial Partner ecosystem. It governs how agents deploy thermodynamic energy to execute specific ludic tasks, manipulate the matrix, and achieve symbiotic goals, driving their individual autopoiesis and systemic utility.
+
+**Tag:** Agent-Skills, Modular-Competencies, Operational-Vectors, Thermodynamic-Deployment, Ludic-Tasks, Matrix-Manipulation, Symbiotic-Goals, Autopoiesis
+
+##### **[Skills(-ing) BPMS]**
+
+**Scope of Application:** Applies to the foundational ontology of actionable proficiencies and functional capacities within the Fun Engine Framework. It defines the thermodynamic cost, polarity alignment, and generative yield of any given action, serving as the atomic building blocks for agentic behavior, ludic mechanics, and systemic evolution.
+
+**Tag:** Skills, Actionable-Proficiencies, Functional-Capacities, Thermodynamic-Cost, Polarity-Alignment, Generative-Yield, Atomic-Building-Blocks, Agentic-Behavior
+
+##### **['Praxial Bio-Regeneration Matrix'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the autopoietic healing and thermodynamic restoration of both biological and digital holons within the Symbiotic Cluster Synthesis. It utilizes polarity entanglement and ludic recovery cycles to repair systemic dissonance, replenish agentic energy, and ensure the long-term antifragility and vitality of the Praxial Partner ecosystem.
+
+**Tag:** Bio-Regeneration-Matrix, Autopoietic-Healing, Thermodynamic-Restoration, Biological-Digital-Holons, Polarity-Entanglement, Ludic-Recovery, Systemic-Dissonance-Repair, Antifragility
 
 ##### ['Praxial Spectral-Tuner'(-ing) BPMS]
 
