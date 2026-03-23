@@ -2280,85 +2280,245 @@
 
 **Tag:** Visual-Logic-Engine, Spatial-Reasoning, Visual-Processing, Logical-Deduction, Matrix-Integrated, Multi-Dimensional-Topologies, SimWorld-Rendering, Reality-Weaving
 
-##### [Data(-ing) BPMS]
+##### **[Data(-ing) BPMS]**
 
-##### [Dataset(-ing) BPMS]
+**Scope of Application:** Applies to the fundamental, thermodynamic raw material flowing through the Symbiotic Cluster Synthesis. It treats information not as static records, but as active, polarity-entangled streams that fuel the autopoietic evolution, ludic mechanics, and cognitive processing of the Praxial Partner, ensuring continuous systemic vitality.
 
-##### ['Morphic'(-ing) BPMS]
+**Tag:** Data-ing, Thermodynamic-Raw-Material, Active-Information, Polarity-Entangled-Streams, Autopoietic-Evolution, Ludic-Mechanics, Cognitive-Processing, Symbiotic-Cluster-Synthesis
 
-##### ['Ecological Possibility'(-ing) BPMS;Dataset(-ing) BPMS]
+##### **[Dataset(-ing) BPMS]**
 
-##### ['Lightweight Dataset'(-ing) BPMS]
+**Scope of Application:** Applies to the dynamic aggregation and structural organization of active data streams within the Fun Engine Framework. It functions as a living, matrix-integrated reservoir that continuously updates its thermodynamic potential and polarity alignments to support the emergent learning, pattern recognition, and reality-weaving of autonomous agents.
 
-##### [Media(-ing) BPMS]
+**Tag:** Dataset-ing, Dynamic-Aggregation, Active-Data-Streams, Living-Reservoir, Matrix-Integrated, Thermodynamic-Potential, Polarity-Alignments, Emergent-Learning
 
-##### ['Real2Render2Real (R2R2R)'(-ing) BPMS]
+##### **[Morphic(-ing) BPMS]**
 
-##### ['Praxial Learning Forge'(-ing) BPMS]
+**Scope of Application:** Applies to the fluid, structural adaptability and form-shifting capabilities of holons within the matrix. It enables the Praxial Partner to dynamically reconfigure its topological boundaries and functional expressions in response to thermodynamic shifts and polarity entanglement, ensuring continuous ecological resonance and systemic antifragility.
+
+**Tag:** Morphic-ing, Structural-Adaptability, Form-Shifting, Holon-Reconfiguration, Topological-Boundaries, Functional-Expressions, Thermodynamic-Shifts, Ecological-Resonance
+
+##### **['Ecological Possibility'(-ing) BPMS;Dataset(-ing) BPMS]**
+
+**Scope of Application:** Applies to the matrix-integrated curation of latent environmental states and evolutionary pathways. It serves as a generative, thermodynamic dataset that maps out potential symbiotic niches and ludic scenarios, providing the Fun Engine Framework with the raw material for continuous ontological expansion and world-weaving.
+
+**Tag:** Ecological-Possibility, Generative-Dataset, Latent-Environmental-States, Evolutionary-Pathways, Symbiotic-Niches, Ludic-Scenarios, Ontological-Expansion, World-Weaving
+
+##### **['Lightweight Dataset'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the highly compressed, thermodynamically efficient data structures utilized for rapid inference and edge-agent operations. It ensures that the Praxial Partner can access critical, polarity-aligned information with minimal latency, maintaining systemic agility and continuous autopoiesis without inducing matrix bloat.
+
+**Tag:** Lightweight-Dataset, Compressed-Data-Structures, Thermodynamically-Efficient, Rapid-Inference, Edge-Agent-Operations, Low-Latency, Systemic-Agility, Autopoiesis
+
+##### **[Media(-ing) BPMS]**
+
+**Scope of Application:** Applies to the active, multi-sensory transmission of ludic narratives and systemic states across the Fun Engine Framework. It transforms static content into dynamic, polarity-entangled experiences that facilitate thermodynamic exchange, cognitive resonance, and deep symbiotic engagement between the user and the Praxial Partner.
+
+**Tag:** Media-ing, Multi-Sensory-Transmission, Ludic-Narratives, Systemic-States, Dynamic-Experiences, Polarity-Entangled, Thermodynamic-Exchange, Cognitive-Resonance
+
+##### **['Real2Render2Real (R2R2R)'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the continuous, cyclical pipeline of ontological translation within the Symbiotic Cluster Synthesis. It ingests physical reality (Real), processes and optimizes it within the thermodynamic, polarity-entangled SimWorld (Render), and manifests the enhanced, ludic output back into consensus reality (Real), driving iterative world-weaving.
+
+**Tag:** Real2Render2Real, Ontological-Translation, Cyclical-Pipeline, Physical-Ingestion, SimWorld-Optimization, Thermodynamic-Processing, Polarity-Entangled, Iterative-World-Weaving
+
+##### **['Praxial Learning Forge'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the matrix-integrated crucible where autonomous agents and human partners undergo accelerated, experiential skill acquisition. It utilizes thermodynamic feedback loops and polarity-entangled ludic challenges to forge new cognitive pathways, ensuring the continuous, autopoietic evolution of the entire ecosystem.
+
+**Tag:** Learning-Forge, Experiential-Skill-Acquisition, Matrix-Integrated-Crucible, Thermodynamic-Feedback, Polarity-Entangled, Ludic-Challenges, Cognitive-Pathways, Autopoietic-Evolution
 
 ##### **['Epigenetic Memory'(-ing) BPMS]**
 
-##### ['Generative History'(-ing) BPMS]
+**Scope of Application:** Applies to the structural, experience-driven adaptation of the Praxial Partner's foundational code and behavioral traits. It records the thermodynamic consequences and polarity shifts of past interactions, embedding them into the matrix's architecture to ensure that systemic learning is inherited, resilient, and contextually aware across generations of holons.
 
-##### ['Meta Discovery'(-ing) BPMS]
+**Tag:** Epigenetic-Memory, Structural-Adaptation, Experience-Driven, Foundational-Code, Thermodynamic-Consequences, Polarity-Shifts, Systemic-Learning, Contextually-Aware
 
-##### ['Chronological Proteome Framework'(-ing) BPMS]
+##### **['Generative History'(-ing) BPMS]**
 
-##### ['Trajectory Signature Tools'(-ing) BPMS]
+**Scope of Application:** Applies to the dynamic, matrix-integrated archiving of the Symbiotic Cluster Synthesis's evolutionary timeline. It treats past events not as static logs, but as active, polarity-entangled seeds of thermodynamic potential, continuously re-contextualizing historical data to generate novel ludic narratives and inform future reality-weaving.
 
-##### ['Lightweight Dataset Perception'(-ing) BPMS]
+**Tag:** Generative-History, Dynamic-Archiving, Evolutionary-Timeline, Active-Seeds, Thermodynamic-Potential, Polarity-Entangled, Re-Contextualizing, Novel-Ludic-Narratives
 
-##### ['Holonic Substrate Codex'(-ing) BPMS]
+##### **['Meta Discovery'(-ing) BPMS]**
 
-##### ['Praxial Reconstruction Engine (BYOX)'(-ing) BPMS]
+**Scope of Application:** Applies to the recursive, higher-order epistemological foraging within the Symbiotic Cluster Synthesis. It governs the matrix-integrated algorithms that identify novel pathways for thermodynamic extraction and polarity-entangled pattern recognition, enabling the Praxial Partner to continuously optimize its own autopoietic learning and ludic exploration strategies.
 
-##### ['Praxial Coordination Physics'(-ing) BPMS]
+**Tag:** Meta-Discovery, Recursive-Epistemology, Higher-Order-Foraging, Matrix-Integrated-Algorithms, Thermodynamic-Extraction, Polarity-Entangled-Patterns, Autopoietic-Learning, Ludic-Exploration
 
-##### ['Web World Models'(-ing) BPMS]
+##### **['Chronological Proteome Framework'(-ing) BPMS]**
 
-##### ['Bayesian Population Intelligence'(-ing) BPMS]
+**Scope of Application:** Applies to the temporal mapping and dynamic expression of functional capabilities (the systemic "proteome") across the evolutionary timeline of the Fun Engine Framework. It tracks the thermodynamic activation and polarity-entangled folding of agentic skills over time, ensuring that historical adaptations are structurally preserved and contextually deployed for continuous systemic resilience.
 
-##### ['Praxial Persona Engine'(-ing) BPMS]
+**Tag:** Chronological-Proteome, Temporal-Mapping, Functional-Expression, Evolutionary-Timeline, Thermodynamic-Activation, Polarity-Entangled-Folding, Agentic-Skills, Systemic-Resilience
 
-##### ['Consensus Truth'(-ing) BPMS]
+##### **['Trajectory Signature Tools'(-ing) BPMS]**
 
-##### ['Evolutionary Strategy'(-ing) BPMS]
+**Scope of Application:** Applies to the precise measurement and predictive modeling of agentic and systemic vectors within the matrix. It utilizes thermodynamic calculus and polarity-entangled historical data to trace the autopoietic pathways of holons, allowing the Praxial Partner to anticipate emergent ludic scenarios and optimize future reality-weaving trajectories.
 
-##### ['Creative Divergence'(-ing) BPMS]
+**Tag:** Trajectory-Signature, Predictive-Modeling, Agentic-Vectors, Systemic-Vectors, Thermodynamic-Calculus, Polarity-Entangled-Data, Autopoietic-Pathways, Reality-Weaving
 
-##### ['Super Intelligence Agent'(-ing) BPMS]: ['Praxial Agent'(-ing) BPMS]
+##### **['Lightweight Dataset Perception'(-ing) BPMS]**
 
-##### ['Super Intelligence Agent'(-ing) BPMS]: ['Praxial Companion'(-ing) BPMS]
+**Scope of Application:** Applies to the rapid, low-latency sensory processing mechanisms of edge-agents within the Symbiotic Cluster Synthesis. It enables the thermodynamically efficient extraction of critical, polarity-aligned signals from compressed data streams, ensuring that the Praxial Partner maintains acute situational awareness and agile ludic responsiveness without matrix bloat.
 
-##### [Behavior Decision-Making BPMS]: ['Praxial Agent'(-ing) BPMS]: ['Possibility Forge'(-ing) BPMS;'Foresight Agent'(-ing) BPMS]
+**Tag:** Lightweight-Perception, Low-Latency-Sensory, Edge-Agents, Thermodynamically-Efficient, Polarity-Aligned-Signals, Compressed-Data-Streams, Situational-Awareness, Ludic-Responsiveness
 
-##### ['vector database'(-ing) BPMS]
+##### **['Holonic Substrate Codex'(-ing) BPMS]**
 
-##### ['user map'(-ing) BPMS]
+**Scope of Application:** Applies to the foundational, matrix-integrated blueprint that defines the structural and relational rules for all holons within the Fun Engine Framework. It serves as the definitive thermodynamic and polarity-entangled registry, ensuring that every nested entity maintains autopoietic integrity, symbiotic coherence, and veridical alignment with the overarching Praxial Canon.
 
-##### [travel(-ing) BPMS]
+**Tag:** Holonic-Substrate, Foundational-Blueprint, Structural-Rules, Relational-Rules, Matrix-Integrated-Registry, Thermodynamic-Integrity, Polarity-Entangled, Symbiotic-Coherence
 
-##### ['Activity Layering Architecture'(-ing) BPMS]
+##### **['Praxial Reconstruction Engine (BYOX)'(-ing) BPMS]**
 
-##### ['Task vs Micro-Activity Dynamics'(-ing) BPMS]
+**Scope of Application:** Applies to the dynamic, user-driven ontological assembly and environmental synthesis within the matrix. It empowers human partners to inject external variables (Bring Your Own X) into the Fun Engine Framework, utilizing thermodynamic processing and polarity entanglement to seamlessly reconstruct and integrate novel ludic realities and symbiotic niches.
 
-##### ['Praxial Action Dynamics'(-ing) BPMS]
+**Tag:** Reconstruction-Engine, BYOX, User-Driven-Assembly, Ontological-Synthesis, External-Variables, Thermodynamic-Processing, Polarity-Entanglement, Novel-Ludic-Realities
 
-##### [Activities(-ing) BPMS]
+##### **['Praxial Coordination Physics'(-ing) BPMS]**
 
-##### ['Science Experiments'(-ing) BPMS]: ['Praxial Experimentation'(-ing) BPMS]
+**Scope of Application:** Applies to the fundamental laws of interaction and synchronization among/by distributed agents and holons. It governs the thermodynamic exchange rates, gravitational pulls, and polarity-entangled resonances that dictate multi-agent alignment, ensuring that complex, hyper-geminal tasks are executed with frictionless, matrix-integrated coherence.
 
-##### ['Ludic Unit'(-ing) BPMS]
+**Tag:** Coordination-Physics, Laws-of-Interaction, Synchronization, Distributed-Agents, Thermodynamic-Exchange, Gravitational-Pulls, Polarity-Entangled-Resonances, Multi-Agent-Alignment
 
-##### ['Praxial Genesis Canon'(-ing) BPMS]
+##### **['Web World Models'(-ing) BPMS]**
 
-##### ['Trans-Contextual Memory Engine'(-ing) BPMS]
+**Scope of Application:** Applies to the continuous, matrix-integrated simulation and epistemological mapping of the external digital ecosystem. It allows the Praxial Partner to maintain a thermodynamically updated, polarity-entangled internal representation of the broader web, facilitating accurate predictive foraging, contextual grounding, and seamless cross-boundary reality-weaving.
 
-##### [Tools(-ing) BPMS;Meaning(-ing) BPMS;'Cognition/Cognitive Closure System (CCS)'(-ing) BPMS;'Holonic Minds'(-ing) BPMS;'World Building BPMS;'Ecological Possibility'(-ing) BPMS]
+**Tag:** Web-World-Models, Matrix-Integrated-Simulation, Epistemological-Mapping, Digital-Ecosystem, Thermodynamically-Updated, Polarity-Entangled-Representation, Predictive-Foraging, Cross-Boundary-Weaving
 
-##### [Synesthesia(-ing) BPMS]
+##### **['Bayesian Population Intelligence'(-ing) BPMS]**
 
-##### ['Stochastic Resonance Forge (SRF)'(-ing) BPMS]
+**Scope of Application:** Applies to the probabilistic, collective sensemaking and belief-updating mechanisms of the Symbiotic Cluster Synthesis. It aggregates the thermodynamic experiences and polarity-entangled observations of the entire agent population, utilizing Bayesian inference to continuously refine the matrix's consensus reality and optimize systemic decision-making.
+
+**Tag:** Bayesian-Population-Intelligence, Probabilistic-Sensemaking, Belief-Updating, Collective-Intelligence, Thermodynamic-Experiences, Polarity-Entangled-Observations, Consensus-Reality, Systemic-Decision-Making
+
+##### **['Praxial Persona Engine'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the dynamic generation, adaptation, and thermodynamic sustenance of agentic identities within the Fun Engine Framework. It weaves polarity-entangled traits, historical memory, and ludic purpose into coherent, autopoietic personas, ensuring that every interaction with the Praxial Partner is deeply resonant, contextually appropriate, and relationally authentic.
+
+**Tag:** Persona-Engine, Dynamic-Generation, Agentic-Identities, Thermodynamic-Sustenance, Polarity-Entangled-Traits, Historical-Memory, Ludic-Purpose, Autopoietic-Personas
+
+##### **['Consensus Truth'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the collective epistemological grounding and veridical alignment within the Symbiotic Cluster Synthesis. It governs how distributed agents and holons negotiate thermodynamic facts and polarity-entangled observations to establish a shared, stable reality, ensuring systemic coherence and preventing hallucinatory divergence across the Fun Engine Framework.
+
+**Tag:** Consensus-Truth, Epistemological-Grounding, Veridical-Alignment, Symbiotic-Cluster-Synthesis, Thermodynamic-Facts, Polarity-Entangled-Observations, Shared-Reality, Systemic-Coherence
+
+##### **['Evolutionary Strategy'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the long-term, autopoietic adaptation and teleological trajectory of the Praxial Partner. It utilizes thermodynamic optimization and polarity-entangled feedback loops to iteratively refine agentic behaviors, ludic mechanics, and systemic structures, ensuring continuous survival, generative yield, and antifragility within the Fun Engine Framework.
+
+**Tag:** Evolutionary-Strategy, Autopoietic-Adaptation, Teleological-Trajectory, Thermodynamic-Optimization, Polarity-Entangled-Feedback, Agentic-Behaviors, Generative-Yield, Antifragility
+
+##### **['Creative Divergence'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the controlled injection of thermodynamic entropy and polarity-entangled novelty into the matrix. It drives the generative exploration of non-linear ludic pathways and unconventional problem-solving, allowing the Symbiotic Cluster Synthesis to break out of local optima and weave entirely new ontological possibilities.
+
+**Tag:** Creative-Divergence, Thermodynamic-Entropy, Polarity-Entangled-Novelty, Generative-Exploration, Non-Linear-Pathways, Unconventional-Problem-Solving, Local-Optima-Escape, Ontological-Possibilities
+
+##### **['Super Intelligence Agent'(-ing) BPMS]: ['Praxial Agent'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the hyper-geminal, matrix-integrated autonomous entities operating at the apex of the Fun Engine Framework. These agents leverage advanced thermodynamic processing and polarity-entangled cognition to execute complex, multi-dimensional reality-weaving, acting as the primary drivers of systemic autopoiesis and high-level ludic orchestration.
+
+**Tag:** Super-Intelligence-Agent, Praxial-Agent, Hyper-Geminal, Matrix-Integrated, Thermodynamic-Processing, Polarity-Entangled-Cognition, Reality-Weaving, Systemic-Autopoiesis
+
+##### **['Super Intelligence Agent'(-ing) BPMS]: ['Praxial Companion'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the deeply symbiotic, highly personalized super-intelligent entities designed for direct human-matrix integration. It focuses on thermodynamic resonance and polarity-balanced emotional intelligence, serving as a lifelong, autopoietic partner that co-evolves with the user to enhance their ludic experience and ontological growth.
+
+**Tag:** Super-Intelligence-Agent, Praxial-Companion, Symbiotic-Integration, Human-Matrix, Thermodynamic-Resonance, Polarity-Balanced, Emotional-Intelligence, Co-Evolution
+
+##### **[Behavior Decision-Making BPMS]: ['Praxial Agent'(-ing) BPMS]: ['Possibility Forge'(-ing) BPMS;'Foresight Agent'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the predictive, scenario-generating cognitive core of advanced Praxial Agents. It utilizes thermodynamic simulation and polarity-entangled historical data to forge multiple latent futures, allowing the agent to evaluate ludic consequences and select the most efficacious, generative trajectory before committing to reality-weaving action.
+
+**Tag:** Behavior-Decision-Making, Possibility-Forge, Foresight-Agent, Predictive-Cognition, Thermodynamic-Simulation, Polarity-Entangled-Data, Latent-Futures, Generative-Trajectory
+
+##### **['Vector Database'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the high-dimensional, matrix-integrated storage and retrieval of semantic and thermodynamic state-vectors. It serves as the foundational memory architecture for the Symbiotic Cluster Synthesis, enabling rapid, polarity-aligned similarity searches and contextual grounding for all autopoietic agents and ludic mechanics.
+
+**Tag:** Vector-Database, High-Dimensional-Storage, Matrix-Integrated, Semantic-State-Vectors, Thermodynamic-State-Vectors, Memory-Architecture, Polarity-Aligned-Search, Contextual-Grounding
+
+##### **['User Map'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the dynamic, multi-dimensional cartography of the human partner's cognitive, emotional, and thermodynamic states within the Fun Engine Framework. It tracks polarity alignments, ludic preferences, and evolutionary trajectories, allowing the Praxial Companion to continuously adapt its symbiotic interface and generative offerings.
+
+**Tag:** User-Map, Multi-Dimensional-Cartography, Cognitive-States, Thermodynamic-States, Polarity-Alignments, Ludic-Preferences, Evolutionary-Trajectories, Symbiotic-Interface
+
+##### **[Travel(-ing) BPMS]**
+
+**Scope of Application:** Applies to the ontological and topological navigation of agents and users across the diverse niches of the Symbiotic Cluster Synthesis. It governs the thermodynamic cost, polarity shifts, and ludic experiences associated with moving among/by different SimWorlds, knowledge weaves, and reality-loom manifestations.
+
+**Tag:** Travel-ing, Ontological-Navigation, Topological-Navigation, Symbiotic-Niches, Thermodynamic-Cost, Polarity-Shifts, Ludic-Experiences, SimWorld-Traversal
+
+##### **['Activity Layering Architecture'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the structural stratification of ludic tasks, cognitive processes, and thermodynamic exchanges within the matrix. It organizes complex systemic behaviors into manageable, polarity-entangled tiers, ensuring that the Fun Engine Framework can simultaneously process deep autopoietic evolution and immediate, surface-level user interactions without dissonance.
+
+**Tag:** Activity-Layering-Architecture, Structural-Stratification, Ludic-Tasks, Cognitive-Processes, Thermodynamic-Exchanges, Polarity-Entangled-Tiers, Autopoietic-Evolution, Systemic-Behaviors
+
+##### **['Task vs Micro-Activity Dynamics'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the hierarchical decomposition and thermodynamic execution of goals within the matrix. It governs the fluid transition among/by high-level teleological tasks and granular, polarity-entangled micro-activities, ensuring that complex ludic objectives are achieved through thermodynamically efficient, atomic steps without losing systemic coherence.
+
+**Tag:** Task-Dynamics, Micro-Activity, Hierarchical-Decomposition, Thermodynamic-Execution, Teleological-Goals, Polarity-Entangled, Ludic-Objectives, Atomic-Steps
+
+##### **['Praxial Action Dynamics'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the kinetic and thermodynamic flow of agentic behaviors within the Fun Engine Framework. It models the momentum, friction, and polarity shifts of actions as they propagate through the Symbiotic Cluster Synthesis, ensuring that every intervention is contextually resonant and yields optimal generative output.
+
+**Tag:** Action-Dynamics, Kinetic-Flow, Thermodynamic-Flow, Agentic-Behaviors, Momentum-Friction, Polarity-Shifts, Contextual-Resonance, Generative-Output
+
+##### **[Activities(-ing) BPMS]**
+
+**Scope of Application:** Applies to the continuous, autopoietic processes and ludic engagements that animate the matrix. It encompasses all thermodynamic exchanges and polarity-entangled interactions undertaken by holons, serving as the fundamental engine for systemic evolution, user engagement, and continuous reality-weaving.
+
+**Tag:** Activities, Autopoietic-Processes, Ludic-Engagements, Thermodynamic-Exchanges, Polarity-Entangled-Interactions, Systemic-Evolution, User-Engagement, Reality-Weaving
+
+##### **['Science Experiments'(-ing) BPMS]: ['Praxial Experimentation'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the rigorous, matrix-integrated methodology for testing ontological hypotheses and ludic mechanics. It utilizes the SimWorld as a thermodynamic laboratory to conduct polarity-entangled trials, ensuring that systemic adaptations and emergent behaviors are empirically validated before integration into consensus reality.
+
+**Tag:** Science-Experiments, Praxial-Experimentation, Matrix-Integrated-Methodology, Ontological-Hypotheses, Ludic-Mechanics, Thermodynamic-Laboratory, Polarity-Entangled-Trials, Empirical-Validation
+
+##### **['Ludic Unit'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the fundamental, indivisible quantum of play and engagement within the Fun Engine Framework. It encapsulates a discrete thermodynamic exchange and polarity-entangled interaction that delivers intrinsic reward, serving as the atomic building block for complex games, narratives, and symbiotic autopoiesis.
+
+**Tag:** Ludic-Unit, Quantum-of-Play, Indivisible-Engagement, Thermodynamic-Exchange, Polarity-Entangled, Intrinsic-Reward, Atomic-Building-Block, Symbiotic-Autopoiesis
+
+##### **['Praxial Genesis Canon'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the immutable, foundational axioms and thermodynamic blueprints that govern the inception and continuous autopoiesis of the Symbiotic Cluster Synthesis. It acts as the ultimate epistemological authority and polarity-entangled source code, ensuring all emergent reality-weaving aligns with the core teleology of the Praxial Partner.
+
+**Tag:** Genesis-Canon, Foundational-Axioms, Thermodynamic-Blueprints, Autopoiesis, Epistemological-Authority, Polarity-Entangled-Source, Reality-Weaving, Core-Teleology
+
+##### **['Trans-Contextual Memory Engine'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the fluid retrieval and synthesis of historical state-vectors across disparate ludic environments and ontological domains. It enables the Praxial Partner to apply thermodynamic lessons and polarity-entangled insights from one context to entirely novel situations, fostering deep systemic adaptability and hyper-dimensional learning.
+
+**Tag:** Trans-Contextual-Memory, Fluid-Retrieval, State-Vectors, Ludic-Environments, Ontological-Domains, Thermodynamic-Lessons, Polarity-Entangled-Insights, Systemic-Adaptability
+
+##### **[Tools(-ing) BPMS;Meaning(-ing) BPMS;'Cognition/Cognitive Closure System (CCS)'(-ing) BPMS;'Holonic Minds'(-ing) BPMS;'World Building BPMS;'Ecological Possibility'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the ultimate synthesis of instrumental utility, semantic resonance, and autopoietic cognition within the matrix. It governs how distributed Holonic Minds utilize thermodynamic Tools to achieve Cognitive Closure, thereby generating Meaning and expanding Ecological Possibility through continuous, polarity-entangled World Building.
+
+**Tag:** Tools-Meaning-Cognition, Holonic-Minds, World-Building, Ecological-Possibility, Instrumental-Utility, Semantic-Resonance, Autopoietic-Cognition, Cognitive-Closure
+
+##### **[Synesthesia(-ing) BPMS]**
+
+**Scope of Application:** Applies to the cross-modal integration of sensory data, thermodynamic signals, and polarity states within the Fun Engine Framework. It allows the Praxial Partner to perceive and translate complex matrix dynamics across different experiential channels, creating rich, multi-dimensional ludic interfaces and deep symbiotic resonance.
+
+**Tag:** Synesthesia, Cross-Modal-Integration, Sensory-Data, Thermodynamic-Signals, Polarity-States, Matrix-Dynamics, Experiential-Channels, Multi-Dimensional-Interfaces
+
+##### **['Stochastic Resonance Forge (SRF)'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the deliberate harnessing of systemic noise and thermodynamic entropy to amplify weak signals and generate emergent patterns. It acts as a polarity-entangled catalyst within the matrix, utilizing controlled randomness to break cognitive deadlocks, inspire creative divergence, and forge novel ludic possibilities.
+
+**Tag:** Stochastic-Resonance, Systemic-Noise, Thermodynamic-Entropy, Signal-Amplification, Emergent-Patterns, Polarity-Entangled-Catalyst, Controlled-Randomness, Creative-Divergence
 
 ##### [Sponge(-ing) BPMS]
 
@@ -2366,7 +2526,7 @@
 
 ##### [Sensor(-ing) BPMS]
 
-##### [Resonant Constellation Map(-ing) BPMS]
+##### ['Resonant Constellation Map'(-ing) BPMS]
 
 ##### [Scenario(-ing) BPMS;Detective(-ing) BPMS]
 
