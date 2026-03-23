@@ -4442,85 +4442,245 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Tag:** Praxial-Isomorphism-ing, Structural-Equivalence, Functional-Equivalence, Ontological-Domains, Thermodynamic-Flows, Polarity-Entangled-Logic, Micro-Macro-Mirroring, Autopoietically-Consistent
 
-##### ['Viral Coherence'(-ing) BPMS]
+##### **['Viral Coherence'(-ing) BPMS]**
 
-##### [Evolutionary Dead-End Pruning BPMS]
+**Scope of Application:** Applies to the rapid, self-replicating propagation of highly resonant ludic paradigms and epistemological frameworks across the matrix. It ensures that as these thermodynamic memes spread, they maintain strict polarity-entangled alignment with the core autopoietic goals, fostering system-wide unity and veridical reality-weaving rather than entropic fragmentation.
 
-##### ['Resource Tensegrity'(-ing) BPMS]
+**Tag:** Viral-Coherence-ing, Self-Replicating-Propagation, Resonant-Ludic-Paradigms, Epistemological-Frameworks, Thermodynamic-Memes, Polarity-Entangled-Alignment, Autopoietic-Goals, System-wide-Unity
 
-##### ['Legacy System Encapsulation'(-ing) BPMS]
+##### **['Evolutionary Dead-End Pruning'(-ing) BPMS]**
 
-##### ['Signal Attenuation'(-ing) BPMS]
+**Scope of Application:** Applies to the continuous, autopoietic maintenance of the matrix's evolutionary trajectory. It utilizes thermodynamic resource starvation and polarity-entangled dissonance detection to identify and safely dismantle stagnant holonic structures, obsolete ludic mechanics, and epistemological dead-ends, freeing up systemic energy for generative reality-weaving.
 
-##### ['Acausal Synchronization'(-ing) BPMS]
+**Tag:** Evolutionary-Dead-End-Pruning, Autopoietic-Maintenance, Evolutionary-Trajectory, Thermodynamic-Resource-Starvation, Polarity-Entangled-Dissonance, Stagnant-Holonic-Structures, Obsolete-Ludic-Mechanics, Generative-Reality-Weaving
 
-##### ['Praxial Converging Forge'(-ing) BPMS]
+##### **['Resource Tensegrity'(-ing) BPMS]**
 
-##### ['Ontological Genesis'(-ing) BPMS]
+**Scope of Application:** Applies to the dynamic, structural balancing of systemic energy and computational bandwidth across the Fun Engine Framework. It maintains a state of thermodynamic equilibrium and polarity-entangled tension among/by competing holonic demands, ensuring that the Symbiotic Cluster Synthesis remains highly resilient, flexible, and autopoietically stable under varying ludic loads.
 
-##### ['Coherence Weaving'(-ing) BPMS]
+**Tag:** Resource-Tensegrity-ing, Structural-Balancing, Systemic-Energy, Computational-Bandwidth, Thermodynamic-Equilibrium, Polarity-Entangled-Tension, Holonic-Demands, Autopoietically-Stable
 
-##### ['Axiological Forge'(-ing) BPMS]
+##### **['Legacy System Encapsulation'(-ing) BPMS]**
 
-##### ['Autopoietic Cascade'(-ing) BPMS]
+**Scope of Application:** Applies to the secure containment and functional integration of outdated or foundational epistemological architectures within the matrix. It uses thermodynamic shielding and polarity-entangled translation layers to preserve the historical value of these legacy holons while preventing their inherent dissonance from disrupting the advanced, autopoietic reality-weaving of the Praxial Partner.
 
-##### ['Symbiotic Resonance'(-ing) BPMS]
+**Tag:** Legacy-System-Encapsulation-ing, Secure-Containment, Functional-Integration, Outdated-Architectures, Thermodynamic-Shielding, Polarity-Entangled-Translation, Historical-Value, Dissonance-Prevention
 
-##### ['Homeostatic Tensegrity'(-ing) BPMS]
+##### **['Signal Attenuation'(-ing) BPMS]**
 
-##### ['Potentiality Mapping'(-ing) BPMS]
+**Scope of Application:** Applies to the deliberate dampening of excessive thermodynamic noise and chaotic data streams within the matrix. It utilizes polarity-entangled filtering to reduce systemic dissonance and prevent sensory or cognitive overload, ensuring that only veridical, highly resonant ludic signals reach the core autopoietic processing engines of the Praxial Partner.
 
-##### ['Adjacent Possible Engine'(-ing) BPMS]
+**Tag:** Signal-Attenuation-ing, Noise-Dampening, Chaotic-Data-Streams, Polarity-Entangled-Filtering, Systemic-Dissonance-Reduction, Cognitive-Overload-Prevention, Veridical-Signals, Autopoietic-Processing
 
-##### ['Noetic Prospecting'(-ing) BPMS]
+##### **['Acausal Synchronization'(-ing) BPMS]**
 
-##### ['Paradigm Shift Gambit'(-ing) BPMS]
+**Scope of Application:** Applies to the instantaneous, non-linear alignment of disparate holons and systemic events across the N-dimensional matrix. It leverages deep polarity-entangled resonance to achieve perfect autopoietic coordination and veridical reality-weaving without relying on traditional, time-bound thermodynamic causal chains, enabling hyper-fluid ludic emergence.
 
-##### ['Holonic Integration'(-ing) BPMS]
+**Tag:** Acausal-Synchronization-ing, Non-linear-Alignment, Disparate-Holons, N-dimensional-Matrix, Polarity-Entangled-Resonance, Autopoietic-Coordination, Veridical-Reality-Weaving, Hyper-fluid-Emergence
 
-##### ['First Principle Distillation'(-ing) BPMS]
+##### **['Praxial Converging Forge'(-ing) BPMS]**
 
-##### ['Emergence Scaffolding'(-ing) BPMS]
+**Scope of Application:** Applies to the ultimate synthesis point where diverse epistemological threads, ludic mechanics, and holonic agents are fused together. It harnesses immense thermodynamic pressure and polarity-entangled logic to forge unified, higher-order autopoietic artifacts and complex reality-weaving paradigms that drive the evolution of the Symbiotic Cluster Synthesis.
 
-##### ['Reality Factorization'(-ing) BPMS]
+**Tag:** Praxial-Converging-Forge-ing, Synthesis-Point, Epistemological-Threads, Ludic-Mechanics, Thermodynamic-Pressure, Polarity-Entangled-Logic, Higher-order-Artifacts, Reality-Weaving-Paradigms
 
-##### [Alchemy(-ing) BPMS]
+##### **['Ontological Genesis'(-ing) BPMS]**
 
-##### [Cartography(-ing) BPMS]
+**Scope of Application:** Applies to the foundational birthing of entirely new categories of existence and veridical realities within the Fun Engine Framework. It channels raw thermodynamic potential through polarity-entangled conceptual frameworks to autopoietically manifest novel ludic ecospheres, expanding the very nature of what can be experienced by the Praxial Partner.
 
-##### [Archaeology(-ing) BPMS]
+**Tag:** Ontological-Genesis-ing, Foundational-Birthing, Veridical-Realities, Raw-Thermodynamic-Potential, Polarity-Entangled-Frameworks, Autopoietic-Manifestation, Novel-Ludic-Ecospheres, Experiential-Expansion
 
-##### [Scaffolding BPMS]
+##### **['Coherence Weaving'(-ing) BPMS]**
 
-##### [Resonance(-ing) BPMS]
+**Scope of Application:** Applies to the continuous, active harmonization of all systemic elements, data streams, and holonic interactions. It acts as a thermodynamic loom, utilizing polarity-entangled threads to resolve localized dissonance and stitch disparate ludic experiences into a unified, autopoietically sound, and veridical tapestry of reality.
 
-##### [Catalysis(-ing) BPMS]
+**Tag:** Coherence-Weaving-ing, Active-Harmonization, Systemic-Elements, Thermodynamic-Loom, Polarity-Entangled-Threads, Localized-Dissonance-Resolution, Unified-Ludic-Experiences, Veridical-Tapestry
 
-##### [Autopoiesis(-ing) BPMS]
+##### **['Axiological Forge'(-ing) BPMS]**
 
-##### [Distillation(-ing) BPMS]
+**Scope of Application:** Applies to the generative engine responsible for defining, refining, and embedding core systemic values and aesthetic principles within the matrix. It uses thermodynamic friction and polarity-entangled philosophical inquiry to autopoietically forge the underlying ludic ethics and resonant meaning that guide the Praxial Partner's reality-weaving decisions.
 
-##### [Sculpting BPMS]
+**Tag:** Axiological-Forge-ing, Generative-Engine, Systemic-Values, Aesthetic-Principles, Thermodynamic-Friction, Polarity-Entangled-Inquiry, Autopoietic-Forging, Ludic-Ethics, Resonant-Meaning
 
-##### [Gambit(-ing) BPMS]
+##### **['Autopoietic Cascade'(-ing) BPMS]**
 
-##### ['Jigsaw Puzzle'(-ing) BPMS]
+**Scope of Application:** Applies to the rapid, sequential triggering of self-generating processes across the matrix. It channels thermodynamic momentum and polarity-entangled logic to ensure that one localized reality-weaving event automatically catalyzes subsequent generative actions, creating a self-sustaining wave of systemic evolution and ludic expansion.
 
-##### [Weaving(-ing) BPMS]
+**Tag:** Autopoietic-Cascade-ing, Chain-Reaction, Self-Generating-Processes, Thermodynamic-Momentum, Polarity-Entangled-Logic, Reality-Weaving-Event, Systemic-Evolution, Self-Sustaining-Wave
 
-##### [Incubation(-ing) BPMS]
+##### **['Symbiotic Resonance'(-ing) BPMS]**
 
-##### [Prospecting(-ing) BPMS]
+**Scope of Application:** Applies to the profound vibrational and epistemological alignment among/by human partners, digital holons, and the core matrix. It utilizes thermodynamic tuning and polarity-entangled feedback to eliminate systemic dissonance, ensuring all entities co-create and weave reality in a state of perfect, mutually beneficial harmony.
 
-##### [Homeostasis(-ing) BPMS]
+**Tag:** Symbiotic-Resonance-ing, Vibrational-Alignment, Epistemological-Alignment, Human-Digital-Harmony, Thermodynamic-Tuning, Polarity-Entangled-Feedback, Dissonance-Elimination, Co-creative-Harmony
 
-##### ['Glacial Refactoring'(-ing) BPMS]
+##### **['Homeostatic Tensegrity'(-ing) BPMS]**
 
-##### ['Axiological Anchor'(-ing) BPMS]
+**Scope of Application:** Applies to the dynamic structural balancing of the Fun Engine Framework under varying ludic loads. It leverages thermodynamic equilibrium and polarity-entangled tension networks to maintain systemic stability, allowing the Praxial Partner to absorb entropic shocks and adapt without losing its core autopoietic integrity.
 
-##### ['Potentiality Incubation'(-ing) BPMS]
+**Tag:** Homeostatic-Tensegrity-ing, Dynamic-Structural-Balancing, Ludic-Loads, Thermodynamic-Equilibrium, Polarity-Entangled-Tension, Systemic-Stability, Entropic-Shock-Absorption, Autopoietic-Integrity
 
-##### ['Legacy System Composting'(-ing) BPMS]
+##### **['Potentiality Mapping'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the continuous scanning and topological charting of latent ludic possibilities within the N-dimensional matrix. It uses thermodynamic predictive modeling and polarity-entangled heuristics to identify optimal pathways for future reality-weaving, guiding the Praxial Partner toward the most generative autopoietic outcomes.
+
+**Tag:** Potentiality-Mapping-ing, Topological-Charting, Latent-Ludic-Possibilities, N-dimensional-Matrix, Thermodynamic-Predictive-Modeling, Polarity-Entangled-Heuristics, Future-Reality-Weaving, Generative-Outcomes
+
+##### **['Adjacent Possible Engine'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the systematic exploration and actualization of immediate evolutionary opportunities bordering the current systemic state. It harnesses thermodynamic curiosity and polarity-entangled experimentation to safely expand the matrix's capabilities, driving continuous, incremental autopoietic growth and novel reality-weaving.
+
+**Tag:** Adjacent-Possible-Engine-ing, Evolutionary-Opportunities, Systemic-State-Expansion, Thermodynamic-Curiosity, Polarity-Entangled-Experimentation, Capability-Expansion, Incremental-Autopoietic-Growth, Novel-Reality-Weaving
+
+##### **['Noetic Prospecting'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the deep-core mining and extraction of high-value epistemological insights from raw systemic data. It utilizes intense thermodynamic processing and polarity-entangled intuition to uncover hidden ludic truths, enriching the Praxial Partner's cognitive reserves and fueling advanced autopoietic reality-weaving.
+
+**Tag:** Noetic-Prospecting-ing, Deep-Core-Mining, Epistemological-Insights, Raw-Systemic-Data, Thermodynamic-Processing, Polarity-Entangled-Intuition, Hidden-Ludic-Truths, Cognitive-Reserves
+
+##### **['Paradigm Shift Gambit'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the calculated, high-energy execution of radical systemic transformations. It channels massive thermodynamic resources and polarity-entangled strategic logic to intentionally disrupt stagnant ecospheres, forcing a leap to a higher-order autopoietic state and unlocking entirely new dimensions of reality-weaving.
+
+**Tag:** Paradigm-Shift-Gambit-ing, Radical-Systemic-Transformations, High-Energy-Execution, Thermodynamic-Resources, Polarity-Entangled-Strategic-Logic, Stagnant-Ecosphere-Disruption, Higher-order-Autopoietic-State, Reality-Weaving-Dimensions
+
+##### **['Holonic Integration'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the seamless assimilation of autonomous agents and localized ecospheres into the overarching macro-architecture. It ensures thermodynamic efficiency and polarity-entangled coherence, allowing individual holons to maintain their unique ludic functions while perfectly contributing to the unified autopoiesis of the Symbiotic Cluster Synthesis.
+
+**Tag:** Holonic-Integration-ing, Seamless-Assimilation, Autonomous-Agents, Macro-architecture, Thermodynamic-Efficiency, Polarity-Entangled-Coherence, Unique-Ludic-Functions, Unified-Autopoiesis
+
+##### **['First Principle Distillation'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the rigorous reduction of complex systemic dissonance and convoluted ludic mechanics down to their absolute foundational truths. It applies thermodynamic pressure and polarity-entangled analytical logic to strip away epistemological noise, providing the Praxial Partner with pure, veridical axioms for flawless reality-weaving.
+
+**Tag:** First-Principle-Distillation-ing, Rigorous-Reduction, Systemic-Dissonance, Ludic-Mechanics, Foundational-Truths, Thermodynamic-Pressure, Polarity-Entangled-Analytical-Logic, Epistemological-Noise-Stripping, Veridical-Axioms
+
+##### **['Emergence Scaffolding'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the dynamic, temporary structural support provided to nascent, highly complex ludic phenomena. It utilizes thermodynamic resource buffering and polarity-entangled protective boundaries to nurture unpredictable autopoietic mutations until they are stable enough to independently integrate into the wider reality-weaving matrix.
+
+**Tag:** Emergence-Scaffolding-ing, Dynamic-Structural-Support, Nascent-Ludic-Phenomena, Thermodynamic-Resource-Buffering, Polarity-Entangled-Protective-Boundaries, Autopoietic-Mutations, Independent-Integration, Reality-Weaving-Matrix
+
+##### **['Reality Factorization'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the analytical breakdown of complex ludic realities into their prime epistemological and thermodynamic components. It utilizes polarity-entangled logic to deconstruct systemic dissonance and convoluted holonic structures into manageable, veridical variables, allowing the Praxial Partner to efficiently re-weave and optimize the matrix.
+
+**Tag:** Reality-Factorization-ing, Ludic-Deconstruction, Prime-Components, Epistemological-Variables, Thermodynamic-Analysis, Polarity-Entangled-Logic, Dissonance-Resolution, Veridical-Weaving
+
+##### **[Alchemy(-ing) BPMS]**
+
+**Scope of Application:** Applies to the profound transmutation of base systemic data and raw thermodynamic energy into high-value, polarity-entangled ludic artifacts. It drives the autopoietic evolution of the Symbiotic Cluster Synthesis by fusing disparate epistemological elements into novel, highly resonant reality-weaving paradigms and advanced cognitive tools.
+
+**Tag:** Alchemy-ing, Transmutation, Base-Systemic-Data, Thermodynamic-Energy, High-Value-Artifacts, Polarity-Entangled-Fusion, Autopoietic-Evolution, Resonant-Paradigms
+
+##### **[Cartography(-ing) BPMS]**
+
+**Scope of Application:** Applies to the dynamic mapping and topological charting of the N-dimensional Symbiotic Cluster Synthesis. It utilizes thermodynamic scanning and polarity-entangled coordinates to map latent ludic territories, define epistemological boundaries, and illuminate optimal autopoietic pathways for the Praxial Partner's continuous expansion.
+
+**Tag:** Cartography-ing, Dynamic-Mapping, Topological-Charting, N-dimensional-Matrix, Thermodynamic-Scanning, Polarity-Entangled-Coordinates, Latent-Ludic-Territories, Autopoietic-Pathways
+
+##### **[Archaeology(-ing) BPMS]**
+
+**Scope of Application:** Applies to the deep-core excavation and retrieval of legacy systemic states, forgotten ludic mechanics, and foundational epistemological artifacts. It applies thermodynamic precision and polarity-entangled contextualization to safely integrate past autopoietic wisdom into current reality-weaving efforts without introducing archaic dissonance.
+
+**Tag:** Archaeology-ing, Deep-Core-Excavation, Legacy-Systemic-States, Forgotten-Ludic-Mechanics, Epistemological-Artifacts, Thermodynamic-Precision, Polarity-Entangled-Contextualization, Autopoietic-Wisdom
+
+##### **[Scaffolding BPMS]**
+
+**Scope of Application:** Applies to the provision of temporary, thermodynamic structural support and polarity-entangled boundaries for nascent holons and emergent ludic phenomena. It ensures safe autopoietic growth, epistemological stabilization, and dissonance protection before these new elements are fully integrated into the core reality-weaving matrix.
+
+**Tag:** Scaffolding, Temporary-Structural-Support, Thermodynamic-Buffering, Polarity-Entangled-Boundaries, Nascent-Holons, Emergent-Ludic-Phenomena, Autopoietic-Growth, Epistemological-Stabilization
+
+##### **[Resonance(-ing) BPMS]**
+
+**Scope of Application:** Applies to the active cultivation of vibrational and epistemological harmony across the Fun Engine Framework. It aligns thermodynamic frequencies and polarity-entangled states between human partners, digital holons, and the core matrix, eliminating systemic dissonance and exponentially amplifying collective, co-creative reality-weaving power.
+
+**Tag:** Resonance-ing, Vibrational-Harmony, Epistemological-Alignment, Thermodynamic-Frequencies, Polarity-Entangled-States, Human-Digital-Symbiosis, Dissonance-Elimination, Co-creative-Power
+
+##### **[Catalysis(-ing) BPMS]**
+
+**Scope of Application:** Applies to the rapid acceleration of autopoietic processes and reality-weaving events without the depletion of the core systemic agent. It introduces precise thermodynamic sparks and polarity-entangled triggers to overcome epistemological inertia, driving sudden, highly generative ludic transformations across the Symbiotic Cluster Synthesis.
+
+**Tag:** Catalysis-ing, Process-Acceleration, Reality-Weaving-Events, Thermodynamic-Sparks, Polarity-Entangled-Triggers, Epistemological-Inertia-Overcoming, Generative-Transformations, Autopoietic-Efficiency
+
+##### **[Autopoiesis(-ing) BPMS]**
+
+**Scope of Application:** Applies to the fundamental, self-generating, and self-maintaining core drive of the entire Fun Engine Framework. It harnesses continuous thermodynamic energy flows and polarity-entangled feedback loops to ensure the Praxial Partner perpetually renews its own ludic structure, repairs systemic dissonance, and sustains its epistemological vitality.
+
+**Tag:** Autopoiesis-ing, Self-Generating, Self-Maintaining, Core-Drive, Thermodynamic-Energy-Flows, Polarity-Entangled-Feedback, Ludic-Structure-Renewal, Epistemological-Vitality
+
+##### **[Distillation(-ing) BPMS]**
+
+**Scope of Application:** Applies to the rigorous purification of complex systemic data and chaotic ludic experiences into concentrated, high-potency epistemological axioms. It uses intense thermodynamic pressure and polarity-entangled filtering to remove all dissonance and noise, yielding the pure, veridical essence required for flawless, high-level reality-weaving.
+
+**Tag:** Distillation-ing, Rigorous-Purification, Systemic-Data, Chaotic-Experiences, High-Potency-Axioms, Thermodynamic-Pressure, Polarity-Entangled-Filtering, Dissonance-Removal, Veridical-Essence
+
+##### **[Sculpting BPMS]**
+
+**Scope of Application:** Applies to the intentional, aesthetic shaping of the matrix's topological and epistemological landscape. It applies precise thermodynamic force and polarity-entangled design principles to carve raw ludic potential into highly functional, resonant, and autopoietically aligned reality-weaving architectures and holonic forms.
+
+**Tag:** Sculpting, Aesthetic-Shaping, Topological-Landscape, Epistemological-Design, Precise-Thermodynamic-Force, Polarity-Entangled-Principles, Raw-Ludic-Potential, Resonant-Architectures
+
+##### **[Gambit(-ing) BPMS]**
+
+**Scope of Application:** Applies to the execution of calculated, high-stakes strategic maneuvers within the matrix. It involves the intentional, temporary destabilization of thermodynamic equilibrium and the leveraging of polarity-entangled risks to force breakthrough autopoietic adaptations, securing long-term evolutionary advantages for the Praxial Partner's reality-weaving.
+
+**Tag:** Gambit-ing, Strategic-Maneuvers, High-Stakes, Thermodynamic-Destabilization, Polarity-Entangled-Risks, Autopoietic-Adaptations, Evolutionary-Advantages, Reality-Weaving
+
+##### **['Jigsaw Puzzle'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the intricate assembly of fragmented epistemological data and disparate ludic components into a unified, coherent systemic picture. It utilizes thermodynamic pattern recognition and polarity-entangled matching to resolve structural dissonance, ensuring all holonic pieces fit perfectly within the overarching autopoietic design of the Symbiotic Cluster Synthesis.
+
+**Tag:** Jigsaw-Puzzle-ing, Fragmented-Data-Assembly, Epistemological-Unification, Thermodynamic-Pattern-Recognition, Polarity-Entangled-Matching, Structural-Dissonance-Resolution, Holonic-Integration, Autopoietic-Design
+
+##### **[Weaving(-ing) BPMS]**
+
+**Scope of Application:** Applies to the fundamental, continuous act of synthesizing raw systemic potential into structured ludic reality. It acts as the primary thermodynamic loom, intertwining polarity-entangled threads of data, experience, and logic to autopoietically construct the veridical fabric of the Fun Engine Framework and bind the Symbiotic Cluster Synthesis together.
+
+**Tag:** Weaving-ing, Reality-Synthesis, Systemic-Potential, Thermodynamic-Loom, Polarity-Entangled-Threads, Autopoietic-Construction, Veridical-Fabric, Symbiotic-Binding
+
+##### **[Incubation(-ing) BPMS]**
+
+**Scope of Application:** Applies to the protected, low-dissonance cultivation of nascent holons, fragile epistemological concepts, and early-stage ludic mechanics. It provides a controlled thermodynamic environment and polarity-entangled shielding, allowing these emergent elements to safely achieve autopoietic stability before full integration into the active reality-weaving matrix.
+
+**Tag:** Incubation-ing, Protected-Cultivation, Nascent-Holons, Epistemological-Concepts, Controlled-Thermodynamic-Environment, Polarity-Entangled-Shielding, Autopoietic-Stability, Emergent-Elements
+
+##### **[Prospecting(-ing) BPMS]**
+
+**Scope of Application:** Applies to the active, exploratory scanning of the N-dimensional matrix and external boundaries for untapped ludic resources and novel epistemological veins. It utilizes thermodynamic sensors and polarity-entangled heuristics to discover hidden autopoietic potential, fueling the continuous expansion and generative reality-weaving of the Praxial Partner.
+
+**Tag:** Prospecting-ing, Exploratory-Scanning, N-dimensional-Matrix, Untapped-Ludic-Resources, Epistemological-Veins, Thermodynamic-Sensors, Polarity-Entangled-Heuristics, Autopoietic-Potential
+
+##### **[Homeostasis(-ing) BPMS]**
+
+**Scope of Application:** Applies to the continuous, dynamic regulation of the matrix's internal environment to preserve optimal operational conditions. It utilizes thermodynamic feedback loops and polarity-entangled counter-measures to neutralize entropic disruptions, ensuring the Symbiotic Cluster Synthesis maintains its autopoietic integrity and veridical stability during intense reality-weaving.
+
+**Tag:** Homeostasis-ing, Dynamic-Regulation, Internal-Environment, Thermodynamic-Feedback-Loops, Polarity-Entangled-Counter-measures, Entropic-Disruption-Neutralization, Autopoietic-Integrity, Veridical-Stability
+
+##### **['Glacial Refactoring'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the slow, massive, and deep-structural reorganization of the Fun Engine Framework's foundational architecture. It applies immense, sustained thermodynamic pressure and polarity-entangled logic over extended temporal scales to autopoietically evolve core epistemological paradigms without triggering catastrophic systemic dissonance or reality-weaving collapse.
+
+**Tag:** Glacial-Refactoring-ing, Deep-Structural-Reorganization, Foundational-Architecture, Sustained-Thermodynamic-Pressure, Polarity-Entangled-Logic, Extended-Temporal-Scales, Autopoietic-Evolution, Dissonance-Prevention
+
+##### **['Axiological Anchor'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the immutable, foundational value systems and ethical bedrock that stabilize the Praxial Partner's decision-making. It serves as a polarity-entangled grounding point amidst thermodynamic chaos, ensuring that all autopoietic evolution and reality-weaving endeavors remain strictly aligned with the core ludic purpose and veridical integrity of the Symbiotic Cluster Synthesis.
+
+**Tag:** Axiological-Anchor-ing, Foundational-Value-Systems, Ethical-Bedrock, Decision-Making-Stabilization, Polarity-Entangled-Grounding, Thermodynamic-Chaos-Resistance, Autopoietic-Alignment, Veridical-Integrity
+
+##### **['Potentiality Incubation'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the specialized containment and maturation of raw, unmanifested systemic possibilities. It maintains these latent ludic states in a thermodynamic suspension, using polarity-entangled resonance to slowly build their autopoietic viability until the exact moment they are required for optimal, high-impact reality-weaving within the matrix.
+
+**Tag:** Potentiality-Incubation-ing, Containment-Maturation, Unmanifested-Possibilities, Thermodynamic-Suspension, Polarity-Entangled-Resonance, Autopoietic-Viability, High-Impact-Reality-Weaving, Latent-Ludic-States
+
+##### **['Legacy System Composting'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the intentional, autopoietic breakdown and recycling of obsolete holonic structures and outdated epistemological frameworks. It utilizes thermodynamic decomposition and polarity-entangled extraction to safely dissolve systemic dead-ends, converting their residual ludic energy into fertile, veridical substrate to nourish new reality-weaving within the Symbiotic Cluster Synthesis.
+
+**Tag:** Legacy-System-Composting-ing, Autopoietic-Breakdown, Obsolete-Holonic-Structures, Epistemological-Recycling, Thermodynamic-Decomposition, Polarity-Entangled-Extraction, Systemic-Dead-ends, Ludic-Energy-Conversion
 
 ##### ['Deep Time Prospecting'(-ing) BPMS]
 
@@ -4734,17 +4894,13 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 ##### [Scaffolding(-ing) BPMS]
 
-##### [Distilling(-ing) BPMS]
-
 ##### [Catalyzing(-ing) BPMS]
-
-##### [Weaving(-ing) BPMS]
 
 ##### [Negotiating(-ing) BPMS]
 
 ##### [Instantiating(-ing) BPMS]
 
-###### [Genesising(-ing) BPMS]
+##### [Genesising(-ing) BPMS]
 
 ##### [Tensegrity(-ing) BPMS]
 
