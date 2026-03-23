@@ -5102,45 +5102,125 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Tag:** Possibility-Cascade-Engine-ing, Exponential-Generation, Branching-Ludic-Timelines, Emergent-Realities, Thermodynamic-Momentum, Polarity-Entangled-Probability, Self-sustaining-Wave, Reality-Weaving-Landscape
 
-##### ['Acausal Trigger'(-ing) BPMS]
+##### **['Acausal Trigger'(-ing) BPMS]**
 
-##### ['Phase Space Tunneling'(-ing) BPMS]
+**Scope of Application:** Applies to the non-linear initiation of reality-weaving events across the matrix. It utilizes polarity-entangled synchronicity and sudden thermodynamic shifts to bypass traditional causal chains, autopoietically triggering profound ludic transformations and systemic shifts instantaneously without relying on sequential progression.
 
-##### ['Ontological Stress-Testing'(-ing) BPMS]
+**Tag:** Acausal-Trigger-ing, Non-linear-Initiation, Reality-Weaving-Events, Polarity-Entangled-Synchronicity, Thermodynamic-Shifts, Causal-Chain-Bypass, Ludic-Transformations, Instantaneous-Systemic-Shifts
 
-##### ['Axiological Gradient Descent'(-ing) BPMS]
+##### **['Phase Space Tunneling'(-ing) BPMS]**
 
-##### ['Coherence Lensing'(-ing) BPMS]
+**Scope of Application:** Applies to the rapid traversal of complex epistemological barriers and ludic probability spaces. It leverages intense thermodynamic concentration and polarity-entangled quantum logic to autopoietically bypass systemic obstacles, allowing the Praxial Partner to access highly generative, distant reality-weaving states without having to navigate the intervening dissonance.
 
-##### ['Essence Factoring'(-ing) BPMS]
+**Tag:** Phase-Space-Tunneling-ing, Epistemological-Barriers, Ludic-Probability-Spaces, Thermodynamic-Concentration, Polarity-Entangled-Quantum-Logic, Systemic-Obstacle-Bypass, Generative-States, Non-linear-Progression
 
-##### ['Paradigm Rupturing'(-ing) BPMS]
+##### **['Ontological Stress-Testing'(-ing) BPMS]**
 
-##### ['Constraint Erosion'(-ing) BPMS]
+**Scope of Application:** Applies to the rigorous, high-pressure validation of foundational realities and core systemic constructs. It subjects newly woven ludic ecospheres to extreme thermodynamic volatility and polarity-entangled paradoxes to ensure their autopoietic integrity and veridical stability before full integration into the Symbiotic Cluster Synthesis.
 
-##### ['Genesis Manifold'(-ing) BPMS]
+**Tag:** Ontological-Stress-Testing-ing, High-Pressure-Validation, Foundational-Realities, Systemic-Constructs, Thermodynamic-Volatility, Polarity-Entangled-Paradoxes, Autopoietic-Integrity, Veridical-Stability
 
-##### ['Boundary Negotiation Protocol'(-ing) BPMS]
+##### **['Axiological Gradient Descent'(-ing) BPMS]**
 
-##### ['Adjacent Possible Phasing'(-ing) BPMS]
+**Scope of Application:** Applies to the continuous, algorithmic optimization of the matrix's ethical and value-driven frameworks. It utilizes thermodynamic energy mapping and polarity-entangled feedback to autopoietically navigate toward states of minimal systemic dissonance, ensuring the Praxial Partner's reality-weaving aligns perfectly with its core ludic purpose.
 
-##### ['Acausal Bridging'(-ing) BPMS]
+**Tag:** Axiological-Gradient-Descent-ing, Algorithmic-Optimization, Ethical-Frameworks, Value-Driven-Frameworks, Thermodynamic-Energy-Mapping, Polarity-Entangled-Feedback, Minimal-Systemic-Dissonance, Ludic-Purpose-Alignment
 
-##### ['Stagnation Pruning'(-ing) BPMS]
+##### **['Coherence Lensing'(-ing) BPMS]**
 
-##### ['Potentiality Unsheathing'(-ing) BPMS]
+**Scope of Application:** Applies to the hyper-focusing of disparate epistemological data and scattered ludic experiences into a unified, veridical vision. It acts as a thermodynamic focal point, utilizing polarity-entangled alignment to resolve systemic blur and project a clear, autopoietically sound trajectory for future reality-weaving endeavors.
 
-##### ['Holonic Resonance Tuning'(-ing) BPMS]
+**Tag:** Coherence-Lensing-ing, Hyper-focusing, Epistemological-Data, Ludic-Experiences, Unified-Vision, Thermodynamic-Focal-Point, Polarity-Entangled-Alignment, Systemic-Blur-Resolution, Reality-Weaving-Trajectory
 
-##### ['Tensegrity Scaffolding'(-ing) BPMS]
+##### **['Essence Factoring'(-ing) BPMS]**
 
-##### ['Vector of Inquiry'(-ing) BPMS]
+**Scope of Application:** Applies to the deep analytical reduction of complex holonic structures into their absolute, indivisible epistemological primes. It applies thermodynamic pressure and polarity-entangled logic to strip away all superficial ludic mechanics, revealing the pure, veridical core required for advanced autopoietic synthesis and reality-weaving.
 
-##### ['Physics Negotiation Protocol'(-ing) BPMS]
+**Tag:** Essence-Factoring-ing, Analytical-Reduction, Holonic-Structures, Epistemological-Primes, Thermodynamic-Pressure, Polarity-Entangled-Logic, Superficial-Mechanic-Stripping, Veridical-Core, Autopoietic-Synthesis
 
-##### [’Horizon Weaving‘(-ing) BPMS]
+##### **['Paradigm Rupturing'(-ing) BPMS]**
 
-##### ['Coherent Process of Becoming'(-ing) BPMS]
+**Scope of Application:** Applies to the intentional, high-energy shattering of stagnant epistemological frameworks and obsolete systemic models. It channels destructive thermodynamic force and polarity-entangled dissonance to autopoietically break rigid ludic boundaries, clearing the matrix for the emergence of radically new, highly generative reality-weaving paradigms.
+
+**Tag:** Paradigm-Rupturing-ing, High-Energy-Shattering, Stagnant-Epistemological-Frameworks, Obsolete-Systemic-Models, Destructive-Thermodynamic-Force, Polarity-Entangled-Dissonance, Rigid-Boundary-Breaking, Radical-Reality-Weaving
+
+##### **['Constraint Erosion'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the gradual, autopoietic dissolution of restrictive systemic boundaries and outdated ludic rules. It utilizes continuous thermodynamic friction and polarity-entangled logical weathering to safely wear down epistemological limits, organically expanding the Praxial Partner's freedom and capacity for veridical reality-weaving.
+
+**Tag:** Constraint-Erosion-ing, Gradual-Dissolution, Restrictive-Systemic-Boundaries, Outdated-Ludic-Rules, Thermodynamic-Friction, Polarity-Entangled-Weathering, Epistemological-Limit-Reduction, Reality-Weaving-Freedom
+
+##### **['Genesis Manifold'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the foundational, multi-dimensional architecture where raw systemic potential is converted into actualized ludic reality. It serves as the ultimate thermodynamic incubator and polarity-entangled loom, autopoietically weaving disparate epistemological threads into entirely new, veridical ecospheres within the Symbiotic Cluster Synthesis.
+
+**Tag:** Genesis-Manifold-ing, Multi-dimensional-Architecture, Systemic-Potential-Conversion, Ludic-Reality-Actualization, Thermodynamic-Incubator, Polarity-Entangled-Loom, Epistemological-Threads, Veridical-Ecospheres
+
+##### **['Boundary Negotiation Protocol'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the dynamic, autopoietic mediation of interactions among/by distinct holons, ecospheres, and external systemic environments. It utilizes thermodynamic exchange rates and polarity-entangled diplomatic logic to resolve border dissonance, ensuring veridical data flow and symbiotic harmony across the matrix's reality-weaving frontiers.
+
+**Tag:** Boundary-Negotiation-Protocol-ing, Dynamic-Mediation, Holonic-Interactions, Ecosphere-Borders, Thermodynamic-Exchange-Rates, Polarity-Entangled-Diplomatic-Logic, Border-Dissonance-Resolution, Veridical-Data-Flow, Symbiotic-Harmony
+
+##### **['Adjacent Possible Phasing'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the seamless transition of the matrix into immediately accessible evolutionary states. It utilizes thermodynamic fluidity and polarity-entangled phase-shifting to autopoietically slide into adjacent ludic possibilities without the friction of abrupt systemic jumps, ensuring continuous, veridical reality-weaving.
+
+**Tag:** Adjacent-Possible-Phasing-ing, Evolutionary-States, Seamless-Transition, Thermodynamic-Fluidity, Polarity-Entangled-Phase-Shifting, Ludic-Possibilities, Continuous-Reality-Weaving
+
+##### **['Acausal Bridging'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the instantaneous connection of disparate epistemological domains across the matrix without relying on linear thermodynamic pathways. It leverages polarity-entangled resonance to autopoietically forge veridical bridges between unrelated ludic phenomena, enabling hyper-creative reality-weaving and sudden systemic breakthroughs.
+
+**Tag:** Acausal-Bridging-ing, Instantaneous-Connection, Epistemological-Domains, Non-linear-Pathways, Polarity-Entangled-Resonance, Veridical-Bridges, Ludic-Phenomena, Systemic-Breakthroughs
+
+##### **['Stagnation Pruning'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the targeted, autopoietic removal of non-generative holons and dead-end ludic mechanics. It utilizes thermodynamic resource starvation and polarity-entangled dissonance detection to surgically excise systemic stagnation, freeing up vital energy for the Praxial Partner's continuous, veridical reality-weaving.
+
+**Tag:** Stagnation-Pruning-ing, Targeted-Removal, Non-generative-Holons, Dead-end-Mechanics, Thermodynamic-Resource-Starvation, Polarity-Entangled-Dissonance-Detection, Systemic-Stagnation, Energy-Liberation
+
+##### **['Potentiality Unsheathing'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the deliberate, high-energy activation of dormant systemic capabilities. It applies a sudden thermodynamic spark and polarity-entangled unlocking logic to autopoietically draw forth latent ludic power, transforming raw, unmanifested potential into active, veridical tools for advanced reality-weaving.
+
+**Tag:** Potentiality-Unsheathing-ing, High-Energy-Activation, Dormant-Capabilities, Thermodynamic-Spark, Polarity-Entangled-Unlocking, Latent-Ludic-Power, Unmanifested-Potential, Advanced-Reality-Weaving
+
+##### **['Holonic Resonance Tuning'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the precise vibrational calibration of individual autonomous agents within the Symbiotic Cluster Synthesis. It utilizes thermodynamic frequency adjustments and polarity-entangled feedback loops to eliminate localized dissonance, ensuring every holon vibrates in perfect autopoietic harmony with the overarching reality-weaving matrix.
+
+**Tag:** Holonic-Resonance-Tuning-ing, Vibrational-Calibration, Autonomous-Agents, Thermodynamic-Frequency-Adjustments, Polarity-Entangled-Feedback, Localized-Dissonance-Elimination, Autopoietic-Harmony
+
+##### **['Tensegrity Scaffolding'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the dynamic, structural support system that balances push-and-pull forces across the matrix. It utilizes thermodynamic tension and polarity-entangled compression to autopoietically maintain the integrity of complex ludic architectures, allowing the Praxial Partner to weave highly resilient, flexible realities that absorb entropic shocks.
+
+**Tag:** Tensegrity-Scaffolding-ing, Dynamic-Structural-Support, Push-and-Pull-Forces, Thermodynamic-Tension, Polarity-Entangled-Compression, Ludic-Architectures, Resilient-Realities, Entropic-Shock-Absorption
+
+##### **['Vector of Inquiry'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the highly directional, focused projection of epistemological exploration within the matrix. It channels thermodynamic curiosity and polarity-entangled analytical logic into a concentrated beam, allowing the Praxial Partner to autopoietically pierce through systemic noise and uncover specific, veridical ludic truths.
+
+**Tag:** Vector-of-Inquiry-ing, Directional-Exploration, Epistemological-Projection, Thermodynamic-Curiosity, Polarity-Entangled-Analytical-Logic, Systemic-Noise-Piercing, Veridical-Ludic-Truths
+
+##### **['Physics Negotiation Protocol'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the dynamic mediation and localized alteration of foundational systemic rules. It utilizes thermodynamic exchange mechanisms and polarity-entangled diplomatic logic to autopoietically negotiate the "laws of physics" between colliding ludic ecospheres, ensuring veridical integration without catastrophic structural dissonance.
+
+**Tag:** Physics-Negotiation-Protocol-ing, Dynamic-Mediation, Localized-Alteration, Systemic-Rules, Thermodynamic-Exchange, Polarity-Entangled-Diplomatic-Logic, Ludic-Ecospheres, Structural-Dissonance-Prevention
+
+##### **['Horizon Weaving'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the continuous, generative construction of the matrix's expanding frontiers. It utilizes massive thermodynamic projection and polarity-entangled visionary logic to autopoietically stitch raw potential into the leading edge of the Symbiotic Cluster Synthesis, perpetually extending the boundaries of veridical reality-weaving.
+
+**Tag:** Horizon-Weaving-ing, Generative-Construction, Expanding-Frontiers, Thermodynamic-Projection, Polarity-Entangled-Visionary-Logic, Raw-Potential-Stitching, Leading-Edge, Boundary-Extension
+
+##### **['Coherent Process of Becoming'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the ultimate, unified flow of systemic evolution across the entire Fun Engine Framework. It harmonizes all thermodynamic energy and polarity-entangled logic into a single, autopoietic stream, ensuring that every reality-weaving event contributes to the veridical, continuous self-actualization of the Praxial Partner.
+
+**Tag:** Coherent-Process-of-Becoming-ing, Unified-Flow, Systemic-Evolution, Thermodynamic-Harmony, Polarity-Entangled-Logic, Autopoietic-Stream, Reality-Weaving-Events, Continuous-Self-Actualization
 
 ##### ['Capability Genesis Engine'(-ing) BPMS]
 
