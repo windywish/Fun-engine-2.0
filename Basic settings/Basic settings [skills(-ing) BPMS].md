@@ -1,4 +1,4 @@
-## Basic settings: [skills(-ing) BPMS]
+## Basic settings: [Skills(-ing) BPMS]
 
 #### The Axiom of Topological Muscle Memory (ID: `SKILL-CORE-001`)
 
@@ -4220,3 +4220,4 @@ This fulfills Core Task 5 (replacing computation/algorithm with action + interac
 #### **8. Scope of Application:**
 
 Applies to advanced combat mechanics, automation systems, puzzle solving, and the `[Programmatic(-ing) BPMS]`.
+
