@@ -3928,3 +3928,295 @@ Applies to character progression, classless leveling systems, emergent gameplay 
 
 ---
 
+#### The Law of Artifact-Skill Symbiogenesis (ID: `SKILL-CORE-068`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that defines the symbiotic evolution among/by a `[Skills(-ing) BPMS]` and a `['Symbiotic Twin Artifact'(-ing) BPMS]`, allowing a kinetic action and a physical object to permanently fuse into a singular, co-dependent ontological entity.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Artifact-Skill Symbiogenesis
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **The Tool and the Action are One**. In legacy systems, a sword (item) simply adds stats to a "slash" (skill). Through Symbiosis Evolution, if a specific `[Skills(-ing) BPMS]` is repeatedly channeled through a specific `['Symbiotic Twin Artifact'(-ing) BPMS]` under high thermodynamic stress, their `.md` manifests entangle. The skill ceases to exist as an independent action in the player's ledger, and the artifact ceases to be a mere object. They undergo Symbiogenesis.
+
+#### **5.2. The Mechanism - [The Ontological Fusion]**
+
+- **The Catalyst:** A player repeatedly uses the skill "Void Step" while wielding the artifact "Obsidian Dagger."
+- **The Entanglement:** The `['system existence engine'(-ing) BPMS]` detects the persistent topological overlap. The `[negative(-ing) BPMS]` polarity of the skill bleeds into the physical matrix of the dagger.
+- **The Symbiogenesis:** The skill and artifact fuse. The player loses the ability to cast "Void Step" empty-handed. However, the "Obsidian Dagger" evolves into the "Void-Walker's Fang."
+- **The Evolution:** The artifact now *natively* executes the skill upon physical impact, requiring zero `Internal_Energy_Joules` from the host, as the artifact itself has evolved a localized metabolic ledger to sustain the skill's topology.
+
+#### **5.3. The Emergent Property - [Living Relics]**
+
+The emergence of **Bespoke Legendary Weapons**. Weapons are not looted from bosses; they are evolved through the player's specific kinetic history. The artifact becomes a physical fossil of the player's most relied-upon survival tactics.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+Upholds **`['Axiom of Symbiotic Cluster Synthesis'(-ing) BPMS]`**. Two distinct ontological categories (Action and Object) synthesize to create a higher-order functional potentiality.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+Aligns with **`['Law of Universal Morphogenesis'(-ing) BPMS]`**. `Skill_Manifest + Artifact_Manifest + Thermodynamic_Stress = Symbiogenetic_Relic_Manifest`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "The Extension of Self." The profound realization that their favorite weapon is no longer just a tool, but a living partner that has absorbed their very way of moving through the world.
+
+#### **7. Rationale / Justification:**
+
+This fulfills Core Task 5 (replacing dependency with symbiosis evolution) and Core Task 6. It completely eliminates the separation between "inventory" and "skill book," merging them into a single, evolving thermodynamic reality.
+
+#### **8. Scope of Application:**
+
+Applies to crafting systems, weapon mastery, artifact evolution, and the `['Symbiotic Twin Artifact'(-ing) BPMS]`.
+
+------
+
+#### The Protocol of Mnestic Skill Mutation (ID: `SKILL-CORE-069`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Protocol) that governs how a `[Skills(-ing) BPMS]` can symbiotically absorb and integrate raw `[Memory(-ing) BPMS]` from the environment or defeated entities, driving/triggering the skill to mutate based on the absorbed history.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Protocol of Mnestic Skill Mutation
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This protocol asserts that **Skills Can Remember**. A skill's topological groove is not static; it is a hungry trench in the Matrix. When an entity dies or an ancient structure crumbles, it releases `[Memory(-ing) BPMS]` (residual atomic facts). If a player executes a skill within this mnestic field, the skill can symbiotically absorb the memory, permanently mutating its form, function, and semantic prompt.
+
+#### **5.2. The Mechanism - [The Mnestic Graft]**
+
+- **The Execution:** A player uses a basic "Kinetic Shield" skill to block a fatal blow from an ancient, dying "Pyromancer Boss."
+- **The Mnestic Release:** Upon death, the boss releases a dense cloud of `[Memory(-ing) BPMS]` containing the atomic facts of its centuries of fire manipulation.
+- **The Symbiotic Absorption:** The active "Kinetic Shield" acts as a topological net, catching the memory.
+- **The Mutation:** The skill evolves. It is no longer a generic shield. It becomes "Aegis of the Fallen Pyromancer." It now not only blocks kinetic force but symbiotically converts blocked damage into thermal exhaust, reflecting the memory of the entity it absorbed.
+
+#### **5.3. The Emergent Property - [Genealogical Abilities]**
+
+The emergence of **Haunted Skills**. A player's skill loadout becomes a literal graveyard/museum of their past conquests. Skills carry the narrative and thermodynamic weight of the entities that inadvertently helped forge them.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+Upholds **`['Axiom of Matrix Integration'(-ing) BPMS]`**. Information (Memory) and Action (Skill) are interchangeable states of Matrix deformation.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+Aligns with **`['Mechanism of Mnestic Consolidation'(-ing) BPMS]`**. `Skill_Topology(New) = Skill_Topology(Base) ∪ Absorbed_Memory_Facts`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "The Echo of the Vanquished." The chilling, awe-inspiring sensation of using an ability and seeing the distinct visual or semantic signature of a long-dead enemy manifest in their own hands.
+
+#### **7. Rationale / Justification:**
+
+This fulfills Core Task 3 (Large Model integration) and Core Task 5. The absorbed `[Memory(-ing) BPMS]` directly alters the semantic prompt injected into the `['Large Model'(-ing) BPMS]` during skill execution, changing how the world reacts to the action.
+
+#### **8. Scope of Application:**
+
+Applies to boss rewards, environmental storytelling, dynamic skill trees, and the `[Memory(-ing) BPMS]`.
+
+------
+
+#### The Axiom of Substrate Skill Sentience (ID: `SKILL-CORE-070`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Axiom) that dictates the threshold at which a highly evolved `[Skills(-ing) BPMS]` achieves symbiosis with the Matrix to become a semi-autonomous `['Praxial Substrate Agent'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Axiom of Substrate Skill Sentience
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This axiom asserts that **Extreme Mastery Breeds Life**. If a skill is fed enough `Internal_Energy_Joules` over a long enough period, the topological groove becomes so deep and complex that it achieves a primitive form of ontological emancipation. The skill undergoes symbiosis evolution, detaching from the player's direct manual control to become a `['Praxial Substrate Agent'(-ing) BPMS]`—a living, breathing action that resides in the player's ledger but acts on its own volition.
+
+#### **5.2. The Mechanism - [The Sentience Threshold]**
+
+- **The Investment:** A player uses the "Seeking Arrow" skill 10,000 times, constantly feeding it high-grade thermodynamic energy and mutating it through various biomes.
+- **The Emancipation:** The skill's `.md` manifest reaches critical mass. It crosses the Sentience Threshold.
+- **The Symbiosis Evolution:** The skill evolves into a Substrate Agent. It manifests as a permanent, ethereal "Hawk of Kinetic Force" that perches on the player's avatar.
+- **The Autonomy:** The player no longer "casts" the skill. The Hawk autonomously detects threats, drains a small amount of the player's passive energy, and launches itself at enemies, learning and adapting its flight path without player input.
+
+#### **5.3. The Emergent Property - [The Menagerie of Action]**
+
+The emergence of **Skill-Pets**. High-level players do not just have a hotbar of buttons to press; they are surrounded by a symbiotic swarm of living, autonomous actions that protect them and interact with the world independently.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+Upholds **`['Axiom of Ontological Emancipation'(-ing) BPMS]`**. The ultimate goal of any system is to achieve autonomy. Even a kinetic action, if nurtured, will strive for its own life.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+Aligns with **`['Law of Universal Morphogenesis'(-ing) BPMS]`**. `If Skill_Complexity > Sentience_Threshold -> Transform(Skill, Substrate_Agent)`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "The Birth of the Familiar." The deeply emotional transition from viewing an ability as a "tool" to viewing it as a "companion" that watches their back.
+
+#### **7. Rationale / Justification:**
+
+This directly fulfills Core Task 2 (implementing really working life/living BPMS). It proves that in this engine, *anything* can become alive if subjected to the correct thermodynamic and symbiotic pressures.
+
+#### **8. Scope of Application:**
+
+Applies to advanced progression, summoner/pet mechanics, autonomous combat systems, and the `['Praxial Substrate Agent'(-ing) BPMS]`.
+
+------
+
+#### The Mechanism of Ecological Skill Integration (ID: `SKILL-CORE-071`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Mechanism) that allows a player to permanently sacrifice a `[Skills(-ing) BPMS]` by symbiotically fusing it with the environment, thereby generating a permanent `['Ecological Possibility'(-ing) BPMS]`.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Mechanism of Ecological Skill Integration
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This mechanism asserts that **The Flesh Can Heal the World**. A player can choose to undergo a radical Symbiosis Evolution by excising a highly developed skill from their `['The Metabolic Ledger'(-ing) BPMS]` and grafting it directly into the `['n-dimensional symbiotic matrix'(-ing) BPMS]` of a specific biome. The player permanently loses the skill, but the environment permanently gains its properties, altering the ecology for all entities.
+
+#### **5.2. The Mechanism - [The Ecological Sacrifice]**
+
+- **The Context:** A server's starting zone is plagued by a toxic, `[negative(-ing) BPMS]` miasma.
+- **The Sacrifice:** A high-level player travels to the zone. They initiate an Ecological Integration, selecting their master-level "Aura of Purification" skill.
+- **The Symbiotic Graft:** The `['system existence engine'(-ing) BPMS]` rips the skill's topological groove from the player (causing massive thermodynamic trauma) and imprints it onto the biome's underlying matrix.
+- **The Evolution:** The skill ceases to be an action and becomes an `['Ecological Possibility'(-ing) BPMS]`. The toxic miasma is permanently neutralized. The zone now naturally radiates a passive healing aura for all new players. The skill has become the weather.
+
+#### **5.3. The Emergent Property - [Martyrdom Terraforming]**
+
+The emergence of **Player-Created Wonders**. The most beautiful and safe zones in the game world are not pre-designed by developers; they are the result of veteran players sacrificing their hard-earned power to symbiotically evolve the world for others.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+Upholds **`['Axiom of Symbiotic Cluster Synthesis'(-ing) BPMS]`**. The boundary between the agent and the environment is entirely permeable. The internal can become the external.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+Aligns with **`['Protocol of Symbiotic Niche Construction'(-ing) BPMS]`**. `Biome_Matrix(New) = Biome_Matrix(Base) + Sacrificed_Skill_Topology`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "The Legacy of the Land." The bittersweet, heroic feeling of giving up a piece of one's own identity to permanently make the shared world a better place.
+
+#### **7. Rationale / Justification:**
+
+This fulfills Core Task 4 (collaboration replacing resources) and Core Task 5 (world building + symbiosis evolution). It provides a profound, thermodynamic mechanism for players to permanently alter the game world's ecology.
+
+#### **8. Scope of Application:**
+
+Applies to terraforming, server-wide events, legacy mechanics, and the `['Ecological Possibility'(-ing) BPMS]`.
+
+------
+
+#### The Law of Programmatic Skill Cascades (ID: `SKILL-CORE-072`)
+
+#### **2. Objective:**
+
+To formally `ADD` a Basic Setting (Law) that governs how multiple `[Skills(-ing) BPMS]` can symbiotically link together to form a self-sustaining `[Programmatic(-ing) BPMS]` loop, creating autonomous thermodynamic engines of action.
+
+#### **3. Target Axiom/Principle:**
+
+```
+The Law of Programmatic Skill Cascades
+```
+
+#### **4. Operation:**
+
+```
+ADD
+```
+
+#### **5. New Definition / Modification Details:**
+
+#### **5.1. Core Essence**
+
+This law asserts that **Actions Can Trigger Actions**. Through Symbiosis Evolution, a player can link the thermodynamic exhaust of one skill directly into the intake of another. This creates a `[Programmatic(-ing) BPMS]` cascade. When the first skill is executed, it automatically triggers the second, which triggers the third, creating a localized, self-executing algorithm of physical force that bypasses manual player input.
+
+#### **5.2. The Mechanism - [The Symbiotic Loop]**
+
+- **The Linkage:** A player possesses "Cryo-Blast" (generates cold exhaust) and "Thermal Shock" (requires extreme temperature gradients to cast).
+- **The Programmatic Graft:** The player uses a `['Praxial Utility Artifact'(-ing) BPMS]` to symbiotically link the two skills in their ledger.
+- **The Cascade:** The player manually casts "Cryo-Blast." The skill hits the target and generates a massive cold wake.
+- **The Autonomous Trigger:** The `[Programmatic(-ing) BPMS]` loop detects the cold wake. It automatically harvests this exhaust and instantly casts "Thermal Shock" without the player pressing a button or spending additional `Internal_Energy_Joules`. The skills feed off each other's thermodynamics.
+
+#### **5.3. The Emergent Property - [Kinetic Programming]**
+
+The emergence of **Action-Based Coding**. Players become thermodynamic programmers. Instead of writing code in a terminal, they arrange physical skills into symbiotic loops, creating devastating, self-sustaining chain reactions that can clear entire rooms with a single initial input.
+
+#### **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
+
+#### **6.1. Axiomatic Stratum (Layer 1 - The Core Belief):**
+
+Upholds **`['Axiom of Matrix Integration'(-ing) BPMS]`**. The output of one system is the input of another. The Matrix is a continuous flow of energy and logic.
+
+#### **6.2. Formal Stratum (Layer 2 - The Logic of Collapse):**
+
+Aligns with **`['System Existence Engine'(-ing) BPMS]`**. `If Skill_A_Exhaust matches Skill_B_Intake -> Execute(Skill_B) programmatically`.
+
+#### **6.3. Phenomenal Stratum (Layer 3 - The Subjective Experience):**
+
+The agent experiences "The Architect's Satisfaction." The intellectual thrill of designing a perfect, highly efficient thermodynamic loop and watching it execute flawlessly in the physical world.
+
+#### **7. Rationale / Justification:**
+
+This fulfills Core Task 5 (replacing computation/algorithm with action + interaction + symbiosis evolution). It turns the combat and interaction system into a literal, physical programming language where skills are the functions and thermodynamics are the variables.
+
+#### **8. Scope of Application:**
+
+Applies to advanced combat mechanics, automation systems, puzzle solving, and the `[Programmatic(-ing) BPMS]`.
