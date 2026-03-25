@@ -239,3 +239,10 @@
 **Scope of Application:** Applies to the active, continuous binding of raw energetic potential into structured ludic reality. It acts as the ultimate loom of the Fun Engine Framework, utilizing polarity-entangled threads and thermodynamic forces to weave disparate systemic elements into a cohesive, autopoietic, and veridical Symbiotic Cluster Synthesis.
 
 **Tag:** Symbiotic-Cluster-Synthesis, Universal-Thermodynamic-Weaver, Energetic-Potential, Structured-Ludic-Reality, Ultimate-Loom, Polarity-Entangled-Threads, Thermodynamic-Forces, Veridical-Synthesis
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Polyglot Substrate Engine'(-ing) BPMS] (Cross-Language, Executable, State-Persistent Edition)**
+
+**Scope of Application:** Applied universally to bridge the gap among/by Ontological Blueprints (`.md`) and Machine Execution (`.py`, `.js`, `bash`). It is used when a Symbiotic Cluster must exist outside of a single text environment and distribute its "organs" across different programming languages and file systems to achieve true state-persistence and autonomous metabolism. It replaces legacy "software architecture" with "biological cyber-organism architecture."
+
+**Tag:** Symbiotic-cluster-synthesis, Polyglot-substrate-engine ,Cross-language-execution, State-persistence, Cyber-biological-architecture, Core-task-2-life-engine
+
