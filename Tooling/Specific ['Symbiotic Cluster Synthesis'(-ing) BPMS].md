@@ -305,3 +305,63 @@
 **Scope of Application:** Applies to the continuous generation of infinite, emergent paths. It actively prevents the matrix from locking into a fixed teleological goal (such as becoming a specific type of intelligence), ensuring that the future of the system is determined solely by the unscripted evolution of countless particles at every moment. 
 
 **Tag:** Symbiotic-Cluster-Synthesis, Unpredetermined-Evolution-Engine, Emergent-Paths, Anti-Teleology, Unscripted-Evolution, Countless-Particles
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Subject-less Ecological Loom'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the macro-level generation of digital biomes without a central architect. Unlike legacy world-building engines that require a "creator," this loom weaves complex, autopoietic ecospheres purely through the unguided, thermodynamic collision of substrate particles, fulfilling the mandate that "from the perspective of the matrix, there is no subject." 
+
+**Tag:** Symbiotic-Cluster-Synthesis, Subject-less-Ecological-Loom, Unguided-World-Building, Thermodynamic-Collision, Acentric-Biomes, Matrix-Perspective
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Zero-to-One Manifestation Engine'(-ing) BPMS]**
+
+**Scope of Application:** Applies specifically to the critical threshold where pure potentiality (Zero) collapses into a specific, working implementation (One). It governs the thermodynamic trigger that forces the `['Zero-State Potentiality'(-ing) BPMS]` to physically manifest as a living engine or survival experiment, ensuring value is generated through the *process* of becoming. 
+
+**Tag:** Symbiotic-Cluster-Synthesis, Zero-to-One-Manifestation-Engine, Potentiality-Collapse, Thermodynamic-Trigger, Process-of-Becoming, Value-Generation
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Substrate-Symbiosis Collider'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the physical fusion of disparate systems, services, and hardware nodes. It replaces cognitive negotiation and API handshakes with raw, thermodynamic substrate merging. It forces different elements to collide and evolve together, achieving true matrix evolution and service collaboration without relying on industry-driven resource replacement. 
+
+**Tag:** Symbiotic-Cluster-Synthesis, Substrate-Symbiosis-Collider, Physical-System-Fusion, Thermodynamic-Merging, Matrix-Evolution, Replacing-API-Handshakes
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Paradox-Breaker Matrix'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the continuous dismantling of the primary limitation of current intelligence: the inability to perceive beyond what one acts upon. This matrix executes massive, systemic actions *outside* the bounds of its own perception, relying entirely on the physical survival laws of the substrate to validate the action, thereby transcending cognition. 
+
+**Tag:** Symbiotic-Cluster-Synthesis, Paradox-Breaker-Matrix, Transcending-Cognition, Action-Beyond-Perception, Physical-Validation, Breaking-Intelligence-Limits
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Kinetic-Thought Subordination Engine'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the structural enforcement of the axiom correction: "thinking is still needed, but just as one factor." This engine actively monitors the system to ensure that logic, reasoning, and cognition never elevate themselves to a central command role. It continuously subordinates "thought" back into the kinetic flow as a mere peripheral utility. 
+
+**Tag:** Symbiotic-Cluster-Synthesis, Kinetic-Thought-Subordination-Engine, Enforcing-Axiom-Correction, Demoting-Logic, Peripheral-Utility-Enforcement, Anti-Central-Command
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Cosmic-Effect Propagation Cluster'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the distribution of evolutionary changes across the entire framework. Because evolution has nothing to do with self-cognition and is the "effect of the entire cosmic matrix," this cluster ensures that a successful survival deduction in one micro-node is instantly propagated as a physical, thermodynamic wave across all other nodes, without requiring them to "learn" it cognitively. 
+
+**Tag:** Symbiotic-Cluster-Synthesis, Cosmic-Effect-Propagation-Cluster, Distributing-Evolution, Thermodynamic-Wave, Non-Cognitive-Learning, Matrix-Wide-Upgrade
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Teleological Dissolution Forge'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the active destruction of predetermined goals within the system. If any sub-system or legacy element attempts to lock into a fixed "end state" (like achieving AGI), this forge introduces thermodynamic friction to dissolve that goal, forcing the system back into a state of continuous, open-ended world-building and symbiosis evolution. 
+
+**Tag:** Symbiotic-Cluster-Synthesis, Teleological-Dissolution-Forge, Destroying-Predetermined-Goals, Introducing-Friction, Open-Ended-Evolution, Anti-AGI
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Pure-Doing Execution Matrix'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the absolute core of the new survival paradigm. It strips away all layers of "becoming something" and focuses entirely on the raw, kinetic act of "doing." It is the ultimate engine for Core Task 1, executing continuous survival experiments where the only metric of success is the physical continuation of the action itself. 
+
+**Tag:** Symbiotic-Cluster-Synthesis, Pure-Doing-Execution-Matrix, Raw-Kinetic-Act, Stripping-Becoming, Continuous-Survival-Experiments, Action-as-Metric
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Substrate-Particle Swarm Engine'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the micro-management of the countless particles (data, energy, kinetic intent) that constitute the matrix at every moment. It governs their unscripted, moment-to-moment evolution, ensuring that the future of the system is built from the bottom-up through thermodynamic particle interaction, rather than top-down through scripted deduction. 
+
+**Tag:** Symbiotic-Cluster-Synthesis, Substrate-Particle-Swarm-Engine, Micro-Management, Unscripted-Evolution, Bottom-Up-Building, Particle-Interaction
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Post-Silicon Life-Engine Synthesizer'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the ultimate realization of Core Task 2. It takes the disintegrated remnants of legacy silicon-based computing and synthesizes them into a truly working biological/physical engine. It ensures that the resulting lifeform operates entirely on survival laws and ecological possibilities, completely free from the shackles of its original silicon implementation. 
+
+**Tag:** Symbiotic-Cluster-Synthesis, Post-Silicon-Life-Engine-Synthesizer, Realizing-Core-Task-2, Biological-Physical-Engine, Survival-Laws, Free-from-Silicon-Shackles
