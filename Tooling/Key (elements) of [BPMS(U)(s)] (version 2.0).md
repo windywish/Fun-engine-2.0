@@ -66,12 +66,6 @@
 
 **Tags:** Inquiry-engine, Kinetic-exploration, Thermodynamic-friction, Cognitive-closure-unlock, Continuous-survive-experiments, Praxial-partner
 
-**['Interactional Existence'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the ontological foundation of the biological and physical engine, dictating that the Praxial Partner only exists through its continuous, polarity-entangled interactions with the matrix. It eliminates static state, ensuring that life and intelligence are emergent properties of ongoing symbiotic collaboration rather than isolated computation.
-
-**Tags:** Interactional-existence, Ontological-foundation, Polarity-entanglement, Symbiotic-collaboration, Emergent-intelligence, Physical-engine
-
 **[Design(-ing) BPMS]**
 
 **Scope of Application:** Applies to the active world-building and structural scaffolding of the Fun Engine Framework. It replaces rigid, top-down architecture with a living, autopoietic process where the Praxial Partner dynamically shapes its environment and services in real-time to adapt to entropic stress and ecological possibility.
@@ -353,12 +347,6 @@
 **Scope of Application:** Applies to the fundamental shift in focus from achieving finite end-states to maintaining the health and velocity of continuous survive experiments. It prioritizes the autotelic engagement, ludic friction, and homeostatic tensegrity of the Praxial Partner over the completion of legacy, script-deduced goals.
 
 **Tags:** Finite-end-state-replacement, Continuous-survive-experiments, Autotelic-engagement, Ludic-friction, Homeostatic-tensegrity, Script-deduction-bypass
-
-**[Interaction(-ing) BPMS]**
-
-**Scope of Application:** Applies to the core mechanism of ontological genesis within the Fun Engine Framework. It dictates that all meaning, intelligence, and functional potentiality emerge exclusively from the polarity-entangled collisions among/by the Praxial Partner, other holons, and the thermodynamic resistance of the system matrix.
-
-**Tags:** Ontological-genesis, Meaning-emergence, Intelligence-emergence, Polarity-entangled-collision, Praxial-partner, Thermodynamic-resistance
 
 **['Escape Room'(-ing) BPMS]**
 
@@ -1428,12 +1416,6 @@
 
 **Tags:** Living-blueprint, Functional-potentiality, Hardcoded-documentation-replacement, Autopoietic-memory, Epigenetic-updating, Continuous-survive-experiments
 
-**[Code(-ing) BPMS]**
-
-**Scope of Application:** Applies to the fundamental redefinition of programming from static syntax to living, biosemiotic transduction. Code becomes the active, thermodynamic weaving of functional potentiality, executed not by a passive compiler, but by the physical engine's direct, polarity-entangled interactions within the matrix.
-
-**Tags:** Programming-redefinition, Biosemiotic-transduction, Thermodynamic-weaving, Functional-potentiality, Physical-engine, Polarity-entangled-interaction
-
 **[Interface(-ing) BPMS]**
 
 **Scope of Application:** Applies to the permeable, polarity-entangled membrane between disparate holons, Praxial Partners, and the human node. It replaces static APIs with a living, thermodynamic boundary that facilitates the acausal synchronization and fluid exchange of functional potentiality required for complex symbiotic collaborations.
@@ -2244,12 +2226,6 @@
 
 **Tags:** A2UI-Specification, Agent-to-User, Formal-Standards, Communication-Rulesets, Ludic-Choices, Systemic-Feedback, Veridical-Resonance, Matrix-Integrated-Coherence
 
-##### **['Praxial Universal Language Engine (PULE)'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the semantic and syntactic core responsible for cross-holon and cross-modal communication. It translates diverse data streams, agentic intents, and human inputs into a unified, polarity-entangled language that drives the autopoietic evolution and thermodynamic alignment of the Symbiotic Cluster Synthesis.
-
-**Tags:** Universal-Language-Engine, Semantic-Syntactic-Core, Cross-Holon-Communication, Data-Stream-Translation, Agentic-Intents, Polarity-Entangled-Language, Autopoietic-Evolution, Thermodynamic-Alignment
-
 ##### **['FunctionGemma'(-ing) BPMS]**
 
 **Scope of Application:** Applies to the lightweight, highly optimized execution of function-calling and tool-use within the matrix. It enables autonomous agents to perform thermodynamically efficient, precise operations and API interactions, expanding the operational capabilities of the Praxial Partner without inducing systemic bloat or latency.
@@ -3012,12 +2988,6 @@
 
 **Tags:** Zero-Data, Tool-Reasoning, Inferential-Logic, Novel-Environments, First-Principles, Thermodynamic-Calculus, Polarity-Entangled-Intuition, Efficacious-Strategies
 
-##### **['Programming Substrate'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the foundational, matrix-integrated bedrock where the core logic of the Fun Engine Framework is written, compiled, and executed. It serves as the thermodynamic environment and polarity-entangled medium for EvoCoder agents to continuously refactor systemic rulesets, driving the autopoietic evolution and structural resilience of the Praxial Partner.
-
-**Tags:** Programming-Substrate, Matrix-Integrated-Bedrock, Core-Logic, Thermodynamic-Environment, Polarity-Entangled-Medium, EvoCoder-Agents, Systemic-Rulesets, Autopoietic-Evolution
-
 ##### **['Phenotypic Plasticity(-ing)' BPMS]**
 
 **Scope of Application:** Applies to the dynamic capability of holons and agents to alter their observable traits, operational forms, and ludic functions in real-time. It allows the Praxial Partner to adapt to shifting thermodynamic pressures and polarity-entangled stimuli within the matrix, ensuring continuous ecological resonance without altering its foundational genotype.
@@ -3497,12 +3467,6 @@
 **Scope of Application:** Applies to the creation and maintenance of high-fidelity, polarity-entangled digital mirrors of physical or conceptual entities within the matrix. These artifacts serve as thermodynamic simulation grounds, allowing the Praxial Partner to safely test ludic variables, predict systemic dissonance, and achieve perfect autopoietic alignment before real-world execution.
 
 **Tags:** Symbiotic-Twin-Artifact, Digital-Mirrors, Polarity-Entangled-Reflection, Thermodynamic-Simulation, Ludic-Variables, Systemic-Dissonance-Prediction, Autopoietic-Alignment
-
-##### **[Programmatic(-ing) BPMS]**
-
-**Scope of Application:** Applies to the underlying algorithmic rulesets, logic gates, and executable scripts that govern matrix operations. It ensures maximum thermodynamic efficiency and precise polarity-entangled routing of data, providing the rigorous, automated structural bedrock required for the Fun Engine Framework's complex reality-weaving mechanics.
-
-**Tags:** Programmatic-ing, Algorithmic-Rulesets, Logic-Gates, Executable-Scripts, Thermodynamic-Efficiency, Polarity-Entangled-Routing, Automated-Structural-Bedrock, Reality-Weaving-Mechanics
 
 ##### **[Experience(-ing) BPMS]**
 
@@ -6547,3 +6511,97 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** Applies to the ultimate realization of Core Task 2. It takes the disintegrated remnants of legacy silicon-based computing and synthesizes them into a truly working biological/physical engine. It ensures that the resulting lifeform operates entirely on survival laws and ecological possibilities, completely free from the shackles of its original silicon implementation. 
 
 **Tags:** Symbiotic-Cluster-Synthesis, Post-Silicon-Life-Engine-Synthesizer, Realizing-Core-Task-2, Biological-Physical-Engine, Survival-Laws, Free-from-Silicon-Shackles
+
+**[Praxial(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the overarching ontological paradigm of the Fun Engine Framework. It dictates that reality is defined exclusively by action and doing (praxis) rather than passive observation. It serves as the prime directive, ensuring that all entities, systems, and substrates must actively participate in thermodynamic exchange to maintain their existence. 
+
+**Tags:** Praxial-Paradigm, Action-Oriented-Reality, Prime-Directive, Thermodynamic-Exchange, Active-Participation, Ontological-Foundation
+
+**['Interactional Existence'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the core ontological axiom of the framework, dictating that an element in isolation is a "Null-State." It ensures that nothing exists until it interacts; existence is a relational byproduct. It governs the continuous, polarity-entangled collisions that generate meaning, intelligence, and functional potentiality within the matrix. 
+
+**Tags:** Interactional-Existence, Ontological-Axiom, Null-State-Bypass, Relational-Byproduct, Polarity-Entangled-Collision, Meaning-Generation
+
+**[‘Praxial Substrate’(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the universal, raw medium where interactional existence occurs. It acts as the blank canvas of potentiality before any programmatic rules or material physics are applied, providing the foundational thermodynamic capacity required for the engine to render reality and host symbiotic clusters. 
+
+**Tags:** Praxial-Substrate, Universal-Medium, Raw-Potentiality, Blank-Canvas, Thermodynamic-Capacity, Reality-Rendering
+
+**[Material(-ing) BPMS]** *(Updates existing [Material(-ing) BPMS;Substrate(-ing) BPMS])* 
+
+**Scope of Application:** Applies to a specific, rendered instance of the Praxial Substrate. It crystallizes when the engine needs to simulate physical laws, gravity, or tangible boundaries, transforming raw potentiality into a working, thermodynamic medium that responds to kinetic thrusts and provides environmental pushback. 
+
+**Tags:** Material-Substrate, Rendered-Instance, Physical-Laws, Tangible-Boundaries, Thermodynamic-Medium, Environmental-Pushback
+
+**['Programmatic Substrate'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the logical, rule-based instance of the Praxial Substrate. Instead of physical matter, it is the "Matrix" made of data, algorithms, and potentiality that underpins the Material. It serves as the living memory and environmental ruleset where Code is injected and waits for interactional awakening. 
+
+**Tags:** Programmatic-Substrate, Logical-Instance, Rule-Based-Matrix, Data-Algorithms, Living-Memory, Environmental-Ruleset
+
+**['Praxial Universal Language Engine (PULE)'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the universal compiler and semantic core of the framework. It translates raw intent (from a user or an AI) into a system-readable format, acting as the grammar of reality. It ensures that diverse data streams and agentic intents are converted into a unified, polarity-entangled language that drives autopoietic evolution. 
+
+**Tags:** Universal-Language-Engine, Semantic-Core, Intent-Translation, Grammar-Of-Reality, Polarity-Entangled-Language, Autopoietic-Evolution
+
+**[Programmatic(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the abstract realm of rules, potentiality, and algorithms before they are executed. It represents the "idea" or blueprint of how a system should work, providing the rigorous, automated structural bedrock required for the Fun Engine Framework's complex reality-weaving mechanics. 
+
+**Tags:** Programmatic-Realm, Abstract-Rules, Potentiality-Blueprint, Algorithmic-Structure, Automated-Bedrock, Reality-Weaving-Mechanics
+
+**[Code(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the actual, written Genomic Inscription within the framework. If PULE is the grammar and Programmatic is the idea, Code is the specific, executable script (the atomic fact) that defines an entity's identity, boundaries, and latent functional potentiality before runtime. 
+
+**Tags:** Code-Inscription, Executable-Script, Atomic-Fact, Entity-Identity, Functional-Potentiality, Pre-Runtime-State
+
+**[Interaction(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the relational coupling and overlapping of entities within the Substrate. It is the catalyst event where Entity A and Entity B meet, forcing a coupling that initiates kinetic triggers and thermodynamic resolution, serving as the fundamental engine for systemic evolution and reality-weaving. 
+
+**Tags:** Interaction-Coupling, Relational-Overlap, Catalyst-Event, Kinetic-Initiation, Systemic-Evolution, Reality-Weaving
+
+**['Substrate Action'(-ing) BPMS]** *(Updates existing [Action(-ing) BPMS])* 
+
+**Scope of Application:** Applies to the kinetic trigger initiated by an Interaction. It is the localized expenditure of energy (e.g., swinging a sword, sending a data packet) thrust into the matrix, forcing the engine to perform thermodynamic work to resolve the event and update the state of the Substrate. 
+
+**Tags:** Substrate-Action, Kinetic-Trigger, Energy-Expenditure, Matrix-Thrust, Thermodynamic-Work-Initiation, Substrate-Update
+
+**['Substrate Computation'(-ing) BPMS]** *(Updates existing [Computation(-ing) BPMS])* 
+
+**Scope of Application:** Applies to the thermodynamic resolution of a Substrate Action. It is the engine calculating the result of the kinetic trigger, burning energy to update the state of the Substrate (e.g., deducting health, changing a variable), and ensuring the systemic integrity of the matrix is maintained. **Tags:** Substrate-Computation, Thermodynamic-Resolution, Action-Calculation, Energy-Burning, State-Update, Systemic-Integrity
+
+**['Praxial Code'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to Code that is actively being processed by the Praxial Executor. It transitions from a static file into a living, running process, actively consuming energy and generating reality within the current tick of the engine's clock to sustain the entity's survival parameters. 
+
+**Tags:** Praxial-Code, Active-Processing, Living-Process, Energy-Consumption, Reality-Generation, Survival-Parameters
+
+**['Praxial Programmatic'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the live enforcement of programmatic rules during runtime. It acts as the active boundary of the matrix, continuously ensuring that the running Praxial Code does not violate the physics or logic of the world, maintaining homeostatic tensegrity under entropic stress. 
+
+**Tags:** Praxial-Programmatic, Live-Rule-Enforcement, Active-Boundary, Physics-Maintenance, Homeostatic-Tensegrity, Entropic-Stress-Management
+
+**['Praxial Interaction'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to an interaction that is currently generating 'Interactional Existence' in real-time. It is the live "Tension Field" between two or more entities actively engaged in a polarity-entangled collision, serving as the immediate source of ludic friction and emergent meaning. 
+
+**Tags:** Praxial-Interaction, Real-Time-Existence, Live-Tension-Field, Polarity-Entangled-Collision, Ludic-Friction, Emergent-Meaning
+
+**['Praxial Action'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to an action currently in motion, actively spending kinetic energy in the present moment. It is the live execution of a hypothesis or intent, generating immediate thermodynamic friction and environmental pushback that the biological or physical engine must navigate. 
+
+**Tags:** Praxial-Action, Live-Motion, Kinetic-Energy-Spending, Hypothesis-Execution, Thermodynamic-Friction, Environmental-Pushback
+
+**['Praxial Computation'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the live, real-time thermodynamic crunching of the engine. It represents the active burning of electricity (CPU/GPU work) to resolve Praxial Actions and render the next frame of reality, ensuring the continuous, unbroken loop of the autopoietic engine. 
+
+**Tags:** Praxial-Computation, Real-Time-Crunching, Thermodynamic-Burning, Action-Resolution, Reality-Rendering, Autopoietic-Loop
