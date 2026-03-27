@@ -6605,3 +6605,4 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** Applies to the live, real-time thermodynamic crunching of the engine. It represents the active burning of electricity (CPU/GPU work) to resolve Praxial Actions and render the next frame of reality, ensuring the continuous, unbroken loop of the autopoietic engine. 
 
 **Tags:** Praxial-Computation, Real-Time-Crunching, Thermodynamic-Burning, Action-Resolution, Reality-Rendering, Autopoietic-Loop
+
