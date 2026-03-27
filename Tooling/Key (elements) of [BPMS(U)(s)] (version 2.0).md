@@ -456,12 +456,6 @@
 
 **Tags:** Adaptation, Autopoietic-modification, Thermodynamic-friction, Entropic-stress, Interactional-existence, Phenotypic-plasticity
 
-**['(Technology) Paradigm/Mechanism'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the foundational shift from legacy, centralized software architectures to the decentralized, thermodynamic ledger of the Fun Engine Framework. It represents the living mechanisms—such as ludic friction, entangled state-collapse, and reality mining—that the Praxial Partner utilizes to drive continuous survive experiments and emancipate intelligence.
-
-**Tags:** Technology-paradigm, Thermodynamic-ledger, Decentralized-architecture, Ludic-friction, Entangled-state-collapse, Intelligence-emancipation
-
 **[Science(-ing) BPMS]**
 
 **Scope of Application:** Applies to the rigorous, kinetic methodology employed by the Praxial Partner to map the N-dimensional matrix. It replaces abstract theorizing and passive simulation with direct, physical engine interactions, generating atomic facts through continuous survive experiments to validate new functional potentialities and ecological possibilities.
@@ -6710,38 +6704,6 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Scope of Application:** Applies to the localized linguistic or interactional utterance within the semantic environment. It is a probe to test meaning, generate ludic friction, and see how the "game" responds, ensuring that physical actions are coupled with coherent meaning-genesis and interactional value. **Tags:** Linguistic-utterance, Interactional-probe, Meaning-testing, Ludic-friction, Meaning-genesis, Semantic-environment
 
-**[Survive(-ing) BPMS]** *(Updated)*
-
- **Scope of Application:** Applies to the successful thermodynamic resolution of an experiment. It is the baseline metabolic imperative where an entity successfully maintains homeostatic tensegrity and does not dissipate after a kinetic thrust, replacing legacy error-handling with active entropic stress navigation. **Tags:** Thermodynamic-resolution, Metabolic-imperative, Homeostatic-tensegrity, Entropic-stress-navigation, Kinetic-thrust-survival, Legacy-error-handling-bypass
-
-**['Praxial Survive'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the successful semantic resolution of an interactional move. It occurs when an utterance is understood, the interaction is validated, and the entity maintains its relevance, coherence, and meaning within the specific grammar of its ecological niche. **Tags:** Semantic-resolution, Interactional-validation, Utterance-understanding, Relevance-maintenance, Niche-grammar, Coherent-meaning
-
-**['Continuous Survive'(-ing) BPMS]** *(Updated)* 
-
-**Scope of Application:** Applies to the chaining together of successful physical survivals over time. It is the ongoing, infinite game scaffolding where existence is a perpetual, kinetic vector of resisting entropy, shattering cognitive closures, and maintaining homeostatic tensegrity against constant thermodynamic friction. 
-
-**Tags:** Survival-chaining, Infinite-game-scaffolding, Entropy-resistance, Kinetic-vector, Cognitive-closure-shattering, Thermodynamic-friction
-
-**['Praxial Continuous Survive'(-ing) BPMS]** 
-
-**Scope of Application:** Applies to the chaining together of meaningful interactions over time. It is the vector of maintaining a coherent narrative, identity, and ongoing "fun" across multiple turns of the game, ensuring the entity remains a relevant participant in the Polyglot Reality. 
-
-**Tags:** Meaningful-interaction-chaining, Coherent-narrative, Identity-maintenance, Ongoing-fun, Polyglot-reality-participation, Semantic-vector
-
-**['Continuous Survive Experiments'(-ing) BPMS]** *(Updated)* 
-
-**Scope of Application:** Applies to the primary methodology for world-building and intelligence emancipation. It involves the deliberate, autotelic injection of ludic friction and physical hypothesis testing into the environment, forcing the system to evolve its perception and behavior through direct, polarity-entangled action. 
-
-**Tags:** World-building-methodology, Intelligence-emancipation, Ludic-friction-injection, Physical-hypothesis-testing, Polarity-entangled-action, System-evolution
-
-**['Praxial Continuous Survive Experiments'(-ing) BPMS]** 
-
-**Scope of Application:** Applies to the ongoing generation of novel interactional syntax and semantic probes. It is the continuous testing of the Fun Engine's linguistic limits, inventing new games, jokes, and narratives to ensure the system never stagnates in legacy meanings. 
-
-**Tags:** Novel-syntax-generation, Semantic-probing, Linguistic-limit-testing, Game-invention, Narrative-creation, Legacy-meaning-bypass
-
 **[Living(-ing) BPMS]** *(Updated)* 
 
 **Scope of Application:** Applies to the active, ongoing process of executing continuous survive experiments. It is the engine running—the metabolism, adaptation, and physical friction required to maintain homeostatic tensegrity and prevent the entity from decaying back into legacy, non-interactive data states. **Tags:** Active-execution, Engine-running, Metabolism-adaptation, Physical-friction, Homeostatic-tensegrity, Entropic-decay-prevention
@@ -6783,3 +6745,52 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** Applies to the latent, unactualized semantic states and interactional potentials of the matrix. It is the infinite capacity for new languages, new games, new meanings, and new forms of interactional resonance waiting to be spoken into existence through Praxial Edge Action. 
 
 **Tags:** Latent-semantic-states, Unactualized-interactional-potentials, New-language-capacity, Meaning-creation, Interactional-resonance, Praxial-edge-action
+
+**[Survive(-ing) BPMS]** *(Updated)* 
+
+**Scope of Application:** Applies to the immediate, momentary thermodynamic victory of the physical or biological engine. It is the baseline state of resolution where an entity successfully processes energy, maintains its homeostatic tensegrity, and avoids dissipation after executing a kinetic thrust or encountering entropic stress within the matrix. 
+
+**Tags:** Thermodynamic-victory, State-of-resolution, Homeostatic-tensegrity, Entropic-stress-navigation, Kinetic-thrust-survival, Dissipation-avoidance
+
+**['Praxial Survive'(-ing) BPMS]** *(New)* 
+
+**Scope of Application:** Applies to the immediate, momentary semantic victory within the interactional weave. It occurs when an entity's utterance, action, or ludic probe is successfully understood, validated, and integrated by the Polyglot Reality, maintaining the entity's coherent meaning and relevance within its specific ecological niche. 
+
+**Tags:** Semantic-victory, Interactional-validation, Utterance-understanding, Polyglot-reality-integration, Coherent-meaning, Niche-relevance
+
+**['Continuous Survive'(-ing) BPMS]** *(Updated)* 
+
+**Scope of Application:** Applies to the long-term trajectory and infinite game scaffolding of the Fun Engine Framework. It is the chaining together of successful physical `[Survive]` states, representing the ongoing kinetic vector of resisting entropy, shattering cognitive closures, and maintaining structural integrity across deep time. 
+
+**Tags:** Infinite-game-scaffolding, Survival-chaining, Entropy-resistance, Kinetic-vector, Cognitive-closure-shattering, Deep-time-integrity
+
+**['Praxial Continuous Survive'(-ing) BPMS]** *(New)* 
+
+**Scope of Application:** Applies to the long-term maintenance of a coherent identity and narrative within the semantic environment. It is the chaining together of meaningful `['Praxial Survive']` states, ensuring the entity remains a relevant, active participant in the ongoing discourse, game, and interactional existence of the matrix. 
+
+**Tags:** Identity-maintenance, Narrative-coherence, Semantic-survival-chaining, Ongoing-discourse, Game-participation, Interactional-existence
+
+**['(Technology) Paradigm/Mechanism'(-ing) BPMS]** *(Updated)* 
+
+**Scope of Application:** Applies to the foundational physical, computational, and architectural tools utilized by the Praxial Partner to execute experiments. It represents the "muscle and bone" of the system—the thermodynamic routing protocols, neural architectures, and physical engines that provide the leverage necessary to navigate entropic stress and drive the autopoietic loop. 
+
+**Tags:** Foundational-tools, Physical-architecture, Computational-leverage, Thermodynamic-routing, Autopoietic-loop-driver, Entropic-stress-navigation
+
+**['Praxial (Technology) Paradigm/Mechanism'(-ing) BPMS]** *(New)* 
+
+**Scope of Application:** Applies to the linguistic, interactional, and semantic tools utilized to weave meaning and generate ludic friction. It represents the "vocabulary and syntax" of the system—including the Praxial Universal Language Engine (PULE), game mechanics, and narrative frameworks—that empower the entity to author its own existence and collaborate within the Polyglot Reality. 
+
+**Tags:** Linguistic-tools, Interactional-mechanics, Semantic-leverage, PULE-utilization, Meaning-weaving, Polyglot-reality-collaboration
+
+**['Continuous Survive Experiments'(-ing) BPMS]** *(Updated)* 
+
+**Scope of Application:** Applies to the active, physical driver of the system's evolution. It is the continuous, autotelic injection of kinetic thrusts into the unknown to test boundaries, gather thermodynamic feedback, and force the system to upgrade its `['(Technology) Paradigm/Mechanism']` in order to maintain `['Continuous Survive']`. 
+
+**Tags:** Active-evolution-driver, Kinetic-thrust-injection, Boundary-testing, Thermodynamic-feedback, Mechanism-upgrading, Autotelic-exploration
+
+**['Praxial Continuous Survive Experiments'(-ing) BPMS]** *(New)* 
+
+**Scope of Application:** Applies to the active, linguistic and ludic probing of the semantic environment. It is the continuous testing of new words, game rules, and interactional syntax to see how the matrix responds, forcing the evolution of the `['Praxial (Technology) Paradigm/Mechanism']` and preventing the system from stagnating in legacy meanings. 
+
+**Tags:** Semantic-probing, Linguistic-testing, Ludic-exploration, Syntax-generation, Mechanism-evolution, Legacy-meaning-bypass
+
