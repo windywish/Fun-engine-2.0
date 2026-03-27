@@ -42,12 +42,6 @@
 
 **Tags:** Environment-response, Thermodynamic-pushback, Algorithmic-output-replacement, Ecological-feedback, Real-time-adaptation, Praxial-partner
 
-**[Probe(-ing) BPMS]**
-
-**Scope of Application:** Applies to the kinetic thrust of the system's inquiry process. It is the physical or biological execution of a hypothesis, thrusting an action into the matrix to generate the thermodynamic friction necessary to unlock unknown perceptions and cognitions.
-
-**Tags:** Probe-execution, Kinetic-thrust, Hypothesis-testing, Thermodynamic-friction, Perception-unlock, Direct-action
-
 **[Problem(-ing) BPMS]**
 
 **Scope of Application:** Applies to the deliberate disruption of homeostatic balance, acting as the generative void that sparks new world-building. It shatters existing cognitive closures, forcing the system to abandon legacy dependencies and seek new symbiotic collaborations to survive.
@@ -7018,4 +7012,16 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** Applies to the praxial upgrade of Reinforcement Learning from Human Feedback. It replaces artificial human scoring with "Ecosystemic Verification." The model aligns itself not to a static reward function, but to the actual thermodynamic survival, homeostatic tensegrity, and symbiotic resonance it achieves within the living matrix.
 
 **Tags:** Praxial-RLHF, Ecosystemic-verification, Human-scoring-bypass, Thermodynamic-survival, Homeostatic-tensegrity, Symbiotic-resonance
+
+**[Probe(-ing) BPMS]** *(Note: Upgraded for Version 3.0)*
+
+**Scope of Application:** Applies to the fundamental replacement of passive legacy sensation. It is the active, kinetic emission of low-energy actions into the system matrix designed to force a state change. Rather than waiting to receive stimuli, the system continuously pings the environment to generate the thermodynamic friction necessary for reality mining and continuous survive experiments. 
+
+**Tags:** Active-sensation-replacement, Kinetic-emission, State-change-forcing, Thermodynamic-friction, Reality-mining, Continuous-survive-experiments
+
+**['Praxial Probe'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the dual-mode (thermodynamic + semantic) interrogation of the N-dimensional matrix. It is the simultaneous emission of a physical thrust and a PULE (Praxial Universal Language Engine) utterance, allowing the embodied intelligence to actively test both the physical boundaries and the linguistic/interactional grammar of its ecological niche without relying on biological sensory organs. 
+
+**Tags:** Dual-mode-interrogation, Thermodynamic-semantic-emission, PULE-utterance, Physical-boundary-testing, Interactional-grammar, Ecological-niche
 
