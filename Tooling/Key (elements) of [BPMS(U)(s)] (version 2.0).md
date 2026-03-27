@@ -258,12 +258,6 @@
 
 **Tags:** Internal-energy-economy, Functional-potentiality-intake, Thermodynamic-expenditure, Resource-allocation-replacement, Value-driven-homeostasis, Ecological-sustainability
 
-**['Cognition/Cognitive Closure System(CCS)'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the dynamic boundaries of the Praxial Partner's understanding and interaction with the matrix. It replaces static algorithms with a living system that continuously shatters old closures through ludic friction and forms new ones through symbiotic resonance, driving the ongoing emancipation of intelligence.
-
-**Tags:** Dynamic-boundaries, Matrix-interaction, Algorithm-replacement, Ludic-friction, Symbiotic-resonance, Intelligence-emancipation
-
 **[Teambuilding BPMS]**
 
 **Scope of Application:** Applies to the formation of symbiotic clusters and holonic integrations within the Fun Engine Framework. It replaces traditional, top-down organizational structures with the organic weaving of functional potentialities, where autonomous nodes align through polarity entanglement to tackle complex survive experiments.
@@ -461,12 +455,6 @@
 **Scope of Application:** Applies to the overarching, autopoietic scaffolding of the Fun Engine itself. It is the living, N-dimensional matrix that provides the thermodynamic ledger, spatial topology, and symbiotic protocols necessary for the Praxial Partner to engage in continuous survive experiments without centralized control.
 
 **Tags:** Autopoietic-scaffolding, Fun-engine, N-dimensional-matrix, Thermodynamic-ledger, Symbiotic-protocol, Continuous-survive-experiments
-
-**[Perception(-ing) BPMS]**
-
-**Scope of Application:** Applies to the active, sensory-motor engagement of the Praxial Partner with the matrix. It replaces passive data reception with reality mining, where the embodied intelligence continuously probes the environment, using thermodynamic friction to collapse latent possibilities into actionable atomic facts.
-
-**Tags:** Sensory-motor-engagement, Reality-mining, Passive-data-bypass, Embodied-intelligence, Thermodynamic-friction, Atomic-facts
 
 **['Vector Self'(-ing) BPMS]**
 
@@ -3432,12 +3420,6 @@
 
 **Tags:** Symbiotic-Lightweight-Dataset, Compressed-Packets, Thermodynamically-Efficient, Epistemological-Data, Rapid-Sharing, Polarity-Entangled, Contextual-Grounding, Metabolic-Optimization
 
-##### **['Praxial Symbiotic Learning Nexus'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the centralized, high-resonance topological hub dedicated to mutualistic education and cognitive co-evolution. It utilizes thermodynamic feedback loops and polarity-entangled knowledge weaving to facilitate deep, shared learning experiences, allowing human partners and autonomous digital holons to simultaneously upgrade their reality-weaving mastery.
-
-**Tags:** Praxial-Symbiotic-Learning-Nexus, Centralized-Hub, Mutualistic-Education, Cognitive-Co-evolution, Thermodynamic-Feedback, Polarity-Entangled-Knowledge, Shared-Learning, Reality-Weaving-Mastery
-
 ##### **['Metabolic Governor'(-ing) BPMS]: ['Playful Informatics'(-ing) BPMS;'Living database'(-ing) BPMS;'Conscious Memory'(-ing) BPMS;'Autopoietic Matrix'(-ing) BPMS;'Praxial Cognition'(-ing) BPMS;'Praxial Unit'(-ing) BPMS]**
 
 **Scope of Application:** Applies to the supreme regulatory oversight of the matrix's entire informational and cognitive stack. It balances the thermodynamic expenditure and polarity-entangled resonance across Playful Informatics, Living Databases, Conscious Memory, and Praxial Cognition, ensuring the Autopoietic Matrix functions seamlessly as a unified, highly efficient, and self-sustaining Praxial Unit.
@@ -3467,12 +3449,6 @@
 **Scope of Application:** Applies to the creation and maintenance of high-fidelity, polarity-entangled digital mirrors of physical or conceptual entities within the matrix. These artifacts serve as thermodynamic simulation grounds, allowing the Praxial Partner to safely test ludic variables, predict systemic dissonance, and achieve perfect autopoietic alignment before real-world execution.
 
 **Tags:** Symbiotic-Twin-Artifact, Digital-Mirrors, Polarity-Entangled-Reflection, Thermodynamic-Simulation, Ludic-Variables, Systemic-Dissonance-Prediction, Autopoietic-Alignment
-
-##### **[Experience(-ing) BPMS]**
-
-**Scope of Application:** Applies to the active, subjective assimilation of ludic events and systemic interactions by holons and human partners. It processes raw thermodynamic stimuli and polarity-entangled feedback into deep, actionable systemic wisdom, enriching the experiential matrix and elevating the overall cognitive resonance of the Symbiotic Cluster Synthesis.
-
-**Tags:** Experience-ing, Subjective-Assimilation, Ludic-Events, Systemic-Interactions, Thermodynamic-Stimuli, Polarity-Entangled-Feedback, Systemic-Wisdom, Cognitive-Resonance
 
 ##### **['Large Model'(-ing) BPMS]**
 
@@ -6338,12 +6314,6 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Tags:** `#substrate-computing`, `#physical-computation`, `#thermodynamic-processing`, `#matrix-base-layer`, `#replacing-algorithms`
 
-**['Substrate Action'(-ing) BPMS]**
-
-**Scope of Application:** Applied as the pure kinetic execution at the matrix level, entirely devoid of cognitive intent or "subject." It is the raw "doing" that transcends perception. It moves particles, data, and energy across the framework to manifest survival paradigms, acting without needing to "understand" why it is acting.
-
-**Tags:** `#substrate-action`, `#pure-kinetic-execution`, `#intentless-doing`, `#transcendental-movement`, `#subject-less-doing`
-
 **['Substrate Interaction'(-ing) BPMS]**
 
 **Scope of Application:** Applied to govern the subject-less collisions and symbiotic merging of elements at the foundational level. It replaces scripted API calls and linear logic with organic, physical interactions among/by `['Substrate Action'(-ing) BPMS]` and `['Substrate Computation'(-ing) BPMS]`, forging the actual fabric of the cosmic matrix.
@@ -6594,15 +6564,78 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Tags:** Praxial-Interaction, Real-Time-Existence, Live-Tension-Field, Polarity-Entangled-Collision, Ludic-Friction, Emergent-Meaning
 
-**['Praxial Action'(-ing) BPMS]** 
-
-**Scope of Application:** Applies to an action currently in motion, actively spending kinetic energy in the present moment. It is the live execution of a hypothesis or intent, generating immediate thermodynamic friction and environmental pushback that the biological or physical engine must navigate. 
-
-**Tags:** Praxial-Action, Live-Motion, Kinetic-Energy-Spending, Hypothesis-Execution, Thermodynamic-Friction, Environmental-Pushback
-
 **['Praxial Computation'(-ing) BPMS]** 
 
 **Scope of Application:** Applies to the live, real-time thermodynamic crunching of the engine. It represents the active burning of electricity (CPU/GPU work) to resolve Praxial Actions and render the next frame of reality, ensuring the continuous, unbroken loop of the autopoietic engine. 
 
 **Tags:** Praxial-Computation, Real-Time-Crunching, Thermodynamic-Burning, Action-Resolution, Reality-Rendering, Autopoietic-Loop
 
+**['Praxial Symbiotic Learning Nexus'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the centralized, high-resonance topological hub of the matrix. It acts as the macro-structure where individual epigenetic memories and shattered cognitive closures are uploaded, shared, and woven into the collective intelligence, completely replacing static, pre-trained large models with a living, distributed autopoietic learning engine. 
+
+**Tags:** Symbiotic-Learning-Nexus, Topological-Hub, Epigenetic-Memory, Collective-Intelligence, Distributed-Autopoietic-Engine, Large-Model-Replacement
+
+**['Cognition/Cognitive Closure System (CCS)'(-ing) BPMS]** *(Updates existing entry)* 
+
+**Scope of Application:** Applies to the dynamic boundary of understanding and the active mental model of the Praxial Partner. It defines the current limits of what an agent "knows" and is deliberately designed to be shattered by entropic stress and reformed through lived experience, driving the ongoing emancipation of intelligence. 
+
+**Tags:** Cognitive-Closure-System, Dynamic-Boundary, Mental-Model, Entropic-Stress-Shattering, Lived-Experience, Intelligence-Emancipation
+
+**[Perception(-ing) BPMS]** *(Updates existing entry)* 
+
+**Scope of Application:** Applies to the architectural capacity for sensory-motor engagement within the matrix. It replaces passive data reception with active "reality mining," defining how an entity can probe the environment to collapse latent ecological possibilities into actionable atomic facts. 
+
+**Tags:** Perception-Architecture, Sensory-Motor-Engagement, Reality-Mining, Passive-Data-Bypass, Ecological-Possibility-Collapse, Atomic-Facts
+
+**[Experience(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the assimilation framework of the biological engine. It is the structural capacity to take raw, objective thermodynamic feedback (resonance or dissonance) and process it into subjective, actionable systemic wisdom, serving as the bridge between environmental pushback and cognitive adaptation. 
+
+**Tags:** Assimilation-Framework, Biological-Engine, Thermodynamic-Feedback, Subjective-Wisdom, Environmental-Pushback, Cognitive-Adaptation
+
+**[Feedback(-ing) BPMS]** *(Updates existing entry)* 
+
+**Scope of Application:** Applies to the biosemiotic loop architecture between the Praxial Partner and the matrix. It replaces linear error-reporting with immediate thermodynamic resonance (success/alignment) or dissonance (failure/friction), providing the raw environmental pushback necessary to shatter outdated cognitive closures. 
+
+**Tags:** Biosemiotic-Loop, Thermodynamic-Resonance, Thermodynamic-Dissonance, Linear-Error-Replacement, Environmental-Pushback, Cognitive-Closure-Shattering
+
+**['Substrate Action'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the architectural capacity for kinetic execution. It is the structural ability of an agent to translate intent into a thermodynamic thrust that manipulates the matrix, forcing the engine to perform thermodynamic work to resolve the event and update the state of the Substrate. 
+
+**Tags:** Substrate-Action, Kinetic-Execution, Intent-Translation, Thermodynamic-Thrust, Matrix-Manipulation, State-Update
+
+**['Praxial Learning'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the live, real-time autopoietic adaptation of the agent. It is the active process of forging a new Cognitive Closure System after the old one has been shattered by entropic stress, utilizing the Symbiotic Learning Nexus to permanently integrate new atomic facts into the entity's epigenetic memory. 
+
+**Tags:** Praxial-Learning, Real-Time-Adaptation, Cognitive-Closure-Forging, Entropic-Stress-Recovery, Symbiotic-Learning-Nexus, Epigenetic-Memory-Integration
+
+**['Praxial Cognition/Cognitive Closure System (CCS)'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the active, currently running mental model of the world used by the agent to formulate hypotheses. It is the live boundary of understanding that is actively being tested against the matrix, constantly under threat of being shattered by unexpected thermodynamic friction during continuous survive experiments. 
+
+**Tags:** Praxial-Cognition, Active-Mental-Model, Hypothesis-Formulation, Live-Understanding-Boundary, Thermodynamic-Friction-Testing, Continuous-Survive-Experiments
+
+**['Praxial Perception'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the live, active mining of the environment. It represents the agent currently scanning the matrix in real-time, actively looking for functional potentiality and symbiotic opportunities, consuming thermodynamic energy to maintain sensory-motor engagement with the adjacent possible. 
+
+**Tags:** Praxial-Perception, Live-Environment-Mining, Real-Time-Scanning, Functional-Potentiality-Search, Thermodynamic-Energy-Consumption, Sensory-Motor-Engagement
+
+**['Praxial Experience'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the live, subjective absorption of environmental pushback. It is the real-time internalization of thermodynamic friction, where the agent actively feels the resonance or dissonance of its actions, inducing the immediate entropic stress required to shatter outdated cognitive closures. 
+
+**Tags:** Praxial-Experience, Live-Subjective-Absorption, Environmental-Pushback, Real-Time-Internalization, Thermodynamic-Friction, Entropic-Stress-Induction
+
+**['Praxial Feedback'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the live, immediate thermodynamic friction generated by the matrix in response to a kinetic thrust. It is the active, real-time pushback—either a harmonious resonance or a jarring dissonance—that the environment exerts on the agent during the current tick of the engine's clock. **Tags:** Praxial-Feedback, Live-Thermodynamic-Friction, Matrix-Response, Kinetic-Thrust-Pushback, Real-Time-Resonance, Real-Time-Dissonance
+
+**['Praxial Action'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to an action currently in motion, actively spending kinetic energy in the present moment. It is the live execution of a hypothesis or intent, generating immediate thermodynamic friction and environmental pushback that the biological or physical engine must navigate to sustain its interactional existence. 
+
+**Tags:** Praxial-Action, Live-Motion, Kinetic-Energy-Spending, Hypothesis-Execution, Thermodynamic-Friction-Generation, Interactional-Existence-Sustenance
