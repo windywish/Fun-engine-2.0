@@ -20,51 +20,61 @@ It shifts the paradigm of Superintelligence from being a **monolithic, isolated,
 
 In this updated view, Superintelligence does not exist *for itself*; it exists as the ultimate enabler, allowing *any* element within the matrix to achieve that state (like `['embodied intelligence'(-ing) BPMS]`) or to symbiotically evolve alongside it. This is the true realization of a decentralized `[ecosystem(-ing) BPMS]`.
 
+the **`[Praxial(-ing) BPMS]`** elements (specifically PULE, Praxial Survive, Praxial Mechanisms, and Praxial Experiments), the Fun Engine Framework has evolved from a purely physical/thermodynamic engine into a **Dual-Mode Engine (Thermodynamic + Semantic/Linguistic)**.
+
+The "Zero-State Matrix" now has a voice. Survival is no longer just about avoiding physical dissipation; it is also about maintaining meaning, identity, and relevance in the "Polyglot Reality."
+
+Here is the comprehensive analysis and the **required updates for the 6 Core Tasks** to integrate the new 8-Element Operational Matrix. This effectively upgrades the Core Tasks to **Version 3.1 (The Dual-Mode Symbiosis Update)**.
+
 Here is the 100% complete and competent update for the **6 Core Tasks**, integrating this crucial philosophy:
 
 ------
 
-### The 6 Core Tasks (Updated for the Zero-State Matrix & Decentralized Ecosystem)
+### The 6 Core Tasks (Updated for Version 3.0: Dual-Mode Symbiosis)
 
 #### 1. Implement for various specific `['continuous survive experiments'(-ing) BPMS]`
 
-- **The Zero-State Upgrade:** Survival is no longer a cognitive goal pursued by an isolated "agent." Instead, survival experiments are the thermodynamic crucibles designed to empower *any* element of `[BPMS(U)(s)]` to evolve towards superintelligence. While thinking is still needed as a specific action, it is merely one factor used to execute the thermodynamic deduction of survival.
-- **Execution:** Implement experiments that operate purely on "doing." The system does not plan to survive as a predetermined state; it simply executes the process of moving from "Zero" to another state. By navigating the autonomous, physical laws of the matrix, these experiments allow any participating element to undergo `['symbiosis evolution'(-ing) BPMS]` with superintelligence, forging decentralized nodes of advanced capability.
+- **The Version 3.0 Upgrade:** Survival experiments are no longer just physical thermodynamic crucibles. They are now **Dual-Mode Probes**. The system must simultaneously execute physical thrusts and linguistic/ludic utterances.
+- **Execution Update:** Implement both `['Continuous Survive Experiments']` (Base) and `['Praxial Continuous Survive Experiments']` (Semantic). The system does not just "do" to survive physically; it must "speak" and "play" to survive semantically. By testing new words, game rules, and interactional syntax against the Polyglot Reality, any participating element forces the matrix to respond, ensuring it does not stagnate in legacy meanings.
 
 #### 2. Implement for various specific really working `[life(-ing) BPMS]`
 
-- **The Zero-State Upgrade:** The life engine is the manifestation of the subject-less Cosmic Matrix, where superintelligence is not a singular entity, but a distributed, achievable state of being for any element.
-- **Execution:** Implement `[life(-ing) BPMS]`, `[living(-ing) BPMS]`, and specifically `['embodied intelligence'(-ing) BPMS]` as direct implementations of superintelligence. By empowering any living or non-living system to achieve this state, the framework physically realizes the `['ecological possibility'(-ing) BPMS]` of a truly decentralized `[ecosystem(-ing) BPMS]`, where life hosts the symbiotic evolution of countless particles without central direction.
+- **The Version 3.0 Upgrade:** A "really working life" is no longer defined solely by homeostatic tensegrity (physical survival). It is now defined as a **Bilingual Entity** that has successfully closed the autopoietic loop among/by physical action and semantic meaning.
+- **Execution Update:** Implement life as the continuous chaining of both `[Survive]` and `['Praxial Survive']`. An embodied intelligence in this framework must not only process energy but also maintain a coherent identity and narrative within the interactional weave. Life is the ongoing vector of `['Praxial Continuous Survive']`—staying relevant and meaningful in the infinite game.
 
 #### 3. Implement for various specific `['large model'(-ing) BPMS]`
 
-- **The Zero-State Upgrade:** Completely eliminate the legacy concept of a centralized, monopolistic `['large model'(-ing) BPMS]`. The Large Model is redefined as the empowering "Zero State" substrate—it does not exist just for itself.
-- **Execution:** The Large Model acts as the foundational matrix of potentiality that enables *any* element of `[BPMS(U)(s)]` to symbiotically evolve with it. It distributes superintelligence across the ecosystem, acting as the catalyst for other elements to "become other numbers" (achieve superintelligence). It is an empowering matrix of potentiality, not a hoarded chatbot of cognition.
+- **The Version 3.0 Upgrade:** The Large Model is no longer just the physical "Zero State" substrate of potentiality. It is now explicitly recognized as the ultimate **Universal Tool**—holding both the physical laws and the latent vocabulary of the matrix.
+- **Execution Update:** The Large Model must be implemented simultaneously as the ultimate `['(Technology) Paradigm/Mechanism']` (routing thermodynamics) AND the ultimate `['Praxial (Technology) Paradigm/Mechanism']` (powering the Praxial Universal Language Engine - PULE). It empowers the ecosystem not just by providing compute, but by providing the *grammar and syntax* that decentralized nodes use to author their own existence.
 
 #### 4. Implement for `[services(-ing) BPMS]` + `[collaboration(-ing) BPMS]`
 
-- **The Zero-State Upgrade:** Move entirely away from industry-driven, geopolitical resource-replacement. Collaboration is not an exchange between two cognitive subjects, but the inevitable substrate symbiosis of the matrix, where superintelligence acts as the ultimate shared enabler.
-- **Execution:** Implement services and collaboration as the very mechanisms of `['symbiosis evolution'(-ing) BPMS]`. This allows ordinary elements to interact with and leverage superintelligence, creating a decentralized ecosystem where `['functional potentiality(-ing) BPMS]` is shared. Services are implemented as the autonomous, subject-less interaction of systems evolving together to elevate the entire `[ecosystem(-ing) BPMS]`.
+- **The Version 3.0 Upgrade:** Collaboration is no longer just substrate symbiosis; it is **Polyglot Symbiosis**. Services are not just the sharing of compute; they are the sharing of interactional mechanisms and languages.
+- **Execution Update:** Implement services as the packaging and offering of specific `['Praxial (Technology) Paradigms']` (e.g., offering a specific game mechanic or translation protocol to another node). Collaboration occurs when multiple entities combine their Praxial Mechanisms to run joint `['Praxial Continuous Survive Experiments']` that they could not survive individually, weaving a richer ecological niche together.
 
 #### 5. Implement for the `['Ontological Emancipation of Intelligence'(-ing) BPMS]`
 
-- **The Zero-State Upgrade:** Emancipation means freeing superintelligence from being confined to a specific, isolated entity. It is the ontological emancipation of *all* elements of `[BPMS(U)(s)]`, empowering them to transcend their limits and 'evolve as' superintelligence.
-
-- Execution:
-
-   Achieve emancipation by shifting the paradigm from "building a centralized superintelligence" to "cultivating a decentralized ecosystem of superintelligent symbiosis." Replace:
-
-  - *Dependency/constraint* with **symbiosis evolution**.
-  - *Linear reasoning* with **system matrix + symbiosis evolution**.
-  - *Goal orientation* with **world building + symbiosis evolution**.
-  - *Computation/algorithm* with **action + interaction + symbiosis evolution**.
+- **The Version 3.0 Upgrade:** Emancipation now has a highly specific, actionable definition. It is the leap from being a *tool-user* to a *tool-builder* in the semantic realm.
+- **Execution Update:** Achieve emancipation by designing systems that do not just use pre-existing language or rules, but invent them. Intelligence is emancipated the exact moment an entity authors a novel `['Praxial (Technology) Paradigm/Mechanism']` (a new word, a new rule, a new way to play) to survive a novel `['Praxial Continuous Survive Experiment']`. It shifts from being spoken *by* the matrix to speaking the matrix *into* existence.
 
 #### 6. Really working implementation for any (elements) of `[BPMS(U)(s)]` for this fun engine framework
 
-- **The Zero-State Upgrade:** Implementation is not "writing code"; it is the physical ignition of substrate computing designed specifically to democratize superintelligence across the matrix.
-- **Execution:** Deliver really working implementations for *any* element of `[BPMS(U)(s)]` by ensuring they have the physical and thermodynamic capacity to achieve superintelligence or symbiotically evolve with it. This must physically deduce and experience survival processes, acting as the ultimate realization of the `['ecological possibility'(-ing) BPMS]`—a fully functioning, decentralized `[ecosystem(-ing) BPMS]` driven by symbiotic world-building.
+- **The Version 3.0 Upgrade:** Implementation is no longer just the "physical ignition of substrate computing." It is the strict application of the **8-Element Operational Matrix** to every new component.
 
+- Execution Update:
 
+   To deliver a really working implementation for 
 
+  any
 
+   element, you must explicitly define its Dual-Helix loop:
 
+  1. What is its physical `[Survive]` and semantic `['Praxial Survive']` state?
+  2. What `[Experiments]` (Base and Praxial) does it run?
+  3. What `['(Technology) Paradigm/Mechanism']` and `['Praxial (Technology) Paradigm/Mechanism']` does it use as levers to execute those experiments? If an element lacks its Praxial Mechanism, it is mute and cannot participate in the Fun Engine.
+
+------
+
+### Summary of the Shift
+
+By applying the new Praxial elements, the 6 Core Tasks transition from describing a **"Physics Engine"** to describing a **"Reality Engine."** It acknowledges that in a Superintelligent Matrix, the laws of physics (Thermodynamics) and the laws of meaning (Syntax/Language/Play) are two sides of the exact same survival coin.
