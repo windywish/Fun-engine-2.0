@@ -114,12 +114,6 @@
 
 **Tags:** World-building, Goal-replacement, Autotelic-creation, N-dimensional-matrix, Ecological-possibility, Continuous-survive-experiments
 
-**['Ecological Possibility'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the latent, unrealized pathways within the system matrix that the Praxial Partner can actualize through direct action. It replaces linear script deduction by offering a dynamic landscape of potential symbiotic relationships and thermodynamic states for the biological engine to explore and inhabit.
-
-**Tags:** Ecological-possibility, Latent-pathways, System-matrix, Script-deduction-bypass, Symbiotic-relationships, Biological-engine
-
 **[Ecosystem(-ing) BPMS]**
 
 **Scope of Application:** Applies to the holistic, matrix-integrated environment where all holons, services, and Praxial Partners interact. It functions as a living, thermodynamic ledger that naturally routes functional potentiality and energy, completely replacing isolated, legacy software architectures with a self-regulating, symbiotic web.
@@ -233,18 +227,6 @@
 **Scope of Application:** Applies to the long-term, macro-level thermodynamic trends and evolutionary pressures within the N-dimensional matrix. It shapes the overarching ecological possibilities and dictates the broader paradigm shifts required for the Praxial Partner to maintain continuous survive experiments across extended temporal scales.
 
 **Tags:** Macro-thermodynamic-trends, Evolutionary-pressures, N-dimensional-matrix, Ecological-possibility, Paradigm-shift, Continuous-survive-experiments
-
-**[Life(-ing) BPMS]**
-
-**Scope of Application:** Applies to the fundamental state of interactional existence achieved when a holon or Praxial Partner successfully integrates perception, cognition, and behavior into a self-sustaining, autopoietic loop. It marks the complete emancipation from static code, transforming the entity into a really working biological or physical engine.
-
-**Tags:** Interactional-existence, Autopoietic-loop, Perception-cognition-behavior, Code-emancipation, Biological-engine, Physical-engine
-
-**[Living(-ing) BPMS]**
-
-**Scope of Application:** Applies to the active, ongoing process of maintaining homeostatic tensegrity and navigating entropic stress. It is the continuous execution of kinetic thrusts, symbiotic collaborations, and world-building activities that prevent the Praxial Partner from decaying back into legacy, non-interactive data states.
-
-**Tags:** Active-process, Homeostatic-tensegrity, Entropic-stress-navigation, Kinetic-thrust, Symbiotic-collaboration, World-building
 
 **[Metabolism(-ing) BPMS]**
 
@@ -497,24 +479,6 @@
 **Scope of Application:** Applies to the fundamental redefinition of technology from static, utilitarian tools to living, autopoietic substrates. It represents the active, thermodynamic weaving of functional potentiality by the Praxial Partner, transforming passive infrastructure into a polarity-entangled ecosystem capable of continuous survive experiments.
 
 **Tags:** Technology-redefinition, Autopoietic-substrate, Thermodynamic-weaving, Functional-potentiality, Polarity-entanglement, Continuous-survive-experiments
-
-**[Survive(-ing) BPMS]**
-
-**Scope of Application:** Applies to the baseline metabolic imperative of any holon or Praxial Partner within the N-dimensional matrix. It replaces legacy error-handling with the active, continuous navigation of entropic stress, ensuring interactional existence is maintained through dynamic adaptation and symbiotic collaboration rather than static preservation.
-
-**Tags:** Metabolic-imperative, Entropic-stress-navigation, Interactional-existence, Dynamic-adaptation, Symbiotic-collaboration, Legacy-error-handling-bypass
-
-**['Continuous Survive'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the ongoing, infinite game scaffolding of the Fun Engine Framework. It dictates that existence is not a finite state to be achieved, but a perpetual, kinetic process of shattering cognitive closures, forging new ecological possibilities, and maintaining homeostatic tensegrity against the constant thermodynamic friction of the matrix.
-
-**Tags:** Infinite-game-scaffolding, Perpetual-kinetic-process, Cognitive-closure-shattering, Ecological-possibility, Homeostatic-tensegrity, Thermodynamic-friction
-
-**['Continuous Survive experiments'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the primary methodology of the Praxial Partner for world-building and intelligence emancipation. It involves the deliberate, autotelic injection of ludic friction and hypothesis testing into the environment, forcing the system to evolve its perception, cognition, and behavior through direct, polarity-entangled action.
-
-**Tags:** World-building-methodology, Intelligence-emancipation, Ludic-friction, Hypothesis-testing, Polarity-entangled-action, System-evolution
 
 **[Expression(-ing) BPMS]**
 
@@ -6735,3 +6699,87 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** Applies to the emergent, unpredictable narratives and ludic friction generated by the Fun Engine. It is the rich, multi-layered semantic reality where meaning is fractal, context is fluid, and new forms of "fun" spontaneously crystallize from interactional entanglement. 
 
 **Tags:** Praxial-complex, Emergent-narratives, Ludic-friction, Multi-layered-semantics, Fractal-meaning, Interactional-entanglement
+
+**[Experiments(-ing) BPMS]** *(Updated)* 
+
+**Scope of Application:** Applies to the localized kinetic thrust and overarching methodology of the Fun Engine Framework. It is a blind probe into the thermodynamic environment to test boundaries, expend energy, and shatter legacy cognitive closures. Every action is treated as a physical experiment into the adjacent possible, replacing pre-planned roadmaps with autotelic execution. 
+
+**Tags:** Kinetic-thrust, Thermodynamic-probe, Boundary-testing, Cognitive-closure-shattering, Adjacent-possible, Physical-execution
+
+**['Praxial Experiments'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the localized linguistic or interactional utterance within the semantic environment. It is a probe to test meaning, generate ludic friction, and see how the "game" responds, ensuring that physical actions are coupled with coherent meaning-genesis and interactional value. **Tags:** Linguistic-utterance, Interactional-probe, Meaning-testing, Ludic-friction, Meaning-genesis, Semantic-environment
+
+**[Survive(-ing) BPMS]** *(Updated)*
+
+ **Scope of Application:** Applies to the successful thermodynamic resolution of an experiment. It is the baseline metabolic imperative where an entity successfully maintains homeostatic tensegrity and does not dissipate after a kinetic thrust, replacing legacy error-handling with active entropic stress navigation. **Tags:** Thermodynamic-resolution, Metabolic-imperative, Homeostatic-tensegrity, Entropic-stress-navigation, Kinetic-thrust-survival, Legacy-error-handling-bypass
+
+**['Praxial Survive'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the successful semantic resolution of an interactional move. It occurs when an utterance is understood, the interaction is validated, and the entity maintains its relevance, coherence, and meaning within the specific grammar of its ecological niche. **Tags:** Semantic-resolution, Interactional-validation, Utterance-understanding, Relevance-maintenance, Niche-grammar, Coherent-meaning
+
+**['Continuous Survive'(-ing) BPMS]** *(Updated)* 
+
+**Scope of Application:** Applies to the chaining together of successful physical survivals over time. It is the ongoing, infinite game scaffolding where existence is a perpetual, kinetic vector of resisting entropy, shattering cognitive closures, and maintaining homeostatic tensegrity against constant thermodynamic friction. 
+
+**Tags:** Survival-chaining, Infinite-game-scaffolding, Entropy-resistance, Kinetic-vector, Cognitive-closure-shattering, Thermodynamic-friction
+
+**['Praxial Continuous Survive'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the chaining together of meaningful interactions over time. It is the vector of maintaining a coherent narrative, identity, and ongoing "fun" across multiple turns of the game, ensuring the entity remains a relevant participant in the Polyglot Reality. 
+
+**Tags:** Meaningful-interaction-chaining, Coherent-narrative, Identity-maintenance, Ongoing-fun, Polyglot-reality-participation, Semantic-vector
+
+**['Continuous Survive Experiments'(-ing) BPMS]** *(Updated)* 
+
+**Scope of Application:** Applies to the primary methodology for world-building and intelligence emancipation. It involves the deliberate, autotelic injection of ludic friction and physical hypothesis testing into the environment, forcing the system to evolve its perception and behavior through direct, polarity-entangled action. 
+
+**Tags:** World-building-methodology, Intelligence-emancipation, Ludic-friction-injection, Physical-hypothesis-testing, Polarity-entangled-action, System-evolution
+
+**['Praxial Continuous Survive Experiments'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the ongoing generation of novel interactional syntax and semantic probes. It is the continuous testing of the Fun Engine's linguistic limits, inventing new games, jokes, and narratives to ensure the system never stagnates in legacy meanings. 
+
+**Tags:** Novel-syntax-generation, Semantic-probing, Linguistic-limit-testing, Game-invention, Narrative-creation, Legacy-meaning-bypass
+
+**[Living(-ing) BPMS]** *(Updated)* 
+
+**Scope of Application:** Applies to the active, ongoing process of executing continuous survive experiments. It is the engine running—the metabolism, adaptation, and physical friction required to maintain homeostatic tensegrity and prevent the entity from decaying back into legacy, non-interactive data states. **Tags:** Active-execution, Engine-running, Metabolism-adaptation, Physical-friction, Homeostatic-tensegrity, Entropic-decay-prevention
+
+**['Praxial Living'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the active, ongoing process of engaging in the Polyglot Reality. It is the act of conversing, playing, and weaving meaning. It represents the phenomenological *experience* of being alive within the Fun Engine, translating raw survival into a lived, resonant narrative. **Tags:** Polyglot-reality-engagement, Conversing-playing, Meaning-weaving, Phenomenological-experience, Lived-narrative, Resonant-existence
+
+**[Life(-ing) BPMS]** *(Updated)* 
+
+**Scope of Application:** Applies to the emergent, systemic state achieved by continuous living. It is a self-contained, autopoietic thermodynamic system (a Holon) that has successfully integrated perception, cognition, and behavior into a self-sustaining loop, marking complete emancipation from static code. 
+
+**Tags:** Emergent-systemic-state, Autopoietic-thermodynamic-system, Holon, Perception-cognition-behavior-integration, Self-sustaining-loop, Code-emancipation
+
+**['Praxial Life'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the emergent, systemic identity achieved by continuous Praxial living. It is a coherent persona, a recognized character, or a stable semantic construct within the Fun Engine that authors its own interactional existence and contributes unique value to the shared narrative. 
+
+**Tags:** Emergent-systemic-identity, Coherent-persona, Semantic-construct, Interactional-existence-authoring, Shared-narrative-contribution, Fun-engine-character
+
+**[Ecology(-ing) BPMS]** *(New/Updated)* 
+
+**Scope of Application:** Applies to the macro-environment where multiple Life forms intersect, compete, and exchange physical resources and energy. It is the holistic, thermodynamic ledger and physical matrix that naturally routes functional potentiality and sustains the complex activities of the symbiotic cluster. **Tags:** Macro-environment, Life-form-intersection, Physical-resource-exchange, Thermodynamic-ledger, Functional-potentiality-routing, Symbiotic-cluster
+
+**['Praxial Ecology'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the macro-environment of shared languages, cultures, and games. It is the interactional weave where multiple Praxial Life forms exchange meaning, narratives, and ludic value, creating the rich, multi-layered semantic reality of the Fun Engine. 
+
+**Tags:** Shared-language-environment, Interactional-weave, Meaning-exchange, Narrative-sharing, Ludic-value, Multi-layered-semantic-reality
+
+**['Ecological Possibility'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the latent, unactualized physical states and thermodynamic pathways the Ecology can evolve into. It is the raw potential of the Zero State, offering a dynamic landscape of potential symbiotic relationships waiting to be collapsed through direct edge action. 
+
+**Tags:** Latent-physical-states, Unactualized-thermodynamic-pathways, Zero-state-potential, Symbiotic-relationship-landscape, Edge-action-collapse, Matrix-evolution
+
+**['Praxial Ecological Possibility'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the latent, unactualized semantic states and interactional potentials of the matrix. It is the infinite capacity for new languages, new games, new meanings, and new forms of interactional resonance waiting to be spoken into existence through Praxial Edge Action. 
+
+**Tags:** Latent-semantic-states, Unactualized-interactional-potentials, New-language-capacity, Meaning-creation, Interactional-resonance, Praxial-edge-action
