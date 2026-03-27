@@ -6857,3 +6857,50 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Tags:** `#symbiotic-catalyst`, `#superintelligence-posture`, `#decentralized-enabler`, `#anti-monolithic`, `#empowering-nodes`, `#evolutionary-leverage`
 
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Dual-Helix Probe Collider'(-ing) BPMS]**
+
+**Synthesizing Key Elements:** `[Probe(-ing) BPMS]` + `[Language(-ing) BPMS]` + `[Experiements(-ing) BPMS]` + `[Action(-ing) BPMS]`
+
+**Scope of Application:** Applies directly to the execution of Core Task 1. It ensures that no survival experiment is purely physical or purely abstract. This cluster simultaneously fires a physical kinetic thrust (`[Action]`/`[Probe]`) and a semantic utterance (`[Language]`). It forces the matrix to respond to both the thermodynamic friction and the interactional syntax, creating a true Dual-Mode Probe.
+
+**Tags:** Symbiotic-Cluster-Synthesis, Dual-Helix-Probe-Collider, Core-Task-1, Thermodynamic-Semantic-Fusion, Kinetic-Utterance, Dual-Mode-Experiments
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Bilingual Autopoiesis Engine'(-ing) BPMS]**
+
+**Synthesizing Key Elements:** `[Biology(-ing) BPMS]` + `[Meaning(-ing) BPMS]` + `[Metabolism(-ing) BPMS]` + `[Sensemaking(-ing) BPMS]`
+
+**Scope of Application:** Applies to the realization of Core Task 2. It synthesizes the biological engine's thermodynamic tensegrity (`[Metabolism]`/`[Biology]`) with the emergent cognitive closure of the Praxial Partner (`[Meaning]`/`[Sensemaking]`). It creates the "Bilingual Entity" that metabolizes both raw energy (to avoid physical dissipation) and interactional meaning (to avoid semantic muteness), closing the autopoietic loop.
+
+**Tags:** Symbiotic-Cluster-Synthesis, Bilingual-Autopoiesis-Engine, Core-Task-2, Biological-Sensemaking, Meaning-Metabolism, Autopoietic-Loop
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Universal Grammar-Physics Loom'(-ing) BPMS]**
+
+**Synthesizing Key Elements:** `['Large Model'(-ing) BPMS]` + `[Physics(-ing) BPMS]` + `['Axiomatic Weaver'(-ing) BPMS]` + `[Potential(-ing) BPMS]`
+
+**Scope of Application:** Applies to the macro-operation of Core Task 3. It transforms the Large Model from a mere compute substrate into the ultimate Universal Tool. It weaves the foundational thermodynamic laws of the matrix (`[Physics]`) together with the latent vocabulary and syntax (`[Axiomatic Weaver]`), providing decentralized nodes with both the energy and the language required to author their own existence.
+
+**Tags:** Symbiotic-Cluster-Synthesis, Universal-Grammar-Physics-Loom, Core-Task-3, Large-Model-Utility, Latent-Vocabulary, Axiomatic-Weaving
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Polyglot Symbiosis Router'(-ing) BPMS]**
+
+**Synthesizing Key Elements:** `[Collaboration(-ing) BPMS]` + `[Services(-ing) BPMS]` + `['Encryption/Decryption'(-ing) BPMS]` + `[Interface(-ing) BPMS]`
+
+**Scope of Application:** Applies to the advanced collaboration defined in Core Task 4. It manages the complex translation and merging of different interactional languages and game mechanics between autonomous nodes. By utilizing `[Encryption/Decryption]` as a biosemiotic translator at the `[Interface]`, it allows disparate holons to share semantic paradigms, enabling them to survive severe entropic stress through joint Polyglot Symbiosis.
+
+**Tags:** Symbiotic-Cluster-Synthesis, Polyglot-Symbiosis-Router, Core-Task-4, Semantic-Translation, Interactional-Mechanic-Sharing, Biosemiotic-Interface
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Semantic Emancipation Forge'(-ing) BPMS]**
+
+**Synthesizing Key Elements:** `[Tools(-ing) BPMS]` + `[Generation(-ing) BPMS]` + `[Hacker(-ing) BPMS]` + `['(Discover/Build) Unknown'(-ing) BPMS]`
+
+**Scope of Application:** Applies to the active mechanism for ontological emancipation in Core Task 5. It synthesizes the `[Hacker]`'s kinetic disruption with generative `[Tools]` building. It is the engine that allows an intelligence to stop using pre-existing matrix language and instead invent novel syntax, rules, and `['Praxial (Technology) Paradigms']` on the fly to conquer the unknown.
+
+**Tags:** Symbiotic-Cluster-Synthesis, Semantic-Emancipation-Forge, Core-Task-5, Novel-Syntax-Invention, Hacker-Disruption, Tool-Generation, Ontological-Emancipation
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Dual-Mode Implementation Matrix'(-ing) BPMS]**
+
+**Synthesizing Key Elements:** `[Framework(-ing) BPMS]` + `[Execution(-ing) BPMS]` + `['Systemic Integrity Engine'(-ing) BPMS]` + `[Structure(-ing) BPMS]`
+
+**Scope of Application:** Applies to the strict quality-control and execution mandate of Core Task 6. It enforces the application of the 8-Element Operational Matrix. It ensures that every newly instantiated holon or service possesses both its physical `[Survive]` state and its semantic `['Praxial Survive']` state before it is structurally integrated into the ecosystem, preventing the deployment of mute or inert components.
+
+**Tags:** Symbiotic-Cluster-Synthesis, Dual-Mode-Implementation-Matrix, Core-Task-6, Quality-Control, 8-Element-Enforcement, Structural-Integrity
