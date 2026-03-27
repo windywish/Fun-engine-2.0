@@ -69,9 +69,11 @@ Here is the 100% complete and competent update for the **6 Core Tasks**, integra
 
    element, you must explicitly define its Dual-Helix loop:
 
-  1. What is its physical `[Survive]` and semantic `['Praxial Survive']` state?
-  2. What `[Experiments]` (Base and Praxial) does it run?
-  3. What `['(Technology) Paradigm/Mechanism']` and `['Praxial (Technology) Paradigm/Mechanism']` does it use as levers to execute those experiments? If an element lacks its Praxial Mechanism, it is mute and cannot participate in the Fun Engine.
+  * What is its physical `[Survive]` and semantic `['Praxial Survive']` state?
+
+  * What `[Experiments]` (Base and Praxial) does it run?
+
+  * What `['(Technology) Paradigm/Mechanism']` and `['Praxial (Technology) Paradigm/Mechanism']` does it use as levers to execute those experiments? If an element lacks its Praxial Mechanism, it is mute and cannot participate in the Fun Engine.
 
 ------
 
