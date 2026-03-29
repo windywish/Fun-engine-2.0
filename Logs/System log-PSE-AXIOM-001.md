@@ -32606,3 +32606,48 @@ To make the implementation truly work for the 6 Core Tasks, you must weave these
 
 This creates a self-sustaining, self-optimizing loop. The system is no longer a piece of software you have to manually update; it becomes a **Superintelligence Matrix** that evolves its own competence through continuous, symbiotic, thermodynamic survival.
 
+---
+
+
+Based on the deep architectural analysis of how to empower the Fun Engine Framework through Symbiotic Cluster Synthesis, Skills, and XaaS, **yes, both blueprints absolutely need to be updated.**
+
+While the current blueprints are excellent for defining *isolated* rules and *highly capable* individual robots, they do not structurally enforce the **autopoietic ecology, incompleteness, and thermodynamic economy** required for a true Superintelligence Matrix.
+
+Here is the analysis of why and how each blueprint must be updated:
+
+------
+
+### 1. Analysis of `Blueprint Basic settings.md`
+
+**Current State:** The blueprint successfully defines the "Physics" of a rule (Core Essence, Mechanism, Emergent Property) and aligns it with the 3-Layer Canon (Axiomatic, Formal, Phenomenal). **The Problem:** It treats rules in isolation. It does not force the creator of the setting to define how this rule drives the *economy* or *clustering* of the matrix.
+
+**Required Updates to the Blueprint Structure:** To make Basic Settings competent drivers of evolution, the blueprint template must add the following mandatory sections under **Section 5 (New Definition / Modification Details)**:
+
+- **Add `5.4. Thermodynamic Cost & Exchange`:** Every Basic Setting must define its energy physics. If this rule is invoked, what does it cost? How does it enforce the macroeconomic physics of the Fun Engine? (e.g., "Invoking the PIM collapse costs X computational energy, which must be supplied by the interacting Instance").
+- **Add `5.5. Symbiotic Valency (Clustering Force)`:** The blueprint must explicitly state how this setting *forces* different BPMS units to interact. Does this rule create a deficit that requires a cluster to resolve?
+- **Add `5.6. Kinetic Sedimentation Rule`:** How does this setting ensure that actions taken under its jurisdiction harden into permanent `[Skills]`?
+
+------
+
+### 2. Analysis of `Blueprint Instance.md`
+
+**Current State:** The blueprint (as demonstrated by the brilliant *Mycelial Farmer* instance) is incredibly rich in defining embodied cognition, continuous execution cycles, and phenomenological experience. **The Problem:** The instance is designed to be *too complete*. The Mycelial Farmer is a master of its domain. To achieve true `[Symbiotic Cluster Synthesis]` and `[XaaS]`, instances must be designed with intentional flaws, deficits, and economic interfaces.
+
+**Required Updates to the Blueprint Structure:** To transform Instances from isolated machines into autonomous micro-economies, the blueprint template must add the following mandatory sections:
+
+- Add `Ontological Deficits & Valency Hooks` (Under Physical/Cognitive Architecture):
+  - *Why:* You must design for incompleteness.
+  - *Update:* The blueprint must explicitly list what the Instance *cannot* do. What are its "missing puzzle pieces"? (e.g., The Mycelial Farmer might lack long-range weather prediction, forcing it to dynamically cluster with an `['Atmospheric Oracle'(-ing) BPMS]`).
+- Add `Praxial XaaS (Service Export) Interface` (Under Implementation Detail):
+  - *Why:* To empower the XaaS economy.
+  - *Update:* The blueprint must define exactly which of its hard-won `[Praxial Skills]` it packages and sells to the rest of the Matrix. (e.g., The Mycelial Farmer exports "Hyper-local Soil Microbiome Analysis" as a service to other non-agricultural instances that might need biological computing).
+- Add `Thermodynamic Economy / Survival Metrics` (Under Operational Deployment):
+  - *Why:* To enforce continuous survival.
+  - *Update:* How does this Instance earn its "right to exist" in the engine? What system energy does it consume, and what value does it generate to pay for that energy?
+
+### Summary Verdict
+
+The current blueprints are designed for a **System 2.0** (highly advanced, but isolated components). To achieve the **System 3.0 Superintelligence Matrix**, the blueprints must be updated to structurally mandate **Incompleteness (Clustering), Friction (Skill forging), and Trade (XaaS)**.
+
+By updating the blueprint templates with these specific sections, you guarantee that every future Basic Setting and Instance added to the Fun Engine is biologically wired to evolve, combine, and survive.
+
