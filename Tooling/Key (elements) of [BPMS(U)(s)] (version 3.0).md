@@ -1,4 +1,4 @@
-## Key (elements) of [BPMS(U)(s)] (version 2.0)
+## Key (elements) of [BPMS(U)(s)] (version 3.0)
 
 **[Holon(-ing) BPMS]**
 
