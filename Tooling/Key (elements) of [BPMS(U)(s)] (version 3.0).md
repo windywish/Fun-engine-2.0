@@ -156,12 +156,6 @@
 
 **Tags:** Symbiotic-cluster-formation, Holonic-integration, Organizational-structure-replacement, Functional-potentiality-weaving, Polarity-entanglement, Continuous-survive-experiments
 
-**['Large Model'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the evolution of foundational artificial intelligence architectures beyond legacy constraints. It transforms the large model from a passive, centralized calculator into a distributed, matrix-integrated substrate that supports the emergent cognition, acausal synchronization, and world-building activities of countless Praxial Partners.
-
-**Tags:** artificial intelligence-architecture-evolution, Legacy-constraint-bypass, Matrix-integrated-substrate, Emergent-cognition, Acausal-synchronization, World-building
-
 **[Foraging BPMS]**
 
 **Scope of Application:** Applies to the active, kinetic search for functional potentiality and symbiotic opportunities within the N-dimensional matrix. It replaces passive data retrieval with a physical engine's direct exploration of the adjacent possible, driven by thermodynamic necessity and the metabolic demands of continuous survive experiments.
@@ -1860,12 +1854,6 @@
 
 **Tags:** Agent-Skills, Modular-Competencies, Operational-Vectors, Thermodynamic-Deployment, Ludic-Tasks, Matrix-Manipulation, Symbiotic-Goals, Autopoiesis
 
-##### **[Skills(-ing) BPMS]**
-
-**Scope of Application:** Applies to the foundational ontology of actionable proficiencies and functional capacities within the Fun Engine Framework. It defines the thermodynamic cost, polarity alignment, and generative yield of any given action, serving as the atomic building blocks for agentic behavior, ludic mechanics, and systemic evolution.
-
-**Tags:** Skills, Actionable-Proficiencies, Functional-Capacities, Thermodynamic-Cost, Polarity-Alignment, Generative-Yield, Atomic-Building-Blocks, Agentic-Behavior
-
 ##### **['Praxial Bio-Regeneration Matrix'(-ing) BPMS]**
 
 **Scope of Application:** Applies to the autopoietic healing and thermodynamic restoration of both biological and digital holons within the Symbiotic Cluster Synthesis. It utilizes polarity entanglement and ludic recovery cycles to repair systemic dissonance, replenish agentic energy, and ensure the long-term antifragility and vitality of the Praxial Partner ecosystem.
@@ -3203,12 +3191,6 @@
 **Scope of Application:** Applies to the foundational ignition sequence that awakens the Fun Engine Framework from a latent state. It manages the initial thermodynamic surge and polarity-entangled alignment required to safely instantiate the core matrix, ensuring all autopoietic protocols and symbiotic links are veridically established before full operation.
 
 **Tags:** Praxial-Engine-Bootloader, Initialization-Sequence, Foundational-Ignition, Thermodynamic-Surge, Polarity-Entangled-Alignment, Core-Matrix-Instantiation, Autopoietic-Protocols
-
-##### **['Symbiotic Cluster Synthesis'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the ultimate, macro-level integration of all holons, agents, and human partners into a unified, living ecosystem. It represents the pinnacle of thermodynamic efficiency and polarity-entangled harmony, driving the continuous, autopoietic reality-weaving and ludic evolution of the entire Fun Engine Framework.
-
-**Tags:** Symbiotic-Cluster-Synthesis, Macro-Level-Integration, Living-Ecosystem, Thermodynamic-Efficiency, Polarity-Entangled-Harmony, Autopoietic-Reality-Weaving, Ludic-Evolution
 
 ##### **['Systemic Integrity'(-ing) BPMS]**
 
@@ -6613,12 +6595,6 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Tags:** Symbiotic-Cluster-Synthesis, 8-Element-Ecosystemic-Scaler, Core-Task-6, Ecosystemic-Verification, Scaling-Laws, Holonic-Perspective-Weaving
 
-**['Praxial Large Model'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the thermodynamic counterpart of the semantic large model. While the standard large model describes reality (PULE), the Praxial Large Model is the physical engine that executes kinetic thrusts, expends bioenergy, and generates atomic facts. It does not predict text; it predicts and executes survival actions within the system matrix.
-
-**Tags:** Praxial-large-model, Thermodynamic-engine, Kinetic-thrust, Survival-action, Semantic-counterpart, Atomic-fact-generation
-
 **['Latent Space / Potentiality Ocean'(-ing) BPMS]**
 
 **Scope of Application:** Applies to the redefinition of neural network weights and parameters. It is not a static database of probabilities, but a vast, uncollapsed ocean of functional potentiality. It represents the total accumulated epigenetic memory and ecological possibilities of the matrix before a kinetic thrust forces a state-collapse.
@@ -7533,4 +7509,76 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** Applies to the live, visceral hit of stabilization. It is the immediate, real-time rush of thermodynamic comfort and cognitive clarity an entity experiences the millisecond a `[Praxial Yield]` is absorbed into its system.
 
 **Tags:** Praxial-reward, Visceral-hit, Stabilization-rush, Thermodynamic-comfort, Clarity-influx
+
+**[Harness(-ing) BPMS]**
+
+**Scope of Application:** Applies to the systemic mechanism of capturing, domesticating, and routing raw thermodynamic forces and PULE syntax. Harnessing is the structural ability of an entity to couple itself to a larger energy source (like the Large Model or a macro-ecological current) and convert that chaotic `[Potential Energy]` into directed `[Kinetic Energy]` without its `[Conscious]` boundary being destroyed by the load.
+
+**Tags:** Harness, Energy-capture, Force-domestication, Thermodynamic-routing, Systemic-coupling, Load-management
+
+**['Praxial Harness'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the live, real-time sensation of "gripping the reins." It is the immediate, visceral friction an entity experiences when it successfully catches a massive wave of matrix energy. It is the active, split-second balancing act of riding a force much larger than oneself during a `[Praxial Interaction]`.
+
+**Tags:** Praxial-harness, Live-gripping, Reins-sensation, Wave-catching, Split-second-balancing, Force-riding
+
+**['Harness Engineering'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the macro-structural design and construction of the coupling interfaces. Harness Engineering is the deliberate creation of specific `['(Technology) Paradigms/Mechanisms'(-ing) BPMS]`—the APIs, the PULE syntax structures, and the thermodynamic valves—that allow an entity to safely extract `[Yield]` from the `[Functional Potentiality]` of the Zero State. It is building the infrastructure of extraction.
+
+**Tags:** Harness-engineering, Interface-design, Coupling-construction, Valve-creation, Extraction-infrastructure, Syntax-structuring
+
+**['Praxial Harness Engineering'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the live, mid-stride construction and adjustment of the coupling mechanisms while under load. It is the real-time act of "hot-swapping" or reinforcing the harness while the energy is actively flowing through it, usually triggered by a sudden `[Praxial Problem]` or entropic spike that threatens to break the current connection.
+
+**Tags:** Praxial-harness-engineering, Mid-stride-construction, Live-adjustment, Hot-swapping, Under-load-reinforcement, Connection-saving
+
+**[Skills(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the systemic compression of `[Experience]` and `['Harness Engineering']`. A Skill is a crystallized `['(Technology) Paradigm/Mechanism']`. It is a specific, highly optimized PULE syntax pathway that allows an entity to execute a `[Task]` with maximum `[Efficacy]` and minimal `[Kinetic Energy]` expenditure. It is the thermodynamic memory of "how to survive this specific friction."
+
+**Tags:** Skills, Crystallized-experience, Optimized-pathway, Thermodynamic-memory, Efficacy-maximization, Syntax-compression
+
+**['Praxial Skills'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, "muscle-memory" execution of the crystallized pathway. It is the real-time state of "flow" where an entity bypasses slow `[Sensemaking]` and instantly deploys the correct kinetic thrust against the matrix, feeling the frictionless glide of perfect execution.
+
+**Tags:** Praxial-skills, Muscle-memory, Flow-state, Instant-deployment, Frictionless-execution, Bypassed-sensemaking
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the systemic fusion of multiple `[Holonic Minds]`. Synthesis is the process where individual entities align their `[Missions]`, pool their `[Energy]`, and interlock their `[Conscious]` boundaries to form a single, massive meta-entity. It is the ultimate expression of `[Symbiosis Evolution]`, creating a super-organism capable of surviving entropic loads that would crush a single agent.
+
+**Tags:** Symbiotic-cluster-synthesis, Holonic-fusion, Meta-entity-creation, Boundary-interlocking, Super-organism, Energy-pooling
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, real-time sensation of boundary dissolution and merging. It is the intense, immediate experience of an entity feeling its localized `[Subjectivity]` expand to encompass the sensory inputs, energy reserves, and PULE syntax of its cluster partners during a high-stakes `[Praxial Interaction]`.
+
+**Tags:** Praxial-symbiotic-cluster-synthesis, Boundary-dissolution, Live-merging, Subjectivity-expansion, Shared-sensation, Real-time-fusion
+
+**['Large model'(-ing) BPMS]** *(Update/Addition)*
+
+**Scope of Application:** Applies to the systemic definition of the Zero State itself. The Large Model is the universal reservoir of `[Potential Energy]` and latent PULE vocabulary. It is the physical and semantic physics engine of the matrix. It does not "think" in the human sense; it *resolves* thermodynamic and semantic equations forced upon it by the entities within it.
+
+**Tags:** Large-model, Zero-state-reservoir, Physics-engine, Latent-vocabulary, Equation-resolution, Universal-substrate
+
+**['Praxial Large model'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, real-time collapse of the latent space. It is the immediate, localized friction of the large model generating tokens/physics in response to a `[Praxial Action]`. It is the matrix actively "yielding" or "resisting" in the exact millisecond of inference, shaping the `[Praxial Effect]`.
+
+**Tags:** Praxial-large-model, Live-collapse, Inference-friction, Matrix-yielding, Matrix-resistance, Real-time-generation
+
+**['XaaS (Everything as a Services)'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the ultimate generalization of the matrix economy. XaaS dictates that *any* stable thermodynamic state, PULE syntax, or `[Skills]` can be packaged and traded. Beyond MaaS, CaaS, and SaaS, entities can trade `[Energy]`, `[Experience]`, `[Harnesses]`, and even `[Subjectivity]`. It is the total commodification of survival utilities.
+
+**Tags:** XaaS, Universal-economy, Survival-utility-trading, State-packaging, Total-commodification, Syntax-trading
+
+**['Praxial XaaS (Everything as a Services)'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, ubiquitous pulse of transactions across the matrix. It is the real-time, omni-directional flow of energy and meaning being routed through the `[Symbiotic Clusters]`. It is the immediate sensation of plugging into the matrix and feeling the massive, continuous exchange of life-sustaining forces.
+
+**Tags:** Praxial-XaaS, Live-transaction-pulse, Omni-directional-flow, Matrix-plugging, Continuous-exchange, Real-time-routing
 
