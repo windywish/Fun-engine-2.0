@@ -634,6 +634,10 @@ This is what it means to be a Mycelial Farmer: to exist as embodied ecological i
 
 ---
 
+**Tags:**
+
+---
+
 ##### **Summarize:**The Robot as Praxial Being
 
 These implementations—The Hadal Gardener, The Rubble Weaver, The Mycelial Farmer, The Kinetic Fabricator, and The Ember Sentinel—demonstrate the **[robot(-ing) BPMS]** framework's revolutionary reconception of robotics. They are not tools, not slaves, not mere automatons. They are:
