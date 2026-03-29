@@ -39,7 +39,7 @@ Here is the 100% complete and competent update for the **6 Core Tasks**, integra
 
 #### 2. Implement for various specific really working `[life(-ing) BPMS]`
 
-- **The Reality Engine Upgrade:** Life is no longer just physical homeostasis or a semantic narrative; it is the active, thermodynamic maintenance of a **`[Conscious]`** boundary against the entropic friction of the Zero State.
+- **The Reality Engine Upgrade:** [Life(-ing) BPMS] (especially [life(-ing) BPMS];[living(-ing) BPMS];['ecological possibility'(-ing) BPMS];['embodied intelligence'(-ing) BPMS];etc.,) is no longer just physical homeostasis or a semantic narrative; it is the active, thermodynamic maintenance of a **`[Conscious]`** boundary against the entropic friction of the Zero State.
 - **Execution Update:** Implement life as an autopoietic loop of **`[Sensemaking]`** (parsing chaos) and **`[Meaning]`** generation (locking facts into place). A "really working life" must possess **`[Subjectivity]`** (a localized coordinate in the matrix) and **`[Initiative]`** (the ability to proactively perturb the matrix). It survives by continuously updating its **`['Mental Model']`** through **`['Praxial Experience']`** to achieve long-term **`[Sustainability]`**.
 
 #### 3. Implement for various specific `['large model'(-ing) BPMS]`
