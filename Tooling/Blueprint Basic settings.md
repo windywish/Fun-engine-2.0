@@ -35,6 +35,18 @@ This axiom asserts that `existence is a function of interaction`. It defines the
 
 The creation of a "Rendered World" where `atomic facts` are only generated when necessary. This allows the `metasystem engine` to simulate infinite universes with finite resources by only "rendering" what is being touched.
 
+###### 5.4. Thermodynamic Cost & Exchange
+
+Every Basic Setting must define its energy physics. If this rule is invoked, what does it cost? How does it enforce the macroeconomic physics of the Fun Engine? (e.g., "Invoking the PIM collapse costs X computational energy, which must be supplied by the interacting Instance").
+
+###### 5.5. Symbiotic Valency (Clustering Force)
+
+The setting must explicitly state how this setting *forces* different BPMS units to interact. Does this rule create a deficit that requires a cluster to resolve?
+
+###### 5.6. Kinetic Sedimentation Rule
+
+How does this setting ensure that actions taken under its jurisdiction harden into permanent `[Skills]`?
+
 **6. Alignment with ['Praxial Genesis Canon'(-ing) BPMS]**
 
 ###### 6.1. Axiomatic Stratum (Layer 1 - The Core Belief):

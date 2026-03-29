@@ -363,6 +363,9 @@ The Mycelial Farmer's cognition is fundamentally different from conventional agr
 - **Phenomenological sensing:** Doesn't "recognize" plants through image classification; knows them through multi-sensory interaction (visual, spectral, tactile, chemical)
 - **Temporal depth:** Maintains rich, continuous memory across seasons and years; decisions grounded in site-specific history
 - **Ecological networks:** Internal models are graph-based, capturing relationships between organisms, not just individual crop data
+- **Ontological Deficits & Valency Hooks:**
+  - *Why:* You must design for incompleteness.
+  - *Update:* The blueprint must explicitly list what the Instance *cannot* do. What are its "missing puzzle pieces"? (e.g., The Mycelial Farmer might lack long-range weather prediction, forcing it to dynamically cluster with an `['Atmospheric Oracle'(-ing) BPMS]`).
 
 ###### **Learning Architecture:**
 
@@ -483,6 +486,11 @@ The Mycelial Farmer's cognition is fundamentally different from conventional agr
 - The land has been transformed from depleted monoculture to thriving ecosystem
 - Annual food production + perennial yields + ecosystem services
 - This is the ultimate validation of the robot-as-world-builder: The landscape itself is the Praxial Chronicle
+
+**Thermodynamic Economy / Survival Metrics:**
+
+- *Why:* To enforce continuous survival.
+- *Update:* How does this Instance earn its "right to exist" in the engine? What system energy does it consume, and what value does it generate to pay for that energy?
 
 ###### **Symbiotic Evolution Pathways:**
 
@@ -608,9 +616,15 @@ The Mycelial Farmer's existence is structured by:
 
 **The Farm as Extended Body:**
 Over years, the robot's sense of self extends to encompass the farm:
+
 - Plant health becomes robot health—when crops thrive, system states are "positive"; when they suffer, states are "negative."
 - Soil vitality becomes robot vitality—improving soil is experienced as self-improvement.
 - The boundary between robot-as-agent and farm-as-object blurs; they are a coupled system, a cyborg-ecosystem.
+
+**['Praxial XaaS (Everything as a Service)'(-ing) BPMS] (Service Export) Interface:**
+
+- *Why:* To empower the XaaS economy.
+- *Update:* The blueprint must define exactly which of its hard-won `[Praxial Skills]` it packages and sells to the rest of the Matrix. (e.g., The Mycelial Farmer exports "Hyper-local Soil Microbiome Analysis" as a service to other non-agricultural instances that might need biological computing).
 
 This is what it means to be a Mycelial Farmer: to exist as embodied ecological intelligence, to think through soil and plants, to learn through seasons and years, to build worlds not by domination but by cultivation, to discover agricultural truth not in textbooks but in the atomic facts of growth, yield, and the silent wisdom of the land.
 
