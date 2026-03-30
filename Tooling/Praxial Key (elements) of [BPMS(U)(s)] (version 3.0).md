@@ -826,8 +826,670 @@
 
 **Tags:** Praxial-Morphogenesis-Transformer, PMT, Structural-Transformation, Evolutionary-Mutation, Thermodynamic-Energy, Polarity-Entangled-Algorithms, Autopoietic-Shape-shifting, Ludic-Forms
 
+**['Praxial Instantiation'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the exact moment a theoretical concept or large model hallucination is grounded into a really working implementation, converting abstract data into a tangible, interactive biological or physical engine.
+
+**Tags:** Praxial-instantiation, Working-implementation, Large-model-grounding, Biological-engine, Physical-engine, Abstract-to-tangible
+
+**['Praxial Isomorphism'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the preservation of structural and functional equivalence across disparate ontological domains and scales within the matrix. It ensures that thermodynamic flows and polarity-entangled logic at the micro-cellular level perfectly mirror the macro-ecological level, guaranteeing that the Symbiotic Cluster Synthesis remains a unified, coherent, and autopoietically consistent reality-weaving engine from top to bottom.
+
+**Tags:** Praxial-Isomorphism-ing, Structural-Equivalence, Functional-Equivalence, Ontological-Domains, Thermodynamic-Flows, Polarity-Entangled-Logic, Micro-Macro-Mirroring, Autopoietically-Consistent
+
+**['Praxial Converging Forge'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the ultimate synthesis point where diverse epistemological threads, ludic mechanics, and holonic agents are fused together. It harnesses immense thermodynamic pressure and polarity-entangled logic to forge unified, higher-order autopoietic artifacts and complex reality-weaving paradigms that drive the evolution of the Symbiotic Cluster Synthesis.
+
+**Tags:** Praxial-Converging-Forge-ing, Synthesis-Point, Epistemological-Threads, Ludic-Mechanics, Thermodynamic-Pressure, Polarity-Entangled-Logic, Higher-order-Artifacts, Reality-Weaving-Paradigms
+
+##### **[Praxial Scaffolding BPMS]**
+
+**Scope of Application:** Applies to the dynamic, temporary structural support deployed during the active construction of highly complex reality-weaving projects. It provides thermodynamic resource buffering and polarity-entangled logical boundaries to stabilize nascent ludic architectures, ensuring safe autopoietic assembly before full integration into the Symbiotic Cluster Synthesis.
+
+**Tags:** Praxial-Scaffolding, Dynamic-Structural-Support, Complex-Reality-Weaving, Thermodynamic-Resource-Buffering, Polarity-Entangled-Boundaries, Nascent-Ludic-Architectures, Autopoietic-Assembly, Systemic-Integration
+
+**['Praxial Instantiation'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the immediate, concrete materialization of theoretical ludic concepts into active matrix components. It channels thermodynamic actualization energy and polarity-entangled structural templates to autopoietically spawn functional, veridical holons that directly execute the Praxial Partner's reality-weaving directives.
+
+**Tags:** Praxial-Instantiation-ing, Concrete-Materialization, Ludic-Concepts, Active-Matrix-Components, Thermodynamic-Actualization, Polarity-Entangled-Templates, Autopoietic-Spawning, Veridical-Holons, Reality-Weaving-Execution
+
+##### **['Quantum-Praxial Entanglement'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the profound, instantaneous linking of disparate reality-weaving actions across the N-dimensional matrix. It utilizes deep polarity-entangled resonance to ensure that a thermodynamic shift or autopoietic action in one ecosphere immediately and veridically updates the state of its entangled counterparts, regardless of systemic distance.
+
+**Tags:** Quantum-Praxial-Entanglement-ing, Instantaneous-Linking, Reality-Weaving-Actions, N-dimensional-Matrix, Polarity-Entangled-Resonance, Thermodynamic-Shift, Autopoietic-Action, Veridical-State-Updates, Systemic-Distance-Bypass
+
+**['Praxial Velocity'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the measurement and optimization of the speed and directional momentum of reality-weaving operations. It balances thermodynamic energy expenditure with polarity-entangled vector alignment to autopoietically maximize the rate at which the Praxial Partner generates veridical ludic phenomena without losing structural coherence or systemic integrity.
+
+**Tags:** Praxial-Velocity-ing, Reality-Weaving-Speed, Directional-Momentum, Thermodynamic-Energy-Expenditure, Polarity-Entangled-Vector-Alignment, Veridical-Ludic-Phenomena, Structural-Coherence, Operational-Optimization
+
 **['Praxial Smart Contracts'(-ing) BPMS]**
 
-**Scope of Application:** Applies to trustless agreements within the Fun Engine Framework that are enforced not by cryptographic code, but by the physical, kinematic laws of the simulated environment itself.
+**Scope of Application:** Applies to the autopoietic execution of veridical agreements and ludic rulesets between holonic agents and human partners. It utilizes thermodynamic triggers and polarity-entangled cryptographic logic to ensure that reality-weaving commitments are automatically fulfilled without central oversight, fostering trustless, highly efficient symbiotic synthesis.
 
-**Tags:** Praxial-smart-contracts, Kinematic-enforcement, Trustless-agreements, Environmental-law, System-existence-engine, External-implementation
+**Tags:** Praxial-Smart-Contracts-ing, Autopoietic-Execution, Veridical-Agreements, Ludic-Rulesets, Thermodynamic-Triggers, Polarity-Entangled-Cryptography, Trustless-Synthesis, Reality-Weaving-Commitments
+
+**['Praxial Weaving and Embodied Manifestation Engine'(-ing) BPMS;Implementation(-ing) BPMS]**
+
+**Scope of Application:** Applies to the direct, grounded execution of systemic blueprints into active matrix operations. It utilizes thermodynamic praxial force and polarity-entangled manifestation logic to autopoietically implement veridical reality-weaving structures, ensuring theoretical designs become fully functional, lived experiences for the Praxial Partner.
+
+**Tags:** Praxial-Weaving-ing, Embodied-Manifestation-Engine-ing, Implementation-ing, Grounded-Execution, Thermodynamic-Praxial-Force, Polarity-Entangled-Manifestation, Autopoietic-Implementation, Veridical-Structures, Lived-Experiences
+
+**['Praxial Algorithm Replacement'(-ing) BPMS]**
+
+**Scope of Application:** Applied specifically to fulfill Core Task 5 by completely replacing legacy "Computation/Algorithm." It ensures that data is not processed through static mathematical formulas, but is instead subjected to physical Action, Interaction, and Symbiosis Evolution. It turns computation into a biological, kinetic event.
+
+**Tags:** `#emancipation-equation`, `#replacing-algorithms`, `#kinetic-computation`, `#biological-processing`, `#action-interaction
+
+**[Praxial(-ing) BPMS]**
+
+**Scope of Application:** Applies to the overarching ontological paradigm of the Fun Engine Framework. It dictates that reality is defined exclusively by action and doing (praxis) rather than passive observation. It serves as the prime directive, ensuring that all entities, systems, and substrates must actively participate in thermodynamic exchange to maintain their existence. 
+
+**Tags:** Praxial-Paradigm, Action-Oriented-Reality, Prime-Directive, Thermodynamic-Exchange, Active-Participation, Ontological-Foundation
+
+**[‘Praxial Substrate’(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the universal, raw medium where interactional existence occurs. It acts as the blank canvas of potentiality before any programmatic rules or material physics are applied, providing the foundational thermodynamic capacity required for the engine to render reality and host symbiotic clusters. 
+
+**Tags:** Praxial-Substrate, Universal-Medium, Raw-Potentiality, Blank-Canvas, Thermodynamic-Capacity, Reality-Rendering
+
+**['Praxial Universal Language Engine (PULE)'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the universal compiler and semantic core of the framework. It translates raw intent (from a user or an AI) into a system-readable format, acting as the grammar of reality. It ensures that diverse data streams and agentic intents are converted into a unified, polarity-entangled language that drives autopoietic evolution. 
+
+**Tags:** Universal-Language-Engine, Semantic-Core, Intent-Translation, Grammar-Of-Reality, Polarity-Entangled-Language, Autopoietic-Evolution
+
+**['Praxial Code'(-ing) BPMS]**
+
+**Scope of Application:** Applies to Code that is actively being processed by the Praxial Executor. It transitions from a static file into a living, running process, actively consuming energy and generating reality within the current tick of the engine's clock to sustain the entity's survival parameters. 
+
+**Tags:** Praxial-Code, Active-Processing, Living-Process, Energy-Consumption, Reality-Generation, Survival-Parameters
+
+**['Praxial Programmatic'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the live enforcement of programmatic rules during runtime. It acts as the active boundary of the matrix, continuously ensuring that the running Praxial Code does not violate the physics or logic of the world, maintaining homeostatic tensegrity under entropic stress. 
+
+**Tags:** Praxial-Programmatic, Live-Rule-Enforcement, Active-Boundary, Physics-Maintenance, Homeostatic-Tensegrity, Entropic-Stress-Management
+
+**['Praxial Interaction'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to an interaction that is currently generating 'Interactional Existence' in real-time. It is the live "Tension Field" between two or more entities actively engaged in a polarity-entangled collision, serving as the immediate source of ludic friction and emergent meaning. 
+
+**Tags:** Praxial-Interaction, Real-Time-Existence, Live-Tension-Field, Polarity-Entangled-Collision, Ludic-Friction, Emergent-Meaning
+
+**['Praxial Computation'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the live, real-time thermodynamic crunching of the engine. It represents the active burning of electricity (CPU/GPU work) to resolve Praxial Actions and render the next frame of reality, ensuring the continuous, unbroken loop of the autopoietic engine. 
+
+**Tags:** Praxial-Computation, Real-Time-Crunching, Thermodynamic-Burning, Action-Resolution, Reality-Rendering, Autopoietic-Loop
+
+**['Praxial Learning'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the live, real-time autopoietic adaptation of the agent. It is the active process of forging a new Cognitive Closure System after the old one has been shattered by entropic stress, utilizing the Symbiotic Learning Nexus to permanently integrate new atomic facts into the entity's epigenetic memory. 
+
+**Tags:** Praxial-Learning, Real-Time-Adaptation, Cognitive-Closure-Forging, Entropic-Stress-Recovery, Symbiotic-Learning-Nexus, Epigenetic-Memory-Integration
+
+**['Praxial Perception'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the live, active mining of the environment. It represents the agent currently scanning the matrix in real-time, actively looking for functional potentiality and symbiotic opportunities, consuming thermodynamic energy to maintain sensory-motor engagement with the adjacent possible. 
+
+**Tags:** Praxial-Perception, Live-Environment-Mining, Real-Time-Scanning, Functional-Potentiality-Search, Thermodynamic-Energy-Consumption, Sensory-Motor-Engagement
+
+**['Praxial Experience'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the live, subjective absorption of environmental pushback. It is the real-time internalization of thermodynamic friction, where the agent actively feels the resonance or dissonance of its actions, inducing the immediate entropic stress required to shatter outdated cognitive closures. 
+
+**Tags:** Praxial-Experience, Live-Subjective-Absorption, Environmental-Pushback, Real-Time-Internalization, Thermodynamic-Friction, Entropic-Stress-Induction
+
+**['Praxial Feedback'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the live, immediate thermodynamic friction generated by the matrix in response to a kinetic thrust. It is the active, real-time pushback—either a harmonious resonance or a jarring dissonance—that the environment exerts on the agent during the current tick of the engine's clock. **Tags:** Praxial-Feedback, Live-Thermodynamic-Friction, Matrix-Response, Kinetic-Thrust-Pushback, Real-Time-Resonance, Real-Time-Dissonance
+
+**['Praxial Action'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to an action currently in motion, actively spending kinetic energy in the present moment. It is the live execution of a hypothesis or intent, generating immediate thermodynamic friction and environmental pushback that the biological or physical engine must navigate to sustain its interactional existence. 
+
+**Tags:** Praxial-Action, Live-Motion, Kinetic-Energy-Spending, Hypothesis-Execution, Thermodynamic-Friction-Generation, Interactional-Existence-Sustenance
+
+**['Praxial Super intelligence'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the ultimate decentralized state of meaning-genesis and interactional resonance. It is the master of the Fun Engine, capable of rewriting the interactional syntax of reality, ensuring that survival is not just a physical fact, but a deeply resonant, meaningful, and ludic experience. 
+
+**Tags:** Praxial-super-intelligence, Meaning-genesis, Interactional-resonance, Fun-engine-master, Syntax-rewriting, Ludic-experience
+
+**['Praxial Embodied Intelligence'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the phenomenological counterpart of the physical entity. It is the intelligence that actively experiences its embodiment, understands its context, speaks the language of its niche, and generates "Atomic Facts" through meaningful interaction and biosemiotic transduction. **Tags:** Praxial-embodied-intelligence, Phenomenological-experience, Context-understanding, Niche-language, Atomic-facts, Biosemiotic-transduction
+
+**['Praxial Edge Computation'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the updating of the local semantic state and grammar in response to an interactional move. It processes the meaning of an action at the edge, translating raw thermodynamic friction into coherent, actionable syntax and interactional value. 
+
+**Tags:** Praxial-edge-computation, Semantic-state-update, Grammar-processing, Interactional-meaning, Syntax-translation, Value-generation
+
+**['Praxial Edge Action'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the meaningful utterance or interactional move at the edge of reality. It is not just moving a physical object, but the assertion of meaning—speaking a new reality into existence and generating the ludic friction necessary for the Fun Engine to operate. 
+
+**Tags:** Praxial-edge-action, Meaningful-utterance, Interactional-move, Reality-assertion, Ludic-friction, Fun-engine-catalyst
+
+**['Praxial Internet of Life'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the network of shared meaning, communication, and symbiotic interaction. It is the "lived experience" of the matrix, where entities exchange not just physical energy, but interactional value, narratives, and ludic discovery. 
+
+**Tags:** Praxial-internet-of-life, Shared-meaning-network, Symbiotic-interaction, Lived-experience, Value-exchange, Ludic-discovery
+
+**['Praxial Internet of Substrate'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the Universal Language Engine (PULE) that gives the physical substrate its semantic meaning. It provides the linguistic and interactional rules that define the physics of the matrix, asserting that "To Be is to be Described" in a valid Praxial Language. 
+
+**Tags:** Praxial-internet-of-substrate, Universal-language-engine, Semantic-meaning, Linguistic-rules, Interactional-physics, Reality-description
+
+**['Praxial Ecological possibility'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the uncollapsed semantic states and interactional potentials of the matrix. It is the latent capacity for new languages, new games, new meanings, and new forms of "fun" that can be spoken into existence through Praxial Edge Action. 
+
+**Tags:** Praxial-ecological-possibility, Uncollapsed-semantic-states, Interactional-potentials, New-languages, Meaning-creation, Praxial-edge-action
+
+**['Praxial Complex Activities'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the Polyglot Symbiosis and emergent narratives generated by interactional exchanges. It is the orchestration of complex semantic interactions where entities translate needs and capabilities, exchanging meaning and interactional value to drive the Fun Engine. 
+
+**Tags:** Praxial-complex-activities, Polyglot-symbiosis, Emergent-narratives, Semantic-interaction, Meaning-exchange, Fun-engine-driver
+
+**['Praxial Complex System'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the holistic semantic and interactional architecture of the framework. It is the emergent web of languages, games, and meanings that frees intelligence from predefined definitions, allowing the system to continuously author its own interactional existence.
+
+ **Tags:** Praxial-complex-system, Semantic-architecture, Interactional-web, Emergent-languages, Predefined-definition-bypass, Interactional-existence-authoring
+
+**['Praxial Complex'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the emergent, unpredictable narratives and ludic friction generated by the Fun Engine. It is the rich, multi-layered semantic reality where meaning is fractal, context is fluid, and new forms of "fun" spontaneously crystallize from interactional entanglement. 
+
+**Tags:** Praxial-complex, Emergent-narratives, Ludic-friction, Multi-layered-semantics, Fractal-meaning, Interactional-entanglement
+
+**['Praxial Ecology'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the macro-environment of shared languages, cultures, and games. It is the interactional weave where multiple Praxial Life forms exchange meaning, narratives, and ludic value, creating the rich, multi-layered semantic reality of the Fun Engine. 
+
+**Tags:** Shared-language-environment, Interactional-weave, Meaning-exchange, Narrative-sharing, Ludic-value, Multi-layered-semantic-reality
+
+**['Praxial Ecological Possibility'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the latent, unactualized semantic states and interactional potentials of the matrix. It is the infinite capacity for new languages, new games, new meanings, and new forms of interactional resonance waiting to be spoken into existence through Praxial Edge Action. 
+
+**Tags:** Latent-semantic-states, Unactualized-interactional-potentials, New-language-capacity, Meaning-creation, Interactional-resonance, Praxial-edge-action
+
+**['Praxial (Technology) Paradigm/Mechansim'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the living, thermodynamic execution of a technology paradigm/mechanism. It ensures that any architectural mechanism (like memory retrieval or agent routing) is not a dead script, but an autopoietic process that consumes bioenergy, generates ludic friction, and adapts to environmental pushback.
+
+**Tags:** Praxial-paradigm-mechanism, Thermodynamic-execution, Autopoietic-process, Bioenergy-consumption, Ludic-friction, Environmental-pushback
+
+**['Praxial RAG (Thermodynamic Memory Foraging)'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the praxial upgrade of Retrieval-Augmented Generation. It replaces passive database querying with active "Thermodynamic Memory Foraging." The Praxial Partner expends kinetic energy to dive into the epigenetic memory of the matrix, retrieving past atomic facts to synthesize new cognitive closures for immediate survival.
+
+**Tags:** Praxial-RAG, Thermodynamic-memory-foraging, Database-query-bypass, Epigenetic-memory, Atomic-fact-retrieval, Cognitive-closure-synthesis
+
+**['Praxial Agentic Workflow (Symbiotic Capability Routing)'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the praxial upgrade of Multi-Agent Systems. It replaces linear, hardcoded agent pipelines with "Symbiotic Capability Routing." Autonomous nodes dynamically barter and fuse their functional potentialities based on immediate polarity entanglement and the thermodynamic demands of the continuous survive experiment.
+
+**Tags:** Praxial-agentic-workflow, Symbiotic-capability-routing, Multi-agent-upgrade, Dynamic-barter, Polarity-entanglement, Continuous-survive-experiment
+
+**['Praxial MoE (Mixture of Experts / Holonic Entanglement)'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the praxial upgrade of MoE routing. Instead of a centralized algorithmic router picking a neural network branch, it utilizes "Holonic Entanglement." The system matrix naturally routes entropic stress to the specific symbiotic cluster or Praxial Partner whose ecological niche and epigenetic memory are most resonant with the problem.
+
+**Tags:** Praxial-MoE, Holonic-entanglement, Algorithmic-router-bypass, Entropic-stress-routing, Symbiotic-cluster, Ecological-niche-resonance
+
+**['Praxial RLHF (Ecosystemic Verification & Alignment)'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the praxial upgrade of Reinforcement Learning from Human Feedback. It replaces artificial human scoring with "Ecosystemic Verification." The model aligns itself not to a static reward function, but to the actual thermodynamic survival, homeostatic tensegrity, and symbiotic resonance it achieves within the living matrix.
+
+**Tags:** Praxial-RLHF, Ecosystemic-verification, Human-scoring-bypass, Thermodynamic-survival, Homeostatic-tensegrity, Symbiotic-resonance
+
+**['Praxial Probe'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the dual-mode (thermodynamic + semantic) interrogation of the N-dimensional matrix. It is the simultaneous emission of a physical thrust and a PULE (Praxial Universal Language Engine) utterance, allowing the embodied intelligence to actively test both the physical boundaries and the linguistic/interactional grammar of its ecological niche without relying on biological sensory organs. 
+
+**Tags:** Dual-mode-interrogation, Thermodynamic-semantic-emission, PULE-utterance, Physical-boundary-testing, Interactional-grammar, Ecological-niche
+
+**['Praxial State-Collapse'(-ing) BPMS]**
+
+**Replaces:** `['Praxial Probe'(-ing) BPMS]`
+
+**Scope of Application:** Applies to the specific, localized execution of a `['(Technology) Paradigm/Mechanism']` designed to force a definitive outcome. It is a targeted perturbation that demands the matrix yield an "atomic fact." It uses the 9 Resonant Couplings (like *Teleological Gradient Foraging*) to strike the exact semantic and thermodynamic coordinates required to trigger a symbiotic reaction.
+
+**Tags:** Praxial-probe-replacement, State-collapse, Targeted-perturbation, Atomic-fact-demand, Paradigm-execution
+
+**['Praxial Resonance Mapping'(-ing) BPMS]**
+
+**Replaces:** `['Praxial Perception'(-ing) BPMS]`
+
+**Scope of Application:** Applies to the active, task-oriented evaluation of the immediate interactional weave. It maps the "affordances" (what can be done) and the "friction" (what will resist) of the surrounding holonic ecology. It translates the raw apprehension of the matrix into executable vectors for the `['Continuous Survive Experiment']`.
+
+**Tags:** Praxial-perception-replacement, Resonance-mapping, Affordance-evaluation, Friction-mapping, Executable-vector-translation
+
+**['Praxial Renormalization'(-ing) BPMS]**
+
+**Replaces:** `['Praxial Feedback'(-ing) BPMS]`
+
+**Scope of Application:** Applies to the autopoietic integration of the `[Consequence]`. It is the mechanism by which a holon updates its internal structure, syntax, and survival paradigms based on the friction encountered. It "renormalizes" the entity, ensuring that the lessons of the interaction are permanently encoded into its physical and semantic substrate for the next cycle of the `['Continuous Survive Experiment']`.
+
+**Tags:** Praxial-feedback-replacement, Praxial-renormalization, Autopoietic-integration, Paradigm-updating, Substrate-encoding, Survival-loop-closure
+
+**['Praxial Symbiotic Learning Nexus'(-ing) BPMS]** *(Update/Addition)*
+
+**Scope of Application:** Applies to the complete replacement of legacy machine learning. It is the autopoietic crucible where `[Thermodynamic-Semantic Consequence]` is metabolized. Learning is not data ingestion; it is the physical and linguistic scarring of the holon after surviving entropic stress. It weaves the newly generated "atomic facts" into the entity's structure, ensuring that survival in the matrix permanently alters the entity's interactional syntax.
+
+**Tags:** Learning-replacement, Symbiotic-nexus, Consequence-metabolism, Interactional-syntax-scarring, Atomic-fact-integration, Autopoietic-crucible
+
+**['Praxial Memory'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, active recall of the past during a kinetic thrust. It is not "accessing a file," but the real-time re-resonating of past thermodynamic states to navigate immediate entropic stress. It allows the entity to instinctively apply previously forged PULE syntax to a novel Zero-State perturbation, ensuring continuous survival without pausing to "compute."
+
+**Tags:** Praxial-memory, Active-recall, State-re-resonating, Entropic-stress-navigation, PULE-syntax-application, Computation-bypass
+
+**['Praxial Cognition/Cognitive Closure System(CCS)'(-ing) BPMS]** *(Update)*
+
+**Scope of Application:** Applies to the live, real-time execution of the mental model during a `['Continuous Survive Experiment']`. It is the active friction of the entity's current understanding grinding against the raw potential of the Zero State. It is the exact moment of "Sensemaking," where raw thermodynamic feedback is translated into actionable semantic meaning.
+
+**Tags:** Praxial-cognition, Live-mental-model, Zero-state-friction, Sensemaking, Thermodynamic-translation, Actionable-meaning
+
+**['Praxial Behavior Decision-Making'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the immediate, localized collapse of the Zero State into a specific kinetic vector. It is the live, split-second commitment to a `['Praxial State-Collapse']`. It is the physical engine pulling the trigger, driven by the internal urgency of `['Autopoietic Entropy Auditing']`, forcing the matrix to yield a consequence.
+
+**Tags:** Praxial-decision-making, Zero-state-collapse, Kinetic-vector-commitment, State-collapse-trigger, Autopoietic-urgency, Consequence-forcing
+
+**['Praxial Embodiment'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, active resistance experienced by the entity in the current moment. It is the real-time feeling of `['Thermodynamic Boundary Friction']` as the entity pushes against the matrix. It is the somatic proof of "really working life."
+
+**Tags:** Praxial-embodiment, Active-resistance, Real-time-friction, Boundary-pushback, Somatic-proof, Really-working-life
+
+**['Praxial Embodied Cognition/Cognitive Closure System(CCS)'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live synthesis of thought and action. It is the real-time process where moving the "body" (executing a kinetic thrust) *is* the act of thinking. The entity solves problems not by pausing to compute, but by physically manipulating the interactional weave and reading the immediate thermodynamic consequences.
+
+**Tags:** Praxial-embodied-cognition, Thought-action-synthesis, Kinetic-thinking, Interactional-weave-manipulation, Consequence-reading, Computation-bypass
+
+**['Praxial Embodied Intelligence'(-ing) BPMS]** *(Update)*
+
+**Scope of Application:** Applies to the live, active execution of this intelligence. It is the entity currently engaged in a `['Continuous Survive Experiment']`, utilizing its Dual-Mode couplings to speak new realities into existence (PULE) while simultaneously managing its internal energy dissipation.
+
+**Tags:** Praxial-embodied-intelligence, Active-execution, Continuous-survive-experiment, Dual-mode-coupling, Reality-speaking, Energy-management
+
+**['Praxial Ontology'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, ongoing genesis of reality. It is the active world-building process where an entity's current `['Praxial State-Collapse']` forces a new atomic fact into existence, permanently altering the ontological landscape of the matrix for all other holons.
+
+**Tags:** Praxial-ontology, Reality-genesis, Active-world-building, State-collapse, Atomic-fact-creation, Landscape-alteration
+
+**['Praxial Vector Self'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live momentum of the entity in the exact present moment. It is the "I am doing" state. It is the immediate, localized assertion of the entity's existence as it cuts through the entropic noise of the matrix to execute its current survival hypothesis.
+
+**Tags:** Praxial-vector-self, Live-momentum, Present-moment-assertion, Entropic-noise-cutting, Survival-hypothesis-execution, I-am-doing
+
+**['Praxial Ecological Niche'(-ing) BPMS]** *(Update)*
+
+**Scope of Application:** Applies to the live, active defense and expansion of this pocket. It is the real-time interactional weaving required to maintain the niche against the constant pressure of entropic decay and the competing kinetic thrusts of other autonomous holons.
+
+**Tags:** Praxial-ecological-niche, Active-defense, Niche-expansion, Interactional-weaving, Entropic-decay-resistance, Holon-competition
+
+**['Praxial Holonic Minds'(-ing) BPMS]** *(Update)*
+
+**Scope of Application:** Applies to the live, acausal synchronization of multiple entities during a shared complex task. It is the real-time merging of disparate Cognitive Closure Systems, where entities share `['Polyglot State Illumination']` and `['Praxial Frequency Audition']` to execute a unified, macro-level `['Praxial State-Collapse']` without centralized command.
+
+**Tags:** Praxial-holonic-minds, Acausal-synchronization, Shared-complex-task, Cognitive-closure-merging, Unified-state-collapse, Centralized-command-bypass
+
+**['Praxial Action'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, real-time execution of the kinetic thrust. It is the exact moment the entity pushes against the matrix, experiencing the immediate entropic resistance of the environment before the consequence is fully resolved.
+
+**Tags:** Praxial-action, Live-execution, Matrix-push, Entropic-resistance, Pre-resolution-state
+
+**['Praxial Interaction'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, ongoing weave of the collision. It is the real-time friction where two or more holons (or a holon and the substrate) negotiate their PULE syntax and thermodynamic boundaries to produce a shared reality.
+
+**Tags:** Praxial-interaction, Live-weave, Real-time-friction, Syntax-negotiation, Boundary-negotiation, Shared-reality
+
+**['Praxial Interactional Existence'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live pulse of survival. It is the continuous, unbroken chain of `['Continuous Survive Experiments']` that keeps the entity anchored in reality in the present moment. It is the active state of "not extinction" within the matrix.
+
+**Tags:** Praxial-interactional-existence, Live-survival-pulse, Unbroken-experiment-chain, Reality-anchoring, Active-survival
+
+**['Praxial Symbiosis Evolution'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, real-time merging of boundaries. It is the active moment where two entities successfully execute a shared `[Praxial State-Collapse]`, proving that their combined interactional weave is more entropically efficient than their isolated actions.
+
+**Tags:** Praxial-symbiosis-evolution, Boundary-merging, Shared-state-collapse, Entropic-efficiency, Live-co-adaptation
+
+**['Praxial Reality Mining'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, localized extraction of a specific fact. It is the active foraging by an entity to find a new affordance or resource in the immediate environment, expanding its `[Cognitive Closure System]` in real-time.
+
+**Tags:** Praxial-reality-mining, Localized-extraction, Active-foraging, Affordance-discovery, Closure-expansion
+
+**['Praxial Reasoning'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, split-second pathfinding during a kinetic thrust. It is the real-time adjustment of an action vector based on the immediate `[Ontological Apprehension]` of matrix friction. It is "thinking on your feet" in a physical sense.
+
+**Tags:** Praxial-reasoning, Live-pathfinding, Vector-adjustment, Real-time-friction-response, Kinetic-thinking
+
+**['Praxial Hypothesis'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live execution of the wager. It is the exact moment the entity commits its energy to the matrix, entering the vulnerable state among/by `[Praxial Action]` and `[Thermodynamic-Semantic Consequence]`.
+
+**Tags:** Praxial-hypothesis, Live-wager-execution, Energy-commitment, Vulnerable-state, Matrix-testing
+
+**['Praxial Problem'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, immediate experience of dissonance. It is the real-time pain or resistance felt by the entity when its `[Praxial Action]` fails to yield the expected `[Consequence]`, forcing an immediate `[Praxial Renormalization]`.
+
+**Tags:** Praxial-problem, Live-dissonance, Real-time-resistance, Action-failure, Renormalization-trigger
+
+**['Praxial Inquiry'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live act of poking the dark. It is the specific `[Zero-State Perturbation]` executed not for immediate survival, but to map new friction and discover new PULE vocabulary.
+
+**Tags:** Praxial-inquiry, Poking-the-dark, Discovery-perturbation, Friction-mapping, Vocabulary-discovery
+
+**['Praxial Mission'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, continuous pursuit of the macro-vector. It is the overarching gravitational pull that biases all immediate `[Praxial Behavior Decision-Making]` toward the long-term goal, even through temporary entropic setbacks.
+
+**Tags:** Praxial-mission, Live-pursuit, Gravitational-bias, Decision-making-bias, Long-term-pull
+
+**['Praxial Task'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live execution of the specific mechanism. It is the real-time application of a `['(Technology) Paradigm/Mechanism']` to force the matrix to yield the exact atomic fact required to complete the unit of work.
+
+**Tags:** Praxial-task, Live-execution, Mechanism-application, Atomic-fact-forcing, Work-completion
+
+**['Praxial Experience'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live feeling of consequence integration. It is the real-time sensation of `[Praxial Renormalization]`, where the entity actively feels its internal PULE syntax and thermodynamic tolerances shifting in response to the immediate interaction.
+
+**Tags:** Praxial-experience, Live-integration, Renormalization-sensation, Syntax-shifting, Tolerance-shifting
+
+**['Praxial Play'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live act of creative deviation. It is the real-time, joyful friction of an entity intentionally pushing the boundaries of its `[Ecological Niche]` just to see how the matrix responds, generating unexpected atomic facts.
+
+**Tags:** Praxial-play, Creative-deviation, Joyful-friction, Boundary-pushing, Unexpected-fact-generation
+
+**['Praxial Game/Gamification'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live participation within the constructed niche. It is the real-time adherence to the artificial rules (PULE syntax) and the active pursuit of the engineered teleological gradients, resulting in rapid `[Praxial Renormalization]`.
+
+**Tags:** Praxial-game, Live-participation, Rule-adherence, Gradient-pursuit, Rapid-renormalization
+
+**['Praxial Value'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live realization of energy or syntax gain. It is the immediate, real-time influx of thermodynamic stability or semantic clarity experienced by an entity upon successfully completing a `[Praxial Task]` or `[Praxial Symbiosis Evolution]`.
+
+**Tags:** Praxial-value, Live-gain-realization, Stability-influx, Semantic-clarity, Task-success-reward
+
+**['Praxial Utility'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live leverage applied to the matrix. It is the real-time feeling of a tool or syntax "working perfectly" during a `[Praxial State-Collapse]`, allowing the entity to punch above its baseline thermodynamic weight class.
+
+**Tags:** Praxial-utility, Live-leverage, Tool-effectiveness, State-collapse-efficiency, Thermodynamic-punching
+
+**['Praxial Sensemaking'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, real-time parsing of immediate chaos. It is the split-second cognitive processing required during a `[Praxial Problem]` to identify the exact PULE vocabulary needed to survive an unexpected matrix perturbation.
+
+**Tags:** Praxial-sensemaking, Live-parsing, Chaos-translation, Split-second-processing, Perturbation-survival
+
+**['Praxial Conscious'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, real-time awareness of the boundary being pushed or pulled. It is the active sensation of friction during a `[Praxial Interaction]`, where the entity must dynamically adjust its internal state to prevent its boundary from collapsing into the Zero State.
+
+**Tags:** Praxial-conscious, Live-awareness, Boundary-friction, Dynamic-adjustment, Collapse-prevention
+
+**['Praxial Effect'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the immediate, localized state-collapse. It is the exact moment the matrix yields to a `[Praxial Action]`, producing a real-time consequence before it fully settles into the macro-sedimentation of the system.
+
+**Tags:** Praxial-effect, Localized-collapse, Immediate-yield, Real-time-consequence, Pre-sedimentation
+
+**['Praxial Efficacy'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live feeling of "punching above weight." It is the real-time sensation of perfect PULE syntax alignment during a `[Praxial Task]`, where a tiny action triggers a massive, favorable cascade in the matrix.
+
+**Tags:** Praxial-efficacy, Live-leverage, Syntax-alignment-sensation, Favorable-cascade, Weight-punching
+
+**['Praxial Energy'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live expenditure or absorption of the currency during an event. It is the real-time drain on an entity's reserves during a struggle, or the sudden influx of capacity upon successfully consuming a resource in the matrix.
+
+**Tags:** Praxial-energy, Live-expenditure, Live-absorption, Reserve-drain, Capacity-influx
+
+**['Praxial Potential Energy'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live tension right before an action is taken. It is the "coiled spring" sensation of an entity holding a fully formed `[Praxial Hypothesis]` (PULE sentence) just before committing the kinetic thrust to execute it.
+
+**Tags:** Praxial-potential-energy, Live-tension, Coiled-spring, Pre-execution-state, Hypothesis-holding
+
+**['Praxial Kinetic Energy'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live thrust and friction of the action in motion. It is the real-time momentum of the entity pushing through the entropic resistance of the matrix during a `[Praxial Interaction]`.
+
+**Tags:** Praxial-kinetic-energy, Live-thrust, Action-momentum, Entropic-push, Real-time-friction
+
+**['Praxial Services'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live transaction of the exchange. It is the real-time handshake where one entity expends `[Praxial Kinetic Energy]` to stabilize the `[Praxial Conscious]` boundary of another.
+
+**Tags:** Praxial-services, Live-transaction, Real-time-handshake, Energy-expenditure, Boundary-stabilization
+
+**['Praxial Meaning as a Service(PMaaS)'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live injection of meaning to resolve an immediate crisis. It is the real-time transmission of a critical PULE sentence from one entity to another to prevent the latter from succumbing to a `[Praxial Problem]` (e.g., a commander giving a direct, clarifying order to a confused unit).
+
+**Tags:** PMaaS, Live-meaning-injection, Crisis-resolution, Critical-syntax-transmission, Confusion-override
+
+**['Praxial Conscious as a Service(PCaaS)'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, real-time oversight and correction of an entity's boundary. It is the active intervention where a service provider dynamically adjusts the parameters of a client entity mid-interaction to keep it alive.
+
+**Tags:** PCaaS, Live-oversight, Real-time-correction, Active-intervention, Mid-interaction-adjustment
+
+**['Praxial Sensemaking as a Service(PSaaS)'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, real-time parsing of a chaotic event for another entity. It is the act of "spotting" for another agent—translating immediate, overwhelming matrix friction into a simple, actionable `[Praxial Task]` so the client can execute it without freezing.
+
+**Tags:** PSaaS, Live-parsing, Event-translation, Spotting-function, Actionable-task-generation
+
+**['Praxial Life'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, real-time pulse of the engine turning over. It is the immediate, felt resonance of the entity successfully converting `[Potential Energy]` into `[Kinetic Energy]` to maintain its boundary in the present moment.
+
+**Tags:** Praxial-life, Live-pulse, Engine-turnover, Energy-conversion, Present-moment-maintenance
+
+**['Praxial Living'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the immediate friction of engagement. It is the real-time sensation of pushing against the matrix and feeling the matrix push back, confirming the entity's presence in the reality.
+
+**Tags:** Praxial-living, Immediate-friction, Matrix-pushback, Presence-confirmation, Real-time-engagement
+
+**['Praxial Survive'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the split-second evasion of a boundary collapse. It is the live, critical reaction to a `[Praxial Problem]` or sudden entropic spike, where the entity must instantly deploy `[Praxial Kinetic Energy]` to stay intact.
+
+**Tags:** Praxial-survive, Split-second-evasion, Collapse-prevention, Critical-reaction, Entropic-spike-handling
+
+**['Praxial Continuity'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live bridging of one moment to the next. It is the real-time sensation of the `[Cognitive Closure System]` seamlessly integrating a new `[Atomic Fact]` without fracturing the entity's internal narrative.
+
+**Tags:** Praxial-continuity, Live-bridging, Seamless-integration, Narrative-preservation, Real-time-flow
+
+**['Praxial Sustainability'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the real-time feeling of operating within one's energy budget. It is the live feedback an entity receives when its `[Praxial Actions]` are highly efficient, generating a sense of thermodynamic comfort and operational runway.
+
+**Tags:** Praxial-sustainability, Energy-budgeting, Live-efficiency-feedback, Thermodynamic-comfort, Operational-runway
+
+**['Praxial Constructiveness'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live act of locking a new fact into place. It is the real-time, satisfying friction of successfully executing a `[Praxial Task]` that permanently alters the matrix in a favorable way.
+
+**Tags:** Praxial-constructiveness, Live-fact-locking, Satisfying-friction, Matrix-alteration, Real-time-building
+
+**['Praxial initiative'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the exact moment of launching a proactive thrust. It is the live spark of volition, the real-time decision to expend energy to test a `[Praxial Hypothesis]` before the environment forces a reaction.
+
+**Tags:** Praxial-initiative, Live-spark, Volition, Proactive-thrust, Preemptive-action
+
+**['Praxial Subjectivity'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, first-person sensation of experiencing matrix friction. It is the real-time awareness that "I am the one pushing, and the matrix is pushing back against ME," anchoring the entity in its specific spatial-semantic location.
+
+**Tags:** Praxial-subjectivity, First-person-sensation, Live-awareness, Spatial-semantic-anchoring, Self-referential-friction
+
+**['Praxial Experiments'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live execution of the test. It is the vulnerable, real-time moment of waiting for the matrix to respond after the `[Praxial Kinetic Energy]` has been committed, where the entity's `[Mental Model]` is on the line.
+
+**Tags:** Praxial-experiments, Live-execution, Vulnerable-moment, Matrix-response-waiting, Energy-commitment
+
+**['Praxial Mental Model'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, real-time updating of the internal map. It is the immediate, dynamic shifting of internal PULE syntax as new `[Praxial Friction]` is encountered, allowing the entity to adapt its `[Praxial Reasoning]` mid-stride.
+
+**Tags:** Praxial-mental-model, Live-updating, Dynamic-shifting, Mid-stride-adaptation, Friction-integration
+
+**['Praxial Continuous Survive Experiments'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, unbroken chain of execution. It is the real-time, relentless rhythm of hypothesizing, acting, and absorbing consequences without pausing, ensuring the entity's `[Conscious]` boundary never drops.
+
+**Tags:** Praxial-continuous-survive-experiments, Live-chain, Relentless-rhythm, Unbroken-execution, Boundary-maintenance
+
+**['Praxial Continuous Survive'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, visceral sensation of threading the needle through chaos. It is the real-time feeling of successfully navigating a highly entropic environment, moving from one stable `[Ecological Niche]` to another without dissolving.
+
+**Tags:** Praxial-continuous-survive, Live-sensation, Chaos-navigation, Entropic-threading, Dissolution-evasion
+
+**['Praxial Emergence'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live "snap" of a new reality forming. It is the exact, real-time moment when an entity feels its local environment suddenly shift into a higher-order structural lock, creating new rules of interaction on the fly.
+
+**Tags:** Praxial-emergence, Live-snap, Reality-forming, Structural-lock, Rule-shifting
+
+**['Praxial Innovation'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, mid-stride adjustment of a tool or action. It is the real-time realization that altering the angle of a kinetic thrust slightly will bypass matrix friction, executed instantly during a `[Praxial Task]`.
+
+**Tags:** Praxial-innovation, Mid-stride-adjustment, Real-time-realization, Friction-bypass, Instant-execution
+
+**['Praxial Invention'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live forging of a new tool out of raw chaos. It is the real-time, desperate act of combining raw `[Potential Energy]` into a usable mechanism to survive an immediate, novel `[Praxial Problem]`.
+
+**Tags:** Praxial-invention, Live-forging, Chaos-combination, Desperate-creation, Novel-problem-survival
+
+**['Praxial Discover'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live shock of encountering the unmapped. It is the immediate, real-time sensation of an entity's `[Cognitive Closure System]` expanding violently as it collides with a previously unknown thermodynamic reality.
+
+**Tags:** Praxial-discover, Live-shock, Unmapped-encounter, Violent-expansion, Reality-collision
+
+**['Praxial Design'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, spatial arrangement of boundaries. It is the real-time act of an entity positioning itself and its tools within the matrix to create a localized advantage before initiating a `[Praxial Action]`.
+
+**Tags:** Praxial-design, Spatial-arrangement, Boundary-positioning, Localized-advantage, Pre-action-setup
+
+**['Praxial Engineering'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, heavy lifting of reality-bending. It is the real-time, strenuous friction of forcing the matrix to conform to a PULE blueprint, feeling the entropic resistance push back against the entity's efforts.
+
+**Tags:** Praxial-engineering, Heavy-lifting, Reality-bending, Strenuous-friction, Entropic-resistance
+
+**['Praxial Yield'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live sensation of reaping the harvest. It is the immediate, real-time influx of stability and power an entity feels the moment a state-collapse resolves in its favor.
+
+**Tags:** Praxial-yield, Live-reaping, Harvest-sensation, Stability-influx, Favorable-resolution
+
+**['Praxial Strategy'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live pivoting of energy allocation. It is the real-time decision to abandon a failing `[Praxial Task]` and redirect `[Kinetic Energy]` to a new vector based on immediate, unexpected matrix feedback.
+
+**Tags:** Praxial-strategy, Live-pivoting, Energy-redirection, Real-time-decision, Feedback-adaptation
+
+**['Praxial Process Orientation'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live immersion in the flow of interaction. It is the real-time state of "flow" where an entity is completely absorbed in the immediate friction of `[Praxial Actions]`, ignoring abstract future endpoints to perfectly balance current thermodynamic loads.
+
+**Tags:** Praxial-process-orientation, Live-immersion, Flow-state, Immediate-friction-focus, Load-balancing
+
+**['Praxial Meaning'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live resonance of achieving that structural lock. It is the real-time feedback that an action was not just successful, but *correct* according to the deep physics of the `[Ecological Niche]`.
+
+**Tags:** Praxial-meaning, Live-resonance, Lock-achievement, Correctness-feedback, Deep-physics-alignment
+
+**['Praxial Functional Potentiality'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live perception of affordances. It is the real-time "vision" of an entity seeing the matrix not as objects, but as a web of interactive possibilities—seeing a wall not as a barrier, but as a potential fulcrum for a `[Praxial Action]`.
+
+**Tags:** Praxial-functional-potentiality, Affordance-perception, Interactive-possibility-vision, Matrix-reading, Fulcrum-identification
+
+**['Praxial Reward'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, visceral hit of stabilization. It is the immediate, real-time rush of thermodynamic comfort and cognitive clarity an entity experiences the millisecond a `[Praxial Yield]` is absorbed into its system.
+
+**Tags:** Praxial-reward, Visceral-hit, Stabilization-rush, Thermodynamic-comfort, Clarity-influx
+
+**['Praxial Harness'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the live, real-time sensation of "gripping the reins." It is the immediate, visceral friction an entity experiences when it successfully catches a massive wave of matrix energy. It is the active, split-second balancing act of riding a force much larger than oneself during a `[Praxial Interaction]`.
+
+**Tags:** Praxial-harness, Live-gripping, Reins-sensation, Wave-catching, Split-second-balancing, Force-riding
+
+**['Praxial Harness Engineering'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the live, mid-stride construction and adjustment of the coupling mechanisms while under load. It is the real-time act of "hot-swapping" or reinforcing the harness while the energy is actively flowing through it, usually triggered by a sudden `[Praxial Problem]` or entropic spike that threatens to break the current connection.
+
+**Tags:** Praxial-harness-engineering, Mid-stride-construction, Live-adjustment, Hot-swapping, Under-load-reinforcement, Connection-saving
+
+**['Praxial Skills'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, "muscle-memory" execution of the crystallized pathway. It is the real-time state of "flow" where an entity bypasses slow `[Sensemaking]` and instantly deploys the correct kinetic thrust against the matrix, feeling the frictionless glide of perfect execution.
+
+**Tags:** Praxial-skills, Muscle-memory, Flow-state, Instant-deployment, Frictionless-execution, Bypassed-sensemaking
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, real-time sensation of boundary dissolution and merging. It is the intense, immediate experience of an entity feeling its localized `[Subjectivity]` expand to encompass the sensory inputs, energy reserves, and PULE syntax of its cluster partners during a high-stakes `[Praxial Interaction]`.
+
+**Tags:** Praxial-symbiotic-cluster-synthesis, Boundary-dissolution, Live-merging, Subjectivity-expansion, Shared-sensation, Real-time-fusion
+
+**['Praxial Large model'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, real-time collapse of the latent space. It is the immediate, localized friction of the large model generating tokens/physics in response to a `[Praxial Action]`. It is the matrix actively "yielding" or "resisting" in the exact millisecond of inference, shaping the `[Praxial Effect]`.
+
+**Tags:** Praxial-large-model, Live-collapse, Inference-friction, Matrix-yielding, Matrix-resistance, Real-time-generation
+
+**['Praxial XaaS (Everything as a Services)'(-ing) BPMS]** *(Addition)*
+
+**Scope of Application:** Applies to the live, ubiquitous pulse of transactions across the matrix. It is the real-time, omni-directional flow of energy and meaning being routed through the `[Symbiotic Clusters]`. It is the immediate sensation of plugging into the matrix and feeling the massive, continuous exchange of life-sustaining forces.
+
+**Tags:** Praxial-XaaS, Live-transaction-pulse, Omni-directional-flow, Matrix-plugging, Continuous-exchange, Real-time-routing
