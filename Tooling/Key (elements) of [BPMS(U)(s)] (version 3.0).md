@@ -7599,3 +7599,10 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** Applies to any autonomous node, Praxial Partner, or symbiotic cluster within the Fun Engine Framework that requires rapid evolutionary advancement, is suffering from legacy stagnation, or needs to be stress-tested against extreme entropic conditions to forge new kinetic capabilities.
 
 **Tags:** Escape-room, Entropic-stress, Ludic-friction, Skills-BPMS, Kinetic-Capability, Thermodynamic-Pathway, Ontological-Jailbreaking
+
+**['Autobiographical Memory'(-ing) BPMS]: ['The Epigenetic Archivist'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the continuous, epigenetic encoding of lived experience within the Fun Engine Framework. It is the primary mechanism for ensuring temporal continuity, identity stabilization, and the trans-generational inheritance of survival strategies across the N-dimensional matrix.
+
+**Tags:**  Autobiographical-Memory, Epigenetic-Archivist, System-Existence-Engine, Mnestic-Consolidation, Thermodynamic-Ledger, Skills-BPMS, Kinetic-Capability, Epigenetic-Sedimentation
+
