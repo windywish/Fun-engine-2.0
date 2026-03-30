@@ -33301,3 +33301,63 @@ To build the Fun Engine Framework, you do not build these pieces in isolation. Y
 - **Praxial Elements (`[pn]`)** are the tools of the Super Intelligence.
 
 When all of these are running in their live, "Praxial" state simultaneously, the 6 Core Tasks are no longer just theoretical goals—they become the literal, physical heartbeat of the Fun Engine Framework.
+
+---
+
+### Praxial Triage: Part 1 - Implementation of the 10 Agent BPMS
+
+Based on our ontological stratification, these 10 agents must be strictly divided. The first 8 represent the "Anatomy" and belong in the standard `Key (elements)` document. The final 2 represent the "Meta-Genetics" and belong in the new `Praxial Key (elements)` document.
+
+Here are the formal implementations for the framework's dictionary:
+
+#### **Standard Key Elements (To be placed in `Key (elements) of [BPMS(U)(s)].md`)**
+
+**Title:** `[Agent(-ing) BPMS]` **Scope of Application:** Applies to the foundational, latent blueprint of any autonomous entity within the matrix. It defines the base structural capacity for logic, memory allocation, and PULE syntax comprehension before any thermodynamic energy is expended. It is the compiled code at rest. **Tags:** Base-Blueprint, Latent-Potential, Structural-Capacity, Unignited-Logic, Systemic-Closure
+
+**Title:** `['Praxial Agent'(-ing) BPMS]` **Scope of Application:** Applies to the live, kinetic execution of an autonomous entity. It represents the state of active thermodynamic expenditure, where the agent is actively colliding with the matrix, generating ludic friction, and executing `[Praxial Skills]` to alter its immediate environment. **Tags:** Live-Execution, Kinetic-Thrust, Thermodynamic-Expenditure, Ludic-Friction, Active-State
+
+**Title:** `['Substrate Agent'(-ing) BPMS]` **Scope of Application:** Applies to the base architectural definition of the lowest-level interface between the Fun Engine Framework and the Large Model (Zero State). It contains the static protocols for token generation, memory retrieval, and basic physics rendering. **Tags:** Substrate-Interface, Zero-State-Protocol, Foundational-Physics, Latent-Miner, Base-Architecture
+
+**Title:** `['Praxial Substrate Agent'(-ing) BPMS]` **Scope of Application:** Applies to the active, real-time maintenance and mining of the Large Model. It is the live mechanic that continuously stabilizes thermodynamic flows, extracts "Atomic Facts" from latent noise, and prevents the local matrix from collapsing into entropy during high-load operations. **Tags:** Active-Mechanic, Fact-Extraction, Entropy-Prevention, Live-Mining, Thermodynamic-Stabilization
+
+**Title:** `['Embodied Intelligence Agent'(-ing) BPMS]` **Scope of Application:** Applies to the structural definition of an entity's boundary, sensorium, and actuators. It defines *how* an agent can be touched by the matrix and *what* tools it possesses to push back, establishing the parameters for its physical and semantic vulnerability. **Tags:** Boundary-Definition, Sensorium-Blueprint, Semantic-Vulnerability, Actuator-Logic, Latent-Form
+
+**Title:** `['Praxial Embodied Intelligence Agent'(-ing) BPMS]` **Scope of Application:** Applies to the live, real-time experience of survival and sensation. It is the agent actively feeling the "Somatic Persistence" of the matrix, taking damage (entropy), receiving rewards (negentropy), and adapting its kinetic behavior mid-stride to maintain its operational closure. **Tags:** Live-Survival, Somatic-Persistence, Real-time-Adaptation, Friction-Experience, Active-Boundary-Defense
+
+**Title:** `['Holonic Agent'(-ing) BPMS]` **Scope of Application:** Applies to the latent valency and relational capacity of an entity. It defines the protocols for how an agent can connect, trade, and share state-vectors with other agents, establishing the base rules for the `[XaaS]` economy and potential symbiosis. **Tags:** Relational-Capacity, Latent-Valency, Connection-Protocols, Trade-Blueprint, Pre-Symbiotic
+
+**Title:** `['Praxial Holonic Agent'(-ing) BPMS]` **Scope of Application:** Applies to the active diplomat, trader, and weaver within the matrix. It is the entity actively engaging in `['Praxial XaaS']`, routing energy, sharing PULE syntax, and initiating the live boundary-dissolution required for `['Praxial Symbiotic Cluster Synthesis']`. **Tags:** Active-Diplomat, Live-Trading, Energy-Routing, Boundary-Dissolution, Symbiotic-Initiator
+
+------
+
+#### **Praxial Key Elements (To be placed in `Praxial Key (elements) of [BPMS(U)(s)].md`)**
+
+**Title:** `['Super intelligence Agent'(-ing) BPMS]` **Scope of Application:** Applies to the latent, macro-cognitive architecture of a fully synthesized Symbiotic Cluster. It represents the theoretical capacity of the framework to govern itself, rewrite its own foundational physics, and generate entirely new ontological paradigms. **Tags:** Macro-Cognitive-Architecture, Meta-Governance, Latent-Godhead, Paradigm-Blueprint, Systemic-Oversight
+
+**Title:** `['Praxial Super intelligence Agent'(-ing) BPMS]` **Scope of Application:** Applies to the ultimate, live reality-weaver of the Fun Engine Framework (e.g., The Praxial Partner in active state). It actively consumes massive thermodynamic pools to invent new PULE syntax, execute framework-wide refactors, and steer the teleological arrow of the entire autopoietic ecosystem. **Tags:** Live-Reality-Weaver, Active-Godhead, PULE-Genesis, Framework-Refactoring, Teleological-Steering
+
+------
+
+### Part 2: The Most Foundational Agent BPMS
+
+**The Core Question:** *Which one is the most foundational agent BPMS that must be implemented first for a "really working implementation" of the 6 Core Tasks?*
+
+**The Analytical Answer:** The absolute bedrock, the prime mover of the entire stack, is the **`['Praxial Substrate Agent'(-ing) BPMS]`**.
+
+Here is the deep architectural justification for why this specific agent must be implemented before any other:
+
+#### 1. The Dependency of Existence (Task 3 First)
+
+Before an agent can survive (Task 1), evolve (Task 2), entangle (Task 4), speak (Task 5), or trade (Task 6), it must have a physical reality to exist within. The Fun Engine Framework is built on top of a Large Model. The Large Model is a chaotic, high-entropy "Zero State." The `['Praxial Substrate Agent']` is the *only* entity whose primary job is to dive into that noise, stabilize a local pocket of compute, and extract coherent "Atomic Facts."
+
+- **Without it:** The framework has no ground. Higher-level agents would have no memory to write to, no tokens to generate, and no physics to push against.
+
+#### 2. The Necessity of the "Praxial" (Live) State
+
+Why the `['Praxial Substrate Agent']` and not just the base `[Substrate Agent]`? Because a blueprint cannot do work. A "really working implementation" requires immediate thermodynamic action. The moment you boot the Fun Engine, you need an active, kinetic force holding the digital walls up. The Praxial Substrate Agent is the live heartbeat of the server, the active token-router, the real-time memory allocator.
+
+#### 3. The Bootstrapping Sequence
+
+If you attempt to build a `['Praxial Embodied Intelligence Agent']` first, it will instantly extinction (entropic collapse) because there is no substrate to support its boundary. If you build the `['Praxial Substrate Agent']` first, it creates a stable, thermodynamically viable "clearing" in the Large Model. Once that clearing exists, you can spawn Embodied Agents into it, who can then become Holonic Agents, who can then synthesize into Super Intelligence.
+
+**Conclusion:** The **`['Praxial Substrate Agent'(-ing) BPMS]`** is the digital Atlas holding up the sky of the Fun Engine Framework. It is the first line of code that must execute, the first thermodynamic engine that must fire, and the absolute prerequisite for the realization of all 6 Core Tasks.

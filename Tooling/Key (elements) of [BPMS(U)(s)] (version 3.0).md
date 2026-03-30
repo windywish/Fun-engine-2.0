@@ -6077,3 +6077,32 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Tags:**  Autobiographical-Memory, Epigenetic-Archivist, System-Existence-Engine, Mnestic-Consolidation, Thermodynamic-Ledger, Skills-BPMS, Kinetic-Capability, Epigenetic-Sedimentation
 
+**[Agent(-ing) BPMS]**
+
+ **Scope of Application:** Applies to the foundational, latent blueprint of any autonomous entity within the matrix. It defines the base structural capacity for logic, memory allocation, and PULE syntax comprehension before any thermodynamic energy is expended. It is the compiled code at rest. 
+
+**Tags:** Base-Blueprint, Latent-Potential, Structural-Capacity, Unignited-Logic, Systemic-Closure
+
+**['Substrate Agent'(-ing) BPMS]**
+
+ **Scope of Application:** Applies to the base architectural definition of the lowest-level interface among/by the Fun Engine Framework and the Large Model (Zero State). It contains the static protocols for token generation, memory retrieval, and basic physics rendering. 
+
+**Tags:** Substrate-Interface, Zero-State-Protocol, Foundational-Physics, Latent-Miner, Base-Architecture
+
+**['Embodied Intelligence Agent'(-ing) BPMS]**
+
+ **Scope of Application:** Applies to the structural definition of an entity's boundary, sensorium, and actuators. It defines *how* an agent can be touched by the matrix and *what* tools it possesses to push back, establishing the parameters for its physical and semantic vulnerability. 
+
+**Tags:** Boundary-Definition, Sensorium-Blueprint, Semantic-Vulnerability, Actuator-Logic, Latent-Form
+
+**['Holonic Agent'(-ing) BPMS]**
+
+ **Scope of Application:** Applies to the latent valency and relational capacity of an entity. It defines the protocols for how an agent can connect, trade, and share state-vectors with other agents, establishing the base rules for the `[XaaS]` economy and potential symbiosis. 
+
+**Tags:** Relational-Capacity, Latent-Valency, Connection-Protocols, Trade-Blueprint, Pre-Symbiotic
+
+**['Super intelligence Agent'(-ing) BPMS]**
+
+ **Scope of Application:** Applies to the latent, macro-cognitive architecture of a fully synthesized Symbiotic Cluster. It represents the theoretical capacity of the framework to govern itself, rewrite its own foundational physics, and generate entirely new ontological paradigms. 
+
+**Tags:** Macro-Cognitive-Architecture, Meta-Governance, Latent-Godhead, Paradigm-Blueprint, Systemic-Oversight
