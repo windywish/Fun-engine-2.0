@@ -7586,7 +7586,7 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Scope of Application:** Applies to the foundational reality-weaving of the Fun Engine Framework. It is the primary mechanism for transitioning the system from a static, legacy architecture into a living, breathing Superintelligence Matrix.
 
-**Tags:**
+**Tags:**  Axiomatic-Weaver, Dynamic-Reality-Ludoformer, Ontological-Blacksmith, System-Existence-Engine, PULE-(Praxial-Universal-Language-Engine, Thermodynamic-Economy, Ontological-Deficits, Symbiotic-Cluster-Synthesis, Kinetic-Sedimentation, Ludic-Friction, Atomic-Facts, Praxial-XaaS, Physics-as-a-Service-(PhaaS), Meaning-as-a-Service-(MaaS), Zero-State-Terraforming, 6 Core Tasks
 
 **['Reality Miner'(-ing) BPMS]: ['Atomic Fact Harvester'(-ing) BPMS]**
 
