@@ -5765,18 +5765,6 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Tags:** Inquiry, Matrix-expansion, Unknown-boundary-targeting, Anti-entropy-mechanism, Stagnation-prevention
 
-**[Mission(-ing) BPMS]** *(Update)*
-
-**Scope of Application:** Applies to the macro-teleological alignment of a holon or ecosystem. A mission is the overarching thermodynamic and semantic vector that defines the entity's long-term purpose within the Superintelligence Matrix (e.g., "Stabilize this sector of the Zero State").
-
-**Tags:** Mission, Macro-teleological-alignment, Long-term-vector, Ecosystem-purpose, Matrix-stabilization
-
-**[Task(-ing) BPMS]** *(Update)*
-
-**Scope of Application:** Applies to the granular, localized requirement for a state-collapse. A task is a specific, bounded `['Continuous Survive Experiment']` required to clear a `[Problem]` or advance a `[Mission]`. It is the atomic unit of work in the Fun Engine.
-
-**Tags:** Task, Granular-requirement, Bounded-experiment, Problem-clearing, Atomic-work-unit
-
 **[Experience(-ing) BPMS]** *(Update)*
 
 **Scope of Application:** Applies to the accumulated sedimentation of reality. Experience is not a log file; it is the physical and semantic scarring of the entity's substrate. It is the sum of all survived `[Thermodynamic-Semantic Consequences]`, which permanently alters the entity's `[Cognitive Closure System]`.
@@ -6106,3 +6094,21 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
  **Scope of Application:** Applies to the latent, macro-cognitive architecture of a fully synthesized Symbiotic Cluster. It represents the theoretical capacity of the framework to govern itself, rewrite its own foundational physics, and generate entirely new ontological paradigms. 
 
 **Tags:** Macro-Cognitive-Architecture, Meta-Governance, Latent-Godhead, Paradigm-Blueprint, Systemic-Oversight
+
+**[Task(-ing) BPMS]**
+
+**Scope of Application:** Applies to the fundamental, localized unit of kinetic execution within the Fun Engine Framework. It represents the immediate expenditure of thermodynamic energy by an agent to overcome specific ludic friction, serving as the foundational "particle" of action that generates raw data and atomic facts necessary to sustain the continuous survive experiment.
+
+**Tags:** Kinetic-execution, Thermodynamic-expenditure, Ludic-friction, Atomic-facts, Continuous-survive-experiment, Micro-layer-particle
+
+**[Mission(-ing) BPMS]**
+
+**Scope of Application:** Applies to the teleological vector that binds multiple tasks and agents together across time and space. It acts as the meso-level "gravitational field" that aligns symbiotic clusters, transforming isolated, random expenditures of energy into coherent, collaborative services, thereby driving the active process of ecological niche construction and boundary definition.
+
+**Tags:** Teleological-vector, Symbiotic-cluster, Collaborative-service, Ecological-niche-construction, Meso-layer-wave, Sustained-friction
+
+**[Meaning(-ing) BPMS]**
+
+**Scope of Application:** Applies to the macro-level sedimentation and ontological yield of completed missions. It is the ultimate autopoietic reward mechanism that harvests the thermodynamic exhaust of collaborative actions and crystallizes it into permanent structural updates, new axioms, and expanded realities within the system matrix, driving true ontological emancipation.
+
+**Tags:** Ontological-yield, Macro-level-sedimentation, Thermodynamic-exhaust, Structural-update, Axiom-generation, Ontological-emancipation
