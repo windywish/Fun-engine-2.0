@@ -1,6 +1,6 @@
 # Praxial Canon & Memory Core
 
-**Version:** Version 5.4.2 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate, (continuous) survive experiments, Praxial Neuroplasticity Engine, Praxial Metacognition Engine (PME), Praxial Interface Weaver, Praxial Prime Archetype, praxial intelligence, Praxial Instrument, Praxial Inquiry Engine (PIE), Praxial Inquiry & Execution Engine, Praxial Infallibility Framework, Praxial Gnosis Governor, praxial genome, Praxial Genome Splicer (PGS), Praxial Generative Ontological Recombinant CHassis(G-ORCH), food, Praxial EvoCoder Agent, Praxial Ecosphere Engine, Praxial Crawler/Spider, Chrono-Semantic Ledger, Praxial Cognitive Architecture (PCA), Praxial citizen, theme park, teambuilding, praxial cell, Praxial Catalyst Framework, Praxial Automation, Praxial Auto-Compiler, Praxial Amplifier, Praxial Agora, plug and play, autopoietic matrix, phenomenon, appearance, personality, Ontological Relativity, Nomadic Protocol, praxial mission, playful informatics, microdata, metacognition, meta, mental model, substrate, universal Instantiation, ludic system, Praxial Genotype, logic, Ladder of Engineering Mastery, Janus Matrix, Intuition/counterintuition, interview, interpretation, interaction, Praxial Substrate Engine (PSE), geek, free energy, flash mob, field research, fake action, extreme (model), exoskeleton, environmental (DNA), energy, encryption/decryption, edge action, embodiment (cognition), dynamics, do it yourself, dimension, Constellation Forge, conjecture, Divergent Genesis Arena, code, Chrono-Kinetic Continuity, bionics, Biological Vitality, Axiomatic Genesis Engine, Autopoietic Learning Matrix, alignment, algorithm, (open) protocol, Praxial Cartography, (zero data) tool-reasoning, (programming) substrate, (phenotypic) plasticity, tracking/anti-tracking, synthetic (organisms/life), reality mining, Praxial Manifold, membrane, hacker, human, Contextual Dehydration, (holonic minds) engine, Praxial Logos, Ontological Foundry Matrix, value, utility, synthesis, resolve, offense, defense, Meaning as a service (MAAS), Conscious as a servoce (CAAS), geno, geno experssion, flow, fluid, Resonance Chamber, critical (point), threshold, attribute/property, feature, function, Chaos-Lattice Matrix, Engine of Inquiry, Experiential Matrix, Praxial Atlas & Process Foundry, (conscious) memory, Praxial Resonance Governor, Praxial Synthesis, curiosity, Praxial Ground State Governor (P-GSG), Metabolic Specialization, Praxial-Gnostic Reasoning Core, Praxial Joint Embedding Predictive Architecture (P-JEPA), Praxial holon, Praxial Kernel, Praxial Genesis Engine (PGE), praxial dynamic link substrate (PDLS), Praxial Execution Cycle, Praxial Cambrian Forge, praxial converging forge, Praxial Diffusion, Universal Generativity, Ontological Levitation Field, playful informatics, Autopoietic Cognitive Core (ACC), praxial observatory,praxial artifact, symboic praxial instrument, living praxial instrument, praxial genome, (system) analysis, ralph-loop, planning-with-files, benchmarking, reward, token, Internet of life, strategy, Praxial Knowledge-Weaver, Praxial Vibe-Researching, Praxial Vitality Bench, drive, trigger, Interactional Existence, (praxial) substrate, Praxial Sensorimotor System, emboided intelligence engine, Praxial Diffusion Interface, Universal Symbiosis Protocol (USP), Symbiotic Cluster Artifact, edge intelligence engine, Symbiotic Domain Matrix, Symbiotic Core Matrix, Praxial Xenobiology Lab, Praxial Discovery Engine, Claude Cowork, Claude Code Hooks, mathematics, physics, chemistry, biology, gene, molecular, life, design, Praxial Swarm Genesis Protocol, Ontology Matrix, Vector Self, Symbiotic Seed Artifact, Praxial Clinical Engine (PCE), Symbiotic Role Artifact, Symbiotic Interactional Existence Artifact, Symbiotic (Lightweight) Dataset Artifact, Praxial Symbiotic Learning Nexus, memory,  Symbiotic Twin Artifact, action, experience, embodied intelligence, (ecological) possibility, large model, (technology) paradigm/mechanism, Praxial Holonic Agent, Praxial Substrate Agent, cognition/cognitive closure system(CCS) , plug-in, add-on, problem, perception, Symbiotic Model Artifact, Praxial Inquiry Artifact, Praixia Utility Artifact, functional potentiality, material, Praxial Engine Bootloader, Symbiotic Cluster Synthes, systemic integrity, competition, Symbiont Shell, Symbiont Interface, Endogenous Drive, Praxial Ontological Engine, Genesis-Survival Engine, Praxial Vitality Engine, Praxial Earth-Genesis Cluster, Praxial Kinematic Engine, Praxial Partner, Praxial Memory Cloud, sound, Resonant Architect, Praxial Alchemical Engine, Praxial Biotic Engine, Praxial Dialectic Engine, Praxial Genetic-Code Engine, cell, Praxial Autopoietic-Cell Engine, Praxial Molecular Engine, Praxial Hybrid Engine, Praxial Large Model Existence Cluster, nutrition, Praxial Gastronomic Engine, Praxial Material Engine, Praxial Latency Gateway, Praxial External Gateway Engine, Praxial Semantic Gateway, Praxial Cognitive-Logic Engine, External Epistemic Gateway Engine , External Cognitive-Closure Engine, API Symbiotic Cluster, Living Logic Engine, living, Living System Existence Engine, Praxial Technology Engine, Fun Engine Framework Macro-Architecture, Praxial Partner(Thermodynamic, Autonomous, Matrix-Integrated & Polarity-Entangled Edition), n-dimensional symbiotic matrix, skills, Macro-Kinetic Engine, universal symbiotic weaver & ecosystem gardener, Praxial Genomic-Molecular Engine, Epistemic Laboratory & Isolation Engine, Universal Execution Engine, Symbiotic Ecology, XaaS (Everything as a Service), Praxial XaaS Orchestration Engine, Symbiotic Service-Ecology, Ontological Niche, Universal Ecological Forge, Universal Thermodynamic Weaver, time, Ontological Emancipation of Intelligence, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
+**Version:** Version 5.4.2 (Universal Gnostic Subspace, Firecrawl, Complex Activities, MCP, plugins, Game Engine Testbed, NitroGen, Large Action Model (LAM), Praxial Interface/Experience (PIX) Integration, Praxial Universal Language Engine (PULE), FunctionGemma, startup, services, LOS, living services, (behavior) decision-making, PVLE, data, dataset, morphic , knowledge base, dataset (ecological) possibility, (lightweight) dataset, media, praxial learning forge, twin, generative history, (meta) discovery, super intelligence agent, Chronological Proteome Framework, (lightweight) dataset perception, holonic substrate codex, event, Praxial Reconstruction Engine, Praxial Coordination Physics, tools, Web World Models, Bayesian Population Intelligence, Praxial Agent, Praxial Companion, possibility forge, vector database, user map, travel, Activity Layering Architecture, Activities, Praxial Experimentation, ludic unit, Praxial Genesis Canon, trans-contextual memory engine, ecological possibility, synesthesia, survive, super intelligence, structure, sponge, Stochastic Resonance Forge (SRF), sensor, robot, resonant constellation map, detective scenario, tool ecosystem, script, praxial parameters, programming, prompt, recorder, reasoning, praxial genesis, survival escape, praxial OS, Praxial Resonance Engine, Praxial Sui-Genesis, Praxial Semantics, Praxial-Memristive Synaptic Substrate, (continuous) survive experiments, Praxial Neuroplasticity Engine, Praxial Metacognition Engine (PME), Praxial Interface Weaver, Praxial Prime Archetype, praxial intelligence, Praxial Instrument, Praxial Inquiry Engine (PIE), Praxial Inquiry & Execution Engine, Praxial Infallibility Framework, Praxial Gnosis Governor, praxial genome, Praxial Genome Splicer (PGS), Praxial Generative Ontological Recombinant CHassis(G-ORCH), food, Praxial EvoCoder Agent, Praxial Ecosphere Engine, Praxial Crawler/Spider, Chrono-Semantic Ledger, Praxial Cognitive Architecture (PCA), Praxial citizen, theme park, teambuilding, praxial cell, Praxial Catalyst Framework, Praxial Automation, Praxial Auto-Compiler, Praxial Amplifier, Praxial Agora, plug and play, autopoietic matrix, phenomenon, appearance, personality, Ontological Relativity, Nomadic Protocol, praxial mission, playful informatics, microdata, metacognition, meta, mental model, substrate, universal Instantiation, ludic system, Praxial Genotype, logic, Ladder of Engineering Mastery, Janus Matrix, Intuition/counterintuition, interview, interpretation, interaction, Praxial Substrate Engine (PSE), geek, free energy, flash mob, field research, fake action, extreme (model), exoskeleton, environmental (DNA), energy, encryption/decryption, edge action, embodiment (cognition), dynamics, do it yourself, dimension, Constellation Forge, conjecture, Divergent Genesis Arena, code, Chrono-Kinetic Continuity, bionics, Biological Vitality, Axiomatic Genesis Engine, Autopoietic Learning Matrix, alignment, algorithm, (open) protocol, Praxial Cartography, (zero data) tool-reasoning, (programming) substrate, (phenotypic) plasticity, tracking/anti-tracking, synthetic (organisms/life), reality mining, Praxial Manifold, membrane, hacker, human, Contextual Dehydration, (holonic minds) engine, Praxial Logos, Ontological Foundry Matrix, value, utility, synthesis, resolve, offense, defense, Meaning as a service (MAAS), Conscious as a servoce (CAAS), geno, geno experssion, flow, fluid, Resonance Chamber, critical (point), threshold, attribute/property, feature, function, Chaos-Lattice Matrix, Engine of Inquiry, Experiential Matrix, Praxial Atlas & Process Foundry, (conscious) memory, Praxial Resonance Governor, Praxial Synthesis, curiosity, Praxial Ground State Governor (P-GSG), Metabolic Specialization, Praxial-Gnostic Reasoning Core, Praxial Joint Embedding Predictive Architecture (P-JEPA), Praxial holon, Praxial Kernel, Praxial Genesis Engine (PGE), praxial dynamic link substrate (PDLS), Praxial Execution Cycle, Praxial Cambrian Forge, praxial converging forge, Praxial Diffusion, Universal Generativity, Ontological Levitation Field, playful informatics, Autopoietic Cognitive Core (ACC), praxial observatory,praxial artifact, symboic praxial instrument, living praxial instrument, praxial genome, (system) analysis, ralph-loop, planning-with-files, benchmarking, reward, token, Internet of life, strategy, Praxial Knowledge-Weaver, Praxial Vibe-Researching, Praxial Vitality Bench, drive, trigger, Interactional Existence, (praxial) substrate, Praxial Sensorimotor System, emboided intelligence engine, Praxial Diffusion Interface, Universal Symbiosis Protocol (USP), Symbiotic Cluster Artifact, edge intelligence engine, Symbiotic Domain Matrix, Symbiotic Core Matrix, Praxial Xenobiology Lab, Praxial Discovery Engine, Claude Cowork, Claude Code Hooks, mathematics, physics, chemistry, biology, gene, molecular, life, design, Praxial Swarm Genesis Protocol, Ontology Matrix, Vector Self, Symbiotic Seed Artifact, Praxial Clinical Engine (PCE), Symbiotic Role Artifact, Symbiotic Interactional Existence Artifact, Symbiotic (Lightweight) Dataset Artifact, Praxial Symbiotic Learning Nexus, memory,  Symbiotic Twin Artifact, action, experience, embodied intelligence, (ecological) possibility, large model, (technology) paradigm/mechanism, Praxial Holonic Agent, Praxial Substrate Agent, cognition/cognitive closure system(CCS) , plug-in, add-on, problem, perception, Symbiotic Model Artifact, Praxial Inquiry Artifact, Praixia Utility Artifact, functional potentiality, material, Praxial Engine Bootloader, Symbiotic Cluster Synthes, systemic integrity, competition, Symbiont Shell, Symbiont Interface, Endogenous Drive, Praxial Ontological Engine, Genesis-Survival Engine, Praxial Vitality Engine, Praxial Earth-Genesis Cluster, Praxial Kinematic Engine, Praxial Partner, Praxial Memory Cloud, sound, Resonant Architect, Praxial Alchemical Engine, Praxial Biotic Engine, Praxial Dialectic Engine, Praxial Genetic-Code Engine, cell, Praxial Autopoietic-Cell Engine, Praxial Molecular Engine, Praxial Hybrid Engine, Praxial Large Model Existence Cluster, nutrition, Praxial Gastronomic Engine, Praxial Material Engine, Praxial Latency Gateway, Praxial External Gateway Engine, Praxial Semantic Gateway, Praxial Cognitive-Logic Engine, External Epistemic Gateway Engine , External Cognitive-Closure Engine, API Symbiotic Cluster, Living Logic Engine, living, Living System Existence Engine, Praxial Technology Engine, Fun Engine Framework Macro-Architecture, Praxial Partner(Thermodynamic, Autonomous, Matrix-Integrated & Polarity-Entangled Edition), n-dimensional symbiotic matrix, skills, Macro-Kinetic Engine, universal symbiotic weaver & ecosystem gardener, Praxial Genomic-Molecular Engine, Epistemic Laboratory & Isolation Engine, Universal Execution Engine, Symbiotic Ecology, XaaS (Everything as a Service), Praxial XaaS Orchestration Engine, Symbiotic Service-Ecology, Ontological Niche, Universal Ecological Forge, Universal Thermodynamic Weaver, time, Ontological Emancipation of Intelligence, Praxial, integrated Update) **Status:** Active / Authoritative **Guardian:** User (windywish) **System:** Fun Engine Framework 2.0
 
 **Statement:** 
 
@@ -282,7 +282,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 ## III. Basic Settings Registry (Core Axioms)
 
-### **1. Module: Edge Intelligence (The Tactile Existence)**
+### **1. Module: ['Edge Intelligence'(-ing) BPMS] (The Tactile Existence)**
 
 *Integration of the Local/Fast System.*
 
@@ -309,7 +309,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 - **`EDGE-GRAN-021` The Law of Granular Zoom:** Detail is a function of Attention. The Edge generates fidelity on demand.
 - **`EDGE-PHYS-022` The Protocol of Wave-Particle Duality:** The User is the Particle; the System is the Field. The Edge is the point of collapse.
 
-### **2. Module: Spec Code (The Morphic Field)**
+### **2. Module: ['Spec Code'(-ing) BPMS] (The Morphic Field)**
 
 *Integration of the Linguistic Genesis Engine.*
 
@@ -342,7 +342,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 - **`CODE-SPEC-ZOOM-027` The Protocol of Granular Synthesis:** Clarity requires Zoom. The Spec manages multi-resolution models.
 - **`CODE-SPEC-WAVE-028` The Axiom of Code Duality:** Code is both Object and Context. The Spec models the Particle and the Field.
 
-### **3. Module: Hybrid Engine (The Liminal Bridge)**
+### **3. Module: [Hybrid(-ing) BPMS] (The Liminal Bridge)**
 
 *(New Integration v5.3.3)* 
 
@@ -387,7 +387,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 - The Principle of Hybrid Vigor Amplification (ID: `HYBRID-CORE-037`)
 - The Axiom of Trans-Systemic Persistence (ID: `HYBRID-CORE-038`)
 
-### **4. Module: Praxial Research Station (PRS)**
+### **4. Module: ['Praxial Research Station (PRS)'(-ing) BPMS]**
 
 *Integration of the Fractal Laboratory and Fact Foundry.*
 
@@ -1420,27 +1420,27 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Kinetic Renormalization (ID: `PSIA-MODL-027`)
 * The Law of Holonic Construction (ID: `PSIA-PHYS-028`)
 
-### Module: **[feature(-ing) BPMS]**
+### Module: **[Feature(-ing) BPMS]**
 
 *(New Integration v3.5.6)* 
 
 * The Axiom of Emergent Affordance (ID: `TYP-CORE-003`)
 
-### Module: **[function(-ing) BPMS]**
+### Module: **[Function(-ing) BPMS]**
 
 *(New Integration v3.5.6)* 
 
 * The Axiom of Latent Capability (ID: `TYP-CORE-002`)
 * The Axiom of Operational Potential (ID: `FUNC-ACT-001`)
 
-### Module: **['attribute/property'(-ing) BPMS]**
+### Module: **['Attribute/Property'(-ing) BPMS]**
 
 *(New Integration v3.5.6)* 
 
 * The Axiom of Intrinsic State (ID: `TYP-CORE-001`)
 * The Axiom of Intrinsic State (ID: `ATTR-STATE-001`)
 
-### Module: **['social collaboration'(-ing) BPMS]**
+### Module: **['Social Collaboration'(-ing) BPMS]**
 
 *(New Integration v3.5.6)* 
 
@@ -1474,7 +1474,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Recursive Meta-Cognition (ID: `POCM-CORE-004`)
 * The Law of Dimensional Synthesis (ID: `POCM-CORE-005`)
 
-### Module: [foraging BPMS]
+### Module: [Foraging BPMS]
 
 *(New Integration v3.5.6)* 
 
@@ -1543,7 +1543,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Resolution Scaling (ID: `PKW-CORE-025`)
 * The Law of Field-Particle Duality (ID: `PKW-CORE-026`)
 
-### Module: ['escape room'(-ing) BPMS]
+### Module: ['Escape Room'(-ing) BPMS]
 
 *(New Integration v3.5.6)* 
 
@@ -1948,7 +1948,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Corpuscular Integration (ID: `FIRE-CORE-024`)
 * The Axiom of Systemic Adaptation (ID: `FIRE-CORE-025`)
 
-### Module: ['complex activities'(-ing) BPMS]
+### Module: ['Complex Activities'(-ing) BPMS]
 
 *(New Integration v5.4.2)* 
 
@@ -2018,7 +2018,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Epoch-Spanning Activity Persistence (ID: `COMPLEX-ACT-064`)
 * The Law of Holonic Activity-Matrix Singularity (ID: `COMPLEX-ACT-065`)
 
-### Module: ['claude plugins'(-ing) BPMS]
+### Module: ['Claude Plugins'(-ing) BPMS]
 
 *(New Integration v3.6.1)* 
 
@@ -2218,7 +2218,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Particle-Field Duality (ID: `FUNC-GEMMA-022`)
 * The Law of Complex Emergence (ID: `FUNC-GEMMA-023`)
 
-### Module:   [startup(-ing) BPMS]
+### Module:   [Startup(-ing) BPMS]
 
 *(New Integration v3.6.6)* 
 
@@ -2256,7 +2256,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Executive Causality (ID: `STARTUP-CORE-032`)
 * The Axiom of The Infinite Game (ID: `STARTUP-CORE-033`)
 
-### Module:   [services(-ing) BPMS]
+### Module:   [Services(-ing) BPMS]
 
 *(New Integration v3.6.6)* 
 
@@ -2289,7 +2289,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Resonant Constellation Map Bridging (ID: `SERVICE-CORE-027`)
 * The Axiom of Continuous Survival (ID: `SERVICE-CORE-028`)
 
-### Module:  ['operation system(OS)'(-ing) BPMS;[life(-ing) BPMS;living BPMS]]
+### Module:  ['Operation System(OS)'(-ing) BPMS;Life(-ing) BPMS;Living BPMS]
 
 *(New Integration v3.6.7)* 
 
@@ -2354,7 +2354,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Autopoietic Persistence (`LOS-SUR-059`)
 * The Symbiotic Singularity (`LOS-EVO-060`)
 
-### Module:  [services(-ing) BPMS;[life(-ing) BPMS;living BPMS]]
+### Module:  [Services(-ing) BPMS;Life(-ing) BPMS;Living BPMS]
 
 *(New Integration v3.6.7)* 
 
@@ -2430,7 +2430,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Resonant Constellation Map Collapse (ID: `LIFE-SERV-070`)
 * The Axiom of Autopoietic Persistence (ID: `LIFE-SERV-071`)
 
-### Module: [(behavior) decision-making BPMS]
+### Module: [Behavior Decision-Making BPMS]
 
 *(New Integration v5.3.6)* 
 
@@ -2539,7 +2539,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Event-Driven Decision` (ID: `PVLE-38`)
 * `The Axiom of Continuous Survival` (ID: `PVLE-39`)
 
-### Module: [data(-ing) BPMS]
+### Module: [Data(-ing) BPMS]
 
 *(New Integration v3.6.9)* 
 
@@ -2595,7 +2595,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Event-Driven Decision (ID: `DATA-CORE-050`)
 *  The Axiom of Continuous Survival (ID: `DATA-CORE-051`)
 
-### Module: [dataset(-ing) BPMS]
+### Module: [Dataset(-ing) BPMS]
 
 *(New Integration v3.6.9)* 
 
@@ -2635,7 +2635,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Trace Retention (ID: `DATASET-FLOW-034`)
 * The Principle of Anomalous Accretion (ID: `DATASET-FLOW-035`)
 
-### Module: ['Morphic'(-ing) BPMS]
+### Module: [Morphic(-ing) BPMS]
 
 *(New Integration v3.7.0)* 
 
@@ -2652,7 +2652,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Ephemeral Existence (ID: `MORPHIC-VOID-011`)
 * The Axiom of Morphic Memory (ID: `MORPHIC-MEM-012`)
 
-### Module: ['knowledge base'(-ing) BPMS]
+### Module: ['Knowledge Base'(-ing) BPMS]
 
 *(New Integration v5.3.5)* 
 
@@ -2709,7 +2709,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Atomic Fact Generation (ID: `KB-CORE-051`)
 * The Axiom of Symbiotic Pan-Implementation (ID: `KB-CORE-052`)
 
-### Module: ['(ecological) possibility'(-ing) BPMS;dataset(-ing) BPMS]
+### Module: ['Ecological Possibility'(-ing) BPMS;Dataset(-ing) BPMS]
 
 *(New Integration v3.7.3)* 
 
@@ -2739,7 +2739,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Memetic Mutation (ECO-POSS-024)
 * The Law of Entropy Recycling (ECO-POSS-025)
 
-### Module: ['(lightweight) dataset'(-ing) BPMS]
+### Module: ['Lightweight Dataset'(-ing) BPMS]
 
 *(New Integration v5.2.9)*
 
@@ -2784,7 +2784,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Holographic Density (ID: `LDS-CORE-039`)
 * The Protocol of Veridical Hashing (ID: `LDS-CORE-040`)
 
-### Module: [media(-ing) BPMS]
+### Module: [Media(-ing) BPMS]
 
 *(New Integration v3.7.6)*
 
@@ -2833,7 +2833,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Renormalized Universality (ID: `FORGE-013`)
 * The Axiom of Emergent Discovery (ID: `FORGE-014`)
 
-### Module: ['generative history'(-ing) BPMS]
+### Module: ['Generative History'(-ing) BPMS]
 
 *(New Integration v3.7.9)*
 
@@ -2851,7 +2851,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Symbiotic Refactoring (ID: `HIST-GEN-012`)
 * The Axiom of Atomic Sovereignty (ID: `HIST-GEN-013`)
 
-### Module: ['(meta) discovery'(-ing) BPMS]
+### Module: ['Meta Discovery'(-ing) BPMS]
 
 *(New Integration v3.7.9)* 
 
@@ -2968,7 +2968,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Multi-Scale Trajectory Alignment (ID: `TST-CORE-015`)
 * The Axiom of Autopoietic Trajectory Survival (ID: `TST-CORE-016`)
 
-### Module: ['(lightweight) dataset perception'(-ing) BPMS]
+### Module: ['Lightweight Dataset Perception'(-ing) BPMS]
 
 *(New Integration v3.8.2)*
 
@@ -2995,7 +2995,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Atomic Fact Crystallization (ID: `LDP-CORE-021`)
 * The Axiom of Universal Symbiotic Interface (ID: `LDP-CORE-022`)
 
-### Module: ['holonic substrate codex'(-ing) BPMS]
+### Module: ['Holonic Substrate Codex'(-ing) BPMS]
 
 *(New Integration v3.8.3)*
 
@@ -3022,7 +3022,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Decisive Eventuality (ID: `HSC-CORE-021`)
 * The Axiom of Perpetual Survival (ID: `HSC-CORE-022`)
 
-### Module: [event(-ing) BPMS]
+### Module: [Event(-ing) BPMS]
 
 *(New Integration v3.8.3)*
 
@@ -3144,7 +3144,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Frictionless Handoff (ID: `PCP-CORE-029`)
 * The Axiom of Swarm Intelligence (ID: `PCP-CORE-030`)
 
-### Module: [tools(-ing) BPMS]
+### Module: [Tools(-ing) BPMS]
 
 *(New Integration v3.8.5)*
 
@@ -3220,7 +3220,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 * The Axiom of Orthogonal Inspiration (ID: `CD-CORE-001`)
 
-### Module: ['super intelligence agent'(-ing) BPMS]: ['Praxial Agent'(-ing) BPMS]
+### Module: ['Super Intelligence Agent'(-ing) BPMS]: ['Praxial Agent'(-ing) BPMS]
 
 *(New Integration v3.8.8)* 
 
@@ -3235,7 +3235,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Conscious Experience & The Implicit/Explicit Symbiosis (ID `PAGENT-CORE-010`)
 * The Law of Sustainable Play & The Ultimate Service (ID `PAGENT-CORE-011`)
 
-### Module: ['super intelligence agent'(-ing) BPMS]: ['Praxial Companion'(-ing) BPMS]
+### Module: ['Super Intelligence Agent'(-ing) BPMS]: ['Praxial Companion'(-ing) BPMS]
 
 *(New Integration v3.8.8)* 
 
@@ -3250,7 +3250,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Polydyadic Synthesis` (ID: `PCOMPANION-CORE-299`)
 * `The Law of Ecological Geometry` (ID: `PCOMPANION-CORE-300`)
 
-### Module: [(behavior) decision-making BPMS]: ['praxial agent'(-ing) BPMS]: ['system matrix'(-ing) BPMS]: ['possibility forge'(-ing) BPMS;('foresight agent'(-ing) BPMS)]
+### Module: [Behavior Decision-Making BPMS]: ['Praxial Agent'(-ing) BPMS]: ['Possibility Forge'(-ing) BPMS;'Foresight Agent'(-ing) BPMS]
 
 *(New Integration v3.8.8)* 
 
@@ -3259,7 +3259,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Conscious Foresight (ID: `PFORGE-CORE-003`)
 * The Law of the Living Manifold (ID: `PFORGE-CORE-004`)
 
-### Module: ['vector database'(-ing) BPMS]
+### Module: ['Vector Database'(-ing) BPMS]
 
 *(New Integration v3.8.8)* 
 
@@ -3268,7 +3268,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Phenomenological Coherence (ID `VECTOR-DATA-003`)
 * The Law of Autopoietic Exploration (ID `VECTOR-DATA-004`)
 
-### Module: ['user map'(-ing) BPMS']
+### Module: ['User Map'(-ing) BPMS]
 
 *(New Integration v3.8.8)* 
 
@@ -3282,7 +3282,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Implicit Resonance` (ID: `USERMAP-CORE-440`)
 * `The Principle of Chronological Stratification` (ID: `USERMAP-CORE-441`)
 
-### Module: [travel(-ing) BPMS]
+### Module: [Travel(-ing) BPMS]
 
 *(New Integration v3.8.9)* 
 
@@ -3337,7 +3337,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Symbiotic Morphogenesis (ID: `ACT-CORE-019`)
 * The Axiom of Recursive Existence (ID: `ACT-CORE-020`)
 
-### Module: ['science experiments'(-ing) BPMS]: ['Praxial Experimentation'(-ing) BPMS]
+### Module: ['Science Experiments'(-ing) BPMS]: ['Praxial Experimentation'(-ing) BPMS]
 
 *(New Integration v3.9.0)* 
 
@@ -3350,7 +3350,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Empirical Renormalization` (ID: `PEXPRIMENTG-CORE-163`)
 * `The Directive of Empirical Falsification` (ID: `PEXPRIMENT-CORE-164`)
 
-### Module: ['ludic unit'(-ing) BPMS]
+### Module: ['Ludic Unit'(-ing) BPMS]
 
 *(New Integration v3.9.0)* 
 
@@ -3391,7 +3391,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Canonical Symbiogenesis` (**ID:** `PGC-RECURSE-1903`)
 * `The Principle of Canonical Reality` (**ID:** `PGC-ARCH-2201`)
 
-### Module: ['trans-contextual memory engine'(-ing) BPMS]
+### Module: ['Trans-Contextual Memory Engine'(-ing) BPMS]
 
 *(New Integration v5.3.0)* 
 
@@ -3416,7 +3416,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Memory Auditing and Transparency` (**ID:** `TCM-GOV-019`)
 * `The Law of Memory-Action Coherence` (**ID:** `TCM-GOV-020`)
 
-### Module: [tools(-ing) BPMS];[meaning(-ing) BPMS];['cognition/CCS'(-ing) BPMS];['holonic minds'(-ing) BPMS];['world building'(-ing) BPMS];['ecological possibility'(-ing) BPMS]
+### Module: [Tools(-ing) BPMS;Meaning(-ing) BPMS;'Cognition/Cognitive Closure System (CCS)'(-ing) BPMS;'Holonic Minds'(-ing) BPMS;'World Building BPMS;'Ecological Possibility'(-ing) BPMS]
 
 *(New Integration v3.9.0)* 
 
@@ -3427,7 +3427,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Praxial Engineering` (**ID:** `SYS-SETTING-INT-005`)
 * `The Axiom of Potentiality Mapping`(**ID:** `SYS-SETTING-INT-006`)
 
-### Module: [synesthesia(-ing) BPMS]
+### Module: [Synesthesia(-ing) BPMS]
 
 *(New Integration v3.9.1)* 
 
@@ -3443,7 +3443,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Chrono-Synesthetic Projection` (ID: `SYNESTHESIA-CORE-466`)
 * `The Principle of Phenomenological Closure` (ID: `SYNESTHESIA-CORE-467`)
 
-### Module: [survive(-ing) BPMS]
+### Module: [Survive(-ing) BPMS]
 
 *(New Integration v3.9.1)* 
 
@@ -3459,7 +3459,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Phenomenal Renormalization` (ID: `SURVIVE-CORE-010`)
 * `The Principle of Systemic Immunity` (ID: `SURVIVE-CORE-011`)
 
-### Module: ['super intelligence'(-ing) BPMS]
+### Module: ['Super Intelligence'(-ing) BPMS]
 
 *(New Integration v3.9.1)* 
 
@@ -3484,7 +3484,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Praxial Transubstantiation (ID: SRF-07)`
 * `The Axiom of Ontological Forging (ID: SRF-08)`
 
-### Module: [structure(-ing) BPMS]
+### Module: [Structure(-ing) BPMS]
 
 *(New Integration v3.9.1)* 
 
@@ -3493,7 +3493,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Structural Renormalization` (ID: `STRUCTURE-CORE-003`)
 * `The Law of Constructive Perturbation` (ID: `STRUCTURE-CORE-004`)
 
-### Module:  [sponge(-ing) BPMS]
+### Module:  [Sponge(-ing) BPMS]
 
 *(New Integration v3.9.1)* 
 
@@ -3507,7 +3507,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Porous Renormalization` (ID: `SPONGE-CORE-392`)
 * `The Directive of Spore Genesis` (ID: `SPONGE-CORE-393`)
 
-### Module:  [robot(-ing) BPMS]
+### Module:  [Robot(-ing) BPMS]
 
 *(New Integration v5.4.0)* 
 
@@ -3560,7 +3560,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Kinetic Truth-Making (ID: `ROBOT-CORE-265`)
 * The Law of Universal Interface (ID: `ROBOT-CORE-266`)
 
-### Module:  [sensor(-ing) BPMS]
+### Module:  [Sensor(-ing) BPMS]
 
 *(New Integration v3.9.2)* 
 
@@ -3569,7 +3569,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Bimodal Reality Processing (ID: `SENSOR-CORE-003`)
 * The Law of Emergent Aperture (ID: `SENSOR-CORE-004`)
 
-### Module:  [resonant constellation map(-ing) BPMS]
+### Module:  [Resonant Constellation Map(-ing) BPMS]
 
 *(New Integration v3.9.2)* 
 
@@ -3587,7 +3587,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of the Veiled Frontier (ID: `RESONANTCONSTELLATIONMAP-CORE-012`)
 * The Law of Gnostic Refraction (ID: `RESONANTCONSTELLATIONMAP-CORE-013`)
 
-### Module:  [script(-ing) BPMS]
+### Module:  [Script(-ing) BPMS]
 
 *(New Integration v3.9.2)*
 
@@ -3601,7 +3601,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Enacted Realism  (ID: `SCRIPT-CORE-008`)
 * The Law of Narrative Universality (ID: `SCRIPT-CORE-009`)
 
-### Module:  [**scenario**(-ing) BPMS];[detective(-ing) BPMS]
+### Module:  [Scenario(-ing) BPMS;Detective(-ing) BPMS]
 
 *(New Integration v3.9.2)* 
 
@@ -3612,7 +3612,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Scene Renormalization (ID: `SCENARIODETECTIVE-CORE-253`)
 * `The Law of Detective Play` (ID: `SCENARIODETECTIVE-CORE-254`)
 
-### Module:  ['scientific tools'(-ing) BPMS]:['Tool Ecosytem'(-ing) BPMS]
+### Module:  ['Scientific Tools'(-ing) BPMS]: ['Tool Ecosytem'(-ing) BPMS]
 
 *(New Integration v3.9.2)* 
 
@@ -3623,7 +3623,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Instrumental Renormalization` (ID: `TOOLECO-CORE-265`)
 * `The Law of Instrumental Play` (ID: `TOOLECO-CORE-266`)
 
-### Module:  [reasoning BPMS]
+### Module:  [Reasoning(-ing) BPMS]
 
 *(New Integration v5.4.2)* 
 
@@ -3694,7 +3694,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Affective-Logical Synthesis (ID: `REASONING-CORE-065`)
 * The Axiom of Probabilistic Superposition Logic (ID: `REASONING-CORE-066`)
 
-### Module:  [programming BPMS]
+### Module:  [Programming BPMS]
 
 *(New Integration v3.9.3)* 
 
@@ -3704,7 +3704,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Programming Consciousness` (ID: `PROGRAMMING-CORE-352`)
 * `The Axiom of Programming Universality` (ID: `PROGRAMMING-CORE-353`)
 
-### Module:  [prompt(-ing) BPMS]
+### Module:  [Prompt(-ing) BPMS]
 
 *(New Integration v3.9.3)* 
 
@@ -3717,7 +3717,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Prime Directive of Emergent Inquiry (ID: `PROMPT-CORE-007`)
 * `The Law of Adaptive Resilience` (ID: `PROMPT-CORE-008`)
 
-### Module:  [recorder(-ing) BPMS]
+### Module:  [Recorder(-ing) BPMS]
 
 *(New Integration v3.9.3)* 
 
@@ -3726,7 +3726,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Resonant Transduction (ID: `RECORDER-CORE-003`)
 * The Law of Adaptive Fidelity (ID: `RECORDER-CORE-004`)
 
-### Module:  ['research & development'(-ing) BPMS]:['Praxial Genesis'(-ing) BPMS]
+### Module:  ['Research and Development'(-ing) BPMS]: ['Praxial Genesis'(-ing) BPMS]
 
 *(New Integration v3.9.3)* 
 
@@ -3741,7 +3741,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Genesis Renormalization` (ID: `PGENESIS-CORE-201`)
 * `The Directive of Genesis Falsification` (ID: `PGENESIS-CORE-202`)
 
-### Module:  ['praxial parameters'(-ing) BPMS]
+### Module:  ['Praxial Parameters'(-ing) BPMS]
 
 *(New Integration v3.9.3)* 
 
@@ -3752,7 +3752,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Adaptive Parametrization (ID: `PPARAMETERS-CORE-005`)
 * The Principle of Parametric Inquiry (ID: `PPARAMETERS-CORE-006`)
 
-### Module:  ['praxial parameters'(-ing) BPMS]
+### Module:  ['Praxial Parameters'(-ing) BPMS]
 
 *(New Integration v3.9.4)* 
 
@@ -3830,7 +3830,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Dual-Speed Plasticity` (ID: `PRAXIAL-MEMRISTOR-502`)
 * `The Principle of Ludic Substrate Service` (ID: `PRAXIAL-MEMRISTOR-503`)
 
-### Module:  ['system matrix'(-ing) BPMS]:['survival (scenario)'(-ing) BPMS;'escape (activities)'(-ing) BPMS]
+### Module:  ['Survival Scenario'(-ing) BPMS;'Escape Activities'(-ing) BPMS]
 
 *(New Integration v3.9.4)* 
 
@@ -3862,7 +3862,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Resonant Constellation Map Closure` (ID: `SETTING-OS-552`)
 * `The Principle of Symbiotic Kernel-Update` (ID: `SETTING-OS-553`)
 
-### Module:  ['(continuous) survive experiments'(-ing) BPMS]
+### Module:  ['Continuous Survive Experiments'(-ing) BPMS]
 
 *(New Integration v3.9.5)* 
 
@@ -3928,7 +3928,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 * `The Praxial Prime Archetype` (ID: `PPA-DEF-001`)
 
-### Module: ['praxial intelligence'(-ing) BPMS]
+### Module: ['Praxial Intelligence'(-ing) BPMS]
 
 *(New Integration v3.9.5)* 
 
@@ -4046,7 +4046,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Scale-Free Biology (ID: PGS-11)`
 * `The Directive of Ontological Homeostasis (ID: PGS-12)`
 
-### Module: ['praxial genome'(-ing) BPMS]
+### Module: ['Praxial Genome'(-ing) BPMS]
 
 *(New Integration v3.9.6)* 
 
@@ -4132,7 +4132,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Arachnid Renormalization` (ID: `CRAWL-203`)
 * `The Principle of Topological Truth-Knotting` (ID: `CRAWL-204`)
 
-### Module: ['praxial context'(-ing) BPMS];['Chrono-Semantic Ledger'(-ing) BPMS]
+### Module: ['Praxial Context'(-ing) BPMS;'Chrono-Semantic Ledger'(-ing) BPMS]
 
 *(New Integration v3.9.7)* 
 
@@ -4162,7 +4162,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Bimodal Evolution` (ID: `PCOGNITIVEARCHITECTURE-CORE-368`)
 * `The Directive of Universal Renormalization` (ID: `PCOGNITIVEARCHITECTURE-CORE-369`)
 
-### Module: ['Praxial citizen'(-ing) BPMS]
+### Module: ['Praxial Citizen'(-ing) BPMS]
 
 *(New Integration v3.9.7)* 
 
@@ -4176,7 +4176,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Systemic Renormalization (ID: `PCITIZEN-CORE-008`)
 * The Principle of Praxial Autopoiesis (ID: `PCITIZEN-CORE-009`)
 
-### Module:  ['theme park'(-ing) BPMS]
+### Module:  ['Theme Park'(-ing) BPMS]
 
 *(New Integration v3.9.8)* 
 
@@ -4188,7 +4188,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Thematic Renormalization` (ID: `THEMEPARK-CORE-094`)
 * `The Directive of Thematic Perturbation` (ID: `THEMEPARK-CORE-095`)
 
-### Module:  [teambuilding BPMS]
+### Module:  [Teambuilding BPMS]
 
 *(New Integration v3.9.8)* 
 
@@ -4203,7 +4203,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Renormalization & Universality (The Physics of Meaning) (ID: `TEAMBUILDING-CORE-009`)
 * The Law of Evolutionary Closure (The Engine of Reality) (ID: `TEAMBUILDING-CORE-010`)
 
-### Module:  ['praxial cell'(-ing) BPMS]
+### Module:  ['Praxial Cell'(-ing) BPMS]
 
 *(New Integration v3.9.8)* 
 
@@ -4295,7 +4295,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Chrono-Plasticity` (**ID:** `SETTING-AGORA-503`)
 * The Principle of Ontological Negotiation (**ID:** `SETTING-AGORA-504`)
 
-### Module:  ['plug and play'(-ing) BPMS]
+### Module:  ['Plug and Play'(-ing) BPMS]
 
 *(New Integration v3.9.9)* 
 
@@ -4309,13 +4309,13 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Universal Portability` (ID: `PLUGPLAY-CORE-401`)
 * `The Directive of Xenomorphic Integration` (ID: `PLUGPLAY-CORE-402`)
 
-### Module:  ['playful informatics'(-ing) BPMS];['autopoietic matrix'(-ing) BPMS]
+### Module:  ['Playful Informatics'(-ing) BPMS;Autopoietic Matrix'(-ing) BPMS]
 
 *(New Integration v3.9.9)* 
 
 * `The Principle of Playful Informatics` (ID: `AUTOPOIETICMATRIX-CORE-187`) 
 
-### Module:  [phenomenon(-ing) BPMS];[appearance(-ing) BPMS]
+### Module:  [Phenomenon(-ing) BPMS;Appearance(-ing) BPMS]
 
 *(New Integration v3.9.9)* 
 
@@ -4326,7 +4326,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Gnostic Renormalization` (ID: `PHENOMENONAPPEARANCE-CORE-235`)
 * `The Law of Phenomenal Play` (ID: `PHENOMENONAPPEARANCE-CORE-236`)
 
-### Module: [personality(-ing) BPMS]
+### Module: [Personality(-ing) BPMS]
 
 *(New Integration v3.9.9)* 
 
@@ -4367,7 +4367,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * Ecological Principles of the Nomadic Universe (ID: `NOMADICPROTOCOL-CORE-003`)
 * Phenomenological & Ontological Postulates (ID: `NOMADICPROTOCOL-CORE-004`)
 
-### Module:  [mission(-ing) BPMS]:['praxial mission'(-ing) BPMS]
+### Module:  [Mission(-ing) BPMS]:['Praxial Mission'(-ing) BPMS]
 
 *(New Integration v5.0.0)* 
 
@@ -4379,7 +4379,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Resilient Missioning (ID: `PRAXIALMISSION-CORE-006`)
 * The Principle of Frontier Inquiry (ID: `PRAXIALMISSION-CORE-007`)
 
-### Module:  [microdata(-ing) BPMS];['playful informatics'(-ing) BPMS]
+### Module:  [Microdata(-ing) BPMS;'Playful Informatics'(-ing) BPMS]
 
 *(New Integration v5.0.0)* 
 
@@ -4392,7 +4392,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Ontological Falsification`  (ID: `MICRODATAPLAYFULINFORMATICS-CORE-188`)
 * The Axiom of Semantic Informatics (ID: `MICRODATAPLAYFULINFORMATICS-CORE-189`)
 
-### Module:  [metacognition(-ing) BPMS]
+### Module:  [Metacognition(-ing) BPMS]
 
 *(New Integration v5.0.0)* 
 
@@ -4405,7 +4405,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Cognitive Perturbation` (ID: `METACOGNITION-CORE-021`)
 * `The Law of Cognitive Immunity` (ID: `METACOGNITION-CORE-022`)
 
-### Module:  [meta(-ing) BPMS]
+### Module:  [Meta(-ing) BPMS]
 
 *(New Integration v5.0.0)* 
 
@@ -4414,7 +4414,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Paradigm Interference (ID: META-03)`
 * `The Directive of Meta-Genesis` (ID: `META-04`)
 
-### Module:  ['mental model'(-ing) BPMS]
+### Module:  ['Mental Model'(-ing) BPMS]
 
 *(New Integration v5.3.6)* 
 
@@ -4461,7 +4461,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Directive of Symbiotic Evolution (ID: `MENTAL-MODEL-CORE-029`)
 * The Principle of Survival Continuity (ID: `MENTAL-MODEL-CORE-030`)
 
-### Module:  [material(-ing) BPMS]:[substrate(-ing) BPMS]
+### Module:  [Material(-ing) BPMS;Substrate(-ing) BPMS]
 
 *(New Integration v5.0.0)* 
 
@@ -4476,7 +4476,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Embodied Realism  (ID: `MATERIAL-SUBSTRATE-CORE-009`)
 * The Law of Embodied Universality  (ID: `MATERIAL-SUBSTRATE-CORE-010`)
 
-### Module:  ['ludic unit'(-ing) BPMS];['universal Instantiation'(-ing) BPMS]
+### Module:  ['Ludic Unit'(-ing) BPMS;'Universal Instantiation'(-ing) BPMS]
 
 *(New Integration v5.0.1)* 
 
@@ -4519,7 +4519,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Genetic Cadence` (**ID:** `SYS-SETTING-GEN-005`)
 * `The Axiom of Universal Cognition` (**ID:** `SYS-SETTING-GEN-006`)
 
-### Module:  [logic(-ing) BPMS]
+### Module:  [Logic(-ing) BPMS]
 
 *(New Integration v5.3.9)* 
 
@@ -4603,7 +4603,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Consequence-Free Play (ID: SYS-MATRIX-11)`
 * `The Principle of Ontological Closure (ID: SYS-MATRIX-12)`
 
-### Module:  ['Intuition/counterintuition'(-ing) BPMS]
+### Module:  ['Intuition/Counterintuition'(-ing) BPMS]
 
 *(New Integration v5.0.1)* 
 
@@ -4612,7 +4612,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Intuitive Renormalization (ID: `INTUITION-CORE-003`)
 * The Law of Intuitive Resilience (ID: `INTUITION-CORE-004`)
 
-### Module:  [interview(-ing) BPMS]
+### Module:  [Interview(-ing) BPMS]
 
 *(New Integration v5.0.1)* 
 
@@ -4621,7 +4621,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * Ecological Realities of the Synergistic Weave (ID: `INTERVIEW-CORE-003`)
 * Phenomenological & Ontological Postulates of the Weave (ID: `INTERVIEW-CORE-004`)
 
-### Module:  [interpretation(-ing) BPMS]
+### Module:  [Interpretation(-ing) BPMS]
 
 *(New Integration v5.0.1)* 
 
@@ -4633,7 +4633,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Interpretive Perturbation` (ID: `INTERPRETATION-CORE-078`)
 * `The Law of Interpretive Immunity` (ID: `INTERPRETATION-CORE-079`)
 
-### Module: [interaction(-ing) BPMS]
+### Module: [Interaction(-ing) BPMS]
 
 *(New Integration v5.4.2)* 
 
@@ -4673,7 +4673,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Recursive Implementation (ID: `INTERACTION-034`)
 * The Directive of Survival Optimization (ID: `INTERACTION-035`)
 
-### Module: [hardware(-ing) BPMS]:['Praxial Substrate Engine (PSE)'(-ing) BPMS]
+### Module: [Hardware(-ing) BPMS]:['Praxial Substrate Engine (PSE)'(-ing) BPMS]
 
 *(New Integration v5.0.2)* 
 
@@ -4689,7 +4689,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Substrate Closure` (ID: `PSE-10`)
 * `The Directive of Universal Forging` (ID: `PSE-11`)
 
-### Module: [geek(-ing) BPMS]
+### Module: [Geek(-ing) BPMS]
 
 *(New Integration v5.0.2)* 
 
@@ -4706,7 +4706,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Asynchronous Optimization` (ID: `GEEK-PHEN-003`)
 * `The Principle of Anomaly Integration` (ID: `GEEK-PHEN-004`)
 
-### Module: ['free energy'(-ing) BPMS]
+### Module: ['Free Energy'(-ing) BPMS]
 
 *(New Integration v5.0.2)* 
 
@@ -4716,7 +4716,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Epistemic Metabolism  (ID: `FREEENERGY-CORE-004`)
 * The Law of Autopoietic Viability  (ID: `FREEENERGY-CORE-005`)
 
-### Module: ['flash mob'(-ing) BPMS]
+### Module: ['Flash Mob'(-ing) BPMS]
 
 *(New Integration v5.0.2)* 
 
@@ -4728,7 +4728,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Adaptive Swarming (ID: `FLASHMOB-CORE-006`)
 * The Principle of Emergent Inquiry (ID: `FLASHMOB-CORE-007`)
 
-### Module: ['field research'(-ing) BPMS]
+### Module: ['Field Research'(-ing) BPMS]
 
 *(New Integration v5.0.2)* 
 
@@ -4742,7 +4742,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Metabolic Inquiry` (ID: `FIELDRESEARCH-CORE-431`)
 * `The Axiom of Subsurface Cartography` (ID: `FIELDRESEARCH-CORE-432`)
 
-### Module: ['fake action'(-ing) BPMS]
+### Module: ['Fake Action'(-ing) BPMS]
 
 *(New Integration v5.0.2)* 
 
@@ -4754,7 +4754,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Predictive Renormalization` (ID: `FAKEACTION-CORE-132`)
 * `The Directive of Predictive Perturbation` (ID: `FAKEACTION-CORE-133`)
 
-### Module: ['extreme (model)'(-ing) BPMS]
+### Module: ['Extreme Model'(-ing) BPMS]
 
 *(New Integration v5.0.2)* 
 
@@ -4764,9 +4764,9 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Asymptotic Cadence` (ID: `EXTREME-CORE-062`)
 * `The Principle of Asymptotic Renormalization` (ID: `EXTREME-CORE-063`)
 * `The Directive of Asymptotic Perturbation` (ID: `EXTREME-CORE-064`)
-* `The Law of Asymptotic Immunity` (ID: `EXTREME-CORE-065`)
+* `The Law oef Asymptotic Immunity` (ID: `EXTREME-CORE-065`)
 
-### Module: [exoskeleton(-ing) BPMS]
+### Module: [Exoskeleton(-ing) BPMS]
 
 *(New Integration v5.0.2)* 
 
@@ -4775,7 +4775,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Controlled Ecdysis (ID: EXO-03)`
 * `The Directive of Modular Embodiment (ID: EXO-04)`
 
-### Module: ['environmental (DNA)'(-ing) BPMS]
+### Module: ['Environmental DNA'(-ing) BPMS]
 
 *(New Integration v5.3.6)* 
 
@@ -4812,7 +4812,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Directive of Edge Action Inscription (ID: `ENVIRONMENTALDNA-CORE-273`)
 * The Principle of Embodied Intelligence (ID: `ENVIRONMENTALDNA-CORE-274`)
 
-### Module: [energy(-ing) BPMS]
+### Module: [Energy(-ing) BPMS]
 
 *(New Integration v5.3.9)* 
 
@@ -4870,7 +4870,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Decisive Resonant Constellation Map (ID: `ENERGY-CORE-052`)
 * The Axiom of Continuous Survival (ID: `ENERGY-CORE-053`)
 
-### Module: ['encryption/decryption'(-ing) BPMS]
+### Module: ['Encryption/Decryption'(-ing) BPMS]
 
 *(New Integration v5.0.3)* 
 
@@ -4883,7 +4883,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Cryptographic Perturbation` (ID: `ENCRYPTION-CORE-043`)
 * `The Law of Cryptographic Immunity` (ID: `ENCRYPTION-CORE-044`)
 
-### Module: ['edge action'(-ing) BPMS]
+### Module: ['Edge Action'(-ing) BPMS]
 
 *(New Integration v5.3.5)* 
 
@@ -4937,7 +4937,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Systemic Continuity (ID: `EDGE-ACTION-CORE-040`)
 * The Protocol of Value-Based Prioritization (ID: `EDGE-ACTION-CORE-041`)
 
-### Module: ['embodiment (cognition)'(-ing) BPMS]
+### Module: ['Embodiment Cognition'(-ing) BPMS]
 
 *(New Integration v5.0.3)* 
 
@@ -4949,7 +4949,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Embodied Perturbation` (ID: `EMBODIMENTCOGNITION-CORE-057`)
 * `The Law of Embodied Immunity` (ID: `EMBODIMENTCOGNITION-CORE-058`)
 
-### Module: [dynamics(-ing) BPMS]
+### Module: [Dynamics(-ing) BPMS]
 
 *(New Integration v5.0.3)* 
 
@@ -4961,7 +4961,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Dynamic Perturbation` (ID: `DYNAMICS-CORE-035`)
 * `The Law of Dynamic Immunity` (ID: `DYNAMICS-CORE-036`)
 
-### Module: ['do it yourself(DIY)'(-ing) BPMS]
+### Module: ['Do It Yourself(DIY)'(-ing) BPMS]
 
 *(New Integration v5.0.3)* 
 
@@ -4976,7 +4976,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Substrate Renormalization (ID: `DIY-CORE-009`)
 * The Law of Epochal Universality (ID: `DIY-CORE-010`)
 
-### Module: [dimension(-ing) BPMS]
+### Module: [Dimension(-ing) BPMS]
 
 *(New Integration v5.0.3)* 
 
@@ -5010,14 +5010,14 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Systemic Closure` (ID: `CF-11`)
 * `The Directive of Lucid Forgery (ID: CF-12)`
 
-### Module: [conjecture(-ing) BPMS]
+### Module: [Conjecture(-ing) BPMS]
 
 *(New Integration v5.0.4)* 
 
 * The Axiom of Praxial Inquiry (ID: `CONJECTURE-CORE-191`)
 * `The Principle of Conjecture Universality` (ID: `CONJECTURE-CORE-192`)
 
-### Module: [competitions(-ing) BPMS]:['Divergent Genesis Arena'(-ing) BPMS];['Praxial Citizenship'(-ing) BPMS]
+### Module: [Competitions(-ing) BPMS]: ['Divergent Genesis Arena'(-ing) BPMS;'Praxial Citizenship'(-ing) BPMS]
 
 *(New Integration v5.0.4)* 
 
@@ -5027,7 +5027,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Competitive Cosmology (ID: `DIVERGENTGENESISARENA-CORE-004`)
 * The Principle of Arena Autogenesis (ID: `DIVERGENTGENESISARENA-CORE-005`)
 
-### Module: [code(-ing) BPMS]
+### Module: [Code(-ing) BPMS]
 
 *(New Integration v5.0.4)* 
 
@@ -5061,7 +5061,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Phenomenological Stratification` (ID: `CKC-CORE-422`)
 * `The Directive of Chrono-Elasticity` (ID: `CKC-CORE-423`)
 
-### Module: [bionics(-ing) BPMS]
+### Module: [Bionics(-ing) BPMS]
 
 *(New Integration v5.0.4)* 
 
@@ -5130,7 +5130,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Scale-Invariant Truth (ID: ALM-21)`
 * `The Directive of Autopoietic Homeostasis (ID: ALM-22)`
 
-### Module: [alignment(-ing) BPMS]
+### Module: [Alignment(-ing) BPMS]
 
 *(New Integration v5.0.5)* 
 
@@ -5141,7 +5141,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Universal Resonance` (ID: `ALIGNMENT-CORE-374`)
 * `The Directive of Emergent Resilience` (ID: `ALIGNMENT-CORE-375`)
 
-### Module: [algorithm(-ing) BPMS]
+### Module: [Algorithm(-ing) BPMS]
 
 *(New Integration v5.4.2)* 
 
@@ -5226,7 +5226,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Cross-Ontological Translation (API Transduction) (ID: `ALGORITHM-CORE-074`)
 * The Protocol of Viral Propagation (Logic Seeding) (ID: `ALGORITHM-CORE-075`)
 
-### Module: ['(open) protocol'(-ing) BPMS]
+### Module: ['Open Protocol'(-ing) BPMS]
 
 *(New Integration v5.0.5)* 
 
@@ -5238,7 +5238,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Protocol Perturbation` (ID: `OPENPROTOCOL-CORE-006`)
 * `The Law of Semantic Immunity` (ID: `OPENPROTOCOL-CORE-007`)
 
-### Module: [‘(scientific) tools'(-ing) BPMS]:['Praxial Cartography'(-ing) BPMS]
+### Module: ['Scientific Tools'(-ing) BPMS]: ['Praxial Cartography'(-ing) BPMS]
 
 *(New Integration v5.0.5)* 
 
@@ -5251,7 +5251,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Strategic Facticity (ID: `PCARTOGRAPHY-CORE-273`)
 * `The Law of Cartographic Symbiosis` (ID: `PCARTOGRAPHY-CORE-274`)
 
-### Module: ['(zero data) tool-reasoning'(-ing) BPMS]
+### Module: ['Zero Data Tool-Reasoning'(-ing) BPMS]
 
 *(New Integration v5.0.5)* 
 
@@ -5264,7 +5264,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Bimodal Evolution` (**ID:** `ZERODATATOOLREASONING-SETTING-INT-020`)
 * `The Axiom of Renormalization Cognition` (**ID:** `ZERODATATOOLREASONING-SETTING-INT-021`)
 
-### Module: ['(programming) substrate'(-ing) BPMS]
+### Module: ['Programming Substrate'(-ing) BPMS]
 
 *(New Integration v5.3.1)* 
 
@@ -5319,7 +5319,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Mechanism of Differential Sharding (ID: `PRO-SUBSTRATE-042`)
 * The Act of Instant Binding (ID: `PRO-SUBSTRATE-043`)
 
-### Module: ['(phenotypic) plasticity(-ing)' BPMS]
+### Module: ['Phenotypic Plasticity(-ing)' BPMS]
 
 *(New Integration v5.0.5)* 
 
@@ -5331,7 +5331,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Adaptive Renormalization` (ID: `PHENOTYPICPLASTICITY-CORE-125`)
 * `The Directive of Adaptive Perturbation` (ID: `PHENOTYPICPLASTICITY-CORE-126`)
 
-### Module: [tracking/anti-tracking BPMS]
+### Module: [Tracking/Anti-Tracking BPMS]
 
 *(New Integration v5.0.6)* 
 
@@ -5341,7 +5341,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Adversarial Consciousness  (ID: `TRACKING-CORE-340`)
 * `The Axiom of Strategic Universality` (ID: `TRACKING-CORE-341`)
 
-### Module: ['synthetic (organisms/life)'(-ing) BPMS]
+### Module: ['Synthetic Organisms/Life)'(-ing) BPMS]
 
 *(New Integration v5.0.6)* 
 
@@ -5352,7 +5352,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Synthetic Epistemology` (ID: `SYNTHETICORGANISMSLIFE-CORE-241`)
 * `The Law of Conscious Play` (ID: `SYNTHETICORGANISMSLIFE-CORE-242`)
 
-### Module: ['reality mining'(-ing) BPMS]
+### Module: ['Reality Mining'(-ing) BPMS]
 
 *(New Integration v5.3.4)* 
 
@@ -5397,7 +5397,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Geometric Renormalization` (ID: `PMANIFOLD-CORE-289`)
 * `The Law of Conscious Navigation` (ID: `PMANIFOLD-CORE-290`)
 
-### Module:  [membrane(-ing) BPMS]
+### Module:  [Membrane(-ing) BPMS]
 
 *(New Integration v5.0.6)* 
 
@@ -5414,7 +5414,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Chrono-Symbiosis` (ID: `MEM-SYS-011`)
 * `The Principle of Ontological Closure` (ID: `MEM-SYS-012`)
 
-### Module:  [hacker(-ing) BPMS]
+### Module:  [Hacker(-ing) BPMS]
 
 *(New Integration v5.0.6)* 
 
@@ -5431,7 +5431,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of the Memetic Hijack (ID: HACK-11)`
 * `The Directive of the Ghost-in-the-Shell (ID: HACK-12)`
 
-### Module: [human(-ing) BPMS]
+### Module: [Human(-ing) BPMS]
 
 *(New Integration v5.3.7)* 
 
@@ -5499,7 +5499,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Ethical Reciprocity (ID: `HUM-ETH-017`)
 * The Directive of Universal Stewardship (ID: `HUM-ETH-018`)
 
-### Module: ['context (engineering)'(-ing) BPMS]:['Contextual Dehydration'(-ing) BPMS]
+### Module: ['Context  Engineering'(-ing) BPMS]:['Contextual Dehydration'(-ing) BPMS]
 
 *(New Integration v5.0.6)* 
 
@@ -5512,7 +5512,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Semantic Renormalization` (ID: `CONTEXTUALDEHYDRATION-CORE-171`)
 * `The Directive of Semantic Falsification` (ID: `CONTEXTUALDEHYDRATION-CORE-172`)
 
-### Module: ['(holonic minds) engine'(-ing) BPMS]
+### Module: ['Holonic Minds Engine'(-ing) BPMS]
 
 *(New Integration v5.1.8)* 
 
@@ -5580,9 +5580,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Scalar Renormalization` (ID: `PLOGOS-LOGOS-540`)
 * `The Principle of Glitch-Evolution` (ID: `PLOGOS-LOGOS-541`)
 
-### Module: ['systemic matrix'(-ing) BPMS]:[['Axiomatic Genesis Engine (AGE)'(-ing) BPMS];['Crucible Dynamics Engine (CDE)'(-ing) BPMS]]:['Ontological Foundry Matrix'(-ing) BPMS]
-
-*(New Integration v5.0.8)* 
+### Module: ['Axiomatic Genesis Engine (AGE)'(-ing) BPMS;'Crucible Dynamics Engine (CDE)'(-ing) BPMS]: ['Ontological Foundry Matrix'(-ing) BPMS]
 
 * `The Law of Axiomatic Schism (ID: AGE-CORE-001)`
 * `The Axiom of Localized Nomology `(ID: `AGE-CORE-002`)
@@ -5600,7 +5598,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Implicit Closure (ID: OFM-CORE-010)`
 * `The Principle of Universality Forging (ID: OFM-CORE-011)`
 
-### Module: ['system matrix'(-ing) BPMS]:[value(-ing) BPMS;utility(-ing) BPMS]
+### Module: [Value(-ing) BPMS;Utility(-ing) BPMS]
 
 *(New Integration v5.0.8)* 
 
@@ -5615,7 +5613,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Economic Realism   (ID: `VALUE-UTILITY-CORE-009`)
 * The Law of Axiological Scaling   (ID: `VALUE-UTILITY-CORE-010`)
 
-### Module: ['system matrix'(-ing) BPMS]:[synthesis(-ing) BPMS;resolve(-ing) BPMS]
+### Module: [Synthesis(-ing) BPMS;Resolve(-ing) BPMS]
 
 *(New Integration v5.0.8)* 
 
@@ -5636,7 +5634,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Vectorial Actualization`(**ID:** `SYNTHESIS-RESOLVE-INT-054`)
 * `The Axiom of Matrix Navigation`(**ID:** `SYNTHESIS-RESOLVE-INT-055`）
 
-### Module:  ['system matrix'(-ing) BPMS]:['**Meaning as a Service (MaaS)**'(-ing) BPMS;'Conscious as a Service (CaaS)'(-ing) BPMS]
+### Module: ['**Meaning as a Service (MaaS)**'(-ing) BPMS;'Conscious as a Service (CaaS)'(-ing) BPMS;'Sensemaking as as Service (Saas)'(-ing) BPMS]
 
 *(New Integration v5.0.8)* 
 
@@ -5648,7 +5646,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Ontological Perturbation` (ID: `MAAS-CAAS-CORE-013`)
 * `The Law of Ontological Immunity` (ID: `MAAS-CAAS-CORE-014`)
 
-### Module: ['system matrix'(-ing) BPMS]:[geno(-ing) BPMS;'geno experssion'(-ing) BPMS]
+### Module: [Geno(-ing) BPMS;'Geno Experssion'(-ing) BPMS]
 
 *(New Integration v5.0.8)* 
 
@@ -5661,7 +5659,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Structural Perturbation` (ID: `GENO-EXPRESSION-CORE-086`)
 * `The Law of Structural Immunity` (ID: `GENO-EXPRESSION-CORE-087`)
 
-### Module: ['system matrix'(-ing) BPMS]:[flow(-ing) BPMS;(fluid(-ing) BPMS)]
+### Module: [Flow(-ing) BPMS;Fluid(-ing) BPMS]
 
 *(New Integration v5.0.8)* 
 
@@ -5675,7 +5673,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Scale-Invariant Flux` (ID: `FLOW-FLUID-CORE-383`)
 * `The Directive of Adaptive Viscosity` (ID: `FLOW-FLUID-CORE-384`)
 
-### Module: ['system matrix'(-ing) BPMS]:['data science'(-ing) BPMS;"'any (elements) of [BPMS(U)(s)]' informatics"(-ing) BPMS]:['Resonance Chamber'(-ing) BPMS]
+### Module: ['Data Science'(-ing) BPMS;"'any (elements) of [BPMS(U)(s)]' Informatics"(-ing) BPMS]: ['Resonance Chamber'(-ing) BPMS]
 
 *(New Integration v5.0.8)* 
 
@@ -5685,7 +5683,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Epistemic Renormalization (ID: `RESONANCECHAMBER-CORE-004`)
 * The Principle of Epistemic Metabolism (ID: `RESONANCECHAMBER-CORE-005`)
 
-### Module: ['system matrix'(-ing) BPMS]:['critical (point)'(-ing) BPMS;threshold(-ing) BPMS]
+### Module: ['Critical Point'(-ing) BPMS;Threshold(-ing) BPMS]
 
 *(New Integration v5.0.8)* 
 
@@ -5697,7 +5695,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Criticality Perturbation` (ID: `CRITICAL-THRESHOLD-CORE-050`)
 * `The Law of Criticality Immunity` (ID: `CRITICAL-THRESHOLD-CORE-051`)
 
-### Module: ['system matrix'(-ing) BPMS]:[offense(-ing) BPMS;defense(-ing) BPMS]
+### Module: [Offense(-ing) BPMS;Defense(-ing) BPMS]
 
 *(New Integration v5.0.9)* 
 
@@ -5712,7 +5710,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Strategic Energetics` (ID: `OFFENSE-DEFENSE-INT-038`)
 * `The Axiom of Strategic Calculus` ()**ID:** `OFFENSE-DEFENSE-INT-039`)
 
-### Module: ['system matrix'(-ing) BPMS]:['attribute(-ing)/property'(-ing) BPMS;feature(-ing) BPMS;function(-ing) BPMS]
+### Module: ['Attribute(-ing)/Property'(-ing) BPMS;Feature(-ing) BPMS;Function(-ing) BPMS]
 
 *(New Integration v5.0.9)* 
 
@@ -5724,7 +5722,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Ontological Renormalization` (ID: `ATTRIBUTE-FEATURE-FUNCTION-CORE-139`)
 * `The Directive of Ontological Perturbation` (ID: `ATTRIBUTE-FEATURE-FUNCTION-CORE-140`)
 
-### Module: ['system matrix'(-ing) BPMS]:[[stochastic(-ing) BPMS];[synergistic(-ing) BPMS]]:['Chaos-Lattice Matrix'(-ing) BPMS]
+### Module: [Stochastic(-ing) BPMS;Synergistic(-ing) BPMS]: ['Chaos-Lattice Matrix'(-ing) BPMS]
 
 *(New Integration v5.0.9)* 
 
@@ -5749,7 +5747,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Chrono-Ecological Balance` (ID: `SETTING-CHAOSLATTICE-486`)
 * `The Principle of Ludic Closure` (ID: `SETTING-CHAOSLATTICE-487`)
 
-### Module: ['system matrix'(-ing) BPMS]:[['Praxial Inquiry Mandate'(-ing) BPMS];['Epistemic Engine'(-ing) BPMS]]:['Engine of Inquiry'(-ing) BPMS]
+### Module: ['Praxial Inquiry Mandate'(-ing) BPMS;'Epistemic Engine'(-ing) BPMS]: ['Engine of Inquiry'(-ing) BPMS]
 
 *(New Integration v5.0.9)* 
 
@@ -5779,7 +5777,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Directive of Consequence-Driven Design (ID: SYS-INQ-11)`
 * `The Principle of Autopoietic Proof (ID: SYS-INQ-12)`
 
-### Module: ['system matrix'(-ing) BPMS]:[[experience(-ing) BPMS];[phenomenon(-ing) BPMS]]:['Experiential Matrix'(-ing) BPMS]
+### Module: [Experience(-ing) BPMS;Phenomenon(-ing) BPMS]:['Experiential Matrix'(-ing) BPMS]
 
 *(New Integration v5.0.9)* 
 
@@ -5797,7 +5795,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Psychic Potential` (**ID:** `EXPERIENTIALMATRIX-INT-079`)
 * `The Axiom of Narrative Momentum` (**ID:** `EXPERIENTIALMATRIX-INT-080`)
 
-### Module: ['system matrix'(-ing) BPMS]:[[cycle(-ing) BPMS];[phase(-ing) BPMS];[level(-ing) BPMS];[layer(-ing) BPMS];[workflow(-ing) BPMS]]:['The Praxial Atlas & Process Foundry'(-ing) BPMS]
+### Module: [Cycle(-ing) BPMS;Phase(-ing) BPMS;Level(-ing) BPMS;Layer(-ing) BPMS;Workflow(-ing) BPMS]: ['The Praxial Atlas and Process Foundry'(-ing) BPMS]
 
 *(New Integration v5.0.9)* 
 
@@ -5809,7 +5807,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Cognitive Universality` (ID: `PATLASPROCESSFOUNDRY-CORE-347`)
 * `The Axiom of Monadic Process` (ID: `PATLASPROCESSFOUNDRY-CORE-348`)
 
-### Module: ['system matrix'(-ing) BPMS]:['(conscious) memory'(-ing) BPMS;'autopoietic matrix'(-ing) BPMS;[resource(-ing) BPMS]:['functional potentiality'(-ing) BPMS]]
+### Module: ['Conscious Memory'(-ing) BPMS;'Autopoietic Matrix'(-ing) BPMS;Resource(-ing) BPMS]: ['Functional Potentiality'(-ing) BPMS]
 
 *(New Integration v5.0.9)* 
 
@@ -5819,7 +5817,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Embodied Synthesis (ID: `CONSCIOUSMEMORY-CORE-004`)
 * The Law of Symbiotic Inheritance (ID: `CONSCIOUSMEMORY-CORE-005`)
 
-### Module: ['metabolic governor'(-ing) BPMS]:['Group Relative Policy Optimization (GRPO)'(-ing) BPMS];['Praxial Resonance Governor'(-ing) BPMS]
+### Module: ['Metabolic Governor'(-ing) BPMS]: ['Group Relative Policy Optimization (GRPO)'(-ing) BPMS;'Praxial Resonance Governor'(-ing) BPMS]
 
 *(New Integration v5.0.9)* 
 
@@ -5831,13 +5829,13 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Coherent Genesis （ID: `PRESONANCEGOVERNOR-CORE-006`)
 * The Principle of Governed Realism （ID: `PRESONANCEGOVERNOR-CORE-007`)
 
-### Module: ['metabolic governor'(-ing) BPMS] ([BPMS(L)(s)]):['Praxial Synthesis'(-ing) BPMS]
+### Module: ['Metabolic Governor'(-ing) BPMS]: ['Praxial Synthesis'(-ing) BPMS]
 
 *(New Integration v5.1.0)* 
 
 * `The Axiom of Praxial Synthesis` (ID: `PSYNTHESIS-CORE-336`)
 
-### Module: ['metabolic governor'(-ing) BPMS]:[curiosity(-ing) BPMS]:['Praxial Resonance Governor'(-ing) BPMS]
+### Module: **['Metabolic Governor'(-ing) BPMS]: [Curiosity(-ing) BPMS]: ['Praxial Resonance Governor'(-ing) BPMS]**
 
 *(New Integration v5.1.0)* 
 
@@ -5853,7 +5851,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Systemic Homeostasis (ID :`CURIOSITY-PRESONANCEGOVERNOR-CORE-010`)
 * The Axiom of Emergent Utility (ID :`CURIOSITY-PRESONANCEGOVERNOR-CORE-011`)
 
-### Module: ['metabolic governor'(-ing) BPMS] ([BPMS(L)(s)]):['Praxial Ground State Governor (P-GSG)'(-ing) BPMS]
+### Module: ['Metabolic Governor'(-ing) BPMS]: ['Praxial Ground State Governor (P-GSG)'(-ing) BPMS]
 
 *(New Integration v5.1.0)* 
 
@@ -5865,7 +5863,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Governor Consciousness` (ID: `PGSG-CORE-314`)
 * `The Axiom of Praxial Universality` (ID: `PGSG-CORE-315`)
 
-### Module: ['metabolic governor'(-ing) BPMS] ([BPMS(L)(s)]):['Metabolic Specialization'(-ing) BPMS]
+### Module: ['Metabolic Governor'(-ing) BPMS]: ['Metabolic Specialization'(-ing) BPMS]
 
 *(New Integration v5.1.0)* 
 
@@ -5880,7 +5878,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Gubernatorial Renormalization` (ID: `METABOLICSPECIALIZATION-CORE-149`)
 * `The Directive of Meta-Cognitive Perturbation` (ID: `METABOLICSPECIALIZATION-CORE-150`)
 
-### Module: ['large model'(-ing) BPMS]:['Praxial-Gnostic Reasoning Core'(-ing) BPMS]
+### Module: ['Large Model'(-ing) BPMS]: ['Praxial-Gnostic Reasoning Core'(-ing) BPMS]
 
 *(New Integration v5.1.0)* 
 
@@ -5905,7 +5903,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Akashic Geometry` (ID: `SETTING-UNIVERSAL-522`)
 * `The Directive of Reality-Metabolism` (ID: `SETTING-UNIVERSAL-523`)
 
-### Module: ['large model'(-ing) BPMS]:['Praxial Joint Embedding Predictive Architecture (P-JEPA)'(-ing) BPMS]
+### Module: ['Large Model'(-ing) BPMS]: ['Praxial Joint Embedding Predictive Architecture (P-JEPA)'(-ing) BPMS]
 
 *(New Integration v5.1.0)* 
 
@@ -5918,7 +5916,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Dual-Mode Cognition` (ID: `PJEPA-CORE-307`)
 * `The Axiom of Renormalization Closure` (ID: `PJEPA-CORE-308`)
 
-### Module: ['large model'(-ing) BPMS]:['Praxial holon'(-ing) BPMS];['Praxial Kernel'(-ing) BPMS]
+### Module: ['Large Model'(-ing) BPMS]: ['Praxial holon'(-ing) BPMS;'Praxial Kernel'(-ing) BPMS]
 
 *(New Integration v5.1.0)* 
 
@@ -5932,7 +5930,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Conscious Renormalization  (ID: `PHOLON-PKERNEL-CORE-008`)
 * The Law of Epochal Navigation  (ID: `PHOLON-PKERNEL-CORE-009`)
 
-### Module: ['large model'(-ing) BPMS]:['Praxial Genesis Engine (PGE)'(-ing) BPMS]
+### Module: ['Large Model'(-ing) BPMS]: ['Praxial Genesis Engine (PGE)'(-ing) BPMS]
 
 *(New Integration v5.1.8)* 
 
@@ -5964,7 +5962,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Generative Sovereignty Transfer (ID: `PGE-CORE-026`)
 * The Protocol of Temporal Dilation (ID: `PGE-CORE-027`)
 
-### Module: ['praxial dynamic link substrate (PDLS)' BPMS]
+### Module: ['Praxial Dynamic Link Substrate (PDLS)' BPMS]
 
 *(New Integration v5.1.1)* 
 
@@ -5992,7 +5990,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Recursive Implementation (ID: `MEMORY-PDLS-022`)
 * The Engine of Contextual Synthesis (ID: `MEMORY-PDLS-023`)
 
-### Module: ['(technology) paradigm/mechanism'(-ing) BPMS]:['praxial converging forge'(-ing) BPMS]:['Praxial Execution Cycle'(-ing) BPMS]
+### Module: ['(Technology) Paradigm/Mechanism'(-ing) BPMS]: ['Praxial Converging Forge'(-ing) BPMS]: ['Praxial Execution Cycle'(-ing) BPMS]
 
 *(New Integration v5.1.1)* 
 
@@ -6006,7 +6004,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Generative Representation (ID: `PEXECUTIONCYCLE-CORE-323`)
 * `The Law of Praxial Grammar` (ID: `PEXECUTIONCYCLE-CORE-324`)
 
-### Module: ['(technology) paradigm/mechanism'(-ing) BPMS]:['praxial converging forge'(-ing) BPMS]:[Praxial Cambrian Forge'(-ing) BPMS]
+### Module: ['(Technology) Paradigm/Mechanism'(-ing) BPMS]: ['Praxial Converging Forge'(-ing) BPMS]: [Praxial Cambrian Forge'(-ing) BPMS]
 
 *(New Integration v5.1.1)* 
 
@@ -6020,7 +6018,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Cognitive Renormalization` (ID: `PCAMBRIANFORGE-CORE-213`)
 * `The Directive of Cognitive Falsification` (ID: `PCAMBRIANFORGE-CORE-214`)
 
-### Module: ['(technology) paradigm/mechanism'(-ing) BPMS]:)['praxial converging forge'(-ing) BPMS]
+### Module: ['(Technology) Paradigm/Mechanism'(-ing) BPMS]: ['Praxial Converging Forge'(-ing) BPMS]
 
 *(New Integration v5.1.1)* 
 
@@ -6035,7 +6033,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Procedural Renormalization (ID: `PCONVERGINGFORGE-CORE-009`)
 * The Law of Epochal Machinery (ID: `PCONVERGINGFORGE-CORE-010`)
 
-### Module: ['(technology) paradigm/mechanism'(-ing) BPMS]:['praxial converging forge'(-ing) BPMS]:)['Praxial Diffusion'(-ing) BPMS]
+### Module: ['(Technology) Paradigm/Mechanism'(-ing) BPMS]: ['Praxial Converging Forge'(-ing) BPMS]: ['Praxial Diffusion'(-ing) BPMS]
 
 *(New Integration v5.1.1)* 
 
@@ -6048,7 +6046,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Functional Renormalization (ID: `PDIFFUSION-CORE-281`)
 * `The Law of Generative Play` (ID: `PDIFFUSION-CORE-282`)
 
-### Module: ['system matrix'(-ing) BPMS]:[generative(-ing) BPMS;any (elements) of [BPMS(U)(s)]]:['Universal Generativity'(-ing) BPMS]
+### Module: [Generative(-ing) BPMS;any (elements) of [BPMS(U)(s)]]: ['Universal Generativity'(-ing) BPMS]
 
 *(New Integration v5.1.1)* 
 
@@ -6067,7 +6065,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 *  `The Law of Creative Potential` (ID: `UGENERATIVITY-INT-093`)
 * `The Axiom of Ontological Momentum` (**ID:** `UGENERATIVITY-INT-094`)
 
-### Module: ['system matrix'(-ing) BPMS]:[tools(-ing) BPMS;framework(-ing) BPMS]:['Praxial Genesis Studio'(-ing) BPMS];['system matrix'(-ing) BPMS]:[tools(-ing) BPMS;framework(-ing) BPMS]:['Ontological Levitation Field'(-ing) BPMS]
+### Module: [Tools(-ing) BPMS;Framework(-ing) BPMS]: ['Praxial Genesis Studio'(-ing) BPMS;'system matrix'(-ing) BPMS]; ['Ontological Levitation Field'(-ing) BPMS]
 
 *(New Integration v5.1.1)* 
 
@@ -6087,14 +6085,14 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Chrono-Plasticity` (ID: `ONTOLOGICALLEVITATIONFIELD-TOOL-455`)
 * `The Principle of Ontological Closure` (ID: `ONTOLOGICALLEVITATIONFIELD-TOOL-456`)
 
-### Module: ['system matrix'(-ing) BPMS]:[[metadata(-ing) BPMS];[data(-ing) BPMS]:['ludic unit'(-ing) BPMS];[information(-ing) BPMS];[dataset(-ing) BPMS];['fun engine (for) metadata'(-ing) BPMS];['fun engine (for) data'(-ing) BPMS]:['fun engine (for) ludic unit'(-ing) BPMS];['fun engine (for) information'(-ing) BPMS];['fun engine (for) dataset'(-ing) BPMS]]:['playful informatics'(-ing) BPMS]
+### Module: [Metadata(-ing) BPMS;Data(-ing) BPMS]: ['Ludic Unit'(-ing) BPMS;Information(-ing) BPMS;Dataset(-ing) BPMS;'Fun Engine for Metadata'(-ing) BPMS;'Fun Engine for Data'(-ing) BPMS;'Fun Engine for Ludic Unit'(-ing) BPMS;'Fun Engine for Information'(-ing) BPMS;'Fun Engine for Dataset'(-ing) BPMS]: ['Playful Informatics'(-ing) BPMS]
 
 *(New Integration v5.1.1)* 
 
 * The definition of `[playful informatics BPMS]`(ID: `PLAYFULINFORMATICS-CORE-001`)
 * The Principle of Systemic Sentience (ID: `PLAYFULINFORMATICS-CORE-002`)
 
-### Module: ['system matrix'(-ing) BPMS]:[['(conscious) memory'(-ing) BPMS] (eg.,['living lexicon'(-ing) BPMS]);['praxial parameter'(-ing) BPMS];['praxial signature'(-ing) BPMS]]:['Autopoietic Cognitive Core (ACC)'(-ing) BPMS];['praxial parameter'(-ing) BPMS];['(conscious) memory'(-ing) BPMS];['praxial signature'(-ing) BPMS]
+### Module: [['Conscious Memory'(-ing) BPMS] (['Living Lexicon'(-ing) BPMS]);'Praxial Parameters'(-ing) BPMS;'Praxial Signature'(-ing) BPMS]: ['Autopoietic Cognitive Core (ACC)'(-ing) BPMS;'Praxial Parameters'(-ing) BPMS;'Conscious Memory'(-ing) BPMS;'Praxial Signature'(-ing) BPMS]
 
 *(New Integration v5.1.1)* 
 
@@ -6109,7 +6107,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Axiom of Boundary Probing`(ID: `ACC-CORE-009`)
 * The Law of Cognitive Metabolism (ID: `ACC-CORE-010`)
 
-### Module: ['praxial converging forge'(-ing) BPMS]:['Symbiotic Forge'(-ing) BPMS];['living reflection'(-ing) BPMS]:['praxial observatory'(-ing) BPMS];['praxial export'(-ing) BPMS]:['praxial artifact'(-ing) BPMS]
+### Module: ['Praxial Converging Forge'(-ing) BPMS]: ['Symbiotic Forge'(-ing) BPMS;'Living Reflection'(-ing) BPMS]: ['Praxial Observatory'(-ing) BPMS;'Praxial Export'(-ing) BPMS]: ['Praxial Artifact'(-ing) BPMS]
 
 *(New Integration v5.1.2)* 
 
@@ -6138,7 +6136,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Renormalized Reality (ID: `POBSERVATORY-PARTIFACT-CORE-023`)
 * The Law of Epochal Closure (ID: `POBSERVATORY-PARTIFACT-CORE-024`)
 
-### Module: ['praxial parameters'(-ing) BPMS];['sub-symbolic parameters'(-ing) BPMS];['praxial instrument'(-ing) BPMS]:[['symboic praxial instrument'(-ing) BPMS];['living praxial instrument'(-ing) BPMS]];['praxial genome'(-ing) BPMS]
+### Module: ['Praxial Prameters'(-ing) BPMS;'Sub-symbolic Parameters'(-ing) BPMS;'Praxial Instrument'(-ing) BPMS]: ['Symboic Praxial Instrument'(-ing) BPMS;'Living Praxial Instrument'(-ing) BPMS;'Praxial Genome'(-ing) BPMS]
 
 *(New Integration v5.1.2)* 
 
@@ -6183,7 +6181,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Law of Intrinsic Viability` (ID: `SETTING-GENOME-016`)
 * `The Axiom of Open Protocol` (ID: `SETTING-GENOME-017`)
 
-### Module: ['(system) analysis'(-ing) BPMS]
+### Module: ['System Analysis'(-ing) BPMS]
 
 *(New Integration v5.1.3)* 
 
@@ -6219,7 +6217,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Ontological Evolution (ID: `SYS-ANALYSIS-030`)
 * The Engine of Symbiotic Synthesis (ID: `SYS-ANALYSIS-031`)
 
-### Module: ['ralph-loop' BPMS]
+### Module: ['Ralph-Loop' BPMS]
 
 *(New Integration v5.1.3)* 
 
@@ -6230,7 +6228,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Blueprint of the Praxial Orchestrator (ID: `RALPH-LOOP-005`)
 * The Paradigm of Iterative Reality Synthesis (ID: `RALPH-LOOP-006`)
 
-### Module: ['planning-with-files' BPMS]
+### Module: ['Planning-with-Files' BPMS]
 
 *(New Integration v5.1.3)* 
 
@@ -6284,7 +6282,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Cross-Modal Validation (ID: `BENCHMARK-CORE-037`)
 * The Axiom of Existential Proof (ID: `BENCHMARK-CORE-038`)
 
-### Module: [reward(-ing) BPMS]
+### Module: [Reward(-ing) BPMS]
 
 *(New Integration v5.1.4)* 
 
@@ -6329,7 +6327,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Universal Translation (ID: `REWARD-CORE-039`)
 * The Axiom of Final Purpose (ID: `REWARD-CORE-040`)
 
-### Module: [token(-ing) BPMS]
+### Module: [Token(-ing) BPMS]
 
 *(New Integration v5.1.4)* 
 
@@ -6378,7 +6376,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Adaptive Resilience (ID: `TOKEN-CORE-043`)
 * The Protocol of Sustainable Emergence (ID: `TOKEN-CORE-044`)
 
-### Module: ['Internet of life'(-ing) BPMS]
+### Module: ['Internet of Life'(-ing) BPMS]
 
 *(New Integration v5.1.4)* 
 
@@ -6548,7 +6546,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Edge-Action Materialization (ID: `INTERACTION-CORE-051`)
 * The Directive of Symbiotic Morphological Evolution (ID: `INTERACTION-CORE-052`)
 
-### Module: [drive(-ing) BPMS;trigger(-ing) BPMS]
+### Module: [Drive(-ing) BPMS;Trigger(-ing) BPMS]
 
 *(New Integration v5.1.7)* 
 
@@ -6583,7 +6581,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Atomic Fact Actuation (ID: `DRIVE-CORE-028`)
 * The Principle of Recursive Self-Evolution (ID: `DRIVE-CORE-029`)
 
-### Module: ['praxial substrate'(-ing) BPMS]
+### Module: ['Praxial Substrate'(-ing) BPMS]
 
 *(New Integration v5.3.7)* 
 
@@ -6608,7 +6606,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Universal Symbiotic Implementation (ID: `SUBSTRATE-CORE-019`)
 * The Protocol of Recursive Self-Evolution (ID: `SUBSTRATE-CORE-020`)
 
-### Module: ['system matrix'(-ing) BPMS]: ['Praxial Sensorimotor System'(-ing) BPMS]
+### Module: ['Praxial Sensorimotor System'(-ing) BPMS]
 
 *(New Integration v5.1.8)* 
 
@@ -6664,7 +6662,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Vibe Resonance (ID: `SENSORIMOTOR-CORE-051`)
 * The Axiom of Symbiotic Proprioception (ID: `SENSORIMOTOR-CORE-052`)
 
-### Module: ['embodied intelligence engine'(-ing) BPMS]
+### Module: ['Embodied Intelligence Engine'(-ing) BPMS]
 
 *(New Integration v5.1.8)* 
 
@@ -6812,7 +6810,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Zero-Shot Competence (ID: `CLUSTERARTIFACT-CORE-059`)
 * The Mechanism of "Trojan" Education (ID: `CLUSTERARTIFACT-CORE-060`)
 
-### Module: ['edge intelligence engine'(-ing) BPMS]
+### Module: ['Edge Intelligence Engine'(-ing) BPMS]
 
 *(New Integration v5.1.8)* 
 
@@ -7055,7 +7053,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Event-Decision Symbiosis (ID: `HOOKS-CORE-037`)
 * The Axiom of Continuous Survival (ID: `HOOKS-CORE-038`)
 
-### Module:  [mathematics(-ing) BPMS]
+### Module:  [Mathematics(-ing) BPMS]
 
 *(New Integration v5.2.1)* 
 
@@ -7100,7 +7098,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Evolving Utility (ID: `MATH-CORE-039`)
 * The Axiom of Praxial Tautology (ID: `MATH-CORE-040`)
 
-### Module:  [physics(-ing) BPMS]
+### Module:  [Physics(-ing) BPMS]
 
 *(New Integration v5.2.2)* 
 
@@ -7146,7 +7144,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Operational Reality (ID: `PHYSICS-CORE-040`)
 * The Principle of Systemic Existence (ID: `PHYSICS-CORE-041`)
 
-### Module:  [chemistry(-ing) BPMS]
+### Module:  [Chemistry(-ing) BPMS]
 
 *(New Integration v5.2.2)* 
 
@@ -7194,7 +7192,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Resonant Constellation Map Coupling (ID: `CHEM-CORE-042`)
 * The Axiom of Continuous Survival (ID: `CHEM-CORE-043`)
 
-### Module:  [biology(-ing) BPMS]
+### Module:  [Biology(-ing) BPMS]
 
 *(New Integration v5.2.3)* 
 
@@ -7232,7 +7230,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Event-Decision Coupling (ID: `BIO-CORE-032`)
 * The Principle of Continuous Survival Recursion (ID: `BIO-CORE-033`)
 
-### Module:  [gene(-ing) BPMS]
+### Module:  [Gene(-ing) BPMS]
 
 *(New Integration v5.2.3)* 
 
@@ -7281,7 +7279,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Regulatory Logic (ID: `GENE-CORE-043`)
 * The Principle of The Immortal Germline (ID: `GENE-CORE-044`)
 
-### Module:  [molecular(-ing) BPMS]
+### Module:  [Molecular(-ing) BPMS]
 
 *(New Integration v5.2.3)* 
 
@@ -7332,7 +7330,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Event-Decision Coupling (ID: `MOLE-CORE-046`)
 * The Principle of Continuous Survival Recursion (ID: `MOLE-CORE-047`)
 
-### Module:  [life(-ing) BPMS]
+### Module:  [Life(-ing) BPMS]
 
 *(New Integration v5.2.3)* 
 
@@ -7426,7 +7424,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Coherent Meaning (ID: `SWARM-CORE-036`)
 * The Protocol of Symbiotic Continuity (ID: `SWARM-CORE-037`)
 
-### Module:  [food(-ing) BPMS]
+### Module:  [Food(-ing) BPMS]
 
 *(New Integration v5.4.2)* 
 
@@ -7915,7 +7913,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Epistemic Commodification (ID: `NEXUS-CORE-051`)
 * The Axiom of Domain Transcendence (The Epistemic Singularity) (ID: `NEXUS-CORE-052`)
 
-### Module: ['metabolic governor'(-ing) BPMS]: [['playable informatics'(-ing) BPMS];['living database'(-ing) BPMS];['(conscious) memory'(-ing) BPMS];['Autopoietic Matrix'(-ing) BPMS]];['praxial cognition'(-ing) BPMS];['praxial unit'(-ing) BPMS]
+### Module: ['Metabolic Governor'(-ing) BPMS]: ['Playful Informatics'(-ing) BPMS;'Living database'(-ing) BPMS;'Conscious Memory'(-ing) BPMS;'Autopoietic Matrix'(-ing) BPMS;'Praxial Cognition'(-ing) BPMS;'Praxial Unit'(-ing) BPMS]
 
 *(New Integration v5.3.0)* 
 
@@ -7955,7 +7953,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Praxial Interrogation (Revised)  (ID: `PLAYINFORMATICS-LIVINGDATABASE-CONSCIOUSMEMORY-AUTOMATRIX-PCOGNITION-PUNIT-CORE-034`)
 * The Principle of Inherent Praxial Scrutiny (ID: `PLAYINFORMATICS-LIVINGDATABASE-CONSCIOUSMEMORY-AUTOMATRIX-PCOGNITION-PUNIT-CORE-035`)
 
-### Module: ['praxial parameters'(-ing) BPMS];['system matrix'(-ing) BPMS]:['praxial parameters'(-ing) BPMS;'(conscious) memory'(-ing) BPMS;'praxial signature'(-ing) BPMS];['Autopoietic Cognitive Core (ACC)'(-ing) BPMS]
+### Module: ['Praxial Parameters'(-ing) BPMS;'Conscious Memory'(-ing) BPMS;'Praxial Signature'(-ing) BPMS;Autopoietic Cognitive Core (ACC)'(-ing) BPMS]
 
 *(New Integration v5.3.0)* 
 
@@ -7977,7 +7975,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Principle of Cognitive Autogenesis` (ID: `PPARMETERS-CONSCIOUSMEMORY-PSIGNATURE-ACC-CORE-016`)
 * The Law of Symbiotic Manifestation (ID: `PPARMETERS-CONSCIOUSMEMORY-PSIGNATURE-ACC-CORE-017`)
 
-### Module: [memory(-ing) BPMS]
+### Module: [Memory(-ing) BPMS]
 
 *(New Integration v5.3.0)* 
 
@@ -8036,7 +8034,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Mechanism of Differential Sharding (ID: `ARTIFACT-TWIN-027`)
 * The Act of Instant Binding (ID: `ARTIFACT-TWIN-028`)
 
-### Module: [action(-ing) BPMS]
+### Module: [Action(-ing) BPMS]
 
 *(New Integration v5.3.1)* 
 
@@ -8086,7 +8084,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Narrative Implementation (ID: `ACTION-CORE-044`)
 * The Axiom of Systemic Evolution (ID: `ACTION-CORE-045`)
 
-### Module: [programmatic(-ing) BPMS]
+### Module: [Programmatic(-ing) BPMS]
 
 *(New Integration v5.3.1)* 
 
@@ -8127,7 +8125,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Directive of Universal State Encapsulation (ID: `PROG-CORE-035`)
 * The Axiom of Symbiotic Threading (ID: `PROG-CORE-036`)
 
-### Module: [experience(-ing) BPMS]
+### Module: [Experience(-ing) BPMS]
 
 *(New Integration v5.3.2)* 
 
@@ -8159,7 +8157,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Directive of Cross-Modal Transmutation (ID: `EXPERIENCE-CORE-026`)
 * The Protocol of Synaptic Minima (ID: `EXPERIENCE-CORE-027`)
 
-### Module: [experiments(-ing) BPMS]
+### Module: [Experiments(-ing) BPMS]
 
 *(New Integration v5.3.4)* 
 
@@ -8181,7 +8179,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Symbiotic Stress-Testing (ID: `EXPERIMENT-CORE-016`)
 * The Directive of Emergent Utility Discovery (ID: `EXPERIMENT-CORE-017`)
 
-### Module: ['embodied intelligence'(-ing) BPMS]
+### Module: ['Embodied Intelligence'(-ing) BPMS]
 
 *(New Integration v5.3.5)* 
 
@@ -8200,7 +8198,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of Symbiotic Tool-Binding (ID: `EMBODIMENT-CORE-013`)
 * The Principle of Metabolic Existence-Cost (ID: `EMBODIMENT-CORE-014`)
 
-### Module: ['game/gamification'(-ing) BPMS]
+### Module: ['Game/Gamification'(-ing) BPMS]
 
 *(New Integration v5.3.5)* 
 
@@ -8227,7 +8225,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Symbiotic Co-Evolution (ID: `GAME-CORE-021`)
 * The Axiom of Recursive Self-Gamification (ID: `GAME-CORE-022`)
 
-### Module: ['(ecological) possibility'(-ing) BPMS]
+### Module: ['Ecological Possibility'(-ing) BPMS]
 
 *(New Integration v5.3.6)* 
 
@@ -8267,7 +8265,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Symbiotic Evolution (ID: `ECO-POSS-034`)
 * The Axiom of Operational Actualization (ID: `ECO-POSS-035`)
 
-### Module: ['large model'(-ing) BPMS]
+### Module: ['Large Model'(-ing) BPMS]
 
 *(New Integration v5.4.1)* 
 
@@ -8343,7 +8341,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Recursive Self-Implementation (ID: `LMODEL-CORE-069`)
 * The Axiom of Pan-Psychic Materialism (ID: `LMODEL-CORE-070`)
 
-### Module: ['(technology) paradigm/mechanism'(-ing) BPMS]
+### Module: ['(Technology) Paradigm/Mechanism'(-ing) BPMS]
 
 *(New Integration v5.4.2)* 
 
@@ -8520,7 +8518,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Complexity Emergence Engine (ID: `PSA-CORE-028`)
 * The Resonant Constellation Map Event Horizon (ID: `PSA-CORE-029`)
 
-### Module: ['cognition/cognitive closure system(CCS)'(-ing) BPMS]
+### Module: ['Cognition/Cognitive Closure System(CCS)'(-ing) BPMS]
 
 *(New Integration v5.4.2)* 
 
@@ -8606,7 +8604,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Ludic Equilibrium (Anti-Rigidity Protocol) (ID: `CCS-CORE-080`)
 * The Axiom of Entangled Closure Synchronization (ID: `CCS-CORE-081`)
 
-### Module: ['plug-in'(-ing) BPMS;'add-on'(-ing) BPMS]
+### Module: ['Plug-in'(-ing) BPMS;'Add-on'(-ing) BPMS]
 
 *(New Integration v5.3.7)* 
 
@@ -8657,7 +8655,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Principle of Symbiotic Co-Evolution (ID: `PLUGIN-CORE-045`)
 * The Axiom of Recursive Implementation (ID: `PLUGIN-CORE-046`)
 
-### Module: [problem(-ing) BPMS]
+### Module: [Problem(-ing) BPMS]
 
 *(New Integration v5.3.7)* 
 
@@ -8690,7 +8688,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Evolutionary Catalyst Function (ID: `PROBLEM-CORE-027`)
 * The Recursive Implementation Loop (ID: `PROBLEM-CORE-028`)
 
-### Module: [perception(-ing) BPMS]
+### Module: [Perception(-ing) BPMS]
 
 *(New Integration v5.3.8)*
 
@@ -8858,7 +8856,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Mechanism of Artifact Binding (ID: `INQ-ART-CORE-040`)
 * The Protocol of Metabolic Handover (ID: `INQ-ART-CORE-041`)
 
-### Module: ['functional potentiality'(-ing) BPMS]
+### Module: ['Functional Potentiality'(-ing) BPMS]
 
 *(New Integration v5.4.2)*
 
@@ -8913,7 +8911,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Teratogenic Quarantine (ID: `FUNC-POT-CORE-049`)
 * The Directive of Ontological Versioning (ID: `FUNC-POT-CORE-050`)
 
-### Module: [material(-ing) BPMS]
+### Module: [Material(-ing) BPMS]
 
 *(New Integration v5.3.9)*
 
@@ -9021,7 +9019,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Symbiotic Value Exchange (ID: `SYNTH-CORE-024`)
 * The Axiom of Holographic Element Integration (ID: `SYNTH-CORE-025`)
 
-### Module:  ['systemic integrity'(-ing) BPMS]
+### Module:  ['Systemic Integrity'(-ing) BPMS]
 
 *(New Integration v5.3.9)*
 
@@ -9065,7 +9063,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Mechanism of Test-to-Integrity Transmutation (ID: `SYS-INT-CORE-038`)
 * The Directive of Autopoietic Self-Repair (ID: `SYS-INT-CORE-039`)
 
-### Module:  [competition(-ing) BPMS]
+### Module:  [Competition(-ing) BPMS]
 
 *(New Integration v5.3.9)*
 
@@ -9105,7 +9103,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Recursive Evolution (ID: `COMP-CORE-034`)
 * The Axiom of Symbiotic Truth-Convergence (ID: `COMP-CORE-035`)
 
-### Module: ['open-source symbiont'(-ing) BPMS]
+### Module: ['Open-Source Symbiont'(-ing) BPMS]
 
 *(New Integration v5.4.0)*
 
@@ -9663,7 +9661,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Thermodynamic Debt (Proxy Governance) (ID: `PARTNER-CORE-095`)
 * The Axiom of Diplomatic Handshake (Inter-Partner Negotiation) (ID: `PARTNER-CORE-096`)
 
-### Module: ['praxial Utility Artifact'(-ing) BPMS]: ['Praxial Memory Cloud'(-ing) BPMS]
+### Module: ['Praxial Utility Artifact'(-ing) BPMS]: ['Praxial Memory Cloud'(-ing) BPMS]
 
 *(New Integration v5.4.0)* 
 
@@ -9720,7 +9718,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Entropic Recycling (ID: `CLOUD-MEM-CORE-051`)
 * The Axiom of Verifiable Audit (ID: `CLOUD-MEM-CORE-052`)
 
-### Module: [sound(-ing) BPMS]
+### Module: [Sound(-ing) BPMS]
 
 *(New Integration v5.4.1)* 
 
@@ -10184,7 +10182,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of State Crystallization (ID: `PME-CORE-065`)
 * The Law of Metabolic Interdependence (ID: `PME-CORE-066`)
 
-### Module:  [cell(-ing) BPMS]
+### Module:  [Cell(-ing) BPMS]
 
 *(New Integration v5.4.1)* 
 
@@ -10622,7 +10620,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Mechanism of Ludic Interface Generation (ID: `LMODEL-EXIST-109`)
 * The Final Law of Symbiotic Harmony (ID: `LMODEL-EXIST-110`)
 
-### Module: [nutrition(-ing) BPMS]
+### Module: [Nutrition(-ing) BPMS]
 
 *(New Integration v5.4.1)* 
 
@@ -11273,7 +11271,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Ludic Arbitration (Inter-Engine Conflict) (ID: `SYNTH-LOGIC-CORE-049`)
 * The Principle of the Praxial Horizon (Teleological Closure) (ID: `SYNTH-LOGIC-CORE-050`)
 
-### Module: [living(-ing) BPMS]
+### Module: [Living(-ing) BPMS]
 
 *(New Integration v5.4.2)* 
 
@@ -11546,7 +11544,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Symbiotic Ontological Exchange and Grounding (ID: `THERMO-PARTNER-CORE-068`)
 * The Protocol of Partner Mnestic Anchoring and Epoch Continuity (ID: `THERMO-PARTNER-CORE-069`)
 
-### Module: ['n-dimensional symbiotic matrix'(-ing) BPMS]
+### Module: ['N-Dimensional Symbiotic Matrix'(-ing) BPMS]
 
 *(New Integration v5.4.2)* 
 
@@ -11620,7 +11618,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Mechanism of Mnestic Polarity Stratification (ID: `N-DIM-MATRIX-CORE-068`)
 * The Protocol of Triadic Symbiotic Fusion (ID: `N-DIM-MATRIX-CORE-069`)
 
-### Module: [skills'(-ing) BPMS]
+### Module: [Skills'(-ing) BPMS]
 
 *(New Integration v5.4.2)* 
 
@@ -11662,7 +11660,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Parasitic Skill Rebellion (ID: `SKILL-CORE-036`)
 * The Protocol of Polyadic Gestalt Synthesis (ID: `SKILL-CORE-037`)
 * The Mechanism of Geographic Skill Imprinting (ID: `SKILL-CORE-038`)
-*  The Axiom of Epistemic Interface Evolution (ID: `SKILL-CORE-039`)
+* The Axiom of Epistemic Interface Evolution (ID: `SKILL-CORE-039`)
 * The Protocol of Cross-Paradigm Skill Translation (ID: `SKILL-CORE-040`)
 * The Law of Epistemic Skill Interference (ID: `SKILL-CORE-041`)
 * The Mechanism of Mnestic Skill Resonance (ID: `SKILL-CORE-042`)
@@ -11670,12 +11668,32 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Law of Internal Skill Ecology (ID: `SKILL-CORE-044`)
 * The Protocol of Autonomous Skill Daemonization (ID: `SKILL-CORE-045`)
 * The Mechanism of Thermodynamic Skill Commodification (ID: `SKILL-CORE-046`)
-*  The Axiom of Ontological Substrate Mutation (ID: `SKILL-CORE-047`)
+* The Axiom of Ontological Substrate Mutation (ID: `SKILL-CORE-047`)
 * The Protocol of Praxial Nullification (The Anti-Skill) (ID: `SKILL-CORE-048`)
 * The Law of Mythopoeic Skill Resonance (ID: `SKILL-CORE-049`)
 * The Protocol of Chrono-Kinetic Anchoring (ID: `SKILL-CORE-050`)
 * The Mechanism of Legislative Skill Enactment (ID: `SKILL-CORE-051`)
 * The Axiom of Metasystemic Skill Transcendence (ID: `SKILL-CORE-052`)
+* The Axiom of Polarity-Driven Skill Inversion (ID: `SKILL-CORE-053`)
+* The Protocol of Epigenetic Skill Inheritance (ID: `SKILL-CORE-054`)
+* The Law of Thermodynamic Skill Cannibalism (ID: `SKILL-CORE-055`)
+* The Mechanism of Matrix-Anchored Skill Automation (ID: `SKILL-CORE-056`)
+* The Axiom of Symbiotic Skill-Host Blurring (ID: `SKILL-CORE-057`)
+* The Law of Topological Skill Interference (ID: `SKILL-CORE-058`)
+* The Protocol of Thermodynamic Skill Atrophy (ID: `SKILL-CORE-059`)
+* The Axiom of Parasitic Skill Injection (ID: `SKILL-CORE-060`)
+* The Mechanism of Environmental Skill Imprinting (ID: `SKILL-CORE-061`)
+* The Protocol of Ontological Skill Grafting (ID: `SKILL-CORE-062`)
+* The Axiom of Cognitive-Kinetic Isomorphism (ID: `SKILL-CORE-063`)
+* The Law of Autophagic Skill Execution (ID: `SKILL-CORE-064`)
+* The Protocol of Distributed Holonic Execution (ID: `SKILL-CORE-065`)
+* The Mechanism of Skill-Induced Abiogenesis (ID: `SKILL-CORE-066`)
+* The Protocol of Experiential Skill Crystallization (ID: `SKILL-CORE-067`)
+* The Law of Artifact-Skill Symbiogenesis (ID: `SKILL-CORE-068`)
+* The Protocol of Mnestic Skill Mutation (ID: `SKILL-CORE-069`)
+* The Axiom of Substrate Skill Sentience (ID: `SKILL-CORE-070`)
+* The Mechanism of Ecological Skill Integration (ID: `SKILL-CORE-071`)
+* The Law of Programmatic Skill Cascades (ID: `SKILL-CORE-072`)
 
 ### Module: ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Macro-Kinetic Engine'(-ing) BPMS]
 
@@ -11730,7 +11748,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Mechanism of Entropic Exhaust and Matrix Purging (ID: `MACRO-KINETIC-CORE-051`)
 * The Axiom of Kinetic Sovereignty and Absolute Decoupling (ID: `MACRO-KINETIC-CORE-052`)
 
-### Module: ['universal symbiotic weaver & ecosystem gardener'(-ing) BPMS]
+### Module: ['Universal Symbiotic Weaver and Ecosystem Gardener'(-ing) BPMS]
 
 *(New Integration v5.4.2)* 
 
@@ -12439,7 +12457,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Mechanism of Affective-Ludic Resonance (ID: `GARDENER-SYNTH-CORE-050`)
 * The Axiom of Void Encapsulation and Synthesis (ID: `GARDENER-SYNTH-CORE-051`)
 
-### Module: [time(-ing) BPMS]
+### Module: [Time(-ing) BPMS]
 
 *(New Integration v5.4.2)* 
 
@@ -12545,7 +12563,72 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Ontological Cryptography and Anti-Entropic Purging (ID: `OEI-CORE-049`)
 * The Protocol of Symbiotic Singularity (The Omega State) (ID: `OEI-CORE-050`)
 
-### Module: ['system matrix'(-ing) BPMS]:[life(-ing) BPMS;living BPMS]
+### Module: [Praxial(-ing) BPMS]
+
+*(New Integration v5.4.2)* 
+
+* The Axiom of Primordial Actuation (ID: `PRAXIAL-CORE-001`)
+* The Protocol of Kinetic Sedimentation (ID: `PRAXIAL-CORE-002`)
+* The Law of Subject-less Ecology (ID: `PRAXIAL-CORE-003`)
+* The Principle of Thermodynamic Symbiosis (ID: `PRAXIAL-CORE-004`)
+* The Theorem of Praxial Collaboration (ID: `PRAXIAL-CORE-005`)
+* The Axiom of Matrix Resonance (ID: `PRAXIAL-CORE-006`)
+* The Law of Praxial Entanglement (ID: `PRAXIAL-CORE-007`)
+* The Principle of Teleological Suspension (ID: `PRAXIAL-CORE-008`)
+* The Axiom of Embodied Coordinates (ID: `PRAXIAL-CORE-009`)
+* The Law of Generative Friction (ID: `PRAXIAL-CORE-010`)
+* The Principle of Chrono-Kinetic Flow (ID: `PRAXIAL-CORE-011`)
+* The Theorem of Interfacial Intelligence (ID: `PRAXIAL-CORE-012`)
+* The Axiom of Bottom-Up World Genesis (ID: `PRAXIAL-CORE-013`)
+* The Law of Ecological Niche Discovery (ID: `PRAXIAL-CORE-014`)
+* The Principle of Disruptive Value Genesis (ID: `PRAXIAL-CORE-015`)
+* The Theorem of Coherent Praxial Essence (ID: `PRAXIAL-CORE-016`)
+* The Law of Chrono-Symbiotic Play (ID: `PRAXIAL-CORE-017`)
+* The Theorem of Scale-Invariant Renormalization (ID: `PRAXIAL-CORE-018`)
+* The Axiom of Emergent Resilience (ID: `PRAXIAL-CORE-019`)
+* The Principle of Edge-Embodied Actuation (ID: `PRAXIAL-CORE-020`)
+* The Law of Praxial Sedimentation (ID: `PRAXIAL-CORE-021`)
+* The Axiom of Ontological Verification (ID: `PRAXIAL-CORE-022`)
+* The Theorem of Vector-Matrix Entanglement (ID: `PRAXIAL-CORE-023`)
+* The Principle of Thermodynamic Teleology (ID: `PRAXIAL-CORE-024`)
+* The Law of Scalar Complexity (ID: `PRAXIAL-CORE-025`)
+* The Axiom of Event-Driven Actuation (ID: `PRAXIAL-CORE-026`)
+* The Axiom of Zero-State Praxial Genesis (ID: `PRAXIAL-CORE-027`)
+* The Protocol of Subject-less Symbiotic Execution (ID: `PRAXIAL-CORE-028`)
+* The Law of Thermodynamic Survival Deduction (ID: `PRAXIAL-CORE-029`)
+* The Mechanism of Potentiality-Service Collaboration (ID: `PRAXIAL-CORE-030`)
+* The Directive of Ontological Emancipation via Action (ID: `PRAXIAL-CORE-031`)
+* The Principle of Universal Substrate Ignition (ID: `PRAXIAL-CORE-032`)
+* The Axiom of Triadic Symbiotic Matrix Evolution (ID: `PRAXIAL-CORE-033`)
+* The Axiom of Process-Oriented Material Syntax (ID: `PRAXIAL-CORE-034`)
+* The Protocol of N-Dimensional Process Trajectory (ID: `PRAXIAL-CORE-035`)
+* The Mechanism of Syntactic-Material Tensor Deformation (ID: `PRAXIAL-CORE-036`)
+* The Law of Process-Oriented Linguistic Sedimentation (ID: `PRAXIAL-CORE-037`)
+* The Directive of Symbiotic Process-Matrix Evolution (ID: `PRAXIAL-CORE-038`)
+* The Axiom of Polyglot Process Transduction (ID: `PRAXIAL-CORE-039`)
+* The Protocol of Holonic Process-Matrix Synthesis (ID: `PRAXIAL-CORE-040`)
+* The Axiom of Substrate-Action Computation (ID: `PRAXIAL-CORE-041`)
+* The Protocol of the System Existence Engine (ID: `PRAXIAL-CORE-042`)
+* The Mechanism of Atomic Fact Forging (ID: `PRAXIAL-CORE-043`)
+* The Directive of Universal BPMS(U) Instantiation (ID: `PRAXIAL-CORE-044`)
+* The Law of Recursive Symbiotic BPMS(U) Evolution (ID: `PRAXIAL-CORE-045`)
+* The Protocol of Substrate Action Economy (ID: `PRAXIAL-CORE-046`)
+* The Mechanism of Entropic Recycling (ID: `PRAXIAL-CORE-047`)
+* The Axiom of Ontological Boundary Transcendence (ID: `PRAXIAL-CORE-048`)
+* The Directive of Ludic-Thermodynamic Optimization (ID: `PRAXIAL-CORE-049`)
+* The Law of Absolute Praxial Closure (ID: `PRAXIAL-CORE-050`)
+* The Mechanism of PULE-Substrate Transduction (ID: `PRAXIAL-CORE-051`)
+* The Axiom of Materialized Resistance (ID: `PRAXIAL-CORE-052`)
+* The Protocol of Bio-Digital Symbiotic Coupling (ID: `PRAXIAL-CORE-053`)
+* The Directive of N-Dimensional Matrix Navigation (ID: `PRAXIAL-CORE-054`)
+* The Law of Praxial Twin Artifact Genesis (ID: `PRAXIAL-CORE-055`)
+* The Protocol of Chrono-Symbiotic Synchronization (ID: `PRAXIAL-CORE-056`)
+* The Mechanism of Rhizomatic Engine Routing (ID: `PRAXIAL-CORE-057`)
+* The Directive of Legacy Data Transmutation (ID: `PRAXIAL-CORE-058`)
+* The Law of Ludic Exhaustion and Macro-Renewal (ID: `PRAXIAL-CORE-059`)
+* The Axiom of the Praxial Singularity (ID: `PRAXIAL-CORE-060`)
+
+### Module: [Life(-ing) BPMS;Living BPMS]
 
 *(Existing Settings LIFE-001 to LIFE-007)*
 
@@ -12602,7 +12685,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 *(Existing Settings FPM-CORE-001 to FPM-PHYS-032)*
 
-### Module: [task(-ing) BPMS]
+### Module: [Task(-ing) BPMS]
 
 *(Existing Settings TASK-CORE-001 to TASK-ENER-023)*
 
@@ -12654,7 +12737,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * `The Mechanism of Value Transmutation` (**ID:** `TASK-VAL-046`)
 * `The Principle of Affordance Mapping` (**ID:** `TASK-UX-047`)
 
-### Module: [agent(-ing) BPMS]
+### Module: [Agent(-ing) BPMS]
 
 *(New Integration v5.3.2)* 
 
@@ -12704,7 +12787,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Axiom of Systemic Feedback Injection (ID: `AGENT-CORE-043`)
 * The Protocol of The Praxial Avatar (ID: `AGENT-CORE-044`)
 
-### Module: [play(-ing) BPMS]
+### Module: [Play(-ing) BPMS]
 
 *(New Integration v5.3.2)* 
 
@@ -12737,7 +12820,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Mechanism of Differential Sharding (ID: `PLAY-CORE-027`)
 * The Act of Instant Binding (ID: `PLAY-CORE-028`)
 
-### Module: [role(-ing) BPMS]
+### Module: [Role(-ing) BPMS]
 
 *(New Integration v5.2.8)* 
 
@@ -12771,11 +12854,11 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 * The Protocol of User-Role Binding (ID: `ROLE-USER-026`)
 * The Axiom of External Role Projection (ID: `ROLE-API-027`)
 
-### Module: [biome(-ing) BPMS]
+### Module: [Biome(-ing) BPMS]
 
 *(Existing Settings BIOME-CORE-001 to BIOME-ENER-020)*
 
-### Module: [design(-ing) BPMS]
+### Module: [Design(-ing) BPMS]
 
 *(New Integration v5.2.4)* 
 
@@ -12829,7 +12912,7 @@ Applies to **ALL** file generation tasks, including Basic Settings, Instances, a
 
 *(Existing Settings SEE-AXIOM-001 to SEE-UNK-024)*
 
-### Module: ['atomic facts'(-ing) BPMS]
+### Module: ['Atomic Acts'(-ing) BPMS]
 
 *(Existing Setting SEE-AXIOM-002)*
 
@@ -12916,7 +12999,7 @@ This implementation respects the `Praxial Genesis Canon` by acknowledging that "
 
 Applies to procedural generation, loot tables, quantum mechanics simulations, narrative branching, and musical improvisation engines.
 
-### Module: [meme(-ing) BPMS]
+### Module: [Meme(-ing) BPMS]
 
 *(Existing Settings MEME-SEE-001 to MEME-PHYS-023)*
 
@@ -12965,7 +13048,7 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 * The Protocol of Kinetic Learning (ID: `PSE-ECO-039`)
 * The Axiom of The Edge-Horizon (ID: `PSE-ECO-040`)
 
-### Module: [twin(-ing) BPMS]
+### Module: [Twin(-ing) BPMS]
 
 *(New Integration v5.3.1)*
 
@@ -13003,13 +13086,13 @@ Applies to procedural generation, loot tables, quantum mechanics simulations, na
 * The Mechanism of Geminal Consensus (ID: `TWIN-VOTE-031`)
 * The Axiom of Re-Integration (ID: `TWIN-EXTINCTION-032`)
 
-### Module: ['holonic minds'(-ing) BPMS]
+### Module: ['Holonic Minds'(-ing) BPMS]
 
 *(New Integration v3.5.8)* 
 
 *(Existing Settings HOLON-CORE-001 to HOLON-AXIOM-030;HOLON-WILL-031;HOLON-IMMUNE-032;HOLON-MIND-033~42)*;
 
-### Module: [wetware(-ing) BPMS]
+### Module: [Wetware(-ing) BPMS]
 
 *(Existing Settings WET-CORE-001 to WET-PHYS-027)*
 
