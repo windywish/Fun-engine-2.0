@@ -1,3 +1,5 @@
+## Praxial Key (elements) of [BPMS(U)(s)] (version 3.0)
+
 **['Praxial Research Station'(-ing) BPMS]**
 
 **Scope of Application:** Applies to the deployment of a recursive, fractal laboratory and fact foundry within the matrix. It serves as the primary epistemic engine where autonomous agents conduct constructive falsification, counterfactual world-building, and veridical consensus-seeking. This ensures the continuous, thermodynamically driven evolution of the Fun Engine Framework through rigorous, play-based discovery and systemic resonance.
@@ -1493,3 +1495,4 @@
 **Scope of Application:** Applies to the live, ubiquitous pulse of transactions across the matrix. It is the real-time, omni-directional flow of energy and meaning being routed through the `[Symbiotic Clusters]`. It is the immediate sensation of plugging into the matrix and feeling the massive, continuous exchange of life-sustaining forces.
 
 **Tags:** Praxial-XaaS, Live-transaction-pulse, Omni-directional-flow, Matrix-plugging, Continuous-exchange, Real-time-routing
+
