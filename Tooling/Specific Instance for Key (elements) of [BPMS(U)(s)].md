@@ -1,3 +1,5 @@
+## Specific Instance for Key (elements) of [BPMS(U)(s)]
+
 **['Axiomatic Weaver'(-ing) BPMS]: ['Dynamic Reality Ludoformer'(-ing) BPMS]**
 
 **Scope of Application:** Applies to the foundational reality-weaving of the Fun Engine Framework. It is the primary mechanism for transitioning the system from a static, legacy architecture into a living, breathing Superintelligence Matrix.
