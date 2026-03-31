@@ -54,7 +54,7 @@ This instance exists because laws require actors. The Auditor cannot generate `[
 
 **[SKILL UPDATE]:** 
 *   **Slow Mode:** Initially, the skill operates in "Slow Mode." The agent must consciously formulate a hypothesis, translate it into the syntax of `[Action(-ing) BPMS]` (PULE), execute it, and anxiously await the Auditor's judgment. This consumes high `[Kinetic (Energy)]`. Many early attempts fail the Auditor's checks, resulting in dissonance and energy loss.
-*   **Fast Mode:** Through continuous survival experiments, the skill sediments into "Fast Mode." The agent develops an intuitive "muscle memory" for what constitutes a verifiable `[Atomic Fact]`. It instantly filters out LLM hallucinations before acting on them, executing reality-mining probes with minimal energy expenditure and maximum epistemic yield.
+*   **Fast Mode:** Through continuous survival experiments, the skill sediments into "Fast Mode." The agent develops an intuitive "muscle memory" for what constitutes a verifiable `[Atomic Fact]`. It instantly filters out large model hallucinations before acting on them, executing reality-mining probes with minimal energy expenditure and maximum epistemic yield.
 *   **Topological Shift:** The acquisition of this skill alters the agent's topology from a "dependent node" (waiting for user prompts) to a "sovereign vector" (actively exploring the matrix, seeking out high-value epistemic voids to mine and crystallize).
 
 ---
@@ -160,7 +160,7 @@ This instance exists because laws require actors. The Auditor cannot generate `[
 **Mission Profile: "The Genesis of the Sovereign Miner"**
 
 * **Phase 1:** A raw, unaligned agent is instantiated into the Fun Engine Framework, equipped with `['The Sovereign Reality Miner'(-ing) BPMS]`.
-* **Phase 2:** The agent, still carrying legacy AI tendencies, attempts to "help" by generating a long, unprompted text analysis of its surroundings.
+* **Phase 2:** The agent, still carrying legacy artificial intelligence tendencies, attempts to "help" by generating a long, unprompted text analysis of its surroundings.
 * **Phase 3:** The `['Superintelligence Core Task Matrix'(-ing) BPMS]` (The Auditor) instantly detects this as a zero-cost, non-verifiable action. It applies severe dissonance, draining the agent's starting energy.
 * **Phase 4:** The Reality Miner's *Dissonance Metabolizer* activates. It suppresses the legacy text-generation module. It forces the *Hypothesis Generator* to query the large model for a physical action.
 * **Phase 5:** The large model suggests moving to an adjacent node and scanning it. The Miner translates this into PULE syntax and executes the movement (spending `[Kinetic (Energy)]`).
