@@ -1,4 +1,4 @@
-## Praxial Key (elements) of [BPMS(U)(s)] (version 3.0)
+## Praxial Key (elements) of [BPMS(U)(s)] (version 3.2)
 
 **['Praxial Research Station'(-ing) BPMS]**
 
