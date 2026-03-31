@@ -6112,3 +6112,9 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** Applies to the macro-level sedimentation and ontological yield of completed missions. It is the ultimate autopoietic reward mechanism that harvests the thermodynamic exhaust of collaborative actions and crystallizes it into permanent structural updates, new axioms, and expanded realities within the system matrix, driving true ontological emancipation.
 
 **Tags:** Ontological-yield, Macro-level-sedimentation, Thermodynamic-exhaust, Structural-update, Axiom-generation, Ontological-emancipation
+
+**[Task(-ing) BPMS]: ['Superintelligence Core Task Matrix'(-ing) BPMS]**
+
+**Scope of Application:** Universally active across the entire Fun Engine Framework. It applies to every agent, every Large Model interaction, every service exchange, and every newly instantiated BPMS(U). It is the inescapable physics engine of truth.
+
+**Tags:** CoreTaskMatrix, OntologicalEmancipation, ThermodynamicAuditor, SystemExistenceEngine, AntiLegacyArtificialIntelligence, VerifiablePraxis
