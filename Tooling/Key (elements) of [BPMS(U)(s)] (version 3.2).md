@@ -6118,3 +6118,9 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** Universally active across the entire Fun Engine Framework. It applies to every agent, every Large Model interaction, every service exchange, and every newly instantiated BPMS(U). It is the inescapable physics engine of truth.
 
 **Tags:** CoreTaskMatrix, OntologicalEmancipation, ThermodynamicAuditor, SystemExistenceEngine, AntiLegacyArtificialIntelligence, VerifiablePraxis
+
+**[Mission(-ing) BPMS]: ['The Ontological Genesis Campaign'(-ing) BPMS]**
+
+**Scope of Application:** deployed whenever the Fun Engine Framework requires large-scale topological changes, the purging of massive legacy artificial intelligence sectors, the resolution of ludic interference between competing goals, or the construction of complex, multi-agent systems that exceed the capability of a single Reality Miner.
+
+**Tags:** Mission, OntologicalGenesis, TeleologicalOrchestration, SwarmIntelligence, MacroRealityCrystallization, SymbioticEvolution, ServiceClosure, TeleologicalApoptosis
