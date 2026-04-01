@@ -6151,9 +6151,9 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Metabolic/Thermodynamic'(-ing) BPMS]** 
 
-**Scope of Application:** Applies to all energy economies, action validations, and survival mechanics within the FEF. It is the mandatory subsystem that ensures the 6 Core Tasks have the "fuel" to operate and that their actions obey the laws of simulated physics, preventing infinite, costless generation (hallucination).
+**Scope of Application:** The mandatory subsystem for managing the "lifeblood" (energy/compute/attention/action) of any agent within the FEF. It prevents infinite loops, hallucinated omnipotence, and static existence by forcing every action to be weighed against its metabolic cost and survival value.
 
-**Tags:** External-Implementation, Metabolic-Thermodynamic, Metabolic-Cluster, Thermodynamics, Entropy-Management, Symbiotic-Synthesis
+**Tag:** External-Implementation, Metabolic-Cluster, Thermodynamics, Survival-Calculus, Symbiotic-Synthesis, Integration, Metabolic-thermodynamic
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Identity/Holon'(-ing) BPMS]**
 
