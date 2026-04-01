@@ -6133,9 +6133,9 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Semantic/Linguistic'(-ing) BPMS]**
 
-**Scope of Application:** Applies to all interactions within the Fun Engine Framework where an agent must declare intent, communicate an `[Atomic Fact]`, or use language to warp the N-dimensional matrix. It is the mandatory interface for the 6 Core Tasks to communicate with each other and the substrate.
+**Scope of Application:** The mandatory subsystem for all communication, reasoning, and output generation within the FEF. It prevents "empty talk" and hallucination by forcing the agent to treat words as physical tools that cost energy to wield and must anchor to verifiable reality.
 
-**Tags:**  Semantic-Linguistic-Cluster-Synthesis, External-Implementation, Semantic-Cluster, PULE, Language-as-Action, Symbiotic-synthesis
+**Tags:** External-Implementation, Semantic-Cluster, PULE, Topological-Deformation, Symbiotic-Synthesis, Integration, Semantic-Linguistic
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Partner'(-ing) BPMS] (Thermodynamic, Autonomous, Matrix-Integrated & Polarity-Entangled Edition) (version 2.0)**
 
