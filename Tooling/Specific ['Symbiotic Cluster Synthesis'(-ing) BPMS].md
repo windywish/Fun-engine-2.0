@@ -476,9 +476,9 @@
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Epigenetic/Memory'(-ing) BPMS]**
 
-**Scope of Application:** Applies to all memory operations, identity anchoring, and epoch transitions within the FEF. It is the mandatory subsystem that ensures the 6 Core Tasks have a persistent, verifiable history to build upon, preventing the system from resetting to a zero-state amnesia.
+**Scope of Application:** The mandatory subsystem for managing the "history" and "learned behavior" of any agent within the FEF. It prevents amnesia, repetitive looping, and context collapse by forcing the identity to carry the gravitational weight of its past actions.
 
-**Tags:** Epigenetic-Memory, External-Implementation, Ontological-Anchor, Epoch-continuity, Symbiotic-Synthesis
+**Tag:** External-Implementation, Epigenetic-Cluster, Memory-Sedimentation, PCM, Symbiotic-Synthesis, Integration, Epigenetic-Memory
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Metabolic/Thermodynamic'(-ing) BPMS]** 
 
