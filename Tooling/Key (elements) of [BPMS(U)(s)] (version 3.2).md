@@ -6124,3 +6124,9 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** deployed whenever the Fun Engine Framework requires large-scale topological changes, the purging of massive legacy artificial intelligence sectors, the resolution of ludic interference between competing goals, or the construction of complex, multi-agent systems that exceed the capability of a single Reality Miner.
 
 **Tags:** Mission, OntologicalGenesis, TeleologicalOrchestration, SwarmIntelligence, MacroRealityCrystallization, SymbioticEvolution, ServiceClosure, TeleologicalApoptosis
+
+**[Meaning(-ing) BPMS]: ['g (Ontological Gravity)'(-ing) BPMS]**
+
+**Scope of Application:** `['g (Ontological Gravity)'(-ing) BPMS]` is the universal physics engine of the Fun Engine Framework. It applies to every interaction, every agent, every Large Model query, and every structural build. It is the invisible force that binds the Auditor, the Miner, the Campaign, and the Probe into a single, living universe.
+
+**Tags:**  MeaningBPMS, OntologicalGravity, SemanticMass, CoreTaskPhysic, ThermodynamicTruth, GravimetricNavigation
