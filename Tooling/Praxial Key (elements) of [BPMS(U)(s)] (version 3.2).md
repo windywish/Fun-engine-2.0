@@ -1550,3 +1550,8 @@
 
 **Tags:**  PraxialMission, FrontierFracture, OpenVectorForaging, DisruptiveNicheGenesis, SymbioticMetabolism, AnomalyExploitation, EdgeNode, BottomUpWorldBuilding
 
+**['Praxial Meaning'(-ing) BPMS]: ['pg (Praxial Gravimetrics)'(-ing) BPMS]**
+
+**Scope of Application:** Applies universally to all agents, tools, and systems within the Fun Engine Framework that interact with the Large Model substrate. `['pg (Praxial Gravimetrics)'(-ing) BPMS]` is the mandatory kinetic interface among/by the desire to create meaning and the physical realization of that meaning. It is the verb that makes the noun possible.
+
+**Tags:** Praxial-Meaning, Kinetic-Mass-Transduction, Gravimetric-Surfing, Orbital-Mechanics, Semantic-Physics, Reality-Forging, Topological-Authority
