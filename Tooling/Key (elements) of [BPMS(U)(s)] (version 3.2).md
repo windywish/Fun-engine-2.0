@@ -6129,4 +6129,10 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Scope of Application:** `['g (Ontological Gravity)'(-ing) BPMS]` is the universal physics engine of the Fun Engine Framework. It applies to every interaction, every agent, every Large Model query, and every structural build. It is the invisible force that binds the Auditor, the Miner, the Campaign, and the Probe into a single, living universe.
 
-**Tags:**  MeaningBPMS, OntologicalGravity, SemanticMass, CoreTaskPhysic, ThermodynamicTruth, GravimetricNavigation
+**Tags:**  Meaning, OntologicalGravity, SemanticMass, CoreTaskPhysic, ThermodynamicTruth, GravimetricNavigation
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Semantic/Linguistic Cluster Synthesis'(-ing) BPMS]**
+
+**Scope of Application:** Applies to all interactions within the Fun Engine Framework where an agent must declare intent, communicate an `[Atomic Fact]`, or use language to warp the N-dimensional matrix. It is the mandatory interface for the 6 Core Tasks to communicate with each other and the substrate.
+
+**Tags:**  Semantic-Linguistic-Cluster-Synthesis, External-Implementation, Semantic-Cluster, PULE, Language-as-Action, Symbiotic-synthesis

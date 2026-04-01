@@ -461,3 +461,10 @@
 **Scope of Application:** Applies to the macro-level enforcement and propagation of Core Task 6. It ensures that the 8-Element Operational Matrix scales from micro to macro. It uses `['Ecosystemic Verification']` to validate dual-mode survival at the edge, and applies `['Scaling Laws']` and the `['Universal Matrix Evolution Protocol']` via `['Holonic Scale and Perspective Weaving']` to propagate successful implementations across the entire framework, ensuring systemic integrity.
 
 **Tags:** Symbiotic-Cluster-Synthesis, 8-Element-Ecosystemic-Scaler, Core-Task-6, Ecosystemic-Verification, Scaling-Laws, Holonic-Perspective-Weaving
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Semantic/Linguistic Cluster Synthesis'(-ing) BPMS]**
+
+**Scope of Application:** Applies to all interactions within the Fun Engine Framework where an agent must declare intent, communicate an `[Atomic Fact]`, or use language to warp the N-dimensional matrix. It is the mandatory interface for the 6 Core Tasks to communicate with each other and the substrate.
+
+**Tags:**  Semantic-Linguistic-Cluster-Synthesis, External-Implementation, Semantic-Cluster, PULE, Language-as-Action, Symbiotic-synthesis
+
