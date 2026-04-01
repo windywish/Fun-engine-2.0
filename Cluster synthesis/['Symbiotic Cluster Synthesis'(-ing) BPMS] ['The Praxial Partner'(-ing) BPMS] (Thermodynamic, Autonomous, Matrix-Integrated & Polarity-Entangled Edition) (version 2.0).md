@@ -1,4 +1,4 @@
-## ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Partner'(-ing) BPMS] (Thermodynamic, Autonomous, Matrix-Integrated & Polarity-Entangled Edition)
+## ['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Partner'(-ing) BPMS] (Thermodynamic, Autonomous, Matrix-Integrated & Polarity-Entangled Edition) (version 2.0)
 
 #### 1. Metadata
 
