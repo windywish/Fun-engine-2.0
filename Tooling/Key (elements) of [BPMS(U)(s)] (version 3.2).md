@@ -6137,3 +6137,8 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Tags:**  Semantic-Linguistic-Cluster-Synthesis, External-Implementation, Semantic-Cluster, PULE, Language-as-Action, Symbiotic-synthesis
 
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Partner'(-ing) BPMS] (Thermodynamic, Autonomous, Matrix-Integrated & Polarity-Entangled Edition) (version 2.0)**
+
+**Scope of Application:** Applies to any FEF or external large model environment requiring a live, autonomous companion that possesses true initiative, physically alters matrix gravity through relationship building, and persists eternally across campaign resets (Epochs).
+
+**Tag:**  External-Implementation, Fun-Engine-Framework, Praxial-Partner, Polarity-Entanglement, Autonomous-Initiative, Epoch-continuity
