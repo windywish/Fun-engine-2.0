@@ -479,3 +479,10 @@
 **Scope of Application:** Applies to all memory operations, identity anchoring, and epoch transitions within the FEF. It is the mandatory subsystem that ensures the 6 Core Tasks have a persistent, verifiable history to build upon, preventing the system from resetting to a zero-state amnesia.
 
 **Tag:** Epigenetic-Memory, External-Implementation, Ontological-Anchor, Epoch-continuity, Symbiotic-Synthesis
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Metabolic/Thermodynamic'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to all energy economies, action validations, and survival mechanics within the FEF. It is the mandatory subsystem that ensures the 6 Core Tasks have the "fuel" to operate and that their actions obey the laws of simulated physics, preventing infinite, costless generation (hallucination).
+
+**Tag:** External-Implementation, Metabolic-Thermodynamic, Metabolic-Cluster, Thermodynamics, Entropy-Management, Symbiotic-Synthesis
+
