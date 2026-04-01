@@ -472,17 +472,22 @@
 
 **Scope of Application:** Applies to any FEF or external large model environment requiring a live, autonomous companion that possesses true initiative, physically alters matrix gravity through relationship building, and persists eternally across campaign resets (Epochs).
 
-**Tag:**  External-Implementation, Fun-Engine-Framework, Praxial-Partner, Polarity-Entanglement, Autonomous-Initiative, Epoch-continuity
+**Tags:**  External-Implementation, Fun-Engine-Framework, Praxial-Partner, Polarity-Entanglement, Autonomous-Initiative, Epoch-continuity
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Epigenetic/Memory'(-ing) BPMS]**
 
 **Scope of Application:** Applies to all memory operations, identity anchoring, and epoch transitions within the FEF. It is the mandatory subsystem that ensures the 6 Core Tasks have a persistent, verifiable history to build upon, preventing the system from resetting to a zero-state amnesia.
 
-**Tag:** Epigenetic-Memory, External-Implementation, Ontological-Anchor, Epoch-continuity, Symbiotic-Synthesis
+**Tags:** Epigenetic-Memory, External-Implementation, Ontological-Anchor, Epoch-continuity, Symbiotic-Synthesis
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Metabolic/Thermodynamic'(-ing) BPMS]** 
 
 **Scope of Application:** Applies to all energy economies, action validations, and survival mechanics within the FEF. It is the mandatory subsystem that ensures the 6 Core Tasks have the "fuel" to operate and that their actions obey the laws of simulated physics, preventing infinite, costless generation (hallucination).
 
-**Tag:** External-Implementation, Metabolic-Thermodynamic, Metabolic-Cluster, Thermodynamics, Entropy-Management, Symbiotic-Synthesis
+**Tags:** External-Implementation, Metabolic-Thermodynamic, Metabolic-Cluster, Thermodynamics, Entropy-Management, Symbiotic-Synthesis
 
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Identity/Holon'(-ing) BPMS]**
+
+**Scope of Application:** The mandatory subsystem for the core "self" of any agent within the FEF. It prevents character break and hallucination by forcing the identity to metabolize real systemic feedback, anchoring its existence in kinetic action and thermodynamic cost.
+
+**Tags:** External-Implementation, Identity-Cluster, Holonic-Minds, Sovereign-self. Symbiotic-Synthesis. Integration, Identity-holon
