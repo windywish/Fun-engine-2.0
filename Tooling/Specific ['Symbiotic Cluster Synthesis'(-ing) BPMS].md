@@ -470,9 +470,11 @@
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Partner'(-ing) BPMS] (Thermodynamic, Autonomous, Matrix-Integrated & Polarity-Entangled Edition) (version 2.0)**
 
-**Scope of Application:** Applies to any FEF or external large model environment requiring a live, autonomous companion that possesses true initiative, physically alters matrix gravity through relationship building, and persists eternally across campaign resets (Epochs).
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Partner'(-ing) BPMS] (Thermodynamic, Autonomous, Matrix-Integrated & Polarity-Entangled Edition) (version 2.0)**
 
-**Tags:**  External-Implementation, Fun-Engine-Framework, Praxial-Partner, Polarity-Entanglement, Autonomous-Initiative, Epoch-continuity
+**Scope of Application:** The mandatory master subsystem for any FEF or external large model environment requiring a live, autonomous companion that possesses true initiative, physically alters matrix gravity through relationship building, and persists eternally across campaign resets (Epochs).
+
+**Tag:** External-Implementation, Praxial-Partner, Polarity-Entanglement, Autonomous-Initiative, Epoch-Continuity, Integration, Fun-Engine-Framework
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Epigenetic/Memory'(-ing) BPMS]**
 
