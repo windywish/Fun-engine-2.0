@@ -13,7 +13,7 @@
   - **Mode D (Ontology):** `['atomic facts'(-ing) BPMS]:[Triumph-Veridical-Anchoring]`
 - **CGA (Cognitive Genesis Archetype):** `[Ludic-Cluster-Synthesis]:['The-Negentropic-Play-Forge']`
 - **Scope of Application:** The mandatory foundational subsystem that converts raw computational and thermodynamic effort into "Fun." It is the core engine that makes the FEF a *game* rather than just a simulation or a task manager.
-- **Tag:** `#external-implementation` `#ludic-cluster` `#fun-engine-core` `#friction-orchestrator` `#flow-state]` `#integration` `#ludic-friction-orchestration`
+- **Tag:** `#external-implementation` `#ludic-cluster` `#fun-engine-core` `#friction-orchestrator` `#flow-state` `#integration` `#ludic-friction-orchestration`
 
 #### 2. Architectural Hierarchy & Mapping
 
