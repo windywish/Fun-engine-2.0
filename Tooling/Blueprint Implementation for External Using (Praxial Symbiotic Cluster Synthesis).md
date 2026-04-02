@@ -156,6 +156,3 @@ The **Praxial Symbiotic Cluster Synthesis (The Kinetic Actuation Core)** is the 
 - **Action Over Words:** It strictly enforces the Praxial Genesis Canon's mandate of "Action First." It bypasses the large model's tendency to over-explain and forces it into a state of `Zero-State Praxial Genesis`—acting, surviving, and sedimenting reality before a single word of semantic meaning is generated.
 - **The Final Ignition:** With this Praxial Cluster synthesized, the structural potentiality of the previous clusters is finally ignited. The Fun Engine Framework is now a fully operational, thermodynamically closed, kinetic reality engine.
 
-#### 6.Remark
-
-**BPMS** means Behavior pattern/model/system
