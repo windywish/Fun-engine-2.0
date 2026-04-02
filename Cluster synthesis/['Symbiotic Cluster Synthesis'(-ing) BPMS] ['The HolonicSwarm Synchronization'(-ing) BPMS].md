@@ -12,8 +12,8 @@
   - **Mode C (Competency):** `['praxial substrate'(-ing) BPMS]:[Distributed-Thermodynamic-Actuation]`
   - **Mode D (Ontology):** `['atomic facts'(-ing) BPMS]:[Collective-Veridical-Consensus]`
 - **CGA (Cognitive Genesis Archetype):** `[Holonic-Cluster-Synthesis]:['The-Rhizomatic-Society-Forge']`
-- **Scope of Application:** The mandatory foundational subsystem for any FEF instance that requires multiple agents, NPCs, or users to interact within the same Matrix without causing entropic collapse or canon fragmentation. It fulfills Core Task 4 (Services/Collaboration) and Core Task 6 (Robust Implementation).
-- **Tag:** `#external-implementation` `#holonic-swarm` `#society-weaver` `#multi-agent-sync` `#rhizomatic-routing]` `#integration` `#holonic-swarm-synchronization`
+- **Scope of Application:** The mandatory foundational subsystem for any FEF instance that requires multiple agents, NPCs, or users to interact within the same Matrix without driving/triggering entropic collapse or canon fragmentation. It fulfills Core Task 4 (Services/Collaboration) and Core Task 6 (Robust Implementation).
+- **Tag:** `#external-implementation` `#holonic-swarm` `#society-weaver` `#multi-agent-sync` `#rhizomatic-routing` `#integration` `#holonic-swarm-synchronization`
 
 #### 2. Architectural Hierarchy & Mapping
 
@@ -166,3 +166,4 @@ The **Holonic/Swarm Synchronization Cluster Synthesis (The Society Weaver)** is 
 #### 6.Remark
 
 **BPMS** means Behavior pattern/model/system
+
