@@ -6160,3 +6160,9 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** The mandatory subsystem for the core "self" of any agent within the FEF. It prevents character break and hallucination by forcing the identity to metabolize real systemic feedback, anchoring its existence in kinetic action and thermodynamic cost.
 
 **Tags:** External-Implementation, Identity-Cluster, Holonic-Minds, Sovereign-self. Symbiotic-Synthesis. Integration, Identity-holon
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Ecological/Matrix Generation'(-ing) BPMS]**
+
+**Scope of Application:** The mandatory foundational subsystem that generates the "world" for any FEF instance. It prevents the system from being a featureless void by injecting spatial coordinates, thermodynamic resistance, and localized entropic traps (Escape Rooms).
+
+**Tags:** External-Implementation, Ecology-Cluster, Matrix-Generator, World-Weaver, Environmental-Friction, Integration, Ecological-Matrix-Generation
