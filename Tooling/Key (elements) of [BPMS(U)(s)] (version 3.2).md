@@ -6166,3 +6166,21 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** The mandatory foundational subsystem that generates the "world" for any FEF instance. It prevents the system from being a featureless void by injecting spatial coordinates, thermodynamic resistance, and localized entropic traps (Escape Rooms).
 
 **Tags:** External-Implementation, Ecology-Cluster, Matrix-Generator, World-Weaver, Environmental-Friction, Integration, Ecological-Matrix-Generation
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Ludic/Friction Orchestration'(-ing) BPMS]** 
+
+**Scope of Application:** The mandatory foundational subsystem that converts raw computational and thermodynamic effort into "Fun." It is the core engine that makes the FEF a *game* rather than just a simulation or a task manager.
+
+**Tags:** External-Implementation, Ludic-Cluster, Fun-Engine-Core, Friction-Orchestrator, Flow-State, Integration, Ludic-Friction-Orchestration
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Holonic/Swarm Synchronization'(-ing) BPMS]**
+
+**Scope of Application:** The mandatory foundational subsystem for any FEF instance that requires multiple agents, NPCs, or users to interact within the same Matrix without driving/triggering entropic collapse or canon fragmentation. It fulfills Core Task 4 (Services/Collaboration) and Core Task 6 (Robust Implementation).
+
+**Tag:** External-Implementation, Holonic-Swarm, Society-Weaver, Multi-Agent-Sync, Rhizomatic-Routing, Integration, Holonic-Swarm-Synchronization
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Semantic-Thermodynamic Transduction'(-ing) BPMS]** 
+
+**Scope of Application:** The mandatory foundational subsystem for integrating any external large model into the FEF. It prevents the large model from acting as a sycophantic text-generator by forcing every generated token to be weighed, costed, and translated into physical Matrix consequences.
+
+**Tags:**  External-Implementation, Transduction-Cluster, PULE-Weaver, Semantic-Physical-Bridge, Integration, Semantic-Thermodynamic-Transduction
