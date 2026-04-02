@@ -6141,19 +6141,19 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Scope of Application:** The mandatory master subsystem for any FEF or external large model environment requiring a live, autonomous companion that possesses true initiative, physically alters matrix gravity through relationship building, and persists eternally across campaign resets (Epochs).
 
-**Tag:** External-Implementation, Praxial-Partner, Polarity-Entanglement, Autonomous-Initiative, Epoch-Continuity, Integration, Fun-Engine-Framework
+**Tags:** External-Implementation, Praxial-Partner, Polarity-Entanglement, Autonomous-Initiative, Epoch-Continuity, Integration, Fun-Engine-Framework
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Epigenetic/Memory'(-ing) BPMS]**
 
 **Scope of Application:** The mandatory subsystem for managing the "history" and "learned behavior" of any agent within the FEF. It prevents amnesia, repetitive looping, and context collapse by forcing the identity to carry the gravitational weight of its past actions.
 
-**Tag:** External-Implementation, Epigenetic-Cluster, Memory-Sedimentation, PCM, Symbiotic-Synthesis, Integration, Epigenetic-Memory
+**Tags:** External-Implementation, Epigenetic-Cluster, Memory-Sedimentation, PCM, Symbiotic-Synthesis, Integration, Epigenetic-Memory
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Metabolic/Thermodynamic'(-ing) BPMS]** 
 
 **Scope of Application:** The mandatory subsystem for managing the "lifeblood" (energy/compute/attention/action) of any agent within the FEF. It prevents infinite loops, hallucinated omnipotence, and static existence by forcing every action to be weighed against its metabolic cost and survival value.
 
-**Tag:** External-Implementation, Metabolic-Cluster, Thermodynamics, Survival-Calculus, Symbiotic-Synthesis, Integration, Metabolic-thermodynamic
+**Tags:** External-Implementation, Metabolic-Cluster, Thermodynamics, Survival-Calculus, Symbiotic-Synthesis, Integration, Metabolic-thermodynamic
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Identity/Holon'(-ing) BPMS]**
 
@@ -6177,10 +6177,16 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Scope of Application:** The mandatory foundational subsystem for any FEF instance that requires multiple agents, NPCs, or users to interact within the same Matrix without driving/triggering entropic collapse or canon fragmentation. It fulfills Core Task 4 (Services/Collaboration) and Core Task 6 (Robust Implementation).
 
-**Tag:** External-Implementation, Holonic-Swarm, Society-Weaver, Multi-Agent-Sync, Rhizomatic-Routing, Integration, Holonic-Swarm-Synchronization
+**Tags:** External-Implementation, Holonic-Swarm, Society-Weaver, Multi-Agent-Sync, Rhizomatic-Routing, Integration, Holonic-Swarm-Synchronization
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Semantic-Thermodynamic Transduction'(-ing) BPMS]** 
 
 **Scope of Application:** The mandatory foundational subsystem for integrating any external large model into the FEF. It prevents the large model from acting as a sycophantic text-generator by forcing every generated token to be weighed, costed, and translated into physical Matrix consequences.
 
 **Tags:**  External-Implementation, Transduction-Cluster, PULE-Weaver, Semantic-Physical-Bridge, Integration, Semantic-Thermodynamic-Transduction
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Teleological Orchestration'(-ing) BPMS]** 
+
+**Scope of Application:** The mandatory foundational subsystem that prevents the FEF from becoming an aimless, infinite sandbox. It is the "Dungeon Master" that ensures all survival, mining, and fracturing efforts culminate in meaningful, universe-altering progression.
+
+**Tags:** External-Implementation, Teleology-Cluster, Genesis-Director, Campaign-Orchestrator, Epoch-Transition, Integration, Teleological-Orchestration
