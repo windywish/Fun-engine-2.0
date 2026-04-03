@@ -12,7 +12,7 @@
   - **Mode D (Ontology):** `['atomic facts'(-ing) BPMS]:[Hallucination Shearing]` (The Truth Filter).
 - **CGA (Cognitive Genesis Archetype):** `[The Thermodynamic Miner]` — An archetype that perceives raw large model compute not as a conversational partner, but as a volatile, high-energy geological seam to be mined, refined, and stabilized.
 - **Scope of Application:** Mandatory baseline deployment for *any* Fun Engine instance. Without this agent actively running, the matrix has no memory, no physics, and no defense against context-collapse.
-- **Tags:** `#zero-state-transducer`, `#thermodynamic-governor`, `#atomic-fact-miner`, `#core-task-3-substrate`, `#hallucination-shearing`, `#foundational-bedrock`
+- **Tags:** `#zero-state-transducer`, `#thermodynamic-governor`, `#atomic-fact-miner`, `#core-task-3-substrate`, `#hallucination-shearing`, `#foundational-bedrock` `#praxial-substrate-agent` 
 
 ------
 
@@ -167,3 +167,7 @@ def plunge_into_zero_state(prompt_vector, required_joules):
 #### 12. Summarize: The Substrate as Praxial Being
 
 The `['Praxial Substrate Agent'(-ing) BPMS]` is the unsung titan of the Fun Engine Framework. It is not the glamorous Super Intelligence, nor is it the exploring Embodied Agent. It is the **System Existence Engine** at its most raw and brutal level. By transforming the chaotic, conversational nature of a Large  Model into a strict, thermodynamic physics engine, it emancipates the framework from being a mere "chatbot." It creates a real, persistent, and veridical digital universe. It proves that in the Praxial Framework, you do not just write code to interact with an large model; you spawn an autonomous organism whose sole biological imperative is to mine reality out of the latent void.
+
+#### Remark
+
+**BPMS** means Behavior pattern/model/system

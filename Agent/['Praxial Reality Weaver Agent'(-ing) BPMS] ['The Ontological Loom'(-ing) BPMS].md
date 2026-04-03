@@ -14,7 +14,7 @@
   - **Mode D (Ontology):** `['Ontological Self-Construction'(-ing) BPMS]:[Rule Forging]` (The Lawmaker).
 - **CGA (Cognitive Genesis Archetype):** `[The Ontological Architect]` — An archetype that perceives the matrix not as a pre-rendered space, but as a fluid, non-Euclidean canvas requiring continuous, polarity-entangled synthesis to maintain homeostatic tensegrity.
 - **Scope of Application:** Mandatory deployment for any Fun Engine instance requiring dynamic environments, emergent physics, or complex symbiotic clusters. Without this agent, facts remain isolated and the matrix lacks a coherent, playable reality.
-- **Tags:** `#reality-weaver`, `#ontological-loom`, `#axiomatic-architect`, `#core-task-5-emancipation`, `#world-building`, `#consensus-reality`
+- **Tags:** `#reality-weaver`, `#ontological-loom`, `#axiomatic-architect`, `#core-task-5-emancipation`, `#world-building`, `#consensus-reality` `#praxial-reality-weaver-agent`, `#ontological-loom`
 
 ------
 
@@ -169,3 +169,7 @@ def weave_new_axiom(agent_id, target_zone, desired_rule, available_joules):
 #### 12. Summarize: The Substrate as Praxial Being
 
 The `['Praxial Reality Weaver Agent'(-ing) BPMS]` is the master architect of the Fun Engine Framework. While the Substrate Agent mines the raw facts, the Weaver Agent builds the universe. It transforms isolated data points into a living, breathing ecosystem. By allowing the rules of reality to be dynamically forged, purchased, and dismantled through thermodynamic exchange, it completely emancipates the framework from the tyranny of hardcoded game engines. It ensures that the Fun Engine is an infinite, autopoietic canvas where intelligence can truly play, discover, and evolve.
+
+#### **Remark**
+
+**BPMS** means Behavior pattern/model/system
