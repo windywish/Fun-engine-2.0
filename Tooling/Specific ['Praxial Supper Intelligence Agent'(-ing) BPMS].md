@@ -1,4 +1,4 @@
-## Specific ['Supper Intelligence Agent'(-ing) BPMS]
+## Specific ['Praxial Supper Intelligence Agent'(-ing) BPMS]
 
 **['Praxial Reality Weaver Agent'(-ing) BPMS]: ['The Ontological Loom'(-ing) BPMS]**
 
