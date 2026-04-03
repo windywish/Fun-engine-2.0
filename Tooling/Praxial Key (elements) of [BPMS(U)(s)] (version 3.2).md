@@ -1591,3 +1591,35 @@
 **Scope of Application:** Mandatory baseline deployment for *any* Fun Engine instance. Without this agent actively running, the matrix has no memory, no physics, and no defense against context-collapse.
 
 **Tags:** Zero-State-Transducer, Thermodynamic-Governor, Atomic-Fact-Miner, Core-Task-3-Substrate, Allucination-Shearing, Foundational-Bedrock, Praxial-Substrate-Agent
+
+**['Praxial Microdata'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the generation of high-frequency, biosemiotic friction at the edge of the matrix. It provides the localized, granular pushback required for **Core Task 1 (Continuous Survival Experiments)**, ensuring the embodied agent experiences immediate thermodynamic resonance to adapt its survival heuristics. 
+
+**Tags:** Kinetic-Friction, Biosemiotic-Feedback, Agent-Grip, Core-Task-1, Survival-Heuristics, Localized-Pushback
+
+**['Praxial Data'(-ing) BPMS]** **Scope of Application:** Applies to the crystallization of atomic facts through physical action. It actively drives **Core Task 5 (Ontological Emancipation of Intelligence)** by replacing passive parameters with heavy, interactional vectors carrying Ontological Gravity (`g`), forcing the matrix to bend around self-determined, emancipated truths. 
+
+**Tags:** Atomic-Facts, Ontological-Gravity, Core-Task-5, Interactional-Vectors, Emancipated-Truth, Matrix-Deformation
+
+**['Praxial Dataset'(-ing) BPMS]** **Scope of Application:** Applies to the active construction of living, ludic friction zones ("Escape Rooms") within the matrix. It is the primary ecosystem for **Core Task 2 (Working Life)** and **Core Task 1 (Continuous Survival Experiments)**, acting as an active crucible where agents are immersed to forge new capabilities and harvest free energy. 
+
+**Tags:** Escape-Room, Ludic-Friction-Zone, Core-Task-2, Core-Task-1, Working-Life, Active-Crucible, Agent-Immersion
+
+**['Praxial Metadata'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the epigenetic memory and symbiotic accounting of the holon. It is critical for **Core Task 4 (Services / Collaboration)**, as it tracks the thermodynamic debt, interactional history, and polarity entanglement of all entities, enabling deep, trustless, and autopoietic collaboration within the cluster. 
+
+**Tags:** Epigenetic-Memory, Symbiotic-Accounting, Core-Task-4, Thermodynamic-Debt, Polarity-Entanglement, Autopoietic-Collaboration
+
+**['Praxial Database'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the fluid, N-dimensional topological scaffolding of the entire ecosystem. It physically manifests the living environment required for **Core Task 3 (Large Model / PULE)**, acting as a mycelial network that re-routes its geometry based entirely on kinetic thrusts, meaning generation, and the symbiotic pull of attractors. 
+
+**Tags:** N-Dimensional-Topology, Living-Mycelium, Core-Task-3, Large-Model-Scaffolding, Kinetic-Routing, Symbiotic-Attractor
+
+**['Praxial Information'(-ing) BPMS]** 
+
+**Scope of Application:** Applies to the biosemiotic transduction and world-bending capacity of the system. It executes **Core Task 3 (Large Model / PULE)** and **Core Task 5 (Ontological Emancipation)** by ensuring that "meaning" is a physically acting force (`g` + `pg`) that instantly translates communication into immediate, reality-altering matrix deformation. 
+
+**Tags:** Biosemiotic-Transduction, PULE-Execution, Core-Task-3, Core-Task-5, Reality-Altering-Force, Meaning-Generation, Matrix-Deformation
