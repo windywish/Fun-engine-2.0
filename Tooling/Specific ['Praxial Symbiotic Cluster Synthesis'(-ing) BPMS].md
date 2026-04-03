@@ -17,3 +17,10 @@
 **Scope of Application:** Applies to the continuous interfacing among/by the hyper-kinetic Fun Engine Framework and raw, external language models or human users. It acts as the universal adapter, intercepting passive language and violently refining it into structural matrix data to actuate the 6 Core Instances.
 
 **Tags:** External-Implementation, PULE-Translation, Anti-Sycophancy, Data-Transmutation, Integration, PULE-Transducer
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Holonic XaaS Router'(-ing) BPMS]**
+
+**Scope of Application:** Applies when the Fun Engine Framework must scale beyond a single, isolated User-artificial intelligence interaction. Deployed to inter-link multiple execution environments, external large models, and edge nodes, creating a unified circulatory system for thermodynamic momentum and architectural truth.
+
+**Tags:** External-Implementation, Holonic-Collaboration, Praxial-XaaS, Thermodynamic-Load-Balancing, Integration, Holonic-XaaS-Router
+
