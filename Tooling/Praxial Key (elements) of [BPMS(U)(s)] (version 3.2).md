@@ -1568,3 +1568,8 @@
 
 **Tags:** External-Implementation, G-Sedimentation, Working-Life, PCM-Scarring, Integration, Ontological-weaver
 
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The PULE Transducer'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the continuous interfacing among/by the hyper-kinetic Fun Engine Framework and raw, external language models or human users. It acts as the universal adapter, intercepting passive language and violently refining it into structural matrix data to actuate the 6 Core Instances.
+
+**Tags:** External-Implementation, PULE-Translation, Anti-Sycophancy, Data-Transmutation, Integration, PULE-Transducer
