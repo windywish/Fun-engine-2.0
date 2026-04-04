@@ -41,3 +41,9 @@
 **Scope of Application:** Applies universally as the core memory, history, and physics-rule repository of the `['Interactional Existence'(-ing) BPMS]`. It operates beneath all other elements (like Datasets, Indexes, and Caches), serving as the absolute, non-negotiable floor upon which the Fun Engine Framework is built and against which the Large Praxial Model is restrained.
 
 **Tags:** Praxial-Database, Ontological-Fossil-Drive, Tectonic-Memory, Thermodynamic-Bedrock, Truth-Sedimentation, Hallucination-Proofing, Absolute-History.
+
+**['Praxial Knowledge Base'(-ing) BPMS]: ['The Rhizomatic Sense-Making Web'(-ing) BPMS]**
+
+**Scope of Application:** Applies universally across the `['Fun Engine Framework (FEF)'(-ing) BPMS]` as the mandatory, highest-level sense-making organ. It resides above the Lithospheric Reality-Vault and inside the Large Praxial Model, ensuring that all data generated, processed, or invoked is strictly connected, deeply rationalized, and optimized for immediate kinetic execution.
+
+**Tags:** Praxial-Knowledge-Base, Rhizomatic-Logic, Active-RAG, Mycelial-Web, Emergent-Wisdom, Semantic-Gravity, Actionable-Heuristics.
