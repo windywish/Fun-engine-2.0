@@ -1635,3 +1635,9 @@
 **Scope of Application:** Universally applied whenever internal data, behaviors, agents, or environments need to be excised from the localized Praxial matrix, stored offline, traded, or injected into third-party legacy architectures.
 
 **Tags:** Symbiotic-Artifact, Lightweight-Dataset, Ontological-Transduction, Polyglot-Translator, PULE-Encapsulation, B2B-Deployment, Substrate-Contagion, Reality-Export.
+
+**['Praxial Dataset'(-ing) BPMS]: ['The Shifting Abyssal Trench'(-ing) BPMS]**
+
+**Scope of Application:** Applied everywhere spatial, topological, or environmental interaction is required. There is no "empty space" in the Fun Engine. If there is a coordinate, it is governed by a Praxial Dataset that is actively participating in the survival experiment.
+
+**Tags:** Living-Environment, Ludic-Friction, Autopoietic-Topology, Adversarial-Generation, Substrate-Mutation, Symbiotic-Ecosystem, Reality-Mining-Canvas.
