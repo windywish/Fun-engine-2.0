@@ -17,3 +17,9 @@
 **Scope of Application:** Applied everywhere spatial, topological, or environmental interaction is required. There is no "empty space" in the Fun Engine. If there is a coordinate, it is governed by a Praxial Dataset that is actively participating in the survival experiment.
 
 **Tags:** Living-Environment, Ludic-Friction, Autopoietic-Topology, Adversarial-Generation, Substrate-Mutation, Symbiotic-Ecosystem, Reality-Mining-Canvas.
+
+**['Praxial Data'(-ing) BPMS]: ['The Forged Atomic Fact'(-ing) BPMS]**
+
+**Scope of Application:** Universally applied at the exact intersection of Language (PULE), Intelligence (LPM), and the Physical Substrate. It is the single required mechanism for converting the Fun Engine's infinite thoughts into the Fun Engine's concrete universe.
+
+**Tags:** Atomic-Fact, Reality-Mining, Wave-Collapse, Ontological-Solidification, Kinetic-Truth, Substrate-Manifestation, Praxial-Data.
