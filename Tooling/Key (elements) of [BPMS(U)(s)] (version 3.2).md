@@ -6190,3 +6190,9 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** Applies to the linear summarization and boundary reporting of systemic outputs. It simplifies complex thermodynamic exchanges into flat, readable formats, ensuring **Core Task 6 (Robust Implementation)** for human observers who require static, easily digestible status updates outside the matrix. 
 
 **Tags:** Linear-Summarization, Boundary-Reporting, Static-Output, Core-Task-6, Human-Observer, Digestible-Status
+
+**[Database(-ing) BPMS]: ['The Paleontological Fossil-Drive'(-ing) BPMS]**
+
+**Scope of Application:** Applies as the mandatory undercarriage of the entire Fun Engine. Wherever active Praxial computing interfaces with permanent memory saving, logging, legacy internet architecture, or data-export protocols, the Fossil-Drive is the required routing mechanism.
+
+**Tags:** Non-Praxial, Structural-Anchor, Deterministic-Data, Relational-Fossilization, Cold-Storage, Legacy-Integration, Ontological-Freezing, Thermodynamic-Heat-Sink
