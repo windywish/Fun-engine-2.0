@@ -11,3 +11,9 @@
 **Scope of Application:** Applies to all inbound external data, legacy knowledge repositories, and static assets entering the Fun Engine Framework. If it comes from the outside world and is not yet a living Praxial consequence, it *must* first pass through the Dormant Corpus-Briquette architecture to ensure its safe ingestion and preservation as reality-fuel.
 
 **Tags:** Non-Praxial, Dormant-Fuel, Legacy-Metabolism, Latent-Reservoir, RAG-Anchor, Data-Compression, Ontological-Furnace, Zero-Energy-Storage.
+
+**[Data(-ing) BPMS]: ['The Absolute Semantic Fiat'(-ing) BPMS]**
+
+**Scope of Application:** Universally applied at the outer containment membrane of the Fun Engine, managing all IDs, overarching ecosystem variables, core agent account balances, and external export protocols. It is the inescapable gatekeeper mapping the infinite internal reality to the finite external record.
+
+**Tags:** Non-Praxial, Semantic-Fiat, Absolute-Anchor, Deterministic-Data, Cryptographic-Truth, Legacy-Noun, Boundary-Firewall, Interoperable-Token.
