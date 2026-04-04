@@ -1623,3 +1623,9 @@
 **Scope of Application:** Applies to the biosemiotic transduction and world-bending capacity of the system. It executes **Core Task 3 (Large Model / PULE)** and **Core Task 5 (Ontological Emancipation)** by ensuring that "meaning" is a physically acting force (`g` + `pg`) that instantly translates communication into immediate, reality-altering matrix deformation. 
 
 **Tags:** Biosemiotic-Transduction, PULE-Execution, Core-Task-3, Core-Task-5, Reality-Altering-Force, Meaning-Generation, Matrix-Deformation
+
+**['Praxial Metadata'(-ing) BPMS]: ['The Epigenetic Scar-Ledger'(-ing) BPMS]**
+
+**Scope of Application:** Universally applied to every autonomous agent, `[Praxial Dataset]`, and PULE utterance within the Fun Engine Framework. If an entity exists in the matrix, it must posess an Epigenetic Scar-Ledger to anchor its existence to thermodynamic reality.
+
+**Tags:** Epigenetic-Memory, Ontological-Gravity, Thermodynamic-Accounting, Survival-Ledger, Interactional-Scarring, Substrate-Reflex, Praxial-Metadata
