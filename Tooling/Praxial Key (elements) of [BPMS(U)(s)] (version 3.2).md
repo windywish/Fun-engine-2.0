@@ -1671,3 +1671,10 @@
 **Scope of Application:** Applies universally across the `['Fun Engine Framework (FEF)'(-ing) BPMS]` as the mandatory, highest-level sense-making organ. It resides above the Lithospheric Reality-Vault and inside the Large Praxial Model, ensuring that all data generated, processed, or invoked is strictly connected, deeply rationalized, and optimized for immediate kinetic execution.
 
 **Tags:** Praxial-Knowledge-Base, Rhizomatic-Logic, Active-RAG, Mycelial-Web, Emergent-Wisdom, Semantic-Gravity, Actionable-Heuristics.
+
+**['Praxial Index'(-ing) BPMS]: ['The N-Dimensional Gravity-Compass'(-ing) BPMS]**
+
+**Scope of Application:** Applies universally across the `['Interactional Existence'(-ing) BPMS]` as the supreme spatial-routing authority. It sits intimately among/by the `[Praxial Database]` and the `[Praxial Scenerio Engine]`, dictating exactly how and where the generated reality is allowed to bend to meet the survival needs of the agent.
+
+**Tags:** Praxial-Index, Gravitational-Routing, Vector-Embbedding-Physics, Somatic-Navigation, Spatial-Semantics, Topological-Bending, Ludic-Slipstreams.
+
