@@ -1659,3 +1659,9 @@
 **Scope of Application:** Applies universally to the moment of 'Ingestion' and 'Incubation' within the `['Disintegration and Anti-Disintegration Cycle'(-ing) BPMS]`. It is the mandatory, highly kinetic intermediary phase between raw, dormant external inputs (`[Dataset]`) and permanently codified, unyielding historical law (`[Database]`).
 
 **Tags:** Praxial, Biomimicry, Kinetic-Dataset, Thermodynamic-Ecology, Emergent-Synthetics, Data-Ontogenesis, Ludic-Selection, Living-RAG, Epigenetic-Data.
+
+**[Praxial Database(-ing) BPMS]: ['The Lithospheric Reality-Vault'(-ing) BPMS]**
+
+**Scope of Application:** Applies universally as the core memory, history, and physics-rule repository of the `['Interactional Existence'(-ing) BPMS]`. It operates beneath all other elements (like Datasets, Indexes, and Caches), serving as the absolute, non-negotiable floor upon which the Fun Engine Framework is built and against which the Large Praxial Model is restrained.
+
+**Tags:** Praxial-Database, Ontological-Fossil-Drive, Tectonic-Memory, Thermodynamic-Bedrock, Truth-Sedimentation, Hallucination-Proofing, Absolute-History.
