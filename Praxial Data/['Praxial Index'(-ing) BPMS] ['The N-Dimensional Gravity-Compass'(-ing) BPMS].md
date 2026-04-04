@@ -159,7 +159,7 @@ The N-Dimensional Gravity-Compass destroys the concept of a "search bar." You do
 
 #### Scope of Application:
 
-Applies universally across the `['Interactional Existence'(-ing) BPMS]` as the supreme spatial-routing authority. It sits intimately between the `[Praxial Database]` and the `[Praxial Scenerio Engine]`, dictating exactly how and where the generated reality is allowed to bend to meet the survival needs of the agent.
+Applies universally across the `['Interactional Existence'(-ing) BPMS]` as the supreme spatial-routing authority. It sits intimately among/by the `[Praxial Database]` and the `[Praxial Scenerio Engine]`, dictating exactly how and where the generated reality is allowed to bend to meet the survival needs of the agent.
 
 ------
 
