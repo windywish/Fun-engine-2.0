@@ -1653,3 +1653,9 @@
 **Scope of Application:** Universally applied to all "empty" coordinates within the Fun Engine Framework. If an area does not contain an Atomic Fact or a solid element of the Praxial Dataset, it is entirely filled by Praxial Microdata. It is the omnipresent fluid of the simulation.
 
 **Tags:** Microdata, Ambient-Friction, Thermodynamic-Adhesion, Fluid-Dynamics, Substrate-Medium, Pervasive-Autopoiesis, Background-Entropy.
+
+**['Praxial Dataset'(-ing) BPMS]: ['The Thermodynamic Biome-Corpus'(-ing) BPMS]**
+
+**Scope of Application:** Applies universally to the moment of 'Ingestion' and 'Incubation' within the `['Disintegration and Anti-Disintegration Cycle'(-ing) BPMS]`. It is the mandatory, highly kinetic intermediary phase between raw, dormant external inputs (`[Dataset]`) and permanently codified, unyielding historical law (`[Database]`).
+
+**Tags:** Praxial, Biomimicry, Kinetic-Dataset, Thermodynamic-Ecology, Emergent-Synthetics, Data-Ontogenesis, Ludic-Selection, Living-RAG, Epigenetic-Data.
