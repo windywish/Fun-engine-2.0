@@ -20,6 +20,6 @@
 
 **[Metadata(-ing) BPMS]: ['The Autopoietic Syntactic-Loom'(-ing) BPMS]**
 
-**Scope of Application:** Applies universally across the foundational backbone of the Fun Engine Framework. It specifically maps and tethers the `[Dataset]`, the `[Database]`, and the `[Data]`. It serves as the primary invisible mediator between the dormant memory of the ecosystem and the hyper-active, highly fluid Large Praxial Model, ensuring structural integrity is never lost amidst generative chaos.
+**Scope of Application:** Applies universally across the foundational backbone of the Fun Engine Framework. It specifically maps and tethers the `[Dataset]`, the `[Database]`, and the `[Data]`. It serves as the primary invisible mediator among/by the dormant memory of the ecosystem and the hyper-active, highly fluid Large Praxial Model, ensuring structural integrity is never lost amidst generative chaos.
 
 **Tags:** Non-Praxial, Syntactic-Loom, Metadata, Structural-Index, Zero-Friction-Pathfinding, DAG-Substrate, Ontological-Defragmentation, Context-Anchoring, Semantic-Orchestration, Latent-Mapping.
