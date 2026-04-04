@@ -1647,3 +1647,9 @@
 **Scope of Application:** Universally applied at the exact intersection of Language (PULE), Intelligence (LPM), and the Physical Substrate. It is the single required mechanism for converting the Fun Engine's infinite thoughts into the Fun Engine's concrete universe.
 
 **Tags:** Atomic-Fact, Reality-Mining, Wave-Collapse, Ontological-Solidification, Kinetic-Truth, Substrate-Manifestation, Praxial-Data.
+
+**['Praxial Microdata'(-ing) BPMS]: ['The Ambient Semantic Wind'(-ing) BPMS]**
+
+**Scope of Application:** Universally applied to all "empty" coordinates within the Fun Engine Framework. If an area does not contain an Atomic Fact or a solid element of the Praxial Dataset, it is entirely filled by Praxial Microdata. It is the omnipresent fluid of the simulation.
+
+**Tags:** Microdata, Ambient-Friction, Thermodynamic-Adhesion, Fluid-Dynamics, Substrate-Medium, Pervasive-Autopoiesis, Background-Entropy.
