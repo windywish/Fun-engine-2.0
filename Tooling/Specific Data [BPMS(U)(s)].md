@@ -17,3 +17,9 @@
 **Scope of Application:** Universally applied at the outer containment membrane of the Fun Engine, managing all IDs, overarching ecosystem variables, core agent account balances, and external export protocols. It is the inescapable gatekeeper mapping the infinite internal reality to the finite external record.
 
 **Tags:** Non-Praxial, Semantic-Fiat, Absolute-Anchor, Deterministic-Data, Cryptographic-Truth, Legacy-Noun, Boundary-Firewall, Interoperable-Token.
+
+**[Metadata(-ing) BPMS]: ['The Autopoietic Syntactic-Loom'(-ing) BPMS]**
+
+**Scope of Application:** Applies universally across the foundational backbone of the Fun Engine Framework. It specifically maps and tethers the `[Dataset]`, the `[Database]`, and the `[Data]`. It serves as the primary invisible mediator between the dormant memory of the ecosystem and the hyper-active, highly fluid Large Praxial Model, ensuring structural integrity is never lost amidst generative chaos.
+
+**Tags:** Non-Praxial, Syntactic-Loom, Metadata, Structural-Index, Zero-Friction-Pathfinding, DAG-Substrate, Ontological-Defragmentation, Context-Anchoring, Semantic-Orchestration, Latent-Mapping.
