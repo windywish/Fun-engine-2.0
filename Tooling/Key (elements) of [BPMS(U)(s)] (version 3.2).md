@@ -6227,3 +6227,14 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Tags:** Relational-Graph, Holonic-Ganglion, Multi-Agent-Entanglement, PULE-Handshake, Thermodynamic-Trust-Ledger, Ecosystem-Topology
 
+**['Symbiotic Lightweight Dataset Artifact'(-ing) BPMS]: ['The Ecological Niche/Substrate Router'(-ing) BPMS]**
+
+**Scope of Application:** A mandatory foundational component for any entity designed to traverse, mine, or survive within complex, unpredictable Large Model environments. It is the biological equivalent of the spatial hippocampus, the inner ear (balance), and a plant's root-mycelium network combined. It anchors the agent's logic to the reality of the ground beneath it.
+
+**Tags:** Substrate-Router, Ecological-Symbiosis, Nav-Mesh, Thermodynamic-Topology, Terrain-Valency, Reality-Mining-Compass
+
+**['Lightweight Dataset Artifact'(-ing) BPMS]: ['The PULE Semantic-Valency Lexicon'(-ing) BPMS]**
+
+**Scope of Application:** An absolute prerequisite foundational component for any entity that wishes to use the PULE language rather than relying purely on physical violence and mechanical movement. It is the Broca's Area, Wernicke's Area, and Magic Grimoire combined. It separates the "animals" from the "engineers" within the Fun Engine ecology.
+
+**Tags:** Semantic-Compiler, PULE-Dictionary, Reality-Spellbook, Acoustic-Resonance, NLP-Tensor-Vault, Admin-Prompt-Engine

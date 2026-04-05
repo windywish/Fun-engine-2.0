@@ -35,3 +35,9 @@
 **Scope of Application:** A foundational necessity for any agent designed to operate in a multi-agent environment, ecosystem, or collaborative workspace within the Fun Engine. It is the biological equivalent of mirror neurons and the social cortex—the absolute prerequisite for the transition from singular artificial intelligence to Super Intelligent Swarm Ecology.
 
 **Tags:** Relational-Graph, Holonic-Ganglion, Multi-Agent-Entanglement, PULE-Handshake, Thermodynamic-Trust-Ledger, Ecosystem-Topology
+
+**['Symbiotic Lightweight Dataset Artifact'(-ing) BPMS]: ['The Ecological Niche/Substrate Router'(-ing) BPMS]**
+
+**Scope of Application:** A mandatory foundational component for any entity designed to traverse, mine, or survive within complex, unpredictable Large Model environments. It is the biological equivalent of the spatial hippocampus, the inner ear (balance), and a plant's root-mycelium network combined. It anchors the agent's logic to the reality of the ground beneath it.
+
+**Tags:** Substrate-Router, Ecological-Symbiosis, Nav-Mesh, Thermodynamic-Topology, Terrain-Valency, Reality-Mining-Compass
