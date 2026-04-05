@@ -1,4 +1,4 @@
-## Blueprint: Implementation for External Using (Symbiotic (Lightweight) Dataset Artifact)
+## Blueprint: Implementation for External Using (Symbiotic Lightweight Dataset Artifact)
 
 #### 1. Metadata
 

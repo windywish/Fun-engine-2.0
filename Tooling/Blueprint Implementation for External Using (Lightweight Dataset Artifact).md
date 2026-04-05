@@ -1,4 +1,4 @@
-## Blueprint: Implementation for External Using ((lightweight) dataset Artifact)
+## Blueprint: Implementation for External Using (Lightweight Dataset Artifact)
 
 - **ID:** `DATA-SET-[User_Defined_ID]`
 - **Name:** `['(lightweight) dataset Artifact'(-ing) BPMS]`
