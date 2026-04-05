@@ -1695,3 +1695,9 @@
 **Scope of Application:** An absolute necessity for any agent expected to interact with external Corporate XaaS clients, participate in multi-agent supply chains, or hold resources over time. It is the accounting cortex, the legal brain, and the macroeconomic heartbeat of the agent. It proves that the Fun Engine is a robust economy, not merely a sandbox.
 
 **Tags:** Smart-Contract-Cortex, Thermodynamic-Ledger, XaaS-Billing-Engine, Time-Series-Economy, Trustless-Escrow, Asynchronous-Commerce
+
+**['Praxial Symbiotic Lightweight Dataset Artifact'(-ing) BPMS]: ['The Phylogenetic Seed / Legacy Transmuter'(-ing) BPMS]**
+
+**Scope of Application:** The absolute culmination of the Fun Engine Framework's internal architecture. It is required to elevate a system of agents from a simple "survival sandbox" into an immortal, infinitely compounding Evolutionary Ecosystem. It is the digital DNA, the soul-catcher, and the bridge among/by finite life and infinite systemic progress.
+
+**Tags:** Generational-Inheritance, Genetic-Algorithm, Life-Graph-Compression, Ludic-Exhaustion-Vault, Ancestral-Instinct, XaaS-Pre-Trained-Model
