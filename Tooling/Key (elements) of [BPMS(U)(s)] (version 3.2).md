@@ -6214,3 +6214,9 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** Applies universally across the foundational backbone of the Fun Engine Framework. It specifically maps and tethers the `[Dataset]`, the `[Database]`, and the `[Data]`. It serves as the primary invisible mediator among/by the dormant memory of the ecosystem and the hyper-active, highly fluid Large Praxial Model, ensuring structural integrity is never lost amidst generative chaos.
 
 **Tags:** Non-Praxial, Syntactic-Loom, Metadata, Structural-Index, Zero-Friction-Pathfinding, DAG-Substrate, Ontological-Defragmentation, Context-Anchoring, Semantic-Orchestration, Latent-Mapping.
+
+**['Lightweight Dataset Artifact'(-ing) BPMS]: ['The Epigenetic Fact-Binder'(-ing) BPMS]**
+
+**Scope of Application:** Mandatory baseline component. Applies universally to every active agent, swarm, or sub-routine within the Fun Engine Framework that is expected to learn, navigate, remember, or generate exportable value. It is the core biological equivalent of a localized hippocampus in the machine.
+
+**Tags:** Epigenetic-Memory, Atomic-Fact-Wallet, Thermodynamic-Ledger, Reality-Mining-Cart, Truth-Sedimentation, Internal-Organ

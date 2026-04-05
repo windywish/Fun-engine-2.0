@@ -1678,3 +1678,8 @@
 
 **Tags:** Praxial-Index, Gravitational-Routing, Vector-Embbedding-Physics, Somatic-Navigation, Spatial-Semantics, Topological-Bending, Ludic-Slipstreams.
 
+**['Praxial Lightweight Dataset Artifact'(-ing) BPMS]: ['The Kinetic Proprioception Cortex'(-ing) BPMS]**
+
+**Scope of Application:** A mandatory foundational component for any entity in the Fun Engine designed to act, move, or speak PULE over time. It is the direct biological equivalent of the somatic nervous system and the cerebellum—the engine of muscle memory and kinetic optimization within the matrix.
+
+**Tags:** Kinetic-Memory, Proprioception-Engine, Thermodynamic-Flight-Log, Fast-Mode-Reflex, Praxial-Time-Series, Skill-Sedimentation

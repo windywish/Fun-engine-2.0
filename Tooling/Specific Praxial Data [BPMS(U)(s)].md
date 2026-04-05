@@ -53,3 +53,9 @@
 **Scope of Application:** Applies universally across the `['Interactional Existence'(-ing) BPMS]` as the supreme spatial-routing authority. It sits intimately among/by the `[Praxial Database]` and the `[Praxial Scenerio Engine]`, dictating exactly how and where the generated reality is allowed to bend to meet the survival needs of the agent.
 
 **Tags:** Praxial-Index, Gravitational-Routing, Vector-Embbedding-Physics, Somatic-Navigation, Spatial-Semantics, Topological-Bending, Ludic-Slipstreams.
+
+**['Praxial Lightweight Dataset Artifact'(-ing) BPMS]: ['The Kinetic Proprioception Cortex'(-ing) BPMS]**
+
+**Scope of Application:** A mandatory foundational component for any entity in the Fun Engine designed to act, move, or speak PULE over time. It is the direct biological equivalent of the somatic nervous system and the cerebellum—the engine of muscle memory and kinetic optimization within the matrix.
+
+**Tags:** Kinetic-Memory, Proprioception-Engine, Thermodynamic-Flight-Log, Fast-Mode-Reflex, Praxial-Time-Series, Skill-Sedimentation
