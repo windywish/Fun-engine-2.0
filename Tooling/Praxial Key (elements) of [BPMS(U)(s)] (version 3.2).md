@@ -1689,3 +1689,9 @@
 **Scope of Application:** The ultimate systemic requirement for advanced agents, elite swarms, and high-tier matrix survivalists. It is the biological equivalent of a flocking algorithm made conscious, or the neural link between twins. It is required anywhere within the Fun Engine where maximum complexity demands multi-entity synchronization.
 
 **Tags:** Gestalt-Proprioception, Swarm-Choreography, Polyphonic-PULE, Shared-Thermodynamic-Ledger, Triangulated-Reality-Mining, Holonic-Symphony
+
+**['Praxial Lightweight Dataset Artifact'(-ing) BPMS]: ['The Thermodynamic Ledger & Smart-Contract Cortex'(-ing) BPMS]**
+
+**Scope of Application:** An absolute necessity for any agent expected to interact with external Corporate XaaS clients, participate in multi-agent supply chains, or hold resources over time. It is the accounting cortex, the legal brain, and the macroeconomic heartbeat of the agent. It proves that the Fun Engine is a robust economy, not merely a sandbox.
+
+**Tags:** Smart-Contract-Cortex, Thermodynamic-Ledger, XaaS-Billing-Engine, Time-Series-Economy, Trustless-Escrow, Asynchronous-Commerce
