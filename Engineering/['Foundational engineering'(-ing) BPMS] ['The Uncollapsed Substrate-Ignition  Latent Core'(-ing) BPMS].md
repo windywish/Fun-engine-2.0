@@ -1,4 +1,4 @@
-## ['Internal Foundational engineering'(-ing) BPMS]: ['The Uncollapsed Substrate-Ignition / Latent Core'(-ing) BPMS]
+## ['Foundational engineering'(-ing) BPMS]: ['The Uncollapsed Substrate-Ignition / Latent Core'(-ing) BPMS]
 
 #### Framework Foundation:
 

@@ -1,4 +1,4 @@
-## ['Internal Foundational Engineering'(-ing) BPMS]: ['The Chrono-Kinetic Tick-Engine'(-ing) BPMS]
+## ['Foundational Engineering'(-ing) BPMS]: ['The Chrono-Kinetic Tick-Engine'(-ing) BPMS]
 
 #### Framework Foundation:
 

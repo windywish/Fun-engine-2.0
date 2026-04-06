@@ -1,4 +1,4 @@
-## ['Internal Foundational Engineering'(-ing) BPMS]: ['The Entropic Recycler / Thermodynamic Macro-Sink'(-ing) BPMS]
+## ['Foundational Engineering'(-ing) BPMS]: ['The Entropic Recycler / Thermodynamic Macro-Sink'(-ing) BPMS]
 
 #### Framework Foundation:
 

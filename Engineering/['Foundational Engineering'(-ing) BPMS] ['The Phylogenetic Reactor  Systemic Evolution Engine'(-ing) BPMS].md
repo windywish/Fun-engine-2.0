@@ -1,4 +1,4 @@
-## ['Internal Foundational Engineering'(-ing) BPMS]: ['The Phylogenetic Reactor / Systemic Evolution Engine'(-ing) BPMS]
+## ['Foundational Engineering'(-ing) BPMS]: ['The Phylogenetic Reactor / Systemic Evolution Engine'(-ing) BPMS]
 
 #### Framework Foundation:
 
