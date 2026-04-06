@@ -1777,3 +1777,9 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 **Scope of Application:** Absolute and mandatory for all participants. Neither the creator, the autonomous artificial intelligence, nor the end-user can interact with the Latent Core without being wrapped in an Embodied Actuation Shell. It is the inescapable vessel of Praxial interaction, guaranteeing the integrity of the Symbiotic Matrix.
 
 **Tags:** ActuationShell, KineticIdentity, EmbodiedObserver, JouleMetabolism, ThermodynamicBoundary, EdgeEmbodiedActuation
+
+**['Praxial Fundational Engineering'(-ing) BPMS]: ['The PULE Semantic-Kinetic Transducer'(-ing) BPMS]**
+
+**Scope of Application:** Vital for any interaction that goes beyond physical 3D movement. It is the primary interface between human creativity and matrix reality. Every text box, voice-command prompt, and autonomous artificial intelligence systemic intent-stream is funneled through the PULE Semantic-Kinetic Transducer before it is allowed to touch the fabric of the universe.
+
+**Tags:** PULE, SemanticKinetic, OntologicalEmancipation, RealityCompiler, LanguageAsPhysics, Spellcrafting
