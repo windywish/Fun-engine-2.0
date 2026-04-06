@@ -60,3 +60,8 @@
 
 **Tags:** EpigeneticMemory, MycelialNetwork, DeepTime, TerrainBasedRAG, AutobiographicalMatrix, PraxialSedimentation, LoreGenerator
 
+**['Foundational engineering'(-ing) BPMS]: ['The Homeostatic Tensegrity / Friction Injector'(-ing) BPMS]**
+
+**Scope of Application:** Omnipresent but Dormant. The Friction Injector watches all sectors, but only activates its heavy immune responses where predictability, "Anti-Science" zero-effort extraction loops, and automation have reached critical, system-threatening densities.
+
+**Tags:** HomeostaticTensegrity, ImmuneSystem, LudicFriction, VarianceAnalysis, Anti-Stagnation, DynamicResistance, ThermodynamicBalancer

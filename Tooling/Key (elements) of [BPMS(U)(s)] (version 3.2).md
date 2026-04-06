@@ -6368,3 +6368,9 @@ The discipline of data crystallization. It designs the lightweight shipping cont
 **Scope of Application:** Underground and Chronological. The Mycelial Ledger sits beneath the physical grid, bridging the gap between the tick-by-tick present and the vast expanse of deep time. It applies to all coordinates, all agents, and all interactions that exceed the minimal Ludic Friction threshold.
 
 **Tags:** EpigeneticMemory, MycelialNetwork, DeepTime, TerrainBasedRAG, AutobiographicalMatrix, PraxialSedimentation, LoreGenerator
+
+**['Foundational engineering'(-ing) BPMS]: ['The Homeostatic Tensegrity / Friction Injector'(-ing) BPMS]**
+
+**Scope of Application:** Omnipresent but Dormant. The Friction Injector watches all sectors, but only activates its heavy immune responses where predictability, "Anti-Science" zero-effort extraction loops, and automation have reached critical, system-threatening densities.
+
+**Tags:** HomeostaticTensegrity, ImmuneSystem, LudicFriction, VarianceAnalysis, Anti-Stagnation, DynamicResistance, ThermodynamicBalancer
