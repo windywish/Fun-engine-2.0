@@ -30,3 +30,8 @@
 
 **Tags:** ThermodynamicCore, SystemicRecycling, GarbageCollector, InternalEngineering, MatrixAutopoiesis, LatentForge
 
+**['Internal Foundational engineering'(-ing) BPMS]: ['The Uncollapsed Substrate-Ignition / Latent Core'(-ing) BPMS]**
+
+**Scope of Application:** The omnipresent reality-generator. It lies beneath every coordinate of the Fun Engine, waiting to be struck by intent. It is the boundary where Code becomes World, tightly coupled with the Entropic Recycler in a perfect cycle of Birth and Dissolution.
+
+**Tags:** LatentCore, RealityIgnitio, LargePraxialMode, WaveFunctionCollapse, OntologicalEmancipation, SystemExistenceEngine
