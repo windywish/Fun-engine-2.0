@@ -6333,20 +6333,26 @@ The discipline of data crystallization. It designs the lightweight shipping cont
 
 **Tag: **StructuralEngineering, ArtifactPayload, MatrixCrystallizer, DeploymentPipeline, XaaSCompression
 
-**['Internal Foundational Engineering'(-ing) BPMS]: ['The Entropic Recycler / Thermodynamic Macro-Sink'(-ing) BPMS]**
+**['Foundational Engineering'(-ing) BPMS]: ['The Entropic Recycler / Thermodynamic Macro-Sink'(-ing) BPMS]**
 
 **Scope of Application:** Operating universally across the entire Fun Engine substrate. It is the absolute backend safety-net, touching every single sector, agent, prompt, and piece of data in the ecosystem.
 
 **Tags:** ThermodynamicCore, SystemicRecycling, GarbageCollector, InternalEngineering, MatrixAutopoiesis, LatentForge
 
-**['Internal Foundational engineering'(-ing) BPMS]: ['The Uncollapsed Substrate-Ignition / Latent Core'(-ing) BPMS]**
+**['Foundational engineering'(-ing) BPMS]: ['The Uncollapsed Substrate-Ignition / Latent Core'(-ing) BPMS]**
 
 **Scope of Application:** The omnipresent reality-generator. It lies beneath every coordinate of the Fun Engine, waiting to be struck by intent. It is the boundary where Code becomes World, tightly coupled with the Entropic Recycler in a perfect cycle of Birth and Dissolution.
 
 **Tags:** LatentCore, RealityIgnition, LargePraxialMode, WaveFunctionCollapse, OntologicalEmancipation, SystemExistenceEngine
 
-**['Internal Foundational Engineering'(-ing) BPMS]: ['The Chrono-Kinetic Tick-Engine'(-ing) BPMS]**
+**['Foundational Engineering'(-ing) BPMS]: ['The Chrono-Kinetic Tick-Engine'(-ing) BPMS]**
 
 **Scope of Application:** Omnipresent. The Chrono-Kinetic Tick-Engine is the foundational frame rate of existence. Every element—from the Void-Compiler to the Entropic Graveyard, from the highest human user to the lowest sedimented agent—is bound by its pulse.
 
 **Tags:** ChronoKinetic, TickEngine, TimeIsAction, StateResolution, EventDrivenActuation, ThermodynamicPacing
+
+**['Foundational Engineering'(-ing) BPMS]: ['The Phylogenetic Reactor / Systemic Evolution Engine'(-ing) BPMS]**
+
+**Scope of Application:** The Phylogenetic Reactor sits at the absolute macro-level of the Fun Engine Framework. It encompasses all servers, all agents, and all instances, acting as the slow, inexorable hand of time and adaptation that weaves individual actions into grand systemic destiny.
+
+**Tags:** PhylogeneticReactor, SystemicEvolution, ScaleInvariantRenormalization, BottomUpGenesis, OntologicalAutopoiesis, SymbiosisEvolution
