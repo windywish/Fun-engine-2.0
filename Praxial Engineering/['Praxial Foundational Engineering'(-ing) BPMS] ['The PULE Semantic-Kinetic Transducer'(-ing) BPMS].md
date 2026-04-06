@@ -1,4 +1,4 @@
-## ['Praxial Fundational Engineering'(-ing) BPMS]: ['The PULE Semantic-Kinetic Transducer'(-ing) BPMS]
+## ['Praxial Foundational Engineering'(-ing) BPMS]: ['The PULE Semantic-Kinetic Transducer'(-ing) BPMS]
 
 #### Framework Foundation:
 
