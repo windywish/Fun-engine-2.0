@@ -65,3 +65,10 @@
 **Scope of Application:** Omnipresent but Dormant. The Friction Injector watches all sectors, but only activates its heavy immune responses where predictability, "Anti-Science" zero-effort extraction loops, and automation have reached critical, system-threatening densities.
 
 **Tags:** HomeostaticTensegrity, ImmuneSystem, LudicFriction, VarianceAnalysis, Anti-Stagnation, DynamicResistance, ThermodynamicBalancer
+
+**['Fundational Engineering'(-ing) BPMS]: [Semantic Transduction and Diffusion'(-ing) BPMS]: ['The Osmotic Gateway'(-ing) BPMS]**
+
+**Scope of Application:** Used whenever the matrix needs to seamlessly "breathe in" continuous, passive data streams from the real world. For example, translating a real-time global supply chain delay (external legacy data) into a high-friction, low-resource localized "storm" within the matrix, forcing internal agents to adapt their survival strategies.
+
+**Tag:** SemanticTransduction, ExternalNonPraxial, DataOsmosis, ThermodynamicWeather, BoundaryDiffusion
+
