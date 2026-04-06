@@ -13,7 +13,7 @@
   - **Mode D (Ontology):** `['atomic facts'(-ing) BPMS]:[Sedimented-Anchoring]`
 - **CGA (Cognitive Genesis Archetype):** `[Epigenetic-Cluster-Synthesis]:['The-Deep-Time-Archivist']`
 - **Scope of Application:** The mandatory subsystem for managing the "history" and "learned behavior" of any agent within the FEF. It prevents amnesia, repetitive looping, and context collapse by forcing the identity to carry the gravitational weight of its past actions.
-- **Tag:** `#external-implementation` `#epigenetic-cluster]` `#memory-sedimentation` `#PCM` `#symbiotic-synthesis` `#Integration` `#epigenetic-memory`
+- **Tag:** `#external-implementation` `#epigenetic-cluster` `#memory-sedimentation` `#PCM` `#symbiotic-synthesis` `#Integration` `#epigenetic-memory`
 
 #### 2. Architectural Hierarchy & Mapping
 
