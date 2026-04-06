@@ -6302,3 +6302,9 @@ The discipline of data crystallization. It designs the lightweight shipping cont
 **Scope of Application:** Exclusively implements Core Task 6 (Robust Implementation), ensuring all generated value inside the matrix can be extracted and sold/used by external XaaS clients. 
 
 **Tags:** Data-Crystallization, XaaS-Packaging, Blueprint-Compiler, Payload-Architecture
+
+**['Thermodynamic Engineering'(-ing) BPMS;'The Universal Matrix-Infrastructure Gateway'(-ing) BPMS]: ['The Thermodynamic Physics-Engine / Entropy Governor'(-ing) BPMS]**
+
+**Scope of Application:** Deployed universally across all exterior-facing API gateways. Used whenever an external client attempts to lease matrix infrastructure, process `.csv`/`.xls` data through the Fun Engine, or invoke a PULE command. It calculates the energetic threshold required for their specific request, deducts the cost, and enforces Ludic Exhaustion if the external client runs out of fuel.
+
+**Tag:** StructuralEngineering, ThermodynamicPayload, FrictionGovernor, EntropyRuleset, MetabolicLedger
