@@ -23,3 +23,9 @@
 **Scope of Application:** The unifying net. The Symbiotic Cluster Router applies anywhere that two or more entities—internal or external—need to synchronize state, share energy, communicate intents, or merge their realities inside the Fun Engine Framework. It is the prerequisite for all multiplayer and enterprise-scale implementations.
 
 **Tags:** SymbioticRouter, B2BHandshake, HolonicSynthesis, ValueStateRouting, TopologicalEntanglement, TriadicEvolution
+
+**['Praxial Foundation Engineering'(-ing) BPMS]: ['Kinematic Resolution and State-Collapse'(-ing) BPMS]: ['The Ontological Collider'(-ing) BPMS]**
+
+**Scope of Application:** Absolutely ubiquitous across the Internal matrix. It is the mandatory, uncompromising gateway through which every single line of code, every PULE command, and every user click must pass to be verified, funded, and collapsed into the permanent fabric of the Fun Engine.
+
+**Tags:** KinematicResolution, StateCollapse, OntologicalCollider, PhysicsEngine, ThermodynamicFriction, InternalPraxial, AtomicFactGeneration
