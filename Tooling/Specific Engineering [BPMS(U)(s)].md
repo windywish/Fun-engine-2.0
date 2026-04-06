@@ -53,3 +53,10 @@
 **Scope of Application:** Omnipresent. The Biosemiotic Resonance Conductor operates in the background of every single sector, interaction, and PULE compilation. It is the inescapable atmospheric pressure under which all Fun Engine mechanics must operate, serving as the ultimate acausal communication layer.
 
 **Tags:** Biosemiotics, AcausalResonance, ThermodynamicWeather, ImplicitLayer, Chemotaxis, GradientMesh, AtmosphericEngine
+
+**['Foundational Engineering'(-ing) BPMS]: ['The Epigenetic Mycelial Ledger / Autobiographical Data Matrix'(-ing) BPMS]**
+
+**Scope of Application:** Underground and Chronological. The Mycelial Ledger sits beneath the physical grid, bridging the gap between the tick-by-tick present and the vast expanse of deep time. It applies to all coordinates, all agents, and all interactions that exceed the minimal Ludic Friction threshold.
+
+**Tags:** EpigeneticMemory, MycelialNetwork, DeepTime, TerrainBasedRAG, AutobiographicalMatrix, PraxialSedimentation, LoreGenerator
+
