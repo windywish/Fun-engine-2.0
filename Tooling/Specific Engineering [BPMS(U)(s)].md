@@ -23,3 +23,10 @@
 **Scope of Application:** Engaged precisely at the end of every successful matrix cycle or B2B smart-contract execution. When the internal agents finish a survival run, or when the Void-Compiler finishes collapsing an Atomic Fact, this pipeline grabs the raw mathematical result, perfectly maps it to `.json` or `.md`, and handles the HTTP/Webhook delivery to the external client.
 
 **Tag: **StructuralEngineering, ArtifactPayload, MatrixCrystallizer, DeploymentPipeline, XaaSCompression
+
+**['Internal Foundational Engineering'(-ing) BPMS]: ['The Entropic Recycler / Thermodynamic Macro-Sink'(-ing) BPMS]**
+
+**Scope of Application:** Operating universally across the entire Fun Engine substrate. It is the absolute backend safety-net, touching every single sector, agent, prompt, and piece of data in the ecosystem.
+
+**Tags:** ThermodynamicCore, SystemicRecycling, GarbageCollector, InternalEngineering, MatrixAutopoiesis, LatentForge
+
