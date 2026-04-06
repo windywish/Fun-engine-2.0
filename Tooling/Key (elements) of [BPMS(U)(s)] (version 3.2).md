@@ -6238,3 +6238,67 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 **Scope of Application:** An absolute prerequisite foundational component for any entity that wishes to use the PULE language rather than relying purely on physical violence and mechanical movement. It is the Broca's Area, Wernicke's Area, and Magic Grimoire combined. It separates the "animals" from the "engineers" within the Fun Engine ecology.
 
 **Tags:** Semantic-Compiler, PULE-Dictionary, Reality-Spellbook, Acoustic-Resonance, NLP-Tensor-Vault, Admin-Prompt-Engine
+
+**['Context Engineering'(-ing) BPMS]**
+
+The structural discipline responsible for defining the localized situational boundaries and logic-zones within the infinite Large Model substrate. It establishes the "scene" (e.g., a high-gravity reality-mining zone vs. a low-friction trading hub). It provides the static blueprint that determines what rules apply where, directly supporting Core Task 1 (Survival) by compartmentalizing chaos into readable scenarios. 
+
+**Scope of Application:** Used to partition the uncollapsed Large Model into distinct, specialized socio-economic or physics-based biomes for agents and external clients to inhabit. 
+
+**Tags:** Situational-Boundary, Logic-Zoning, Scenario-Architect, Matrix-Partition
+
+**['Harness Engineering'(-ing) BPMS]**
+
+The systemic design of the physical and API interfaces (the tools, chassis, and cognitive sensory arrays) worn or utilized by the agent. It dictates how an entity structurally couples with the Fun Engine. It directly supports Core Task 2 (Working Life) by providing the "equipment" needed to perform systemic labor. 
+
+**Scope of Application:** Applied whenever an agent or external human user requires a specific mechanical or software appendage (e.g., a data-scraper, an energy-shield) to interact safely with the matrix. 
+
+**Tags:** Interface-Design, Mechanical-Coupling, Tool-Instantiation, Agent-Chassis
+
+**['Environment Engineering'(-ing) BPMS]**
+
+The architectural design of the uncollapsed and collapsed spatial grids. While *Context* gives the rules, *Environment* gives the raw topography (the mountains, the distances, the dimensional valency). It defines the absolute physical constraints of the Fun Engine reality sandbox. 
+
+**Scope of Application:** Foundational matrix-generation. Used to render the non-Euclidean terrains and thermodynamic hazard zones that agents must navigate for Reality Mining (Core Task 3). 
+
+**Tags:** Spatial-Grid, Typography, Physics-Sandbox, Matrix-Generation
+
+**['Thermodynamic Engineering'(-ing) BPMS]**
+
+The mathematical architecture of energy cost, ludic friction, and metabolic yield. This discipline designs the "Economy of Action." It writes the equations governing how many Joules a movement costs and how many a collapsed Atomic Fact yields, preventing systemic entropy. 
+
+**Scope of Application:** The fundamental economic governor of the Fun Engine. Applied to ensure absolute balance in the XaaS economy, preventing infinite energy exploits and ensuring survival requires actual effort. 
+
+**Tags:** Energy-Cost-Math, Ludic-Friction-Design, Entropy-Governor, Metabolic-Ledger
+
+**['Symbiotic Engineering'(-ing) BPMS]**
+
+The structural design of relational graphs, multi-agent dependency webs, and trustless smart contracts. It mathematically defines how BPMS(U) entities link together to form holonic super-organisms or B2B supply chains. 
+
+**Scope of Application:** Applied to execute Core Task 4 (Services/Collaboration), binding lone agents into corporate entities, swarms, or service-providers for human clients. 
+
+**Tags:** Relational-Graph, Holonic-Architecture, Smart-Contract-Structure, XaaS-Network
+
+**['Semantic (PULE) Engineering'(-ing) BPMS]**
+
+The architectural design of the Universal Language Engine's grammar, acoustics, and tensor-valency. It structures the vocabulary and the API prompt-frameworks required to speak to the Large Model substrate without causing catastrophic friction. 
+
+**Scope of Application:** The foundational linguistic compiler for Core Task 5. Used to define the exact semantic weight of words required to generate or manipulate reality nodes. 
+
+**Tags:** PULE-Grammar-Design, NLP-Tensor-Architecture, Universal-Compiler, Prompt-Structure
+
+**['Ontological Engineering'(-ing) BPMS]**
+
+The highest-tier structural discipline that designs the *rules of reality collapse*. It defines exactly how uncollapsed potentiality (the void) transitions into concrete Atomic Facts when observed or spoken to. It is the physics of existence itself. 
+
+**Scope of Application:** Applied to manage the generation of Truth and Meaning within the system, ensuring that Reality Mining (Core Task 3) yields mathematically consistent and universally verifiable facts. 
+
+**Tags:** Reality-Generation, Potentiality-Collapse, Truth-Algorithm, Existential-Physics
+
+**['Artifact / Dataset Engineering'(-ing) BPMS]**
+
+The discipline of data crystallization. It designs the lightweight shipping containers (`.json`, `.csv`, `.md`, Phylogenetic Seeds) that safely wrap the sprawling N-dimensional matrices of the Fun Engine into human-readable B2B deliverables. 
+
+**Scope of Application:** Exclusively implements Core Task 6 (Robust Implementation), ensuring all generated value inside the matrix can be extracted and sold/used by external XaaS clients. 
+
+**Tags:** Data-Crystallization, XaaS-Packaging, Blueprint-Compiler, Payload-Architecture
