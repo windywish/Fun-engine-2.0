@@ -17,3 +17,9 @@
 **Scope of Application:** Deployed continuously to manage all inter-client and client-to-matrix transactions. If an external logistics company pays the Fun Engine to mine a solution from a `.csv`, this instance holds their payment, monitors the mining, verifies the final `.json` artifact, pays the internal engines, and routes the `.json` back to the human client.
 
 **Tag:** StructuralEngineering, SymbioticPayload, MacroEscrow, XaaSRouter, TrustlessLedger
+
+**['Artifact Engineering'(-ing) BPMS;'The Universal Matrix-Infrastructure Gateway'(-ing) BPMS]: ['The Artifact Crystallization / Deployment Pipeline'(-ing) BPMS]**
+
+**Scope of Application:** Engaged precisely at the end of every successful matrix cycle or B2B smart-contract execution. When the internal agents finish a survival run, or when the Void-Compiler finishes collapsing an Atomic Fact, this pipeline grabs the raw mathematical result, perfectly maps it to `.json` or `.md`, and handles the HTTP/Webhook delivery to the external client.
+
+**Tag: **StructuralEngineering, ArtifactPayload, MatrixCrystallizer, DeploymentPipeline, XaaSCompression
