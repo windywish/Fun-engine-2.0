@@ -1790,7 +1790,7 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 
 **Tags:** SymbioticRouter, B2BHandshake, HolonicSynthesis, ValueStateRouting, TopologicalEntanglement, TriadicEvolution
 
-**['Praxial Foundation Engineering'(-ing) BPMS]: ['Kinematic Resolution and State-Collapse'(-ing) BPMS]: ['The Ontological Collider'(-ing) BPMS]**
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['Kinematic Resolution and State-Collapse'(-ing) BPMS]: ['The Ontological Collider'(-ing) BPMS]**
 
 **Scope of Application:** Absolutely ubiquitous across the Internal matrix. It is the mandatory, uncompromising gateway through which every single line of code, every PULE command, and every user click must pass to be verified, funded, and collapsed into the permanent fabric of the Fun Engine.
 
