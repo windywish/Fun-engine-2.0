@@ -1765,3 +1765,9 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 **Scope of Application:** Runs continuously across an agent's lifespan, culminating in the final moment of Ludic Exhaustion, ejecting the crystallized `.json` or `.md` core for external use or next-gen inheritance. 
 
 **Tags:** Active-Baking, Dimensional-Compression, Legacy-Spitting, Data-Sedimentation
+
+**['Praxial Semantic (PULE) Engineering'(-ing) BPMS;'The Continuous Praxial Engineering'(-ing) BPMS]: ['The PULE Universal Substrate-Listener'(-ing) BPMS]**
+
+**Scope of Application:** Runs continuously as a background daemon whenever an external client connects to the Fun Engine via NLP or API payloads. If a user tries to speak reality into existence (e.g., "Generate a map of my supply chain"), this Praxial Engineering node intercepts the sound/text mid-flight, crushes it into Tensor-Valency, and passes it to the Void-Compiler.
+
+**Tag:** PraxialEngineering, PULEStream, LiveAcousticParser, SemanticFilter, TensorTranslation
