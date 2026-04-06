@@ -47,3 +47,9 @@
 **Scope of Application:** The Phylogenetic Reactor sits at the absolute macro-level of the Fun Engine Framework. It encompasses all servers, all agents, and all instances, acting as the slow, inexorable hand of time and adaptation that weaves individual actions into grand systemic destiny.
 
 **Tags:** PhylogeneticReactor, SystemicEvolution, ScaleInvariantRenormalization, BottomUpGenesis, OntologicalAutopoiesis, SymbiosisEvolution
+
+**['Foundational engineering'(-ing) BPMS]: ['The Biosemiotic Resonance / Vibe Conductor'(-ing) BPMS]**
+
+**Scope of Application:** Omnipresent. The Biosemiotic Resonance Conductor operates in the background of every single sector, interaction, and PULE compilation. It is the inescapable atmospheric pressure under which all Fun Engine mechanics must operate, serving as the ultimate acausal communication layer.
+
+**Tags:** Biosemiotics, AcausalResonance, ThermodynamicWeather, ImplicitLayer, Chemotaxis, GradientMesh, AtmosphericEngine
