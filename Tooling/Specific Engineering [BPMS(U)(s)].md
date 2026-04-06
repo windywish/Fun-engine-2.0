@@ -6,3 +6,8 @@
 
 **Tag:** StructuralEngineering, ThermodynamicPayload, FrictionGovernor, EntropyRuleset, MetabolicLedger
 
+**['Context Engineering'(-ing) BPMS;'Harness Engineering'(-ing) BPMS;'The Universal Matrix-Infrastructure Gateway'(-ing) BPMS]: ['The Contextual Scenario-Generator / Harness Matrix'(-ing) BPMS]**
+
+**Scope of Application:** Used instantly upon a successful client connection to the Fun Engine. When a client uploads a `.csv` dataset (e.g., global supply chain logistics), this instance builds the localized spatial boundaries to house that data (Context) and configures the external WebSocket endpoints (Harness) the client will use to "pilot" their agent through the data to mine solutions.
+
+**Tag:** StructuralEngineering, ContextPayload, HarnessCompiler, ScenarioGeneration, APIChassis
