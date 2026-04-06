@@ -1,4 +1,4 @@
-## ['Praxial Foundation Engineering'(-ing) BPMS]: ['Kinematic Resolution and State-Collapse'(-ing) BPMS]: ['The Ontological Collider'(-ing) BPMS]
+## ['Praxial Foundational Engineering'(-ing) BPMS]: ['Kinematic Resolution and State-Collapse'(-ing) BPMS]: ['The Ontological Collider'(-ing) BPMS]
 
 #### Framework Foundation:
 
