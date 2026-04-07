@@ -1819,3 +1819,9 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 **Scope of Application:** Applies universally across the absolute entirety of the Fun Engine Framework. It touches every node, every token, and every interaction. Without the Trophic Engine, the other engines (Scenario, Cartography, Deep Research) would consume infinite external API bandwidth instantly and destroy the host. It is the gatekeeper of systemic life and death.
 
 **Tags:** Thermodynamic-Economy, Symbiotic-Metabolism, Trophic-Cascades, Ludic-Scarcity, Smart-Contract-Escrow, Action-Economy, Entropic-Decay, Systemic-ROI, Value-Routing
+
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['The Active Morphogenesis'(-ing) BPMS]: ['The Live Structural Mutation Stream'(-ing) BPMS]**
+
+**Scope of Application:** Used when a client's data stream is too unpredictable for static rulesets. Deployed for constructive niche genesis, substrate re-genesis, and real-time architectural evolution (e.g., a cybersecurity sector that must dynamically mutate its firewall topology every millisecond to survive active adversarial attacks, or an economic simulation that must grow entirely new trade-route logic trees on the fly).
+
+**Tags:** PraxialEngineering, ActiveMorphogenesis LiveStructuralEvolution, NicheGenesis, NeuralHolonicTree, ContinuousAdaptation
