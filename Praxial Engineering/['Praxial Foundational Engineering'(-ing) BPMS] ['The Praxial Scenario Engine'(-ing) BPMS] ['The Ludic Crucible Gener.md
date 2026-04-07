@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]:  ['The Praxial Scenario Engine'(-ing) BPMS]: ['The Ludic Crucible Generator'(-ing) BPMS]
+## ['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Scenario Engine'(-ing) BPMS]: ['The Ludic Crucible Generator'(-ing) BPMS]
 
 #### 1. Metadata
 
