@@ -1807,3 +1807,10 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 **Scope of Application:** Applies system-wide wherever there is a frontier, an unknown variable, or a need to rapidly acquire and structuralize knowledge from the Large Model without placing the burden of prompt-engineering on the human user. It is the fundamental organ of curiosity and intellectual metabolism for the Symbiotic Cluster.
 
 **Tags:** Epistemic-Cartography, Deep-Research, Latent-Space-Foraging, Autonomous-Crawlers, Reality-Mining, Nav-Mesh, Graph-Semantics, PULE-Formatting, Hallucination-Pruning
+
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['The Continuous Praxial Deep Research Stream'(-ing) BPMS]: ['The Abyssal Synthesis Engine'(-ing) BPMS]**
+
+**Scope of Application:** Used when the Fun Engine, an internal Symbiotic Cluster, or an external B2B client requires exhaustive, multi-step logic verification, novel ecosystem generation, longitudinal data analysis, or deep cross-disciplinary synthesis from the latent space.
+
+**Tags:** PraxialDeepResearch, AbyssalMining, EpistemicSynthesis, HeavyComputeStream, TruthTree
+
