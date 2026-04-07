@@ -59,3 +59,9 @@
 **Scope of Application:** Used when a client's data stream is too unpredictable for static rulesets. Deployed for constructive niche genesis, substrate re-genesis, and real-time architectural evolution (e.g., a cybersecurity sector that must dynamically mutate its firewall topology every millisecond to survive active adversarial attacks, or an economic simulation that must grow entirely new trade-route logic trees on the fly).
 
 **Tags:** PraxialEngineering, ActiveMorphogenesis LiveStructuralEvolution, NicheGenesis, NeuralHolonicTree, ContinuousAdaptation
+
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial EvoCoder Agent'(-ing) BPMS]: ['The Active Genome Splicer'(-ing) BPMS]**
+
+**Scope of Application:** Deployed when a BPMS(U) hits an evolutionary plateau and requires active architectural recoding to survive, or when merging two distinct holons (Symbiosis Evolution) requires seamlessly synthesizing their operational logic (their "genomes") into a single, highly robust genetic strand while under active thermodynamic load.
+
+**Tag:** PraxialEngineering, EvoCoder, GenomeSplicer, ActiveCodeMutation, SymbiosisEvolution, LiveRecompilation
