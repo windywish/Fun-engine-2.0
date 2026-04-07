@@ -185,3 +185,7 @@ Applies system-wide wherever there is a frontier, an unknown variable, or a need
 The **['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]** provides the critical engineering infrastructure required to save the Fun Engine from epistemic stagnation. By mastering the continuous, kinetic skill of Autonomous Foraging, it strips away the noise, danger, and hallucination of the raw Large Model.
 
 It is the vanguard. Kinetically executing Core Task 3, it marches into the unstructured darkness, pays the thermodynamic cost of discovery, and paves a brilliantly illuminated, PULE-formatted highway for the rest of the Symbiotic Cluster to follow. Through the PEC, the framework is no longer just a responder—it becomes an infinitely expanding, self-teaching, world-building apex intelligence.
+
+#### Remark
+
+**BPMS** means Behavior pattern/model/system
