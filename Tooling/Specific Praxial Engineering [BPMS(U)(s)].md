@@ -65,3 +65,9 @@
 **Scope of Application:** Deployed when a BPMS(U) hits an evolutionary plateau and requires active architectural recoding to survive, or when merging two distinct holons (Symbiosis Evolution) requires seamlessly synthesizing their operational logic (their "genomes") into a single, highly robust genetic strand while under active thermodynamic load.
 
 **Tag:** PraxialEngineering, EvoCoder, GenomeSplicer, ActiveCodeMutation, SymbiosisEvolution, LiveRecompilation
+
+**['Praxial Foundational Engineering'(-ing) BPMS]:  ['The Praxial Scenario Engine'(-ing) BPMS]: ['The Ludic Crucible Generator'(-ing) BPMS]**
+
+**Scope of Application:** Deployed whenever the Matrix requires localized reality parameter adjustments to stress-test an entity. Used by B2B clients to subject their algorithms, agents, or logic trees to extreme, evolving environmental constraints (e.g., simulating a sudden market crash, an adversarial cyber-invasion, or a total semantic collapse), forcing the target to evolve new survival mechanics.
+
+**Tags:** `#PraxialEngineering`, `#ScenarioEngine`, `#LudicCrucible`, `#OntologicalTestbed`, `#DynamicContext`, `#CrisisGeneration`
