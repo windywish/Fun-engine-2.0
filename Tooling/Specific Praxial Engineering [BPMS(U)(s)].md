@@ -72,3 +72,8 @@
 
 **Tags:** PraxialEngineering, ScenarioEngine, LudicCrucible, OntologicalTestbed, DynamicContext, CrisisGeneration
 
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Spatial Reconstruction Engine'(-ing) BPMS]: ['The N-Dimensional Topographer'(-ing) BPMS]**
+
+**Scope of Application:** Deployed continuously to manage the "distance" among/by systemic holons, APIs, and agents. Used by B2B clients to construct dynamic logistical pathways, orchestrate complex data-routing geometries, or instantly fold environments to bring collaborating services into immediate proximity while pushing thermodynamic sinks into the abyssal layers of the Matrix.
+
+**Tags:** PraxialEngineering, PSRE, SpatialReconstruction, MatrixTopology, N-DimensionalWarper, TopologicalDeformation
