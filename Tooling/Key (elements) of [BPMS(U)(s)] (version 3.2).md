@@ -6380,3 +6380,9 @@ The discipline of data crystallization. It designs the lightweight shipping cont
 **Scope of Application:** Used whenever the matrix needs to seamlessly "breathe in" continuous, passive data streams from the real world. For example, translating a real-time global supply chain delay (external legacy data) into a high-friction, low-resource localized "storm" within the matrix, forcing internal agents to adapt their survival strategies.
 
 **Tag:** SemanticTransduction, ExternalNonPraxial, DataOsmosis, ThermodynamicWeather, BoundaryDiffusion
+
+**['Foundational Engineering'(-ing) BPMS]: ['The Metabolic Governor'(-ing) BPMS]: ['The Thermodynamic Limit Controller'(-ing) BPMS]**
+
+**Scope of Application:** Used when an external B2B client, internal Dev cluster, or autonomous holon needs to establish the absolute physical constraints of their simulation (e.g., setting the maximum large model token API burn rate per minute, defining the background entropic decay of unmaintained artifacts, or establishing the precise Joule-cost of a PULE emission) to prevent API bankruptcy and strictly enforce Ludic Scarcity.
+
+**Tags:** StructuralEngineering, MetabolicGovernor, ThermodynamicPhysics, RulesetConfig, LimitController

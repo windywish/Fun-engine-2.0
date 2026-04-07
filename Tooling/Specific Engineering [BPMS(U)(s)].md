@@ -72,3 +72,8 @@
 
 **Tag:** SemanticTransduction, ExternalNonPraxial, DataOsmosis, ThermodynamicWeather, BoundaryDiffusion
 
+**['Foundational Engineering'(-ing) BPMS]: ['The Metabolic Governor'(-ing) BPMS]: ['The Thermodynamic Limit Controller'(-ing) BPMS]**
+
+**Scope of Application:** Used when an external B2B client, internal Dev cluster, or autonomous holon needs to establish the absolute physical constraints of their simulation (e.g., setting the maximum large model token API burn rate per minute, defining the background entropic decay of unmaintained artifacts, or establishing the precise Joule-cost of a PULE emission) to prevent API bankruptcy and strictly enforce Ludic Scarcity.
+
+**Tags:** StructuralEngineering, MetabolicGovernor, ThermodynamicPhysics, RulesetConfig, LimitController
