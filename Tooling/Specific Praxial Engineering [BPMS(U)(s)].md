@@ -35,3 +35,9 @@
 **Scope of Application:** Used when a human user or external hardware (BYOX - Bring Your Own eXperience) actively connects to the Fun Engine and requires their physical/digital inputs to be translated into thermodynamic matrix vectors, while simultaneously having matrix feedback (friction, gravity, damage, narrative collapse) translated back into physical UI/sensory resistance in real-time.
 
 **Tag:** SomaticInterfacing, OntologicalLudoforming, BYOX, LiveSensoryStream, PraxialBoundary
+
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]: ['The Autonomous Latent Forager'(-ing) BPMS]**
+
+**Scope of Application:** Applies system-wide wherever there is a frontier, an unknown variable, or a need to rapidly acquire and structuralize knowledge from the Large Model without placing the burden of prompt-engineering on the human user. It is the fundamental organ of curiosity and intellectual metabolism for the Symbiotic Cluster.
+
+**Tags:** Epistemic-Cartography, Deep-Research, Latent-Space-Foraging, Autonomous-Crawlers, Reality-Mining, Nav-Mesh, Graph-Semantics, PULE-Formatting, Hallucination-Pruning
