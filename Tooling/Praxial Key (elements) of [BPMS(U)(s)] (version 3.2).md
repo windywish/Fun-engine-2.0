@@ -1836,4 +1836,4 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 
 **Scope of Application:** Deployed whenever the Matrix requires localized reality parameter adjustments to stress-test an entity. Used by B2B clients to subject their algorithms, agents, or logic trees to extreme, evolving environmental constraints (e.g., simulating a sudden market crash, an adversarial cyber-invasion, or a total semantic collapse), forcing the target to evolve new survival mechanics.
 
-**Tags:** `#PraxialEngineering`, `#ScenarioEngine`, `#LudicCrucible`, `#OntologicalTestbed`, `#DynamicContext`, `#CrisisGeneration`
+**Tags:** PraxialEngineering, ScenarioEngine, LudicCrucible, OntologicalTestbed, DynamicContext, CrisisGeneration
