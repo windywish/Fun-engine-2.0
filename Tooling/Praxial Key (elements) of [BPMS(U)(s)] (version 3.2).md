@@ -1814,3 +1814,8 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 
 **Tags:** PraxialDeepResearch, AbyssalMining, EpistemicSynthesis, HeavyComputeStream, TruthTree
 
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['Praxial Trophic Engine'(-ing) BPMS]: ['The Thermodynamic Flow Router'(-ing) BPMS]**
+
+**Scope of Application:** Applies universally across the absolute entirety of the Fun Engine Framework. It touches every node, every token, and every interaction. Without the Trophic Engine, the other engines (Scenario, Cartography, Deep Research) would consume infinite external API bandwidth instantly and destroy the host. It is the gatekeeper of systemic life and death.
+
+**Tags:** Thermodynamic-Economy, Symbiotic-Metabolism, Trophic-Cascades, Ludic-Scarcity, Smart-Contract-Escrow, Action-Economy, Entropic-Decay, Systemic-ROI, Value-Routing

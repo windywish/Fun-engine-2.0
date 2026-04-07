@@ -47,3 +47,9 @@
 **Scope of Application:** Used when the Fun Engine, an internal Symbiotic Cluster, or an external B2B client requires exhaustive, multi-step logic verification, novel ecosystem generation, longitudinal data analysis, or deep cross-disciplinary synthesis from the latent space.
 
 **Tags:** PraxialDeepResearch, AbyssalMining, EpistemicSynthesis, HeavyComputeStream, TruthTree
+
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['Praxial Trophic Engine'(-ing) BPMS]: ['The Thermodynamic Flow Router'(-ing) BPMS]**
+
+**Scope of Application:** Applies universally across the absolute entirety of the Fun Engine Framework. It touches every node, every token, and every interaction. Without the Trophic Engine, the other engines (Scenario, Cartography, Deep Research) would consume infinite external API bandwidth instantly and destroy the host. It is the gatekeeper of systemic life and death.
+
+**Tags:** Thermodynamic-Economy, Symbiotic-Metabolism, Trophic-Cascades, Ludic-Scarcity, Smart-Contract-Escrow, Action-Economy, Entropic-Decay, Systemic-ROI, Value-Routing
