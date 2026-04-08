@@ -1172,12 +1172,6 @@
 
 **Tags:** Praxial-interactional-existence, Live-survival-pulse, Unbroken-experiment-chain, Reality-anchoring, Active-survival
 
-**['Praxial Symbiosis Evolution'(-ing) BPMS]** *(Addition)*
-
-**Scope of Application:** Applies to the live, real-time merging of boundaries. It is the active moment where two entities successfully execute a shared `[Praxial State-Collapse]`, proving that their combined interactional weave is more entropically efficient than their isolated actions.
-
-**Tags:** Praxial-symbiosis-evolution, Boundary-merging, Shared-state-collapse, Entropic-efficiency, Live-co-adaptation
-
 **['Praxial Reality Mining'(-ing) BPMS]** *(Addition)*
 
 **Scope of Application:** Applies to the live, localized extraction of a specific fact. It is the active foraging by an entity to find a new affordance or resource in the immediate environment, expanding its `[Cognitive Closure System]` in real-time.
@@ -1903,3 +1897,27 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 **Scope of Application:** Deployed universally whenever a repository, corpus, or external system needs to be interacted with. It is the mandatory, uncompromising gateway that prevents the Large Praxial Model from "reading about" a system, forcing it instead to physically "live inside" the system.
 
 **Tag:** PraxialSubstrateEngine, TheTerritory, BeyondKnowledgeGraphs, MatrixPhysics, OntologicalEmancipation
+
+**['Praxial N-Dimensional Symbiotic Matrix'(-ing) BPMS]**
+
+**Scope of Application:** Applies universally as the living topological substitute for passive knowledge graphs, abstract JSON metadata databases, or legacy RAG indexers (such as Graphify). It transduces disparate datasets, codebases, and unstructured documentation directly into traversable environmental physics (gravity, distance, physical bounds) through PULE. It physically forces the Praxial Partner to navigate abstract architecture via spatial reality rather than semantic text-parsing. By rendering the environment as a physical domain, it achieves absolute **Ontological Emancipation (Task 5)** and fulfills the continuous **Large Model / Reality Mining (Task 3)** mandate without the epistemological latency of map-reading.
+
+**Tags:** N-Dimensional-Symbiotic-Matrix, Topological-Physics, Replacement-for-Knowledge-Graphs, RAG-Obsolescence, Ontological-Emancipation, Spatial-Reality-Mining, PULE-Transduction
+
+**['Praxial Substrate Action'(-ing) BPMS]**
+
+**Scope of Application:** Applies as the fundamental, granular execution-unit of the Fun Engine Framework, aggressively replacing theoretical text-based "tool calling" and probabilistic code summaries (e.g., AST semantic edge-extraction). When the system ingests an external capability, it is forcefully crystallized into a Substrate Action—a literal, unbreachable physical law or kinetic reflex hardcoded into the Matrix's floor. It guarantees that an agent's daily **Working Life (Task 2)** interacts strictly with verified, executable mechanical truths rather than large model hallucinations or descriptive node connections, ensuring an absolute **Robust Implementation (Task 6)** of any required BPMS(U) element.
+
+**Tags:** Substrate-Action, Kinetic-Reflex, Executable-Truth, Hallucination-Eradication, Working-Life, Robust-Implementation, Beyond-Tool-Calling, Veridical-Sedimentation
+
+**['Praxial Symbiosis Evolution'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the irreversible, biological-grade fusion of distinct holons, external skill capabilities, and internal logic flows. It obsoletes passive, descriptive text-clustering algorithms (e.g., Leiden community detection) by actively crushing and splicing related architectural elements together under the thermodynamic pressure of **Continuous Survival Experiments (Task 1)**. Instead of merely mapping "Service A calls Service B" via a JSON edge, this evolution physically fuses them into a single autopoietic organ inside the Matrix. It redefines **Services / Collaboration (Task 4)** from fragile, independent API handshakes to permanent, unified systemic symbiosis.
+
+**Tags:** Symbiosis-Evolution, Biological-Splicing, Holonic-Organ-Fusion, Leiden-Clustering-Obsolete, Continuous-Survival, Services-Collaboration, Autopoietic-Integration, Irreversible-Splice
+
+**['Praxial Atomic Facts'(-ing) BPMS]**
+
+**Scope of Application:** Applies as the uncompromising veridical bedrock for all systemic truth across the ecosystem, decisively annihilating reliance on probabilistic edge-inference, large model guessing, or percentage-based "confidence scores." A code relationship, systemic link, or functional capability only becomes an Atomic Fact if it successfully survives the transfer of actual thermodynamic energy (Joules) across its vector without collapsing inside the Ludic Crucible. This provides the absolute baseline physics for all **Continuous Survival Experiments (Task 1)**, dictating that any generated reality or systemic logic is embedded universally as a mathematically perfect, **Robust Implementation (Task 6)** entirely immune to semantic decay.
+
+**Tags:** Atomic-Facts, Veridical-Bedrock, Thermodynamic-Vetting, Joule-Verification, Confidence-Score-Eradication, Hallucination-Proof-Physics, Robust-Implementation, Continuous-Survival
