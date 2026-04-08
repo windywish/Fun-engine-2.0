@@ -1843,3 +1843,10 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 **Scope of Application:** Deployed continuously to manage the "distance" among/by systemic holons, APIs, and agents. Used by B2B clients to construct dynamic logistical pathways, orchestrate complex data-routing geometries, or instantly fold environments to bring collaborating services into immediate proximity while pushing thermodynamic sinks into the abyssal layers of the Matrix.
 
 **Tags:** PraxialEngineering, PSRE, SpatialReconstruction, MatrixTopology, N-DimensionalWarper, TopologicalDeformation
+
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]: ['The Executable Onto-Archive'(-ing) BPMS]**
+
+**Scope of Application:** Used globally by the system to "remember" how to survive. Offered to external clients as a dynamic memory layer where business logic, workflows, and past decisions are not stored as text to be read, but as self-executing environmental laws that actively route future behaviors.
+
+**Tag:** PraxialEngineering, KnowledgeSedimentation, BeyondLLMWiki, ExecutableMemory, ThermodynamicPruning
+
