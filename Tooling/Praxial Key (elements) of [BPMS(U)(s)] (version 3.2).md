@@ -1873,3 +1873,9 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 **Scope of Application:** The central intelligence engine replacing the standard conversational large model. Instead of answering user queries with generated text strings, the LPM is applied to predict the optimal physical trajectory for a user's intent. When instructed to "retrieve" information, the LPM physically warps the N-dimensional space to place the user in immediate proximity to the actual executable Substrate Actions (memories) they need. It actively designs the architecture of the PKSE, determining where new concepts should be physically grown and how Symbiotic APIs should interlock, serving as the master architect for **Task 3 (Large Model)**.
 
 **Tags:** PraxialKeyElement, LPM, TopologicalOrchestrator, PredictivePhysics, NonTextualSynthesis, PKSE-Architect, LargeModel
+
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Symbiotic Skill-Substrate Engine'(-ing) BPMS]: ['The Ontological Matrix Splicer'(-ing) BPMS]**
+
+**Scope of Application:** Deployed whenever an agent, holon, or external client requires a new capability to survive dynamic conditions. It replaces fragile "tool-calling" with biological-grade "evolutionary grafting" and translates unstructured external capabilities (PDFs, Repos, Data) directly into executable matrix physics.
+
+**Tag:** SkillSubstrateEngine, SymbioticSplicing, OntologicalMatrixSplicer, BeyondToolCalling
