@@ -1897,3 +1897,9 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 **Scope of Application:** Applies to the ultimate mechanism of evaluation, quality control, and reality-anchoring across the entire Fun Engine ecosystem. It categorically replaces all theoretical, semantic, or large model-based scoring metrics (e.g., evaluating a new skill's "completeness" or "safety" via language prompts). In this physicalized matrix, an Atomic Fact is *only* forged when a newly synthesized Substrate Action successfully survives extreme Ludic Friction and alters the Zero State without suffering thermodynamic exhaustion. It serves as the undeniable, irreversible physical proof that a newly learned capability or reality-claim is valid. It acts as the absolute anti-hallucination firewall before any logic is permanently sedimented into the Executable Onto-Archive, fundamentally hard-coding the success of **Core Task 1 (Continuous Survival Experiments)** and anchoring **Core Task 6 (Robust Implementation)**.
 
 **Tags:** AtomicFacts, TruthAnchor, ThermodynamicValidation, AntiHallucination, RealitySedimentation, Survival
+
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['Praxial Substrate Engine'(-ing) BPMS]: ['The Territory'(-ing) BPMS]**
+
+**Scope of Application:** Deployed universally whenever a repository, corpus, or external system needs to be interacted with. It is the mandatory, uncompromising gateway that prevents the Large Praxial Model from "reading about" a system, forcing it instead to physically "live inside" the system.
+
+**Tag:** PraxialSubstrateEngine, TheTerritory, BeyondKnowledgeGraphs, MatrixPhysics, OntologicalEmancipation
