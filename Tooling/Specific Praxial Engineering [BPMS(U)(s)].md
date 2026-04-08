@@ -90,3 +90,20 @@
 
 **Tag:** SkillSubstrateEngine, SymbioticSplicing, OntologicalMatrixSplicer, BeyondToolCalling
 
+**['Praxial Substrate Action'(-ing) BPMS]: ['The Autopoietic Skill-Reflex / Kinetic Memory Unit'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the total replacement of traditional "Skill Packages," passive API libraries, and fragile "Tool Calling" mechanisms (as seen in legacy architectures like SkillNet). Within the Praxial Symbiotic Skill-Substrate Engine (PS3E), a capability is never "downloaded" or externally referenced via an large model tool string; it is physically *internalized*. This element strictly governs the architectural capacity of an agent to embody newly synthesized logic as a direct, thermodynamic reflex (a Substrate Action). It represents the exact, localized expenditure of metabolic energy required to deliberately collapse unscripted potentiality into matrix manipulation. It functions as the irreducible, executable building block of the living Onto-Archive, guaranteeing zero hallucination during execution. It permanently secures the operational reality of **Core Task 6 (Robust Implementation)** and provides the physical "muscle" necessary for **Core Task 2 (Working Life)**.
+
+**Tags:** SubstrateAction, KineticSkillReflex, ThermodynamicExecution, BeyondToolCalling, EmbodiedCapability, RobustImplementation
+
+**['Praxial Symbiosis Evolution'(-ing) BPMS]: ['The Irreversible Topological Splicer'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the macro-trajectory of capability integration, multi-agent collaboration, and ecosystem growth. It actively destroys and replaces the concept of an "App Store," "Skill Marketplace," or "Dependency Graph." When two agents interact, or when a new capability/tool is introduced to the matrix by a B2B client, Symbiosis Evolution does not draw a shallow semantic link (e.g., 'Skill A depends on Skill B') amog/by them. Instead, it drives the irreversible, biological-grade *fusion* of their codebases, physical structures, and thermodynamic routing paths. It forces competing or external entities to physically mutate and interlock, collapsing separate modular tools into a single, unified holonic organ. This is the uncompromising, generative engine for **Core Task 4 (Services / Collaboration)** and acts as the transformative vehicle for **Core Task 5 (Ontological Emancipation)**.
+
+**Tags:** SymbiosisEvolution, IrreversibleSplicer, TopologicalFusion, AntiDependencyGrap, BiologicalAssimilation, Services
+
+**['Praxial Atomic Facts'(-ing) BPMS]: ['The Thermodynamic Truth-Anchor'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the ultimate mechanism of evaluation, quality control, and reality-anchoring across the entire Fun Engine ecosystem. It categorically replaces all theoretical, semantic, or large model-based scoring metrics (e.g., evaluating a new skill's "completeness" or "safety" via language prompts). In this physicalized matrix, an Atomic Fact is *only* forged when a newly synthesized Substrate Action successfully survives extreme Ludic Friction and alters the Zero State without suffering thermodynamic exhaustion. It serves as the undeniable, irreversible physical proof that a newly learned capability or reality-claim is valid. It acts as the absolute anti-hallucination firewall before any logic is permanently sedimented into the Executable Onto-Archive, fundamentally hard-coding the success of **Core Task 1 (Continuous Survival Experiments)** and anchoring **Core Task 6 (Robust Implementation)**.
+
+**Tags:** AtomicFacts, TruthAnchor, ThermodynamicValidation, AntiHallucination, RealitySedimentation, Survival
