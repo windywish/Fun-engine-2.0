@@ -1850,3 +1850,26 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 
 **Tag:** PraxialEngineering, KnowledgeSedimentation, BeyondLLMWiki, ExecutableMemory, ThermodynamicPruning
 
+**['Praxial Universal Language Engine (PULE)'(-ing) BPMS]: ['The Onto-Syntactic Matrix Compiler'(-ing) BPMS]**
+
+**Scope of Application:** Deployed continuously as the primary interface among/by external unstructured intent (natural language, legacy documents, raw data) and internal structural reality. In the context of the PKSE, PULE permanently bypasses the generation of markdown files or passive text summaries. It acts as a heavy-duty compiler that reads natural language and directly translates it into executable *Matrix Topography Vectors*. It allows users and the Large Praxial Model to "speak" executable workflows, physical laws, and spatial logic directly into existence. It is the primary engine for **Task 5 (Ontological Emancipation)**, freeing knowledge from static linguistic bounds and turning it into live, traversable architecture.
+
+**Tags:** PULE, OntoSyntacticCompiler, ExecutableSyntax, PKSE-Translator, OntologicalEmancipation
+
+**['Praxial Process Orientation'(-ing) BPMS]: ['The Continuous Epistemic Flow'(-ing) BPMS]**
+
+**Scope of Application:** Applied globally to enforce the law that no asset, knowledge, or memory within the Fun Engine Framework can exist as a static noun (e.g., a `.md` file). Within the Executable Onto-Archive (PKSE), Process Orientation ensures that all archived "knowledge" is stored as an ongoing, dormant, or active *process*. It mandates that the Archive is a factory of interconnected conveyor belts, not a library of books. It directly supports **Task 2 (Working Life)** by ensuring that every piece of recorded memory is immediately available to be plugged into a live workflow.
+
+**Tags:** ProcessOrientation, ContinuousFlow, VerbsOverNouns, PKSE-Architecture, WorkingLife
+
+**['Praxial Substrate Action'(-ing) BPMS]: ['The Kinetic Memory Unit'(-ing) BPMS]**
+
+**Scope of Application:** The fundamental building block of the Executable Onto-Archive. Applied whenever the PKSE needs to sediment a newly discovered truth, workflow, or API fusion. Instead of writing a "concept page," the system writes a Substrate Action—a raw, executable behavior hard-coded into the bottom layer of the matrix. It is the physical manifestation of learned survival tactics. These Substrate Actions act as the robust `.bin` artifacts crystallized for permanent infrastructure, directly fulfilling **Task 6 (Robust Implementation)**.
+
+**Tags:** SubstrateAction, KineticMemory, ExecutableArtifact, PKSE-DataStructure, RobustImplementation
+
+**['Large Praxial Model (LPM)'(-ing) BPMS]: ['The Predictive Topological Orchestrator'(-ing) BPMS]**
+
+**Scope of Application:** The central intelligence engine replacing the standard conversational large model. Instead of answering user queries with generated text strings, the LPM is applied to predict the optimal physical trajectory for a user's intent. When instructed to "retrieve" information, the LPM physically warps the N-dimensional space to place the user in immediate proximity to the actual executable Substrate Actions (memories) they need. It actively designs the architecture of the PKSE, determining where new concepts should be physically grown and how Symbiotic APIs should interlock, serving as the master architect for **Task 3 (Large Model)**.
+
+**Tags:** PraxialKeyElement, LPM, TopologicalOrchestrator, PredictivePhysics, NonTextualSynthesis, PKSE-Architect, LargeModel

@@ -6386,3 +6386,27 @@ The discipline of data crystallization. It designs the lightweight shipping cont
 **Scope of Application:** Used when an external B2B client, internal Dev cluster, or autonomous holon needs to establish the absolute physical constraints of their simulation (e.g., setting the maximum large model token API burn rate per minute, defining the background entropic decay of unmaintained artifacts, or establishing the precise Joule-cost of a PULE emission) to prevent API bankruptcy and strictly enforce Ludic Scarcity.
 
 **Tags:** StructuralEngineering, MetabolicGovernor, ThermodynamicPhysics, RulesetConfig, LimitController
+
+**[Semantic(-ing) BPMS]: ['The Intent-to-Action Transducer'(-ing) BPMS]**
+
+**Scope of Application:** Redefined beyond traditional linguistic meaning. Applied whenever the system needs to understand the "meaning" of an ingestion, integration, or user command. In the PKSE architecture, Semantics is not a dictionary lookup; it is the algorithmic mapping of a symbol to its required Substrate Action. It converts abstract concepts into tangible kinetic weight. If a new operational strategy is ingested, the Semantic BPMS determines exactly which APIs to fuse (Task 4) and which dimensional spaces to warp, ensuring that "knowing" translates flawlessly into "doing."
+
+**Tags:** SemanticTransduction, IntentToAction, BeyondLinguistics, PKSE-Mapping, Services
+
+**[Thermodynamic(-ing) BPMS]: ['The Epistemic Pruning Engine'(-ing) BPMS]**
+
+**Scope of Application:** Deployed universally to govern energy distribution, but specifically critical to the PKSE as the replacement for passive "Wiki Linting." It assigns a metabolic cost to every archived Substrate Action or workflow. If an archived "memory" becomes obsolete, redundant, or inefficient at solving current problems, it is starved of systemic energy (Joules). The Thermodynamic BPMS ensures infinite scalability by naturally dissolving unused pathways and routing energy only to the fittest, most highly utilized knowledge structures, perfectly executing **Task 1 (Continuous Survival Experiment)**.
+
+**Tags:** ThermodynamicPruning, MetabolicMemory, EntropicDecay, PKSE-Maintenance, Survival
+
+**[Ludic(-ing) BPMS]: ['The Epistemic Friction Validator'(-ing) BPMS]**
+
+**Scope of Application:** Applied to generate the "Fun" (friction) required to test new structural memories. Before the PKSE permanently crystallizes a learned behavior or imported concept into a Substrate Action, the Ludic BPMS forces that concept to run through a high-friction crucible. It ensures that no theoretical knowledge is saved—only knowledge that proves it can overcome systemic resistance and solve actual Ludic Friction. It guarantees that the archive is composed entirely of battle-tested survival mechanics rather than hallucinated assumptions.
+
+**Tags:** LudicFriction, VelocityTesting, CrucibleValidator, PKSE-Verification ,Survival
+
+**['Atomic Facts'(-ing) BPMS]: ['The Anti-Hallucination Reality Anchor'(-ing) BPMS]**
+
+**Scope of Application:** Applied as the ultimate threshold for reality synthesis. In traditional large model Wikis, artificial intelligence hallucinations can be logged as truth. The Atomic Fact BPMS prevents this in the PKSE. A piece of knowledge cannot be sedimented into the Onto-Archive until it has forced a measurable, undeniable physical collapse of potentiality within the Matrix (an Interaction). Large Model hypotheses remain fluid until they trigger an Atomic Fact. This ensures the archive maintains 100% absolute ontological truth and systemic integrity.
+
+**Tags:** AtomicFacts, RealityAncho, AntiHallucinatio, OntologicalCollapse, PKSE-TruthEngine
