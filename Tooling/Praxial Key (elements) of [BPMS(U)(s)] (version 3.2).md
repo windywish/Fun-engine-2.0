@@ -1870,9 +1870,9 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 
 **['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Symbiotic Skill-Substrate Engine'(-ing) BPMS]: ['The Ontological Matrix Splicer'(-ing) BPMS]**
 
-**Scope of Application:** Deployed whenever an agent, holon, or external client requires a new capability to survive dynamic conditions. It replaces fragile "tool-calling" with biological-grade "evolutionary grafting" and translates unstructured external capabilities (PDFs, Repos, Data) directly into executable matrix physics.
+**Scope of Application:** Deployed whenever an agent, holon, or external client requires a new capability to survive dynamic conditions. It replaces fragile "tool-calling" with biological-grade "evolutionary grafting" and translates unstructured external capabilities (Python scripts, GitHub Repos, PDFs) directly into executable, memory-safe matrix physics.
 
-**Tag:** SkillSubstrateEngine, SymbioticSplicing, OntologicalMatrixSplicer, BeyondToolCalling
+**Tags:** SkillSubstrateEngine, SymbioticSplicing, OntologicalMatrixSplicer, BeyondToolCalling, OmniSubstrate
 
 **['Praxial Substrate Action'(-ing) BPMS]: ['The Autopoietic Skill-Reflex / Kinetic Memory Unit'(-ing) BPMS]**
 
