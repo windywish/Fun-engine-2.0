@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['Cyber-Physical Actuator Node'(-ing) BPMS]: ['The Substrate Tether'(-ing) BPMS])
+## ['Praxial Foundational Engineering'(-ing) BPMS]: ['Cyber-Physical Actuator Node'(-ing) BPMS]: ['The Substrate Tether'(-ing) BPMS]
 
 #### 1. Metadata
 
@@ -43,8 +43,8 @@ This maps how the Actuator Node physically executes the 6 Core Tasks as a bridge
 /opt/praxial_actuator_node/ (or D:/Praxial_Node/)
 │
 ├── 00_The_Symbiotic_Tether/                       # Enforces: Task 4 & Task 3 (Connection)
-│   ├── webrtc_brain_uplink.rs                     # Maintains persistent WebSocket/WebRTC connection to the LLM Cloud/PULE Engine.
-│   └── telemetric_heartbeat_stream.arrow          # Streams continuous local OS/hardware status (CPU, RAM, Temp) UP to the LLM.
+│   ├── webrtc_brain_uplink.rs                     # Maintains persistent WebSocket/WebRTC connection to the large model Cloud/PULE Engine.
+│   └── telemetric_heartbeat_stream.arrow          # Streams continuous local OS/hardware status (CPU, RAM, Temp) UP to the large model.
 │
 ├── 01_Kinetic_Actuation_Layer/                    # Enforces: Tasks 5 & 6 (Physical Emancipation)
 │   ├── local_fs_writer.rs                         # Cures "D:/" Hallucinations: Physically executes mk_dir and file writes using OS-native APIs.
@@ -118,3 +118,4 @@ The Large Model inside the chatbox only *proposes* ontological changes. The Actu
 #### 6. Remark
 
 **BPMS** means Behavior pattern/model/system. The Actuator Node makes `[BPMS]` universally true. Because the Node abstractly wraps OS File I/O (`local_fs_writer.rs`) exactly the same way it wraps robotic voltage (`hardware_gpio_actuator.c`), the Fun Engine can splice a new Python script into a laptop just as easily as it splices a new walking gait into an OpenClaw robot. The large model dreams the physics; the Actuator Node enforces them.
+
