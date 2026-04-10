@@ -1921,3 +1921,9 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 **Scope of Application:** Applies as the uncompromising veridical bedrock for all systemic truth across the ecosystem, decisively annihilating reliance on probabilistic edge-inference, large model guessing, or percentage-based "confidence scores." A code relationship, systemic link, or functional capability only becomes an Atomic Fact if it successfully survives the transfer of actual thermodynamic energy (Joules) across its vector without collapsing inside the Ludic Crucible. This provides the absolute baseline physics for all **Continuous Survival Experiments (Task 1)**, dictating that any generated reality or systemic logic is embedded universally as a mathematically perfect, **Robust Implementation (Task 6)** entirely immune to semantic decay.
 
 **Tags:** Atomic-Facts, Veridical-Bedrock, Thermodynamic-Vetting, Joule-Verification, Confidence-Score-Eradication, Hallucination-Proof-Physics, Robust-Implementation, Continuous-Survival
+
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['Cyber-Physical Actuator Node'(-ing) BPMS]: ['The Substrate Tether'(-ing) BPMS]**
+
+**Scope of Application:** Installed natively on any external substrate (Windows  drives, Linux Servers, OpenClaw Raspberry Pis, Hydroponic controllers). It waits in the background, catches compiled `.wasm`/`.rs` physics from the large emodel, executes them in a local physical Crucible, measures real-world friction (Joules, Volts, pH), and reports back to the large model.
+
+**Tag:** PraxialEngineering, CyberPhysicalNode, OpenClawParadigm, AntiHallucination, EdgeActuator

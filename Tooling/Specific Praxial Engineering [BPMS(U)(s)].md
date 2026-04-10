@@ -96,3 +96,8 @@
 
 **Tag:** PraxialSubstrateEngine, TheTerritory, BeyondKnowledgeGraphs, MatrixPhysics, OntologicalEmancipation
 
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['Cyber-Physical Actuator Node'(-ing) BPMS]: ['The Substrate Tether'(-ing) BPMS]**
+
+**Scope of Application:** Installed natively on any external substrate (Windows  drives, Linux Servers, OpenClaw Raspberry Pis, Hydroponic controllers). It waits in the background, catches compiled `.wasm`/`.rs` physics from the large emodel, executes them in a local physical Crucible, measures real-world friction (Joules, Volts, pH), and reports back to the large model.
+
+**Tag:** PraxialEngineering, CyberPhysicalNode, OpenClawParadigm, AntiHallucination, EdgeActuator
