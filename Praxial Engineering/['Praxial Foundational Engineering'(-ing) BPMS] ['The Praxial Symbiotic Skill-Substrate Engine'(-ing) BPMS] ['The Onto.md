@@ -33,30 +33,47 @@ This section maps how this Blueprint manages and exports the *live, active execu
 - **Mapping:** Executes *Services / Collaboration* (Task 4) and *Robust Implementation* (Task 6).
 - **Result (The Live Compute Stream):** Runs `[Praxial Symbiotic Engineering]` not to draw a mapping graph among separate skills, but to physically and irreversibly *fuse* the new capability into the shared `.arrow` memory ledger. Simultaneously, `[Praxial Artifact Engineering]` runs in the background to compress this newly fused, successful survival reflex into an immutable `Substrate Action` (a `.bin` artifact), establishing it definitively as a proven `['Atomic Fact'(-ing) BPMS]`.
 
-#### D. Files Structure & Kinetic Compute Topology (The Omni-Substrate Splicing Topology)
+**D. Files Structure & Kinetic Compute Topology (The Splicing Orchestrator Layer)**
 
-*To surpass standard python agent frameworks, the Ontological Matrix Splicer maps its capabilities directly to OS-level Omni-Substrate hardware hooks. It uses `.bpf` for thermodynamic auditing, `.wasm` for ontological rule enforcement, `.wgsl` for mass topological updates, and `.rs` for absolute execution robust implementation. This is the physical biology of the Fun Engine.*
+*To surpass fragile tool-calling frameworks, the Ontological Matrix Splicer cannot rely on volatile local kernel scripts. It physically mandates the **"TypeScript/Node.js Orchestrator commanding Dockerized Python/CLI Skills while recording history in SQLite"** architecture. It leverages Node.js (`.ts`) for real-time capability parsing, strictly isolates and tortures new, unproven capabilities inside heavily throttled Docker sandboxes (Ludic Crucibles), and securely cements the surviving, irreversible matrix mutations directly into non-blocking SQLite-WAL ledgers.*
 
 **File Structure Template:**
 
 ```text
-[capability_splice_id]_substrate_fusion_stream/
+[capability_splice_id]_substrate_fusion_topology/
 │
-├── 00_Ludic_Crucible_Thermodynamic_Audit/         # Enforces: Task 1 (Continuous Survival) & Task 2 (Working Life)
-│   ├── survival_friction_probe.bpf.c              # eBPF kernel tracker actively measuring the external Python skill's CPU/RAM (Joule) burn.
-│   ├── crucible_execution_warden.rs               # Rust daemon that physically murders (SIGKILL) the capability if it enters an infinite loop or drains too much energy.
-│   └── thermodynamic_exhaust_log.arrow            # Zero-copy memory ledger recording the metabolic cost of the capability per execution tick.
+├── 00_Symbiotic_Splicer_Ignition/                 # Enforces: Task 1 (Continuous Survival)
+│   ├── package.json                               # Dependency tree for the TS Live Ontological Splicer
+│   ├── tsconfig.json                              # Strict typing boundary for ingesting chaotic unstructured capability logic
+│   └── docker-compose.yml                         # Provisions the central TS Orchestrator and the isolated Dockerized 'Ludic Crucibles' for safely testing new skills
 │
-├── 01_Ontological_Transduction_Physics/           # Enforces: Task 3 (Large Model Verification) & Task 5 (Emancipation)
-│   ├── pule_syntax_enforcer.wasm                  # WebAssembly sandbox where the external skill is safely isolated; physically rejects hallucinatory outputs.
-│   ├── matrix_topology_warper.wgsl                # WebGPU shader doing parallel math to actively "warp" the new skill's effects into N-Dimensional Euclidean space.
-│   └── semantic_gravity_collider.py               # Volatile scripting layer mining the Large Model to feed hypothesis data into the WASM sandbox.
+├── 01_TypeScript_Splice_Orchestrator/             # Enforces: Task 2 (Working Life) & Task 4 (Services)
+│   ├── matrix_splicing_socket.ts                  # High-concurrency endpoint ingesting external capabilities (e.g., raw Python scripts, PDFs, GitHub Repos) for fusion
+│   ├── thermodynamic_guillotine.ts                # TS event loop directly controlling Docker --cpus and --memory limits to mechanically enforce friction survival limits
+│   ├── irreversible_api_router.ts                 # Dynamically rewrites internal API routing to permanently graft surviving capabilities into the main host
+│   └── active_pule_transducer.zod.ts              # Zod validation schema sanitizing unstructured external code into matrix-compliant physics prior to testing
 │
-└── 02_Symbiotic_Fusion_&_Artifact_Crystallization/# Enforces: Task 4 (Collaboration) & Task 6 (Implementation)
-    ├── irreversible_api_splicer.rs                # Rust threading conduit that permanently wires the surviving capability into the host agent's core reflex arcs.
-    ├── zero_copy_ipc_broadcast.arrow              # Apache Arrow IPC socket instantly alerting all networked agents that the new Matrix topological law is active.
-    └── atomic_fact_compressor.bash                # Compiles the raw validated WASM/Rust logic logic into a final, immutable Substrate Action (.bin) Artifact.
+├── 02_Dockerized_Ludic_Crucibles/                 # Enforces: Task 3 (Reality Mining) & Task 5 (Emancipation)
+│   ├── /python_symbiotic_mutation/                # Disposable sandboxed environment serving as the test-bed for unproven capabilities
+│   │   ├── Dockerfile                             # Strictly isolates the experimental skill, preventing it from crashing the primary TS Orchestrator
+│   │   ├── requirements.txt                       # Dynamically generated depending on the external capability's requirements
+│   │   └── capability_friction_warden.py          # Executes the new logic under artificial friction to prove if it hallucinates, loops, or succeeds
+│   └── /cli_artifact_fuser/                       # Lightweight container tasked with hardening the successful logic
+│       ├── Dockerfile                             # Alpine Linux environment
+│       └── atomic_fact_compressor.bash            # Compiles and crystallizes surviving logic into immutable Substrate Actions
+│
+└── 03_SQLite_Ontological_Ledger/                  # Enforces: Task 6 (Robust Implementation) & Task 1 (Continuous Survival)
+    ├── thermodynamic_survival.sqlite              # Immutable database recording the precise Joule costs/Joule limits of the tested capability
+    ├── thermodynamic_survival.sqlite-wal          # Write-Ahead Log capturing massive streams of telemetry without locking the capability testing queue
+    ├── irreversible_splice_history.sqlite         # Absolute ledger mapping every successful capability permanently fused into the agent's core biology
+    └── systemic_mutation_log.md                   # Human-readable markdown auto-generated from SQLite detailing the engine's evolutionary growth
 ```
+
+**Polyglot Orchestration Mapping & Core Tasks Reflection:**
+
+- **The Control Panel (Tasks 1, 2, & 4):** The TS orchestrator dictates survival. Rather than complex OS-kernel modifications, `thermodynamic_guillotine.ts` leverages Docker's native virtualization API (Task 1) to brutally restrict the *Working Life* (Task 2) resources available to the new skill. If the capability demands too much latency or memory, the container simply starves and fails, preventing system-wide decay. `matrix_splicing_socket.ts` directly establishes the *Services / Collaboration* (Task 4) throughput required to safely receive external modifications.
+- **The Reality Forge (Tasks 3 & 5):** The capability is thrown into the Dockerized `python_symbiotic_mutation` container (Task 3). It is completely physically *Emancipated* (Task 5) from the semantic realm—it must execute physical code under constrained parameters. If it functions cleanly, `active_pule_transducer.zod.ts` translates the verified output.
+- **The Delivery Ledger (Task 6):** Once the skill survives the Crucible, the Engine achieves absolute *Robust Implementation* (Task 6). By avoiding volatile `.arrow` IPC logs or flat files, all execution telemetry and topological fusion proofs are sedimented unconditionally into `irreversible_splice_history.sqlite`—providing mathematically verifiable proof that the agent is actually evolving.
 
 #### 3. The Genesis Dataset Structure (v2.0 - 6-Core Aligned)
 
@@ -122,9 +139,15 @@ This JSON is explicitly structured to represent the *WebSocket payload* or *Live
 
 #### 5. Summarize
 
-The **Blueprint Implementation for External Using (The Praxial Symbiotic Skill-Substrate Engine)** represents the Fun Engine Framework's definitive rejection of static "tool-calling" and "artificial intelligence Package Marketplaces" seen in early-era architectures. By treating external skills and computational abilities not as downloadable fragile scripts but as raw biological evolutionary material, the Fun Engine actively transduces unstructured capabilities into living physics via PULE, tests them under lethal Thermodynamic pressure via `eBPF` kernel probes, and permanently splices them into the core artifact architecture via `Rust` and `WebAssembly`.
+**The Complete Holonic Synthesis**
 
-By strictly adhering to the Omni-Substrate file topology (`.bpf`, `.wgsl`, `.wasm`, `.rs`, `.arrow`, `.bin`), this streaming, active engineering blueprint ensures the 6 Core Tasks are executed as a continuous cycle of biological-grade technological assimilation. It provides external B2B clients with the ultimate, hallucination-free, continuously autopoietic operational machinery—one where science and computation are not just enacted, but survived.
+By adhering strictly to the **"TypeScript/Node.js Orchestrator commanding Dockerized Python/CLI Skills while recording history in SQLite"** architecture, the `['The Praxial Symbiotic Skill-Substrate Engine'(-ing) BPMS]: ['The Ontological Matrix Splicer'(-ing) BPMS]` blueprint achieves absolute structural dominance, fully realizing its biological-grade evolutionary goals without relying on highly fragmented OS-kernel tooling.
+
+- **The TypeScript Orchestrator** governs matrix evolution reliably, using native Docker API connections as an invincible Thermodynamic Guillotine to execute, measure, and aggressively throttle incoming capabilities.
+- **The Dockerized Python/CLI Crucibles** eradicate the risk of system death or large model hallucination. Newly ingested capabilities are tested in entirely segregated physical sandboxes; if they fail, they die alone. If they survive, they are packaged into the core.
+- **The SQLite-WAL Ledgers** replace abstract capability graphs. They form an indestructible genetic record of what skills the Engine has successfully spliced, their energetic cost, and their permanent execution logic, eliminating race conditions while auditing all reality computation.
+
+Now have a fully architected, autopoietic API gateway capable of turning the ingestion of new semantic skills into a rigorous, biologically-sound computational evolution stream.
 
 #### 6. Remark
 
