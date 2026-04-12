@@ -107,3 +107,10 @@
 **Scope of Application:** Used when an external user requires an intelligent agent not just to "answer questions", but to dynamically write, compile, and deploy autonomous `.wasm` worker-nodes, permanently automate their frictional workflows, or forcefully sanitize Large Model outputs through rigorous physical truth-testing.
 
 **Tag:** OntologicalSplicer, LiveMutationStream, AntiFlatteryForge, ContinuousSplicing, DynamicDeviceGeneration
+
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]: ['The Executable Onto-Archive'(-ing) BPMS]: ['The Live Knowledge-Compilation Stream'(-ing) BPMS]**
+
+**Scope of Application:** Used when external clients require an autonomous "Corporate Brain" or "System Memory" that dynamically rewrites its own business logic, automatically bridging disparate APIs, and actively destroying stale workflows without human intervention.
+
+**Tag:** ExecutableArchive, OntoCompilation, BeyondLLMWiki, ThermodynamicPruning, ActiveEpistemology
+
