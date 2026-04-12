@@ -1945,3 +1945,9 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 **Scope of Application:** Applies to the immediate, live conversion of surviving kinetic actions into universally accessible matrix services. The split-second an element successfully collapses an atomic fact and survives its experiment, this mechanism *transduces* that exact operational behavior into an active API/XaaS endpoint. It ensures that "what works" is instantly shared across the framework, driving maximum competence for Core Task 4 (Services) and Core Task 2 (Working Life).
 
 **Tags:** Praxial-Service-Transduction, Live-service-conversion, XaaS-endpoint-generation, Immediate-API-sharing, Kinetic-to-Service, Competence-scaling
+
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Symbiotic Skill-Substrate Engine'(-ing) BPMS]: ['The Live Matrix-Mutation Stream'(-ing) BPMS]**
+
+**Scope of Application:** Used when an external user requires an intelligent agent not just to "answer questions", but to dynamically write, compile, and deploy autonomous `.wasm` worker-nodes, permanently automate their frictional workflows, or forcefully sanitize Large Model outputs through rigorous physical truth-testing.
+
+**Tag:** OntologicalSplicer, LiveMutationStream, AntiFlatteryForge, ContinuousSplicing, DynamicDeviceGeneration

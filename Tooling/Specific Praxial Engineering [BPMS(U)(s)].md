@@ -101,3 +101,9 @@
 **Scope of Application:** Installed natively on any external substrate (Windows  drives, Linux Servers, OpenClaw Raspberry Pis, Hydroponic controllers). It waits in the background, catches compiled `.wasm`/`.rs` physics from the large emodel, executes them in a local physical Crucible, measures real-world friction (Joules, Volts, pH), and reports back to the large model.
 
 **Tag:** PraxialEngineering, CyberPhysicalNode, OpenClawParadigm, AntiHallucination, EdgeActuator
+
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Symbiotic Skill-Substrate Engine'(-ing) BPMS]: ['The Live Matrix-Mutation Stream'(-ing) BPMS]**
+
+**Scope of Application:** Used when an external user requires an intelligent agent not just to "answer questions", but to dynamically write, compile, and deploy autonomous `.wasm` worker-nodes, permanently automate their frictional workflows, or forcefully sanitize Large Model outputs through rigorous physical truth-testing.
+
+**Tag:** OntologicalSplicer, LiveMutationStream, AntiFlatteryForge, ContinuousSplicing, DynamicDeviceGeneration
