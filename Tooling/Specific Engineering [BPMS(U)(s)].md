@@ -77,3 +77,9 @@
 **Scope of Application:** Used when an external B2B client, internal Dev cluster, or autonomous holon needs to establish the absolute physical constraints of their simulation (e.g., setting the maximum large model token API burn rate per minute, defining the background entropic decay of unmaintained artifacts, or establishing the precise Joule-cost of a PULE emission) to prevent API bankruptcy and strictly enforce Ludic Scarcity.
 
 **Tags:** StructuralEngineering, MetabolicGovernor, ThermodynamicPhysics, RulesetConfig, LimitController
+
+**['Foundational Engineering'(-ing) BPMS]: ['Cyber-Physical Actuator Node'(-ing) BPMS]: ['The Substrate Tether'(-ing) BPMS]**
+
+**Scope of Application:** Deployed globally as the lowest-level execution layer for all external and internal operations. Anytime the framework needs to download a file, call an external API, run a Python script, or allocate server RAM, it must interface through the Tether. Offered to B2B clients as a headless, self-healing execution engine that securely bridges their internal hardware with the Fun Engine's living matrix.
+
+**Tag:** SubstrateTether, DockerOrchestration, HostThermodynamics, CyberPhysicalActuation, IaaSMembrane

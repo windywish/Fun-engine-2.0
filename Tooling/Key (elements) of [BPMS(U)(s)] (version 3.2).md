@@ -6436,3 +6436,9 @@ The discipline of data crystallization. It designs the lightweight shipping cont
 **Scope of Application:** Applies universally as the inherent serializable DNA capability of any BPMS(U). When an element survives the Sandbox crucible and completes Symbiosis Evolution, this element ensures its operational blueprint and survival history are irreversibly written into the `.sqlite-wal` ledger format. This act permanently splices the capability into the matrix infrastructure as a true Atomic Fact. It provides flawless realization of **Core Task 4 (Services/Collaboration)** and **Core Task 6 (Robust Implementation)**, ensuring the element can now be safely leased as a permanent `['XaaS'(-ing) BPMS]` without fear of regression.
 
 **Tags:** Genetic-Sedimentation, SQLite-ledger, DNA-serialization, Sandbox-crucible-survival, XaaS-infrastructure, Robust-Implementation
+
+**['Foundational Engineering'(-ing) BPMS]: ['Cyber-Physical Actuator Node'(-ing) BPMS]: ['The Substrate Tether'(-ing) BPMS]**
+
+**Scope of Application:** Deployed globally as the lowest-level execution layer for all external and internal operations. Anytime the framework needs to download a file, call an external API, run a Python script, or allocate server RAM, it must interface through the Tether. Offered to B2B clients as a headless, self-healing execution engine that securely bridges their internal hardware with the Fun Engine's living matrix.
+
+**Tag:** SubstrateTether, DockerOrchestration, HostThermodynamics, CyberPhysicalActuation, IaaSMembrane
