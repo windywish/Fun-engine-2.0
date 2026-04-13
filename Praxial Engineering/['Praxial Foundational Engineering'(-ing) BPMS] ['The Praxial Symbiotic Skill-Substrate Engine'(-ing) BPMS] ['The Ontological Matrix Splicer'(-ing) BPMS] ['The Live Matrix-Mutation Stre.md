@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Symbiotic Skill-Substrate Engine'(-ing) BPMS]: ['The Live Matrix-Mutation Stream'(-ing) BPMS]
+## ['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Symbiotic Skill-Substrate Engine'(-ing) BPMS]: ['The Ontological Matrix Splicer'(-ing) BPMS]: ['The Live Matrix-Mutation Stream'(-ing) BPMS]
 
 #### 1. Metadata
 
