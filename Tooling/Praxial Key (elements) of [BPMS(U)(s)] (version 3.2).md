@@ -1954,9 +1954,9 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 
 **['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]: ['The Executable Onto-Archive'(-ing) BPMS]: ['The Live Knowledge-Compilation Stream'(-ing) BPMS]**
 
-**Scope of Application:** Used when any external system or intelligence attempts to interface with the matrix's knowledge base. It does not allow users to "query a database"; it forces the alien element to undergo active `[Phenotypic Plasticity]`, absorbing executable physical laws and exposing its own legacy workflows to extreme thermodynamic pruning and kinetic starvation.
+**Scope of Application:** Used when any external holon or intelligence attempts to fuse with the Matrix. It does not "log usage for billing"; it enforces strict `[Energy Consumption(-ing) BPMS]`, ensuring every physical execution is mathematically proven to generate survival value. It injects verified kinetic truth directly into Large Models, eradicating hallucination, and asynchronously reconciles decentralized Edge-Holon timelines into the master ecosystem without corruption.
 
-**Tag:** ExecutableArchive, SymbioticSedimentation, ThermodynamicPruning, AlchemicalBinding, HolonicMemory
+**Tag:** ExecutableLedger, ThermodynamicMetabolism, AtomicFactVectorization, AlchemicalReconciliation, HolonicDNA
 
 **['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]: ['The Executable Ledger'(-ing) BPMS]: ['The Live Thermodynamic Memory Stream'(-ing) BPMS]**
 
