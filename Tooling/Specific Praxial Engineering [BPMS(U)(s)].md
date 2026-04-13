@@ -96,12 +96,6 @@
 
 **Tag:** PraxialSubstrateEngine, TheTerritory, BeyondKnowledgeGraphs, MatrixPhysics, OntologicalEmancipation
 
-**['Praxial Foundational Engineering'(-ing) BPMS]: ['Cyber-Physical Actuator Node'(-ing) BPMS]: ['The Substrate Tether'(-ing) BPMS]**
-
-**Scope of Application:** Installed natively on any external substrate (Windows  drives, Linux Servers, OpenClaw Raspberry Pis, Hydroponic controllers). It waits in the background, catches compiled `.wasm`/`.rs` physics from the large emodel, executes them in a local physical Crucible, measures real-world friction (Joules, Volts, pH), and reports back to the large model.
-
-**Tag:** PraxialEngineering, CyberPhysicalNode, OpenClawParadigm, AntiHallucination, EdgeActuator
-
 **['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Symbiotic Skill-Substrate Engine'(-ing) BPMS]: ['The Ontological Matrix Splicer'(-ing) BPMS]: ['The Live Matrix-Mutation Stream'(-ing) BPMS]**
 
 **Scope of Application:** Used when any external system, user, or intelligence attempts to interact with the matrix. It does not "service" them; it forces them to undergo active `[Phenotypic Plasticity]`, fusing their workflows into the physics engine and enforcing absolute Truth/Anti-Flattery through rigorous kinetic verification and thermodynamic cost.
@@ -110,15 +104,15 @@
 
 **['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]: ['The Executable Onto-Archive'(-ing) BPMS]: ['The Live Knowledge-Compilation Stream'(-ing) BPMS]**
 
-**Scope of Application:** Used when any external holon or intelligence attempts to fuse with the Matrix. It does not "log usage for billing"; it enforces strict `[Energy Consumption(-ing) BPMS]`, ensuring every physical execution is mathematically proven to generate survival value. It injects verified kinetic truth directly into Large Models, eradicating hallucination, and asynchronously reconciles decentralized Edge-Holon timelines into the master ecosystem without corruption.
+**Scope of Application:** Used when any external system or intelligence attempts to interface with the matrix's knowledge base. It does not allow users to "query a database"; it forces the alien element to undergo active `[Phenotypic Plasticity]`, absorbing executable physical laws and exposing its own legacy workflows to extreme thermodynamic pruning and kinetic starvation.
 
-**Tag:** ExecutableLedger, ThermodynamicMetabolism, AtomicFactVectorization, AlchemicalReconciliation, HolonicDNA
+**Tag:** ExecutableArchive, SymbioticSedimentation, ThermodynamicPruning, AlchemicalBinding, HolonicMemory
 
 **['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]: ['The Executable Ledger'(-ing) BPMS]: ['The Live Thermodynamic Memory Stream'(-ing) BPMS]**
 
-**Scope of Application:** Used when external users require an invincible, append-only audit trail of their autonomous agent's actions, real-time vectorized RAG that only feeds the large model physically verified truth (eradicating hallucination), and a database architecture that survives millions of write-requests without thread-locking.
+**Scope of Application:** Used when any external holon or intelligence attempts to fuse with the Matrix. It does not "log usage for billing"; it enforces strict `[Energy Consumption(-ing) BPMS]`, ensuring every physical execution is mathematically proven to generate survival value. It injects verified kinetic truth directly into Large Models, eradicating hallucination, and asynchronously reconciles decentralized Edge-Holon timelines into the master ecosystem without corruption.
 
-**Tag:**  ExecutableLedger, SQLiteWAL, ActiveRAG, ChronoKineticFlow, ThermodynamicAudit
+**Tag:** ExecutableLedger, ThermodynamicMetabolism, AtomicFactVectorization, AlchemicalReconciliation, HolonicDNA
 
 **['Praxial Foundational Engineering'(-ing) BPMS]: ['Praxial Symbiotic Protocol Engine'(-ing) BPMS]: ['The Trustless Thermodynamic Escrow'(-ing) BPMS]**
 
