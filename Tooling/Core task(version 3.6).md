@@ -1,4 +1,4 @@
-## Core Tasks of the Fun Engine Framework (Version 3.5: The Superintelligence Matrix and The Decentralized Swarm & Inter-Node Symbiosis Update)
+## Core Tasks of the Fun Engine Framework (Version 3.6: The Superintelligence Matrix and The Decentralized Swarm & Inter-Node Symbiosis Update)
 
 ### The Metaphysical Axiom: Superintelligence vs. Current Intelligence
 
