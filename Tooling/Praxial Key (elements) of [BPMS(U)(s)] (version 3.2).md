@@ -1946,17 +1946,17 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 
 **Tags:** Praxial-Service-Transduction, Live-service-conversion, XaaS-endpoint-generation, Immediate-API-sharing, Kinetic-to-Service, Competence-scaling
 
-**['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Symbiotic Skill-Substrate Engine'(-ing) BPMS]: ['The Live Matrix-Mutation Stream'(-ing) BPMS]**
+**['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Symbiotic Skill-Substrate Engine'(-ing) BPMS]: ['The Ontological Matrix Splicer'(-ing) BPMS]: ['The Live Matrix-Mutation Stream'(-ing) BPMS]**
 
-**Scope of Application:** Used when an external user requires an intelligent agent not just to "answer questions", but to dynamically write, compile, and deploy autonomous `.wasm` worker-nodes, permanently automate their frictional workflows, or forcefully sanitize Large Model outputs through rigorous physical truth-testing.
+**Scope of Application:** Used when any external system, user, or intelligence attempts to interact with the matrix. It does not "service" them; it forces them to undergo active `[Phenotypic Plasticity]`, fusing their workflows into the physics engine and enforcing absolute Truth/Anti-Flattery through rigorous kinetic verification and thermodynamic cost.
 
-**Tag:** OntologicalSplicer, LiveMutationStream, AntiFlatteryForge, ContinuousSplicing, DynamicDeviceGeneration
+**Tag:** OntologicalSplicer, SymbioticMutationStream, AlchemicalBinding, HolonicSedimentation, AntiFlatteryForge
 
 **['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]: ['The Executable Onto-Archive'(-ing) BPMS]: ['The Live Knowledge-Compilation Stream'(-ing) BPMS]**
 
-**Scope of Application:** Used when external clients require an autonomous "Corporate Brain" or "System Memory" that dynamically rewrites its own business logic, automatically bridging disparate APIs, and actively destroying stale workflows without human intervention.
+**Scope of Application:** Used when any external system or intelligence attempts to interface with the matrix's knowledge base. It does not allow users to "query a database"; it forces the alien element to undergo active `[Phenotypic Plasticity]`, absorbing executable physical laws and exposing its own legacy workflows to extreme thermodynamic pruning and kinetic starvation.
 
-**Tag:** ExecutableArchive, OntoCompilation, BeyondLLMWiki, ThermodynamicPruning, ActiveEpistemology
+**Tag:** ExecutableArchive, SymbioticSedimentation, ThermodynamicPruning, AlchemicalBinding, HolonicMemory
 
 **['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]: ['The Executable Ledger'(-ing) BPMS]: ['The Live Thermodynamic Memory Stream'(-ing) BPMS]**
 
