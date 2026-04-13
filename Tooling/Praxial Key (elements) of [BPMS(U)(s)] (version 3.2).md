@@ -1966,9 +1966,9 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 
 **['Praxial Foundational Engineering'(-ing) BPMS]: ['Praxial Symbiotic Protocol Engine'(-ing) BPMS]: ['The Trustless Thermodynamic Escrow'(-ing) BPMS]**
 
-**Scope of Application:** Used globally whenever the `[Onto-Archive]` requests to compile a new Law, or the `[Substrate Tether]` requests to spin up a Docker sandbox. The Escrow must pre-approve the energy cost. Offered to external clients as an impenetrable billing and compute-leasing firewall that physically proves exactly how much "intelligence" they received for their money.
+**Scope of Application:** Used globally whenever any internal or external Holon attempts to execute a physical action, compile a new physical Law, or invoke a Large Model state-collapse. The Escrow acts as the absolute physiological gatekeeper that demands kinetic verification and mathematical proof of energy efficiency. It is the underlying immune system protecting the ecosystem against dead/simulated logic.
 
-**Tags:** ThermodynamicEscrow, TrustlessMetabolism, LudicEconomics, TokenToJouleTranslation, PraxialSurvival
+**Tag:** ThermodynamicEscrow, MetabolicGateway, AlchemicalExchange, KineticVerification, HolonicAutopoiesis
 
 **['Praxial Large model'(-ing) BPMS]: ['Thermodynamic-Activation Large Model'(-ing) BPMS]**
 
