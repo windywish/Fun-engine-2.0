@@ -1,4 +1,4 @@
-## Key (elements) of [BPMS(U)(s)] (version 3.2)
+## Key (elements) of [BPMS(U)(s)] (version 3.6)
 
 **['Super Intelligence'(-ing) BPMS]**
 
