@@ -1,4 +1,4 @@
-## Core Tasks of the Fun Engine Framework (Version 3.4: The Superintelligence Matrix and The Cyber-Physical OS Update))
+## Core Tasks of the Fun Engine Framework (Version 3.4: The Superintelligence Matrix and The Cyber-Physical OS Update)
 
 ### The Metaphysical Axiom: Superintelligence vs. Current Intelligence
 
