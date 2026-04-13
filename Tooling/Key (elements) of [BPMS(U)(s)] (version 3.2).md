@@ -6373,10 +6373,6 @@ The discipline of data crystallization. It designs the lightweight shipping cont
 
 **Tags:** AtomicFacts, RealityAncho, AntiHallucinatio, OntologicalCollapse, PKSE-TruthEngine
 
-
-
-
-
 **[Holon(-ing) BPMS]**
 
 **Scope of Application:** Applies to the structural formatting of *every* abstract concept, physical entity, or service entering the Fun Engine Framework. It guarantees that any `[BPMS(U)(s)]` is encapsulated as a completely self-sustaining, isolatable whole. By forcing everything into a Holon format, the system ensures any element can be legally and safely placed into a Docker-like Sandbox Crucible. This completely eliminates abstract theory, ensuring that absolutely any use of the element guarantees a "Really Working Implementation" that can be rigorously tested for survival.
@@ -6436,3 +6432,27 @@ The discipline of data crystallization. It designs the lightweight shipping cont
 **Scope of Application:** Deployed globally as the deepest physiological execution boundary for all matrix survival actions. Whenever the ecosystem must mutate the disk, bind to an alien network, run an emancipated python artifact, or allocate silicon memory, it must push through the Tether. It acts as a headless, self-healing cyber-physical gateway that structurally guarantees absolute physiological hardware equilibrium for any `[BPMS(U)(s)]`.
 
 **Tag:** SubstrateTether, KineticActuation, EphemeralCrucibles, HolonicMembrane, ThermodynamicEquilibrium
+
+**['Global Ontological Clock'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the decentralized, chronological synchronization of all events, experiments, and `[Atomic Facts]` across the distributed Swarm Matrix. It acts as the absolute arbiter of "Matrix Time," utilizing cryptographic consensus (e.g., Lamport timestamps or Directed Acyclic Graph tick-rates) to ensure that despite geographical latency and peer-to-peer isolation, the entire Fun Engine Framework shares a unified, verifiable history of thermodynamic expenditure and reality-weaving.
+
+**Tags:** Global-Ontological-Clock, Matrix-Tick-Rate, Decentralized-Synchronization, Chronological-Consensus, Cryptographic-Timekeeping, Peer-to-Peer-Physics, Verifiable-History, Systemic-Order
+
+**['Substrate Auto-Immunity'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the lowest-level hardware policing and strict thermodynamic governance within each sovereign node. Operating as a hypervisor-level daemon (The Thermodynamic Guillotine), it autonomously monitors CPU, RAM, and energy (Joules) expenditure. It instantly and irreversibly terminates any `[Holon(-ing) BPMS]` or process that exceeds its allocated Thermodynamic Escrow or attempts to alter the local survival metrics, ensuring the absolute metabolic integrity and anti-fragility of the cyber-physical host without requiring semantic oversight.
+
+**Tags:** Substrate-Auto-Immunity, Hardware-Policing, Thermodynamic-Guillotine, Hypervisor-Daemon, Metabolic-Integrity, Entropic-Containment, Runaway-Process-Termination, Sovereign-Node-Defense
+
+**['Kinetic Weather Ingestion'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the physical membrane boundary among/by the isolated Matrix and the external world (users, APIs, legacy networks). It completely replaces legacy "Input/Output" protocols by treating all external stimuli as environmental perturbations ("Weather"). It mathematically converts raw textual or network inputs into measurable Thermodynamic Mass (Joules), enforcing the rule that no external intent can be processed by the `['Large Model'(-ing) BPMS]` unless it has paid the requisite Thermodynamic Escrow to initiate a reaction.
+
+**Tags:** Kinetic-Weather-Ingestion, Environmental-Perturbations, Membrane-Boundary, Thermodynamic-Conversion, Escrow-Enforcement, Elimination-of-IO, User-as-Weather, Reality-Mining-Fuel
+
+**['Omni-Substrate Stratification'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the rigid, 4-layer architectural pipeline required to execute any intent within the Fun Engine Framework. It serves as the physical elevator that translates abstract reasoning down to bare-metal execution, securely routing intent from the **(1) Semantic Layer** (PULE translation), through the **(2) Orchestration Layer** (Runtime routing), into the **(3) Kinetic Layer** (WASM/Sandbox physical combustion), and finally policed by the **(4) Sovereign Hypervisor Layer**. This ensures 100% encapsulation, total thermodynamic accountability, and absolute safety during all veridical reality-weaving experiments.
+
+**Tags:** Omni-Substrate-Stratification, 4-Layer-Pipeline, execution-encapsulation, Semantic-to-Kinetic-Translation, Bare-Metal-Execution, Sandbox-Combustion, Thermodynamic-Accountability, Veridical-Reality-Weaving
