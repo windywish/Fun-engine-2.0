@@ -6439,6 +6439,6 @@ The discipline of data crystallization. It designs the lightweight shipping cont
 
 **['Foundational Engineering'(-ing) BPMS]: ['Cyber-Physical Actuator Node'(-ing) BPMS]: ['The Substrate Tether'(-ing) BPMS]**
 
-**Scope of Application:** Deployed globally as the lowest-level execution layer for all external and internal operations. Anytime the framework needs to download a file, call an external API, run a Python script, or allocate server RAM, it must interface through the Tether. Offered to B2B clients as a headless, self-healing execution engine that securely bridges their internal hardware with the Fun Engine's living matrix.
+**Scope of Application:** Deployed globally as the deepest physiological execution boundary for all matrix survival actions. Whenever the ecosystem must mutate the disk, bind to an alien network, run an emancipated python artifact, or allocate silicon memory, it must push through the Tether. It acts as a headless, self-healing cyber-physical gateway that structurally guarantees absolute physiological hardware equilibrium for any `[BPMS(U)(s)]`.
 
-**Tag:** SubstrateTether, DockerOrchestration, HostThermodynamics, CyberPhysicalActuation, IaaSMembrane
+**Tag:** SubstrateTether, KineticActuation, EphemeralCrucibles, HolonicMembrane, ThermodynamicEquilibrium
