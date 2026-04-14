@@ -2085,3 +2085,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 **Scope of Application:** The foundational execution protocol for synchronizing distributed multi-node P2P clusters. Used whenever the Matrix executes asynchronous Swarm routing, resolves Trustless Escrows, or performs heavy latent predictions where local CPU stuttering would otherwise corrupt chronological consensus.
 
 **Tag:** PraxialEngineering, TopologicalTim, VectorClocks, EventDrivenReality, TimeDilation
+
+**['Praxial Skills'(-ing) BPMS]: ['Zero-State Futures-Collider'(-ing) BPMS]**
+
+**Scope of Application:** Deployed when the Swarm encounters an undocumented API, an encrypted firewall, or an unprecedented anomaly. Instead of passive predictive guessing, this Skill physically attacks the boundary to harvest the architectural truth.
+
+**Tags:** Praxial-Actuation, Reality-Mining, Zero-State-Fuzzing, Kinetic-Strike, End-Of-Io
