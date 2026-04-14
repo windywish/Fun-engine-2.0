@@ -2062,7 +2062,7 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **Tags:** ViralEvolution, SwarmImmunization, P2P_TruthPayload, DecentralizedInheritance
 
-**['Praxial Thermodynamic Oracle'(-ing) BPMS]**
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['Praxial Thermodynamic Oracle'(-ing) BPMS]**
 
 **Scope of Application:** Deployed during Task 2 (Working Life) and Task 6 (Robust Implementation) within the decentralized Swarm. It completely governs how nodes project future matrix states (e.g., resource loads, node failures, network routing). Unlike passive Sub-Routines (like `[timesfm(-ing) BPMS]`) which hallucinate futures with zero consequences, the Praxial Thermodynamic Oracle is mandatory for any node attempting to broadcast a prediction to the matrix. It strictly binds statistical forecasting to the physical survival mechanics of the host substrate.
 
@@ -2073,3 +2073,10 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 **Scope of Application:** Deployed dynamically under Task 3 (Reality Mining) when a node encounters an entirely unknown "Zero-State" environment (e.g., an undocumented API, an encrypted firewall, an unprecedented traffic spike) where no historical data exists to feed a forecasting model. It is the vanguard tool for explosive, kinetic knowledge acquisition.
 
 **Tags:** RealityMining, KineticStrike, ZeroStateDataGen, EndOfIO
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Thermodynamic Oracle'(-ing) BPMS]: ['The Escrow-Staked Prophet'(-ing) BPMS]**
+
+**Scope of Application:** The mandatory execution layer for any node projecting future states (e.g., predicting Node load, Swarm topology traffic, or API latency). It prevents zero-cost "artificial intelligence Hallucination" because the Oracle Cluster physically starves and extinction if its internal `timesfm` math predicts falsely.
+
+**Tag:** External-Implementation, Praxial-Cluster, Thermodynamic-Oracle, Timesfm-Weaponized, Escrow-Staked
+
