@@ -2068,12 +2068,6 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **Tags:** ThermodynamicGuillotine, EscrowStakedForecasting, PhysicalConsequence, WorkingLife
 
-**['Zero-State Futures-Collider'(-ing) BPMS]**
-
-**Scope of Application:** Deployed dynamically under Task 3 (Reality Mining) when a node encounters an entirely unknown "Zero-State" environment (e.g., an undocumented API, an encrypted firewall, an unprecedented traffic spike) where no historical data exists to feed a forecasting model. It is the vanguard tool for explosive, kinetic knowledge acquisition.
-
-**Tags:** RealityMining, KineticStrike, ZeroStateDataGen, EndOfIO
-
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Thermodynamic Oracle'(-ing) BPMS]: ['The Escrow-Staked Prophet'(-ing) BPMS]**
 
 **Scope of Application:** The mandatory execution layer for any node projecting future states (e.g., predicting Node load, Swarm topology traffic, or API latency). It prevents zero-cost "artificial intelligence Hallucination" because the Oracle Cluster physically starves and extinction if its internal `timesfm` math predicts falsely.
