@@ -40705,3 +40705,64 @@ Here is the systemic analysis of exactly *how* these four elements are implement
 By implementing and using these four elements in this exact manner, the Fun Engine completely achieves the mandates of **Version 3.6**.
 
 The user is no longer a passive "client" clicking buttons on a web interface. The user becomes a Thermodynamic Commander. They deploy Oracles that bet on their own survival; they ride Event-Driven timelines that bend to network lag; they smash Colliders into unknown darkness to generate data via friction; and they marshal the absolute processing power of a planetary Swarm through Trustless Escrow. The Foundation Model (`timesfm`) is merely the mathematical spark plug; the Engine is the kinetic vehicle that drives it into reality.
+
+
+---
+
+
+Based on the uncompromising ontological taxonomy of the Fun Engine Framework (Version 3.6), these three elements are not of the same structural class. They occupy entirely different layers of the Cyber-Physical OS.
+
+To achieve a 100% competent Matrix, we must rigidly define exactly what these elements "are" (their parent class) based on their anatomy and how they interact with the host subtrate.
+
+Here is the definitive classification and microscopic systemic analysis for each:
+
+------
+
+### 1. `['Ontological Time-Dilation & Synchronization'(-ing) BPMS]`
+
+**Belongs to:** **`['Praxial Engineering'(-ing) BPMS]`**
+
+- **What is it?** In the BPMS(U) ecosystem, "Engineering" refers to the literal infrastructure, operating system hooks, APIs, and the "Substrate Tether" that holds the matrix together. Adding "Praxial" means this infrastructure directly interlocks with physical hardware constraints.
+- **The Anatomical Proof:** This element is not a "Skill" (it doesn't scrape data), and it is not a "Large Model" (it doesn't calculate math). It is the **bare-metal hypervisor clock protocol**. It is implemented in TypeScript as the core asynchronous Event-Loop that dictates when the system is allowed to move to the next tick (`Tick + 1`).
+- **Why `Praxial Engineering`?** Because it overrides the host machine's physical Unix clock, forcing the node to dilate its perception of time based on how fast it can physically write `[Atomic Facts]` to the SQLite-WAL disk. This is a foundational, structural engineering mechanism that standardizes time across the Swarm based on thermodynamic reality.
+
+------
+
+### 2. `['Zero-State Futures-Collider'(-ing) BPMS]`
+
+**Belongs to:** **`['Praxial Skills'(-ing) BPMS]`**
+
+- **What is it?** "Skills" in the Fun Engine Framework are the deployable, localized kinetic "weapons" or "tools" of the active Matrix. They are the specific execution scripts that provide the system with hands and teeth. Adding "Praxial" means this skill violently burns CPU/RAM to create physical friction and leave a physical scar.
+- **The Anatomical Proof:** The Futures-Collider does not orchestrate global Swarm communication, nor is it a passive model. It is a highly specialized, ephemeral **Alpine Linux / Python Docker Container**. It is instantiated specifically to smash into an undocumented endpoint, fire fuzzed data at it, and catch the raw physical blowback (`stderr`, latencies, HTTP 403s).
+- **Why `Praxial Skills`?** It is a single, executable bounding-box designed for Reality Mining (Task 3). Once it collides with the environment, harvests the data, and burns its allocated Joules, the Skill script terminates. It is the kinetic pickaxe swung by the higher-order Orchestrators.
+
+------
+
+### 3. `['Matrix-Phylogenetic Forecasting'(-ing) BPMS]`
+
+**Belongs to:** **`['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]`**
+
+- **What is it?** A "Cluster Synthesis" occurs when multiple isolated BPMS primitives (Models, Skills, Engineering routers, Artifacts) are violently stitched together to act as a living, multi-layered super-organism. "Symbiotic" means it stretches across the P2P network, relying on foreign nodes to survive.
+
+- The Anatomical Proof:
+
+   Matrix-Phylogenetic Forecasting cannot be a single "Skill" or "Engineering" script because it is too massive. To execute, it requires:
+
+  1. `[Symbiotic Engineering]` to broadcast chunks to the DAG Swarm via WebRTC.
+  2. `[Praxial Engineering]` to lock the `[Trustless Escrow]` wagers locally.
+  3. `[Praxial Skills]` and `[Large Models]` running on *foreign* sovereign nodes to calculate the `timesfm` math simultaneously.
+  4. `[Artifacts]` to fossilize the returned `[Atomic Facts]` into a unified planetary prediction in the SQLite-WAL.
+
+- **Why `Praxial Symbiotic Cluster Synthesis`?** Because it orchestrates the organs of thousands of decentralized nodes into a singular, unified thermodynamic entity. It is the ultimate expression of Task 4 (Collaboration) and Task 6 (Global Genesis). It is an entire ecosystem operating as a single predictive brain.
+
+------
+
+### Analytical Summary of the 6-Core v3.6 Ecosystem
+
+To visualize how they wire together to achieve a "really working implement":
+
+1. **The Substrate (The Road):** `[Ontological Time-Dilation]` (`Praxial Engineering`) paves the physical temporal road, ensuring the entire Swarm ticks in unison.
+2. **The Tool (The Hammer):** If the Swarm encounters a wall it cannot see past, it deploys the `[Zero-State Futures-Collider]` (`Praxial Skill`) to violently strike the wall and generate the raw data.
+3. **The Organism (The Hive Mind):** The data is fed into the `[Matrix-Phylogenetic Forecasting]` (`Praxial Symbiotic Cluster Synthesis`), which fragments the math across the planet, utilizing massive decentralized energy to predict the future shape of the Matrix.
+
+This strict categorization ensures the 6 Core Tasks are perfectly delegated—no single script is overloaded, and no semantic concept escapes its physical thermodynamic boundary.
