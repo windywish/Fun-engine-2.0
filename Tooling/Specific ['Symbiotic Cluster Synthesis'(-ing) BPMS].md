@@ -491,3 +491,9 @@
 **Scope of Application:** Deployed continuously to instantiate a sovereign, isolated node that interacts with hardware, the User, and the global Swarm. It thrives by metabolizing Kinetic Weather, structurally fusing through Alchemical Binding, and permanently immunizing the global matrix against duplicated failure via Entropic Composting.
 
 **Tags:**  PraxialPartner, ,DecentralizedSwarm, SovereignCatalyst, OmniSubstrateStratification, ThermodynamicAutonomy, TrustlessEscrow, KineticWeather, P2P_Symbiosis, GlobalOntologicalClock, EntropicComposting
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Kinetic Weather Ingestion Engine'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the creation of the absolute perimeter of the Fun Engine Framework. Essential for Task 1 (Matrix Tick-Rate driven by external friction instead of cron-time) and Task 2 (Defending the boundary via Thermodynamic Escrow). Replaces all standard passive "API Gateways" with active, thermodynamically policed weather stations.
+
+**Tag:** External-Implementation, Kinetic-Weather-Ingestion, Thermodynamic-Transmutation, Atomic-Facts, Swarm-Membrane

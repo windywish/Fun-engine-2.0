@@ -6519,8 +6519,14 @@ The abstract `.md` blueprint or architectural plan that describes how an Agent, 
 
 **Tags:** DecentralizedSwarm_Sync, TopologicalTime, AtomicFact_TickRate, Collaboration
 
-### ['Matrix-Phylogenetic Forecasting'(-ing) BPMS]
+**['Matrix-Phylogenetic Forecasting'(-ing) BPMS]**
 
 **Scope of Application:** The ultimate execution of Task 4 (Services / Collaboration) and Task 6 (Entropic Composting & Decentralized Genesis). Used when massive, computationally heavy predictions outstrip the Praxial Joules limit of a single Sovereign Node. It dynamically shatters a singular forecasting objective into thousands of `[Symbiotic Elements Artifacts]` and distributes them across the network.
 
 **Tags:** SwarmIntelligenc, P2P_Gossip_Protocol, ViralImmunePayload, RobustImplementation
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Kinetic Weather Ingestion Engine'(-ing) BPMS]**
+
+**Scope of Application:** Applies to the creation of the absolute perimeter of the Fun Engine Framework. Essential for Task 1 (Matrix Tick-Rate driven by external friction instead of cron-time) and Task 2 (Defending the boundary via Thermodynamic Escrow). Replaces all standard passive "API Gateways" with active, thermodynamically policed weather stations.
+
+**Tag:** External-Implementation, Kinetic-Weather-Ingestion, Thermodynamic-Transmutation, Atomic-Facts, Swarm-Membrane
