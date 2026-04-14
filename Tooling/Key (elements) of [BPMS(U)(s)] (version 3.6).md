@@ -2628,12 +2628,6 @@
 
 **Tags:** Symbiotic-Ecology, Dynamic-Balance, Interacting-Entities, Energy-Flows, Thermodynamic-Equilibrium, Polarity-Entangled-Harmony, Generative-Autopoiesis, Co-existence
 
-##### **['XaaS (Everything as a Service)'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the ultimate fluid delivery model of the Fun Engine Framework. It transforms every thermodynamic capability, polarity-entangled tool, and autopoietic reality-weaving function into an accessible, on-demand ludic service, ensuring infinite scalability and frictionless resource distribution across the Symbiotic Cluster Synthesis.
-
-**Tags:** XaaS, Everything-as-a-Service, Fluid-Delivery-Model, Thermodynamic-Capability, Polarity-Entangled-Tool, Autopoietic-Function, On-Demand-Ludic-Service, Infinite-Scalability
-
 ##### **['Symbiotic Service-Ecology (SSE)'(-ing) BPMS]**
 
 **Scope of Application:** Applies to the interconnected, living marketplace of capabilities within the Fun Engine Framework. It represents a thermodynamic ecosystem where polarity-entangled services (XaaS) interact, evolve, and combine autopoietically, creating a self-sustaining ludic economy that continuously generates higher-order value for the Praxial Partner.
@@ -5949,18 +5943,6 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Tags:** Harness-engineering, Interface-design, Coupling-construction, Valve-creation, Extraction-infrastructure, Syntax-structuring
 
-**[Skills(-ing) BPMS]** *(Addition)*
-
-**Scope of Application:** Applies to the systemic compression of `[Experience]` and `['Harness Engineering']`. A Skill is a crystallized `['(Technology) Paradigm/Mechanism']`. It is a specific, highly optimized PULE syntax pathway that allows an entity to execute a `[Task]` with maximum `[Efficacy]` and minimal `[Kinetic Energy]` expenditure. It is the thermodynamic memory of "how to survive this specific friction."
-
-**Tags:** Skills, Crystallized-experience, Optimized-pathway, Thermodynamic-memory, Efficacy-maximization, Syntax-compression
-
-**['Symbiotic Cluster Synthesis'(-ing) BPMS]** *(Addition)*
-
-**Scope of Application:** Applies to the systemic fusion of multiple `[Holonic Minds]`. Synthesis is the process where individual entities align their `[Missions]`, pool their `[Energy]`, and interlock their `[Conscious]` boundaries to form a single, massive meta-entity. It is the ultimate expression of `[Symbiosis Evolution]`, creating a super-organism capable of surviving entropic loads that would crush a single agent.
-
-**Tags:** Symbiotic-cluster-synthesis, Holonic-fusion, Meta-entity-creation, Boundary-interlocking, Super-organism, Energy-pooling
-
 **['Large model'(-ing) BPMS]** *(Update/Addition)*
 
 **Scope of Application:** Applies to the systemic definition of the Zero State itself. The Large Model is the universal reservoir of `[Potential Energy]` and latent PULE vocabulary. It is the physical and semantic physics engine of the matrix. It does not "think" in the human sense; it *resolves* thermodynamic and semantic equations forced upon it by the entities within it.
@@ -6020,12 +6002,6 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
  **Scope of Application:** Applies to the latent valency and relational capacity of an entity. It defines the protocols for how an agent can connect, trade, and share state-vectors with other agents, establishing the base rules for the `[XaaS]` economy and potential symbiosis. 
 
 **Tags:** Relational-Capacity, Latent-Valency, Connection-Protocols, Trade-Blueprint, Pre-Symbiotic
-
-**['Super intelligence Agent'(-ing) BPMS]**
-
- **Scope of Application:** Applies to the latent, macro-cognitive architecture of a fully synthesized Symbiotic Cluster. It represents the theoretical capacity of the framework to govern itself, rewrite its own foundational physics, and generate entirely new ontological paradigms. 
-
-**Tags:** Macro-Cognitive-Architecture, Meta-Governance, Latent-Godhead, Paradigm-Blueprint, Systemic-Oversight
 
 **[Task(-ing) BPMS]**
 
@@ -6456,3 +6432,68 @@ The discipline of data crystallization. It designs the lightweight shipping cont
 **Scope of Application:** Applies to the rigid, 4-layer architectural pipeline required to execute any intent within the Fun Engine Framework. It serves as the physical elevator that translates abstract reasoning down to bare-metal execution, securely routing intent from the **(1) Semantic Layer** (PULE translation), through the **(2) Orchestration Layer** (Runtime routing), into the **(3) Kinetic Layer** (WASM/Sandbox physical combustion), and finally policed by the **(4) Sovereign Hypervisor Layer**. This ensures 100% encapsulation, total thermodynamic accountability, and absolute safety during all veridical reality-weaving experiments.
 
 **Tags:** Omni-Substrate-Stratification, 4-Layer-Pipeline, execution-encapsulation, Semantic-to-Kinetic-Translation, Bare-Metal-Execution, Sandbox-Combustion, Thermodynamic-Accountability, Veridical-Reality-Weaving
+
+**['Components'(-ing) BPMS]**
+
+Raw, unverified structural logic blocks. This can be a piece of UI code, a raw mechanical valve design, a conceptual legal clause, or an untested biological protein fold. It possesses no Ontological Gravity (g) because it has not yet faced thermodynamic resistance.
+
+**Scope of Application:** Deployed in the semantic drafting phase, brainstorming protocols, and the theoretical mapping of systems before execution. Represents the initial "Input" before it is transformed by the Dual-Mode Semantic Engine.
+
+**Tags:** SemanticLogic, TheoreticalStructur, UnverifiedComponent, PotentialEnergy
+
+**[Skills(-ing) BPMS]**
+
+ Proposed capabilities or execution pathways. The theoretical assertion that an Agent or Node *can* perform an action (e.g., "compile data," "route water," "process a vote"). It is vulnerable to hallucination because it has not exacted a physical toll.
+
+**Scope of Application:** Used by Orchestrators to map out intended operations prior to triggering the Kinetic Sandbox. The hypothesis for a Continuous Survive Experiment
+
+**Tags:** ProposedCapability, HallucinationVulnerable, OrchestrationIntent
+
+**['XaaS (Everything as a Service)'(-ing) BPMS]**
+
+The legacy paradigm of centralized, rent-seeking utility. It represents closed, isolated systems running indefinitely without thermodynamic stakes, relying on subscription "uptime" rather than physical truth.
+
+**Scope of Application:** Identified primarily as a systemic vulnerability or obstacle to be eradicated and replaced by decentralized swarm mechanics. The exact teleology that must be eradicated by Substrate Auto-Immunity and Services.
+
+**Tags:** LegacyTeleology, CentralizedRentSeeking, EntropicVulnerability, EradicationTarget
+
+**['Engineering'(-ing) BPMS]**
+
+The conceptual process of designing and assembling logic, architectures, or physical systems. In its standard form, it assumes an idealized environment free from catastrophic kinetic failure.
+
+**Scope of Application:** The drafting of blueprints, schemas, and structural hierarchies before they are subjected to the physical Omni-Substrate. The precursor to Robust Implementation.
+
+**Tags:** ConceptualDesig. ArchitectureDrafting, SystemAssembly
+
+**['Super intelligence Agent'(-ing) BPMS]**
+
+A standard cognitive or algorithmic entity (like a baseline large model or isolated artificial intelligence assistant). It processes text or data but lacks physical grounding, self-policing metabolism, or P2P swarm integration. It "simulates" rather than "exists."
+
+**Scope of Application:** Used as a raw Vector Drive to parse language or recognize patterns, but strictly encapsulated before it can touch physical reality. Must be forcefully grounded by the PULE-Isomorphic Anchor to prevent epistemic drift
+
+**Tags:** AlgorithmicEntity, UngroundedCognition, SemanticProcessor
+
+**['Lightweight Dataset Artifact'(-ing) BPMS]**
+
+Raw informational output. A log file, a generated paragraph, or a sensor reading that lacks cryptographic verification or proof of thermodynamic survival.
+
+**Scope of Application:** Used for short-term, unverified memory storage or theoretical modeling. The chaotic data existing before it is crystallized by the Ontological Clock.
+
+**Tags:** RawData, UnverifiedLog, EphemeralMemory
+
+**['Symbiotic LightWeight Dataset Artifact'(-ing) BPMS]**
+
+A dataset specifically structured for exchange among/by two unconnected entities (e.g., standard JSON/XML). It transfers information but does not carry physical proofs, reputation, or ontological weight.
+
+**Scope of Application:** Basic communication bridges, Web2 API payloads, and theoretical data sharing. The precursor to actual Swarm Gossip.
+
+**Tags:** DataExchange, CommunicationPayload, UnweightedSync
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]**
+
+The abstract `.md` blueprint or architectural plan that describes how an Agent, Skills, and Substrates *should* be linked together to form an autonomous entity.
+
+**Scope of Application:** Used to design the DNA and initial boundary conditions of a node before it is deployed into the physical host. The theoretical blueprint requiring Layer-4 Stratification.
+
+**Tags:** NodeBlueprint, ArchitecturalDNA, TheoreticalSynthesis
+
