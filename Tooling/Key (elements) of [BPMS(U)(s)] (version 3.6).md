@@ -6513,3 +6513,14 @@ The abstract `.md` blueprint or architectural plan that describes how an Agent, 
 
 **Tags:** TheoreticalExchange, PayloadDraft, SymbioticHypothesis, PreBurnNegotiation
 
+**['Ontological Time-Dilation & Synchronization'(-ing) BPMS]**
+
+**Scope of Application:** Deployed globally across Layer 4 (The Sovereign Hypervisor Daemon) to unify the Swarm. It regulates the flow of "Time" across disparate, decentralized nodes. It is used when asynchronous network requests, Gossip/DAG polling, and multi-node rendering must be perfectly synchronized without relying on a centralized, physical master clock (NTP).
+
+**Tags:** DecentralizedSwarm_Sync, TopologicalTime, AtomicFact_TickRate, Collaboration
+
+### ['Matrix-Phylogenetic Forecasting'(-ing) BPMS]
+
+**Scope of Application:** The ultimate execution of Task 4 (Services / Collaboration) and Task 6 (Entropic Composting & Decentralized Genesis). Used when massive, computationally heavy predictions outstrip the Praxial Joules limit of a single Sovereign Node. It dynamically shatters a singular forecasting objective into thousands of `[Symbiotic Elements Artifacts]` and distributes them across the network.
+
+**Tags:** SwarmIntelligenc, P2P_Gossip_Protocol, ViralImmunePayload, RobustImplementation
