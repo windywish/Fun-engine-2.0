@@ -6497,3 +6497,19 @@ The abstract `.md` blueprint or architectural plan that describes how an Agent, 
 
 **Tags:** NodeBlueprint, ArchitecturalDNA, TheoreticalSynthesis
 
+**['[any (elements) of [BPMS(U)(s)]] Artifact'(-ing) BPMS]**
+
+**Definition:** The frozen, draft-state representation of any active operating element within the matrix (e.g., a `[Skill]`, a `[Component]`, or a `[Transduction Gateway]`). It is the crystallization of semantic intent prior to kinematic testing. It possesses no Ontological Gravity (g) and resides purely as theoretical code, logic, or physical geometry.
+
+**Scope of Application:** Used by Layer 2 (The Orchestrator) to securely stage, format, and organize raw logic/intent before throwing it into the Layer 3 Kinetic Crucible. It is essential for establishing the baseline configuration required for Task 1 (Survive Experiments) and acts as the strict `[PULE-Isomorphic Anchor]` starting point for Task 3.
+
+**Tags:** DraftArtifact, PotentialEnergy, KineticPrecursor, UnverifiedState
+
+**['Symbiotic [any (elements) of [BPMS(U)(s)]] Artifact'(-ing) BPMS]**
+
+**Definition:** An unverified elemental draft wrapped in a communicable payload format. It is structured to be safely transmitted among/by sovereign nodes via API or P2P tunnels without executing locally. It represents an exchange of hypotheses or a request for Swarm-wide review before any thermodynamic burn is committed.
+
+**Scope of Application:** Deployed natively in Task 4 (Services / Collaboration) during the preliminary polling and negotiation phases. Nodes share these sympathetic drafts to seek consensus on system topographies or to negotiate `[Cross-Boundary Trustless Escrow]` conditions before actually risking Layer-4 Substrate Auto-Immunity.
+
+**Tags:** TheoreticalExchange, PayloadDraft, SymbioticHypothesis, PreBurnNegotiation
+

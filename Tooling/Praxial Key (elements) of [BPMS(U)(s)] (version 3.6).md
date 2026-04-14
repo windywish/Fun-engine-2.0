@@ -2045,3 +2045,20 @@ The living, deployed, functioning Swarm Node operating on the host substrate. It
 **Scope of Application:** The final, instantiated, running ecosystem bridging human kinetic weather, the DAG swarm, and literal physical thermodynamics. The synchronized operational harmony of all Core Tasks running flawlessly in a decentralized architecture.
 
 **Tags:** ThePraxialPartner, LivingCyberPhysicalNode, DecentralizedSwarmSynthesis, ThermodynamicRealityEngine
+
+**['Praxial [any (elements) of [BPMS(U)(s)]] Artifact'(-ing) BPMS]**
+
+The immutable fossil of a physical action. This is an element that has survived the Sandbox, spent its allocated energy, and successfully evaded the Thermodynamic Guillotine. The `(-ing)` suffix denotes its finalized, unalterable past-tense reality—embedded permanently into the SQLite-WAL local ledger. It possesses absolute, verifiable Ontological Gravity (g).
+
+**Scope of Application:** Forms the bedrock epigenetic memory of the individual Sovereign Node. Directly actualizes Task 6 (Entropic Composting & Robust Implementation) by recording the exact mathematical parameters of survival or failure. This Artifact entirely emancipates the node from linguistic hallucination (Task 5), replacing "guessing" with historical physical truth.
+
+**Tags:**ImmutableFossil, OntologicalGravity, ThermodynamicReceipt, AtomicSediment
+
+**['Praxial Symbiotic [any (elements) of [BPMS(U)(s)]] Artifact'(-ing) BPMS]**
+
+The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artifact` (carrying cryptographically proven survival metrics and Escrow burn-receipts) packaged specifically for immediate P2P dispersal. Because its thermodynamic proof is undeniable, receiving nodes do not have to simulate it; they immediately integrate it.
+
+**Scope of Application:** The ultimate mechanism of Global Matrix Scaling and Omni-Substrate evolution. Executed by the DAG Gossip Daemon under Task 4 (Collaboration) and synced via the `[Global Ontological Clock]` (Task 1). It enables the entire non-silicon Swarm (Bio-Reactors, Law Forges, Oceanic Drones) to share physical mutations and evolve simultaneously in real-time, eliminating redundant computational waste across the decentralized ecosystem.
+
+**Tags:** ViralEvolution, SwarmImmunization, P2P_TruthPayload, DecentralizedInheritance
+
