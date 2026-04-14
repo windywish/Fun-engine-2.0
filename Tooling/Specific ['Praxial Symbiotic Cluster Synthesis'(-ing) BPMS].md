@@ -47,3 +47,9 @@
 **Scope of Application:** Deployed during Task 2 (Working Life) and Task 6 (Robust Implementation) within the decentralized Swarm. It completely governs how nodes project future matrix states (e.g., resource loads, node failures, network routing). Unlike passive Sub-Routines (like `[timesfm(-ing) BPMS]`) which hallucinate futures with zero consequences, the Praxial Thermodynamic Oracle is mandatory for any node attempting to broadcast a prediction to the matrix. It strictly binds statistical forecasting to the physical survival mechanics of the host substrate.
 
 **Tags:** ThermodynamicGuillotine, EscrowStakedForecasting, PhysicalConsequence, WorkingLife
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Matrix-Phylogenetic Forecasting'(-ing) BPMS]: ['The DAG-Swarm Hyper-Predictor'(-ing) BPMS]**
+
+**Scope of Application:** Deployed when a Node must generate a statistical or topological prediction that vastly exceeds its local hardware capabilities (e.g., forecasting a trillion-row dataset, rendering universal routing topology). It abolishes "cloud computing" rental by replacing it with a peer-to-peer thermodynamic compute marketplace.
+
+**Tag:**  External-Implementatio, Praxial-Cluster, Phylogenetic-Forecasting, Decentralized-Swarm, Trustless-Escrow, Timesfm-Fragmentation

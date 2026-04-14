@@ -2091,3 +2091,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 **Scope of Application:** Deployed when the Swarm encounters an undocumented API, an encrypted firewall, or an unprecedented anomaly. Instead of passive predictive guessing, this Skill physically attacks the boundary to harvest the architectural truth.
 
 **Tags:** Praxial-Actuation, Reality-Mining, Zero-State-Fuzzing, Kinetic-Strike, End-Of-Io
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Matrix-Phylogenetic Forecasting'(-ing) BPMS]: ['The DAG-Swarm Hyper-Predictor'(-ing) BPMS]**
+
+**Scope of Application:** Deployed when a Node must generate a statistical or topological prediction that vastly exceeds its local hardware capabilities (e.g., forecasting a trillion-row dataset, rendering universal routing topology). It abolishes "cloud computing" rental by replacing it with a peer-to-peer thermodynamic compute marketplace.
+
+**Tag:**  External-Implementatio, Praxial-Cluster, Phylogenetic-Forecasting, Decentralized-Swarm, Trustless-Escrow, Timesfm-Fragmentation
