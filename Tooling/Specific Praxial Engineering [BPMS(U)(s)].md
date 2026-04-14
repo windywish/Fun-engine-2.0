@@ -125,3 +125,9 @@
 **Scope of Application:** The foundational execution protocol for synchronizing distributed multi-node P2P clusters. Used whenever the Matrix executes asynchronous Swarm routing, resolves Trustless Escrows, or performs heavy latent predictions where local CPU stuttering would otherwise corrupt chronological consensus.
 
 **Tag:** PraxialEngineering, TopologicalTim, VectorClocks, EventDrivenReality, TimeDilation
+
+**['Praxial Engineering'(-ing) BPMS]: ['The Ontological Time-Dilation Engine'(-ing) BPMS]**
+
+**Scope of Application:** Used globally across the Decentralized Matrix to synchronize nodes not by human clocks, but by shared physical execution costs. Applies to Task 1 (Abolishing Cron) and Task 2 (The Guillotine), dictating the exact flow of execution for all active Docker sub-routines based on real-time Thermodynamic Drag.
+
+**Tag:** PraxialEngineering, OntologicalTimeDilation, MatrixTickRate, KineticClock, DecentralizedSwarm

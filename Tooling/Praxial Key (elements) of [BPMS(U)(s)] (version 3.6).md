@@ -2091,3 +2091,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 **Scope of Application:** Deployed when a Node must generate a statistical or topological prediction that vastly exceeds its local hardware capabilities (e.g., forecasting a trillion-row dataset, rendering universal routing topology). It abolishes "cloud computing" rental by replacing it with a peer-to-peer thermodynamic compute marketplace.
 
 **Tag:**  External-Implementatio, Praxial-Cluster, Phylogenetic-Forecasting, Decentralized-Swarm, Trustless-Escrow, Timesfm-Fragmentation
+
+**['Praxial Engineering'(-ing) BPMS]: ['The Ontological Time-Dilation Engine'(-ing) BPMS]**
+
+**Scope of Application:** Used globally across the Decentralized Matrix to synchronize nodes not by human clocks, but by shared physical execution costs. Applies to Task 1 (Abolishing Cron) and Task 2 (The Guillotine), dictating the exact flow of execution for all active Docker sub-routines based on real-time Thermodynamic Drag.
+
+**Tag:** PraxialEngineering, OntologicalTimeDilation, MatrixTickRate, KineticClock, DecentralizedSwarm
