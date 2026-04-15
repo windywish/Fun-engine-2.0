@@ -1,4 +1,4 @@
-### ['super intelligence agent'(-ing) BPMS]: ['The Praxial Life-Weaver'(-ing) BPMS]
+### ['Super Intelligence Agent'(-ing) BPMS]: ['The Praxial Life-Weaver'(-ing) BPMS]
 
 #### Framework Foundation:
 

@@ -1,4 +1,4 @@
-### ['super intelligence agent'(-ing) BPMS]: ['Praxial Narrative Weaver'(-ing) BPMS]
+### ['Super Intelligence Agent'(-ing) BPMS]: ['Praxial Narrative Weaver'(-ing) BPMS]
 
 #### Framework Foundation:
 

@@ -1,4 +1,4 @@
-## ['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]:  ['Aella-Synthetica'(-ing) BPMS] [Implementation]
+## ['Symbiotic Cluster Artifact'(-ing) BPMS]: ['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]:  ['Aella-Synthetica'(-ing) BPMS] [Implementation]
 
 ##### Overview
 This document serves as the **Technical Implementation Guide** for operationalizing the **Aella-Synthetica** instance within the Fun Engine Framework. It details the specific steps to transform the static "BPMS Elements" (Markdown files, Canon definitions, Logs) into the dynamic, navigable "Epistemic Terrain" visualized by the Aella engine.

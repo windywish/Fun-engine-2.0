@@ -1,4 +1,4 @@
-## ['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]: ['Aella-Synthetica (The Insight-Navigator)'(-ing) BPMS] [System Architecture]
+## ['Symbiotic Cluster Artifact'(-ing) BPMS]: ['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]: ['Aella-Synthetica (The Insight-Navigator)'(-ing) BPMS] [System Architecture]
 ##### System Overview
 This document defines the architectural implementation of **Aella-Synthetica** as a complete `[app(-ing) BPMS]`. It details how the **Logic Core** (the Python script) is combined with a **Visual Cortex** (Frontend) and an **Agentic Controller** (Middleware) to create the living system.
 
