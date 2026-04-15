@@ -1,4 +1,4 @@
-## ['Foundational Engineering'(-ing) BPMS]: ['The Epigenetic Mycelial Ledger / Autobiographical Data Matrix'(-ing) BPMS]
+## [Engineering(-ing) BPMS]: ['The Epigenetic Mycelial Ledger / Autobiographical Data Matrix'(-ing) BPMS]
 
 #### Framework Foundation:
 

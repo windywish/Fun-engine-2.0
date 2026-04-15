@@ -1,4 +1,4 @@
-## ['Foundational engineering'(-ing) BPMS]: ['The Homeostatic Tensegrity / Friction Injector'(-ing) BPMS]
+## [Engineering(-ing) BPMS]: ['The Homeostatic Tensegrity / Friction Injector'(-ing) BPMS]
 
 #### Framework Foundation:
 

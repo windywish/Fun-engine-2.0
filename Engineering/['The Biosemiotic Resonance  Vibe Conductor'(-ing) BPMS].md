@@ -1,4 +1,4 @@
-## ['Foundational engineering'(-ing) BPMS]: ['The Biosemiotic Resonance / Vibe Conductor'(-ing) BPMS]
+## [Engineering(-ing) BPMS]: ['The Biosemiotic Resonance / Vibe Conductor'(-ing) BPMS]
 
 #### Framework Foundation:
 

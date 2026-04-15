@@ -1,4 +1,4 @@
-## ['Artifact Engineering'(-ing) BPMS;'The Universal Matrix-Infrastructure Gateway'(-ing) BPMS]: ['The Artifact Crystallization / Deployment Pipeline'(-ing) BPMS]
+## [Engineering(-ing) BPMS]: ['Artifact Engineering'(-ing) BPMS;'The Universal Matrix-Infrastructure Gateway'(-ing) BPMS]: ['The Artifact Crystallization / Deployment Pipeline'(-ing) BPMS]
 
 #### 1. Metadata
 

@@ -1,4 +1,4 @@
-## ['Thermodynamic Engineering'(-ing) BPMS;'The Universal Matrix-Infrastructure Gateway'(-ing) BPMS]: ['The Thermodynamic Physics-Engine / Entropy Governor'(-ing) BPMS]
+## [Engineering(-ing) BPMS]: ['Thermodynamic Engineering'(-ing) BPMS;'The Universal Matrix-Infrastructure Gateway'(-ing) BPMS]: ['The Thermodynamic Physics-Engine / Entropy Governor'(-ing) BPMS]
 
 #### 1. Metadata
 
