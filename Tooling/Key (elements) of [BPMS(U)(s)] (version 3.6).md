@@ -6525,12 +6525,6 @@ The abstract `.md` blueprint or architectural plan that describes how an Agent, 
 
 **Tags:** SwarmIntelligenc, P2P_Gossip_Protocol, ViralImmunePayload, RobustImplementation
 
-**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Kinetic Weather Ingestion Engine'(-ing) BPMS]**
-
-**Scope of Application:** Applies to the creation of the absolute perimeter of the Fun Engine Framework. Essential for Task 1 (Matrix Tick-Rate driven by external friction instead of cron-time) and Task 2 (Defending the boundary via Thermodynamic Escrow). Replaces all standard passive "API Gateways" with active, thermodynamically policed weather stations.
-
-**Tag:** External-Implementation, Kinetic-Weather-Ingestion, Thermodynamic-Transmutation, Atomic-Facts, Swarm-Membrane
-
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Dynamic Barter & Contract Forge'(-ing) BPMS]**
 
 **Scope of Application:** Applies to the active, peer-to-peer collaboration mechanics of Core Task 4. It replaces rigid APIs with a living `['Dynamic Barter and Contract Forge']`. It utilizes non-representational `[Vibe]` to align disparate nodes, facilitating organic `[Teambuilding]` and `['Symbiotic Capability Fusion']`. This ensures that polyglot services can merge their thermodynamic and semantic capabilities seamlessly without centralized orchestration.
