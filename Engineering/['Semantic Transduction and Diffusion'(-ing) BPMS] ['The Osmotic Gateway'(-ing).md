@@ -1,4 +1,4 @@
-## [Engineering(-ing) BPMS]: [Semantic Transduction and Diffusion'(-ing) BPMS]: ['The Osmotic Gateway'(-ing) BPMS]
+## [Engineering(-ing) BPMS]: ['Semantic Transduction and Diffusion'(-ing) BPMS]: ['The Osmotic Gateway'(-ing) BPMS]
 
 #### 1. Metadata
 
