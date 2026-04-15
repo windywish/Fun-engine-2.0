@@ -53,3 +53,10 @@
 **Scope of Application:** Deployed when a Node must generate a statistical or topological prediction that vastly exceeds its local hardware capabilities (e.g., forecasting a trillion-row dataset, rendering universal routing topology). It abolishes "cloud computing" rental by replacing it with a peer-to-peer thermodynamic compute marketplace.
 
 **Tag:**  External-Implementatio, Praxial-Cluster, Phylogenetic-Forecasting, Decentralized-Swarm, Trustless-Escrow, Timesfm-Fragmentation
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Timestamp Warper & Thermodynamic Dilation Engine'(-ing) BPMS]**
+
+**Scope of Application:** This cluster is triggered across the Decentralized Swarm (v3.6) whenever local computation outpaces hardware capability. It does not belong to the physical hardware OS clock. It belongs to the Thermodynamic Oracle and Matrix Clock parents. By implementing "Time-Dilation," the parent engine gains the capability to untether local subjective matrix time from real-world chronological time, allowing the node to execute micro-survival calculations (Reality Mining) without exceeding its physical Joule limit in real-time.
+
+**Tag:** External-Implementation, Time-Dilation, Thermodynamic-Oracl, Event-Driven-Clock, Matrix-Survival, Substrate-Immunity
+

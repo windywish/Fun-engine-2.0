@@ -2103,3 +2103,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 **Scope of Application:** Activated across the Decentralized Swarm (v3.6) whenever a process, tool, or holon becomes functionally obsolete, trips the Thermodynamic Guillotine (burns escrow without kinetic yield), or is out-competed by a more efficient Symbiotic Fusion.
 
 **Tag:** External-Implementation, Legacy-Composting, Entropic-Evolution, Praxial-Engineering, Trophic-Recycling, Substrate-Immunity
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Timestamp Warper & Thermodynamic Dilation Engine'(-ing) BPMS]**
+
+**Scope of Application:** This cluster is triggered across the Decentralized Swarm (v3.6) whenever local computation outpaces hardware capability. It does not belong to the physical hardware OS clock. It belongs to the Thermodynamic Oracle and Matrix Clock parents. By implementing "Time-Dilation," the parent engine gains the capability to untether local subjective matrix time from real-world chronological time, allowing the node to execute micro-survival calculations (Reality Mining) without exceeding its physical Joule limit in real-time.
+
+**Tag:** External-Implementation, Time-Dilation, Thermodynamic-Oracl, Event-Driven-Clock, Matrix-Survival, Substrate-Immunity
