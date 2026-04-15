@@ -1,4 +1,4 @@
-## ['Symbiotic (Lightweight) Dataset Artifact'(-ing) BPMS]: ['The Crystallized Wisdom'(-ing) BPMS]
+## ['Symbiotic Lightweight Dataset Artifact'(-ing) BPMS]: ['The Crystallized Wisdom'(-ing) BPMS]
 
 #### 1. Metadata
 

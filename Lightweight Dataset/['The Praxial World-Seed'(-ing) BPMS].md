@@ -1,4 +1,4 @@
-## ['Symbiotic (Lightweight) Dataset Artifact'(-ing) BPMS]: ['The Praxial World-Seed'(-ing) BPMS]
+## ['Symbiotic Lightweight Dataset Artifact'(-ing) BPMS]: ['The Praxial World-Seed'(-ing) BPMS]
 
 #### 1. Metadata
 

@@ -1,4 +1,4 @@
-## **['Symbiotic (Lightweight) Dataset Artifact'(-ing) BPMS]: ['The Mnestic Codex'(-ing) BPMS]**
+## **['Symbiotic Lightweight Dataset Artifact'(-ing) BPMS]: ['The Mnestic Codex'(-ing) BPMS]**
 
 #### **1. Metadata**
 
