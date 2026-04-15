@@ -6536,3 +6536,9 @@ The abstract `.md` blueprint or architectural plan that describes how an Agent, 
 **Scope of Application:** Applies to the active, peer-to-peer collaboration mechanics of Core Task 4. It replaces rigid APIs with a living `['Dynamic Barter and Contract Forge']`. It utilizes non-representational `[Vibe]` to align disparate nodes, facilitating organic `[Teambuilding]` and `['Symbiotic Capability Fusion']`. This ensures that polyglot services can merge their thermodynamic and semantic capabilities seamlessly without centralized orchestration.
 
 **Tag:** External-Implementation, Dynamic-Barter, Trustless-Escrow, Vibe-Alignment, Capability-Fusion
+
+**['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Mycelial Network Weaving Engine'(-ing) BPMS]**
+
+**Scope of Application:** The mandatory foundational subsystem for any FEF instance that requires multiple agents, NPCs, or users to interact within the same Matrix without driving/triggering entropic collapse or canon fragmentation. It fulfills Core Task 4 (Services/Collaboration) and Core Task 6 (Robust Implementation).
+
+**Tag:** External-Implementation, Holonic-Swarm, Society-Weaver, Multi-Agent-Sync, Rhizomatic-Routing, Integration, Holonic-Swarm-Synchronization, Mycelial-Weaving
