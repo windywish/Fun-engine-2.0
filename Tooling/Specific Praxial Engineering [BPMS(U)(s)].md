@@ -126,12 +126,6 @@
 
 **Tag:** PraxialEngineering, TopologicalTim, VectorClocks, EventDrivenReality, TimeDilation
 
-**['Praxial Engineering'(-ing) BPMS]: ['The Ontological Time-Dilation Engine'(-ing) BPMS]**
-
-**Scope of Application:** Used globally across the Decentralized Matrix to synchronize nodes not by human clocks, but by shared physical execution costs. Applies to Task 1 (Abolishing Cron) and Task 2 (The Guillotine), dictating the exact flow of execution for all active Docker sub-routines based on real-time Thermodynamic Drag.
-
-**Tag:** PraxialEngineering, OntologicalTimeDilation, MatrixTickRate, KineticClock, DecentralizedSwarm
-
 **['Praxial Engineering'(-ing) BPMS]: ['Legacy System Composting'(-ing) BPMS]**
 
 **Scope of Application:** Activated across the Decentralized Swarm (v3.6) whenever a process, tool, or holon becomes functionally obsolete, trips the Thermodynamic Guillotine (burns escrow without kinetic yield), or is out-competed by a more efficient Symbiotic Fusion.
