@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['Praxial Trophic Engine'(-ing) BPMS]: ['The Thermodynamic Flow Router'(-ing) BPMS]
+## ['Praxial Engineering'(-ing) BPMS]: ['Praxial Trophic Engine'(-ing) BPMS]: ['The Thermodynamic Flow Router'(-ing) BPMS]
 
 #### Framework Foundation:
 

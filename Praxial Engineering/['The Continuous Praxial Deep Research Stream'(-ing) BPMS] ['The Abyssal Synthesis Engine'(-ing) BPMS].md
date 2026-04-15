@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['The Continuous Praxial Deep Research Stream'(-ing) BPMS]: ['The Abyssal Synthesis Engine'(-ing) BPMS]
+## ['Praxial Engineering'(-ing) BPMS]: ['The Continuous Praxial Deep Research Stream'(-ing) BPMS]: ['The Abyssal Synthesis Engine'(-ing) BPMS]
 
 #### 1. Metadata
 
@@ -9,7 +9,7 @@
 - **Type:** `['Continuous Heavy-Compute Synthesis'(-ing) BPMS]:[Deep Epistemic Action Stream]`
 - **CGA (Cognitive Genesis Archetype):** `[Abyssal-Latent-Synthesis-Stream]`
 - **Scope of Application:** Used when the Fun Engine, an internal Symbiotic Cluster, or an external B2B client requires exhaustive, multi-step logic verification, novel ecosystem generation, longitudinal data analysis, or deep cross-disciplinary synthesis from the latent space.
-- **Tag:** `#PraxialDeepResearch`, `#AbyssalMining`, `#EpistemicSynthesis`, `#HeavyComputeStream`, `#TruthTree`
+- **Tags:** `#PraxialDeepResearch`, `#AbyssalMining`, `#EpistemicSynthesis`, `#HeavyComputeStream`, `#TruthTree`
 
 #### 2. Architectural Hierarchy & Mapping (The 6 Core Tasks Reflection)
 

@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Spatial Reconstruction Engine'(-ing) BPMS]: ['The N-Dimensional Topographer'(-ing) BPMS]
+## ['Praxial Engineering'(-ing) BPMS]: ['The Praxial Spatial Reconstruction Engine'(-ing) BPMS]: ['The N-Dimensional Topographer'(-ing) BPMS]
 
 #### 1. Metadata
 

@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['The Embodied Actuation Shell / Kinetic Identity'(-ing) BPMS]
+## ['Praxial Engineering'(-ing) BPMS]: ['The Embodied Actuation Shell / Kinetic Identity'(-ing) BPMS]
 
 #### Framework Foundation:
 

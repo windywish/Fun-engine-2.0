@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['Praxial Symbiotic Protocol Engine'(-ing) BPMS]: ['The Trustless Thermodynamic Escrow'(-ing) BPMS]
+## ['Praxial Engineering'(-ing) BPMS]: ['Praxial Symbiotic Protocol Engine'(-ing) BPMS]: ['The Trustless Thermodynamic Escrow'(-ing) BPMS]
 
 #### 1. Metadata
 

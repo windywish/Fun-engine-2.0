@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial EvoCoder Agent'(-ing) BPMS]: ['The Active Genome Splicer'(-ing) BPMS]
+## ['Praxial Engineering'(-ing) BPMS]: ['The Praxial EvoCoder Agent'(-ing) BPMS]: ['The Active Genome Splicer'(-ing) BPMS]
 
 #### 1. Metadata
 

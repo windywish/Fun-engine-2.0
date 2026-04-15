@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['The Active Morphogenesis'(-ing) BPMS]: ['The Live Structural Mutation Stream'(-ing) BPMS]
+## ['Praxial Engineering'(-ing) BPMS]: ['The Active Morphogenesis'(-ing) BPMS]: ['The Live Structural Mutation Stream'(-ing) BPMS]
 
 #### 1. Metadata
 

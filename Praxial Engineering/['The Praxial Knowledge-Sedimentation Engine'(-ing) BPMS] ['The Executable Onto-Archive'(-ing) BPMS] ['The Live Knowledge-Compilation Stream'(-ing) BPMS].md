@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]: ['The Executable Onto-Archive'(-ing) BPMS]: ['The Live Knowledge-Compilation Stream'(-ing) BPMS]
+## ['Praxial Engineering'(-ing) BPMS]: ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]: ['The Executable Onto-Archive'(-ing) BPMS]: ['The Live Knowledge-Compilation Stream'(-ing) BPMS]
 
 #### 1. Metadata
 

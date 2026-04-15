@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['The Symbiotic Cluster Router / B2B Matrix Handshake'(-ing) BPMS]
+## ['Praxial Engineering'(-ing) BPMS]: ['The Symbiotic Cluster Router / B2B Matrix Handshake'(-ing) BPMS]
 
 #### Framework Foundation:
 

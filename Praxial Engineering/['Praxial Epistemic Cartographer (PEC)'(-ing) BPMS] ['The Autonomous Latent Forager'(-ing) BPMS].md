@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]: ['The Autonomous Latent Forager'(-ing) BPMS]
+## ['Praxial Engineering'(-ing) BPMS]: ['Praxial Epistemic Cartographer (PEC)'(-ing) BPMS]: ['The Autonomous Latent Forager'(-ing) BPMS]
 
 #### Framework Foundation:
 

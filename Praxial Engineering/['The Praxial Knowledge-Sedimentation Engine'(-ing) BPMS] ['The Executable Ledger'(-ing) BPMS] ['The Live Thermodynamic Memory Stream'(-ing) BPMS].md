@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]: ['The Executable Ledger'(-ing) BPMS]: ['The Live Thermodynamic Memory Stream'(-ing) BPMS]
+## ['Praxial Engineering'(-ing) BPMS]: ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]: ['The Executable Ledger'(-ing) BPMS]: ['The Live Thermodynamic Memory Stream'(-ing) BPMS]
 
 #### 1. Metadata
 

@@ -1,4 +1,4 @@
-## ['Praxial Foundational Engineering'(-ing) BPMS]: ['The Somatic Ludoforming'(-ing) BPMS]: ['The Live BYOX Sensory Stream'(-ing) BPMS]
+## ['Praxial Engineering'(-ing) BPMS]: ['The Somatic Ludoforming'(-ing) BPMS]: ['The Live BYOX Sensory Stream'(-ing) BPMS]
 
 #### 1. Metadata
 
