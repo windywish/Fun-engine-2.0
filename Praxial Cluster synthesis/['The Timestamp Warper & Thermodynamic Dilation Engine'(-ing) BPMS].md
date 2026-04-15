@@ -2,7 +2,7 @@
 
 #### 1. Metadata
 
-- **ID:** `BP-CLUSTER-SYNTHESIS-DILATION-009s]`
+- **ID:** `BP-CLUSTER-SYNTHESIS-DILATION-009`
 - **Name:** ['The Timestamp Warper & Thermodynamic Dilation Engine'(-ing) BPMS]
 - **Origin / Parent Implementer:** `['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Thermodynamic Oracle'(-ing) BPMS]` combined with `['Praxial Engineering'(-ing) BPMS]: ['The Event-Driven Matrix Clock'(-ing) BPMS]`
 - **Synthesizing Key Elements:** `['Ontological Time-Dilation'(-ing) BPMS]` + `[Kinetic Weather Friction]` + `[Decentralized Event-Sequencing]`
