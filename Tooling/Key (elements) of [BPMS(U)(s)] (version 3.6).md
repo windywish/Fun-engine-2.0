@@ -6035,9 +6035,13 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **[Meaning(-ing) BPMS]: ['g (Ontological Gravity)'(-ing) BPMS]**
 
-**Scope of Application:** `['g (Ontological Gravity)'(-ing) BPMS]` is the universal physics engine of the Fun Engine Framework. It applies to every interaction, every agent, every Large Model query, and every structural build. It is the invisible force that binds the Auditor, the Miner, the Campaign, and the Probe into a single, living universe.
+**Scope of Application:** This instance strictly applies to the macro-orchestration and architectural physics of the decentralized Version 3.6 Swarm.
 
-**Tags:**  Meaning, OntologicalGravity, SemanticMass, CoreTaskPhysic, ThermodynamicTruth, GravimetricNavigation
+- **P2P Topology & Consensus:** It replaces traditional centralized routing by allowing the `[Gossip Protocol]` to naturally favor and propagate pathways with the highest gravitational mass (highest density of interdependent Zod/SQLite facts backed by Trustless Escrow).
+- **Fork Resolution:** In the event of dissonant network states, Ontological Gravity acts as the ultimate arbitrator; the ledger chain with the highest thermodynamic mass instantly overrides lighter, less-verified chains.
+- **Swarm Aggregation:** It serves as the primary mechanism for drawing isolated Sovereign Nodes together to form highly complex, multi-node `['Symbiotic Clusters']`, functioning strictly via selfish thermodynamic incentives rather than master-slave directives.
+
+**Tags:**  Ontological-Gravity, Thermodynamic-Mass, P2P-Consensus, Decentralized-Topology, Swarm-Attractor, Fact-Density, Escrow-Wells, Ludic-Friction-Resolution
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Semantic/Linguistic'(-ing) BPMS]**
 

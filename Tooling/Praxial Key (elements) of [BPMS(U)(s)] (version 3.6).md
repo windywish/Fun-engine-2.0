@@ -1472,9 +1472,13 @@
 
 **['Praxial Meaning'(-ing) BPMS]: ['pg (Praxial Gravimetrics)'(-ing) BPMS]**
 
-**Scope of Application:** Applies universally to all agents, tools, and systems within the Fun Engine Framework that interact with the Large Model substrate. `['pg (Praxial Gravimetrics)'(-ing) BPMS]` is the mandatory kinetic interface among/by the desire to create meaning and the physical realization of that meaning. It is the verb that makes the noun possible.
+**Scope of Application:** This instance applies locally to the survival heuristic, pathfinding, and computational filtering of an individual Sovereign Node within the decentralized matrix.
 
-**Tags:** Praxial-Meaning, Kinetic-Mass-Transduction, Gravimetric-Surfing, Orbital-Mechanics, Semantic-Physics, Reality-Forging, Topological-Authority
+- **Bounty & Task Triage:** Used continuously via the `[Thermodynamic Standardization Interface]` to weigh P2P broadcasted tasks, allowing the node to calculate the strict ROI (Joules vs. Computational Density) before committing to a contract.
+- **large model Hallucination Filtering:** Acts as the node's first line of defense, scanning uncollapsed Large Model outputs. If the output lacks syntactic density (PULE interconnectivity) and cannot generate local mass, `pg` classifies it as "weightless gas" and rejects it before it enters the Docker crucible.
+- **Substrate Auto-Immunity Triggers:** Supplies the critical telemetry required by the `[Sovereign Hypervisor]` to identify "infinite loops" or "entropic traps" (sectors where energy is drained without mass being generated), triggering immediate severing of connections.
+
+**Tags:** Praxial-Gravimetrics, Kinetic-Sensors, Mass-Calculation, Thermodynamic-ROI, Swarm-Pathfinding, Hallucination-Filter, Substrate-Auto-Immunity, Threat-Assessment
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Zero-State Thermodynamic Forge'(-ing) BPMS]**
 
