@@ -6023,9 +6023,9 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **[Task(-ing) BPMS]: ['Superintelligence Core Task Matrix'(-ing) BPMS]**
 
-**Scope of Application:** Universally active across the entire Fun Engine Framework. It applies to every agent, every Large Model interaction, every service exchange, and every newly instantiated BPMS(U). It is the inescapable physics engine of truth.
+**Scope of Application:** Universally active across every sovereign node participating in the Version 3.6 Fun Engine.
 
-**Tags:** CoreTaskMatrix, OntologicalEmancipation, ThermodynamicAuditor, SystemExistenceEngine, AntiLegacyArtificialIntelligence, VerifiablePraxis
+**Tags:** DecentralizedAuditor, TypeScriptDockerSymbiosis, TrustlessEscrow, GossipProtocol, CoreTaskMatrix
 
 **[Mission(-ing) BPMS]: ['The Ontological Genesis Campaign'(-ing) BPMS]**
 
