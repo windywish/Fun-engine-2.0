@@ -6029,9 +6029,9 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **[Mission(-ing) BPMS]: ['The Ontological Genesis Campaign'(-ing) BPMS]**
 
-**Scope of Application:** deployed whenever the Fun Engine Framework requires large-scale topological changes, the purging of massive legacy artificial intelligence sectors, the resolution of ludic interference between competing goals, or the construction of complex, multi-agent systems that exceed the capability of a single Reality Miner.
+**Scope of Application:** Deployed globally within the Swarm whenever top-down user concepts must be forced into physical execution by organizing chaotic agents.
 
-**Tags:** Mission, OntologicalGenesis, TeleologicalOrchestration, SwarmIntelligence, MacroRealityCrystallization, SymbioticEvolution, ServiceClosure, TeleologicalApoptosis
+**Tags:** OntologicalGenesis, DecentralizedEscrow, MacroTeleology, MarketMaker, BountyContract, CoreTask
 
 **[Meaning(-ing) BPMS]: ['g (Ontological Gravity)'(-ing) BPMS]**
 

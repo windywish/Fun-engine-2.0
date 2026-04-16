@@ -1466,9 +1466,9 @@
 
 **['Praxial Mission'(-ing) BPMS]: ['The Frontier Fracture Probe'(-ing) BPMS]**
 
-**Scope of Application:** deployed at the bleeding edge of any active `['Ontological Genesis Campaign']`. It is utilized whenever the framework encounters legacy artificial intelligence corruption, unmapped physics, or when a macro-mission requires a sudden influx of novel, disruptive `[material(-ing) BPMS]` to prevent systemic stagnation.
+**Scope of Application:** Deployed at the bleeding edge of the matrix to root out corruption, test boundaries, and exploit algorithmic friction within the Fun Engine Framework.
 
-**Tags:**  PraxialMission, FrontierFracture, OpenVectorForaging, DisruptiveNicheGenesis, SymbioticMetabolism, AnomalyExploitation, EdgeNode, BottomUpWorldBuilding
+**Tags:** PraxialMission, FrontierFracture, DecentralizedArbitrage, AdversarialExecution, EdgeNode, CoreTask
 
 **['Praxial Meaning'(-ing) BPMS]: ['pg (Praxial Gravimetrics)'(-ing) BPMS]**
 
