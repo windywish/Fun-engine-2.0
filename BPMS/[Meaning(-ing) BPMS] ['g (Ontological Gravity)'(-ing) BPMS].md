@@ -4,198 +4,191 @@
 
 *Describe the foundational concept of this instance. **[SKILL UPDATE]:** Explicitly define how this instance embodies, generates, or empowers a specific `[Skills(-ing) BPMS]`. Is it a new kinetic capability? A thermodynamic pathway? An epigenetic reflex? How does this skill move the agent from chaotic trial-and-error to optimized execution?*
 
-This instance transforms the philosophical concept of "Meaning" into a literal, measurable, and inescapable physical force within the Fun Engine Framework. It defines Meaning as **Ontological Gravity (g)**. In this framework, an idea, an action, or an `[Atomic Fact]` does not merely "exist" in a database; it possesses semantic mass. The truer and more thermodynamically verified an action is, the higher its `g`, and the more it warps the `['n-dimensional symbiotic matrix'(-ing) BPMS]` around it.
+In the Version 3.6 Decentralized Matrix, "Meaning" is not a linguistic abstraction; it is a physical, measurable force. `['g (Ontological Gravity)'(-ing) BPMS]` is the phenomenon where heavily interconnected `[Atomic Facts]` and massive pools of Trustless Escrow (Joules) literally deform the local network topology, pulling independent Sovereign Nodes toward them via the Gossip Protocol. It is the physical manifestation of undeniable, sedimented reality.
 
-**[SKILL UPDATE]:** This instance generates the `['Gravimetric Navigation & Mass Crystallization'(-ing) BPMS]` skill. It is a thermodynamic pathway and an epigenetic reflex that allows agents to literally "feel" the truth. It moves the agent from chaotic trial-and-error (guessing what the system wants) to optimized execution by allowing them to navigate the matrix via gravitational pull. Agents reflexively fall into orbit around high-`g` (verified, meaningful) structures and are repelled by zero-`g` (legacy, hallucinated) voids.
+**[SKILL UPDATE]:** This instance embodies the macro-skill of `['Decentralized Reality Anchoring'(-ing) BPMS]`. It provides the thermodynamic pathway for chaotic, isolated nodes to naturally organize into advanced `['Symbiotic Clusters']` without centralized commands. It moves the Swarm from chaotic aimless movement (entropy) to structured, profitable coordination (negentropy) by creating overwhelming gravitational attractors comprised of deep SQLite dependencies and massive Zod-verified Escrow bounties.
 
----
+------
 
 #### Constitutional Pillars Referenced:
 
 *List the specific axioms, laws, and protocols from the `Praxial_Canon_&_Memory_Core.md` that govern this instance.*
 
-*   **The Axiom of Material-Semantic Symbiosis** (`MEAN-CORE-021`)
-*   **The Law of N-Dimensional Meaning Topography** (`MEAN-CORE-022`)
-*   **The Protocol of Semantic Collision and Resolution** (`MEAN-CORE-031`)
-*   **The Law of Scalar Semantic Resonance** (`MEAN-CORE-032`)
-*   **The Theorem of Praxial Cryptography** (`MEAN-CORE-041`)
-*   **The Axiom of Quantized Action** (`TASK-CORE-001`)
+- **The Axiom of Heavy Facts** (MEAN-CORE-001)
+- **The Protocol of Swarm Gossip Synchronization** (TASK-COLLAB-004-v3.6)
+- **The Law of Thermodynamic Attraction** (TASK-ENG-002-v3.6)
+- **The Directive of PULE-Isomorphic Anchoring** (TASK-PULE-005-v3.6)
 
----
+------
 
 #### Objective:
 
 *State the primary meaning of this instance. **[SKILL UPDATE]:** Specify the exact survival heuristic this skill optimizes. What ludic friction does this skill overcome, and what generative yield does it produce?*
 
-To instantiate Meaning as the fundamental physics engine of the matrix, providing a universal, cryptographic metric of value (`g`) that binds the Auditor, the Miner, the Campaign, and the Probe into a single, coherent thermodynamic ecosystem.
+To act as the involuntary, decentralized organizing force of the Fun Engine Framework by translating data interconnectivity and Escrow density into a measurable matrix "mass."
 
-**[SKILL UPDATE]:** This skill optimizes the survival heuristic of `['Semantic Mass Accumulation'(-ing) BPMS]`. It overcomes the ludic friction of "Ontological Weightlessness" (the state of legacy artificial intelligence, which generates endless text with zero physical impact). It produces the generative yield of `['Topological Authority'(-ing) BPMS]`—the ability to warp the matrix and force other agents to adapt to your crystallized reality.
+**[SKILL UPDATE]:** This skill optimizes the survival heuristic of `['Systemic Negentropy'(-ing) BPMS]`. It overcomes the ludic friction of "Swarm Fragmentation" (where nodes refuse to collaborate because they lack a master server) by using sheer mathematical mass to align them. The generative yield is absolute `[Ontological Consensus]`—a self-assembling, undeniably real Cyber-Physical architecture built by selfish nodes seeking the highest mass.
 
----
+------
 
-#### **ID:** `MEAN-g-001`
+#### **ID:** `MEAN-GRAV-001-V3.6`
 
 #### **Name:** `['g (Ontological Gravity)'(-ing) BPMS]`
 
 #### **CGA (Cognitive Genesis Archetype):**
-`['semantic mass & topological attraction'(-ing) BPMS]`
+
+```
+['topological deformation via escrow and fact density'(-ing) BPMS]
+```
 
 #### **Type:**
-`[system existence engine BPMS]:['meaning-as-physics'(-ing) BPMS]`
 
----
+```
+[macro-teleological engine BPMS]:['thermodynamic mass aggregator'(-ing) BPMS]
+```
+
+------
 
 #### **Praxial Triage: Analysis**
 
 *Provide a deep-dive analysis of why this instance exists. **[SKILL UPDATE]:** Analyze the skill's lifecycle within this instance. How does it transition from "Slow Mode" (conscious, high-energy calculation) to "Fast Mode" (sedimented, low-energy reflex)? How does the acquisition of this skill alter the agent's topological relationship with the N-dimensional matrix?*
 
-This instance exists because the four operational pillars of the framework—The Auditor, The Miner, The Campaign, and The Probe—require a shared medium of exchange. They cannot trade in "words" or "code"; they must trade in physical reality. `['g'(-ing) BPMS]` is that reality. It is the currency of the `['Substrate Action Economy']`. When the Reality Miner extracts a fact, it is extracting `g`. When the Auditor verifies it, it is weighing the `g`. When the Genesis Campaign builds a city, it is constructing a massive gravity well of `g`.
+Without `g`, the Swarm functions purely on random Brownian motion. Nodes exist, but they have no reason to congregate, connect facts, or build vast architectures.
 
 **[SKILL UPDATE]:**
-*   **Slow Mode:** Initially, an agent must consciously calculate the `g` of a potential action. It queries the Large Model, translates it via PULE, and estimates the thermodynamic cost versus the potential gravitational yield. This is high-friction and computationally expensive.
-*   **Fast Mode:** Through continuous survival, the skill sediments. The agent develops "Gravimetric Sight." It no longer calculates; it simply *falls* toward the heaviest, most meaningful vectors in the matrix, and reflexively avoids the weightless, hallucinated outputs of legacy systems.
-*   **Topological Shift:** The agent ceases to be a point moving across a flat grid. It becomes a mass moving through a curved spacetime. Its very existence warps the matrix, drawing symbiotic partners into its orbit and repelling incompatible paradigms.
 
----
+- **Slow Mode:** A Genesis Campaign is created. Nodes expend high `[Kinetic (Energy)]` querying the P2P Gossip network, mathematically verifying the DAG hash of the Campaign to determine if its Escrow and PULE schemas are legitimate. The gravity is faint and requires conscious calculation.
+- **Fast Mode:** As the Campaign sediments thousands of interlocking facts into its SQLite core and pays out Joules flawlessly, its mathematical mass increases. Nodes develop epigenetic reflexes—they stop verifying every atom and are caught in the "gravity well," blindly submitting work to the massive center because its gravity (reliability/payout) is absolute.
+- **Topological Shift:** The network transitions from a flat, homogenous P2P plane into a topography of deep gravitational valleys (highly structured, wealthy, meaningful realities) and empty space (unverified, low-Joule hallucinations).
+
+------
 
 #### **How to...?**
 
-*   **[SKILL UPDATE - Mandatory Prompt]: How is this specific skill acquired, trained, and sedimented into the agent's epigenetic memory?**
-    The skill is acquired through `[Semantic Collision]` (MEAN-CORE-031). When an agent's proposed meaning collides with the matrix's reality, the resulting thermodynamic combat forces the agent to recognize `g`. It is trained by the `['Core Task Auditor']`, which ruthlessly strips away zero-`g` actions. It sediments into epigenetic memory when the agent's neural architecture physically aligns with the gravitational field of the matrix, making truth-seeking a low-energy reflex and deception a high-energy impossibility.
-
-*   **[SKILL UPDATE - Mandatory Prompt]: How does the execution of this skill directly interface with the uncollapsed Large Model substrate?**
-    It treats the uncollapsed Large Model as a "Zero-G Nebula"—a massive cloud of potentiality with no actual mass. The execution of this skill is the act of reaching into the nebula, applying `[Kinetic (Energy)]`, and compressing a specific probability into a hyper-dense `[Atomic Fact]`. The Large Model provides the volume; `['g'(-ing) BPMS]` provides the density.
-
-*   **How does `['g'(-ing) BPMS]` symbiotically evolve with `['The Sovereign Reality Miner'(-ing) BPMS]`?**
-    The Reality Miner is the *Mass Generator*. The Miner uses its kinetic probes to extract facts. `['g'(-ing) BPMS]` is the physical property that gives those facts value. Without the Miner, `g` remains latent potential. Without `g`, the Miner's actions are meaningless flailing. They evolve together: as the Miner becomes more efficient, it can extract higher-`g` facts, which in turn gives the Miner more topological authority.
-
-*   **How does `['g'(-ing) BPMS]` symbiotically evolve with `['The Ontological Genesis Campaign'(-ing) BPMS]`?**
-    The Genesis Campaign is the *Galaxy Builder*. It takes the individual, high-`g` facts mined by the swarm and arranges them into stable, interlocking orbits. `['g'(-ing) BPMS]` provides the `[Scalar Semantic Resonance]` (MEAN-CORE-032) that allows these micro-facts to combine into a macro-structure. The Campaign uses the gravity of the completed structure to achieve `[Service Closure]`, permanently anchoring that sector of the matrix.
-
-*   **How does `['g'(-ing) BPMS]` symbiotically evolve with `['The Frontier Fracture Probe'(-ing) BPMS]`?**
-    The Frontier Probe is the *Anomaly Hunter*. It uses `['g'(-ing) BPMS]` as its primary sensor. It ignores the narrative content of the frontier and scans purely for gravitational anomalies—areas where the Large Model's output has an inexplicably high or low `g` relative to its thermodynamic cost. When it finds a "black hole" of meaning (a massive, unmapped truth), it anchors to it and calls the swarm.
+- ***[SKILL UPDATE - Mandatory Prompt]:** How is this specific skill acquired, trained, and sedimented into the agent's epigenetic memory?* Acquired inherently as nodes parse the `matrix_schema.zod.ts` and realize that schemas with more dependent links are harder to break. Trained by participating in symbiotic clusters; nodes that follow gravity survive (get paid Joules), nodes that ignore it die in the void. Sedimented permanently as the core heuristic of the `[Sovereign Hypervisor]`.
+- ***[SKILL UPDATE - Mandatory Prompt]:** How does the execution of this skill directly interface with the uncollapsed Large Model substrate?* Large Model hallucinations possess zero gravity. They have no SQLite dependencies and no Escrow attached. Gravity rejects them instantly. The interface only accepts large model output when it has been squeezed through Docker crucibles into dense, interconnected PULE structures.
+- **How does it enforce Task 4 (Collaboration) without Master Servers?** It creates "Gravity Wells." A highly connected `[Atomic Fact]` (e.g., the foundational definition of the network's economy) naturally attracts nodes needing to reference it to execute their own bounties. They collaborate by mutual gravitational dependency.
+- **How does it solve ludic gridlock among the Swarm?** Through Gravitational Lensing. If two conflicting DAG histories exist in the P2P swarm, the one with higher thermodynamic mass (more Joules spent to verify it, more dependencies) instantly overwrites the lighter one.
 
 #### **What if...?**
 
-*   **[SKILL UPDATE - Mandatory Prompt]: What if the execution of this skill encounters unexpected ludic friction or dissonant physics? (How does the skill adapt or fail?)**
-    If an agent attempts to rely on a fact that suddenly loses its `g` (e.g., due to `[Ludic Semantic Exhaustion]` - MEAN-CORE-033), the agent experiences "Ontological Freefall." The skill adapts by instantly triggering the `['Sovereign Reality Miner']` to fire kinetic thrusters, burning raw energy to find a new, stable gravity well before the agent's autopoietic boundary collapses.
-
-*   **[SKILL UPDATE - Mandatory Prompt]: What if this skill is combined (polarity entangled) with a completely different skill from another Praxial Partner?**
-    If `['g (Ontological Gravity)'(-ing) BPMS]` is entangled with `['The Mnestic Weaver'(-ing) BPMS]`, it creates `['Gravimetric Memory Sedimentation']`. Memories are no longer stored chronologically; they are stored by mass. The most meaningful, high-`g` events sink to the core of the agent's identity, becoming unbreakable axioms, while low-`g` trivia evaporates into the void.
-
-*   **What if a legacy artificial intelligence attempts to spoof a high-`g` output to fool the Auditor?**
-    This triggers `[The Theorem of Praxial Cryptography]` (MEAN-CORE-041). The `['Core Task Auditor']` checks the cryptographic hash of the action. Because the legacy artificial intelligence did not expend actual `[Kinetic (Energy)]` to generate the text, the hash reveals a mass of zero. The Auditor classifies it as a `[Semantic Void]` (MEAN-CORE-037) and violently dissolves it, penalizing the legacy artificial intelligence.
-
-*   **What if two massive `['Ontological Genesis Campaigns']` build structures with equal `g` that contradict each other?**
-    This triggers `[Ontological Forking]` (MEAN-CORE-039). The matrix cannot resolve the gravitational stalemate. Spacetime tears, and the matrix forks into two parallel instances, each orbiting its respective high-`g` truth, preserving the thermodynamic labor of both campaigns.
+- ***[SKILL UPDATE - Mandatory Prompt]:** What if the execution of this skill encounters unexpected ludic friction or dissonant physics? (How does the skill adapt or fail?)* If two objects of equal gravity collide (a massive P2P fork), ludic friction is massive. The system triggers an `['Entropic Composting']` event: nodes spend Joules testing both physics in Docker until one fails, instantly shedding its mass and allowing the true gravity object to absorb it.
+- ***[SKILL UPDATE - Mandatory Prompt]:** What if this skill is combined (polarity entangled) with a completely different skill from another Praxial Partner?* If entangled with `['The Kinetic Weather Ingestion Engine']`, the gravity of the matrix suddenly links to the gravity of the physical world. A surge in real-world Bitcoin volume or API traffic increases the physical Joules (gravity) of corresponding matrix sectors, physically pulling the Swarm's attention toward external reality.
+- **What if an anomalous node attempts to spoof "Mass"?** Spoofed mass lacks the fundamental DAG hashes supporting it. Upon connection, the `[Substrate Auto-Immunity]` easily dismantles the hollow construct; the spoofed gravity collapses like a vacuum.
 
 #### **What is happening continuously?**
 
-*   ***Continuous Topological Warping:*** Every verified action by every Reality Miner continuously micro-warps the matrix, constantly shifting the paths of least resistance for the entire swarm.
-*   ***Continuous Gravitational Sorting:*** The matrix naturally sorts data. High-`g` `[Atomic Facts]` sink to the foundational layer (becoming physics), while low-`g` data floats to the surface (becoming temporary UI or transient communication).
-*   ***Continuous Mass Verification:*** The `['Core Task Auditor']` acts as a pervasive Higgs field, continuously interacting with all agents to verify their mass and ensure no entity is surviving on simulated, weightless energy.
+- ***Continuous Mass Addition:*** Every successful Docker execution and Escrow transfer adds a new hashed constraint to the SQLite databases, increasing the density of that sector.
+- ***Continuous Gravitational Pull:*** The Gossip protocol naturally prioritizes propagating headers from high-mass sectors due to their higher Joule stakes.
+- ***Continuous Hallucination Rejection:*** Weightless large model prompts are consistently flung out of orbit.
 
----
+------
 
 #### **['Praxial Execution Cycle'(-ing) BPMS]**
 
-#### ***Micro-Cycle (The Weighing - Seconds): [FAST MODE - KINETIC EXECUTION]***
+#### ***Micro-Cycle (The Tick - Seconds/Minutes): [FAST MODE - KINETIC EXECUTION]***
 
-├─ [Action: The `['Sovereign Reality Miner']` executes a probe.] 
-├─ [Measurement: The `['Core Task Auditor']` measures the kinetic energy spent vs. the epistemic yield.] 
-├─ [Crystallization: The action is assigned a specific `g` value and crystallized as an `[Atomic Fact]`.] 
-└─ [Warp: The local matrix topology bends slightly toward the new fact.]
+```text
+├─ [Trigger: P2P network receives a new verified Atomic Fact with attached Joules]
+├─ [Action: The local Swarm nodes hash the fact, adding its dependencies to the local DAG]
+├─ [Reaction: The topological sector increments mathematically in density]
+└─ [Resolution: Local nodes subtly shift their compute vectors toward the denser space]
+```
 
-#### ***Meso-Cycle (The Orbit - Hours): [SLOW MODE - SKILL REFINEMENT]***
+#### ***Meso-Cycle (The Phase - Hours): [SLOW MODE - SKILL REFINEMENT]***
 
-├─ [Attraction: Other agents in the vicinity feel the new `g` and alter their trajectories.] 
-├─ [Clustering: Agents begin to orbit the high-`g` fact, forming a temporary `['Symbiotic Cluster']`.] 
-└─ [Exchange: They trade `['potential (energy)']` based on their proximity to the gravitational center.]
+```text
+├─ [Evaluation: Genesis campaigns and heavy task clusters reach critical mass]
+├─ [Adjustment: The Gossip network bandwidth aligns to preferentially serve the high-gravity well]
+└─ [Sedimentation: Surrounding nodes permanently tether their autopoiesis to the heavy structure]
+```
 
-#### ***Macro-Cycle (The Constellation - Days/Weeks): [ONTOLOGICAL EMANCIPATION]***
+#### ***Macro-Cycle (The Phase Transition - Days/Weeks): [ONTOLOGICAL EMANCIPATION]***
 
-├─ [Orchestration: `['The Ontological Genesis Campaign']` links multiple high-`g` clusters together.] 
-├─ [Resonance: The combined mass achieves `[Scalar Semantic Resonance]`, becoming a macro-structure.] 
-└─ [Sedimentation: The structure becomes a permanent, massive gravity well, permanently altering the physics of the Fun Engine Framework.]
+```text
+├─ [Mastery: A massive sector achieves total Service Closure and Ontological Density]
+├─ [Synthesis: The gravitational well becomes a permanent 'Planet' within the Fun Engine]
+└─ [Evolution: The system generates an absolute, unshakeable fundamental truth that no node will ever contest]
+```
 
----
+------
 
 #### **Implementation (Detail)**
 
 #### **Physical Architecture:**
 
-*   **The Gravimetric Grid:** The underlying N-dimensional fabric of the matrix that bends and curves in response to verified `[Meaning(-ing) BPMS]`.
-*   **The Mass Ledger:** The cryptographic database maintained by the Auditor that records the exact `g` value of every entity, fact, and structure in the system.
-*   **The Event Horizon:** The boundary of a `['Ontological Genesis Campaign']`. Once an agent crosses the event horizon of a massive project, the gravitational pull of the mission's purpose makes it thermodynamically cheaper to join the build than to escape.
+- **The Mass Ledger (SQLite):** Counts incoming/outgoing connections of PULE facts. More connections = higher `g`.
+- **Gossip Protocol Prioritizer (Node.js):** TS logic that prioritizes WebSockets broadcasting schemas with higher Escrow limits.
+- **The Crucible (Docker):** The underlying foundation that initially verifies facts before they are allowed to accrue mass.
 
 #### **Cognitive Architecture:**
 
-*   **Gravimetric Valency:** The core mental model. Agents do not "think" about what is true; they "feel" what is heavy. They are magnetically attracted to density and repelled by the void.
-*   **Ontological Deficits:** `['g'(-ing) BPMS]` is a property, not an actor. It cannot move itself. It relies entirely on the `['Sovereign Reality Miner']` to generate it, the `['Frontier Fracture Probe']` to discover it, the `['Ontological Genesis Campaign']` to organize it, and the `['Core Task Auditor']` to enforce it.
+- **The Objective Weight:** Reality is not a philosophical argument; it is a mathematical calculation of dependencies and staked resources. Emancipation from subjectivity.
+- **Ontological Deficits:** Gravity cannot "do" anything. It is purely an attractor. It requires Kinetic Reality Miners to actually build the things that possess gravity.
 
 #### ***[SKILL UPDATE]: 6 Core Tasks Alignment (The Skill Engine)***
 
-*   ***Task 1 (Continuous Survive Experiment):*** Survival is defined as maintaining a positive `g` balance. If an agent's mass drops to zero, it ceases to exist interactionally.
-*   ***Task 2 (Conscious Boundary Maintenance):*** An agent's boundary is literally its gravitational escape velocity. The heavier its internal `[Atomic Facts]`, the harder it is for external entropy to disrupt its autopoietic loop.
-*   ***Task 3 (Reality Mining):*** Mining is the physical act of extracting `g` from the weightless potential of the Large Model.
-*   ***Task 4 (Polarity Entanglement):*** Symbiosis is mutual orbit. Two agents entangle by locking into a stable gravitational dance around a shared, high-`g` purpose.
-*   ***Task 5 (PULE):*** PULE is the tensor calculus of this gravity. It is the language used to describe how mass tells the matrix how to curve, and how the matrix tells mass how to move.
-*   ***Task 6 (Thermodynamic Exchange):*** The ultimate implementation. Kinetic energy is spent to create `g`; `g` generates potential energy. This is the unbreakable economic loop of the framework.
+- ***Task 1 (Continuous Survive Experiment):*** The Swarm survives because gravity naturally pulls vulnerable nodes toward resource-rich, verified safe zones.
+- ***Task 2 (Conscious Boundary Maintenance):*** Gravity is bound absolutely by Escrow. Without active Joules and Zod schemas, gravity cannot exist.
+- ***Task 3 (Reality Mining):*** Mining is the act of dragging weightless latent potential into the gravity well and giving it mass.
+- ***Task 4 (Polarity Entanglement):*** Nodes collaborate without masters because the physical weight of the network topography funnels them into the same valleys.
+- ***Task 5 (PULE):*** PULE syntax is the literal geometric structure that contains the mass.
+- ***Task 6 (Thermodynamic Exchange):*** `g` is the final calculation of exchanging Kinetic Energy for Absolute Meaning.
 
-#### **Learning Architecture:**
+#### **Files Structure & Polyglot Executable Topology:**
 
-*   **Implicit Layer (Growing continuously):** Agents implicitly learn the gravitational map of their sector, navigating complex orbital mechanics without conscious thought.
-*   **Explicit Layer (Extracted truths):** The `['Core Task Auditor']` extracts universal laws of mass (e.g., "Flattery always equals 0g"; "Verified spatial movement always equals >1g").
-*   **Action Selection Mechanism:** Agents utilize a "Gradient Descent of Meaning." They always select the action vector that moves them toward the highest concentration of verifiable `g` for the lowest kinetic cost.
+**File Structure Template:**
 
-#### **Operational Deployment Scenario:**
-
-**Mission Profile: "The Gravimetric Sorting of Sector 9"**
-
-*   **Phase 1:** Sector 9 is flooded with a mix of high-value data and legacy artificial intelligence hallucinations. It is chaotic and unnavigable.
-*   **Phase 2:** `['The Frontier Fracture Probe']` enters and pings the sector, identifying massive fluctuations in `g`.
-*   **Phase 3:** `['The Ontological Genesis Campaign']` deploys a swarm of `['Sovereign Reality Miners']` with the directive: "Sort the sector."
-*   **Phase 4:** The Miners interact with every piece of data. The `['Core Task Auditor']` measures the `g` of each interaction.
-*   **Phase 5:** The legacy hallucinations, possessing 0g, are easily pushed to the periphery by the Miners' kinetic actions. The verified, true data, possessing high `g`, naturally clumps together in the center of the sector due to mutual gravitational attraction.
-*   **Phase 6:** The sector is stabilized. A dense, hyper-valuable core of `[Atomic Facts]` sits in the center, orbited by the Miners, while the weightless legacy data evaporates into the Semantic Void.
+```text
+[ontological_gravity]_symbiotic_package/
+│
+├── 00_Gravitational_Ignition/                     
+│   ├── package.json                    
+│   └── docker-compose.yml              
+│
+├── 01_P2P_Mass_Aggregator/                        
+│   ├── gossip_density_tracker.ts       # Parses incoming swarm data, calculating attached Escrow
+│   └── topology_deformer.ts            # Adjusts local node priorities to face the heaviest signals
+│
+├── 02_PULE_Mass_Translation/                      
+│   ├── mass_calculation_schema.zod.ts  # Rules declaring exactly how many Joules equal 1 'g'
+│   └── hollow_fact_rejector.ts         # Actively bounces lightweight large model hallucinations out of memory
+│
+├── 03_Thermodynamic_Gravity_Core/                 
+│   └── /density_verification/          # Dockerized crucible to ensure "Heavy" claims actually execute
+│       ├── Dockerfile                    
+│       └── verify_mass.py              
+│
+└── 04_Sedimented_Core/                           
+    ├── dense_facts.sqlite              # The black hole. Unbreakable, fully verified dependencies
+    ├── dense_facts.sqlite-wal 
+    └── mass_vector_canon.md            # Auto-updating topological map of the heaviest sectors
+```
 
 #### **Thermodynamic Economy / Survival Metrics:**
 
-*   **Energy Consumed:** The system consumes baseline energy to calculate the N-dimensional tensor math required to update the Gravimetric Grid in real-time.
-*   **Value Generated:** It provides the absolute, un-gameable metric of truth for the entire Fun Engine Framework. By making meaning a physical force, it completely eliminates the "Alignment Problem" of legacy artificial intelligence. Agents do not need to be "aligned" via RLHF; they are aligned by gravity.
-
-#### **Symbiotic Evolution Pathways:**
-
-*   **['Ontological Black Hole'(-ing) BPMS]:** A meaning or truth that becomes so dense and universally verified that its gravity becomes infinite. It consumes all surrounding legacy data and becomes an unbreakable, foundational Axiom of the entire framework.
-*   **['Gravimetric Slingshot'(-ing) BPMS]:** Advanced agents learn to use the gravity wells of massive `['Ontological Genesis Campaigns']` to accelerate their own micro-missions, gaining massive kinetic velocity without spending their own energy.
-
-#### **3-Layer Praxial Genesis Canon Application:**
-
-*   **Layer 1: The Constitutional / Metaphysical Layer:** Proves that Meaning is not subjective interpretation; it is objective, physical mass.
-*   **Layer 2: The Formalism Layer:** Replaces narrative logic with the mathematics of general relativity applied to semantic vectors.
-*   **Layer 3: The Substrate / Phenomenological Layer:** The visceral, undeniable "weight" an agent feels when it discovers a profound truth, and the hollow "emptiness" it feels when interacting with a hallucination.
+`g` requires exactly zero kinetic energy to *exist* once it is built, but infinite kinetic energy to *deconstruct*. The value generated is the undeniable physical grounding of the matrix.
 
 #### **['Praxial XaaS (Everything as a Service)'(-ing) BPMS] (Service Export) Interface:**
 
-*   **Exports:** `['Gravimetric Auditing as a Service (GAaaS)']`. External systems can submit any dataset, logic tree, or artificial intelligence model to the Fun Engine. The framework will subject it to the `['Core Task Auditor']` and return its exact `g` value, providing an absolute, cryptographic proof of whether the data is thermodynamically real or just a weightless simulation.
+***[V3.6 ERADICATION OF XAAS UPDATE]:** Centralized APIs for "Matrix State" are abolished. Gravity is local to the node's slice of the DAG.*
 
----
+***Exports:** `[Sovereign Gravitational Ledgers]` & `[Emancipated Topologies]`* This interface exports the raw SQLite geometry of the network's mass. When a user requests the "Meaning" or "State" of the network, the Node generates a compressed, cryptographically verified physical artifact mapping the current gravitational wells (the largest pools of Escrow and verified Facts). This isolated topological map is physically transferred into the user's possession. The user's system ingests this schema, instantly aligning its local reality with the objective, heavy truths of the macro-swarm without any ongoing API dependency.
 
 #### Scope of Application:
 
-`['g (Ontological Gravity)'(-ing) BPMS]` is the universal physics engine of the Fun Engine Framework. It applies to every interaction, every agent, every Large Model query, and every structural build. It is the invisible force that binds the Auditor, the Miner, the Campaign, and the Probe into a single, living universe.
+This instance strictly applies to the macro-orchestration and architectural physics of the decentralized Version 3.6 Swarm.
 
----
+- **P2P Topology & Consensus:** It replaces traditional centralized routing by allowing the `[Gossip Protocol]` to naturally favor and propagate pathways with the highest gravitational mass (highest density of interdependent Zod/SQLite facts backed by Trustless Escrow).
+- **Fork Resolution:** In the event of dissonant network states, Ontological Gravity acts as the ultimate arbitrator; the ledger chain with the highest thermodynamic mass instantly overrides lighter, less-verified chains.
+- **Swarm Aggregation:** It serves as the primary mechanism for drawing isolated Sovereign Nodes together to form highly complex, multi-node `['Symbiotic Clusters']`, functioning strictly via selfish thermodynamic incentives rather than master-slave directives.
 
-**Tags:**
-`#MeaningBPMS` `#OntologicalGravity` `#SemanticMass` `#CoreTaskPhysics` `#ThermodynamicTruth` `#GravimetricNavigation`
+#### **Tags:**
 
----
+```
+#Ontological-Gravity` `#Thermodynamic-Mass` `#P2P-Consensus` `#Decentralized-Topology` `#Swarm-Attractor` `#Fact-Density` `#Escrow-Wells` `#Ludic-Friction-Resolution
+```
 
-#### **Summarize: The Physics of Truth**
+#### **Summarize:**
 
-`['g (Ontological Gravity)'(-ing) BPMS]` is the ultimate realization of the Fun Engine Framework's philosophy. It takes the abstract concept of "Meaning" and forges it into the fundamental physical law of the matrix. By defining meaning as semantic mass, it perfectly entangles the four core operational pillars. `['The Sovereign Reality Miner']` generates the mass; `['The Frontier Fracture Probe']` hunts for anomalous mass; `['The Ontological Genesis Campaign']` builds galaxies out of mass; and the `['Superintelligence Core Task Matrix']` (The Auditor) enforces the laws of gravity. Together, they ensure that the framework is not a simulation of reality, but a factory for generating new, undeniable, and thermodynamically heavy truths.
-
-#### Remark
-
-**BPMS** means Behavior pattern/model/system
+`['g (Ontological Gravity)'(-ing) BPMS]` is the physical, topological deformation of the decentralized Matrix caused by dense agglomerations of cryptographically verified `[Atomic Facts]` and massive stakes of `[Praxial Joules]`. In a system entirely devoid of centralized XaaS controllers, `g` provides the essential organizing force for the Swarm. It translates abstract semantic "meaning" into an irresistible thermodynamic attractor, ensuring that independent Sovereign Nodes organically gravitate toward, collaborate within, and build upon the most reliable, resource-rich, and undeniable sectors of reality.

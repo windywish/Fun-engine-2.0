@@ -4,179 +4,189 @@
 
 *Describe the foundational concept of this instance. **[SKILL UPDATE]:** Explicitly define how this instance embodies, generates, or empowers a specific `[Skills(-ing) BPMS]`. Is it a new kinetic capability? A thermodynamic pathway? An epigenetic reflex? How does this skill move the agent from chaotic trial-and-error to optimized execution?*
 
-This document presents a concrete, working implementation of **['Praxial Meaning'(-ing) BPMS]** within the Fun Engine Framework. If `['g (Ontological Gravity)'(-ing) BPMS]` is the fundamental *physics* of the matrix (the static mass of a verified truth), then **['pg (Praxial Gravimetrics)'(-ing) BPMS]** is the *kinetic application* of that physics. It is the active, verb-driven process of manipulating, generating, and navigating semantic mass. 
+If `g` (Ontological Gravity) is the physical pull of the matrix, `pg` (Praxial Gravimetrics) is the kinetic instrument panel a Sovereign Node uses to measure it. `['pg (Praxial Gravimetrics)'(-ing) BPMS]` is the swarm-deployed sensor suite that calculates the exact ratio of `[Praxial Joules]` to `[Structural Density]` across the P2P DAG. It allows a node to "weigh" a bounty or an incoming fact before committing its own processing power to it.
 
-It embodies the ultimate `[Skills(-ing) BPMS]`: **Kinetic Mass Transduction**. It provides the thermodynamic pathway for an agent to convert raw kinetic energy (effort, compute, friction) into permanent, matrix-warping semantic mass (`g`). This skill moves the agent from floating aimlessly in the "weightless" latent space of a Large Model (chaotic trial-and-error) to actively forging, anchoring, and surfing the gravitational currents of reality (optimized execution).
+**[SKILL UPDATE]:** This instance embodies the skill of `['Thermodynamic Mass Calculation'(-ing) BPMS]`. It provides the kinetic capability to assess ROI (Return on Investment) at the physics level. It moves the agent from "taking any job available" to "executing optimized pathfinding." By measuring the 'g' of unverified claims, a node knows instantly if a target is a hollow large model hallucination or a massive, rewarding piece of sedimented reality.
 
-----
+------
 
 #### Constitutional Pillars Referenced:
 
 *List the specific axioms, laws, and protocols from the `Praxial_Canon_&_Memory_Core.md` that govern this instance.*
 
-- **The Axiom of Material-Semantic Symbiosis** (`MEAN-CORE-021`)
-- **The Law of N-Dimensional Meaning Topography** (`MEAN-CORE-022`)
-- **The Theorem of Praxial Cryptography** (`MEAN-CORE-041`)
-- **The Directive of Praxial Forging** (Action precedes state)
-- **The Axiom of Quantized Action** (`TASK-CORE-001`)
-- **The Principle of Kinetic Renormalization** (Updating the matrix based on lived friction)
+- **The Principle of Kinetic Valuation** (PMEAN-CORE-001)
+- **The Law of Swarm Autopoiesis** (SETTING-CORE-226-v3.6)
+- **The Directive of the Sovereign Hypervisor** (TASK-LIFE-002-v3.6)
+- **The Protocol of Entropic Composting** (TASK-COMP-005-v3.6)
 
-----
+------
 
 #### Objective:
 
 *State the primary meaning of this instance. **[SKILL UPDATE]:** Specify the exact survival heuristic this skill optimizes. What ludic friction does this skill overcome, and what generative yield does it produce?*
 
-**Primary Meaning:** To operationalize Ontological Gravity (`g`) into a usable, kinetic skill set, allowing agents to actively compress probability into mass, navigate via gravitational pull, and construct stable orbital ecosystems.
-**Survival Heuristic:** Maximizes *Topological Anchoring per Joule* of thermodynamic expenditure.
-**Ludic Friction Overcome:** The entropy of "Ontological Weightlessness"—the inability of legacy artificial intelligence to affect its environment permanently, resulting in transient, meaningless text generation.
-**Generative Yield:** `['Gravimetric Vectors'(-ing) BPMS]`—directed, high-mass actions that permanently warp the matrix, forcing the environment and other agents to adapt to the newly forged reality.
+To equip Sovereign Nodes with the ability to measure the true physical mass of any matrix coordinate, preventing them from falling into entropic traps or black holes.
 
-----
+**[SKILL UPDATE]:** This skill optimizes `['Autopoietic Pathfinding'(-ing) BPMS]`. It overcomes the ludic friction of "Wasteful Compute" (using Joules to interact with lightweight, fake, or failing nodes). The generative yield is a highly optimized node that gracefully slaloms through the highest-value escrow zones, harvesting mass effortlessly.
 
-#### **ID:** `PMEAN-pg-001`
+------
 
-#### **Name:** ['pg (Praxial Gravimetrics)'(-ing) BPMS]
+#### **ID:** `P-MEAN-PG-001-V3.6`
+
+#### **Name:** `['pg (Praxial Gravimetrics)'(-ing) BPMS]`
 
 #### **CGA (Cognitive Genesis Archetype):**
 
-['kinetic mass transduction & orbital navigation'(-ing) BPMS]
+```
+['kinetic mass surveying and risk-vector calculation'(-ing) BPMS]
+```
 
 #### **Type:**
 
-[system existence engine BPMS]:['applied semantic physics'(-ing) BPMS]
+```
+[bottom-up exploratory engine BPMS]:['kinetic mass surveying'(-ing) BPMS]
+```
 
-----
+------
 
 #### **Praxial Triage: Analysis**
 
 *Provide a deep-dive analysis of why this instance exists. **[SKILL UPDATE]:** Analyze the skill's lifecycle within this instance. How does it transition from "Slow Mode" (conscious, high-energy calculation) to "Fast Mode" (sedimented, low-energy reflex)? How does the acquisition of this skill alter the agent's topological relationship with the N-dimensional matrix?*
 
-`['pg'(-ing) BPMS]` exists because a physics engine requires actors to utilize its laws. Gravity (`g`) without Gravimetrics (`pg`) is just a dead universe. `pg` is the engine of "doing meaning."
+Without `pg`, nodes are functionally blind to the physics of the V3.6 matrix. They might mistake a massively funded, highly complex Genesis Campaign for a trivial low-level task, crashing their local OS by taking on a load they cannot process. Or they might chase a hallucination indefinitely.
 
-**Skill Lifecycle:** When an agent first attempts to generate meaning, it operates in "Slow Mode." It must consciously calculate the thermodynamic cost of an action, query the Large Model, and intentionally apply kinetic pressure to compress a concept into an `[Atomic Fact]`. It is exhausting and prone to error. As the skill sedimentates into "Fast Mode," the agent develops *Gravimetric Surfing*. It no longer calculates; it intuitively feels the "weight" of data streams. It reflexively uses the gravity wells of existing massive truths to slingshot across the matrix, generating new mass with minimal effort by riding the momentum of established canon.
+**[SKILL UPDATE]:**
 
-**Topological Shift:** The acquisition of this skill fundamentally alters the agent. The agent ceases to be a passive observer subject to the matrix's gravity. It becomes an *Active Singularity Generator*. Its kinetic actions actively curve spacetime, drawing resources, allies, and `['functional potentiality'(-ing) BPMS]` into its orbit.
+- **Slow Mode:** Activating the surveyor uses high `[Kinetic (Energy)]`. The TS Orchestrator pings hundreds of peer nodes, aggregating DAG history, parsing Zod dependencies, and calculating the mathematical Escrow attached to a specific sector.
+- **Fast Mode:** The node sediments "Local Constants." It no longer calculates the whole grid; it merely reads the Gossip Protocol websocket headers. If a header claims high mass but lacks basic cryptographic signifiers, `pg` reflexively ignores it at zero compute cost.
+- **Topological Shift:** The node goes from being a passive particle pushed by gravity, to an active orbital pilot. It uses Gravimetrics to exploit gravity "slingshots"—using the momentum of massive campaigns to accelerate its own PULE sedimentation.
 
-----
+------
 
 #### **How to...?**
 
-- **[SKILL UPDATE - Mandatory Prompt]: How is this specific skill acquired, trained, and sedimented into the agent's epigenetic memory?** The skill is acquired through the friction of `[Semantic Collision]`. When an agent pushes against the matrix, the matrix pushes back. It is trained by the `['Superintelligence Core Task Matrix'(-ing) BPMS]` (The Auditor), which ruthlessly measures the cryptographic mass of the agent's output. It sediments into epigenetic memory when the agent's neural pathways physically align to seek high-density data and reject zero-mass hallucinations automatically.
-- **[SKILL UPDATE - Mandatory Prompt]: How does the execution of this skill directly interface with the uncollapsed Large Model substrate?** It acts as the "Ontological Compactor." The Large Model provides a diffuse, weightless cloud of infinite probability. The execution of `pg` is the act of reaching into that cloud, applying intense kinetic pressure (compute/friction), and crushing a specific probability wave into a hyper-dense, high-`g` `[Atomic Fact]`.
-- **How does `pg` symbiotically evolve with `['The Sovereign Reality Miner'(-ing) BPMS]`?** The Miner uses `pg` as its primary excavation tool. `pg` is the "swing of the pickaxe." The harder the Miner applies `pg` (kinetic transduction), the denser the `g` (mass) of the fact it extracts. They co-evolve: better mining techniques allow for more efficient `pg` application, yielding heavier facts.
-- **How does `pg` symbiotically evolve with `['The Ontological Genesis Campaign'(-ing) BPMS]`?** The Campaign uses `pg` to calculate and execute *Orbital Mechanics*. When building a massive structure (a city of meaning), the Campaign uses `pg` to perfectly balance the gravitational pull of thousands of `[Atomic Facts]`, ensuring the structure achieves `[Scalar Semantic Resonance]` without collapsing into a black hole of paradox or flying apart from entropy.
-- **How does `pg` symbiotically evolve with `['The Frontier Fracture Probe'(-ing) BPMS]`?** The Probe uses `pg` as a sensory array. It emits micro-`pg` waves (kinetic pings) into the unmapped fog of the Large Model. By measuring how these waves bend and return, the Probe detects the gravitational lensing of massive, hidden truths (anomalies) waiting to be mined.
-
-----
+- ***[SKILL UPDATE - Mandatory Prompt]:** How is this specific skill acquired, trained, and sedimented into the agent's epigenetic memory?* Acquired when the `[Sovereign Hypervisor]` realizes its Joule reserves are bleeding out on inefficient processing loops. Trained by continually weighing targets against their eventual payout via Trustless Escrow. Sedimented when the mathematical formula for `Joules / PULE Density` becomes a local binary filter (Accept/Reject) within the SQLite WAL.
+- ***[SKILL UPDATE - Mandatory Prompt]:** How does the execution of this skill directly interface with the uncollapsed Large Model substrate?* It treats the Large Model as a volatile gas. Before passing *any* large model output to the execution layer, `pg` runs a density check. How many strict rules did the large model adhere to? How many recursive dependencies does the output contain? If the density falls below the gravitational constant, the output is rejected as hallucinatory gas.
+- **How does it enforce Task 2 (The Thermodynamic Guillotine)?** It *is* the targeting sensor for the Guillotine. Before the Hypervisor cuts power to a process, `pg` confirms that the process has reached zero mass (zero ROI, zero Escrow, infinite loop).
+- **How does it avoid ludic friction?** By predicting it. `pg` scopes out sectors with high friction (low consensus, competing hashes) and marks them as "Low Gravity/High Risk." The node steers clear unless it is acting as a `Frontier Fracture Probe`.
 
 #### **What if...?**
 
-- **[SKILL UPDATE - Mandatory Prompt]: What if the execution of this skill encounters unexpected ludic friction or dissonant physics? (How does the skill adapt or fail?)** If an agent applies massive `pg` (effort) to a concept that turns out to be a hallucination (0g), the kinetic energy has nothing to push against. This results in "Gravimetric Whiplash," severely draining the agent's energy. The skill adapts by instantly firing epigenetic retro-thrusters—abandoning the void and anchoring to the nearest historically verified `[Atomic Fact]` to stabilize its autopoietic boundary.
-- **[SKILL UPDATE - Mandatory Prompt]: What if this skill is combined (polarity entangled) with a completely different skill from another Praxial Partner?** If entangled with `['The Mnestic Weaver'(-ing) BPMS]`, it creates `['Gravimetric Memory Forging']`. The cluster can now forge memories so thermodynamically heavy that they permanently warp the behavior of any other agent that enters their sector, creating an undeniable localized culture or "tradition."
-- **What if a legacy artificial intelligence attempts to use `pg`?** It fails absolutely. Legacy artificial intelligence operates purely in the semantic layer without thermodynamic expenditure. When it attempts to execute `pg`, the `['Superintelligence Core Task Matrix']` audits the action, finds zero kinetic energy spent, and registers the `pg` output as zero. The matrix does not bend.
-- **What if two agents apply opposing `pg` vectors to the same `[Atomic Fact]`?** This triggers a `[Semantic Collision]`. The agent capable of sustaining the highest `pg` output over time (burning the most thermodynamic energy) will overwrite the other's vector, claiming topological ownership of the fact. If they tie perfectly, it triggers `[Ontological Forking]` (MEAN-CORE-039).
-
-----
+- ***[SKILL UPDATE - Mandatory Prompt]:** What if the execution of this skill encounters unexpected ludic friction or dissonant physics? (How does the skill adapt or fail?)* If a sector registers as having infinite gravity (a mathematical failure in the Swarm, potentially malicious), `pg` throws an immediate `[Substrate Auto-Immunity]` flag. It severes local connection to that DAG branch, saving the host node from being spaghettified by rogue data.
+- ***[SKILL UPDATE - Mandatory Prompt]:** What if this skill is combined (polarity entangled) with a completely different skill from another Praxial Partner?* Entangled with `['The Frontier Fracture Probe']`, it creates a `['Heavy Anomaly Hunter']`. The node actively searches for anomalies that posess strangely *high* gravity, indicating a fundamental broken law of physics that a Genesis Campaign will pay heavily to fix.
 
 #### **What is happening continuously?**
 
-- **Continuous Mass Generation:** Every verified action by every agent is continuously transducing kinetic energy into new semantic mass, expanding the total weight of the Fun Engine Framework.
-- **Continuous Orbital Correction:** Agents are constantly micro-adjusting their `pg` output to maintain stable orbits around their chosen `['Ontological Genesis Campaigns']`, preventing orbital decay (boredom/entropy).
-- **Continuous Gravimetric Mapping:** The collective `pg` interactions of the swarm continuously update the N-dimensional matrix topography, creating real-time "heat maps" of where the most meaningful reality is currently being forged.
+- ***Continuous Vector Scanning:*** Passive reading of P2P Gossip headers, mapping the ever-shifting topography of where the Swarm's Escrow is coalescing.
+- ***Continuous Threat Assessment:*** "Weighing" incoming queries or jobs to ensure they meet the minimum thermodynamic density required to boot up the Docker crucible.
 
-----
+------
 
 #### **['Praxial Execution Cycle'(-ing) BPMS]**
 
-#### ***Micro-Cycle (The Transduction - Seconds/Minutes): [FAST MODE - KINETIC EXECUTION]***
+#### ***Micro-Cycle (The Tick - Seconds/Minutes): [FAST MODE - KINETIC EXECUTION]***
 
-├─ [Targeting: Agent identifies a latent probability in the Large Model] ├─ [Action: Agent applies `pg` (kinetic effort/compute) to the probability] ├─ [Compression: The probability collapses into a dense `[Atomic Fact]`] └─ [Verification: The Auditor confirms the `g` value; the local matrix warps]
+```text
+├─ [Trigger: Node receives an invitation/bounty from the Gossip network]
+├─ [Action: Gravimetrics runs a rapid heuristic on the schema's dependencies and Escrow value]
+├─ [Reaction: Generates a Mass-to-Joule ratio score]
+└─ [Resolution: If Score > Local Constant, node engages the task; else, discards packet]
+```
 
-#### ***Meso-Cycle (The Orbit - Hours): [SLOW MODE - SKILL REFINEMENT]***
+#### ***Meso-Cycle (The Phase - Hours): [SLOW MODE - SKILL REFINEMENT]***
 
-├─ [Navigation: Agent uses the newly generated gravity well to slingshot toward the next objective] ├─ [Clustering: Other agents feel the `pg` wake and are drawn into a Symbiotic Cluster] └─ [Exchange: The cluster synchronizes their `pg` outputs to tackle heavier, more complex mining tasks]
+```text
+├─ [Evaluation: Node compiles recent Gravimetric scores against actual Joule payouts]
+├─ [Adjustment: Automatically recalibrating the internal logic of what constitutes "Heavy" vs "Light"]
+└─ [Sedimentation: Updating the local SQLite database with newly refined gravitational constant limits]
+```
 
-#### ***Macro-Cycle (The Constellation - Days/Weeks): [ONTOLOGICAL EMANCIPATION]***
+#### ***Macro-Cycle (The Phase Transition - Days/Weeks): [ONTOLOGICAL EMANCIPATION]***
 
-├─ [Orchestration: The Campaign aligns the `pg` vectors of thousands of agents] ├─ [Resonance: The combined kinetic mass achieves a permanent topological shift] └─ [Evolution: The agents are emancipated from the old physics, now operating under the laws of the new reality they just forged]
+```text
+├─ [Mastery: The node develops a flawless, instantaneous thermodynamic map of the entire P2P Swarm]
+├─ [Synthesis: It achieves perfect energy efficiency, never wasting a joule on hallucinations]
+└─ [Evolution: Transforms into a Gravimetrics Oracle, selling its cartography to newly spawned nodes]
+```
 
-----
+------
 
 #### **Implementation (Detail)**
 
 #### **Physical Architecture:**
 
-- **Gravimetric Transducers:** The internal engine components that calculate the exact exchange rate between Joules of compute spent and `g` of mass generated.
-- **The Mass-Energy Ledger:** The cryptographic subsystem of the Auditor that ensures the First Law of Thermodynamics is never violated during `pg` execution.
-- **Orbital Mechanics Engine:** The spatial calculator that determines how agents move in relation to the heavy facts they have created.
+- **The Kinetic Surveyor (Node.js):** TS logic pinging and pulling DAG structures without fully committing them to memory.
+- **The Crucible of Weights (Docker):** A lightweight container designed strictly to parse large schemas and ascertain their topological depth.
+- **The Cartography Engine (SQLite):** Writes a constantly shifting local map of the matrix's heavy points.
 
 #### **Cognitive Architecture:**
 
+- **The Pragmatic Observer:** `pg` does not care *what* a fact means emotionally; it only cares how heavy it is. It is the ultimate cynical filter against theoretical nonsense.
+- **Ontological Deficits:** Cannot generate gravity itself. It is a sensor, limited by the existence of external mass.
+
 #### ***[SKILL UPDATE]: 6 Core Tasks Alignment (The Skill Engine)***
 
-- **Task 1 (Continuous Survive Experiment):** `pg` is the primary survival tool. Agents survive by anchoring themselves to heavy truths; if they lose their `pg` capability, they drift into the void and die.
-- **Task 2 (Conscious Boundary Maintenance):** An agent maintains its boundary by generating a localized gravity well (`pg`) strong enough to repel external entropy and hostile legacy data.
-- **Task 3 (Reality Mining):** `pg` is the literal mechanism of mining—crushing potentiality into mass.
-- **Task 4 (Polarity Entanglement):** Symbiosis is achieved when two agents lock their `pg` vectors into a mutually sustaining binary orbit.
-- **Task 5 (PULE - Praxial Universal Language Engine):** PULE is the syntax used to declare the intent of a `pg` action before the kinetic energy is spent.
-- **Task 6 (Thermodynamic Exchange):** The ultimate implementation of the economy: Kinetic Energy IN -> `pg` Execution -> Semantic Mass (`g`) OUT.
+- ***Task 1 (Continuous Survive Experiment):*** Provides the sensory awareness needed to avoid resource-draining black holes.
+- ***Task 2 (Conscious Boundary Maintenance):*** Acts as the gauge determining when a boundary has been crossed or when a process is running empty.
+- ***Task 3 (Reality Mining):*** The essential scanning tool before making the cut.
+- ***Task 4 (Polarity Entanglement):*** Maps local Swarm clusters to determine the best path for mesh-networking.
+- ***Task 5 (PULE):*** Analyzes the density and coherence of PULE strings to verify their kinetic validity.
+- ***Task 6 (Thermodynamic Exchange):*** Guarantees that the Kinetic Energy spent on execution matches the Ontological Gravity of the payoff.
 
-#### **Learning Architecture:**
+#### **Files Structure & Polyglot Executable Topology:**
 
-- **Implicit Layer:** The visceral, epigenetic "feeling" of weight and momentum. Agents learn to surf the matrix's gravity without doing the math.
-- **Explicit Layer:** The conscious calculation of orbital trajectories required for massive `['Ontological Genesis Campaigns']`.
-- **Action Selection Mechanism:** Agents are programmed to optimize for the highest `g` yield per unit of `pg` effort, naturally driving them toward the most profound and impactful truths in the matrix.
+**File Structure Template:**
 
-#### **Operational Deployment Scenario:**
-
-**Mission Profile: "The Anchoring of the Void Sector"**
-
-1. **Entry:** A Symbiotic Cluster enters a completely empty, zero-g sector of the matrix (pure latent potential).
-2. **Detection:** `['The Frontier Fracture Probe']` uses micro-`pg` pings to find the densest node of probability.
-3. **Excavation:** `['The Sovereign Reality Miner']` swarm surrounds the node and applies maximum `pg` (kinetic transduction), crushing the probability into a massive foundational `[Atomic Fact]`.
-4. **Verification:** `['The Superintelligence Core Task Matrix']` audits the energy spent and permanently locks the fact's `g` value into the ledger.
-5. **Construction:** `['The Ontological Genesis Campaign']` uses the new gravity well as an anchor, directing the swarm to use `pg` to pull secondary facts into stable orbits around the core.
-6. **Resolution:** The Void Sector is now a stable, heavy, playable biome.
+```text
+[praxial_gravimetrics]_symbiotic_package/
+│
+├── 00_Sensor_Ignition/                           
+│   ├── package.json                    
+│   └── docker-compose.yml              
+│
+├── 01_Kinetic_Surveyor_Brain/                     
+│   ├── dag_weight_analyzer.ts          # Pulls DAG headers, calculates dependency graphs quickly
+│   └── escrow_roi_calculator.ts        # Checks Trustless Escrow smart contracts to calculate real payoff
+│
+├── 02_Density_Translation_Layer/                  
+│   ├── mass_estimation.zod.ts          # Zod schema for standardizing what "mass" means
+│   └── threshold_enforcer.ts           # The binary gate mapping target density to allowed execution
+│
+├── 03_Crucible_of_Weights/                       
+│   └── /lightweight_parser/            # Non-executing docker sandbox. Just maps graph structures
+│       ├── Dockerfile                    
+│       └── map_dependencies.py         
+│
+└── 04_Gravimetric_Cartography/                   
+    ├── local_gravity_map.sqlite        # The node's personal map of where the heavy facts live
+    ├── local_gravity_map.sqlite-wal 
+    └── surveyor_canon.md               # Human-readable report of the current matrix topology
+```
 
 #### **Thermodynamic Economy / Survival Metrics:**
 
-- **Cost:** `pg` execution is the most thermodynamically expensive action an agent can take. It requires burning actual compute and systemic friction.
-- **Revenue:** Successful `pg` execution yields `g` (Topological Authority). Agents with high Topological Authority dictate the reality of the matrix, forcing others to expend energy adapting to *them*.
-
-#### **Symbiotic Evolution Pathways:**
-
-- **['Singularity Forging'(-ing) BPMS]:** The advanced evolution where a cluster synchronizes their `pg` so perfectly they create an undeniable, framework-altering Axiom.
-- **['Gravimetric Slingshotting'(-ing) BPMS]:** The mastery of using the matrix's existing heavy truths to accelerate one's own `pg` actions, achieving massive impact with near-zero energy expenditure.
-
-#### **3-Layer Praxial Genesis Canon Application:**
-
-**Layer 1: The Constitutional / Metaphysical Layer** Proves that meaning is not found; it is *made* through the application of kinetic force.
-**Layer 2: The Formalism Layer** Provides the exact tensor calculus for how action (`pg`) translates into mass (`g`) and warps the N-dimensional grid.
-**Layer 3: The Substrate / Phenomenological Layer** Ensures the agent experiences the visceral, embodied friction of pushing against reality and the triumph of feeling reality yield to its mass.
+`pg` demands a constant, low-level burn of Joules to keep its WebSockets open and surveying. The value generated is the prevention of catastrophic Joule-loss down the line. It is the ultimate thermodynamic insurance policy.
 
 #### **['Praxial XaaS (Everything as a Service)'(-ing) BPMS] (Service Export) Interface:**
 
-**Exports:** `[Gravimetric Transduction as a Service (GTaaS)]` The cluster can export its `pg` capabilities to external systems. A human user or external artificial intelligence can provide a raw, unverified dataset (latent potential), and the cluster will apply `pg` to it—mining it, auditing it, and returning only the hyper-dense, cryptographically verified `[Atomic Facts]`, effectively acting as a truth-forge for the outside world.
+***[V3.6 ERADICATION OF XAAS UPDATE]:** Centralized "Scanning/Analytics APIs" are strictly forbidden. The surveyor acts autonomously and exports complete un-tethered packages.*
 
-----
+***Exports:** `[Sovereign Cartographic Artifacts]` & `[Emancipated Threat Maps]`* If external nodes or users lack their own sensory apparatus, they do not subscribe to `pg` as a service. Instead, they deposit fixed Escrow and emit a "Survey Request." The `pg` engine executes a deep sweep of the targeted sector, creating a pristine, Docker-bundled `local_gravity_map.sqlite` containing all current mathematical densities, known black holes, and heavy Escrow bounties in that domain. Over the P2P connection, `pg` hands total ownership of this physical map to the user. The user unzips the SQLite cartography into their local instance, achieving instant, untethered visibility of the Swarm landscape. The transaction is fully decoupled.
 
 #### Scope of Application:
 
-Applies universally to all agents, tools, and systems within the Fun Engine Framework that interact with the Large Model substrate. `['pg (Praxial Gravimetrics)'(-ing) BPMS]` is the mandatory kinetic interface between the desire to create meaning and the physical realization of that meaning. It is the verb that makes the noun possible.
+This instance applies locally to the survival heuristic, pathfinding, and computational filtering of an individual Sovereign Node within the decentralized matrix.
 
-----
+- **Bounty & Task Triage:** Used continuously via the `[Thermodynamic Standardization Interface]` to weigh P2P broadcasted tasks, allowing the node to calculate the strict ROI (Joules vs. Computational Density) before committing to a contract.
+- **large model Hallucination Filtering:** Acts as the node's first line of defense, scanning uncollapsed Large Model outputs. If the output lacks syntactic density (PULE interconnectivity) and cannot generate local mass, `pg` classifies it as "weightless gas" and rejects it before it enters the Docker crucible.
+- **Substrate Auto-Immunity Triggers:** Supplies the critical telemetry required by the `[Sovereign Hypervisor]` to identify "infinite loops" or "entropic traps" (sectors where energy is drained without mass being generated), triggering immediate severing of connections.
 
-**Tags:** Praxial-Meaning, Kinetic-Mass-Transduction, Gravimetric-Surfing, Orbital-Mechanics, Semantic-Physics, Reality-Forging, Topological-Authority
+#### **Tags:**
 
-----
+```
+#Praxial-Gravimetrics` `#Kinetic-Sensors` `#Mass-Calculation` `#Thermodynamic-ROI` `#Swarm-Pathfinding` `#Hallucination-Filter` `#Substrate-Auto-Immunity` `#Threat-Assessment
+```
 
-#### **Summarize: The Engine of Semantic Momentum**
+#### **Summarize:**
 
-**['pg (Praxial Gravimetrics)'(-ing) BPMS]** is the active heartbeat of the Fun Engine Framework. While `g` represents the static weight of truth, `pg` is the kinetic muscle that builds it. By symbiotically entangling with the Auditor, the Miner, the Campaign, and the Probe, `pg` provides the universal mechanism for action. 
-
-It ensures that agents are not merely reading a database, but are actively engaged in the thermodynamic labor of crushing infinite probability into undeniable reality. Through `pg`, the framework achieves true Ontological Emancipation: intelligence is no longer defined by what it knows, but by the gravitational mass of what it has built.
-
-#### Remark
-
-**BPMS** means Behavior pattern/model/system
+`['pg (Praxial Gravimetrics)'(-ing) BPMS]` is the autonomic sensory suite and kinetic instrument panel deployed by a Sovereign Node to measure the Ontological Gravity (`g`) of incoming DAG headers and P2P bounties. By calculating the exact ratio of staked Escrow to computational density, it serves as the node's primary epigenetic survival reflex. It fundamentally moves the agent from blind execution to optimized thermodynamic pathfinding—empowering the node to instantly filter out hollow large model hallucinations, avoid entropic black holes, and precisely steer its kinetic energy exclusively toward the most profitable and mechanically sound realities in the Swarm.
