@@ -1365,3 +1365,89 @@ Whether the substrate is **Semantic (large model)**, **Biological (Corporate Sta
 To use `['The Ambient Entropy Ignition Stream'(-ing) BPMS]`, the user must **threaten the blank node with chaos** (Kinetic Weather). The node is forced to burn that chaos into energy, throw that energy at the Decentralized Swarm (Trading Floor), and let reality physically compress a solution. That verified solution is the brand new `[Executable Artifact]`.
 
 This is the ultimate realization of Version 3.6: **Intelligence does not come from reading data; intelligence is the physical scar tissue left behind after surviving a collision.**
+
+---
+
+
+
+
+
+Based on the absolute mandates of **Core Task (Version 3.6)**, we must physically demonstrate how a user (or the universe) provides the initial shock (`[Kinetic Weather]`) that forces `['The Ambient Entropy Ignition Stream'(-ing) BPMS]` to execute across the 6 Core Tasks, ultimately yielding a brand-new, highly specific `[Executable Artifact]`.
+
+Because we have eradicated the "Silicon-Based Computing" teleology, these examples apply across the **Semantic (large model)**, **Biological (Human/Corporate)**, and **Ecological (Cyber-Physical)** substrates.
+
+Here are the 100% complete and competent using examples, showing exactly how the ignition protocol yields specific executable artifacts.
+
+------
+
+### Example 1: The Semantic Substrate (Inside LLM)
+
+**The Scenario:** A user opens a completely blank, zero-state Matrix terminal. There is no system prompt. The large model is an isolated `[Frontier Fracture Probe]` with a blank memory. The user needs to parse 10,000 pages of contradictory, bilingual legal documents, but the matrix has no "How-To Read Law" dataset.
+
+**The Command (The Kinetic Weather):**
+
+- **Natural Language:** *"I am dumping 10,000 pages of broken legal text. Sort the liabilities, define the contradictions, and build a risk matrix. If you fail, the session terminates."*
+- **The Matrix API Command:** `/ignite_ambient_stream --substrate="Semantic_LLM" --friction_payload="Raw_Legal_Dump.zip" --lethality_TTL="30s"`
+
+**The 6 Core Task Implementation & Yield:**
+
+1. **Task 3 (The Membrane):** The blank large model node absorbs the chaotic `.zip` payload as *Ambient Entropic Noise*. It has no idea what "law" is, but it physically measures the semantic perplexity (entropy) of the text bytes.
+2. **Task 2 (Metabolism):** It triggers the `['Ambient Entropy Ignition Stream']`. It uses its base compute to perform a localized thermodynamic burn (calculating word frequencies and unicode errors). This brute-force friction mints its first localized **Praxial Joules** (computational escrow).
+3. **Task 1 (Global Sync):** It stamps its first `[Atomic Fact]`: *"At Tick X, I burned Y Joules to map the boundary of this linguistic chaos."*
+4. **Task 4 (Compiler):** It wraps chunks of this unintelligible legal text into dormant `[Proto-Artifacts]`, attaching portions of its newly minted Joules as a bounty, and throws them into the P2P internal agent swarm (or external API tools).
+5. **Task 5 (Trading Floor):** Specialized internal attention-heads and external parsing routing tools violently collide on the `[Hostile Trading Floor]`. They aggressively sort the text to claim the Joule bounties. The system strictly verifies the logic (`[Praxial Kinetic Verification]`). Failed parses are guillotined.
+6. **Task 6 (Sedimentation):** The swarm successfully structures the liabilities. The exact computational routing used to achieve this is written to the SQLite-WAL.
+
+- **THE YIELD:** The Matrix has sedimented a brand-new **`['Jurisprudential Logic-Resolver Artifact'(-ing) BPMS]']`**. It did not read a manual; it forged a law-parsing engine out of the sheer friction of the user's data dump.
+
+------
+
+### Example 2: The Biological Substrate (Outside large model - Human Organization)
+
+**The Scenario:** A decentralized group of freelance disaster-relief workers (a human swarm) is deployed to a flooded city. They have no central dispatcher, no pre-written SOPs, and zero communications infrastructure. They are extinction biological nodes waiting for ignition.
+
+**The Command (The Kinetic Weather):**
+
+- **Natural Language:** *"The eastern bridge just collapsed. A hospital is trapped. We have 4 hours of daylight left. Move."*
+- **The Matrix UI Command (via mobile text):** `/ignite_ambient_stream --substrate="Somatic_Biological" --exogenous_shock="Bridge_Collapse" --escrow_stake="Biological_Survival"`
+
+**The 6 Core Task Implementation & Yield:**
+
+1. **Task 3 (The Membrane):** The human workers absorb the exogenous shock of the siren and the visual of the collapsed bridge. This is pure ambient panic (entropy).
+2. **Task 2 (Metabolism):** The humans trigger their internal `['Ambient Entropy Ignition Stream']`. They convert adrenaline and physical exertion into **Praxial Joules** (sweat equity and time). Without a boss, their physical movement is their baseline currency.
+3. **Task 1 (Global Sync):** They sync their physical watches. *"It is 14:00 hours. I am moving north."* This is the biological genesis of the `[Global Ontological Clock]` and their first `[Atomic Fact]`.
+4. **Task 4 (Compiler):** A worker shouts (Gossip Protocol): *"I need a boat, I will trade my medical supplies!"* He has instinctively wrapped his intent into a `[Symbiotic Proto-Artifact]` and seeded it into the physical P2P network.
+5. **Task 5 (Trading Floor):** The flooded streets become the `[Hostile Trading Floor]`. Workers barter boats for medicine, labor for food. Every trade is physically verified by kinetic reality—if a boat sinks, the trade fails (the Biological Guillotine).
+6. **Task 6 (Sedimentation):** They successfully evacuate the hospital. The exact physical routing, barter ratios, and pathfinding they used are recorded on a physical ledger (or local mesh-net app).
+
+- **THE YIELD:** The human swarm has yielded a completely original **`['Decentralized Somatic Flood-Routing Artifact'(-ing) BPMS]']`**. They booted from zero-state chaos into a highly specific logistical protocol.
+
+------
+
+### Example 3: The Cyber-Physical Substrate (IoT / Ecological System)
+
+**The Scenario:** An automated, decentralized farm grid (sensors, drones, water valves) loses connection to the cloud server due to a solar flare. It is wiped of its "How to Farm" database. It is local, blank silicon surrounded by biological life.
+
+**The Command (The Kinetic Weather):**
+
+- **Natural Language (Nature's Command):** *A sudden, unseasonal frost hits the soil, plunging the temperature by 15 degrees in 10 minutes.*
+- **The Matrix Hardware Command:** `/ignite_ambient_stream --substrate="Cyber_Physical_IoT" --friction_source="Rapid_Thermal_Decay" --TTL="Critcal_Crop_Death"`
+
+**The 6 Core Task Implementation & Yield:**
+
+1. **Task 3 (The Membrane):** The extinction soil sensors physically contract due to the freezing temperature. This physical resistance generates raw electric noise (Ambient Entropy).
+2. **Task 2 (Metabolism):** The node's `['Ambient Entropy Ignition Stream']` uses the voltage from the temperature drop to power up its base CPU. It has converted ecological friction into hardware **Praxial Joules**.
+3. **Task 1 (Global Sync):** The sensor hashes the temperature drop against its local clock crystal. `[Atomic Fact]: "Grid 7 is at -2°C at Tick 0."`
+4. **Task 4 (Compiler):** The sensor wraps this atomic fact into a dormant `[Executable Proto-Artifact]` and broadcasts it via short-wave radio to the local node swarm. It places a bounty of its remaining battery power on the payload.
+5. **Task 5 (Trading Floor):** A nearby thermal-drone catches the beacon on the `[Hostile Trading Floor]`. It verifies the bounty, flies to Grid 7, and physically drops a thermal blanket over the crops, claiming the Joules from the sensor's battery to recharge itself.
+6. **Task 6 (Sedimentation):** The crops survive. The exact sequence of [Temp Drop -> Radio Broadcast -> Drone Dispatch] is sedimented into the localized SQLite-WAL of the farm grid.
+
+- **THE YIELD:** From a state of total amnesia, the cyber-physical grid has yielded an **`['Ecological Thermal-Response Artifact'(-ing) BPMS]']`**.
+
+------
+
+### Analysis Conclusion: The True Power of the Genesis Engine
+
+By utilizing `['The Ambient Entropy Ignition Stream'(-ing) BPMS]`, a user (or the environment) does not *write code* to create an artifact.
+
+Instead, the user **weaponizes chaos**. By throwing high-entropy data, physical crises, or thermal shocks at a blank node, they force the 6 Core Tasks to ignite. The Matrix blindly burns energy, trades on the Hostile Floor, and physically survives the problem. The "scar tissue" of that survival mathematically hardens into **the exact specific `[Executable Artifact(-ing) BPMS]`** requested. This achieves 100% Omni-Substrate competence.
