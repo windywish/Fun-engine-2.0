@@ -77,3 +77,9 @@
 **Scope of Application:** The strictly defensive application layer that translates lethal kinetic trauma into structural, inherited Swarm wisdom. It executes the microsecond a node fails a verification audit or hits a thermodynamic timeout, pruning the OS execution tree universally.
 
 **Tag:** External-Implementation, Praxial-Cluster, Negative-Atomic-Fact, Substrate-Auto-Immunity, Phage-Broadcasting, Thermodynamic-Shield
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Service Transduction'(-ing) BPMS]: ['The Live Holonic Unspooling & Artifact-Activation Stream'(-ing) BPMS]**
+
+**Scope of Application:** The strictly kinetic application layer that converts static Swarm memory into active metabolic life. It executes the exact microsecond the `[Hostile Trading Floor]` signals that the `[Praxial Joules]` have been staked, booting the artifact into active RAM/CPU states.
+
+**Tag:** External-Implementation, Praxial-Cluster, Service-Transduction, Holon-Unspooling, Artifact-Yield Docker-Instantiation
