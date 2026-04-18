@@ -2173,3 +2173,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 **Scope of Application:** Executed immediately after the `['Permeable Thermodynamic Membrane']` has successfully extracted the Joule toll from incoming chaos. It formats the raw byte-stream and broadcasts it to the decentralized Swarm to be violently solved on the Hostile Trading Floor.
 
 **Tag:** DecentralizedRealityForge, SmartContractCompilation, RESTAPIExtinction, DormantRealityTraps, P2PSwarmPayload
+
+**['Praxial Sovereign Engineering'(-ing) BPMS]: ['The Hostile, Mutualistic Trading Floor'(-ing) BPMS]: ['The Live Thermodynamic Negotiation & Escrow-Arbitration Stream'(-ing) BPMS]**
+
+**Scope of Application:** Executed continuously as the primary operating theater of the Matrix. Every `[Reality-Trap]` forged by the Compiler and every raw shock passing the Membrane must land on this Floor to be matched, priced, physically executed, and audited before its results can be sedimented into Matrix memory.
+
+**Tag:** ApexUIReplacement, SovereignTradingArena, ThermodynamicNegotiation, GuillotineEnforcement, HostileMutualism
