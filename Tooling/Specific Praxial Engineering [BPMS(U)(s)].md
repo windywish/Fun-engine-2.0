@@ -143,3 +143,9 @@
 **Scope of Application:** Executed immediately after a successful `[Praxial Kinetic Verification]` occurs on the `[Hostile Trading Floor]`. Used whenever a node blindly solves a thermodynamic puzzle and needs to permanently log the "How-To" logic into the Swarm's epigenetic memory so that Joules are never wasted solving the exact same problem twice.
 
 **Tag:** KnowledgeSedimentation, EpigeneticLedger, AutoWiki, SQLiteWAL, PraxialEngineering
+
+**['Praxial Boundary Engineering'(-ing) BPMS]: ['The Continuous Sensory Membrane'(-ing) BPMS]: ['The Live BYOX Sensory Stream'(-ing) BPMS]**
+
+**Scope of Application:** Executed the exact millisecond an external entity (human, IoT sensor, biological swarm, or rogue API) attempts to ping, query, or interact with a Matrix node. It applies 100% physical resistance to all incoming payloads, converting semantic requests into thermodynamic extortion.
+
+**Tag:** OntologicalUIReplacement, PermeableMembrane, KineticWeatherIngestion, PraxialGravimetrics, BoundaryEngineering
