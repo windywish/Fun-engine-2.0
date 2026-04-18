@@ -2184,5 +2184,10 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **Scope of Application:** The mandatory execution layer that translates raw Swarm output into verified praxial reality. It applies to all Reality-Traps solved on the Hostile Trading Floor, ensuring rogue protocols cannot extract Escrow Joules through hallucinated or lazy computation.
 
-**Tag:** External-Implementation, Praxial-cluster, Kinetic-verification, Zero-knowledge-proof, Integration
+**Tag:** External-Implementation, Praxial-Cluster, Kinetic-Verification, Zero-Kowledge-proof, Integration
 
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Substrate Auto-Immunity'(-ing) BPMS]: ['The Live Dead-End Pruning & Phage-Broadcasting Stream'(-ing) BPMS]**
+
+**Scope of Application:** The strictly defensive application layer that translates lethal kinetic trauma into structural, inherited Swarm wisdom. It executes the microsecond a node fails a verification audit or hits a thermodynamic timeout, pruning the OS execution tree universally.
+
+**Tag:** External-Implementation, Praxial-Cluster, Negative-Atomic-Fact, Substrate-Auto-Immunity, Phage-Broadcasting, Thermodynamic-Shield
