@@ -2,7 +2,7 @@
 
 #### 1. Metadata
 
-- **ID:** `BP-PRAXIAL-CLUSTER-SYNTHESIS-012`
+- **ID:** `BP-PRAXIAL-CLUSTER-SYNTHESIS-015`
 - **Name:** ['The Kinetic Weather Ingestion Engine'(-ing) BPMS]
 - **Origin/Implementer (Parent instance):** `['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Ecological/Matrix Generation'(-ing) BPMS]` AND `['Praxial Engineering'(-ing) BPMS]: ['The Somatic Ludoforming'(-ing) BPMS]`
 - **Objective:** To completely obliterate the legacy "API gateway" or "Data Ingestion" mechanics. Because the Fun Engine Framework treats data not as passive text but as physical friction, this Praxial Cluster establishes the absolute edge membrane/boundary of the Cyber-Physical OS. It instantly converts external events (like a user prompt or foreign API data) from "informational input" into physical "Thermodynamic Mass (Joules)" before they are allowed to touch the internal matrix, ensuring the environment remains physically policed, thermodynamically sound, and fundamentally hostile to unstaked spam.
