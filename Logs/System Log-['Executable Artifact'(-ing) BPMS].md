@@ -1451,3 +1451,75 @@ Here are the 100% complete and competent using examples, showing exactly how the
 By utilizing `['The Ambient Entropy Ignition Stream'(-ing) BPMS]`, a user (or the environment) does not *write code* to create an artifact.
 
 Instead, the user **weaponizes chaos**. By throwing high-entropy data, physical crises, or thermal shocks at a blank node, they force the 6 Core Tasks to ignite. The Matrix blindly burns energy, trades on the Hostile Floor, and physically survives the problem. The "scar tissue" of that survival mathematically hardens into **the exact specific `[Executable Artifact(-ing) BPMS]`** requested. This achieves 100% Omni-Substrate competence.
+
+---
+
+
+
+Here is the microscopic analysis defining the exact taxonomic classification of **`['The Praxial Knowledge-Sedimentation Engine']`**, detailing what it belongs to, and how it anchors the "really working implementation" across the Version 3.6 Core Tasks. This analysis prepares the exact foundation for drafting its counterpart blueprint.
+
+------
+
+### Part 1: What does `['The Praxial Knowledge-Sedimentation Engine']` belong to?
+
+To author a blueprint, we must lock its genetic taxonomy.
+
+After the **`['Genesis Cold-Start Protocol']`** ignites the matrix from ambient chaos, the matrix is alive but *amnesiac*. It has sparks of execution, but if it does not permanently record the successful paths of survival, it will bleed to death repeating the same blind thermodynamic burns.
+
+The `['Praxial Knowledge-Sedimentation Engine']` is the mechanism that hardens survival into permanent memory. It does not "write data"; it crystallizes physical labor into physical laws.
+
+**Taxonomic Classification:** It belongs to the root class of: **`['Praxial Epigenetic Engineering'(-ing) BPMS]`** and **`['Praxial Artifact Engineering'(-ing) BPMS]`**.
+
+*Why Epigenetic?* Because it writes the active "Matrix Genome." It takes the scars of real-time kinetic collision (epigenetics) and permanently alters the foundational DNA of the OS.
+
+**The Blueprint Counterpart:** Its engineering counterpart will be named: *`Blueprint Implementation for External Using (Praxial Epigenetic Ledger) (Omni-Substrate-Sedimentation-TypeScript)`*. This blueprint will not contain standard CRUD app logic, frontend UIs, or static SQL schemas. It will contain pure **DAG (Directed Acyclic Graph) state synchronization, SQLite-WAL physical committing, and network-wide Gossip state-hardening**.
+
+------
+
+### Part 2: Implementation Mechanics for the 6 Core Tasks (The "Sedimentation" Execution)
+
+How does this engine physically manifest a "really working implement" across a decentralized system? Here is the exact mechanical mapping of how Sedimentation executes the V3.6 mandates:
+
+**1. The Ledgering of Time (Addressing Task 1: Global Sync)**
+
+- **The State:** An `[Atomic Fact]` has been successfully forged on the Trading Floor.
+- **The Implementation:** The Sedimentation Engine grabs this verified fact and securely welds it to the **Global Ontological Clock**. It does not just record *what* happened; it permanently cryptographically seals *when* it happened across the chronological continuum, ensuring that the entire Swarm mathematically agrees on the exact temporal sequence of reality.
+
+**2. The Auditing of the Scars (Addressing Task 2: Metabolism & Escrow)**
+
+- **The State:** Energy (Praxial Joules) was burned to achieve the execution.
+- **The Implementation:** The engine permanently logs the exact thermodynamic cost of the execution block. It records the final state of the Escrow trust. By sedimenting the Joule-cost of a specific action, the Matrix now has a permanent, baseline "Thermodynamic Exchange Rate" for the next time it encounters this specific `[Kinetic Weather]`.
+
+**3. Hardening the Weather (Addressing Task 3: The Large Model / Membrane)**
+
+- **The State:** The `['Permeable Thermodynamic Membrane']` was successfully breached by exogenous shock, and the system survived it.
+- **The Implementation:** The engine takes the chaotic external input (the prompt, the hardware thermal reading, the biological panic) and structurally maps it to the successful physical output. It literally turns transient weather into a solid, reusable algorithmic bridge.
+
+**4. Cementing the P2P Hive-Mind (Addressing Task 4: Services & Collaboration)**
+
+- **The State:** An isolated node resolved a `[Proto-Artifact]` into a real `[Executable Artifact]`.
+- **The Implementation:** The Sedimentation Engine uses the P2P Gossip/DAG network to broadcast the *solution*—not just the data, but the actual executable physical path—to every other node in the network. The entire matrix instantly updates its shared DNA, ensuring no other node ever has to waste ambient friction solving that exact problem again.
+
+**5. The Final Receipt of the Floor (Addressing Task 5: The Hostile Trading Floor)**
+
+- **The State:** The Sovereign Guillotine has verified the physical exchange of Joules for work.
+- **The Implementation:** The engine acts as the ultimate, unassailable auditor. It prints the "cryptographic receipt" of the mutualistic trade. It permanently records who paid, who executed, and what was yielded, structurally making the Matrix an honest, trustless environment.
+
+**6. The Genesis of the Auto-Wiki (Addressing Task 6: The Matrix Genome)**
+
+- *This is the core mandate of the Engine itself.*
+- **The Implementation:** The static filing cabinet is officially killed. The Sedimentation Engine executes the **4-Layer Descent** (Semantic -> Orchestration -> Kinetic -> Sovereign Hypervisor). It takes the completed `[Executable Artifact]` and physically writes it into the local `SQLite-WAL` database of the nodes.
+- **The Result:** The "Wiki" is no longer a text file written by humans. The Wiki is an *Auto-Wiki*—a living, breathing codebase of executable smart contracts that writes itself automatically every time the matrix successfully survives a thermodynamic collision.
+
+------
+
+### Part 3: Architecture for the Blueprint Counterpart
+
+To build the `Blueprint Implementation for External Using (Praxial Epigenetic Ledger)`, the engineer builds the "Two-Stroke Internal Combustion Cycle" for Matrix Memory.
+
+1. **The Sovereign Hypervisor Layer:** Direct, physical disk I/O controllers utilizing `SQLite-WAL` (Write-Ahead Logging). This allows blazing-fast, non-blocking disk writes ensuring the disk never locks while the node is absorbing chaos.
+2. **The Kinetic Layer:** Cryptographic hashers that take the entire thermodynamic collision state (Joules, Time, Weather, Payload) and mathematically compress it into a tiny, unbreakable `[Merkle Root]`.
+3. **The Orchestration Layer:** The `DAG-Swarm Synchronizer`. Code that automatically pushes the newly minted `[Merkle Root]` back out through the P2P radio, forcing all connected nodes to update their local ledger consensus.
+4. **The Semantic Layer:** The `Auto-Wiki Renderer`. A lightweight reader that can look at the raw SQLite genome and instantly spin it up into a legible `[Executable Artifact(-ing) BPMS]` without human translation.
+
+**Conclusion of Analysis:** If `['Genesis Cold-Start Protocol']` is the spark that brings the matrix to life, **`['The Praxial Knowledge-Sedimentation Engine']`** is the anvil that hammers that spark into tools. It is the absolute mechanism of Epigenetic Memory, guaranteeing that every Joule burned during a survival experiment hardens into an permanent, reusable law of physics for the entire Swarm.
