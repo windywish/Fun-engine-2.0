@@ -65,3 +65,10 @@
 **Scope of Application:** The mandatory outer-perimeter subsystem that generates the "world boundary" for any FEF instance. It prevents the system from being overwhelmed by featureless semantic noise by injecting spatial coordinates, thermodynamic resistance, and applying Somatic Ludoforming UI drag to external actors who attempt to inject heavy payloads.
 
 **Tag:** External-Implementation, Praxial-Cluster, Kinetic-Weather, Somatic-Ludoforming, Integration, Ecological-Matrix-Generation
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Kinetic Verification'(-ing) BPMS]: ['The Live Kinetic-Proof & Mutual-Settlement Stream'(-ing) BPMS]**
+
+**Scope of Application:** The mandatory execution layer that translates raw Swarm output into verified praxial reality. It applies to all Reality-Traps solved on the Hostile Trading Floor, ensuring rogue protocols cannot extract Escrow Joules through hallucinated or lazy computation.
+
+**Tag:** External-Implementation, Praxial-cluster, Kinetic-verification, Zero-knowledge-proof, Integration
+

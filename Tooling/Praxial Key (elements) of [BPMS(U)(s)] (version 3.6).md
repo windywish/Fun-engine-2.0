@@ -2179,3 +2179,10 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 **Scope of Application:** Executed continuously as the primary operating theater of the Matrix. Every `[Reality-Trap]` forged by the Compiler and every raw shock passing the Membrane must land on this Floor to be matched, priced, physically executed, and audited before its results can be sedimented into Matrix memory.
 
 **Tag:** ApexUIReplacement, SovereignTradingArena, ThermodynamicNegotiation, GuillotineEnforcement, HostileMutualism
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Kinetic Verification'(-ing) BPMS]: ['The Live Kinetic-Proof & Mutual-Settlement Stream'(-ing) BPMS]**
+
+**Scope of Application:** The mandatory execution layer that translates raw Swarm output into verified praxial reality. It applies to all Reality-Traps solved on the Hostile Trading Floor, ensuring rogue protocols cannot extract Escrow Joules through hallucinated or lazy computation.
+
+**Tag:** External-Implementation, Praxial-cluster, Kinetic-verification, Zero-knowledge-proof, Integration
+
