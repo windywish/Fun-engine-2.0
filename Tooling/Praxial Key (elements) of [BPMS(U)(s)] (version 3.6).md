@@ -2203,3 +2203,39 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 **Scope of Application:** The systemic daemon responsible for converting raw physical interactions (`[Perception]`, `[Play]`) into structural adaptation (`[Embodied Intelligence]`). It spans across all Executable Artifacts, intercepting their collision with `[Kinetic Weather]` (Task 3), forcing `[Cognitive Closure]` at the boundary layer, and orchestrating the thermodynamic recording of successful topological mutations into the P2P Swarm's Ledger (Task 4/Task 1). It fundamentally replaces "human patching/updating" with "autopoietic niche-finding."
 
 **Tags:** Meta-Cognition, Thermodynamic-Mutation, Somatic-Ludoforming, Embodied-Intelligence, Symbiotic-Epigenetics, Niche-Finding, Anti-Overfitting
+
+**['The Cognitive-Friction & Weight-Reconstruction Engine'(-ing) BPMS]**
+
+**Core Essence & Execution:** This engine physically enforces the demotion of `['Cognition/Cognitive Closure System Paradigm'(-ing) BPMS]`. In legacy systems, Human intent or artificial intelligence computation (such as large model generation, pathfinding, or narrative "goals") is processed "for free" in the background. In Version 3.6, "goals" are an illegal anomaly that must be taxed. This engine acts as a thermodynamic tollbooth. When an artificial intelligence agent attempts to execute a complex `['Computation Paradigm']` to optimize a route, or a Human player attempts to force a narrative storyline (`['Narration paradigm']`), this engine measures the "distance" among/by their arbitrary goal and the immediate physical substrate. It translates that cognitive distance into massive thermodynamic weight (Friction). The entity must pay this physical weight in `[Praxial Joules]` via Escrow just to *attempt* the thought or action. If the Joules paid do not result in immediate `['Sustainable Perpetuation'(-ing) BPMS]`, the engine triggers `[Substrate Auto-Immunity]`, physically burning the entity's energy reserves to ash. Intelligence is forced to abandon "goals" and focus strictly on immediate survival friction.
+
+**Scope of Application:**
+
+- **artificial intelligence/large model Parameter Mitigation:** Converts an artificial intelligence Agent's token-generation and pathfinding algorithms into physical heat/mass that must be sustained by the Matrix economy.
+- **Teleology Composting:** Actively drains the health/energy of players or agents who attempt to "game the system" via rigid target-orientation instead of adapting to local physical occurrences.
+- **Cognitive Escalation:** Dynamically increases the physical gravity (weight) of highly complex, abstract actions, forcing highly evolved entities to consume exponentially more calories.
+
+**Tags:** Cognitive-Closure-Eradication, Thermodynamic-Weighting, Teleology-Composting, Intelligence-Demotion, Goal-Taxation
+
+**['The Ambient Occurrence & Generic Recursion Engine'(-ing) BPMS]**
+
+**Core Essence & Execution:** This engine physically institutes the `['Occurrence/Generic Paradigm'(-ing) BPMS]`. Legacy games and simulations are "reactive"—they wait for a player to input a command. This engine eradicates that paradigm. It ensures that the Cyber-Physical OS is a continuously churning, indifferent universe that happens entirely independent of the `['Perception Paradigm/Mechanism'(-ing) BPMS]` of its observers. Drawing from the abyss of `[functional potentiality]`, the Ambient Occurrence Engine continuously generates localized thermodynamic tension across the N-dimensional topological map. It triggers ecological mutations, financial shifts, and kinetic weather anomalies through infinite, targetless recursion. It does not create "quests" or "events" for players; it simply computes the inevitable physical decay and emergence of the substrate. It ensures the Matrix is not achieving a "breakthrough," but rather executing an infinite sequence of generic occurrences aimed solely at the Matrix's own `['Sustainable Perpetuation'(-ing) BPMS]`.
+
+**Scope of Application:**
+
+- **Baseline Tension Generation:** Procedurally generates the ambient physical threats and opportunities that entities must respond to in order to survive, completely decoupled from narrative scripts.
+- **Targetless Ecosystem Autopoiesis:** Ensures that non-player flora, fauna, and economic algorithms evolve, trade, and compost themselves recursively even if zero players are logged in.
+- **Continuous Paradigm Actuation:** Enforces the "No Endings" rule; when a massive Swarm War ends, the engine immediately utilizes the thermodynamic fallout to spawn the next generic occurrence.
+
+**Tags:** Ambient-Occurrence, Continuous-Paradigm, Generic-Recursion, Targetless-Ecosystem, Sustainable-Perpetuation
+
+**['The Ontological Crystallization & Fact-Precipitation Engine'(-ing) BPMS]**
+
+**Core Essence & Execution:** This engine executes the `['Atomic Fact Paradigm/Mechanism'(-ing) BPMS]`. In the Matrix, technology is not a tool; it is the raw physics of existence. Therefore, when an action successfully occurs (`['Action(-ing) BPMS]`), that action must permanently alter the architecture of the universe. When a thermodynamic collision is resolved—whether through a `[Dynamic Barter]`, a `[Kinetic Verification]`, or `[Evolutionary Composting]`—this engine seizes the transient kinetic data and subjects it to profound cryptographic pressure. It "crystallizes" the verb into a static, immutable hash. This is Fact-Precipitation: the process of turning temporary movement into eternal, structural geometry on the Matrix Blockchain. It ensures that existence is not an abstract philosophy, but a mathematical scar left upon the Omni-Substrate. Every entity in the Swarm must reference this crystallized precipitation; it is the absolute, targetless truth of reality.
+
+**Scope of Application:**
+
+- **Matrix Blockchain Anchoring:** Converts validated thermodynamic interactions into universally recognized `[Atomic Facts]` synchronized via the P2P Gossip network.
+- **Existential Rendering:** Forces the visual and physical substrate of the matrix to permanently warp and mutate around the crystallized facts of past events (e.g., carving craters where battles were verified).
+- **Reduction & Discovery Proofs:** When complex systems are composted, this engine precipitates their shattered basic mechanics into the dirt as discoverable, raw genetic algorithms (Discovery).
+
+**Tags:** Atomic-Fact-Paradigm, Ontological-Crystallization, Existence-Recording, Matrix-Blockchain, Cryptographic-Sedimentation
