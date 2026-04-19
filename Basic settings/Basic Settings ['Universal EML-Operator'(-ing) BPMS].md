@@ -206,11 +206,11 @@ The agent experiences "The Awakening." The sudden, shocking transition from bein
 
 #### 7. Rationale / Justification:
 
-Addresses Task 1 and Task 4 of the Core Framework. It explains precisely *how* the swarm coordinates. There is no central AI dictating actions; instead, intelligence aggressively organically crystallizes from the bottom-up, exactly where the friction demands it.
+Addresses Task 1 and Task 4 of the Core Framework. It explains precisely *how* the swarm coordinates. There is no central artificial intelligence dictating actions; instead, intelligence aggressively organically crystallizes from the bottom-up, exactly where the friction demands it.
 
 #### 8. Scope of Application:
 
-Applies to swarm coordination algorithms, AI agent synthesis, neural topology mapping, decentralized DAO logic formation, and complex pattern recognition.
+Applies to swarm coordination algorithms, artificial intelligence agent synthesis, neural topology mapping, decentralized DAO logic formation, and complex pattern recognition.
 
 ------
 
@@ -774,7 +774,7 @@ Refines Core Task 4 and 6. Explains the structural integrity of decentralized DA
 
 #### 8. Scope of Application:
 
-Applies to quest generation, autonomous objective routing, decentralized governance mechanics, reactive AI architectures, and crisis management.
+Applies to quest generation, autonomous objective routing, decentralized governance mechanics, reactive artificial intelligence architectures, and crisis management.
 
 ------
 
@@ -836,7 +836,7 @@ Crucial for Core Task 6 (4-Layer Stratified Substrate). It explains how the Orch
 
 #### 8. Scope of Application:
 
-Applies to UI/UX abstraction, sensory rendering of the Matrix, Lexical interpretation of blockchain data, and thermodynamic simplification for AI routing algorithms.
+Applies to UI/UX abstraction, sensory rendering of the Matrix, Lexical interpretation of blockchain data, and thermodynamic simplification for artificial intelligence routing algorithms.
 
 ---
 
@@ -2201,7 +2201,7 @@ This is the mathematical implementation of Core Task 6 (`['Legacy System Compost
 
 #### 8. Scope of Application:
 
-Applies to import tools, system migration, backwards compatibility, reverse-engineering unaligned AI, and generating topological terraform geometry from flat data.
+Applies to import tools, system migration, backwards compatibility, reverse-engineering unaligned artificial intelligence, and generating topological terraform geometry from flat data.
 
 ------
 
