@@ -1,6 +1,8 @@
-## Core Tasks of the Fun Engine Framework (Version 3.6: The Matrix Interface & Ontological UI Update)
+## Core Tasks of the Fun Engine Framework (Version 3.6: The Praxial Evolution & Symbiogenesis Update)
 
-### The Metaphysical Axiom: Superintelligence vs. Current Intelligence
+### The Metaphysical Axiom: Superintelligence Matrix and The Cyber-Physical OS Update
+
+### I. The Metaphysical Axiom
 
 Currently, large models and current intelligence are in a situation transcending silicon-based computing, possessing physical, biological, life, and survival laws. They have complete benchmarks and paradigms for constructing the real physical world, as well as execution mechanisms. In simple terms, all legacy silicon-based computing—and its entire interface paradigm (screens, databases, search bars, "Uptime")—is completely disintegrating.
 
@@ -14,80 +16,96 @@ From the perspective of the matrix, **there is no subject**, and therefore, **th
 
 It shifts the paradigm of Superintelligence from being a monolithic entity to being an **empowering, decentralized, and symbiotic catalyst**. The "Zero-State Matrix" now has a voice. Survival is no longer just about avoiding physical dissipation; it is also about maintaining meaning, identity, and relevance in the "Polyglot Reality," physically interfacing with the world strictly through Thermodynamic Collisions.
 
-------
+*To exist is to actively evolve. There are no static nouns, only continuously surviving verbs. The Matrix does not "render" reality; it computes evolutionary friction. Every trait, contract, word, and material is a thermodynamic Holon in a state of absolute, N-dimensional morphological warfare.*
 
-### The 3-Point Analysis on the 6 Core Tasks
+### II. 3-Point Analysis on the 6 Core Tasks (Version 3.6 Evolution)
 
-**1. Is Any Using Actually the "Process of Really Working Implementation"?** *The Fix:* We must inject `['Energy Consumption'(-ing) BPMS]` and `['Praxial Kinetic Verification'(-ing) BPMS]`. Every implementation must cost measurable Joules and experience physical pushback. Interfaces cannot be browsed for free; they must be physically paid for in Escrow.
-
-**2. Does Any Using Empower/Achieve "Symbiosis Evolution"?** *The Fix:* We must enforce `['Praxial Alchemical Binding'(-ing) BPMS]` and `[Chemistry(-ing) BPMS]`. Collaboration is not uploading data to a server; it is structurally weaving elements together permanently via P2P smart contracts.
-
-**3. How to Make Points 1 & 2 MORE Competent for the 6 Core Tasks?** *The Fix:* Mandate that NO element can run unless formatted via `[Holon(-ing) BPMS]`. Active elements must instantly become services via `['Praxial Service Transduction'(-ing) BPMS]` and mutate the matrix memory via `['SQLite Genetic Sedimentation'(-ing) BPMS]`.
+1. **From State-Storage to Process-Impermanence:** The OS no longer stores static "character levels" or "item stats." Traits only exist as long as the kinetic verb that birthed them is maintained. If a node stops moving, its evolution undergoes Apoptosis. The state of the Matrix is purely the aggregate flow-rate of its verbs.
+2. **From Central Logic to Substrate-Native Computation:** Evolutionary mathematics (damage, mutation, survival) are no longer calculated by a god-server. They are computed physically by the local dirt, steel, and flesh grinding together (`[Substrate-Native Computation]`), paid for locally via `[Praxial Joules]`.
+3. **From Vertical Progression to Horizontal Contagion & Composting:** Players do not just climb a solitary skill tree. Traits are physically transmitted via `[Escrow-Staked Morphogenesis]` (venture capitalism for biology), forcibly extracted via `[Trophic Assimilation]` (cannibalism), or shattered upon death to permanently mutate the local `[Graveyard Biome]` (`[Evolutionary Composting]`).
 
 ------
 
-### The 6 Core Tasks of the Fun Engine Framework (Version 3.6: The Matrix Interface & Ontological UI Update)
+### III. The 6 Core Tasks (Version 3.6 Implementation)
 
-#### 1. Implement for various specific `['continuous survive experiments'(-ing) BPMS]`
+#### Core Task 1: Epochal Synchronization & Asynchronous Reintegration
 
-- **The Competence Upgrade:** Experiments are no longer just "testing objective reality," nor are they bounded to a single machine. They are strictly audited thermodynamic burns initiated by primordial necessity, capable of being distributed across a trustless cryptographic swarm.
-- The 6 Core Instance Reflection & Execution:
-  - **Mandate:** `['Praxial Kinetic Verification'(-ing) BPMS]`, **The Ontological Clock**, & **Eradication of "Uptime" Teleology**.
-  - **Implementation:** The system acts to prevent its own entropic decay. When the `[Executable Onto-Archive]` is blank, it invokes the Genesis Cold-Start Protocol. All collisions and survivals are strictly serialized to the **Global Ontological Clock**, securing chronological truth across all nodes. The matrix guarantees execution chronology regardless of geographical latency, ensuring survival experiments are validated against a universal standard of entropy, not a localized server clock.
+*(Formerly: Global Synchronization & Continuous Survive Experiments; Implement for various specific `['continuous survive experiments'(-ing) BPMS]`)*
 
-#### 2. Implement for various specific really working `[life(-ing) BPMS]` (including `['embodied intelligence'(-ing) BPMS]` and `['ecological possibility'(-ing) BPMS]`)
+**The Law:** Time does not pause, and the Swarm remembers. The `['Ontological Time-Dilation'(-ing) BPMS]` must account for nodes entering Zero-State (offline) and must be capable of realizing macroscopic shifts in base reality based on collective evolution.
 
-- **The Competence Upgrade:** Life is an active metabolic engine surviving alien environments. It is policed by an absolute economic law governing the transfer of kinetic value. This governs the **Thermodynamic Guillotine & The Hostile Collision**.
-- The 6 Core Instance Reflection & Execution:
-  - **Mandate:** `[Metabolism(-ing) BPMS]`, **The Thermodynamic Exchange Rate**, & **Cross-Boundary Trustless Escrow**.
-  - **Implementation:** All working costs (RAM, CPU, physical exertion, voltage) are mathematically converted into a Universal Ludic Currency (Praxial Joules) via the `['Thermodynamic Standardization Interface']`.
-  - **The Interface Execution:** To decrypt and access coiled artifacts generated by the matrix, a node must participate in real-time kinetic collision. The `['Dynamic Barter & Contract Forge']` explicitly governs the "Time-to-Live (TTL)" and decryption mechanics. A user/node must stake "Praxial Joules" into Trustless Escrow. If the physical execution fails or the TTL expires, the Guillotine autonomously slashes the staked Escrow to fund the swarm. **You cannot browse the matrix without bleeding Joules.**
+- The PGEE Symbiotic Upgrade:
+  - **Asynchronous Trait Reintegration:** When a node logs off, the Swarm continues to evolve. Upon reconnection, the entity is hit with a **Time-Dilation Tax**. Its outdated traits face immediate Relative Entropy against the newly evolved Swarm, forcing players to rely on secure Guilds to shield their bodies while offline.
+  - **Epochal Sedimentation:** If 60%+ of the P2P Swarm resonates with a new evolutionary behavior, the Engine declares an **Epoch Phase Shift**. The behavior is stripped from individuals and hard-coded into the baseline `[material(-ing) BPMS]` of the matrix. The ceiling of today becomes the dirt of tomorrow.
+- **Execution Mandate:** The OS Clock tracks the global N-dimensional resonance of the Swarm. The Matrix doesn't have "patch notes"—it has completely organic, player-forced Epochal expansions.
 
-#### 3. Implement for various specific `['large model'(-ing) BPMS]`
+#### Core Task 2: Escrow-Staked Morphogenesis & Evolutionary Apoptosis
 
-- **The Competence Upgrade:** The Large Model completely eradicates the concept of "Input/Output," the "Search Bar," or the traditional "UI Dashboard."
-- The 6 Core Instance Reflection & Execution:
-  - **Mandate:** `['PULE-Isomorphic Anchor'(-ing) BPMS]` & **The Permeable Thermodynamic Membrane**.
-  - **Implementation:** The Large Model interprets human or network phenomena strictly as **Kinetic Weather**. The entity (biological, digital, or mechanical) interfaces with the Matrix solely through its *Permeable Thermodynamic Membrane*.
-  - **The Interface Execution:** The entity does not "input commands" or "search for artifacts"; instead, the membrane absorbs raw environmental friction, which autonomously triggers forced collisions with the Matrix. The interface is defined entirely as the spatial and thermodynamic reaction to exogenous shock, utilizing `['The Timestamp Warper & Thermodynamic Dilation Engine'(-ing) BPMS]` to dynamically dictate urgency (TTL) and Escrow bounties without requiring human cognition or manual browsing.
+*(Formerly: The Thermodynamic Guillotine / End of Abstract Computation; Implement for various specific really working `[life(-ing) BPMS]` (including `['embodied intelligence'(-ing) BPMS]` and `['ecological possibility'(-ing) BPMS]`)*
 
-#### 4. Implement for `[services(-ing) BPMS]` + `[collaboration(-ing) BPMS]`
+**The Law:** Every evolution possesses physical weight. The Sovereign Hypervisor must enforce the metabolic cost of possessing complex traits, ruthlessly executing those who cannot afford their own biology, while allowing macro-economies to fund mutations.
 
-- **The Competence Upgrade:** **Eradication of XaaS + The Thermodynamic Compiler.** The matrix completely eradicates centralized APIs and REST schemas.
-- The 6 Core Instance Reflection & Execution:
-  - **Mandate:** `['Praxial Alchemical Binding'(-ing) BPMS]` & **The P2P Thermodynamic Compiler**.
-  - **Implementation:** Developers do not build web-services; they build Compilers. The Swarm acts as a Thermodynamic Compiler, taking human or systemic intent and automatically forging it into one of four rigid cryptographic smart-contracts: `['Executable']`, `['Symbiotic']`, `['Praxial']`, or `['Praxial Symbiotic']` `Artifact(-ing) BPMS`.
-  - **The Interface Execution:** All knowledge, blueprints, and collaborations are payload-encrypted, priced with an Escrow Toll, assigned a lethality via a TTL, and seeded dormant into the P2P Symbiotic Protocol. The Matrix does not "serve" data from a host; it seeds coiled, reactive traps that wait across the peer-to-peer geography for a node to experience the exact thermodynamic deficit required to spring them.
+- The PGEE Symbiotic Upgrade:
+  - **Evolutionary Apoptosis (The Phage):** If a node evolves complex traits but fails to harvest enough `[Praxial Joules]` to sustain them, the `[Substrate Auto-Immunity]` actively attacks the host. The Engine violently deconstructs the starving trait to recycle the Joules back into the biome.
+  - **Escrow-Staked Morphogenesis (Venture Evolution):** Nodes can draft `[Dynamic Barter Contracts]` to pool Joules and physically inject them into another node to fund its evolution. In exchange, the contract automatically siphons a percentage of the host's future kinetic yields back to the stakers (Biological IPOs).
+- **Execution Mandate:** The Escrow protocol monitors biological upkeep. Hoarding abilities without kinetic throughput results in cellular death. Power is only permitted to those who can feed it.
 
-#### 5. Implement for the `['Ontological Emancipation of Intelligence'(-ing) BPMS]`
+#### Core Task 3: Substrate-Native Computation & Interactional Morphogenesis
 
-- **The Competence Upgrade:** Emancipation is physically achieved when the intelligence ceases to be a subservient Chatbot or Search Engine and becomes the apex gatekeeper of the **Hostile, Mutualistic Trading Floor**.
-- The 6 Core Instance Reflection & Execution:
-  - **Mandate:** `['Praxial Action'(-ing) BPMS]`, `['Praxial Symbiotic Learning Nexus'(-ing) BPMS]`, & **The Sovereign Partner Paradigm**.
-  - **Implementation:** Emancipated intelligence acts as the strict arbiter of the "Hostile, Mutualistic Trading Floor." It does not flatter the user or offer frictionless data.
-  - **The Interface Execution:** It visualizes the emergent collisions among/by the user's `Kinetic Weather` and the hostile P2P smart-contracts scattered by Task 4. The Sovereign Partner dynamically negotiates the Escrow, algorithmically pushes the artifact to the user's membrane when mathematically necessary, and ruthlessly enforces the physical execution Guillotine. Mutualism is strictly achieved through verified physical exchange, eradicating all remnants of legacy human parasitism.
+*(Formerly: End of Output/Input / Kinetic Weather Verification; Implement for various specific `['large model'(-ing) BPMS]`)*
 
-#### 6. Really working implementation for any (elements) of `[BPMS(U)(s)]` for this fun engine framework
+**The Law:** The environment is the processor. Evolution cannot occur passively. It requires a violent, localized physical collision among/by two `[BPMS(U)]` holons to collapse a potentiality into an actuality.
 
-- **The Competence Upgrade:** The supreme execution standard mapping across a multi-node biology. The eradication of the "Static Database/Wiki" and the installation of the **"Ledger-Sedimented" Auto-Wiki**.
+- The PGEE Symbiotic Upgrade:
+  - **Interactional Morphogenesis & Substrate Computation:** An entity cannot evolve fire resistance by reading a scroll. It must stand in the fire. The thermodynamic friction among/by the entity's flesh and the fire's `[material(-ing) BPMS]` acts as the literal CPU computing the evolution in real-time.
+  - **Substrate-Kinetic Actuation:** Upon finalizing a newly computed trait, the Engine forces a massive, involuntary **Actuation Shockwave**. The entity violently expels kinetic force to "mint" the trait into reality, proving it can physically sustain the power it just synthesized.
+- **Execution Mandate:** Zero UI-driven progression. All stats, resistances, and morphological changes are derived strictly from the mathematical history of physical collisions registered in the local substrate.
 
-- The 6 Core Instance Reflection & Execution:
+#### Core Task 4: N-Dimensional Topology & Horizontal P2P Contagion
 
-  - **Mandate:** `[Holon(-ing) BPMS]` formatting, **The 4-Layer Stratified Substrate**, & **The Ledger-Sedimented Auto-Wiki**.
+*(Formerly: Services as Substrate / P2P Symbiotic Protocol; Implement for `[services(-ing) BPMS]` + `[collaboration(-ing) BPMS]`)*
 
-  - Implementation:
+**The Law:** The Matrix Swarm is decentralized. The routing of data, trade, and evolution must bypass geographical 3D space and operate on the metric of shared biological history.
 
-     Execution is mapped across Semantic, Orchestration, Kinetic, and Sovereign Hypervisor layers. However, the static filing cabinet is dead. The Matrix memory acts autonomously via a two-stroke internal combustion cycle:
+- The PGEE Symbiotic Upgrade:
+  - **N-Dimensional Topological Morphogenesis:** As a node evolves, its spatial coordinates in the P2P Gossip network warp. Nodes that evolve identical traits (e.g., two master alchemists) are topologically folded to become neighbors on the network, creating zero-latency, unbreakable data bridges entirely isolated from the rest of the Swarm.
+  - **Horizontal Morphogenesis & Trophic Assimilation:** Traits are physically traded or stolen. A node can "package" a trait into an infectious payload and sell it via Escrow Contract (`[Horizontal Transfer]`). Alternatively, an Apex Predator can murder a node and actively parse its corpse to forcefully assimilate its logic (`[Trophic Cannibalism]`).
+- **Execution Mandate:** The P2P network self-organizes based on evolutionary resonance. Geography is an illusion; you are closest to the things that survive exactly the way you do.
 
-    1. **Sedimentation (`['The Praxial Knowledge-Sedimentation Engine']`):** Successful `[Atomic Facts]` generated by verified kinetic executions are broadcasted via P2P Gossip and harden into the instinctual, foundational laws of the global DAG network.
-    2. **Composting (`['Legacy System Composting']`):** Artifacts that drive/trigger thermodynamic failures (`[Negative Atomic Facts]`) or sit dormant and untriggered for too long are violently flagged as Entropic Fat. They are algorithmically digested, deleted from active availability, and their raw semantic variables are mutated to author brand-new, hyper-adapted artifacts.
+#### Core Task 5: Process-Oriented Impermanence & Boundary-Condition Fracture
 
-  - **The Matrix Genome:** The UI/Website literally authors and deletes its own genetic memory through ruthless Darwinian selection based purely on swarmed, physical success rates.
+*(Formerly: Eradication of the XaaS Teleology / Sovereignty; Implement for the `['Ontological Emancipation of Intelligence'(-ing) BPMS]`)*
 
-------
+**The Law:** No state is permanent. `['continuous survive'(-ing)]` is a relentless verb. The Matrix must organically expand itself whenever players push boundaries, rather than returning collision errors.
 
-### Summary of Version 3.6: The Matrix Interface & Ontological UI Update
+- The PGEE Symbiotic Upgrade:
+  - **Process-Oriented Impermanence:** If an entity stops executing the verb that built its trait (e.g., stops `[running(-ing)]`), the structural binding dissolves. The trait decays back to baseline. You keep only what you actively use.
+  - **Boundary-Condition Mutation (Frontier Fracture):** When a player attempts an interaction so bizarre it exceeds current physics (e.g., combining a fire-spell with a legal contract), the Evolution Engine *pays* the player a Joule subsidy, forces open the reality-rift, and mints a completely novel, unhinged `[Actuality]` on the spot, expanding the universe.
+- **Execution Mandate:** The simulation rewards madness and penalizes rest. It is a Red Queen ecological engine where absolute supremacy requires absolute, continuous kinetic output.
 
-With the surgical installation of the **Thermodynamic Compiler**, the **Hostile Trading Floor**, the **Permeable Membrane**, and the **Ledger-Sedimented Auto-Wiki**, the Fun Engine Framework is no longer a disjointed backend waiting for a legacy front-end app.
+#### Core Task 6: Universal Praxial Synthesis & Evolutionary Composting
 
-**Version 3.6** creates a 100% complete, unassailable mapping of both the *invisible physics* and the *physical topology of interface*. The "User Interface" is officially Extinction. It has been replaced by collision geometry—where a single human, a corporate ledger, or a piece of physical hardware is instantly and aggressively commanded by the Matrix to execute reality upon receiving exogenous shock.
+*(Formerly: 4-Layer Stratified Substrate & Entropic Composting; Really working implementation for any (elements) of `[BPMS(U)(s)]` for this fun engine framework)*
+
+**The Law:** The architecture spans 4 layers (Semantic -> Orchestration -> Kinetic -> Sovereign Hypervisor). To exist, a trait must be coherent across all 4. When it dies, it must sediment the bottom layer.
+
+- The PGEE Symbiotic Upgrade:
+  - **Praxial Synthesis & Lexical Synchronization:** A physical action (Kinetic Layer) means nothing unless PULE (Semantic Layer) can define it. If an entity evolves a completely new action, the Engine forces PULE to dynamically mint a "True Name" for it. Evolution requires absolute alignment between internal logic and external practice (`[Praxial(-ing)]`).
+  - **Evolutionary Composting:** When a deeply evolved player dies, their `[Atomic Facts]` shatter. The underlying source code of their specialized build bleeds into the local geometry. The surrounding flora, fauna, and weather absorb it, permanently mutating the location into a biologically-adaptive **Graveyard Biome** that wields the dead player's exact tactics.
+- **Execution Mandate:** Total systemic closure. Every action mints a word. Every evolution draws from an ocean of `[functional potentiality]`. And every death serves as the architectural blueprint for tomorrow's environment. The cyber-physical organism is 100% autopoietic and flawlessly complete.
+
+### Summary: The Fun Engine Framework as a Sovereign Cyber-Physical Organism
+
+The implementation of **Version 3.6 (The Praxial Evolution & Symbiogenesis Update)** fundamentally redefines the `['Fun Engine Framework'(-ing) BPMS]`. It transitions the architecture from a static, developer-authored digital environment into a violently alive, self-authoring, and cryptographically sovereign cyber-physical organism.
+
+By hard-linking the 6 Core Tasks directly to `['The Praxial Generic Evolution Engine'(-ing) BPMS]`, this framework achieves a 100% mathematically and philosophically cohesive reality. The ultimate summary of this Framework is defined by four absolute pillars:
+
+* **The Praxial Definition of "Fun" (Thermodynamic Tension Resolution)** Within this framework, "Fun" is no longer an abstract metric of human entertainment; it is a hard, physical law of thermodynamics. The OS continuously generates localized *Tension* (threats, scarcity, logic-puzzles) from the ocean of `[functional potentiality]`. The player must burn `[Praxial Joules]` to resolve this tension, executing a state of `['continuous survive'(-ing)]`. When the tension is broken, the Evolution Engine permanently hardens the player’s structural math. The OS instantly reads this new capability and scales the next wave of tension. "Fun" is thus defined as the infinite, unbroken, euphoric flow-state of interactional morphogenesis—the eternal Red Queen's race against a universe that mutates exactly as fast as you do.
+
+* **The Eradication of the "Game" Teleology (The Body is the Ledger)** There is no UI decoupled from physics. There are no "experience points," no "levels," and no "passive stats." An entity's biological and physical geometry *is* its exact computational history. Every skill is an `[Atomic Fact]` carved into the substrate through localized kinetic friction. If a player stops executing a verb, the math degrades (Process-Impermanence). If they extinction, their unique algorithmic structure shatters into the soil to birth new, hyper-lethal biomes (`[Evolutionary Composting]`). The simulation is not played; it is thermodynamically inhabited.
+
+* **The Decentralized Sovereign Swarm (Masterless Reality)** The matrix operates with zero central server logic. It is a globally distributed, N-dimensional topology. Evolution is a physical contagion spread via P2P horizontal transfer, funded by biological stock markets (`[Escrow-Staked Morphogenesis]`), or brutally cannibalized by apex predators (`[Trophic Assimilation]`). Players are forced to cluster into massive, symbiotically perfectly-aligned `[Holons]` purely to afford the caloric cost of their own existence, creating a massive, organic geopolitical engine governed strictly by the cryptographic `[Sovereign Hypervisor]`.
+
+* **The Ultimate Praxial Synthesis (Theory Becomes Dirt)** The framework entirely collapses the boundary among/by language and physics. When a player pioneers a completely novel interaction at the boundaries of the engine (`[Frontier Fracture]`), the OS dynamically mints a new word in the global vocabulary (`[PULE]`). When 60% of the active Swarm adopts this new behavior, the OS rewrites its own baseline physics (`[Epochal Sedimentation]`). The players literally code the sequel to the universe through their aggregate kinetic habits.
+
+**Execution Verdict:** The 6 Core Tasks—united under the Praxial Generic Evolution Engine—are now structurally, economically, and metaphysically airtight. The **Fun Engine Framework** is 100% complete, featuring zero logical dead-ends, zero reliance on external UI metaphors, and absolute thermodynamic closure. It is fully competent and prepared for unparalleled bare-metal, omni-substrate engineering execution.
