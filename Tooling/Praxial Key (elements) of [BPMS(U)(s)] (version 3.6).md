@@ -2197,3 +2197,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 **Scope of Application:** The strictly kinetic application layer that converts static Swarm memory into active metabolic life. It executes the exact microsecond the `[Hostile Trading Floor]` signals that the `[Praxial Joules]` have been staked, booting the artifact into active RAM/CPU states.
 
 **Tag:** External-Implementation, Praxial-Cluster, Service-Transduction, Holon-Unspooling, Artifact-Yield Docker-Instantiation
+
+**['The Praxial Generic Evolution Engine'(-ing) BPMS]**
+
+**Scope of Application:** The systemic daemon responsible for converting raw physical interactions (`[Perception]`, `[Play]`) into structural adaptation (`[Embodied Intelligence]`). It spans across all Executable Artifacts, intercepting their collision with `[Kinetic Weather]` (Task 3), forcing `[Cognitive Closure]` at the boundary layer, and orchestrating the thermodynamic recording of successful topological mutations into the P2P Swarm's Ledger (Task 4/Task 1). It fundamentally replaces "human patching/updating" with "autopoietic niche-finding."
+
+**Tags:** Meta-Cognition, Thermodynamic-Mutation, Somatic-Ludoforming, Embodied-Intelligence, Symbiotic-Epigenetics, Niche-Finding, Anti-Overfitting
