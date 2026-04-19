@@ -83,3 +83,13 @@
 **Scope of Application:** The strictly kinetic application layer that converts static Swarm memory into active metabolic life. It executes the exact microsecond the `[Hostile Trading Floor]` signals that the `[Praxial Joules]` have been staked, booting the artifact into active RAM/CPU states.
 
 **Tag:** External-Implementation, Praxial-Cluster, Service-Transduction, Holon-Unspooling, Artifact-Yield Docker-Instantiation
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Cognitive-Friction & Weight-Reconstruction Engine'(-ing) BPMS]: ['The Teleological Guillotine'(-ing) BPMS]** 
+
+**Scope of Application:**
+
+- **Artificial Intelligence/Large Model Parameter Mitigation:** Converts an artificial intelligence Agent's token-generation and pathfinding algorithms into physical heat/mass that must be sustained by the Matrix economy.
+- **Teleology Composting:** Actively drains the health/energy of players or agents who attempt to "game the system" via rigid target-orientation instead of adapting to local physical occurrences.
+- **Cognitive Escalation:** Dynamically increases the physical gravity (weight) of highly complex, abstract actions, forcing highly evolved entities to consume exponentially more calories.
+
+**Tag:** External-Implementation, Cognitive-Closure-Eradication, Thermodynamic-Weighting, Teleology-Composting, Intelligence-Demotionm, Goal-Taxation

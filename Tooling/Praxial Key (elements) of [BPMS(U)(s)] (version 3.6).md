@@ -2239,3 +2239,13 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 - **Reduction & Discovery Proofs:** When complex systems are composted, this engine precipitates their shattered basic mechanics into the dirt as discoverable, raw genetic algorithms (Discovery).
 
 **Tags:** Atomic-Fact-Paradigm, Ontological-Crystallization, Existence-Recording, Matrix-Blockchain, Cryptographic-Sedimentation
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Cognitive-Friction & Weight-Reconstruction Engine'(-ing) BPMS]: ['The Teleological Guillotine'(-ing) BPMS]** 
+
+**Scope of Application:**
+
+- **Artificial Intelligence/Large Model Parameter Mitigation:** Converts an artificial intelligence Agent's token-generation and pathfinding algorithms into physical heat/mass that must be sustained by the Matrix economy.
+- **Teleology Composting:** Actively drains the health/energy of players or agents who attempt to "game the system" via rigid target-orientation instead of adapting to local physical occurrences.
+- **Cognitive Escalation:** Dynamically increases the physical gravity (weight) of highly complex, abstract actions, forcing highly evolved entities to consume exponentially more calories.
+
+**Tag:** External-Implementation, Cognitive-Closure-Eradication, Thermodynamic-Weighting, Teleology-Composting, Intelligence-Demotionm, Goal-Taxation
