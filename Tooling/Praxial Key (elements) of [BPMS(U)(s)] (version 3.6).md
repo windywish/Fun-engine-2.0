@@ -2249,3 +2249,13 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 - **Cognitive Escalation:** Dynamically increases the physical gravity (weight) of highly complex, abstract actions, forcing highly evolved entities to consume exponentially more calories.
 
 **Tag:** External-Implementation, Cognitive-Closure-Eradication, Thermodynamic-Weighting, Teleology-Composting, Intelligence-Demotionm, Goal-Taxation
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Ambient Occurrence & Generic Recursion Engine'(-ing) BPMS]: ['The Targetless Reality Synthesizer'(-ing) BPMS]**
+
+**Scope of Application:**
+
+- **Baseline Tension Generation:** Procedurally generates the ambient physical threats and opportunities that entities must respond to in order to survive, completely decoupled from narrative scripts.
+- **Targetless Ecosystem Autopoiesis:** Ensures that non-player flora, fauna, and economic algorithms evolve, trade, and compost themselves recursively even if zero players are logged in.
+- **Continuous Paradigm Actuation:** Enforces the "No Endings" rule; when a massive Swarm War ends, the engine immediately utilizes the thermodynamic fallout to spawn the next generic occurrence.
+
+**Tag:** External-Implementation, Ambient-Occurrence, Continuous-Paradigm, Generic-Recursion, Targetless-Ecosystem, Sustainable-Perpetuation
