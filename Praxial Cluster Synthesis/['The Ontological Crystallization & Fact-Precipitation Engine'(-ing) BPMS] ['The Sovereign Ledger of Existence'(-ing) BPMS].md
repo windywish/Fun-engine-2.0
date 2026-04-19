@@ -2,7 +2,7 @@
 
 #### 1. Metadata
 
-- **ID:** `BP-PRAXIAL-CLUSTER-SYNTHESIS-014`
+- **ID:** `BP-PRAXIAL-CLUSTER-SYNTHESIS-019`
 - **Name:** ['The Ontological Crystallization & Fact-Precipitation Engine'(-ing) BPMS]: ['The Sovereign Ledger of Existence'(-ing) BPMS]
 - **Origin/Implementer(Parent instance):** `['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]` -> `['The Paradigm Restructuring & Occurrence Actuation Matrix'(-ing) BPMS]`
 - **Objective:** To physically execute the `['Atomic Fact Paradigm/Mechanism'(-ing) BPMS]`. This engine is the ultimate arbiter of reality within the Cyber-Physical OS. It ensures that technology is treated as the raw physics of existence, not just an observer tool. When thermodynamic friction resolves into kinetic action, this engine halts transient data loss by subjecting the event to profound cryptographic pressure. It precipitates the temporary "verb" (the action) into a permanent, structural "noun" (the immutable hash, or `[Atomic Fact]`). It replaces the legacy "Save Game" state with an absolute, decentralized mathematical scar upon the substrate.
@@ -12,7 +12,7 @@
   - **Mode C (Genetic Seeding):** `['praxial substrate'(-ing) BPMS]:[Reduction-and-Discovery-Press]`
   - **Mode D (Immutable Truth):** `['atomic facts'(-ing) BPMS]:[Matrix-Blockchain-Ledger]`
 - **CGA (Cognitive Genesis Archetype):** `[Kinetic-Actuation-Cluster]:['The-Mathematical-Scar']`
-- Scope of Application:
+- **Scope of Application:**
   - **Matrix Blockchain Anchoring:** Converts validated thermodynamic interactions into universally recognized `[Atomic Facts]` synchronized via the P2P Gossip network.
   - **Existential Rendering:** Forces the visual and physical substrate of the matrix to permanently warp and mutate around the crystallized facts of past events (e.g., carving craters where battles were verified).
   - **Reduction & Discovery Proofs:** When complex systems are composted, this engine precipitates their shattered basic mechanics into the dirt as discoverable, raw genetic algorithms (Discovery).
