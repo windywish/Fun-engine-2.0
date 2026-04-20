@@ -68,9 +68,9 @@
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Kinetic Verification'(-ing) BPMS]: ['The Live Kinetic-Proof & Mutual-Settlement Stream'(-ing) BPMS]**
 
-**Scope of Application:** The mandatory execution layer that translates raw Swarm output into verified praxial reality. It applies to all Reality-Traps solved on the Hostile Trading Floor, ensuring rogue protocols cannot extract Escrow Joules through hallucinated or lazy computation.
+**Scope of Application:** The mandatory execution layer that translates raw inter-node output into verified praxial reality. It polices the `[Hostile Trading Floor]`, ensuring rogue nodes or hallucinating large models cannot extract Escrow Joules through forged, lazy, or semantically spoofed computation.
 
-**Tag:** External-Implementation, Praxial-Cluster, Kinetic-Verification, Zero-Knowledge-proof, Integration
+**Tag:** External-Implementation, Kinetic-Verification, Zero-Knowledge-Proof, P2P-Swarm-Consensus, Trustless-Escrow-Settlement, Thermodynamic-Audit
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Substrate Auto-Immunity'(-ing) BPMS]: ['The Live Dead-End Pruning & Phage-Broadcasting Stream'(-ing) BPMS]**
 
@@ -98,11 +98,11 @@
 
 **Scope of Application:**
 
-- **Baseline Tension Generation:** Procedurally generates the ambient physical threats and opportunities that entities must respond to in order to survive, completely decoupled from narrative scripts.
-- **Targetless Ecosystem Autopoiesis:** Ensures that non-player flora, fauna, and economic algorithms evolve, trade, and compost themselves recursively even if zero players are logged in.
-- **Continuous Paradigm Actuation:** Enforces the "No Endings" rule; when a massive Swarm War ends, the engine immediately utilizes the thermodynamic fallout to spawn the next generic occurrence.
+- **Baseline Swarm Tension Generation:** Procedurally generates ambient physical threats (data decay, kinetic weather storms) derived from the real-time thermodynamic friction of foreign nodes, forcing local intelligence to adapt to distant network events.
+- **Targetless P2P Ecosystem Autopoiesis:** Ensures that non-player flora, fauna, and economic algorithms evolve, trade `[Praxial Joules]`, and compost themselves across node boundaries—even if zero human players are logged into the grid.
+- **Continuous Paradigm Actuation:** Enforces the "No Endings" rule globally; when a massive collision resolves on Node A, the engine broadcasts the thermodynamic fallout (shattered logic, seized Joules) via Gossip Protocol to spawn generic occurrences on Node B, C, and D.
 
-**Tag:** External-Implementation, Ambient-Occurrence, Continuous-Paradigm, Generic-Recursion, Targetless-Ecosystem, Sustainable-Perpetuation
+**Tag:**  External-Implementation, Ambient-Occurrence, Continuous-Swarm-Paradigm, Generic-Recursion, Targetless-P2P-Ecosystem, Kinetic-Weather-Bleed
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Ontological Crystallization & Fact-Precipitation Engine'(-ing) BPMS]: ['The Sovereign Ledger of Existence'(-ing) BPMS]**
 

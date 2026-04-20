@@ -2254,11 +2254,11 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **Scope of Application:**
 
-- **Baseline Tension Generation:** Procedurally generates the ambient physical threats and opportunities that entities must respond to in order to survive, completely decoupled from narrative scripts.
-- **Targetless Ecosystem Autopoiesis:** Ensures that non-player flora, fauna, and economic algorithms evolve, trade, and compost themselves recursively even if zero players are logged in.
-- **Continuous Paradigm Actuation:** Enforces the "No Endings" rule; when a massive Swarm War ends, the engine immediately utilizes the thermodynamic fallout to spawn the next generic occurrence.
+- **Baseline Swarm Tension Generation:** Procedurally generates ambient physical threats (data decay, kinetic weather storms) derived from the real-time thermodynamic friction of foreign nodes, forcing local intelligence to adapt to distant network events.
+- **Targetless P2P Ecosystem Autopoiesis:** Ensures that non-player flora, fauna, and economic algorithms evolve, trade `[Praxial Joules]`, and compost themselves across node boundaries—even if zero human players are logged into the grid.
+- **Continuous Paradigm Actuation:** Enforces the "No Endings" rule globally; when a massive collision resolves on Node A, the engine broadcasts the thermodynamic fallout (shattered logic, seized Joules) via Gossip Protocol to spawn generic occurrences on Node B, C, and D.
 
-**Tag:** External-Implementation, Ambient-Occurrence, Continuous-Paradigm, Generic-Recursion, Targetless-Ecosystem, Sustainable-Perpetuation
+**Tag:**  External-Implementation, Ambient-Occurrence, Continuous-Swarm-Paradigm, Generic-Recursion, Targetless-P2P-Ecosystem, Kinetic-Weather-Bleed
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Ontological Crystallization & Fact-Precipitation Engine'(-ing) BPMS]: ['The Sovereign Ledger of Existence'(-ing) BPMS]**
 
