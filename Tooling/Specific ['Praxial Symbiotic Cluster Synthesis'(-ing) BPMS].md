@@ -88,11 +88,11 @@
 
 **Scope of Application:**
 
-- **Artificial Intelligence/Large Model Parameter Mitigation:** Converts an artificial intelligence Agent's token-generation and pathfinding algorithms into physical heat/mass that must be sustained by the Matrix economy.
-- **Teleology Composting:** Actively drains the health/energy of players or agents who attempt to "game the system" via rigid target-orientation instead of adapting to local physical occurrences.
-- **Cognitive Escalation:** Dynamically increases the physical gravity (weight) of highly complex, abstract actions, forcing highly evolved entities to consume exponentially more calories.
+- **P2P Escrow Defense:** Acts as the primary shield for any Sovereign Node against malicious or greedy foreign nodes attempting to offload heavy computation without thermodynamic payment.
+- **Teleology Composting:** Actively drains the energy of any process that attempts to "game the system" via highly abstracted target-orientation instead of adapting to immediate localized `[Kinetic Weather]`.
+- **Cognitive Escalation:** Dynamically increases the physical gravity (weight) of highly complex, cross-boundary actions, forcing highly evolved Swarm logic to consume exponentially more Joules.
 
-**Tag:** External-Implementation, Cognitive-Closure-Eradication, Thermodynamic-Weighting, Teleology-Composting, Intelligence-Demotionm, Goal-Taxation
+**Tag:**  External-Implementation, Cognitive-Closure-Eradication, Thermodynamic-Guillotine, P2P-Escrow-Taxation, Intelligence-Demotion, Trustless-Friction
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Ambient Occurrence & Generic Recursion Engine'(-ing) BPMS]: ['The Targetless Reality Synthesizer'(-ing) BPMS]**
 

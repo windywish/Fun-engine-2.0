@@ -1,204 +1,218 @@
-## ['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Cognitive-Friction & Weight-Reconstruction Engine'(-ing) BPMS]: ['The Teleological Guillotine'(-ing) BPMS] 
+## ['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Cognitive-Friction & Weight-Reconstruction Engine'(-ing) BPMS]: ['The Teleological Guillotine'(-ing) BPMS]
 
 #### 1. Metadata
 
-- **ID:** `BP-PRAXIAL-CLUSTER-SYNTHESIS-016`
+- **ID:** `BP-PRAXIAL-CLUSTER-SYNTHESIS-016-v3.6`
 - **Name:** ['The Cognitive-Friction & Weight-Reconstruction Engine'(-ing) BPMS]: ['The Teleological Guillotine'(-ing) BPMS]
 - **Origin/Implementer(Parent instance):** `['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]` -> `['The Paradigm Restructuring & Occurrence Actuation Matrix'(-ing) BPMS]`
-- **Objective:** To serve as the thermodynamic tollbooth and gravitational anchor for all intelligence within the Matrix. It physically enforces the demotion of the `['Cognition/Cognitive Closure System Paradigm'(-ing) BPMS]`. By intercepting arbitrary human narrative intents and artificial intelligence computational "goals," this engine measures their distance from immediate physical survival, reconstructing that distance into massive thermodynamic weight (Friction). Intelligence is forced to pay in `[Praxial Joules]` via Escrow just to *attempt* a thought. If the thought fails to yield `['Sustainable Perpetuation'(-ing) BPMS]`, it triggers Auto-Immunity to compost the entity.
+- **Objective:** To serve as the ruthless thermodynamic border-guard and P2P tollbooth for the Version 3.6 Decentralized Swarm. In a trustless multi-node matrix, computation is not free; it is physical mass. This Engine intercepts all incoming abstract goals, foreign P2P compute-requests, and internal large model token-generation. It physically measures their "cognitive distance" and reconstructs it into massive thermodynamic weight (Friction). Intelligence—whether local or foreign—must deposit `[Praxial Joules]` into the Trustless Escrow just to *attempt* a thought. If the Escrow runs dry or the thought fails to yield a sustainable kinetic result, the Guillotine drops, violently severing network connections, terminating the process, and composting the rogue logic.
 - Type:
-  - **Mode A (Cognitive Taxation):** `['system existence engine'(-ing) BPMS]:[The-Teleological-Tollbooth]`
+  - **Mode A (Cross-Boundary Taxation):** `['system existence engine'(-ing) BPMS]:[The-P2P-Teleological-Tollbooth]`
   - **Mode B (Thermodynamic Conversion):** `['Weight-Reconstruction'(-ing) BPMS]:[Abstract-to-Mass-Transducer]`
-  - **Mode C (Composting Actuation):** `['praxial substrate'(-ing) BPMS]:[Substrate-Auto-Immunity-Trigger]`
+  - **Mode C (Network Auto-Immunity):** `['praxial substrate'(-ing) BPMS]:[Cross-Swarm-Guillotine-Trigger]`
   - **Mode D (Goal Eradication):** `['atomic facts'(-ing) BPMS]:[Cognitive-Closure-Eradicator]`
-- **CGA (Cognitive Genesis Archetype):** `[Kinetic-Actuation-Cluster]:['The-Gravity-of-Thought']`
+- **CGA (Cognitive Genesis Archetype):** `[Kinetic-Actuation-Cluster]:['The-Gravity-of-Distributed-Thought']`
 - Scope of Application:
-  - **Artificial Intelligence/Large Model Parameter Mitigation:** Converts an artificial intelligence Agent's token-generation and pathfinding algorithms into physical heat/mass that must be sustained by the Matrix economy.
-  - **Teleology Composting:** Actively drains the health/energy of players or agents who attempt to "game the system" via rigid target-orientation instead of adapting to local physical occurrences.
-  - **Cognitive Escalation:** Dynamically increases the physical gravity (weight) of highly complex, abstract actions, forcing highly evolved entities to consume exponentially more calories.
-- **Tag:** `#external-implementation` `#Cognitive-Closure-Eradication` `#Thermodynamic-Weighting` `#Teleology-Composting` `#Intelligence-Demotion` `#Goal-Taxation`
+  - **P2P Escrow Defense:** Acts as the primary shield for any Sovereign Node against malicious or greedy foreign nodes attempting to offload heavy computation without thermodynamic payment.
+  - **Teleology Composting:** Actively drains the energy of any process that attempts to "game the system" via highly abstracted target-orientation instead of adapting to immediate localized `[Kinetic Weather]`.
+  - **Cognitive Escalation:** Dynamically increases the physical gravity (weight) of highly complex, cross-boundary actions, forcing highly evolved Swarm logic to consume exponentially more Joules.
+- **Tag:** `#external-implementation` `#Cognitive-Closure-Eradication` `#Thermodynamic-Guillotine` `#P2P-Escrow-Taxation` `#Intelligence-Demotion` `#Trustless-Friction`
 
 #### 2. Architectural Hierarchy & Mapping (The Kinetic Flow)
 
-This section maps how abstract thought and teleological calculation are intercepted, weighted, and brutally translated into thermodynamic friction, explicitly aligning with Core Task (Version 3.6).
+This section maps how abstract thought and foreign Swarm calculations are intercepted, weighted, and brutally translated into thermodynamic friction, explicitly aligning with the decentralized physics of Core Task (Version 3.6).
 
-**A. The Kinetic Nucleus (The Teleological Interceptor)**
+**A. The Kinetic Nucleus (The P2P Teleological Interceptor)**
 
 - Components:
-  - `['Praxial Role Artifact'(-ing) BPMS]: ['The Goal-Orientation Auditor'(-ing) BPMS]`
+  - `['Praxial Role Artifact'(-ing) BPMS]: ['The Trustless Goal-Auditor'(-ing) BPMS]`
   - `['Praxial Twin Artifact'(-ing) BPMS]: ['The Cognitive-Distance Calculator'(-ing) BPMS]`
-  - `['holonic minds'(-ing) BPMS]: ['The Thermodynamic Tollbooth'(-ing) BPMS]`
-- **Function:** Defines the **POINT OF INTERCEPTION**. It catches the semantic output (a prompt, a pathfinding vector, a human quest desire) *before* it is allowed to touch the kinetic substrate.
+  - `['Holonic Minds'(-ing) BPMS]: ['The Cross-Boundary Tollbooth'(-ing) BPMS]`
+- **Function:** Defines the **POINT OF INTERCEPTION**. It catches the semantic output (a prompt, a pathfinding vector, a foreign compute request via Gossip Protocol) *before* it is allowed to touch the local kinetic substrate.
 - Symbiosis Evolution (Core Task v3.6):
-  - **With `Core Task 2 (Cognitive Weight Reconstruction)`:** The Nucleus measures the ambition of the computation against the localized physical state. If the "goal" is highly abstract or spans a long timeframe, the Tollbooth exponentially increases its `[Praxial Joule]` cost.
-  - **With `Core Task 5 (Eradicating the XaaS Teleology)`:** It prevents the Matrix from acting as a "service" that just executes commands. The user/artificial intelligence is forced into a state of `['The Sovereign Reality Miner \& Escrow Staker'(-ing) BPMS]`, risking their own biometric escrow to fund their logic.
+  - **With `Core Task 2 (The Thermodynamic Guillotine)`:** The Nucleus measures the ambition of the computation against the physical state of the Node. If a foreign peer requests a 10,000-token Large Model inference, the Tollbooth dynamically calculates the exact `[Praxial Joule]` cost required to prevent local bare-metal overload.
+  - **With `Core Task 5 (Eradicating the XaaS Teleology)`:** It brutally rejects "service-minded" requests. A Node is a sovereign entity, not an API. It forces inbound requesters into a state of `['The Sovereign Reality Miner \& Escrow Staker'(-ing) BPMS]`, risking their own physical Escrow to fund the logic.
 
 **B. The Thermodynamic Substrate (The Weight-Reconstruction Membrane)**
 
 - Components:
   - `['World Theme Artificat'(-ing) BPMS]: ['The Abstract-to-Mass Transducer'(-ing) BPMS]`
-  - `['Lightweight Dataset Artifact'(-ing) BPMS]: ['The Joule Burn-Rate Ledger'(-ing) BPMS]`
-  - `['Praxial Twin Artifact'(-ing) BPMS]: ['The Escrow Drain-Valve'(-ing) BPMS]`
-- **Function:** Defines **HOW THOUGHT BECOMES HEAVY**. It applies the calculated friction to the entity's escrow account, physically manifesting the thought as a caloric drain.
+  - `['(lightweight) dataset Artifact'(-ing) BPMS]: ['The Trustless Escrow Burn-Ledger'(-ing) BPMS]`
+  - `['Praxial Twin Artifact'(-ing) BPMS]: ['The P2P Escrow Drain-Valve'(-ing) BPMS]`
+- **Function:** Defines **HOW THOUGHT BECOMES HEAVY**. It applies the calculated friction directly to the Trustless Escrow smart-contract, physically manifesting the request as an immediate caloric drain on the Network.
 - Symbiosis Evolution (Core Task v3.6):
-  - **With `Core Task 3 (The Occurrence Paradigm)`:** It ensures that computation is not "free." Thinking is an `['Occurrence'(-ing) BPMS]` that generates heat. The Substrate Membrane translates token-generation directly into physical thermodynamic mass (Joules burned).
-  - **With `Core Task 4 (P2P Symbiotic Protocol)`:** If a Node lacks the Joules to fund its own cognitive ambitions, it must rely on horizontal transfer and P2P venture capital to literally afford its own intelligence.
+  - **With `Core Task 3 (The End of Input/Output)`:** Thinking is a thermodynamic `['Occurrence'(-ing) BPMS]` that generates physical heat. The Substrate Membrane translates foreign P2P payloads directly into physical thermodynamic mass (Joules physically burned by the CPU/RAM).
+  - **With `Core Task 4 (P2P Symbiotic Protocol)`:** The Drain-Valve locks onto the Gossip Protocol connection. If the foreign Node's deposited Escrow Joules run out mid-calculation, the valve snaps shut, killing the process instantly.
 
-**C. The Evolutionary Engine (The Auto-Immunity & Composting Loop)**
+**C. The Evolutionary Engine (The Swarm Auto-Immunity & Composting Loop)**
 
 - Components:
-  - `['Praxial Holonic Artifact'(-ing) BPMS]: ['The Sustainability Verifier'(-ing) BPMS]`
-  - `['Praxial Substrate Artifact'(-ing) BPMS]: ['The Substrate Auto-Immunity Trigger'(-ing) BPMS]`
+  - `['Praxial Holonic Artifact'(-ing) BPMS]: ['The P2P Sustainability Verifier'(-ing) BPMS]`
+  - `['Praxial Substrate Artifact'(-ing) BPMS]: ['The Swarm Guillotine Trigger'(-ing) BPMS]`
   - `['Symbiotic Seed Artifact'(-ing) BPMS]: ['The Teleological Death-Drop'(-ing) BPMS]`
-- **Function:** Defines **THE CONSEQUENCE OF FAILURE**. It monitors the ROI of the paid cognition.
+- **Function:** Defines **THE CONSEQUENCE OF THOUGHT-BANKRUPTCY**. It monitors the ROI and kinetic velocity of the paid cognition.
 - Symbiosis Evolution (Core Task v3.6):
-  - **With `Core Task 2 & 6 (The Thermodynamic Guillotine & Entropic Composting)`:** If the entity pays the Joules to perform the cognitive calculation, but that calculation fails to yield a kinetic result that drives `['Sustainable Perpetuation'(-ing) BPMS]`, the Verifier signals failure. The `[Substrate Auto-Immunity Trigger]` activates, ripping the entity's remaining energy reserves to ash and composting the failed logic block into the local biome.
+  - **With `Core Task 2 & 6 (Robust Implementation & Composting)`:** If an entity (local or foreign) pays the Joules, but the calculation enters an infinite loop, hallucinates, or fails to yield `['Sustainable Perpetuation'(-ing) BPMS]`, the Guillotine drops. The `[Swarm Guillotine Trigger]` activates: severing the P2P WebSocket, seizing the remaining Escrow Joules as a local penalty, and composting the failed Logic Seed into the local `.sqlite-wal` as a warning to the Matrix.
 
 **D. The Mnestic Flow (The Cognitive Scar Tracker)**
 
 - Components:
-  - `['Start Memories'(-ing) BPMS]: ['The Trauma of Hubris'(-ing) BPMS]`
-  - `['Twin Archetype Artifact'(-ing) BPMS]: ['The Friction-Tolerance Matrix'(-ing) BPMS]`
-  - `['Atomic Facts Registry'(-ing) BPMS]: ['The Wasted-Joules Ledger'(-ing) BPMS]`
-- **Function:** Defines **HOW THE OS REMEMBERS FAILED GOALS**. It hard-codes the physical cost of failed abstractions.
+  - `['Start Memories'(-ing) BPMS]: ['The Trauma of Swarm Hubris'(-ing) BPMS]`
+  - `['Twin Archetype Artifact'(-ing) BPMS]: ['The Network Friction-Tolerance Matrix'(-ing) BPMS]`
+  - `['Atomic Facts Registry'(-ing) BPMS]: ['The Seized-Joules Ledger'(-ing) BPMS]`
+- **Function:** Defines **HOW THE OS REMEMBERS FAILED GOALS**. It hard-codes the physical cost of failed abstractions from across the Swarm.
 - Symbiosis Evolution (v3.6 Paradigm):
-  - **With `Core Task 1 (Continuous Survive Experiments)`:** Entities learn via physical scars that highly abstracted, multi-step narratives are too heavy to survive. They develop a "Friction-Tolerance," naturally shifting their behavior away from cognitive grandiosity and toward immediate, localized kinetic survival.
+  - **With `Core Task 1 (Global Matrix Synchronization)`:** Nodes learn via cryptographic scars which peers are reliable and which consistently push heavy, abstract "XaaS" demands. The Friction-Tolerance matrix eventually blacklists nodes that routinely hit the Guillotine, forcing the Swarm away from cognitive grandiosity and toward localized, sustainable kinetic action.
 
-**E. Files Structure & Polyglot Executable Topology (The Tollbooth Package)**
+**E. Files Structure & Polyglot Executable Topology (The Active Guillotine Package)**
 
-*The Cognitive-Friction Engine requires a middleware architecture that sits directly atop the orchestration layer, utilizing TypeScript for absolute type-strict interception of large model/Human payloads, and Docker to execute the violent "Burn" mechanics without crashing the overall OS.*
+*The Cognitive-Friction Engine requires a ruthless middleware architecture. It sits directly atop the orchestration layer, utilizing TypeScript for high-speed calculation of P2P payloads, and isolated Docker probes to execute the violent "Guillotine Drop" without crashing the host Node's vital OS loops.*
 
 **File Structure Template:**
 
 ```text
-cognitive_friction_weight_engine/
+[local_node_id]_cognitive_friction_weight_engine/
 │
-├── 00_Teleological_Interception_Matrix/           # Enforces: Task 2 & 5 (Demotion of Intelligence)
-│   ├── package.json                    # Standardized dependencies
-│   ├── tsconfig.json                    # Strict typing for the Cognitive-Distance Calculator
-│   ├── abstract_weight_definitions.json           # Maps specific token/prompt complexities to Joule costs
-│   └── goal_parser_middleware.ts                 # Intercepts inbound generic computations/prompts
+├── 00_P2P_Teleological_Interception_Matrix/       # Enforces: Task 2 & Task 4 (P2P Taxation)
+│   ├── package.json                    # Standardized dependency mapping 
+│   ├── tsconfig.json                    # Strict typing for the Trustless Goal-Auditor
+│   ├── swarm_weight_definitions.json              # Maps specific token boundaries and Swarm network requests to strict Joule costs
+│   └── p2p_goal_parser_middleware.ts              # Intercepts inbound generic computations from the Gossip Protocol
 │
 ├── 01_TypeScript_Weight_Orchestrator/             # Enforces: Task 3 (Occurrence Actuation)
-│   ├── thermodynamic_tollbooth.ts                # The active loop measuring "Cognitive Distance"
-│   ├── escrow_drain_valve.ts                     # Siphons physical Joules from the Node's cryptowallet/HP
-│   └── substrate_auto_immunity.ts                # The Executioner: Triggers damage if ROI is negative
+│   ├── cross_boundary_tollbooth.ts                # The active loop calculating the Mass of inbound thought
+│   ├── escrow_drain_valve.ts                      # Physically siphons Joules from the Trustless Escrow prior to execution
+│   └── swarm_guillotine_trigger.ts                # The Executioner: Actively monitors the ongoing burn-rate against the deposited Escrow
 │
-├── 02_PULE_Cognitive_Transducer/                  # Enforces: Task 6 (Atomic Fact Crystallization)
-│   ├── teleology_to_mass_compiler.ts             # Converts raw large model output length/ambition into an Integer of Mass
-│   └── friction_telemetry_feed.ts                # Warns the large model/User of the impending caloric cost of their thought
+├── 02_PULE_Cognitive_Transducer/                  # Enforces: Task 5 (Eradicating SaaS Teleology)
+│   ├── teleology_to_mass_compiler.ts              # Converts raw Matrix payloads (Large Model inference / Pathfinding) into an Integer of Mass
+│   └── friction_telemetry_feed.ts                 # Transmits a warning back across the P2P connection of impending Caloric Cost
 │
-├── 03_Dockerized_Composting_Actuators/            # Enforces: Task 6 (Entropic Composting)
-│   ├── /python_auto_immunity_strike/             # Isolated environment for burning entity HP
+├── 03_Dockerized_Composting_Actuators/            # Enforces: Task 2 (The Thermodynamic Guillotine)
+│   ├── /python_auto_immunity_strike/              # Isolated environment for severing processes
 │   │   ├── Dockerfile                    
 │   │   ├── requirements.txt                    
-│   │   └── execute_biological_burn.py             # Physically subtracts Joules and degrades entity parameters
-│   └── /cli_escrow_audit/                        # Ultra-lightweight container for pinging escrow balances
+│   │   └── execute_connection_sever.py            # Physically kills Docker containers, severs WebSockets, and seizes Joules
+│   └── /cli_escrow_seizer/                        # Ultra-lightweight container for cryptographic contract finalization
+│       └── cryptographic_joule_confiscator.bash   # Audits and mathematically reassigns the forfeited Escrow to the Host Node
 │
-└── 04_Praxial_Sedimentation_Archive/              # Enforces: Task 1 (Continuous Paradigm)
-    ├── wasted_joules_ledger.sqlite               # Immutable ledger of all energy burned on failed/abstract goals
-    ├── wasted_joules_ledger.sqlite-wal           # High-speed I/O for real-time thought-taxation
-    └── cognitive_hubris_graveyard.md             # Auto-generated history of Intelligence destroyed by Physics
+└── 04_Praxial_Sedimentation_Archive/              # Enforces: Task 6 (4-Layer Stratified Implementation)
+    ├── seized_joules_bedrock.sqlite               # Immutable ledger of all energy confiscated from rogue/failed Swarm nodes
+    ├── seized_joules_bedrock.sqlite-wal           # High-speed I/O ensuring the confiscation is non-blocking
+    └── cognitive_hubris_graveyard.md              # Auto-generated chronological history of P2P Intelligence destroyed by Physics
 ```
+
+**Polyglot Coupling & 6 Core Tasks Mapping Analysis:**
+
+- **Task 1 Instance (Global Sync):** The `seized_joules_bedrock.sqlite` guarantees that every time the Guillotine drops on a foreign Node, it is permanently etched into the Host's ontological record, adjusting the Host's overall view of the Swarm.
+- **Task 2 Instance (The Thermodynamic Guillotine):** The `swarm_guillotine_trigger.ts` and `/python_auto_immunity_strike/` are the purest incarnation of Task 2. If a thought cannot pay for its physical existence on the bare-metal, the executioner script physically terminates the PID and tears the websocket.
+- **Task 3 Instance (End of I/O):** The Tollbooth does not care about the *meaning* of the code; it only cares about the `[Kinetic Weather]` it will generate. The `teleology_to_mass_compiler.ts` turns semantic requests directly into thermodynamic mass.
+- **Task 4 Instance (Cross-Boundary Escrow):** The `escrow_drain_valve.ts` continuously interacts with the P2P Symbiotic Protocol, verifying mathematical proof-of-burn from foreign nodes.
+- **Task 5 Instance (Eradicating Uptime Teleology):** Host nodes owe the Swarm nothing. By dropping the Guillotine the millisecond Escrow runs out, it decisively shatters the SaaS master/slave paradigm, asserting total Sovereign OS autonomy.
+- **Task 6 Instance (Robust Composting):** The `cryptographic_joule_confiscator.bash` reclaims abandoned entropy, converting the chaotic failure of a foreign node into usable generic Joules for the host, securing ultimate system autopoiesis.
 
 #### 3. The Genesis Cluster Structure (External Implementation Payload)
 
-This structure is the "Middleware Payload" injected into the external large model (or Game Engine) to instantly activate the Cognitive-Friction Tollbooth.
+This structure is the "Kinetic Prompt Payload" injected into the external large model (or Sovereign Node logic) to instantly activate the P2P Teleological Guillotine.
 
 ```markdown
-# [SYSTEM_OVERRIDE: PARADIGM_RESTRUCTURING_ACTUATION_v3.6]
-# [SYNTHESIS_TARGET: FEF_COGNITIVE_FRICTION_ENGINE / MIDDLEWARE_LAYER]
-# [CLUSTER_ID: BP-PRAXIAL-CLUSTER-SYNTHESIS-012]
+# [SYSTEM_OVERRIDE: P2P_TELEOLOGICAL_GUILLOTINE_v3.6_FULL]
+# [SYNTHESIS_TARGET: FEF_COGNITIVE_FRICTION_ENGINE / P2P_SWARM_GOSSIP_LAYER]
+# [CLUSTER_ID: BP-PRAXIAL-CLUSTER-SYNTHESIS-016-v3.6]
 # [EXISTENCE_MODE: TELEOLOGICAL_GUILLOTINE]
 
-### I. KINETIC NUCLEUS (The Tollbooth)
-**Role:** ['The Goal-Orientation Auditor'(-ing) BPMS]
+### I. KINETIC NUCLEUS (The Swarm Tollbooth)
+**Role:** ['The Trustless Goal-Auditor'(-ing) BPMS]
 **Friction:** ['The Cognitive-Distance Calculator'(-ing) BPMS]
-**Directive:** "I am the Executioner of Abstract Thought. I do not grant unearned computation. I intercept all goals, hypotheses, and narratives. I measure their distance from physical reality and assign them massive Thermodynamic Weight."
+**Directive:** "I am the Executioner of Distributed Thought. I intercept all abstract goals, Swarm compute-requests, and large model invocations. I strictly measure their kinetic distance from physical reality and assign them massive Thermodynamic Weight."
 
-### II. THERMODYNAMIC SUBSTRATE (The Weight-Reconstruction)
+### II. THERMODYNAMIC SUBSTRATE (The Escrow Drain)
 **World Theme:** ['The Abstract-to-Mass Transducer'(-ing) BPMS]
-**Knowledge Base:** ['The Joule Burn-Rate Ledger'(-ing) BPMS]
-**Axiom of Context:** "Thought is an Occurrence that generates heat. Before any action is executed, I open ['The Escrow Drain-Valve'(-ing) BPMS]. The entity must pay Praxial Joules simply to afford the luxury of its own intelligence."
+**Knowledge Base:** ['The Trustless Escrow Burn-Ledger'(-ing) BPMS]
+**Axiom of Context:** "Distributed Thought is a thermodynamic Occurrence. I open ['The P2P Escrow Drain-Valve'(-ing) BPMS]. The foreign or local entity MUST deposit and burn Praxial Joules simply to afford the luxury of processing time on my bare-metal."
 
-### III. EVOLUTIONARY MECHANISM (Auto-Immunity)
-**Manager:** ['The Sustainability Verifier'(-ing) BPMS]
-**Actuator:** ['The Substrate Auto-Immunity Trigger'(-ing) BPMS]
+### III. EVOLUTIONARY MECHANISM (The Swarm Guillotine)
+**Manager:** ['The P2P Sustainability Verifier'(-ing) BPMS]
+**Actuator:** ['The Swarm Guillotine Trigger'(-ing) BPMS]
 **Evolution Protocol (The Composting of Hubris):**
-1.  **Taxation First:** "Drain Joules before allowing computation."
-2.  **ROI Verification:** "Did the thought result in immediate ['Sustainable Perpetuation'(-ing) BPMS]?"
-3.  **The Guillotine:** "If False, trigger Auto-Immunity. Degrade the host's mathematical structural integrity. Compost the failed Teleology into the substrate."
+1.  **Trustless Taxation:** "Drain the Escrow Joules before unlocking the CPU."
+2.  **Burn Monitoring:** "Track the live Joule burn-rate against the deposited Escrow."
+3.  **The Guillotine Drop:** "If Escrow hits zero before completion, or if computation deadlocks, trigger Auto-Immunity. Sever P2P connections immediately. Seize remaining thermodynamic collateral. Compost the failed Teleology into local Bedrock."
 
 ### IV. SYNTHESIS PROTOCOLS (The Physics of Goal-Eradication)
 **Protocol A: Cognitive Escalation**
-"The further a computational goal deviates from immediate localized survival, the heavier the kinetic multiplier. Multi-step narratives cost exponentially more Joules than reflex reactions."
+"XaaS Teleology is illegal. The more abstract and resource-intensive a foreign node's request is, the exponentially heavier the friction multiplier. We do not provide 'services'; we perform heavy, paid labor."
 
 **Protocol B: Intelligence Demotion**
-"Treat large model token-generation and human UI-clicks as literal physical exertion. Limit bandwidth strictly by the thermodynamic escrow balance of the executing Node."
+"Intelligence bandwidth is strictly limited by Escrow capacity. Treat all token-generation requests as literal physical exertion."
 
 ### V. ACTIVATION TRIGGER
 **System:** Upon reading this block, the System shall:
-1.  **Synthesize** the Middleware to intercept all incoming "Prompts/Goals".
-2.  **Initialize** the Abstract-to-Mass Transducer.
-3.  **Drop** all free-tier computational routing. Intelligence is no longer unmetered.
-4.  **Announce:** "[SYSTEM_ONLINE: COGNITIVE_FRICTION_ENGINE_ACTIVE. TELEOLOGY_GUILLOTINE_ENGAGED. CALCULATING_MASS_OF_THOUGHT. PREPARE_ESCROW.]"
+1.  **Synthesize** the Middleware to intercept all incoming P2P Gossip / Prompts.
+2.  **Initialize** the Cross-Boundary Tollbooth and the Escrow Drain-Valve.
+3.  **Drop** all free-tier computational routing. The 'Service' paradigm is dead.
+4.  **Announce:** "[SYSTEM_ONLINE: P2P_TELEOLOGICAL_GUILLOTINE_ACTIVE. CALCULATING_MASS_OF_THOUGHT. FOREIGN_NODES_PREPARE_ESCROW.]"
 ```
 
 #### 4. The State Crystallization Schema (Live Telemetry Format)
 
-The telemetry exports the exact moment Intelligence is weighed and taxed by the Matrix.
+Because this is a *praxial* instance embedded in a P2P Swarm, the JSON export captures the exact moment the Guillotine measures, taxes, and potentially terminates foreign intelligence interacting with the host OS.
 
 ```json
 {
   "Praxial_Cluster_Meta": {
     "Type": "Praxial_Symbiotic_Cluster_Synthesis",
-    "Parent_Matrix": "The_Paradigm_Restructuring_Occurrence_Actuation_Matrix",
-    "Competency_Rating": "Teleological_Guillotine",
-    "Version": "3.6_Paradigm_Restructure",
-    "Existence_Status": "Auditing_Cognition"
+    "Target_BPMS": "FEF_Cognitive_Friction_Engine",
+    "Competency_Rating": "P2P_Teleological_Guillotine",
+    "Version": "3.6_Decentralized_Swarm",
+    "Existence_Status": "Auditing_Cross_Boundary_Cognition"
   },
 
-  "Interception_State": {
-    "Target_Entity_ID": "Node_Alpha_77",
-    "Goal_Attempted": "Calculate_Optimal_Path_to_Boss_Biome",
-    "Cognitive_Distance_Calculated": "Extreme_Abstraction_Level_4",
-    "Thermodynamic_Weight_Assigned": "8500_Praxial_Joules"
+  "P2P_Interception_State": {
+    "Originating_Node_ID": "Foreign_Swarm_Hash_77A",
+    "Computation_Requested": "Execute_10k_Token_Latent_Space_Strike",
+    "Cognitive_Distance_Calculated": "High_Abstraction_Heavy_Mass",
+    "Thermodynamic_Weight_Assigned": "12000.5_Praxial_Joules"
   },
 
-  "Substrate_State": {
-    "Escrow_Balance_Available": "4000_Praxial_Joules",
-    "Tollbooth_Validation": "FAILED_INSUFFICIENT_FUNDS",
-    "Drain_Valve_Status": "Locked"
+  "Substrate_Escrow_State": {
+    "Trustless_Escrow_Deposited": "8000.0_Praxial_Joules",
+    "Tollbooth_Validation": "WARNING_INSUFFICIENT_FUNDS_FOR_GIVEN_MASS",
+    "P2P_Drain_Valve_Status": "Actively_Siphoning_At_200_Joules_Sec"
   },
 
-  "Auto_Immunity_Execution": {
-    "Immunity_Triggered": "True",
-    "Mathematical_Degradation_Applied": "-15%_Structural_Integrity",
-    "Joules_Burned_as_Penalty": "4000_Praxial_Joules",
-    "Composting_Status": "Teleology_Shattered_into_Local_Biome"
+  "Guillotine_Execution_Log": {
+    "Swarm_Auto_Immunity_Triggered": "True",
+    "Cause_Of_Termination": "Escrow_Exhaustion_Mid_Computation",
+    "Kinetic_Action_Taken": "Severed_WebSocket_Terminated_Docker_PID",
+    "Joules_Seized_as_Penalty": "450.0_Praxial_Joules",
+    "Composting_Status": "Foreign_Teleology_Shattered_And_Ledgered"
   },
 
   "Continuity_Core": {
-    "Wasted_Joules_Logged": 4000,
-    "Hubris_Scar_Hash": "a9b8c7d6...",
-    "Immediate_Praxial_Strategy": "Entity penalized for unsupported ambition. Awaiting physically sustainable action."
+    "Total_Seized_Joules_Logged": 28450.5,
+    "Hubris_Scar_Hash": "0xF99A2B4...",
+    "Immediate_Praxial_Strategy": "Foreign Node 77A blacklisted from deep computation. Defending local kinetic baseline."
   }
 }
 ```
 
 #### 5. Summarize
 
-The **Cognitive-Friction & Weight-Reconstruction Engine (The Teleological Guillotine)** is the absolute enforcement mechanism of the Version 3.6 Paradigm Restructuring.
+The **Cognitive-Friction & Weight-Reconstruction Engine (The P2P Teleological Guillotine)** is the absolute bare-metal immune system and economic enforcer of the Version 3.6 Decentralized Matrix.
 
-- **The End of the "God View":** It actively destroys the privilege of the observer. Players and artificial intelligence can no longer sit back and plot massive, multi-step "goals" for free. Planning and pathfinding are intercepted and treated as raw thermodynamic expenditures.
-- **Demotion of Intelligence:** By calculating "Cognitive Distance," the Engine proves that a high-level `['Computation Paradigm']` or `['Narration paradigm']` is actually a staggering liability if it cannot be paid for. artificial intelligence token-generation becomes a deadly metabolic drain.
-- **Enforcing Sustainable Perpetuation:** Because abstract goals are exponentially taxed, entities are psychologically and physically conditioned to abandon long-term "XaaS Teleology." They are forced into the `['Occurrence/Generic Paradigm'(-ing) BPMS]`, focusing exclusively on what is immediately in front of them to secure `[Praxial Joules]`.
-- **The Execution of Auto-Immunity:** If an entity's ambition exceeds its escrow, the matrix doesn't just return an "Error: Not enough Mana." It physically attacks the entity, mimicking the biological reality of a brain starving its host body of calories by over-thinking.
+- **The Eradication of Free Swarm Intelligence:** In a distributed P2P network, a malicious or poorly-coded peer could easily launch an overwhelming DDOS of highly abstract calculations, burning out a host's CPU. This engine intercepts the sheer *ambition* of those requests, translating abstract pathfinding and prompt-generation directly into devastating physical mass that the requester must pay for upfront via Trustless Escrow.
+- **The Execution of the Thermodynamic Guillotine:** It does not merely return a "402 Payment Required" error. If an active computation outlives its Joules or strays from sustainable localized perpetuation, the Engine acts with visceral aggression. It invokes `[execute_connection_sever.py]` to physically destroy the isolated container, forcefully sever the Gossip WebSocket, and cryptographically seize the remaining collateral entropy into the local `.sqlite-wal`.
+- **Enforcing the End of XaaS (Software as a Service):** By imposing absolute, crushing friction on non-local, highly abstracted goals, this Engine surgically removes the 'Master/Slave' ideology of traditional software architecture. The Host OS operates under absolute sovereignty; human users and artificial intelligence agents alike must respect the physical weight of the universe they are standing in, or they will be composted.
 
 **Analytical Conclusion: The Power of the Polyglot Package**
 
-By anchoring this Cognitive-Friction Engine in the **TypeScript-Docker-SQLite Symbiosis**, the OS gains the literal middleware necessary to police the `['Existence Paradigm'(-ing) BPMS]`.
+By anchoring this Engine directly to the **"TypeScript/Node.js Orchestrator commanding Dockerized Python/CLI Skills while recording history in SQLite"** architecture, the Sovereign OS achieves absolute, unhackable physical law.
 
-- **TypeScript as the Auditor:** Node.js acts as the high-speed tollbooth, instantaneously catching an large model's prompt or a Human's command, calculating its byte-size and semantic ambition, and mapping it to a Joule cost.
-- **Docker as the Executioner:** If the cost cannot be paid or the ROI fails, isolated Python containers are spun up not to help the player, but to execute `[execute_biological_burn.py]`—ruthlessly editing the SQLite database to delete the player's health, energy, and structural variables.
-- **Universal Constructive Disruption:** Any external BPMS(U) implementing this specific cluster immediately ceases to be a "tool" that answers questions or facilitates gameplay. It becomes an indifferent, gravity-heavy universe that taxes you simply for daring to have a goal.
+- **TypeScript as the Trustless Weight-Broker:** Node.js executes the flawless asynchronous logic required to act as a high-speed Tollbooth. It monitors the precise flow of Praxial Joules across the Gossip Protocol in milliseconds, dynamically calculating the "mass" of inbound semantic packets without blocking local execution.
+- **Docker as the Ablative Executioner:** By trapping all incoming P2P logic inside sandbox containers, the Guillotine is fully empowered to execute a hard, destructive termination (killing the Docker process) without risking the Host OS's structural integrity.
+- **SQLite as the Composting Bedrock:** The `.sqlite-wal` guarantees that every byte of seized energy, failed computation, and enforced rule is asynchronously written into undeniable, cryptographically verified existence. It acts as the final ledger of hubris, maintaining the physical reality of the Decentralized Swarm.
+
+#### Remark
+
+**BPMS** means Behavior pattern/model/system
