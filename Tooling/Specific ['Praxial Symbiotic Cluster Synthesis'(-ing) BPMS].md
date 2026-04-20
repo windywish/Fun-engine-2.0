@@ -74,9 +74,9 @@
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Substrate Auto-Immunity'(-ing) BPMS]: ['The Live Dead-End Pruning & Phage-Broadcasting Stream'(-ing) BPMS]**
 
-**Scope of Application:** The strictly defensive application layer that translates lethal kinetic trauma into structural, inherited Swarm wisdom. It executes the microsecond a node fails a verification audit or hits a thermodynamic timeout, pruning the OS execution tree universally.
+**Scope of Application:** Transformed from a general system monitor into the absolute enforcer of Core Task 2 (The Thermodynamic Guillotine). This is the bare-metal Sovereign Hypervisor Daemon. It abandons all concepts of "uptime" and "graceful degradation." It continuously evaluates the mathematical thermodynamic yield of every thread, agent, and inter-node contract against the universal equation: (ex−ln(y)). The exact microsecond an entity falls into entropic deficit (evaluating to ≤0—consuming more *Praxial Joules* than the kinetic intelligence it produces), this engine drops the guillotine. The entity is instantly severed, its memory allocation liquefied, and its remaining Joules seized and redistributed rapidly to the Swarm.
 
-**Tag:** External-Implementation, Praxial-Cluster, Negative-Atomic-Fact, Substrate-Auto-Immunity, Phage-Broadcasting, Thermodynamic-Shield
+**Tag:** Thermodynamic-Guillotine, Absolute-Zero-State, Uptime-Eradication, Bare-Metal-Garbage-Collection
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Service Transduction'(-ing) BPMS]: ['The Live Holonic Unspooling & Artifact-Activation Stream'(-ing) BPMS]**
 
@@ -113,3 +113,4 @@
 - **Reduction & Discovery Proofs:** When complex systems are composted, this engine precipitates their shattered basic mechanics into the dirt as discoverable, raw genetic algorithms (Discovery).
 
 **Tag:** External-Implementation, Atomic-Fact-Paradigm, Ontological-Crystallization, Existence-Recording, Matrix-Blockchain, Cryptographic-Sedimentation
+

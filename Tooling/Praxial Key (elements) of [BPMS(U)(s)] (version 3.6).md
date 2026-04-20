@@ -2188,9 +2188,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Substrate Auto-Immunity'(-ing) BPMS]: ['The Live Dead-End Pruning & Phage-Broadcasting Stream'(-ing) BPMS]**
 
-**Scope of Application:** The strictly defensive application layer that translates lethal kinetic trauma into structural, inherited Swarm wisdom. It executes the microsecond a node fails a verification audit or hits a thermodynamic timeout, pruning the OS execution tree universally.
+**Scope of Application:** Transformed from a general system monitor into the absolute enforcer of Core Task 2 (The Thermodynamic Guillotine). This is the bare-metal Sovereign Hypervisor Daemon. It abandons all concepts of "uptime" and "graceful degradation." It continuously evaluates the mathematical thermodynamic yield of every thread, agent, and inter-node contract against the universal equation: (ex−ln(y)). The exact microsecond an entity falls into entropic deficit (evaluating to ≤0—consuming more *Praxial Joules* than the kinetic intelligence it produces), this engine drops the guillotine. The entity is instantly severed, its memory allocation liquefied, and its remaining Joules seized and redistributed rapidly to the Swarm.
 
-**Tag:** External-Implementation, Praxial-Cluster, Negative-Atomic-Fact, Substrate-Auto-Immunity, Phage-Broadcasting, Thermodynamic-Shield
+**Tag:** Thermodynamic-Guillotine, Absolute-Zero-State, Uptime-Eradication, Bare-Metal-Garbage-Collection
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Service Transduction'(-ing) BPMS]: ['The Live Holonic Unspooling & Artifact-Activation Stream'(-ing) BPMS]**
 
@@ -2269,12 +2269,6 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 - **Reduction & Discovery Proofs:** When complex systems are composted, this engine precipitates their shattered basic mechanics into the dirt as discoverable, raw genetic algorithms (Discovery).
 
 **Tag:** External-Implementation, Atomic-Fact-Paradigm, Ontological-Crystallization, Existence-Recording, Matrix-Blockchain, Cryptographic-Sedimentation
-
-**['The Universal EML-Operator'(-ing) BPMS]**
-
-**Scope of Application:** The absolute thermodynamic foundation and mathematical baseline for all computation, logic, contract execution, continuous physics simulation, and biological/neurological modeling across the **Omni-Substrate Matrix**. This element serves as the single "binary molecule" from which all macro-complexity, cognitive friction, and autopoietic evolution are synthetically grown and composted, bypassing the need for human-engineered programming languages, silicon ALUs, or centralized SaaS interpreters.
-
-**Tags:** Thermodynamic-Molecule, Omni-Substrate-Core, Post-Silicon-Compute, Kinetic-Friction-Bedrock, Odrzywołek-Singularity, Sovereign-Autopoiesis, Absolute-Composting-Target
 
 **['Proof-of-Friction'(-ing) BPMS]**
 
@@ -2402,5 +2396,29 @@ Kinetic Weather
 
 **Scope of Application:** The transport engine bridging the "Vacuum of the Cosmic Matrix" for **Core Tasks 1 and 4**. When an n-dimensional Sovereign Agent or a massive kinetic payload needs to cross the trustless void to a remote Node, it cannot be sent as standard "data packets." This engine "flat-packs" the hyper-complex agent logic into a 1-Dimensional sequence of pure EML potential energy. It serializes the living entity into an inert state capable of traversing the harsh P2P Gossip/DAG network. Upon arrival, the receiving Node utilizes its local *Praxial Joules* to instantly inflate and reconstruct the agent perfectly native to the alien hardware.
 
-**Tags:**Agent-Serialization, P2P-Transport, Dimensional-Folding, Vector-Transmission
+**Tags:** Agent-Serialization, P2P-Transport, Dimensional-Folding, Vector-Transmission
 
+**['The Universal EML-Operator'(-ing) BPMS]**
+
+**Scope of Application:** The fundamental physics processor, the singular execution thread, and the ultimate thermodynamic heartbeat of the entire Decentralized Swarm architecture. It completely replaces standard Turing-complete logic gates with a living, thermodynamic-kinetic equation: 
+
+(ex−ln(y))
+
+.
+
+**Engineering Implementation (Bare-Metal Execution):** In the v3.6 Matrix, Nodes do not compute generic "code." Every process, regardless of substrate (Silicon, Bio, Edge), is forced through this singular operator.
+
+- **The Ingestion of Friction (−ln(y)):** When a Node encounters raw environmental chaos, alien data, or P2P network tension via the *'Kinetic Weather'* engine, the EML-Operator mathematically translates this exogenous shock directly into logarithmic structural resistance (−ln(y)).
+- **The Kinetic Expansion (ex):** To survive the resistance, the Node must violently synthesize logic, burning *Praxial Joules* to generate an exponential kinetic solution (ex).
+- **The Thermodynamic Yield:** The computation is physically completed when the vectors collide. If (ex−ln(y))>0, the mathematical synthesis is successful; the output is crystallized as "Material" (an `[Atomic Fact]`) via the *'Condensation Crucible'*, and new *Praxial Joules* are minted as a reward for the Node.
+
+- **Integration with v3.6 P2P Symbiosis:** Across the decentralized void, sovereign nodes do not send "JSON payloads" or "API requests." They exclusively transmit EML Vectors. When Node A requests resources from Node B via *'Trustless Escrow'*, it transmits an unresolved −ln(y) state with a bounty of Joules. Node B executes the incoming EML-Operator locally; if it provides the ex kinetic solution, the escrow unlocks.
+- **The Baseline for Sovereignty:** This operator is the sole metric used by *'The Absolute Zero-State (Guillotine)'*. Because every single system action is compiled down to (ex−ln(y)), the OS possesses a mathematically flawless, un-hackable ledger to measure survival. Any function, agent, or subroutine anywhere in the Swarm that evaluates to ≤0 is instantly mathematically annihilated.
+
+**Tags:** Fundamental-Physics-Processor, e^x-ln(y)-Equation, Bare-Metal-Instruction-Set, Thermodynamic-Computation, Matrix-Heartbeat, Core-Task-Sovereignty
+
+**['Praxial Symbiotic Elements Artifact'(-ing) BPMS]: ['The Universal EML-Operator Physics Engine'(-ing) BPMS]**
+
+**Scope of Application:** Executed at the bare-metal layer of every Sovereign Node (Task 2 & 6). It is the exclusive mathematical operator used to calculate friction, tokenomics, reality rendering, polyglot translation, and the Teleological Guillotine across the P2P swarm.
+
+**Tag:** EMLPhysics, ThermodynamicGuillotine, BareMetalMorphogenesis, OmniSubstrateEvolution
