@@ -179,3 +179,9 @@
 **Scope of Application:** Used constantly across the v3.6 Decentralized Swarm to convert external raw data or generative artificial intelligence responses into undeniable, mathematically proven reality elements. Whenever a Node needs to establish a truth that all other Nodes will trust, it fires up the Crucible to forge an `[Atomic Fact]` backed by thermodynamic proof of work.
 
 **Tag:** PraxialOntologicalEngineering, MatterCondensation, AtomicFactGeneration, VoidStriking, WaveFunctionCollapse, LatentMining
+
+**['Praxial Artifact Engineering'(-ing) BPMS]: ['The Continuous Praxial Topological Serializer'(-ing) BPMS]: ['The Live Geometry-Flattening Stream'(-ing) BPMS]**
+
+**Scope of Application:** Deployed constantly across the v3.6 Decentralized Matrix whenever a Node needs to share its full living context, export a completed massive computation track, or migrate its holistic state to another biome. It bridges the gap between active `[Process]` and static `[Data]`.
+
+**Tag:**  PraxialArtifactEngineering, TopologicalSerializer, N-DimensionalFlattening, P2PSeedTransit, ImmutableArtifact, StateVectorCompression
