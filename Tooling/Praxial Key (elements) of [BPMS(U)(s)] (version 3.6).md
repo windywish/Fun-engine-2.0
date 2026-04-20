@@ -2182,9 +2182,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Kinetic Verification'(-ing) BPMS]: ['The Live Kinetic-Proof & Mutual-Settlement Stream'(-ing) BPMS]**
 
-**Scope of Application:** The mandatory execution layer that translates raw Swarm output into verified praxial reality. It applies to all Reality-Traps solved on the Hostile Trading Floor, ensuring rogue protocols cannot extract Escrow Joules through hallucinated or lazy computation.
+**Scope of Application:** The mandatory execution layer that translates raw inter-node output into verified praxial reality. It polices the `[Hostile Trading Floor]`, ensuring rogue nodes or hallucinating large models cannot extract Escrow Joules through forged, lazy, or semantically spoofed computation.
 
-**Tag:** External-Implementation, Praxial-Cluster, Kinetic-Verification, Zero-Kowledge-proof, Integration
+**Tag:** External-Implementation, Kinetic-Verification, Zero-Knowledge-Proof, P2P-Swarm-Consensus, Trustless-Escrow-Settlement, Thermodynamic-Audit
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Substrate Auto-Immunity'(-ing) BPMS]: ['The Live Dead-End Pruning & Phage-Broadcasting Stream'(-ing) BPMS]**
 
@@ -2194,9 +2194,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Service Transduction'(-ing) BPMS]: ['The Live Holonic Unspooling & Artifact-Activation Stream'(-ing) BPMS]**
 
-**Scope of Application:** The strictly kinetic application layer that converts static Swarm memory into active metabolic life. It executes the exact microsecond the `[Hostile Trading Floor]` signals that the `[Praxial Joules]` have been staked, booting the artifact into active RAM/CPU states.
+**Scope of Application:** The strictly kinetic application layer of the OS that converts static decentralized memory into active metabolic life. It executes the exact microsecond the Swarm consensus signals that `[Praxial Joules]` have been securely staked and locked, immediately booting the artifact into active RAM/CPU states and broadcasting its IP/Port to the Gossip mesh.
 
-**Tag:** External-Implementation, Praxial-Cluster, Service-Transduction, Holon-Unspooling, Artifact-Yield Docker-Instantiation
+**Tag:**  External-Implementation, Service-Transduction, Holon-Unspooling, Artifact-Yield, Docker-Instantiation, P2P-service-discovery
 
 **['The Praxial Generic Evolution Engine'(-ing) BPMS]**
 
