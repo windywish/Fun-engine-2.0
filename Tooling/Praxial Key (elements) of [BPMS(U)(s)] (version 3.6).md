@@ -2264,11 +2264,11 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **Scope of Application:**
 
-- **Matrix Blockchain Anchoring:** Converts validated thermodynamic interactions into universally recognized `[Atomic Facts]` synchronized via the P2P Gossip network.
-- **Existential Rendering:** Forces the visual and physical substrate of the matrix to permanently warp and mutate around the crystallized facts of past events (e.g., carving craters where battles were verified).
-- **Reduction & Discovery Proofs:** When complex systems are composted, this engine precipitates their shattered basic mechanics into the dirt as discoverable, raw genetic algorithms (Discovery).
+- **Matrix DAG/Blockchain Anchoring:** Converts validated inter-node thermodynamic interactions into universally recognized `[Atomic Facts]` that are synchronized and verified via the P2P Gossip network.
+- **Global Existential Rendering:** Forces the visual and physical substrate of all connected Nodes to permanently warp and mutate concurrently around the crystallized facts of Swarm events (e.g., rendering a crater on Node B because Node A detonated heavily).
+- **Swarm Composting & Discovery:** When rogue logic is executed by the Teleological Guillotine, this engine precipitates the shattered, baseline mechanics into the decentralized topological map, allowing foreign nodes to discover and mine the genetic algorithm scrap.
 
-**Tag:** External-Implementation, Atomic-Fact-Paradigm, Ontological-Crystallization, Existence-Recording, Matrix-Blockchain, Cryptographic-Sedimentation
+**Tag:** External-Implementation, Atomic-Fact-Paradigm, Decentralized-Crystallization, P2P-Matrix-Ledger, Cryptographic-Sedimentation, Trustless-Truth
 
 **['Proof-of-Friction'(-ing) BPMS]**
 
