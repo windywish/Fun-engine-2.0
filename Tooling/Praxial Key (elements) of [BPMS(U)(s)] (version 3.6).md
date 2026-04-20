@@ -2152,9 +2152,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **['Praxial Genesis Engineering'(-ing) BPMS]: ['The Ambient Entropy Ignition Stream'(-ing) BPMS]**
 
-**Scope of Application:** Executed precisely at "Day Zero", or during localized network severing. Used when a node possesses zero epigenetic memory, zero Escrow, and no topological awareness, requiring it to physically bleed computational energy to earn its right to exist on the Hostile Trading Floor.
+**Scope of Application:** Executed precisely at "Day Zero" (node instantiation) or during localized network severing. Used when a node possesses zero epigenetic memory, zero Escrow, and no topological awareness, requiring it to physically bleed computational energy to earn its right to exist and trade on the P2P `[Hostile Trading Floor]`.
 
-**Tag:** MatrixBootstrapping, ThermodynamicSpark, PrimordialNecessity, AmbientEntropicNoise, PraxialEngineering
+**Tag:** External-implementation, MatrixBootstrapping, ThermodynamicSpark, PrimordialNecessity, AmbientEntropicNoise, PraxialEngineering, DayZero-P2P
 
 **['Praxial Epigenetic Engineering'(-ing) BPMS]: ['The Continuous Epigenetic Ledger'(-ing) BPMS]: ['The Live Knowledge-Sedimentation Stream‘(-ing) BPMS]**
 
