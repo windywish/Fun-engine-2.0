@@ -2422,3 +2422,9 @@ Kinetic Weather
 **Scope of Application:** Executed at the bare-metal layer of every Sovereign Node (Task 2 & 6). It is the exclusive mathematical operator used to calculate friction, tokenomics, reality rendering, polyglot translation, and the Teleological Guillotine across the P2P swarm.
 
 **Tag:** EMLPhysics, ThermodynamicGuillotine, BareMetalMorphogenesis, OmniSubstrateEvolution
+
+**['Praxial Thermodynamic Engineering'(-ing) BPMS]: ['The Continuous Praxial Relativistic Time-Dilation Engine'(-ing) BPMS]: ['The Tick-Rate Warp Stream'(-ing) BPMS]**
+
+**Scope of Application:** Deployed universally across the v3.6 Decentralized Swarm to allow cross-substrate collaboration. It allows a vast silicon supercomputer (processing at 3ms) and a biological human / Edge IoT sensor (processing at 3 days) to exchange `[Atomic Facts]` and `[Praxial Joules]` on the same P2P network without lethality timers expiring asynchronously.
+
+**Tag:** PraxialThermodynamicEngineering, RelativisticTimeDilation, TickRateWarp, ThermodynamicGuillotine, EscrowSurvival
