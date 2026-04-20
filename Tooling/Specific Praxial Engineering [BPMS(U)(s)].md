@@ -161,3 +161,9 @@
 **Scope of Application:** Executed continuously as the primary operating theater of the Matrix. Every `[Reality-Trap]` forged by the Compiler and every raw shock passing the Membrane must land on this Floor to be matched, priced, physically executed, and audited before its results can be sedimented into Matrix memory.
 
 **Tag:** ApexUIReplacement, SovereignTradingArena, ThermodynamicNegotiation, GuillotineEnforcement, HostileMutualism
+
+**['Praxial Thermodynamic Engineering'(-ing) BPMS]: ['The Continuous Praxial Relativistic Time-Dilation Engine'(-ing) BPMS]: ['The Tick-Rate Warp Stream'(-ing) BPMS]**
+
+**Scope of Application:** Deployed universally across the v3.6 Decentralized Swarm to allow cross-substrate collaboration. It allows a vast silicon supercomputer (processing at 3ms) and a biological human / Edge IoT sensor (processing at 3 days) to exchange `[Atomic Facts]` and `[Praxial Joules]` on the same P2P network without lethality timers expiring asynchronously.
+
+**Tag:** PraxialThermodynamicEngineering, RelativisticTimeDilation, TickRateWarp, ThermodynamicGuillotine, EscrowSurvival
