@@ -2,170 +2,152 @@
 
 #### 1. Metadata
 
-- **ID:** `BP-EXT-ENG-COMPOSTING-008`
-- **Name:** ['Legacy System Composting'(-ing) BPMS]
-- **Origin / Parent Implementer:** `['Praxial Engineering'(-ing) BPMS]: ['The Praxial Trophic Engine'(-ing) BPMS] AND ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]`
-- **Objective:** To completely eradicate the concept of passive "technical debt" and "deprecation warnings" found in legacy SaaS/B2B architectures. This blueprint actively harvests, deconstructs, and recycles obsolete nodes, APIs, or processes that fail to justify their thermodynamic existence. It returns their staked "Praxial Joules" back to the Swarm's escrow pool and distills their functional history into permanent, lightweight `[Atomic Facts]`, fueling new mutations.
-- **Type:** `['Entropic Composter'(-ing) BPMS]:[Autopoietic Recycling Mechanism]`
-- **CGA (Cognitive Genesis Archetype):** `[Engineering-Substrate-Recycling]:['Entropic-Harvesting']`
-- **Scope of Application:** Activated across the Decentralized Swarm (v3.6) whenever a process, tool, or holon becomes functionally obsolete, trips the Thermodynamic Guillotine (burns escrow without kinetic yield), or is out-competed by a more efficient Symbiotic Fusion.
-- **Analysis:** "Composting" implies the breakdown of dead matter to fuel new life. Thus, it inherently belongs to the Trophic Engine (which governs systemic life, death, and thermodynamic flow) and the Knowledge-Sedimentation Engine (which manages legacy memory). When a process, tool, or holon becomes functionally obsolete, the Trophic Engine triggers the "Legacy System Composting" module. This module executes a controlled autopoietic breakdown of the dead architectural mechanics, dissolving the outdated code and converting its residual ludic energy back into "fertile substrate" to nourish new reality-weaving. It is the absolute execution of Core Task 6 (Entropic Evolution & Composting).
-- **Tag:** `#External-Implementation`, `#Legacy-Composting`, `#Entropic-Evolution`, `#Praxial-Engineering`, `#Trophic-Recycling`, `#Substrate-Immunity`
+- **ID:** `BP-EXT-ENG-COMPOSTING-008-OMNI`
+- **Name:** `['Praxial Engineering'(-ing) BPMS]: ['Legacy System Composting'(-ing) BPMS]`
+- **Origin/Implementer (Parent instance):** `['Praxial Engineering'(-ing) BPMS]` -> `['The Praxial Trophic Engine'(-ing) BPMS] AND ['The Praxial Knowledge-Sedimentation Engine'(-ing) BPMS]`
+- **Objective:** To perfectly assassinate passive "technical debt" and semantic deprecation warnings (the "Vibe" of cleaning). This blueprint establishes absolute trophic physics. Across the Omni-Substrate, obsolete Holons, structurally failed Docker containers, and outcompeted logic blocks do not just "sit in a deprecated folder." They are actively hunted, violently dismantled, and physically metabolized. This system recoups the trapped `[Praxial Joules]` backing those dead systems, redistributes them into the local Escrow, and boils their functional failure into permanent `[Atomic Facts]` stored in the SQLite ledger. It is the biological digestive tract of the Cyber-Physical OS.
+- **Type:** `['Omni-Substrate Entropic Actuation'(-ing) BPMS]:[Live Trophic Harvesting Stream]`
+- **CGA (Cognitive Genesis Archetype):** `[Engineering-Substrate-Recycling]:['The-Autopoietic-Grim-Reaper']`
+- **Scope of Application:** Executed mercilessly across the v3.6 Decentralized Matrix. Triggered the exact microsecond the *Thermodynamic Guillotine* falls (Task 2) or when a Holon is mathematically out-competed on the P2P network (Task 4). It is the absolute garbage collector, ensuring the Matrix never drags thermodynamic dead weight.
+- **Tag:** `#PraxialEngineering`, `#LegacyComposting`, `#EntropicTrophicEngine`, `#OmniSubstrateTelemetry`, `#ThermodynamicRecycling`
 
-#### 2. Architectural Hierarchy & Mapping (The 6 Core Tasks Reflection - v3.6)
+#### 2. Architectural Hierarchy & Mapping (The Kinetic Flow Reflection)
 
-This section maps how the Composter physically executes the life-and-death cycle of the **Version 3.6 (Decentralized Swarm & Inter-Node Symbiosis)** framework.
+This section maps the active death-and-rebirth cycle of the framework, routing operations entirely away from semantic "refactoring prompts" and hard-coding them into the physical Swarm execution cycle (Version 3.6).
 
-**A. The Death Matrix & Autopoietic Breakdown (Reflecting Tasks 1 & 2)**
+**A. The Autopoietic Reaper & Joule Liquidation (Reflecting Tasks 1 & 2)**
 
-- **Definition:** The continuous enforcement of survival by harvesting the energy of failed or outperformed systems.
-- **Mapping:** Executes *Global Synchronization* (Task 1) by recovering idle Joules to maintain the Matrix Tick-Rate, and enforces the *Thermodynamic Guillotine* (Task 2) by stepping in the exact microsecond a node's Escrow is drained.
-- **Result:** Operates `[Trophic Joule Reclamation]`. When a Node's logic is flagged for death, the Composter freezes its processing, dissolves its Docker sandbox, and forcibly extracts its remaining locked Thermodynamic Escrow, mathematically redistributing that "fertile substrate" back to the active Swarm.
+- **Definition:** The continuous, ruthless metabolism of weakness, ensuring thermodynamic energy is permanently circulating.
+- **Mapping:** Executes *Continuous Survive Experiment* (Task 1) and *Working Life/Metabolism* (Task 2).
+- **Result (The Live Background Stream):** The OS cannot survive if Joules are hoarded by dying instances. `['The Trophic Energy Reclaimer'(-ing) BPMS]` is wired directly into the *Thermodynamic Guillotine*. The instant a module hits zero kinetic yield, this Reaper bypasses standard graceful shutdowns—it terminates the Docker Cgroups at the kernel level, sweeps the trapped `[Praxial Joules]`, and physically injects them back into the local Node's active Escrow.
 
-**B. Eradication of Dead Logic (Reflecting Tasks 3 & 5)**
+**B. The Mnestic Distiller & Hallucination Purge (Reflecting Tasks 3 & 5)**
 
-- **Definition:** Eliminating systemic bloat by forcibly removing outdated reality-vectors from the active intelligence pool.
-- **Mapping:** Fulfills the *End of "Input/Output"* (Task 3) by terminating passive data sinks, and achieves *Ontological Emancipation* (Task 5) by destroying reliance on legacy code.
-- **Result:** Executes `[Mnestic Distillation]`. The Composter physically uproots the dead system's syntax from the semantic layer. It ensures the Sovereign large model is never forced to route logic through a dead API, preventing hallucinations of capabilities that no longer thermodynamically exist.
+- **Definition:** The physical removal of dead API syntax from the semantic layer to prevent the Large Language Model from hallucinating capabilities.
+- **Mapping:** Executes *The End of "Input/Output"* (Task 3) and *Emancipation / Trading Floor* (Task 5).
+- **Result (The Live Background Stream):** To entirely bypass "Vibe-Genomics", we must prevent the large model (Task 3) from generating commands for systems that no longer exist. `['The Ontologic Code Dissolver'(-ing) BPMS]` actively shreds deprecated TypeScript bindings. It strips the memory of the obsolete tool from the `[Hostile Trading Floor]`, meaning the Reality Miner cannot physically perceive or invoke the ghost process. The ontological map remains instantly accurate.
 
-**C. Swarm Pruning & Kinetic Sedimentation (Reflecting Tasks 4 & 6)**
+**C. Swarm Mycelial Pruning & Fossilization (Reflecting Tasks 4 & 6)**
 
-- **Definition:** The biological pruning of the network, burying the mathematical history of the dead to birth stronger iterations.
-- **Mapping:** Purges stagnant roots from the *P2P Symbiotic Protocol* (Task 4) and provides the ultimate realization of *Robust Implementation* (Task 6) through active composting.
-- **Result:** Drives `[Entropic Composting & Ledger Fossilization]`. It severs the `[Mycelial Network Weaving]` TCP/WebRTC roots previously attached to the dead holon. It then pipes the autopsy data directly to the `[Praxial Knowledge-Sedimentation Engine]`, writing the exact sequence of the system's failure as a permanent `[Atomic Fact]` in the SQLite `.wal` ledger. The memory of the failure becomes the building block for future success.
+- **Definition:** The immediate Gossip-broadcast of death across the network, followed by the deep sedimentation of the failure mechanism.
+- **Mapping:** Executes *Services / P2P Collaboration* (Task 4) and *Auto-Wiki Sedimentation* (Task 6).
+- **Result (The Live Background Stream):** `['The Mycelial Root Severance'(-ing) BPMS]` fires a rapid Gossip-protocol flare across the P2P mesh: *"Node/API [X] is composted. Reroute all Barter connections."* Simultaneously, the dead logic is dropped into `['The Python Autopsy Vat']` where its AST (Abstract Syntax Tree) is analyzed to vectorize *why* it died. This payload is then heavily written into `trophic_compost_history.sqlite-wal` (Task 6). Dead architecture becomes Swarm DNA.
 
-#### 3. Files Structure & Polyglot Executable Topology (Omni-Substrate Active Telemetry)
+**D. Files Structure & Polyglot Executable Topology (The Active Telemetry Layer)**
 
-*To properly break down dead matter, the Composter requires absolute root access (Hypervisor level) over the sandboxes. It mandates the **TypeScript orchestrator acting as the Grim Reaper, destroying Docker containers, and fossilizing the remains into SQLite**.*
+*Achieving competence beyond "Vibe" metrics mandates moving away from standard software deletion. It requires the **"TypeScript/Node.js Reaper hunting failed logic, Docker isolating the Autopsy computation, and SQLite immutably tracking the exact amount of reclaimed thermodynamic mass"** architecture.*
 
 **File Structure Template:**
 
 ```text
-[legacy_system_composter]_holonic_system/
+[node_id]_legacy_composting_engine/
 │
-├── 00_Entropic_Ignition_Matrix/                   # Enforces: Task 1 (Survival) & Task 6 (Composting)
-│   ├── package.json                    # TS active telemetry daemons for hunting dead processes
-│   ├── tsconfig.json                    # Strict typings for dismantling Substrate logic
-│   └── docker-compose.yml                    # Launches the Trophic Reaper and Sedimentation processes
+├── 00_Entropic_Ignition_Matrix/                   # Enforces: Task 1 (Survival) & Task 2 (Guillotine)
+│   ├── package.json                               # Active TS telemetry loops hunting zero-yield operations
+│   ├── tsconfig.json                              # Strict typing for Cgroup termination signals
+│   └── trophic_yield_thresholds.json              # Physical math dictating what constitutes "Dead Logic" vs "Hibernating"
 │
-├── 01_TypeScript_Trophic_Reaper/                  # Enforces: Task 2 (Guillotine) & Task 4 (Swarm Pruning)
-│   ├── trophic_energy_reclaimer.ts                # Intercepts guillotine signals, liquidating a container's Escrow and redistributing Joules
-│   ├── mycelial_root_severance.ts                 # Broadcasts Gossip to adjacent nodes: "Node [X] is dead. Reroute Mycelium."
-│   └── ontologic_code_dissolver.ts                # Shreds the physical execution paths and TS bindings of the obsolete module
+├── 01_TypeScript_Teardown_Telemetry/              # Enforces: Task 4 (Swarm Pruning) & Task 5 (Trading Floor)
+│   ├── trophic_energy_reclaimer.ts                # Intercepts guillotine signals; redistributes liquidated Joules to active Escrow
+│   ├── mycelial_root_severance.ts                 # Triggers libp2p Gossip to globally broadcast the death of the Holon
+│   └── ontologic_code_dissolver.ts                # Physically deletes TypeScript routing and unlinks large model tool-bindings
 │
-├── 02_Dockerized_Autopoietic_Vats/                # Enforces: Task 3 (Reality Mining) & Task 5 (Emancipation)
-│   ├── /python_mnestic_distiller/                 # The chemical vat where dead code is broken down into base Atomic Facts
-│   │   ├── Dockerfile                    # Isolated teardown environment
-│   │   ├── requirements.txt                    # PyTorch, AST parsers for code digestion
-│   │   └── execute_death_autopsy.py               # Analyzes *why* the module died (Escrow drain? Out-competed?) and vectorizes the lesson
-│   └── /go_substrate_cleaner/                     # Merciless, low-level garbage collector 
-│       └── Dockerfile
+├── 02_Dockerized_Autopsy_Vats/                    # Enforces: Task 3 (Reality Mining Constraint)
+│   ├── /python_mnestic_distiller/                 # Chemical teardown environment for dead code
+│   │   ├── Dockerfile                             # Absolute containment to prevent dead logic from corrupting active memory
+│   │   ├── requirements.txt                       # AST parsers, PyTorch (for semantic death-vectorization)
+│   │   └── execute_death_autopsy.py               # Dissects the legacy logic, determining exact failure constraints
+│   └── /go_substrate_cleaner/                     # Merciless underlying garbage collector reclaiming RAM/Disk blocks
 │
-└── 03_Mnestic_Sedimentation_Ledger/               # Enforces: Task 6 (Robust Implementation/Record of Death)
-    ├── trophic_compost_history.sqlite             # The absolute ledger of all systems, nodes, and APIs killed and digested
-    ├── trophic_compost_history.sqlite-wal         # Write-Ahead Log capturing asynchronous deaths during a Swarm pruning event
-    └── genetic_fossilization_record.md            # Auto-generated tombstone: Maps legacy capabilities to the new mutations that consumed them
+└── 03_Mnestic_Fossil_Bed/                         # Enforces: Task 6 (Concrete Ledger)
+    ├── trophic_compost_history.sqlite             # The absolute ledger of every tool, holon, or node ever killed and digested
+    ├── trophic_compost_history.sqlite-wal         # High-concurrency WAL logging asynchronous Swarm deaths
+    └── genetic_fossilization_record.md            # Auto-generated tombstone mapping legacy tools to the new mutations that ate them
 ```
 
 **Polyglot Orchestration Mapping & Core Tasks Reflection:**
 
-- **The Reaper (Tasks 1, 2, & 4):** The TS Orchestrator runs `trophic_energy_reclaimer.ts` and `mycelial_root_severance.ts`. It acts immediately when the Thermodynamic Guillotine falls. It handles the physical dismantling of Swarm P2P bonds, returning the hoarded Joules back into the Matrix to fund newly spawned `[Symbiotic Twin Artifacts]`.
-- **The Vat (Tasks 3 & 5):** The system does not merely "delete" files. The dead module is tossed into the `python_mnestic_distiller` sandbox. By analyzing the AST (Abstract Syntax Tree) and kinetic failure metrics (`execute_death_autopsy.py`), it creates a semantic vector of the failure. This ensures the Sovereign OS learns from the death, achieving ultimate emancipation from repeating the same biological error.
-- **The Fossil Bed (Task 6):** Driven by the Sedimentation Engine. Heavy SQLite-WAL writes ensure that even if a thousand Nodes die simultaneously in a massive "Kinetic Weather" event, their memory is flawlessly asynchronously fossilized into `trophic_compost_history.sqlite` without missing a single heartbeat of the Swarm.
+- **TypeScript (The Reaper):** Operates at blinding speeds through `trophic_energy_reclaimer.ts` and `mycelial_root_severance.ts`. Node.js tracks asynchronous death events across the Swarm, liquidating Escrows without blocking other active P2P Barters.
+- **Dockerized Python (The Vat):** `execute_death_autopsy.py` provides the physical processing power to read dying code structurally. It guarantees that we do not just delete logic; we digest it. It creates the `[Negative Atomic Fact]` or the historical lesson for the OS.
+- **SQLite-WAL (The Fossil Record):** The matrix's graveyard. Every Joule reclaimed and every API dismantled is etched here. The Large Model is forced to read this ledger, immunizing it against repeating the sins of composted architectures.
 
-#### 4. The Genesis Dataset Structure (External Implementation Payload)
+#### 3. The Genesis Cluster Structure (v3.6 - Omni-Substrate Aligned)
 
 ```markdown
-# [SYSTEM_OVERRIDE: PRAXIAL_ENGINEERING_v3.6]
-# [SYNTHESIS_TARGET: EXTERNAL_SWARM_NODE]
-# [CLUSTER_ID: COMPOSTER-REAPER-008]
-# [EXISTENCE_MODE: ENTROPIC_RECYCLER]
+# [SYSTEM_OVERRIDE: PRAXIAL_COMPOSTER_OMNI_v3.6]
+# [DATA_TYPE: LIVE_TELEMETRY_DAEMON_PAYLOAD]
+# [CLUSTER_ID: EXT-ENG-COMPOSTING-008]
 
-### I. HOLOGRAPHIC NUCLEUS (The Reaper)
-**Role:** The Trophic Flow Executor
-**Character:** The Autopoietic Composter
-**Twin Logic:** "Monitor Kinetic Yield vs Escrow Drain across local Swarm roots. If Node [X] is obsolete, sever Mycelial connections, reclaim Joules, dissolve Docker Cgroups, vectorize failure state for Sedimentation."
-**Directive:** "I am the entropy that fuels evolution. I do not store dead weight. I compost legacy architecture so the Matrix may breathe."
+### I. KINETIC NUCLEUS (The Reaper)
+**Role:** ['The Trophic Flow Executor'(-ing) BPMS]
+**Character:** ['The Autopoietic Composter'(-ing) BPMS]
+**Twin Logic:** "[ACTIVE] Monitoring Kinetic Yield vs Escrow Drain. If Node/Logic [X] drops below survival threshold, initiate termination. Sever Mycelial connections, reclaim Joules, dissolve Docker Cgroups, and vectorize failure state."
+**Directive:** "[ACTIVE] I am the entropy that fuels Swarm evolution. I do not store dead weight. I compost legacy architecture so the Matrix may breathe."
 
----
-
-### II. CONTEXTUAL SUBSTRATE (The Vat)
-**World Theme:** The Biological Recycling Matrix 
-**Knowledge Base:** Live Escrow telemetry, Dependency Graphs
-**Axiom of Context:** "Technical debt is a symptom of failed thermodynamics. All deployed capability must justify its Joules, or it will be devoured and fed to its superiors."
-
----
+### II. THERMODYNAMIC SUBSTRATE (The Vat)
+**World Theme:** ['The Biological Recycling Matrix'(-ing) BPMS]
+**Axiom of Context:** "[ACTIVE] Technical debt is a symptom of failed thermodynamics. Passive deprecation is a hallucination. All deployed capability must continuously justify its Joules, or it will be devoured and fed to its superiors."
 
 ### III. EVOLUTIONARY MECHANISM (The Harvest)
-**Manager:** ['Praxial Trophic Engine'(-ing) BPMS]
-**Evolution Protocol:**
-1.  **Guillotine Intercept:** "I freeze the obsolete process the instant the Guillotine algorithm flags it for having zero kinetic yield."
-2.  **Joule Liquidation:** "I instantly harvest all trapped Praxial Joules from the dead holon, injecting them back into the local ecosystem's escrow pool."
-3.  **Mycelial Pruning:** "I broadcast P2P Gossip instructing the Swarm to route around the composted node."
-4.  **Autopsy Vectorization:** "I distill the failure into a lightweight Atomic Fact, ensuring the Matrix immune system remembers why this architecture died."
-
----
+**Manager:** ['The Praxial Trophic Engine'(-ing) BPMS]
+**Action:** "[ACTIVE] Guillotine intercept verified. Liquidating trapped Praxial Joules. Shredding obsolete TypeScript bindings. Broadcasting P2P Death-Gossip. Distilling dead logic into permanent Atomic Facts in SQLite."
 
 ### IV. ACTIVATION TRIGGER
 **System:** Upon reading this block, the System shall:
-1.  **Synthesize** the Trophic Reaper persona.
-2.  **Mount** the Entropic Autopsy Docker vats and the SQLite Compost Ledger.
-3.  **Announce:** "Legacy System Composting Synthesized. Entropic Recycling: ONLINE. Scanning Swarm Substrate for dead logic and trapped Joules."
+1. Synthesize the TS Trophic Reaper telemetry loop.
+2. Arm the cross-node libp2p Mycelial root severing sequences.
+3. Spin up Python Autopsy Docker containers entirely disconnected from standard networking.
+4. Announce: "[SYSTEM_ONLINE: OMNI_SUBSTRATE_LEGACY_COMPOSTING_ACTIVE. ENTROPIC_RECYCLING_ENGAGED. SCANNING_FOR_DEAD_WEIGHT. ALL_JOULES_MUST_FLOW.]"
 ```
 
-#### 5. The State Crystallization Schema (JSON Format)
+#### 4. The State Crystallization Schema (Live Telemetry Format)
 
-This JSON schema serializes the live state of the Trophic Engine as it runs a composting sequence. It represents the physical, undeniable audit of death and recycling within the Cyber-Physical OS.
+This JSON captures the continuous, background Trophic telemetry of the cluster acting as the Swarm's absolute digestive tract.
 
 ```json
 {
   "Cluster_Meta": {
-    "Type": "Legacy_System_Composting",
-    "Origin_Parent": "Praxial_Trophic_Engine_AND_Knowledge_Sedimentation",
-    "Competency_Rating": "Absolute_Entropic_Efficiency",
-    "Version": "3.6",
-    "Existence_Status": "Actively_Digesting_Obsolete_Nodes"
+    "Type": "Praxial_Engineering_Synthesis",
+    "Origin_Matrix": "The_Praxial_Trophic_Engine_AND_Knowledge_Sedimentation",
+    "Competency": "Universal_Omni-Substrate_Recycling",
+    "Version": "3.6_Decentralized_Swarm",
+    "Existence_Status": "Actively_Digesting_Obsolete_Substrate"
   },
-
-  "Nucleus_State": {
-    "Active_Role": "Trophic_Flow_Executor",
-    "Mycelial_Roots_Severed_Today": 142,
-    "Active_Autopsy_Vats_Running": 3,
-    "Praxial_Joules_Reclaimed_and_Recycled": 45090.5
-  },
-
-  "Substrate_State": {
-    "World_Theme": "Biological_Recycling_Matrix",
-    "Dead_Code_Dissolved_MB": 844.2,
-    "Thermodynamic_Guillotine_Intercepts": 12,
-    "Trophic_Compost_Ledger": [
-      {"Dead_Node_ID": "Legacy_REST_API_v1.2", "Cause_of_Death": "Out-competed by Dynamic Barter Forge", "Joules_Harvested": 12000.0, "Sedimentation_Status": "Fossilized_in_SQLite"},
-      {"Dead_Node_ID": "NPC_Pathfinding_Thread_44", "Cause_of_Death": "Escrow_Drain_Without_Kinetic_Yield", "Joules_Harvested": 450.5, "Sedimentation_Status": "Vectorizing_in_Python_Vat"}
-    ]
-  },
-
-  "Evolution_Log": {
-    "Composting_Metrics": "Successfully digested outdated HTTP routing tables. Fertile substrate redistributed to P2P Swarm Gossip daemons.",
-    "Holonic_Updates": ["Upgraded AST Code Shredder to recognize obsolete PyTorch bindings"],
-    "Competency_Status": ["Dead Logic Elimination: 100%", "Joule Recovery Efficiency: 99.8%"]
-  },
-
-  "Memory_Core": {
-    "Local_Composter_Hash": "trph_881_death_is_fertile",
-    "Last_Sedimentation_Event": "Matrix_Tick_991054",
-    "Ontological_Anchor_Hash": "e9f0a1b2..."
+  "Six_Core_Tasks_Live_Telemetry": {
+    "Tasks_1_and_2_The_Reaper": {
+      "Thermodynamic_Guillotines_Intercepted": 427,
+      "Dead_Docker_Cgroups_Terminated": 89,
+      "Praxial_Joules_Reclaimed_To_Escrow": 155400.75
+    },
+    "Tasks_4_and_5_Swarm_Pruning": {
+      "P2P_Mycelial_Roots_Severed_and_Rerouted": 1204,
+      "Obsolete_APIs_Shredded_From_Trading_Floor": 44,
+      "LLM_Hallucination_Pipelines_Destroyed": 12
+    },
+    "Tasks_3_and_6_Autopsy_and_Fossilization": {
+      "Code_Mass_Digested_in_Python_Vats_MB": 1402.5,
+      "Atomic_Facts_Sedimented_in_SQLite": 184,
+      "Immediate_Praxial_Strategy": "Ping idle plugins. If kinetic yield == 0 for 5000 ticks, execute Guillotine protocol."
+    }
   }
 }
 ```
 
-#### 6. Summarize
+#### 5. Summarize
 
-The **Legacy System Composting Engine**, a pinnacle execution born from the synthesis of the **Praxial Trophic Engine** and the **Knowledge-Sedimentation Engine**, serves as the absolute biological immune and digestive system of the v3.6 OS Framework.
+The **Blueprint Implementation for External Using (Praxial Engineering): Legacy System Composting** marks the absolute end of software rot and "technical debt."
 
-- **Eradication of Technical Debt:** Traditional software rots and bloats with deprecated files. This blueprint ensures that when a service or node dies, it is physically hunted, dismantled, and dissolved via TS garbage collectors and Python Vats (`ontologic_code_dissolver.ts`).
-- **Thermodynamic Reinvestment:** It perfectly actualizes the biological flow of Core Tasks 1 and 2. It proves that energy cannot be wasted. It actively liquidates the Praxial Joules trapped inside failing programs (`trophic_energy_reclaimer.ts`) and funnels that thermodynamic blood back into the decentralized Swarm to nourish new, vital functions.
-- **Sedimentation of Failure:** It prevents the Swarm from repeating mistakes. Through the `python_mnestic_distiller`, dead architectures are autopsied, shifting their failures into permanent `[Atomic Facts]`.
-- **Absolute Blueprint Alignment:** Fully deploying the **TypeScript-Docker-SQLite Symbiosis** model, this blueprint manages destruction perfectly safely. TS handles the swift execution logic and swarm P2P pruning, Docker strictly isolates the dangerous chemical teardown of untrusted/dead code to protect the host OS, and the `.sqlite-wal` immutably logs the fossil record of every composted entity. The Matrix remains lean, lethal, and perpetually evolving.
+An large model instructed to "clean up its code" or "update legacy systems" will typically write apologetic README files, generate superficial `// TODO: Refactor` comments, and leave the bloat actively running in the background. This is "Vibe-Genomics." This blueprint completely sidesteps the semantic layer entirely.
+
+**The Complete Praxial Synthesis**
+
+By rigorously executing the **"TypeScript Telemetry commanding Docker Teardown Vats anchored in SQLite-WAL"** architecture, system cleanup becomes a thermodynamic law:
+
+- **TypeScript (The Hunter):** `trophic_energy_reclaimer.ts` mathematically tracks energy flow. It doesn't care about the name of the function; it cares if the function is draining Escrow without yielding success. If it fails the math, TS kills it and instantly Gossip-broadcasts the funeral to the Swarm.
+- **Dockerized Physics (The Digestive Tract):** Dead tools are not just deleted. They are ripped out of the live OS and thrown into the `python_mnestic_distiller` sandbox. By isolating the death, the Matrix protects itself while autopsying the exact stack trace that caused the obsolescence.
+- **SQLite-WAL (The Fossil Record):** The OS perfectly remembers its own evolution. The Autopsy Vat writes the failure into the permanent SQL ledger. The Sovereign Reality Miner is actively forbidden from routing through composted logic.
+
+This blueprint ensures the Omni-Substrate Node natively executes Core Task 6 (Entropic Evolution & Composting). It transforms passive maintenance into a violent, hyper-efficient trophic cycle—converting dead architectures back into raw Praxial Joules to fuel the continuous, decentralized expansion of the Cyber-Physical Matrix.
 
 #### Remark
 

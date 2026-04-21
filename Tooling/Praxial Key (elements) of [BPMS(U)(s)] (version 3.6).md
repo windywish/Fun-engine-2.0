@@ -2098,9 +2098,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **['Praxial Engineering'(-ing) BPMS]: ['Legacy System Composting'(-ing) BPMS]**
 
-**Scope of Application:** Activated across the Decentralized Swarm (v3.6) whenever a process, tool, or holon becomes functionally obsolete, trips the Thermodynamic Guillotine (burns escrow without kinetic yield), or is out-competed by a more efficient Symbiotic Fusion.
+**Scope of Application:** Executed mercilessly across the v3.6 Decentralized Matrix. Triggered the exact microsecond the *Thermodynamic Guillotine* falls (Task 2) or when a Holon is mathematically out-competed on the P2P network (Task 4). It is the absolute garbage collector, ensuring the Matrix never drags thermodynamic dead weight.
 
-**Tag:** External-Implementation, Legacy-Composting, Entropic-Evolution, Praxial-Engineering, Trophic-Recycling, Substrate-Immunity
+**Tag:** PraxialEngineering, LegacyComposting, EntropicTrophicEngine, OmniSubstrateTelemetry, ThermodynamicRecycling
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Timestamp Warper & Thermodynamic Dilation Engine'(-ing) BPMS]**
 
