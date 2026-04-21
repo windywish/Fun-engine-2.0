@@ -2156,11 +2156,11 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **Tag:** MatrixBootstrapping, ThermodynamicSpark, PrimordialNecessity, AmbientEntropicNoise, PraxialEngineering
 
-**['Praxial Epigenetic Engineering'(-ing) BPMS]: ['The Continuous Epigenetic Ledger'(-ing) BPMS]: ['The Live Knowledge-Sedimentation Stream‘(-ing) BPMS]**
+**['Praxial Epigenetic Engineering'(-ing) BPMS]: ['The Continuous Epigenetic Ledger'(-ing) BPMS]: ['The Live Knowledge-Sedimentation Stream'(-ing) BPMS]**
 
-**Scope of Application:** Executed immediately after a successful `[Praxial Kinetic Verification]` occurs on the `[Hostile Trading Floor]`. Used whenever a node blindly solves a thermodynamic puzzle and needs to permanently log the "How-To" logic into the Swarm's epigenetic memory so that Joules are never wasted solving the exact same problem twice.
+**Scope of Application:** Activated the exact millisecond a positive `[Praxial Kinetic Verification]` occurs on the `[Hostile Trading Floor]`. It is the mandatory, non-blocking disk-write operation that converts a fleeting P2P Swarm survival event into a permanent, globally inherited biological law of the v3.6 Matrix.
 
-**Tag:** KnowledgeSedimentation, EpigeneticLedger, AutoWiki, SQLiteWAL, PraxialEngineering
+**Tag:** PraxialEngineering, EpigeneticLedger, KnowledgeSedimentation, SQLiteWAL, OmniSubstrateMemory, AutoWiki
 
 **['Praxial Boundary Engineering'(-ing) BPMS]: ['The Continuous Sensory Membrane'(-ing) BPMS]: ['The Live BYOX Sensory Stream'(-ing) BPMS]**
 
