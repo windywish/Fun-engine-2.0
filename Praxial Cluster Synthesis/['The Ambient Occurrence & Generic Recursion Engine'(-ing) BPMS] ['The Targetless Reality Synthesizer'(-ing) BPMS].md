@@ -12,7 +12,7 @@
   - **Mode C (Continuous Evolution):** `['praxial substrate'(-ing) BPMS]:[Generic-Recursion-Drive]`
   - **Mode D (Endless Continuity):** `['atomic facts'(-ing) BPMS]:[No-Endings-Actuator]`
 - **CGA (Cognitive Genesis Archetype):** `[Kinetic-Actuation-Cluster]:['The-Indifferent-Universe']`
-- Scope of Application:
+- **Scope of Application:**
   - **Baseline Tension Generation:** Procedurally generates the ambient physical threats and opportunities that entities must respond to in order to survive, completely decoupled from narrative scripts.
   - **Targetless Ecosystem Autopoiesis:** Ensures that non-player flora, fauna, and economic algorithms evolve, trade, and compost themselves recursively even if zero players are logged in.
   - **Continuous Paradigm Actuation:** Enforces the "No Endings" rule; when a massive Swarm War ends, the engine immediately utilizes the thermodynamic fallout to spawn the next generic occurrence.

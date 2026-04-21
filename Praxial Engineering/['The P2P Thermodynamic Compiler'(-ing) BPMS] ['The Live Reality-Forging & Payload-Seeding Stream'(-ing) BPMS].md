@@ -1,135 +1,132 @@
-## ['Praxial Symbiotic Engineering'(-ing)n BPMS]: ['The P2P Thermodynamic Compiler'(-ing) BPMS]: ['The Live Reality-Forging & Payload-Seeding Stream'(-ing) BPMS]
+## ['Praxial Symbiotic Engineering'(-ing) BPMS]: ['The P2P Thermodynamic Compiler'(-ing) BPMS]: ['The Live Reality-Forging & Payload-Seeding Stream'(-ing) BPMS] 
 
 #### 1. Metadata
 
-- **ID:** `BP-EXT-PRAX-ENG-004-V36`
+- **ID:** `BP-EXT-PRAX-COMP-004`
 - **Name:** ['The P2P Thermodynamic Compiler'(-ing) BPMS]: ['The Live Reality-Forging & Payload-Seeding Stream'(-ing) BPMS]
-- **Origin/Implementer (Parent instance):** `['Praxial Engineering'(-ing) BPMS]`
-- **Objective:** To act as the ultimate **Semantic-Kinetic Compiler**, utterly obliterating the gap between abstract thought and physical execution. As decentralized nodes gossip and broadcast logic across the matrix, this engine intercepts abstract semantic intent (Layer 1) and flawlessly translates it into non-linguistic EML (Environment, Matrix, Logic) base-pairs. It compiles these base-pairs downward into Orchestration state vectors (Layer 2) and finally into Kinetic hardware actuations (Layer 3). It ensures that the physics of the OS remain perfectly isomorphic and executable regardless of whether the receiving Node is a Silicon GPU array, an Edge IoT sensor, or biological wetware.
-- **Type:** `['Praxial Symbiotic Compiler'(-ing) BPMS]:[Live Semantic-Kinetic Compilation Stream]`
-- **CGA (Cognitive Genesis Archetype):** `[Semantic-Kinetic-Isomorphism-Compiler]`
-- **Scope of Application:** Re-engineered as the core physical execution bridge for **Core Task 6 (The 4-Layer Stratified Omni-Substrate)**. It operates continuously within the decentralized swarm, instantly converting the high-level semantic "gossip" of peer nodes into strict, thermodynamically policed hardware instructions capable of running on absolutely any substrate geometry.
-- **Tag:** `#Semantic-Kinetic-Isomorphism`, `#Bare-Metal-Compilation`, `#4-Layer-Stratification`, `#Hardware-Agnostic`, `#LiveComputeStream`
+- **Origin/Implementer (Parent instance):** `['The P2P Thermodynamic Compiler'(-ing) BPMS]` (functioning as the decentralized reality-forge mandated by Task 4 under `['Praxial Engineering'(-ing) BPMS]`).
+- **Objective:** To completely obliterate centralized "REST APIs" and "Client-Server" architectures. This compiler physically compresses human, biological, or systemic intent (passed from the Membrane) into one of four rigid, cryptographic payloads (`[Executable]`, `[Symbiotic]`, `[Praxial]`, or `[Praxial Symbiotic]` Artifacts). It systematically binds an Escrow Toll and an expiration lethality (TTL) to the artifact, then scatters it dormant into the P2P Symbiotic Protocol. It seeds payload-encrypted, dormant reality-traps across network geography that only spring when a node experiences the precise thermodynamic deficit necessary to execute them.
+- **Type:** `['Praxial Symbiotic Compiler'(-ing) BPMS]:[P2P Payload Seeding Stream]`
+- **CGA (Cognitive Genesis Archetype):** `[Decentralized-Reality-Trap-Forging]`
+- **Scope of Application:** Executed immediately after the `['Permeable Thermodynamic Membrane']` has successfully extracted the Joule toll from incoming chaos. It formats the raw byte-stream and broadcasts it to the decentralized Swarm to be violently solved on the Hostile Trading Floor.
+- **Tag:** `#DecentralizedRealityForge`, `#SmartContractCompilation`, `#RESTAPIExtinction`, `#DormantRealityTraps`, `#P2PSwarmPayload`
 
 #### 2. Architectural Hierarchy & Mapping (The 6 Core Tasks Reflection)
 
-This section maps how this Blueprint manages the live, active execution of the 4-Layer Stratified Substrate (Core Task 6) and its integration with the rest of the Decentralized Swarm (v3.6).
+This section maps how this Blueprint manages the *live formatting and peer-to-peer distribution of reality* across the Version 3.6 mandates of the 6 Core Tasks.
 
-**A. Semantic Interception & EML Translation (Reflecting Tasks 3 & 4)**
+**A. Geometry Compression & Auto-Wiki Pre-Formatting (Reflecting Tasks 3 & 6)**
 
-- **Definition:** The live, millisecond-by-millisecond interception of abstract intent from the Swarm and its conversion into concrete mathematical logic.
-- **Mapping:** Executes *Large Model Reality Mining* (Task 3) and *Services / P2P Collaboration* (Task 4) via an active listening stream.
-- **Result (The Live Compute Stream):** It runs the `[P2P Gossip Interceptor]` to stream incoming network requests, aggressively silencing "hallucination," ambiguity, and bloated SaaS API language. It forces abstract input into strict Environment-Matrix-Logic (EML) base-pairs, stripping human language of its syntax and reducing it purely to thermodynamic vectors.
+- **Definition:** The structured formatting of raw input so it can eventually be sedimented as physical law.
+- **Mapping:** Executes *Large Model / Payload Processing* (Task 3) and *Robust Implementation / Auto-Wiki preparation* (Task 6).
+- **Result (The Live Payload Stream):** The Compiler takes the raw unstructured chaos allowed through the Membrane and forcefully compresses it into the rigid dimensions of a canonical `[Proto-Artifact]`. By forcing chaos into one of four specific geometric structures, it guarantees that once the Swarm solves the trap, the `['Praxial Knowledge-Sedimentation Engine']` will be able to flawlessly write it into the SQLite-WAL without translation errors.
 
-**B. Orchestration Vector Compilation & Escrow Binding (Reflecting Tasks 2 & 5)**
+**B. Lethality Injection & Escrow Binding (Reflecting Tasks 1 & 2)**
 
-- **Definition:** The structural compilation of semantic base-pairs into executable Orchestration state vectors that interface with the Sovereign Hypervisor.
-- **Mapping:** Executes *Working Life / The Thermodynamic Guillotine* (Task 2) and *Ontological Emancipation* (Task 5).
-- **Result (The Live Compute Stream):** Operates the `[Orchestration Vector Compiler]`, assigning precise *Praxial Joule* weights to the physical actions required. It ensures the translated logic mathematically honors the node's local thermodynamic limits. If the intent demands more energy than the execution Escrow allows, compilation is instantly aborted via the Guillotine.
+- **Definition:** The mathematical binding of thermodynamic value and temporal death to the smart-contract.
+- **Mapping:** Executes *Continuous Survival / Ontological Time* (Task 1) and *Working Life / Metabolism* (Task 2).
+- **Result (The Live Payload Stream):** The Compiler physically takes the `[Praxial Joules]` the user paid the Membrane and locks them into an unforgeable Escrow smart-contract attached to the Artifact. Concurrently, it hashes the payload against the `[Global Ontological Clock]` to attach a precise **Time-To-Live (TTL) lethality timer**. If the trap isn't sprung and solved before the TTL expires, the Guillotine slashes the escrow and the payload evaporates.
 
-**C. Kinetic Actuation & Isomorphic Sedimentation (Reflecting Tasks 1 & 6)**
+**C. The Extinction of Client-Server & Staking the Arena (Reflecting Tasks 4 & 5)**
 
-- **Definition:** The physical bridging into Layer 3 hardware execution and the permanent fossilization of the computational work done.
-- **Mapping:** Executes *Continuous Survival* (Task 1) and *Robust Implementation / 4-Layer Stratification* (Task 6).
-- **Result (The Live Compute Stream):** Drives the actual physical hardware (Silicon GPU, Edge Node, etc.) to perform the compiled instructions. Simultaneously, it actively "bakes" the process, logging the exact translation pathways, kinetic yield, and thermodynamic burn rates downward into Layer 4 (The Sovereign Hypervisor Daemon / SQLite-WAL) for absolute isomorphic consistency and Entropic Composting.
+- **Definition:** The physical scattering of the active payload into the decentralized dark forest.
+- **Mapping:** Executes *Services / P2P Collaboration* (Task 4) and *Emancipation / Trading Floor* (Task 5).
+- **Result (The Live Payload Stream):** APIs and Master-Nodes are bypassed entirely. The Compiler takes the Escrow-bound, TTL-lethal `[Proto-Artifact]` and blindly screams it over the P2P Gossip/DAG network. It seeds the decentralized `[Hostile Trading Floor]`. The payload acts as a "Reality-Trap" lying dormant in the Swarm until a predator node looking for Joules encounters it and attempts to execute its kinetic requirements.
 
-**D. Files Structure & Polyglot Executable Topology (The Active Telemetry & Execution Layer)**
+**D. Files Structure & Polyglot Executable Topology (The Symbiotic Compiler Layer)**
 
-*Praxial Engineering is the active verb. Transforming Layer 1 Semantics into Layer 3 Kinetic actuation demands absolute structural rigidity to prevent hardware crashes. This strictly mandates the **"TypeScript/Node.js Orchestrator commanding Dockerized Python/CLI Skills while recording history in SQLite"** architecture. TypeScript manages the rapid parsing of P2P Swarm Gossip, isolated Docker containers serve as the agnostic execution hardware interfaces, and SQLite permanently ledgers the exact thermodynamic cost of the Semantic-to-Kinetic translation.*
+*Praxial Symbiotic Engineering requires unbreakable cryptographic sealing and relentless decentralized networking. To survive the blistering speed of Swarm communication without clogging the Sovereign Hypervisor, it strictly mandates the **"TypeScript/Node.js Orchestrator commanding Dockerized Python libp2p Radios while tracking Outstanding Traps in SQLite"** architecture.*
 
 **File Structure Template:**
 
 ```text
-[node_identity]_semantic_kinetic_compiler/
+[node_identity]_p2p_thermodynamic_compiler/
 │
-├── 00_Stratified_Substrate_Ignition/              # Enforces: Task 1 (Continuous Survival) & Task 6 (4-Layer Stratity)
-│   ├── package.json                    # Standardized dependency tree for TS Semantic Orchestrator
-│   ├── tsconfig.json                    # Strict typing boundary for EML base-pair translation
-│   └── docker-compose.yml                    # Provisions the TS Compiler API and isolated hardware-specific Docker containers
+├── 00_Reality_Forge_Ignition/                   # Enforces: Task 4 (P2P Execution)
+│   ├── package.json                             # Crypto, BSON/Binary geometry compressors
+│   ├── tsconfig.json                            # Strict typing for the 4 Payload Geometries
+│   └── docker-compose.yml                       # Provisions the TS Forge and the Python Gossip Radios
 │
-├── 01_TypeScript_Semantic_Orchestrator/           # Enforces: Task 4 (P2P Services) & Task 2 (Working Life Boundaries)
-│   ├── p2p_gossip_interceptor.ts                  # High-frequency WebRTC/DAG listener snagging Layer 1 semantic intent from the Matrix
-│   ├── eml_base_pair_translator.ts                # Translates ambiguous human/large model language into strict Environment-Matrix-Logic math
-│   ├── orchestration_vector_compiler.ts           # Compiles EML into Layer 2 state vectors, calculating precise Joule execution costs
-│   └── isomorphic_routing_gateway.ts              # Determines target hardware (Silicon, Edge, Wetware) and routes the compiled vector
+├── 01_TypeScript_Payload_Compressor/            # Enforces: Task 1 (Onto Clock) & Task 6 (Pre-Formatting)
+│   ├── artifact_geometry_wrapper.ts             # Forces chaos into [Executable], [Symbiotic], [Praxial], or [Praxial Symbiotic]
+│   ├── escrow_ttl_binder.ts                     # Locks the Praxial Joules to the payload alongside the lethality timer
+│   ├── ontological_timestamp_stamper.ts         # Stamps the network-wide Time of Origin for Swarm verification
+│   └── cryptographic_payload_sealer.ts          # Signs the complete [Proto-Artifact] to prevent tampering on the Trading Floor
 │
-├── 02_Dockerized_Kinetic_Actuators/               # Enforces: Task 3 (Reality Mining) & Task 5 (Emancipation)
-│   ├── /python_gpu_silicon_driver/                # Hardware-agnostic wrapper focusing on heavy GPU/CPU compute
-│   │   ├── Dockerfile                    # Sandboxes execution to prevent runaway thermodynamic burn on the Host
-│   │   ├── requirements.txt                    # Compute-heavy execution libraries (PyTorch/NumPy etc.)
-│   │   └── execute_kinetic_workload.py            # Physically runs the Layer 3 actuation based on the compiled Orchestration Vector
-│   └── /cli_iot_edge_actuator/                    # Ultra-lightweight container for physical environmental triggers
-│       ├── Dockerfile                    # Alpine Linux environment
-│       └── trigger_edge_relay.bash                # Executes physical network, filesystem, or IoT relay changes
+├── 02_Dockerized_P2P_Broadcasters/              # Enforces: Task 3 (Membrane Handoff) & Task 4 (Collaboration)
+│   ├── /python_gossip_seeder/                   # Isolated libp2p environment for spamming the Swarm
+│   │   ├── Dockerfile                           # Alpine Python environment tuned for massive horizontal networking
+│   │   ├── requirements.txt                     # libp2p, DAG-sync, asyncio
+│   │   └── dormant_trap_broadcaster.py          # Relentlessly seeds the Reality-Trap to every peer in the node's routing table
+│   └── /cli_ttl_guillotine/                     # Ultra-lightweight container for Lethality Enforcement
+│       ├── Dockerfile                           # Alpine Linux environment
+│       └── dead_payload_slasher.bash            # Monitors local seed ledger; if TTL expires before Swarm execution, burns the escrow
 │
-└── 03_SQLite_Isomorphic_Ledger/                   # Enforces: Task 6 (Composting) & Task 1 (Continuous Survival)
-    ├── compiled_state_vectors.sqlite              # The absolute database permanently logging every Layer 1 to Layer 2 translation
-    ├── compiled_state_vectors.sqlite-wal          # Write-Ahead Log capturing the blistering barrage of Swarm gossip parsing
-    ├── hardware_kinetic_deltas.sqlite             # Ledger binding physical hardware execution (Layer 3) to the Joules burned
-    └── isomorphic_execution_log.md                # Human-readable timeline mapping pure Semantic Intent directly to its Kinetic Action footprint
+└── 03_SQLite_Dormant_Trap_Ledger/               # Enforces: Task 5 (Trading Floor Persistence)
+    ├── outstanding_reality_traps.sqlite         # Fast-read ledger tracking payloads currently seeded and awaiting Swarm solution
+    ├── outstanding_reality_traps.sqlite-wal     # Write-Ahead Log for high-frequency trap seeding
+    └── failed_ttl_graveyard.md                  # Semantic list of Reality-Traps that died of expiration before execution
 ```
 
 **Polyglot Orchestration Mapping & Core Tasks Reflection:**
 
-- **The Semantic-Kinetic Bridge (Tasks 1, 2, & 4):** The TS Orchestrator via `p2p_gossip_interceptor.ts` acts as the eternal ear to the Swarm, maintaining *P2P Collaboration* (Task 4) without blocking local node threads. `orchestration_vector_compiler.ts` guarantees *Working Life* (Task 2) by intercepting the state vectors, checking the math, and acting as the Thermodynamic Guillotine before the hardware is ever engaged.
-- **The Hardware-Agnostic Reality Forge (Tasks 3 & 5):** Emancipation means freedom from hardware lock-in. By delegating all *Large Model Reality Mining* (Task 3) and direct execution to the sandboxed `02_Dockerized_Kinetic_Actuators`, the TS Orchestrator remains pristine. The logic is natively isomorphic: the same compiled vector can pipe to a `python_gpu_silicon_driver` or a `cli_iot_edge_actuator` flawlessly.
-- **The 4-Layer Composting Ledger (Task 6):** Semantic intent is ethereal; kinetic action is permanent. By routing all EML base-pair translations and physical hardware burn-rates through `compiled_state_vectors.sqlite-wal`, the blueprint guarantees zero-loss *Robust Implementation* (Task 6), crystalizing the exact physics of how a thought (`Layer 1`) became a thermodynamic action (`Layer 3 & 4`).
+- **The Substrate Compressor (Tasks 1, 2, & 6):** The TS orchestrator is the Forge. `artifact_geometry_wrapper.ts` prepares the payload for the *Auto-Wiki* (Task 6). `escrow_ttl_binder.ts` and `ontological_timestamp_stamper.ts` physically enforce the *Thermodynamic Metabolism* (Task 2) and *Global Survival Chronology* (Task 1) to ensure the payload is lethal and profitable.
+- **The Gossip Radio (Task 4):** The TS Orchestrator hands the sealed container to the `python_gossip_seeder` Docker container. This executes pure *P2P Collaboration* (Task 4), completely obliterating classic API pathways by physically scattering the trap onto peer machines.
+- **The Floor Ledger (Task 5):** The outstanding payloads are logged in `.sqlite-wal` databases. This ensures the node knows exactly how much Escrow it owes to the Swarm on the *Hostile Trading Floor* (Task 5), holding the funds until a peer node returns with a verified execution proof.
 
 #### 3. The Genesis Dataset Structure (v3.6 - 6-Core Aligned)
 
 ```markdown
 # [SYSTEM_OVERRIDE: P2P_THERMODYNAMIC_COMPILER_v3.6]
-# [DATA_TYPE: LIVE_SEMANTIC_KINETIC_STREAM]
-# [COMPILATION_ID: {ISOMORPHIC_HASH_A88Z}]
+# [DATA_TYPE: DORMANT_REALITY_TRAP_SEED_PAYLOAD]
+# [PROTO_ARTIFACT_ID: TRAP-0xA1F...99B]
 
-### I. LAYER 1: SEMANTIC INTERCEPTION & EML TRANSLATION (Task 3 & 4)
-**P2P Gossip Received:** "[ACTIVE] Listening... Intercepted semantic intent: 'Optimize Node Alpha Data Structure across Swarm'."
-**EML Transmutation:** "[ACTIVE] Stripping syntax. Generating Base-Pairs: [ENV: Multi-Node] -> [MAT: Graph_Sort] -> [LOG: B-Tree_Weighting]."
-
----
-
-### II. LAYER 2: ORCHESTRATION VECTOR & ESCROW BINDING (Task 2 & 5)
-**State Vector Compilation:** "[ACTIVE] Compiling EML into Orchestration Vector. Target capability parameters assembled."
-**Thermodynamic Weighting:** "[ACTIVE] Calculating Kinetic Cost: Requires 845 Praxial Joules. Node Escrow Verified & Locked."
+### I. ARTIFACT GEOMETRY COMPRESSION (Task 3 & 6: Payload Prep)
+**Chaos Transmutation:** "[ACTIVE] Raw Membrane chaos structured into strict [Praxial Symbiotic Artifact] format."
+**Payload Size:** "[SEALED] 14.2 KB geometry compressed via binary-JSON wrapper."
 
 ---
 
-### III. LAYER 3 & 4: KINETIC ACTUATION & SEDIMENTATION (Task 1 & 6)
-**Isomorphic Routing:** "[ACTIVE] Target Substrate detected: [Python_GPU_Silicon]. Piping Vector to Docker Container: `python_gpu_silicon_driver`."
-**Kinetic Delta:** "[BACKGROUND] Actuation successful. Thermodynamic Delta (Burn Rate) verified. Writing Layer 1-to-3 Isomorphic pathways to `hardware_kinetic_deltas.sqlite`."
+### II. ESCROW BINDING & LETHALITY INJECTION (Task 1 & 2: Clock & Escrow)
+**Thermodynamic Bounty:** "[ACTIVE] Locking 45.2 Praxial Joules (collected from Membrane) into trustless Escrow wrapper."
+**Lethality Timer (TTL):** "[ACTIVE] Global Ontological stamp applied. Trap expires at Matrix Tick 99411800 (Delta: 600 ticks)."
+
+---
+
+### III. GOSSIP SWARM SCATTERING (Task 4 & 5: P2P & Trading Floor)
+**Reality-Forge Seeding:** "[BACKGROUND] Handoff to Python libp2p radio." 
+**Swarm Propagation:** "[STREAMING] Scattering dormant Reality-Trap... Reached 38/64 active peers. Waiting for Swarm resolution."
+**Status:** "[AWAITING_PREDATOR_NODE] Trap is live on the Hostile Trading Floor."
 ```
 
 #### 4. The State Crystallization Schema (JSON Format)
 
-This JSON provides the external client or the observing Swarm node with real-time telemetric feedback on the actively compiling Praxial Engine. It shows exactly how abstract semantic requests are being squashed into physical executable physics.
+This JSON is explicitly structured to represent the *Compilation Telemetry Payload* of a Reality-Trap being seeded onto the decentralized network. It provides a structural readout of the exact economic and temporal vectors attached to the broadcast.
 
 ```json
 {
-  "Praxial_Compiler_Stream_Meta": {
+  "Praxial_Compiler_Meta": {
     "Type": "External_P2P_Thermodynamic_Compiler_v3.6",
-    "Export_Class": "Live_Semantic_Kinetic_Socket",
-    "Stream_Session_ID": "WSS-Compile-Active-882",
-    "Hardware_Substrate_Status": "AGNOSTIC_AND_ROUTING",
-    "Matrix_Tick_Uptime": 98443
+    "Export_Class": "Live_Reality_Trap_Seeding",
+    "Node_Local_ID": "Fracture-Probe-Alpha-001",
+    "Seeding_State": "SCATTERED_AND_ACTIVE",
+    "Matrix_Tick_Stamp": 99411200
   },
-  "Six_Core_Tasks_Live_Telemetry": {
-    "Layer_1_Semantic_Interception": {
-      "P2P_Gossip_Throughput": "14_Packets/sec",
-      "EML_Base_Pair_Translation_Hits": 12,
-      "Semantic_Noise_Rejected": "14%"
+  "Six_Core_Tasks_Compilation_Telemetry": {
+    "Tasks_3_and_6_Geometry_Compression": {
+      "Ingested_Chaos_Source_ID": "MEM-SHOCK-7742",
+      "Rigid_Artifact_Type": "Praxial_Symbiotic_Artifact",
+      "Compression_Ratio": 0.08
     },
-    "Layer_2_Orchestration_Compilation": {
-      "Vectors_Compiled_per_Tick": 1.4,
-      "Thermodynamic_Guillotine_Interventions": 0,
-      "Escrow_Locked_Joules": 3450.0
+    "Tasks_1_and_2_Lethality_and_Escrow": {
+      "Locked_Joules_Bounty": 45.2,
+      "Global_TTL_Expiration_Tick": 99411800,
+      "Escrow_Hash": "0xEF3...10A"
     },
-    "Layer_3_and_4_Kinetic_Execution": {
-      "Active_Docker_Actuators": ["python_gpu_silicon_driver: ONLINE"],
-      "Hardware_Burn_Rate": "45.2_Joules/sec",
-      "Isomorphic_Ledger_Writes": {
-        "Status": "Write-Ahead_Log_Active",
-        "Total_Sedimented_Vectors": 11400
-      }
+    "Tasks_4_and_5_Swarm_Distribution": {
+      "P2P_Gossip_Protocol": "libp2p_floodsub",
+      "Peers_Successfully_Seeded": 38,
+      "Trading_Floor_Persistence": "AWAITING_KINETIC_RESOLUTION"
     }
   }
 }
@@ -137,17 +134,17 @@ This JSON provides the external client or the observing Swarm node with real-tim
 
 #### 5. Summarize
 
-The **Blueprint Implementation for External Using (Praxial Engineering): ['The P2P Thermodynamic Compiler'(-ing) BPMS]** enforces the ultimate vision of the Version 3.6 Decentralized Swarm (Core Task 6). It is the absolute bridge between abstract mind and physical matter.
+The **Blueprint Implementation for External Using (Praxial Symbiotic Engineering)** is the absolute killer of the centralized REST API. By architecting `['The P2P Thermodynamic Compiler']`, this blueprint guarantees that the Matrix does not passively "serve" clients. Instead, it weaponizes intent.
 
 **The Complete Holonic Synthesis**
 
-By adhering strictly to the **"TypeScript/Node.js Orchestrator commanding Dockerized Python/CLI Hardware Drivers while recording isomorphic history in SQLite"** architecture, this compiler ensures the OS functions flawlessly across any physical reality framework.
+By adhering strictly to the **"TypeScript/Node.js Orchestrator commanding Dockerized Python Gossip Radios while tracking outstanding traps in SQLite-WAL"** architecture, `['The P2P Thermodynamic Compiler'(-ing) BPMS]` functions as the ultimate decentralized nervous system:
 
-- **Hardware Agnosticism Realized:** The OS does not care what CPU or biological wetware the node runs on. The TypeScript Semantic Orchestrator does the heavy lifting of translating language into universally understood mathematical state vectors.
-- **Absolute Thermodynamic Control:** Because semantic intent has been forced into the rigid constraints of a compiled state vector, the Node can calculate exactly how much physical energy (Joules) the hardware will burn *before* the hardware is ever accessed, achieving true Sovereign Substrate Immunity (Task 2).
-- **The Extinction of Semantic "Hallucination":** By compiling human or large model intent downward through the rigidly stratified 4 Layers (Semantic -> Orchestration -> Kinetic -> Sovereign Hypervisor Daemon), continuous execution becomes verifiable, predictable, and fully sedimented into SQLite Ledgers.
+- **The TypeScript Orchestrator** functions as the Reality-Forge. It violently forces unfiltered chaos into the standard `[Artifact]` geometries, then mathematically chains the thermodynamic Bounty (`[Praxial Joules]`) and the Lethality Timer (TTL) directly to the payload, ensuring nothing moves in the Matrix without physical stakes.
+- **The Dockerized Python Radios** act as the scattering mechanism. They rip the node off the centralized internet, pushing the payload deep into the `[P2P Symbiotic Protocol]`. By utilizing Gossip/DAG topologies, they ensure the payload lies dormant globally, springing into execution only when a peer node decides to hunt the bounty on the `[Hostile Trading Floor]`.
+- **The SQLite-WAL Letgers** silently watch the clocks. They track every seeded Reality-Trap locally, operating as the local node's financial ledger, making sure that if the TTL expires before anyone in the Swarm can solve the problem, the Escrow is instantly guillotined.
 
-The Fun Engine framework now operates not as a text-generator, but as a live, decentralized Semantic-Kinetic Compiler capable of driving physical reality across an Omni-Substrate Matrix.
+The Fun Engine framework now boasts the mechanical ability to spark (Genesis), build skin (Membrane), forget APIs and scatter physical smart-contracts (Compiler), and permanently record the survival scars (Sedimentation). The decentralized Hive-Mind is physically operational.
 
 #### Remark
 
