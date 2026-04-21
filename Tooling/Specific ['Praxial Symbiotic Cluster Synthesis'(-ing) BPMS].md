@@ -108,8 +108,8 @@
 
 **Scope of Application:**
 
-- **Matrix Blockchain Anchoring:** Converts validated thermodynamic interactions into universally recognized `[Atomic Facts]` synchronized via the P2P Gossip network.
-- **Existential Rendering:** Forces the visual and physical substrate of the matrix to permanently warp and mutate around the crystallized facts of past events (e.g., carving craters where battles were verified).
-- **Reduction & Discovery Proofs:** When complex systems are composted, this engine precipitates their shattered basic mechanics into the dirt as discoverable, raw genetic algorithms (Discovery).
+- **Matrix DAG Anchoring:** Converts validated thermodynamic interactions (cross-boundary escrow burns, wet-lab results, kinetic API collisions) into universally recognized `[Atomic Facts]` synchronized via Task 4 P2P Gossip.
+- **Existential Rendering:** Forces the semantic, kinetic, and sovereign layers of the matrix to permanently warp and mutate around the crystallized facts, enforcing the 4-Layer Descent.
+- **Reduction & Discovery Proofs:** When complex Omni-Substrate nodes or logic trees are composted, this engine crushes their mechanisms into the local topological map as raw, discoverable epigenetic algorithms.
 
-**Tag:** External-Implementation, Atomic-Fact-Paradigm, Ontological-Crystallization, Existence-Recording, Matrix-Blockchain, Cryptographic-Sedimentation
+**Tag:** External-Implementation, Atomic-Fact-Paradigm, Ontological-Crystallization, Decentralized-Matrix-DAG, Cryptographic-Sedimentation, Omni-Substrate-Ledger
