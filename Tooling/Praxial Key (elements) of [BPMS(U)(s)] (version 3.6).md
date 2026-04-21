@@ -2252,13 +2252,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Ambient Occurrence & Generic Recursion Engine'(-ing) BPMS]: ['The Targetless Reality Synthesizer'(-ing) BPMS]**
 
-**Scope of Application:**
+**Scope of Application:** Deployed when a sovereign node (or swarm of nodes) requires a living, breathing background ecosystem. It applies procedural kinetic tension (weather, market decay, biological drift) to the substrate, forcing any intelligence that *does* connect to adapt to a reality that moves without them.
 
-- **Baseline Tension Generation:** Procedurally generates the ambient physical threats and opportunities that entities must respond to in order to survive, completely decoupled from narrative scripts.
-- **Targetless Ecosystem Autopoiesis:** Ensures that non-player flora, fauna, and economic algorithms evolve, trade, and compost themselves recursively even if zero players are logged in.
-- **Continuous Paradigm Actuation:** Enforces the "No Endings" rule; when a massive Swarm War ends, the engine immediately utilizes the thermodynamic fallout to spawn the next generic occurrence.
-
-**Tag:** External-Implementation, Ambient-Occurrence, Continuous-Paradigm, Generic-Recursion, Targetless-Ecosystem, Sustainable-Perpetuation
+**Tag:** PraxialClusterSynthesis, AmbientOccurrence, TargetlessReality, GenericRecursion, OmniSubstrateIndifference
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Ontological Crystallization & Fact-Precipitation Engine'(-ing) BPMS]: ['The Sovereign Ledger of Existence'(-ing) BPMS]**
 
