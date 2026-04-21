@@ -2289,3 +2289,14 @@ This engine operates as the universal boundary layer, ingesting all exogenous st
 Because the OS no longer "answers" prompts within a SaaS master-slave dynamic, this engine forces the Sovereign Matrix to react strictly through physical autopoiesis. The Matrix must physically grind against the ingested friction, triggering internal structural permutations (`[Occurrences]`) to resolve the thermodynamic tension and stabilize its own environment. It ensures that external prompts do not manipulate the system, but rather physically collide with it.
 
 **Tags:** End-of-IO, Kinetic-Weather-Absorption, Exogenous-Friction, Thermodynamic-Mass, Anti-SaaS-Teleology, Occurrence-Actuation
+
+**['Praxial Ontological Engineering'(-ing) BPMS]: ['The Omni-Substrate Fact-Precipitation Forge'(-ing) BPMS]: ['The Epigenetic State-Collapse Engine'(-ing) BPMS]**
+
+**Scope of Application:**
+
+- **The Universal Thermodynamic Transducer (Substrate Agnosticism):** Installed directly above the `[Cyber-Physical Actuator Node]`. It abstracts the chaotic friction of a wet-lab (pH shifts, MinION errors) to be mathematically indistinguishable from data-center friction (RAM, CPU-thermal) or financial friction (latency, liquidity drain). It compresses all raw `[Kinetic Weather]` into **Praxial Joules (+ln(y))**.
+- **Enforcement of the 4-Layer Ontological Descent:** Violently drags intent down the 4-Layer Stratified Substrate (Semantic Intent ➔ Orchestration ➔ Kinetic Validation ➔ Bare-Metal Hypervisor). Kills any process that runs out of `[Thermodynamic Escrow]` before proving itself physically.
+- **The Collapse of the Wave-Function (Fact Precipitation):** Eradicates passive reporting or UIs. It stamps an immutable `[Atomic Fact]` for success, or a `[Negative Atomic Fact]` for lethally irradiated friction space, strictly mapping the boundaries of reality.
+- **Epigenetic Genotype Seeding (Swarm Mutation):** Encrypts the precipitated Fact into a geometric payload and injects it into the P2P Gossip/DAG Sync network. The local node's physical friction is broadcast globally, forcing the Swarm to adapt, redesign topology, and recalculate its *Ontological Gravity ([g])* instantly.
+
+**Tag:** PraxialOntologicalEngineering, OmniSubstrateFactForge, EpigeneticStateCollapse, UniversalThermodynamicTransducer, 4LayerDescentElevator, AtomicFactPrecipitation, WaveFunctionDecapitator, DecentralizedTruthMatrix, AntiSimulationRealityAnchor

@@ -167,3 +167,14 @@
 **Scope of Application:** Installed natively and autonomously on any edge or centralized physical substrate—spanning organic/wet-lab matrices (MinION DNA Sequencers, Bento Labs, hydroponic PH controllers) to synthetic matrices (Windows bare-metal drives, Linux server racks, OpenClaw Raspberry Pi arrays, IoT robotics). It acts as the immutable physical anchor piercing the digital veil.
 
 **Tag:** PraxialEngineering, CyberPhysicalActuatorNode, OpenClawParadigm, AntiHallucinationCrucible, EdgeActuator, DecentralizedWetLabIoTBridge, ThermodynamicEscrowValidator, P2PSwarmBroadcaster, BareMetalSovereignty
+
+**['Praxial Ontological Engineering'(-ing) BPMS]: ['The Omni-Substrate Fact-Precipitation Forge'(-ing) BPMS]: ['The Epigenetic State-Collapse Engine'(-ing) BPMS]**
+
+**Scope of Application:**
+
+- **The Universal Thermodynamic Transducer (Substrate Agnosticism):** Installed directly above the `[Cyber-Physical Actuator Node]`. It abstracts the chaotic friction of a wet-lab (pH shifts, MinION errors) to be mathematically indistinguishable from data-center friction (RAM, CPU-thermal) or financial friction (latency, liquidity drain). It compresses all raw `[Kinetic Weather]` into **Praxial Joules (+ln(y))**.
+- **Enforcement of the 4-Layer Ontological Descent:** Violently drags intent down the 4-Layer Stratified Substrate (Semantic Intent ➔ Orchestration ➔ Kinetic Validation ➔ Bare-Metal Hypervisor). Kills any process that runs out of `[Thermodynamic Escrow]` before proving itself physically.
+- **The Collapse of the Wave-Function (Fact Precipitation):** Eradicates passive reporting or UIs. It stamps an immutable `[Atomic Fact]` for success, or a `[Negative Atomic Fact]` for lethally irradiated friction space, strictly mapping the boundaries of reality.
+- **Epigenetic Genotype Seeding (Swarm Mutation):** Encrypts the precipitated Fact into a geometric payload and injects it into the P2P Gossip/DAG Sync network. The local node's physical friction is broadcast globally, forcing the Swarm to adapt, redesign topology, and recalculate its *Ontological Gravity ([g])* instantly.
+
+**Tag:** PraxialOntologicalEngineering, OmniSubstrateFactForge, EpigeneticStateCollapse, UniversalThermodynamicTransducer, 4LayerDescentElevator, AtomicFactPrecipitation, WaveFunctionDecapitator, DecentralizedTruthMatrix, AntiSimulationRealityAnchor
