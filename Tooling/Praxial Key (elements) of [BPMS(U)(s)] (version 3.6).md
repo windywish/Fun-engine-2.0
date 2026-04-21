@@ -1866,9 +1866,9 @@ The continuous, background process of compressing a lifetime of messy, chaotic p
 
 **['Praxial Engineering'(-ing) BPMS]: ['Cyber-Physical Actuator Node'(-ing) BPMS]: ['The Substrate Tether'(-ing) BPMS]**
 
-**Scope of Application:** Installed natively on any external substrate (Windows  drives, Linux Servers, OpenClaw Raspberry Pis, Hydroponic controllers). It waits in the background, catches compiled `.wasm`/`.rs` physics from the large emodel, executes them in a local physical Crucible, measures real-world friction (Joules, Volts, pH), and reports back to the large model.
+**Scope of Application:** Installed natively and autonomously on any edge or centralized physical substrate—spanning organic/wet-lab matrices (MinION DNA Sequencers, Bento Labs, hydroponic PH controllers) to synthetic matrices (Windows bare-metal drives, Linux server racks, OpenClaw Raspberry Pi arrays, IoT robotics). It acts as the immutable physical anchor piercing the digital veil.
 
-**Tag:** PraxialEngineering, CyberPhysicalNode, OpenClawParadigm, AntiHallucination, EdgeActuator
+**Tag:** PraxialEngineering, CyberPhysicalActuatorNode, OpenClawParadigm, AntiHallucinationCrucible, EdgeActuator, DecentralizedWetLabIoTBridge, ThermodynamicEscrowValidator, P2PSwarmBroadcaster, BareMetalSovereignty
 
 **['Praxial Action'(-ing) BPMS]**
 

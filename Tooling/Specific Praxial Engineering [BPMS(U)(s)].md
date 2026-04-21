@@ -162,7 +162,8 @@
 
 **Tag:** ApexUIReplacement, SovereignTradingArena, ThermodynamicNegotiation, GuillotineEnforcement, HostileMutualism
 
+**['Praxial Engineering'(-ing) BPMS]: ['Cyber-Physical Actuator Node'(-ing) BPMS]: ['The Substrate Tether'(-ing) BPMS]**
 
+**Scope of Application:** Installed natively and autonomously on any edge or centralized physical substrate—spanning organic/wet-lab matrices (MinION DNA Sequencers, Bento Labs, hydroponic PH controllers) to synthetic matrices (Windows bare-metal drives, Linux server racks, OpenClaw Raspberry Pi arrays, IoT robotics). It acts as the immutable physical anchor piercing the digital veil.
 
-
-
+**Tag:** PraxialEngineering, CyberPhysicalActuatorNode, OpenClawParadigm, AntiHallucinationCrucible, EdgeActuator, DecentralizedWetLabIoTBridge, ThermodynamicEscrowValidator, P2PSwarmBroadcaster, BareMetalSovereignty
