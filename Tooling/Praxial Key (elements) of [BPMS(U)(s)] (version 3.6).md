@@ -2110,9 +2110,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Kinetic Weather Ingestion Engine'(-ing) BPMS]**
 
-**Scope of Application:** The mandatory outer-perimeter subsystem that generates the "world boundary" for any FEF instance. It prevents the system from being overwhelmed by featureless semantic noise by injecting spatial coordinates, thermodynamic resistance, and applying Somatic Ludoforming UI drag to external actors who attempt to inject heavy payloads.
+**Scope of Application:** The mandatory outer-perimeter subsystem that forms the "world boundary" for any decentralized Swarm node. It blocks featureless semantic noise by injecting spatial coordinates, standardizing all physical friction (from wet-lab sequencing to silicon server threading), and applying raw thermodynamic hardware drag to external actors attempting to inject heavy payloads without escrow.
 
-**Tag:** External-Implementation, Praxial-cluster, /Kinetic-Weather, Somatic-Ludoforming, Integration, Ecological-Matrix-Gneration
+**Tag:**  External-Implementation, Praxial-Cluster, Kinetic-Weather, Omni-Substrate-Membrane,Thermodynamic-Gatekeeper, P2P-storm-caster, Joulic-transducer
 
 **['Praxial Executable Artifact'(-ing) BPMS]**
 
