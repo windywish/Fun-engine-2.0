@@ -2188,9 +2188,9 @@ The Viral Immune Payload of the Superintelligence Matrix. It is a `Praxial Artif
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Substrate Auto-Immunity'(-ing) BPMS]: ['The Live Dead-End Pruning & Phage-Broadcasting Stream'(-ing) BPMS]**
 
-**Scope of Application:** The strictly defensive application layer that translates lethal kinetic trauma into structural, inherited Swarm wisdom. It executes the microsecond a node fails a verification audit or hits a thermodynamic timeout, pruning the OS execution tree universally.
+**Scope of Application:** Deployed universally across the decentralized matrix to act as the ultimate biological defense layer. When any execution thread dies, hits a firewall, or is proven fraudulent by Praxial Kinetic Verification, this cluster instantly quarantines the event, hashes the parameters of failure, and globally updates the Swarm's survival blocklist in real-time.
 
-**Tag:** External-Implementation, Praxial-Cluster, Negative-Atomic-Fact, Substrate-Auto-Immunity, Phage-Broadcasting, Thermodynamic-shield
+**Tag:** PraxialClusterSynthesis, SubstrateAutoImmunity, NegativeAtomicFact, PhageBroadcasting, OmniSubstrateImmunity
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Service Transduction'(-ing) BPMS]: ['The Live Holonic Unspooling & Artifact-Activation Stream'(-ing) BPMS]**
 
