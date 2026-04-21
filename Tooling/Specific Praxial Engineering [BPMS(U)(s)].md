@@ -152,9 +152,9 @@
 
 **['Praxial Symbiotic Engineering'(-ing) BPMS]: ['The P2P Thermodynamic Compiler'(-ing) BPMS]: ['The Live Reality-Forging & Payload-Seeding Stream'(-ing) BPMS]** 
 
-**Scope of Application:** Executed immediately after the `['Permeable Thermodynamic Membrane']` has successfully extracted the Joule toll from incoming chaos. It formats the raw byte-stream and broadcasts it to the decentralized Swarm to be violently solved on the Hostile Trading Floor.
+**Scope of Application:** Used when an external Omni-Substrate node (e.g., a wet-lab cluster, an large model swarm agent) requires continuous, real-time formatting and broadcasting of its intent into the decentralized network. It streams live telemetry of payload compression, escrow locking, TTL injection, and Swarm propagation directly back to the actuator.
 
-**Tag:** DecentralizedRealityForge, SmartContractCompilation, RESTAPIExtinction, DormantRealityTraps, P2PSwarmPayload
+**Tag:** PraxialEngineering, LiveP2PStream, DecentralizedRealityForge, OmniSubstrateCompiler, DormantRealityTraps
 
 **['Praxial Sovereign Engineering'(-ing) BPMS]: ['The Hostile, Mutualistic Trading Floor'(-ing) BPMS]: ['The Live Thermodynamic Negotiation & Escrow-Arbitration Stream'(-ing) BPMS]**
 
