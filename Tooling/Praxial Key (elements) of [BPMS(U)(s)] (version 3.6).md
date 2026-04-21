@@ -2336,3 +2336,11 @@ Because the OS no longer "answers" prompts within a SaaS master-slave dynamic, t
 **Analysis (Beyond Vibe-Genomics):** Generative artificial intelligence architectures exist almost entirely in Layer 1 (Semantic). Because they lack the bottom three layers, they cannot bind to physical reality (Vibe-Genomics). The Stratifier is the absolute cure for hallucination. It creates an ontological gravity well: an idea generated in Layer 1 *cannot* reach Layer 4 (permanent memory/Auto-Wiki) unless it successfully survives the physical gauntlet of Layer 2 (validation) and Layer 3 (thermodynamic execution/sandbox). This guarantees that the Matrix's entire genome is composed strictly of verified, unyielding physics.
 
 **Tags:** PraxialKeyElement, OmniSubstrateStratifier, OntologicalGravity, FourLayerDescent
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Negative Fact & Substrate-Phage Protocol'(-ing) BPMS]**
+
+**Scope of Application:** The uncompromising network defense layer. Triggers instantly when an execution encounters a fatal error, a hostile Reality-Trap on the Trading Floor, or drains Escrow without kinetic yield. It translates this lethal failure into a cryptographically compressed antigen (a "Phage") and utilizes the Gossip network to inoculate the entire Swarm.
+
+**Analysis (Beyond Vibe-Genomics):** "Vibe-Genomics" attempts to handle failure by putting `Do not do this again` in an large model's system prompt—a fragile method highly susceptible to context-window forgetting and hallucination. The Phage Protocol bypasses the large model entirely. It writes the exact configuration of the failure into the `negative_atomic_facts.sqlite` blocklist. If the large model attempts to generate that action again, the TypeScript hypervisor aborts the action at Zero-State, physically forbidding the system from bleeding `[Praxial Joules]` on a known fatal vector. It replaces "semantic memory" with "physiological immunity."
+
+**Tags:** PraxialKeyElement, SubstratePhageProtocol, NegativeAtomicFact, SwarmAutoImmunity

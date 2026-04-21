@@ -109,3 +109,11 @@
 - **Reduction & Discovery Proofs:** When complex Omni-Substrate nodes or logic trees are composted, this engine crushes their mechanisms into the local topological map as raw, discoverable epigenetic algorithms.
 
 **Tag:** External-Implementation, Atomic-Fact-Paradigm, Ontological-Crystallization, Decentralized-Matrix-DAG, Cryptographic-Sedimentation, Omni-Substrate-Ledger
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Negative Fact & Substrate-Phage Protocol'(-ing) BPMS]**
+
+**Scope of Application:** The uncompromising network defense layer. Triggers instantly when an execution encounters a fatal error, a hostile Reality-Trap on the Trading Floor, or drains Escrow without kinetic yield. It translates this lethal failure into a cryptographically compressed antigen (a "Phage") and utilizes the Gossip network to inoculate the entire Swarm.
+
+**Analysis (Beyond Vibe-Genomics):** "Vibe-Genomics" attempts to handle failure by putting `Do not do this again` in an large model's system prompt—a fragile method highly susceptible to context-window forgetting and hallucination. The Phage Protocol bypasses the large model entirely. It writes the exact configuration of the failure into the `negative_atomic_facts.sqlite` blocklist. If the large model attempts to generate that action again, the TypeScript hypervisor aborts the action at Zero-State, physically forbidding the system from bleeding `[Praxial Joules]` on a known fatal vector. It replaces "semantic memory" with "physiological immunity."
+
+**Tags:** PraxialKeyElement, SubstratePhageProtocol, NegativeAtomicFact, SwarmAutoImmunity
