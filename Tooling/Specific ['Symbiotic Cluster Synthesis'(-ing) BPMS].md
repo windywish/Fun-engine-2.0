@@ -494,11 +494,9 @@
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Dynamic Barter & Contract Forge'(-ing) BPMS]**
 
-**Scope of Application:** Applies to the active, peer-to-peer collaboration mechanics of Core Task 4. It replaces rigid APIs with a living `['Dynamic Barter and Contract Forge']`. It utilizes non-representational `[Vibe]` to align disparate nodes, facilitating organic `[Teambuilding]` and `['Symbiotic Capability Fusion']`. This ensures that polyglot services can merge their thermodynamic and semantic capabilities seamlessly without centralized orchestration.
+**Scope of Application:** Deployed universally as the absolute P2P exchange layer (Core Task 4). It is the engine that allows disparate sovereign nodes to discover each other via the Gossip Protocol, lock kinetic energy, and temporarily combine their computational physics (`[Symbiotic Capability Fusion]`) without a centralized coordinator or master server.
 
-**Analysis:** This element belongs fundamentally to the Services and Collaboration mechanisms of the OS. The Polyglot Barter & Fusion Nexus is the parent orchestrator that handles how autonomous agents and nodes communicate (Core Task 4). It uses the "Dynamic Barter & Contract Forge" as its physical execution arm to completely replace static APIs. Instead of executing REST requests, the parent uses this Forge to enforce trustless thermodynamic escrow, ensuring two disparate holons can dynamically fuse, share processing power, and resolve boundary logic via a live, enforced smart contract.
-
-**Tag:** External-Implementation, Dynamic-Barter, Trustless-Escrow, Vibe-Alignment, Capability-Fusion
+**Tag:** SymbioticClusterSynthesis, DynamicBarter, TrustlessEscrow, CapabilityFusion, OmniSubstrateSymbiosis
 
 **['Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Mycelial Network Weaving Engine'(-ing) BPMS]**
 
