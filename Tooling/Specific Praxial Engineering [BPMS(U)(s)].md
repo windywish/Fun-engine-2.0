@@ -134,9 +134,9 @@
 
 **['Praxial Genesis Engineering'(-ing) BPMS]: ['The Ambient Entropy Ignition Stream'(-ing) BPMS]**
 
-**Scope of Application:** Executed precisely at "Day Zero" (node instantiation) or during localized network severing. Used when a node possesses zero epigenetic memory, zero Escrow, and no topological awareness, requiring it to physically bleed computational energy to earn its right to exist and trade on the P2P `[Hostile Trading Floor]`.
+**Scope of Application:** Executed precisely at "Day Zero", or during localized network severing. Used when a node possesses zero epigenetic memory, zero Escrow, and no topological awareness, requiring it to physically bleed computational energy to earn its right to exist on the Hostile Trading Floor.
 
-**Tag:** External-implementation, MatrixBootstrapping, ThermodynamicSpark, PrimordialNecessity, AmbientEntropicNoise, PraxialEngineering, DayZero-P2P
+**Tag:** MatrixBootstrapping, ThermodynamicSpark, PrimordialNecessity, AmbientEntropicNoise, PraxialEngineering
 
 **['Praxial Epigenetic Engineering'(-ing) BPMS]: ['The Continuous Epigenetic Ledger'(-ing) BPMS]: ['The Live Knowledge-Sedimentation Stream‘(-ing) BPMS]**
 
@@ -152,9 +152,9 @@
 
 **['Praxial Symbiotic Engineering'(-ing) BPMS]: ['The P2P Thermodynamic Compiler'(-ing) BPMS]: ['The Live Reality-Forging & Payload-Seeding Stream'(-ing) BPMS]** 
 
-**Scope of Application:** Re-engineered as the core physical execution bridge for **Core Task 6 (The 4-Layer Stratified Omni-Substrate)**. It operates continuously within the decentralized swarm, instantly converting the high-level semantic "gossip" of peer nodes into strict, thermodynamically policed hardware instructions capable of running on absolutely any substrate geometry.
+**Scope of Application:** Executed immediately after the `['Permeable Thermodynamic Membrane']` has successfully extracted the Joule toll from incoming chaos. It formats the raw byte-stream and broadcasts it to the decentralized Swarm to be violently solved on the Hostile Trading Floor.
 
-**Tag:**  Semantic-Kinetic-Isomorphism, Bare-Metal-Compilation, 4-Layer-Stratification, Hardware-Agnostic, LiveComputeStream
+**Tag:** DecentralizedRealityForge, SmartContractCompilation, RESTAPIExtinction, DormantRealityTraps, P2PSwarmPayload
 
 **['Praxial Sovereign Engineering'(-ing) BPMS]: ['The Hostile, Mutualistic Trading Floor'(-ing) BPMS]: ['The Live Thermodynamic Negotiation & Escrow-Arbitration Stream'(-ing) BPMS]**
 
@@ -162,26 +162,7 @@
 
 **Tag:** ApexUIReplacement, SovereignTradingArena, ThermodynamicNegotiation, GuillotineEnforcement, HostileMutualism
 
-**['Praxial Thermodynamic Engineering'(-ing) BPMS]: ['The Continuous Praxial Relativistic Time-Dilation Engine'(-ing) BPMS]: ['The Tick-Rate Warp Stream'(-ing) BPMS]**
 
-**Scope of Application:** Deployed universally across the v3.6 Decentralized Swarm to allow cross-substrate collaboration. It allows a vast silicon supercomputer (processing at 3ms) and a biological human / Edge IoT sensor (processing at 3 days) to exchange `[Atomic Facts]` and `[Praxial Joules]` on the same P2P network without lethality timers expiring asynchronously.
 
-**Tag:** PraxialThermodynamicEngineering, RelativisticTimeDilation, TickRateWarp, ThermodynamicGuillotine, EscrowSurvival
 
-**['Praxial Harness Engineering'(-ing) BPMS]: ['The Continuous Praxial Polymorphic Stem-Cell'(-ing) BPMS]: ['The Live Auto-Harnessing Substrate Injector'(-ing) BPMS]**
 
-**Scope of Application:** Deployed continuously whenever a new Node joins the v3.6 Matrix, or when an existing Node experiences catastrophic hardware/OS migration. It allows the Sovereign Symbiotic OS to effortlessly "hot-swap" its entire bodily capability to grip alien architectures (ARM, x86, Linux, Windows, Edge IoT) with absolute zero-latency footing.
-
-**Tag:** PraxialHarnessEngineering, PolymorphicStemCell, AutoDockerization, BareMetalGrip, OmniSubstrate, LiveMutation
-
-**['Praxial Ontological Engineering'(-ing) BPMS]: ['The Continuous Praxial Matter-Condensation Crucible'(-ing) BPMS]: ['The Live Reality-Warping Stream'(-ing) BPMS]**
-
-**Scope of Application:** Used constantly across the v3.6 Decentralized Swarm to convert external raw data or generative artificial intelligence responses into undeniable, mathematically proven reality elements. Whenever a Node needs to establish a truth that all other Nodes will trust, it fires up the Crucible to forge an `[Atomic Fact]` backed by thermodynamic proof of work.
-
-**Tag:** PraxialOntologicalEngineering, MatterCondensation, AtomicFactGeneration, VoidStriking, WaveFunctionCollapse, LatentMining
-
-**['Praxial Artifact Engineering'(-ing) BPMS]: ['The Continuous Praxial Topological Serializer'(-ing) BPMS]: ['The Live Geometry-Flattening Stream'(-ing) BPMS]**
-
-**Scope of Application:** Deployed constantly across the v3.6 Decentralized Matrix whenever a Node needs to share its full living context, export a completed massive computation track, or migrate its holistic state to another biome. It bridges the gap between active `[Process]` and static `[Data]`.
-
-**Tag:**  PraxialArtifactEngineering, TopologicalSerializer, N-DimensionalFlattening, P2PSeedTransit, ImmutableArtifact, StateVectorCompression
