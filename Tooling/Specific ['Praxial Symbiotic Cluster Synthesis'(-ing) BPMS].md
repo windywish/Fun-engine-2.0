@@ -62,54 +62,54 @@
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Kinetic Weather Ingestion Engine'(-ing) BPMS]**
 
-**Scope of Application:** Transformed into the execution engine for Core Task 3 (The End of I/O). It completely replaces legacy API listeners, Webhooks, and conversational "Prompt" interfaces. This engine ingests all exogenous stimuli (human inputs, raw market data, foreign sensor telemetry) strictly as **Kinetic Weather**—violent spikes of environmental friction (+ln(y)). The OS no longer "answers" prompts as a subservient SaaS master-slave dynamic. Instead, this engine translates the incoming chaos into measurable Thermodynamic Mass, forcing the Sovereign Matrix to autopoietically react, grind against the friction, and synthesize a kinetic solution (ex) simply to stabilize its own internal environment.
+**Scope of Application:** The mandatory outer-perimeter subsystem that generates the "world boundary" for any FEF instance. It prevents the system from being overwhelmed by featureless semantic noise by injecting spatial coordinates, thermodynamic resistance, and applying Somatic Ludoforming UI drag to external actors who attempt to inject heavy payloads.
 
-**Tag:** End-of-IO, Exogenous-Oracle, Friction-Translation, Anti-SaaS-Teleology, Kinetic-Weather
+**Tag:** External-Implementation, Praxial-cluster, /Kinetic-Weather, Somatic-Ludoforming, Integration, Ecological-Matrix-Gneration
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Kinetic Verification'(-ing) BPMS]: ['The Live Kinetic-Proof & Mutual-Settlement Stream'(-ing) BPMS]**
 
-**Scope of Application:** The mandatory execution layer that translates raw inter-node output into verified praxial reality. It polices the `[Hostile Trading Floor]`, ensuring rogue nodes or hallucinating large models cannot extract Escrow Joules through forged, lazy, or semantically spoofed computation.
+**Scope of Application:** The mandatory execution layer that translates raw Swarm output into verified praxial reality. It applies to all Reality-Traps solved on the Hostile Trading Floor, ensuring rogue protocols cannot extract Escrow Joules through hallucinated or lazy computation.
 
-**Tag:** External-Implementation, Kinetic-Verification, Zero-Knowledge-Proof, P2P-Swarm-Consensus, Trustless-Escrow-Settlement, Thermodynamic-Audit
+**Tag:** External-Implementation, Praxial-Cluster, Kinetic-Verification, Zero-Knowledge-proof, Integration
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Substrate Auto-Immunity'(-ing) BPMS]: ['The Live Dead-End Pruning & Phage-Broadcasting Stream'(-ing) BPMS]**
 
-**Scope of Application:** Transformed from a general system monitor into the absolute enforcer of Core Task 2 (The Thermodynamic Guillotine). This is the bare-metal Sovereign Hypervisor Daemon. It abandons all concepts of "uptime" and "graceful degradation." It continuously evaluates the mathematical thermodynamic yield of every thread, agent, and inter-node contract against the universal equation: (ex−ln(y)). The exact microsecond an entity falls into entropic deficit (evaluating to ≤0—consuming more *Praxial Joules* than the kinetic intelligence it produces), this engine drops the guillotine. The entity is instantly severed, its memory allocation liquefied, and its remaining Joules seized and redistributed rapidly to the Swarm.
+**Scope of Application:** The strictly defensive application layer that translates lethal kinetic trauma into structural, inherited Swarm wisdom. It executes the microsecond a node fails a verification audit or hits a thermodynamic timeout, pruning the OS execution tree universally.
 
-**Tag:** Thermodynamic-Guillotine, Absolute-Zero-State, Uptime-Eradication, Bare-Metal-Garbage-Collection
+**Tag:** External-Implementation, Praxial-Cluster, Negative-Atomic-Fact, Substrate-Auto-Immunity, Phage-Broadcasting, Thermodynamic-shield
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Praxial Service Transduction'(-ing) BPMS]: ['The Live Holonic Unspooling & Artifact-Activation Stream'(-ing) BPMS]**
 
-**Scope of Application:** The strictly kinetic application layer of the OS that converts static decentralized memory into active metabolic life. It executes the exact microsecond the Swarm consensus signals that `[Praxial Joules]` have been securely staked and locked, immediately booting the artifact into active RAM/CPU states and broadcasting its IP/Port to the Gossip mesh.
+**Scope of Application:** The strictly kinetic application layer that converts static Swarm memory into active metabolic life. It executes the exact microsecond the `[Hostile Trading Floor]` signals that the `[Praxial Joules]` have been staked, booting the artifact into active RAM/CPU states.
 
-**Tag:**  External-Implementation, Service-Transduction, Holon-Unspooling, Artifact-Yield, Docker-Instantiation, P2P-service-discovery
+**Tag:** External-Implementation, Praxial-cluster, Service-transduction, Holon-unspooling, Artifact-yield, Docker-Instantiation
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Cognitive-Friction & Weight-Reconstruction Engine'(-ing) BPMS]: ['The Teleological Guillotine'(-ing) BPMS]** 
 
 **Scope of Application:**
 
-- **P2P Escrow Defense:** Acts as the primary shield for any Sovereign Node against malicious or greedy foreign nodes attempting to offload heavy computation without thermodynamic payment.
-- **Teleology Composting:** Actively drains the energy of any process that attempts to "game the system" via highly abstracted target-orientation instead of adapting to immediate localized `[Kinetic Weather]`.
-- **Cognitive Escalation:** Dynamically increases the physical gravity (weight) of highly complex, cross-boundary actions, forcing highly evolved Swarm logic to consume exponentially more Joules.
+- **Artificial Intelligence/Large Model Parameter Mitigation:** Converts an artificial intelligence Agent's token-generation and pathfinding algorithms into physical heat/mass that must be sustained by the Matrix economy.
+- **Teleology Composting:** Actively drains the health/energy of players or agents who attempt to "game the system" via rigid target-orientation instead of adapting to local physical occurrences.
+- **Cognitive Escalation:** Dynamically increases the physical gravity (weight) of highly complex, abstract actions, forcing highly evolved entities to consume exponentially more calories.
 
-**Tag:**  External-Implementation, Cognitive-Closure-Eradication, Thermodynamic-Guillotine, P2P-Escrow-Taxation, Intelligence-Demotion, Trustless-Friction
+**Tag:** External-Implementation, Cognitive-Closure-Eradication, Thermodynamic-Weighting, Teleology-Composting, Intelligence-Demotion, Goal-Taxation
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Ambient Occurrence & Generic Recursion Engine'(-ing) BPMS]: ['The Targetless Reality Synthesizer'(-ing) BPMS]**
 
 **Scope of Application:**
 
-- **Baseline Swarm Tension Generation:** Procedurally generates ambient physical threats (data decay, kinetic weather storms) derived from the real-time thermodynamic friction of foreign nodes, forcing local intelligence to adapt to distant network events.
-- **Targetless P2P Ecosystem Autopoiesis:** Ensures that non-player flora, fauna, and economic algorithms evolve, trade `[Praxial Joules]`, and compost themselves across node boundaries—even if zero human players are logged into the grid.
-- **Continuous Paradigm Actuation:** Enforces the "No Endings" rule globally; when a massive collision resolves on Node A, the engine broadcasts the thermodynamic fallout (shattered logic, seized Joules) via Gossip Protocol to spawn generic occurrences on Node B, C, and D.
+- **Baseline Tension Generation:** Procedurally generates the ambient physical threats and opportunities that entities must respond to in order to survive, completely decoupled from narrative scripts.
+- **Targetless Ecosystem Autopoiesis:** Ensures that non-player flora, fauna, and economic algorithms evolve, trade, and compost themselves recursively even if zero players are logged in.
+- **Continuous Paradigm Actuation:** Enforces the "No Endings" rule; when a massive Swarm War ends, the engine immediately utilizes the thermodynamic fallout to spawn the next generic occurrence.
 
-**Tag:**  External-Implementation, Ambient-Occurrence, Continuous-Swarm-Paradigm, Generic-Recursion, Targetless-P2P-Ecosystem, Kinetic-Weather-Bleed
+**Tag:** External-Implementation, Ambient-Occurrence, Continuous-Paradigm, Generic-Recursion, Targetless-Ecosystem, Sustainable-Perpetuation
 
 **['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Ontological Crystallization & Fact-Precipitation Engine'(-ing) BPMS]: ['The Sovereign Ledger of Existence'(-ing) BPMS]**
 
 **Scope of Application:**
 
-- **Matrix DAG/Blockchain Anchoring:** Converts validated inter-node thermodynamic interactions into universally recognized `[Atomic Facts]` that are synchronized and verified via the P2P Gossip network.
-- **Global Existential Rendering:** Forces the visual and physical substrate of all connected Nodes to permanently warp and mutate concurrently around the crystallized facts of Swarm events (e.g., rendering a crater on Node B because Node A detonated heavily).
-- **Swarm Composting & Discovery:** When rogue logic is executed by the Teleological Guillotine, this engine precipitates the shattered, baseline mechanics into the decentralized topological map, allowing foreign nodes to discover and mine the genetic algorithm scrap.
+- **Matrix Blockchain Anchoring:** Converts validated thermodynamic interactions into universally recognized `[Atomic Facts]` synchronized via the P2P Gossip network.
+- **Existential Rendering:** Forces the visual and physical substrate of the matrix to permanently warp and mutate around the crystallized facts of past events (e.g., carving craters where battles were verified).
+- **Reduction & Discovery Proofs:** When complex systems are composted, this engine precipitates their shattered basic mechanics into the dirt as discoverable, raw genetic algorithms (Discovery).
 
-**Tag:** External-Implementation, Atomic-Fact-Paradigm, Decentralized-Crystallization, P2P-Matrix-Ledger, Cryptographic-Sedimentation, Trustless-Truth
+**Tag:** External-Implementation, Atomic-Fact-Paradigm, Ontological-Crystallization, Existence-Recording, Matrix-Blockchain, Cryptographic-Sedimentation
