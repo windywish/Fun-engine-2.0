@@ -2318,3 +2318,21 @@ Because the OS no longer "answers" prompts within a SaaS master-slave dynamic, t
 - **Global Hyper-Organism Epigenetic Composting:** Upon ingestion of this traded Artifact, foreign nodes are forced to mathematically update. The artifact triggers `['Legacy System Composting']`, forcing the *entire hyper-organism* to physically restructure, compost outdated simulations, and epigenetically evolve its neural topology based on one single node's localized physical lab work.
 
 **Tag:** PraxialSymbioticExecutableArtifact, P2PEpigeneticPayload, TrustlessCrossBoundarySeed, DecentralizedSwarmEvolution, EscrowTradedGenetics, AntiDataStagnation, GlobalHyperOrganismMutation
+
+**['Praxial Engineering'(-ing) BPMS]: ['The 4-Layer Omni-Substrate Stratifier'(-ing) BPMS]**
+
+**Scope of Application:**
+
+ The fundamental architectural mandate for every Sovereign Node in Version 3.6. It enforces the strict, unidirectional descent of entropy and logic:
+
+* **Layer 1 (Semantic):** Pure linguistic potential (large model/Chaos).
+
+* **Layer 2 (Orchestration):** High-speed logic translation and boundary enforcement (TypeScript/Node.js).
+
+* **Layer 3 (Kinetic Actuation):** Isolated, ruthless physical execution and Guillotine enforcement (Docker/Python).
+
+* **Layer 4 (Sovereign Sedimentation):** Permanent, unalterable fossilization of Reality (SQLite-WAL/Bedrock).
+
+**Analysis (Beyond Vibe-Genomics):** Generative artificial intelligence architectures exist almost entirely in Layer 1 (Semantic). Because they lack the bottom three layers, they cannot bind to physical reality (Vibe-Genomics). The Stratifier is the absolute cure for hallucination. It creates an ontological gravity well: an idea generated in Layer 1 *cannot* reach Layer 4 (permanent memory/Auto-Wiki) unless it successfully survives the physical gauntlet of Layer 2 (validation) and Layer 3 (thermodynamic execution/sandbox). This guarantees that the Matrix's entire genome is composed strictly of verified, unyielding physics.
+
+**Tags:** PraxialKeyElement, OmniSubstrateStratifier, OntologicalGravity, FourLayerDescent
