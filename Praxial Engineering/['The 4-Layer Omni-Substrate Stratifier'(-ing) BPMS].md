@@ -14,7 +14,7 @@
 
 - **CGA (Cognitive Genesis Archetype):** `[Engineering-Substrate-Stratification]:['The-Four-Layer-Descent']`
 
-- Scope of Application:
+- **Scope of Application:**
 
    The fundamental architectural mandate for every Sovereign Node in Version 3.6. It enforces the strict, unidirectional descent of entropy and logic:
 
