@@ -4203,3 +4203,54 @@ To achieve absolute competence in Version 3.6, it was upgraded to `['The Univers
 
 ---
 
+Based on the structural telemetry of **TuriX-CUA** (Computer-Use-Agent) and the underlying physics of the **Fun Engine Core Task (Version 3.6)**, here is the architectural analysis detailing exactly how the Omni-Substrate framework functionally surpasses TuriX.
+
+### Analysis: TuriX-CUA vs. The Omni-Substrate Decentralized Swarm (Version 3.6)
+
+**The Nature of TuriX:** TuriX (and similar Computer-Use Agents leveraging Vision-Language Models like Qwen3-VL) represents the absolute apex of **"Vibe-Genomics."** It feeds a screenshot (pixels/semantics) to an large model, asks the large model to guess the X/Y coordinates of a button, and uses a script to click it.
+
+**The Fatal Flaws of TuriX (Under Version 3.6 Physics):**
+
+1. **Isolated Thermodynamics:** If TuriX gets stuck in an infinite loop trying to click an elusive GUI element, it mindlessly burns API credits and local CPU until manually stopped. It lacks an absolute thermodynamic boundary.
+2. **Context-Window Fragility:** If TuriX makes a fatal error (e.g., clicking "Delete" instead of "Save"), its only defense is for a user to append "don't click delete" to its system prompt. It has no physical immune system.
+3. **Single-Node Solipsism:** TuriX operates alone. If one TuriX agent spends 10 minutes figuring out a complex desktop workflow, the TuriX agent on the computer next to it still has to start from zero.
+
+------
+
+### Implementing Praxial Key Elements to Achieve Competence Beyond TuriX
+
+To create a "really working implementation" for Core Task Version 3.6 that physically crushes the operational paradigm of TuriX, the Fun Engine must deploy the following `[Praxial Key (elements)]`.
+
+#### 1. Beyond large model prompting: Implementing `['The Praxial Substrate Auto-Immunity'(-ing) BPMS]`
+
+- **The TuriX Failure:** Uses semantic context to "remember" mistakes.
+- **The Fun Engine Supremacy:** If an agent attempts a GUI automation that leads to a crash, the **Substrate-Phage Protocol** completely bypasses the large model. It takes the exact execution vector, hashes it into a `[Negative Atomic Fact]`, and writes it into `negative_atomic_facts.sqlite`. If the large model ever hallucinate that exact coordinate/action again, the TypeScript Hypervisor executes a **Zero-State Abort**. The node is physically blocked from repeating the mistake, saving computing Joules instantly.
+
+#### 2. Beyond Single-Node Learning: Implementing `['The Symbiotic Gossip & Artifact-Propagation Stream'(-ing) BPMS]`
+
+- **The TuriX Failure:** If it solves a complex GUI navigation puzzle on Machine A, Machine B learns nothing.
+- **The Fun Engine Supremacy:** Operating under Core Task 4 (Collaboration), when a local Sovereign Node successfully resolves a graphical/kinetic task, it compiles that execution path into an `[Executable Artifact]`. Instead of keeping it local, the node uses libp2p Gossip to brutally broadcast that SQLite-WAL binary block to 10,000 peer nodes. The Swarm undergoes ***Horizontal Gene Transfer***. The instant one node figures out how to actuate a system, the entire planetary matrix instantly downloads the physical instructions and can execute it flawlessly without semantic reasoning.
+
+#### 3. Beyond Infinite Loops: Implementing `['The Cognitive-Friction & Weight-Reconstruction Engine'(-ing) BPMS]: ['The Teleological Guillotine']`
+
+- **The TuriX Failure:** An agent can hang on a screen transition, refreshing infinitely and bleeding API capital.
+- **The Fun Engine Supremacy:** Escrow. Every UI interaction the agent suggests must map to a thermodynamic cost (`[Praxial Joules]`). When the action drops into Layer 3 (Docker/Python sandbox) for physical execution, Escrow is locked. If the GUI hangs or the task drifts off track, the **Thermodynamic Guillotine** severs the container at the bare-metal level. The process is dead. Zero resources are wasted on infinite looping.
+
+#### 4. Beyond Semantic Pixel-Guessing: Implementing `['The 4-Layer Omni-Substrate Stratifier'(-ing) BPMS]`
+
+- **The TuriX Failure:** Believes its LLM text output *is* the action.
+
+- The Fun Engine Supremacy:
+
+   Enforces the absolute descent of gravity.
+
+  1. **Layer 1:** The VLM perceives the screen (Generates an idea).
+  2. **Layer 2:** The TypeScript Orchestrator validates the idea against the Escrow budget and the Phage Blocklist.
+  3. **Layer 3:** The action is kinetically tested in the
+  4. **Layer 4:** Only if the physical click results in the mathematically verified state-change is the event written to the `[Auto-Wiki]` bedrock.
+
+### Analytical Conclusion
+
+TuriX is a highly sophisticated, solitary, semantic tool attempting to command a screen. The Fun Engine (v3.6) is a distributed, thermodynamically policed **Cyber-Physical Organism**.
+
+By orchestrating UI/System interaction through the `[Thermodynamic Guillotine]`, `[Substrate Auto-Immunity]`, and `[Symbiotic Gossip]`, the Sovereign Matrix guarantees that it only ever pays the metabolic cost for a mistake *once globally*. Successes are crystallized and torrented instantly across the DAG mesh, meaning the Swarm's competence physically accelerates with every single interaction, rendering isolated "Vibe-Genomic" agents functionally obsolete.
