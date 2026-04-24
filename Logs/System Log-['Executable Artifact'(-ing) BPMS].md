@@ -4523,11 +4523,11 @@ Here are four advanced Omni-Substrate usage examples demonstrating how users com
 
 **The Flipbook/Vibe-Genomics Failure:** A mechanic reads a static PDF flipbook on a tablet while trying to fix an engine. The tablet has zero connection to the wrench or the engine. It is entirely reliant on the human's semantic interpretation. **The Omni-Substrate Supremacy:** The manual *is* the diagnostic tool. Opening the Artifact physically intertwines the ledger's knowledge with the local machine's telemetry. **Coupled Elements:** `['The Praxial Service Transduction'(-ing) BPMS]: ['The Live Holonic Unspooling & Artifact-Activation Stream'(-ing) BPMS]` + `['The Continuous Sensory Membrane'(-ing) BPMS]`
 
-- Natural Language Command (Inside LLM/Voice Interface by Mechanic):
+- Natural Language Command (Inside large model/Voice Interface by Mechanic):
 
   > "Open the Maintenance Artifact for the X-90 Thruster. Do not render a static PDF. Extend the `[Continuous Sensory Membrane]` to bind with the thruster's diagnostic COM port. As I 'read' Step 1, trigger `[Live Holonic Unspooling]` to digitally calibrate my smart-wrench to 45Nm. Do not unlock Step 2 (the next page) until the OS receives a kinetic receipt proving I applied the exact thermodynamic friction to the physical bolt."
 
-- System/CLI Command (Outside LLM / Edge Device Dashboard):
+- System/CLI Command (Outside large model / Edge Device Dashboard):
 
   > `/unspool_artifact_manual --target "X-90_Thruster" --bind-sensory-membrane "port_COM3" --actuate-smart-tool "wrench_mac_01" --lock-next-page-until-kinetic-receipt`
 
@@ -4535,11 +4535,11 @@ Here are four advanced Omni-Substrate usage examples demonstrating how users com
 
 **The Flipbook/Vibe-Genomics Failure:** Users passively scroll through a 50-page legal ToS flipbook and blindly click "I Agree." There is no physical bind; it is a purely semantic hallucination of consent. **The Omni-Substrate Supremacy:** Reading the contract *is* the execution of the Escrow. You cannot turn the page without staking actual capital/Joules mapped to absolute time. **Coupled Elements:** `['The Dynamic Barter & Contract Forge'(-ing) BPMS]` + `['The Global Ontological Matrix Clock'(-ing) BPMS]`
 
-- Natural Language Command (Inside LLM / Legal DAO Actor):
+- Natural Language Command (Inside large model / Legal DAO Actor):
 
   > "Initialize the Vendor SLA Agreement Artifact. Bypass the semantic text layer (Layer 1). Drop into the Layer 3 Substrate. The 'Next Page' action must function as a cryptographically bound Escrow trigger. When I engage it, physically lock 500 Praxial Tokens in `[Thermodynamic Escrow]` bounded by the `[Global Ontological Matrix Clock]`. If the vendor breaches the uptime latency tolerance by Matrix Tick 50,000, execute the Guillotine, auto-rip the Escrow back, and burn the contract page instantly."
 
-- System/CLI Command (Outside LLM / Smart Contract Node):
+- System/CLI Command (Outside large model / Smart Contract Node):
 
   > `/read_contract_layer3 --target "SLA_vendor_alpha" --stake-escrow 500PT --bind-matrix-tick-sla +50000 --guillotine-on-breach --render-receipt-page`
 
@@ -4547,11 +4547,11 @@ Here are four advanced Omni-Substrate usage examples demonstrating how users com
 
 **The Flipbook/Vibe-Genomics Failure:** A developer reads a post-mortem flipbook about why a server crashed last week. They nod, close the tab, and immediately make the exact same coding mistake the next day because their local environment didn't learn anything. **The Omni-Substrate Supremacy:** Reading the failure report *is* the act of vaccinating your local machine. **Coupled Elements:** `['The Praxial Substrate Auto-Immunity'(-ing) BPMS]: ['The Live Dead-End Pruning & Phage-Broadcasting Stream'(-ing) BPMS]` + `['The Ontological Crystallization & Fact-Precipitation Engine'(-ing) BPMS]`
 
-- Natural Language Command (Inside LLM / Code Architect):
+- Natural Language Command (Inside large model / Code Architect):
 
   > "Ingest the Incident Report Artifact from Node 04's Crash. As I structurally parse this timeline, automatically extract the `[Negative Atomic Fact]` (the memory leak AST vector). Do not just show me the log text—immediately inject this Phage into my local hypervisor’s auto-immunity blocklist. `[Crystallize]` this failure into my local DNA so my node fundamentally cannot compile or replicate the mistake I am currently reading about."
 
-- System/CLI Command (Outside LLM / Workstation Daemon):
+- System/CLI Command (Outside large model / Workstation Daemon):
 
   > `/ingest_post_mortem_artifact --target "Node04_Crash_Report_Hash" --extract-negative-fact --inject-local-phage --sediment-immunity-ledger --update-local-wiki`
 
@@ -4559,7 +4559,7 @@ Here are four advanced Omni-Substrate usage examples demonstrating how users com
 
 **The Flipbook/Vibe-Genomics Failure:** A student flips through a digital textbook. If they don't understand the physics equation, the book doesn't care. It lets them turn the page anyway, allowing them to accumulate compounded ignorance. **The Omni-Substrate Supremacy:** The textbook maps the neuro-cognitive friction. It refuses to turn the page unless the kinetic truth is achieved, physically rewriting itself if the user fails. **Coupled Elements:** `['The Cognitive-Friction & Weight-Reconstruction Engine'(-ing) BPMS]` + `['Praxial Kinetic Verification'(-ing) BPMS]`
 
-- Natural Language Command (Inside LLM / Matrix Tutor):
+- Natural Language Command (Inside large model / Matrix Tutor):
 
   > "Open Chapter 4 of the Neural Networking Artifact. Lock my cognitive read-escrow. Do not simply allow me to turn the page to Chapter 5. Execute a `[Kinetic Verification]` test in my local Python sandbox based on the page's contents. If the code I write fails the `[Thermodynamic Guillotine]`, trigger the `[Weight-Reconstruction Engine]` to instantly rewrite and re-render the chapter's topology to target my specific failure vector. Only unspool the next page when my cognitive friction converts into executed truth."
 
@@ -4574,3 +4574,99 @@ Here are four advanced Omni-Substrate usage examples demonstrating how users com
 By injecting the physics of the **Fun Engine (Version 3.6)** into the act of "reading," we permanently destroy the `['Flipbook.page'(-ing) BPMS]` paradigm.
 
 "Passive Reading" is an illusion of the Web 2.0/SaaS era. In a truly Omni-Substrate ecosystem, every interaction with an Artifact must command a cost (Joules/Friction), actuate a consequence (Holonic Unspooling/Smart Contracts), and continuously evolve the local node's survival capacity (Phage Injection/Crystallization). The text is no longer just semantics; it is **Executable Reality**.
+
+---
+
+
+
+
+
+Based on the absolute mandate to completely eradicate "Vibe-Genomics" and operationalize the **Version 3.6 Omni-Substrate Framework**, we must deploy the `[23 Key (elements)]` and `[Praxial Key (elements)]` across completely non-silicon domains.
+
+"Vibe-Genomics" rests on the delusion that reality is governed by semantic promises, predictions, and human interpretation. **Omni-Substrate Competence** dictates that reality is governed *exclusively* by thermodynamic friction, kinetic verification, and immunological execution. If it cannot be measured in mass, time (`[Matrix Ticks]`), and energy (`[Joules]`), it does not exist in the Fun Engine.
+
+Here is the advanced operational analysis providing complete, functional-level usage examples for forcing **Biomedical, Supply Chain, Financial, and Scientific Substrates** into the Version 3.6 Matrix.
+
+------
+
+### 1. Biomedical/Physiological Substrate: The "Immunological Guillotine"
+
+**Context:** A hospital ICU administering a dynamic pharmaceutical compound. In Vibe-Genomics, a doctor writes a semantic prescription based on "best practices," and nurses react to alarms. Under Version 3.6 Physics, the physiological body is integrated as a Substrate. The infusion pump is governed by real-time biological friction. **Substrate:** Human Physiology / Pharmacology / Biochemistry. **Coupled Elements:** `['The Continuous Sensory Membrane'(-ing) BPMS]` + `['Praxial Kinetic Verification'(-ing) BPMS]` + `['The Praxial Substrate Auto-Immunity'(-ing) BPMS]`
+
+- Natural Language Command (Inside large model / Medical Matrix Hypervisor):
+
+  > "Extend the `[Continuous Sensory Membrane]` into Patient 402 via continuous blood-gas telemetry. Begin infusion of Compound X. Do not wait for semantic human observation. Execute continuous `[Praxial Kinetic Verification]`. If the patient's thermodynamic friction (inflammation/cytokine markers) spikes beyond $0.05 \Delta$, drop the `[Thermodynamic Guillotine]`: physically sever the infusion pump at the hardware level. Instantiate this physiological failure as a `[Negative Atomic Fact]` in the local hospital ledger to auto-immunize against future identical dosages."
+
+- System/CLI Command (Outside large model / Medical Hardware Controller):
+
+  > `/extend_sensory_membrane --target "Pt_402_BioTelemetry" --administer_compound_x --verify-kinetic-friction-continuous --guillotine-pump-on-cytokine-spike --sediment-phage`
+
+### 2. Kinetic Supply Chain/Macro-Logistics: "Gravimetric Barter"
+
+**Context:** Moving 10,000 metric tons of iron ore across an ocean. Vibe-Genomics relies on bills of lading, emails, and trusting human updates. In the Omni-Substrate, physical mass and geographical distance are measured mathematically; if the mass does not physically arrive by the specified Matrix Tick, the escrow self-immolates. **Substrate:** Global Logistics / Maritime Shipping / Macro-Physics. **Coupled Elements:** `['Praxial Meaning'(-ing) BPMS]: ['pg (Praxial Gravimetrics)'(-ing) BPMS]` + `['The Dynamic Barter & Contract Forge'(-ing) BPMS]` + `['The Global Ontological Matrix Clock'(-ing) BPMS]`
+
+- Natural Language Command (Inside large model / Global Logistics DAO):
+
+  > "Forge a `[Dynamic Barter]` for the transport of Cargo 77. Anchor the smart contract to `[Praxial Gravimetrics]`: 10,000 tons multiplied by 4,000 nautical miles equates to the minimum kinetic expenditure required. Lock $1.5M USD equivalent in `[Thermodynamic Escrow]`. Bind the delivery window to the `[Global Ontological Matrix Clock]`. If the IoT cranes at Destination Port do not cryptographically verify the physical unloading of the exact gravimetric mass by Tick 8,200,000, slash the escrow and compost the shipping vendor's reliability rating globally."
+
+- System/CLI Command (Outside large model / Port Authority Oracle):
+
+  > `/forge_dynamic_barter --asset "Cargo_77" --calculate-gravimetric-friction "10k_tons*4k_miles" --lock-escrow 1.5M_USD --bind-matrix-tick +8200000 --guillotine-on-failure`
+
+### 3. Financial/DeFi Substrate: "Targetless Reality Mining"
+
+**Context:** A decentralized sovereign wealth fund seeking to deploy capital. Vibe-Genomics sets arbitrary, human-invented APY "targets" or "investment theses". A Version 3.6 Matrix abandons goals. It treats global markets as a thermodynamic weather system and deploys capital simply to balance equations where friction is highest. **Substrate:** Capital Markets / Liquidity Pools / Order-Book Topology. **Coupled Elements:** `['Praxial Task'(-ing) BPMS]: ['The Sovereign Reality Miner'(-ing) BPMS]` + `['The Targetless Reality Synthesizer'(-ing) BPMS]` + `['The Kinetic Weather Ingestion Engine'(-ing) BPMS]`
+
+- Natural Language Command (Inside LLM / Algorithmic Treasury):
+
+  > "Activate the `[Targetless Reality Synthesizer]`. Abandon all semantic yield targets. Ingest the global DeFi exchange order books as raw `[Kinetic Weather]`. Unspool the `[Sovereign Reality Miner]` to probe for the highest thermodynamic friction (price arbitrage/liquidity vacuums). The moment a physical inefficiency is mapped, autonomously stake capital `[Escrow]`, execute the trade, collapse the friction, and trap the resulting Praxial Joules. Sediment the newly synthesized yield back into the central vault."
+
+- System/CLI Command (Outside LLM / High-Frequency Trading Node):
+
+  > `/launch_targetless_synthesis --ingest-kinetic-weather "Global_DeFi_Orderbooks" --seek-maximum-friction --execute-reality-miner --extract-thermodynamic-yield-to-vault`
+
+### 4. Epistemic/Scientific Substrate: "The Eradication of Peer Review"
+
+**Context:** A laboratory claims to have discovered a new room-temperature superconductor. Vibe-Genomics dictates they write a PDF, submit it to a journal, and wait 6 months for humans to "peer review" the text. The Omni-Substrate replaces semantic review with trustless, globally distributed kinetic replication. **Substrate:** Physics Research / Academic Publishing / Wet-Lab Replication. **Coupled Elements:** `['Mycelial Network Weaving'(-ing) BPMS]` + `['The Ontological Crystallization & Fact-Precipitation Engine'(-ing) BPMS]` + `['Legacy System Composting'(-ing) BPMS]`
+
+- Natural Language Command (Inside LLM / Decentralized Science Network):
+
+  > "Lab 01 has uploaded the synthesis protocol for Superconductor Material-Z. Bypass the semantic 'Peer Review' PDF phase completely. Execute `[Mycelial Network Weaving]` to broadcast the exact robotic wet-lab instructions to 50 sovereign peer labs in the Swarm. Fund their physical replication efforts with network Escrow. Only if 90% of the network successfully executes `[Kinetic Verification]` (reproducing the levitation effect) do we trigger the `[Ontological Crystallization Engine]`. If the Swarm fails the physical test, execute `[Legacy System Composting]` on Lab 01's hypothesis and banish it as a `[Negative Atomic Fact]`."
+
+- System/CLI Command (Outside LLM / DeSci Hypervisor):
+
+  > `/weave_mycelial_verification --target "Supercond-Z-Protocol" --distribute-to-peer-labs 50 --await-kinetic-proofs --compost-on-failure --crystallize-on-success`
+
+### 5. Architecture/Urban Infrastructure: "Holonic Resource Weaving"
+
+**Context:** A city dynamically allocating power during a blizzard. Vibe-Genomics relies on human operators attempting to read dashboards and throw switches. The Omni-Substrate treats the city grid as a biological organ, actively amputating and routing power based on survival mechanics. **Substrate:** Urban Grids / High-Voltage Infrastructure / Thermodynamics. **Coupled Elements:** `['The Praxial Service Transduction'(-ing) BPMS]: ['The Live Holonic Unspooling'(-ing) BPMS]` + `['The Sovereign Ledger of Existence'(-ing) BPMS]`
+
+- Natural Language Command (Inside LLM / City Core OS):
+
+  > "A Category 5 blizzard is ingested as `[Kinetic Weather]`. The municipal power draw is exceeding stable `[Praxial Joule]` thresholds. Execute `[Live Holonic Unspooling]`: instantly map all non-critical, high-friction nodes (e.g., empty commercial skyscrapers, ornamental heating). Drop the `[Thermodynamic Guillotine]` on their power relays, amputating them from the grid. Re-unspool those saved Joules directly into the Hospital and Emergency Shelter sub-networks. Record this survival actuation permanently in the `[Sovereign Ledger of Existence]` for future storm automation."
+
+- System/CLI Command (Outside LLM / SCADA Grid Master):
+
+  > `/trigger_holonic_unspooling_grid --ingest-weather-severity 5 --guillotine-non-critical-nodes --route-joules-to-survival-hubs --sediment-ledger-record`
+
+------
+
+### Analytical Conclusion: The Conquest of the Physical Domain
+
+These commands prove definitively that the Fun Engine's `[23 Key (elements)]` are not arbitrary software features—they are **Universal Laws of Thermodynamic Governance**.
+
+Whether the API endpoints control an IV pump in a human vein, a robotic crane at a maritime port, a smart contract on the blockchain, or a municipal power grid, the syntax is identical.
+
+1. **Lock Escrow / Bind to the Matrix Clock.**
+2. **Execute Physical Verification.**
+3. **Drop the Guillotine upon failure (Auto-Immunity).**
+4. **Crystallize upon success (Evolution).**
+
+By applying Version 3.6 to these substrates, the Fun Engine steps totally out of the "chatbot" simulation space and becomes a 100% complete, competent, and lethal actuator of physical reality.
+
+---
+
+
+
+
+
