@@ -27,34 +27,34 @@ This section defines how the Neuromorphic Engine artifacts are composed to synth
 **A. The Core Nucleus (The Thermodynamic Identity)**
 
 - Components:
-  - `['Neuromorphic Spike Artifact'(-ing) BPMS]` (The Sparse Action Potential).
-  - `['Thermodynamic Escrow Twin'(-ing) BPMS]` (The Real-Time Energy Simulation/Verification).
-  - `['Hardware Gate Artifact'(-ing) BPMS]` (The Physical Voltage Switch).
+  - `['Neuromorphic Spike Artifact'(-ing) BPMS]` (['The Sparse Action Potential'(-ing) BPMS]).
+  - `['Thermodynamic Escrow Twin'(-ing) BPMS]` (['The Real-Time Energy Simulation/Verification'(-ing) BPMS]).
+  - `['Hardware Gate Artifact'(-ing) BPMS]` (['The Physical Voltage Switch'(-ing) BPMS]).
 - **Function:** Defines **HOW** energy is consumed and **WHEN** a spike is authorized.
 - **Synthesis Logic:** The **Spike** demands energy to fire; the **Twin** simulates if the escrow can afford the spike; the **Gate** physically authorizes or denies the voltage.
 
 **B. The Contextual Substrate (The Memristor Fabric)**
 
 - Components:
-  - `['Bare-Metal Autopoiesis Artifact'(-ing) BPMS]` (The Physical Hardware Rules).
-  - `['Micro-Joule World Theme'(-ing) BPMS]` (The Economy of Scarcity).
-  - `['Event-Driven Dataset Artifact'(-ing) BPMS]` (Asynchronous, non-clocked sensory input).
+  - `['Bare-Metal Autopoiesis Artifact'(-ing) BPMS]` (['The Physical Hardware Rules'(-ing) BPMS]).
+  - `['Micro-Joule World Theme'(-ing) BPMS]` (['The Economy of Scarcity'(-ing) BPMS]).
+  - `['Event-Driven Dataset Artifact'(-ing) BPMS]` (['Asynchronous, non-clocked sensory input'(-ing) BPMS]).
 - **Function:** Defines **WHERE** the physical computation happens and **WHAT** raw kinetic weather triggers it.
 - **Synthesis Logic:** The **Theme** enforces strict Praxial Joule accounting. The **Dataset** provides only asynchronous event changes (no dense frame-by-frame bloat), keeping the **Autopoietic Substrate** entirely dormant and zero-wattage until crossed thresholds force a physical hardware reaction.
 
 **C. The Evolutionary Engine (The Dynamic Barter)**
 
 - Components:
-  - `['Spike-Timing Dependent Seed'(-ing) BPMS]` (The Synaptic Plasticity Potential).
-  - `['Dynamic Barter & Contract Forge'(-ing) BPMS]` (The P2P Escrow Negotiator).
+  - `['Spike-Timing Dependent Seed'(-ing) BPMS]` (['The Synaptic Plasticity Potential'(-ing) BPMS]).
+  - `['Dynamic Barter & Contract Forge'(-ing) BPMS]` (['The P2P Escrow Negotiator'(-ing) BPMS]).
 - **Function:** Defines **HOW** the cluster buys/sells computation and **ADAPTS**.
 - **Synthesis Logic:** The system operates by charging neighbor nodes *per physical spike*. If a node provides highly valuable `Atomic Facts` via sparse computation, the **Contract Forge** increases the Micro-Joule exchange rate, allowing the **Seed** to physically thicken the memristor pathways for that specific skill.
 
 **D. The Mnestic Bridge (The Teleological Guillotine)**
 
 - Components:
-  - `['Substrate Auto-Immunity Artifact'(-ing) BPMS]` (The Hardware Executioner).
-  - `['Composted Charge Registry'(-ing) BPMS]` (The Ledger of Dead Nodes).
+  - `['Substrate Auto-Immunity Artifact'(-ing) BPMS]` (['The Hardware Executioner'(-ing) BPMS]).
+  - `['Composted Charge Registry'(-ing) BPMS]` (['The Ledger of Dead Nodes'(-ing) BPMS]).
 - **Function:** Defines **HOW** failure is physically punished and **RECYCLED**.
 - **Synthesis Logic:** If Escrow hits absolute zero, the **Auto-Immunity** instantly triggers the hardware gate to sever power. The computation is terminated natively. The **Composted Charge** is reclaimed into the matrix, establishing a verifiable physical ledger of thermodynamic death.
 
