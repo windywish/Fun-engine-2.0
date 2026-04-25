@@ -504,3 +504,13 @@
 
 **Tag:** External-Implementation, System-Existence-Engine, Mycelial-Network, Anti-Vibe-Genomics
 
+**['Symbiotic Cluster Synthesis'(-ing) BPMS] : ['The Metabolic/Thermodynamic'(-ing) BPMS]: ['The Neuromorphic Event-Spike & Thermodynamic-Quantization Engine'(-ing) BPMS]**
+
+**Scope of Application:**
+
+- **The Eradication of "Dense Matrix Energy Bloat":** Legacy Large Models light up billions of parameters for even the simplest inputs, burning massive, unaccountable wattage. This engine deploys Spiking Neural Networks (SNNs) over neuromorphic hardware. Computation is executed purely via sparse binary action potentials ("spikes").
+- **Execution of Task 2 (Thermodynamic Escrow):** By tying computation directly to physical voltage spikes, the OS achieves atomic-level accounting of `[Praxial Joules]`. A node only consumes energy when a sensor input crosses a threshold. `['The Dynamic Barter & Contract Forge'(-ing) BPMS]` now executes P2P contracts where nodes charge one another *per physical electrical spike*.
+- **Execution of Task 6 (The Teleological Guillotine):** The `[Substrate Auto-Immunity]` acts directly at the hardware gate level. If a node exhausts its staked escrow, the OS does not send a software "terminate" signal; it physically severs the voltage gating to the spiking nodes. The calculation dies instantly, composting the residual charge into the grid.
+- **Bare-Metal Autopoiesis:** It transforms the Fun Engine's metabolism from software-simulated resource monitoring into literal physical thermodynamics.
+
+**Tag:** Neuromorphic-Computing, Event-Spike-Architecture, Sparse-Activation, Micro-Joule-Quantization, Hardware-Level-Guillotine, Anti-Dense-Matrix, Thermodynamic-Biology
