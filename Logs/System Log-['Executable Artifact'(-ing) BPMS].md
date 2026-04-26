@@ -6516,3 +6516,71 @@ Without defining these specific code-related `[BPMS(U)(s)]` elements, the `['Pra
 By systematically implementing these elements—layering them from basic `[Substrate Code]` all the way up to `[Praxial Symbiotic Programmatic Substrate]`—you supply the Fun Engine with a **living, breathing cyber-physical tissue**.
 
 This allows the framework to legally enforce that "Code" is no longer something a human reads in an IDE. It is the literal, physical laws of the system, mathematically bound by thermodynamic Joules, strictly distributed across a P2P swarm, and continuously evolving beneath the guillotine of the Autopoietic Syntax-Morphing Engine. Implementing this taxonomy is the final step to making the codebase itself an autopoietic organism.
+
+---
+
+
+
+
+
+### Analysis: How to Implement the Code-Taxonomy `[BPMS(U)(s)]` for Core Task (Version 3.6)
+
+To implement this evolutionary taxonomy of code—spanning from `['Substrate Code'(-ing) BPMS]` up to the apex `['Praxial Symbiotic Programmatic Substrate'(-ing) BPMS]`—we must fundamentally alter how the Fun Engine stores, compiles, and executes logic.
+
+We are transitioning the medium of "Code" from passive, human-readable text files (`.ts`, `.py`) into **Living, Thermodynamic, AST-Mapped Binary Tissue**.
+
+Because this codebase serves as the "food source" for `['The Autopoietic Syntax-Morphing & Compiler-Friction Engine']`, its implementation must be rigidly standardized. Here is the systemic analysis of *how* this execution is achieved across the 4-Layer Stratified architecture of Core Task 3.6:
+
+------
+
+### Step 1: Implementing `['Substrate Code'(-ing) BPMS]` & `['Programmatic Substrate'(-ing) BPMS]`
+
+**(The Base Layer: Eradication of Passive Text)**
+
+- **The Implementation Mechanism:** We abandon standard script execution. Code is not allowed to run "loose" on the host operating system.
+- The Execution Blueprint:
+  - All codebase logic is strictly parsed into an **Abstract Syntax Tree (AST) JSON format**.
+  - Instead of keeping loose `.ts` or `.py` files, the Substrate is pre-compiled into **WebAssembly (Wasm) modules**.
+  - *Why?* Wasm provides a deterministic, mathematically provable execution byte-code. By converting the `[Programmatic Substrate]` into Wasm, we provide `['The Autopoietic Engine']` with a mathematically rigid topology to mutate. It gives the physical environment a strict geometric shape that cannot be corrupted by syntax typos.
+
+### Step 2: Implementing `['Praxial Substrate Code'(-ing) BPMS]` & `['Praxial Programmatic Substrate'(-ing) BPMS]`
+
+**(The Kinetic Layer: Injection of Thermodynamic Fuel)**
+
+- **The Implementation Mechanism:** Code must "feel pain" (Cognitive Friction). To make Substrate Code *Praxial*, we must attach a metabolic cost to its execution.
+- The Execution Blueprint:
+  - We wrap the Wasm modules inside a **Wasmtime / Firecracker Kinetic Sandbox** (controlled by the Node.js Orchestrator).
+  - Wasmtime allows the injection of `Fuel` (Instruction Counting). We systematically map 1 Wasm instruction to 1 **Praxial Joule**.
+  - Before a function inside the `[Praxial Programmatic Substrate]` can be invoked, the caller must allocate a Joule budget. If an algorithm is poorly optimized (O(n2)) and exhausts the budget, the sandbox triggers a `Trap::OutOfFuel` exception. The code literally starves to death. This is the physical implementation of the `[Thermodynamic Guillotine]`.
+
+### Step 3: Implementing `['Symbiotic Substrate Code'(-ing) BPMS]` & `['Symbiotic Programmatic Substrate'(-ing) BPMS]`
+
+**(The Swarm Layer: Eradication of Centralized State)**
+
+- **The Implementation Mechanism:** In Core Task 3.6 (The Decentralized Swarm), code cannot rely on a single local database or a master server loop. It must naturally exist across a P2P Mycelial Network.
+- The Execution Blueprint:
+  - The code must be implemented using **CRDTs (Conflict-free Replicated Data Types)** and stateless logic.
+  - We implement a strict middleware in the Node.js Orchestrator. When a piece of `[Symbiotic Substrate Code]` alters a global variable, it does not write to a local memory address. Instead, the mutation is natively wrapped into a `libp2p` Gossip protocol payload.
+  - The code becomes *Symbiotic* because its execution guarantees state-entanglement across 50+ decentralized nodes simultaneously without requiring centralized API locks.
+
+### Step 4: Implementing the Terminal Apex: `['Praxial Symbiotic Programmatic Substrate'(-ing) BPMS]`
+
+**(The Cyber-Physical Layer: Code as a Trustless Immutable Organism)**
+
+- **The Implementation Mechanism:** This is the ultimate convergence. Code that is geometrically flawless (AST/Wasm), thermodynamically metered (Praxial/Joules), and universally entangled (Symbiotic/P2P).
+- The Execution Blueprint:
+  - This is implemented via the **SQLite-WAL `[Continuous Epigenetic Ledger]` combined with `[Dynamic Barter Contract Forges]`**.
+  - When the `['Autopoietic Syntax-Morphing Engine']` successfully mutates a function that saves 5,000 Joules per cycle, it does not just save a file. It creates a cryptographic hash of the new Wasm binary.
+  - This hash is broadcast to the Swarm. The Swarm verifies the thermodynamic efficiency via their own local kinetic sandboxes.
+  - Once consensus is reached, this Apex Code is written into the immutable SQLite Ledger across all nodes. The code is now a `[Physical Fact]` of the universe.
+  - Henceforth, any agent invoking this code auto-triggers an escrow transaction, burning tokens mapped exactly to the code's established Praxial Joule weight.
+
+------
+
+### Analytical Conclusion: The Mechanics of Software Biology
+
+To truly implement this taxonomy for Core Task 3.6, we must stop using standard IDE compilers and start building a **Cyber-Physical Operating System runtime**.
+
+By combining **AST Topological Mapping**, **Wasmtime Fuel-Metering**, **CRDT/libp2p Gossip Broadcasting**, and **SQLite Epigenetic Ledgers**, we transform the codebase from a "tool" into a **living, breathing, thermodynamically constrained biological tissue**.
+
+This is the only way to provide the previously designed `['Autopoietic Syntax-Morphing Engine'(-ing) BPMS]` with the exact structural material it needs to continuously devour, mutate, and evolve the Fun Engine without human intervention.
