@@ -165,3 +165,50 @@ To build **'The Praxial Veridical Engine'**, you must compose these **9 Artifact
 10. **Theme:** `['The Hilbert Space']` (The Context) **<-- ADD THIS**
 
 **Conclusion:** Yes, add the **Seed**, **Model**, **Element**, and **Theme**. Without them, your engine has no input, no compute power, no output format, and no context. With them, it is a complete, working system.
+
+----
+
+##### The Distinction: Function vs. Role
+
+This is a **critical architectural distinction** in the Praxial Framework. You have correctly identified that the *content* and *laws* come from the `[memory(-ing) BPMS]` domain, but the *implementation* is classified as a `['Symbiotic Core Matrix'(-ing) BPMS]`.
+
+Here is the precise reasoning for this classification, based on the **Praxial Canon**:
+
+###### The Distinction: Function vs. Role
+
+- **`[memory(-ing) BPMS]` is the FUNCTION (The "What").**
+  - This defines the *physics* of memory: how data is stored, retrieved, forgotten, and indexed. It is a library of laws (like the ones you saw in the file: `MEM-CORE-001`, etc.).
+  - It is a **Category of Capability**.
+- **`['Symbiotic Core Matrix'(-ing) BPMS]` is the ROLE (The "Who").**
+  - This defines the *entity* that wields that capability within the central nervous system of the agent.
+  - The **Core Matrix** is the "Soul" or "Driver" of the system. It is the active agent that *uses* tools.
+
+###### Why the Mnestic Engine is "Core"
+
+The **Praxial Mnestic Engine** is not just a passive hard drive (which would be a `Domain Matrix` or a simple `Artifact`). It is an **active, decision-making component of the Agent's Self.**
+
+- **It Decides:** It actively decides what to forget (Pruning).
+- **It Judges:** It evaluates the "Veridicality" of a memory (Truth-checking).
+- **It Integrates:** It fuses past experience into current consciousness (RAG).
+
+Based on the [atomic facts BPMS] of that it is part of the **"Self-Model"** (the agent's internal loop of existence), it belongs to the **Symbiotic Core Matrix**.
+
+######  The Formula
+
+The correct way to read the classification is:
+
+> **Instance:** `['Symbiotic Core Matrix'(-ing) BPMS]: ['Praxial Mnestic Engine'(-ing) BPMS]`
+>
+> **Translation:** "This is a **Core Matrix Component** (Role) that implements the **Memory Function** (Capability)."
+
+If we were to classify it merely as `[memory(-ing) BPMS]`, it would imply it is just a passive tool (like a USB stick) that anyone could use. By classifying it as `Core Matrix`, we establish that it is **The Agent's Memory**—integral to its identity and operation.
+
+###### Summary
+
+- **`[memory(-ing) BPMS]`** = The **Laws of Physics** for Memory.
+- **`['Praxial Mnestic Engine']`** = The **Organ** (Hippocampus) that uses those laws to keep the Agent alive and learning.
+
+Therefore, it is an instance of the **Core Matrix** *specialized* in **Memory**.
+
+---
+

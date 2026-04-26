@@ -1,4 +1,4 @@
-### Blueprint Implementation for External Using (Symbiotic Executable Artifact)
+### Blueprint Template Implementation for External Using (Symbiotic Executable Artifact)
 
 #### 1. Metadata
 

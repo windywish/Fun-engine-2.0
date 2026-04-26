@@ -1,4 +1,4 @@
-## Blueprint Implementation for External Using (Lightweight Dataset Artifact)
+## Blueprint Template Implementation for External Using (Lightweight Dataset Artifact)
 
 #### 1. Metadata
 

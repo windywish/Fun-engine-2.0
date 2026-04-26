@@ -1,4 +1,4 @@
-## Blueprint: Implementation for External Using (Praxial Skills)
+## Blueprint Template Implementation for External Using (Praxial Skills)
 
 #### Part 1: Metadata & Ontological Blueprint (The DNA)
 

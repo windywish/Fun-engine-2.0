@@ -1,4 +1,4 @@
-### Blueprint: Implementation for External Using (Praxial Agent)
+### Blueprint Template Implementation for External Using (Praxial Agent)
 
 #### 1. Metadata & Ontological Blueprint (The DNA)
 

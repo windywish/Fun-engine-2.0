@@ -470,6 +470,7 @@ The Mycelial Farmer's cognition is fundamentally different from conventional agr
 - Climate adaptations: "First frost now occurs 12 days later than 5-year historical average; extend growing season accordingly"
 
 **Action Selection Mechanism:**
+
 - **Resonance-based:** Current sensory state matched against Kinetic Gnosis library
 - **Multi-objective optimization:** Simultaneous consideration of yield, biodiversity, soil health, resource efficiency, resilience
 - **Uncertainty-aware:** Actions that generate learning (reduce uncertainty) are valued even if immediate outcome uncertain

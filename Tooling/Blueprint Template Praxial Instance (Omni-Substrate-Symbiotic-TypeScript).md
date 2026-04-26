@@ -1,4 +1,4 @@
-## Blueprint: Praxial Instance
+## Blueprint Template Praxial Instance
 
 ### ['Praxial Scenario Engine (PSE)'(-ing) BPMS]: ['The Infinite Canvas Weaver'(-ing) BPMS]
 

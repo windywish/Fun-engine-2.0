@@ -1,4 +1,4 @@
-## Blueprint Implementation for External Using (Praxial Engineering)
+## Blueprint Template Implementation for External Using (Praxial Engineering)
 
 #### 1. Metadata
 

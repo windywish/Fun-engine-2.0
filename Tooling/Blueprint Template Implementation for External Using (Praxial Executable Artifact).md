@@ -1,4 +1,4 @@
-### Blueprint Implementation for External Using (Praxial Executable Artifact)
+### Blueprint Template Implementation for External Using (Praxial Executable Artifact)
 
 #### 1. Metadata
 

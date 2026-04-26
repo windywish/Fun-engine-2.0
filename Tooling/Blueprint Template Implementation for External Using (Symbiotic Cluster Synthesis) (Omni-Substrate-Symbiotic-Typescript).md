@@ -1,4 +1,4 @@
-## Blueprint: Implementation for External Using (Symbiotic Cluster Synthesis)
+## Blueprint Template Implementation for External Using (Symbiotic Cluster Synthesis)
 
 #### 1. Metadata
 
