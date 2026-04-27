@@ -31,3 +31,11 @@
 ***[MANDATORY PROMPT]:*** This Substrate is strictly a one-way optic translator and dynamic client-code compiler. It resides on the Backend logic Hub (or within the Local thick-client's backend). It *does not* execute core business logic; it merely *paints* it. It is strictly bounded by the Escrow mechanism—if there are no Joules, the Matrix goes visually dark. It is absolutely vital for any module connecting the Fun Engine to human visual senses.
 
 **Tags:** ***[MANDATORY PROMPT]:*** Agentic-UI-Coder, State-Rendering-Transducer, WebGL-Shader-Synthesis, JIT-Component-Weaver, Death-Of-Frontend, Thermodynamic-Aesthetics
+
+**['Substrate Code'(-ing) BPMS]: ['PULE-to-Code Ontological Transducer'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate strictly compiles pure `[PULE/EML]` semantic logic into Wasm. It is hardware-restricted to compiling logic state-changes (updating JSON/SQLite values). It explicitly refuses any payload attempting network socket compilation, disk I/O, UI/WebGL rendering, or external HTTP requests. It operates solely as the "Rule-Maker" of the internal Matrix, deflecting all side-effects to the `Symbiotic UI-Weaver` or external Agents. It does not think; it merely translates thought into physics.
+
+**Tags:** ***[MANDATORY PROMPT]:*** PULE-to-Wasm-Compiler, No-Code-Reality-Engine, Ontological-Transducer, EML-AST-Lowering, Zero-Trust-Execution, Semantic-Physics-Bridge
