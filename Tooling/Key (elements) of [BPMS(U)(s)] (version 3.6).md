@@ -6578,3 +6578,9 @@ The abstract `.md` blueprint or architectural plan that describes how an Agent, 
 **Scope of Application:** Operates as the **Distributed Wasm Sandbox & Sharded Execution Crucible**. Its jurisdiction is the active execution of machine logic across physical boundaries. It governs how a massive kinetic workload (Wasm bytecode) is sharded and processed by multiple sovereign nodes simultaneously. It actively manages cross-boundary linear memory pointers, Cryptographic Zero-Knowledge (ZK) proofs, and the immediate locking of "Thermodynamic Escrow" between nodes processing fragments of the exact same computational state. 
 
 **Tags:** Sharded-Wasm-Crucible, Cross-Boundary-Memory, Distributed-Compute-State, ZK-Execution-Proofs, Multi-Node-Kinetic-Engine
+
+**['Substrate Code'(-ing) BPMS] : ['The Autopoietic Lexical & Topological-Morphology Engine'(-ing) BPMS]**
+
+**Scope of Application (The Memory / Compilation Jurisdiction):** ***[MANDATORY PROMPT]:*** This Substrate is heavily restricted to **CPU-Bound Text Parsing and Memory Allocation**. It never executes user logic. It never makes network calls to the outside internet. It never writes to the disk (except passing serialized states to the Ledger). It purely exists in the volatile RAM space, turning strings into structured graphs. If a string requires more than 10MB of RAM to parse, or recurses deeper than 512 layers, this substrate categorically aborts the operation.
+
+**Tags (Symbiotic Valency & Network Discovery Hooks):** ***[MANDATORY PROMPT]:*** PULE-Frontend-Lexer, AST-Graph-Generator, Zero-Execution-Validation, IR-Lowering-Engine, Thermodynamic-Syntax-Filter
