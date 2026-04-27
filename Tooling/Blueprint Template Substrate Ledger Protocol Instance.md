@@ -1,183 +1,183 @@
 ## Blueprint Template Substrate, Ledger & Protocol Instance
 
-*To be used exclusively for implementing bare-metal structural elements: `[BPMS(U)(s)]` operating as Ledgers, Compilers, P2P Protocols, Hypervisors, or Compute Forges. This template enforces the physics of the Decentralized Swarm.*
+*To be used exclusively for implementing bare-metal code execution, autopoietic syntax engines, or dynamic compilers: `[BPMS(U)(s)]` operating as Lexers, AST Morphers, Wasm JIT Compilers, or Host-Bound Hypervisors. This template enforces the physics of self-executing logic.*
 
-### Module Application: `['[Insert Concept]'(-ing) BPMS]`
+### Module Application: `['[Insert Code(-ing) Concept]'(-ing) BPMS]`
+
+------
 
 #### 1. Blueprint Metadata & Ontological Foundation
 
-- **ID:** `[e.g., PROTOCOL-SYNC-001]`
-- **Name:** `['Insert Formal Name'(-ing) BPMS]`
-- **Origin/Implementer:** `[Parent System or Substrate Level, e.g., Task 4 P2P Symbiotic Protocol]`
+- **ID:** `[e.g., COMPILER-WASM-001]`
+- **Name:** `['Insert Formal Name Code/Compiler'(-ing) BPMS]`
+- **Origin/Implementer:** `[Parent System or Substrate Level, e.g., Task 3 Reality Mining or Task 2 Thermodynamic Guillotine]`
 - **Objective:**
-  - ***[MANDATORY PROMPT]:*** *State the exact physical/network vacuum this instance fills. What thermodynamic or synchronization friction does it solve across the decentralized swarm? How does it process raw computational data?*
+  - ***[MANDATORY PROMPT]:*** *State the exact computational or compilation vacuum this instance fills. Does it parse raw strings into ASTs? Does it lower Intermediate Representation (IR) into WebAssembly binary? Does it sandbox executing bytecode?*
 - **TDA (Topological Data Archetype):**
-  - ***[MANDATORY PROMPT]:*** *What is the geometric/network shape of this truth? (e.g., `[Directed Acyclic Graph (DAG) Consensus]`, `[Merkle-Tree Epigenetics]`, `[Gossip Protocol Mesh]`, `[Wasmtime AST Sandbox]`). It must not be an "Agent."*
-- **Type:** `[protocol(-ing) BPMS]`, `[ledger(-ing) BPMS]`, or `[hypervisor(-ing) BPMS]`
+  - ***[MANDATORY PROMPT]:*** *What is the geometric shape of the code being processed? (e.g., `[Abstract Syntax Tree (AST)]`, `[Directed Acyclic Graph (DAG) Control Flow]`, `[Linear Memory Buffer]`, `[Wasm Bytecode Topology]`). It must not be an "Agent."*
+- **Type:** `[compiler(-ing) BPMS]`, `[hypervisor(-ing) BPMS]`, or `[syntax-morphing(-ing) BPMS]`
 
 ------
 
 #### 2. Constitutional Axioms & Canonical Bindings
 
-*List the specific axioms, laws, and protocols from the Praxial Canon that govern the physics of this substrate. Ensure they relate to thermodynamics, cryptography, topology, or computation.*
+*List the specific axioms, laws, and protocols from the Praxial Canon that govern the compilation and execution physics of this substrate.*
 
-- *Example: The Law of Compiler Thermodynamics (Energy must be spent to verify truth).*
-- *Example: The Axiom of Epigenetic Sedimentation (Compute must become immutable history).*
-- *Example: The Principle of Masterless Consensus (Truth emerges from network density, not centralized authority).*
+- *Example: The Law of Compiler Thermodynamics (Energy must be spent to parse, optimize, and execute logic).*
+- *Example: The Axiom of Topologic Immutability (Executing code cannot mutate its own AST without paying Escrow for a re-compile).*
+- *Example: The Absolute Boundary of WASI (Executing logic has zero inherent rights to Host disk, network, or OS calls).*
 
 ------
 
 #### 3. Cyber-Physical Triage: Structural Analysis
 
-*Provide a deep-dive analysis of how this protocol/substrate enforces the physics of the Fun Engine.*
+*Provide a deep-dive analysis of how this compiler/substrate enforces the physics of the Fun Engine.*
 
-- ***[V3.6 DECENTRALIZATION PROMPT]:*** *How does this structure operate in a trustless, multi-node environment? How does it achieve consensus, routing, or conflict resolution without a centralized master server?*
-- ***[THERMODYNAMIC PROMPT]:*** *How does it transition transient data (volatile memory/network packets) into a hardened `[Atomic Fact]`? What is the visceral physical cost (Joules/Compute cycles) required to make that transition valid?*
-
-------
-
-#### 4. The Mechanics ("How explicitly does this compute?")
-
-*(Provide 4-5 actionable mechanics detailing the lifecycle of data within this system. Use precise computing, cryptographic, and physics terminology; entirely avoid psychological metaphors).*
-
-- **How is data ingested and validated at the boundary?** - *(Detail the binary serialization format, e.g., Protobuf/FlatBuffers, and the exact cryptographic signature verification that rejects malignant noise).*
-- **How is thermodynamic friction (Joules) calculated, locked, and paid?** - *(Detail the Escrow mechanics. How does the system measure Wasm instruction limits or network bandwidth to enforce the Thermodynamic Guillotine?)*
-- **How does state topology morph or compile?** - *(Detail how Abstract Syntax Trees (ASTs) or DAG states are mutated, traversed, or compiled down to kinetic execution).*
-- **How do network nodes achieve absolute finality?** - *(Detail the specific P2P consensus mechanism, e.g., vector clocks, CRDTs, or cryptographic Nakamoto consensus).*
+- ***[V3.6 AUTOCATALYTIC PROMPT]:*** *How does this structure ingest raw semantic logic (PULE) and physically manifest it into machine-executable kinetics? How does it survive encountering fundamentally broken or paradoxical syntax without crashing the host OS?*
+- ***[THERMODYNAMIC PROMPT]:*** *How is the "Friction" of code measured? (e.g., Tracking discrete Wasm instruction counts or linear memory allocation limits). How much `[Praxial Joules]` does it cost to compile 1KB of AST vs. executing 100,000 Wasm instructions?*
 
 ------
 
-#### 5. Boundary Failures ("What if the Physics Break?")
+#### 4. The Compilation & Topologic Pipeline (The Mechanics)
 
-*(Provide 4-5 edge-case scenarios mapped to hard system limits and how the substrate defends itself).*
+*(Provide 4-5 actionable mechanics detailing the lifecycle of code traversing this engine. Use strict compiler, parser, and memory-safety terminology).*
 
-- ***[WASM/COMPUTE TRAP]:*** *What if a payload attempts to execute an infinite loop or memory leak (O(n!) complexity)? How does the Hypervisor guillotine the process and slash the escrow?*
-- ***[SYBIL / CONSENSUS FAULT]:*** *What if 30% of the Swarm nodes broadcast a mathematically invalid `[Negative Fact]`? How does the topology organically isolate and burn their network reputation?*
-- ***[TEMPORAL DESYNC]:*** *What if a local node loses connection to the Matrix Tick-Rate and attempts to sediment asynchronous facts? How is the local DAG reconciled with the global Swarm?*
-- ***[STORAGE EXHAUSTION]:*** *What if the local SQLite WAL (Write-Ahead Log) is filled before P2P consensus is reached across the network?*
-
-------
-
-#### 6. Continuous Substrate Physics (The Daemons)
-
-*(List the background threads, daemons, or polling loops that run 24/7 at the OS/Network level).*
-
-- ***The Substrate Heartbeat (LibP2P Gossip Daemon):*** *(Describe the continuous pinging, peer discovery, and mempool syncing across the mesh).*
-- ***The Epigenetic Writer (SQLite WAL Daemon):*** *(Describe the background thread responsible for continuously flushing verified memory buffers to the immutable disk).*
-- ***The Escrow & Friction Auditor:*** *(Describe the continuous monitoring of Wasm compute-fuel limits vs. actual node execution ticks).*
+- **How is semantic text parsed into topological structure?** - *(Detail the Lexer/Parser boundary. How does it convert raw strings (JSON/PULE) into an Abstract Syntax Tree (AST) while rejecting malformed noise?)*
+- **How is the AST optimized and morphologically pruned?** - *(Detail the Middle-End optimization. How does the engine rewrite the AST to consume fewer CPU cycles (Joules) before final compilation?)*
+- **How is the topology compiled into kinetic binary?** - *(Detail the Code-Gen Backend. How is the optimized IR lowered into physical WebAssembly bytecode or machine instructions?)*
+- **How is linear memory isolated and policed during execution?** - *(Detail the memory allocator constraints. How do you prevent executing code from experiencing a buffer overflow or accessing memory outside its sandboxed array?)*
 
 ------
 
-#### 7. ['The Network Execution Cycle'(-ing) BPMS]
+#### 5. Memory Boundaries & Execution Failures ("What if the Physics Break?")
 
-*Map the operational loop of the substrate. This must reflect the brutal, mechanical execution of data processing and state sedimentation, totally devoid of "human" cognition.*
+*(Provide 4-5 edge-case scenarios mapped to hard compilation limits and execution traps).*
 
-- **Micro-Cycle (Inches / Milliseconds): [INGESTION & VALIDATION]**
+- ***[THE HALTING PROBLEM / FUEL TRAP]:*** *What if the dynamically compiled code contains an infinite `while (true)` loop? How does the Hypervisor physically intercept the Execution thread and slash the Substrate Escrow?*
+- ***[OUT OF BOUNDS MEMORY ACCESS]:*** *What if the executing Wasm attempts to read or write to a memory addresses outside its allocated 2MB linear footprint? How is the Panic managed without crashing the Rust Host?*
+- ***[ILLEGAL HOST CALL (WASI VIOLATION)]:*** *What if the payload attempts `fs::write()` or opening a raw TCP socket? How does the Host Binding interface categorically deny the syscall?*
+- ***[AST MORPHOLOGY CORRUPTION]:*** *What if an Agent submits an AST that is structurally valid but topologically unsolvable (e.g., circular dependency in type definitions)? How does the Compiler frontend reject it at zero cost?*
+
+------
+
+#### 6. Continuous Compiler Physics (The Daemons)
+
+*(List the background threads, JIT compilers, or garbage collectors that run concurrently).*
+
+- ***The JIT (Just-In-Time) Warm-Up Daemon:*** *(Describe how frequently executed Wasm modules are cached in memory to save Compilation Joules).*
+- ***The Wasm Linear Memory Sweeper:*** *(Describe how abandoned Wasm instances or bloated AST buffers are garbage-collected and un-mapped from the OS RAM).*
+- ***The Instruction Fuel Auditor:*** *(Describe the thread structurally injected into the Wasm execution instance that decrements allowed CPU instructions per tick).*
+
+------
+
+#### 7. ['The Compilation & Execution Cycle'(-ing) BPMS]
+
+*Map the precise operational loop of the code compiling and running. This must reflect the brutal, mechanical reality of AST conversion and Wasm execution.*
+
+- **Micro-Cycle (Inches / Milliseconds): [LEXICAL INGESTION & PARSING]**
 
   ```text
-  ├─ [Inbound Vector: Encrypted binary payload arrives via LibP2P]
-  ├─ [Topology Check: Zero-cost deserialization and Ed25519 signature verification]
-  ├─ [Thermodynamic Lock: Escrow is staked for compute validation]
-  └─ [Gate Decision: Payload rejected (Escrow slashed) OR Payload passed to Crucible]
+  ├─ [Inbound Vector: Raw semantic string or PULE syntax arrives via network]
+  ├─ [Tokenization: Lexer breaks text into semantic tokens]
+  ├─ [AST Generation: Parser maps tokens into a strict topological Tree framework]
+  └─ [Gate Decision: Syntax Error (Reject/Slash) OR Valid AST generated]
   ```
 
-- **Meso-Cycle (Meters / Seconds): [MORPHOLOGY & CONSENSUS]**
+- **Meso-Cycle (Meters / Seconds): [COMPILATION & LOWERING]**
 
   ```text
-  ├─ [Kinetic Execution: Payload forms an AST and executes in an isolated Wasmtime sandbox]
-  ├─ [Friction Measurement: CPU instructions and memory limits are strictly audited]
-  ├─ [P2P Gossip: Deterministic execution result is broadcasted to adjacent Mycelial nodes]
-  └─ [Consensus Acknowledgment: Swarm validates the identical Wasm state transition]
+  ├─ [IR Transformation: AST is lowered into Intermediate Representation]
+  ├─ [Thermodynamic Optimization: Dead code paths are pruned to save execution Joules]
+  ├─ [Code Generation: IR is compiled into kinetic WebAssembly (.wasm) binary]
+  └─ [Sandbox Instantiation: Wasmtime engine allocates isolated linear memory and loads the module]
   ```
 
-- **Macro-Cycle (Miles / Minutes): [EPIGENETIC SEDIMENTATION]**
+- **Macro-Cycle (Miles / Minutes): [KINETIC EXECUTION & ABI RETURN]**
 
   ```text
-  ├─ [Cryptographic Hashing: The final validated state is hashed (SHA-256 or Blake3)]
-  ├─ [SQLite Commit: The hash and payload are etched sequentially into the `.sqlite-wal`]
-  ├─ [Escrow Settlement: Winning executor is paid Joules; failed mutations are pruned]
-  └─ [Global Matrix Update: The decentralized DAG advances by one irreversible step]
+  ├─ [Execution Call: Host OS invokes the Wasm exported function]
+  ├─ [Instruction Metering: Every OP_CODE executed drains the pre-funded Escrow Fuel]
+  ├─ [ABI/FFI Barrier: Results are written to shared linear memory; pointers returned to Host]
+  └─ [Termination/Sedimentation: Sandbox destroyed; execution result/hash sedimented to SQLite]
   ```
 
 ------
 
 #### 8. Version 3.6 - 6 Core Tasks Alignment (The Physics Engine)
 
-*Explicitly map how this specific Substrate, Ledger, or Protocol empowers the newly decentralized Version 3.6 of the Fun Engine 6 Core Tasks:*
+*Explicitly map how this specific Code Substrate empowers the newly decentralized Version 3.6 of the Fun Engine 6 Core Tasks:*
 
-- **Task 1 (Continuous Survive):** *How does this protocol structurally prevent network crashes, memory leaks, or thermodynamic exhaustion of the Swarm?*
-- **Task 2 (Conscious Boundary / Thermodynamic Escrow):** *How does this protocol enforce the absolute boundary between trusted system memory and unverified external input using cryptography and Wasm sandboxes?*
-- **Task 3 (Reality Mining / Substrate Processing):** *How does this protocol extract or structure the raw, unformatted output from Agentic operations or environmental sensors?*
-- **Task 4 (P2P Symbiotic Protocol):** *How does this structure facilitate trustless, masterless data exchange and consensus between decentralized nodes?*
-- **Task 5 (Ontological Emancipation / PULE):** *What is the exact binary serialization format (e.g., AST representation) required to interact mechanically with this protocol?*
-- **Task 6 (Thermodynamic Exchange & Epigenetic Ledger):** *How does this protocol record its actions immutably into SQLite to prove that energy spent yielded a permanent Reality Fact?*
+- **Task 1 (Continuous Survive):** *How does this compiler structurally prevent dynamically generated code from crashing the main OS daemon via panics or segmentation faults?*
+- **Task 2 (Conscious Boundary / Thermodynamic Escrow):** *How does this engine inject instruction-metering (`consume_fuel()`) directly into the compiled Wasm bytecode to enforce the Thermodynamic Guillotine?*
+- **Task 3 (Reality Mining / Substrate Processing):** *How does this engine allow abstract LLM concepts to be compiled into hard, deterministic spatial logic?*
+- **Task 4 (P2P Symbiotic Protocol):** *How are compiled Wasm binaries or AST topologies serialized and hashed so they can be securely broadcast across the Gossip mesh?*
+- **Task 5 (Ontological Emancipation / PULE):** *What is the exact Syntax or Lexical Grammar (e.g., LALR(1) or PEG) required to successfully parse code into this compiler?*
+- **Task 6 (Thermodynamic Exchange & Epigenetic Ledger):** *How does the executing code prove its computation was valid before the result is immutably written to SQLite?*
 
 ------
 
-#### 9. Files Structure & Polyglot Executable Topology (The Rust-Wasm-SQLite Symbiosis)
+#### 9. Files Structure & Polyglot Executable Topology (Compiler/Wasm Matrix)
 
-*Define the exact directory structure required to instantiate this Substrate/Protocol. For bare-metal physics, memory safety, and high-performance consensus, the blueprint mandates the **Rust-Wasmtime-LibP2P-SQLite Symbiosis**, abandoning heavy Docker/Node.js orchestration stacks used by conceptual Agents.*
+*Define the exact directory structure required to instantiate this Code Substrate. It must abandon generic TS orchestration and enforce a strict **Rust-Wasm Compiler Pipeline**, explicitly focusing on AST manipulation, Wasm Execution Engines, and WASI Host Bindings.*
 
 **File Structure Template:**
 
 ```text
-[protocol_name]_bare_metal_substrate/
+[code_substrate_name]_compiler_matrix/
 │
 ├── 00_Ignition_and_Cargo/                 
-│   ├── Cargo.toml                      # Rust dependencies (libp2p, wasmtime, rusqlite)
-│   ├── build.rs                        # AST generation and protocol buffer compilations
-│   └── genesis_bootstrapper.rs         # Initializes the local node and connects to bootnodes
+│   ├── Cargo.toml                      # Rust dependencies (wasmtime, logos [lexer], serde)
+│   └── compiler_bootstrapper.rs        # Initializes the Wasm engine and primes the memory allocators
 │
-├── 01_P2P_Mycelial_Protocol/                   
-│   ├── swarm_gossip_mesh.rs            # Raw LibP2P implementation for masterless state broadcasting
-│   ├── cryptographic_handshake.rs      # Ed25519 node identity and payload signature verification
-│   └── thermodynamic_escrow_pool.rs    # Verifies compute fuel stakes before allowing network execution
+├── 01_Frontend_Syntax_Engine/                   
+│   ├── pule_lexer.rs                   # Converts raw semantic text strings into distinct grammar tokens
+│   ├── ast_parser.rs                   # Validates syntax and builds the Abstract Syntax Tree (AST)
+│   └── topological_optimizer.rs        # Prunes dead code/AST branches to reduce future execution friction
 │
-├── 02_Wasm_Kinetic_Crucibles/                  
-│   ├── ast_topology_parser.rs          # Transforms inbound binary payloads into manipulatable Abstract Syntax Trees
-│   ├── wasmtime_sandbox_engine.rs      # Instantiates the secure, memory-isolated Wasm execution environment
-│   └── friction_meter_guillotine.rs    # Tracks exact Wasm instruction counts (fuel); panics and slashes escrow if limits exceeded
+├── 02_Backend_Code_Generators/                  
+│   ├── ir_lowering_engine.rs           # Converts the AST into Intermediate Representation (IR)
+│   └── wasm_bytecode_emitter.rs        # Generates physical, executable WebAssembly binaries from the IR
 │
-└── 03_Epigenetic_Memory_Core/                    
-    ├── sqlite_wal_sedimenter.rs        # High-performance asynchronous writer to the local SQLite database
-    ├── distributed_sediment.sqlite     # The physical, immutable ledger file (The Atomic Facts)
-    └── DAG_consensus_verifier.rs       # Reconciles branching network states into a single verifiable chain of hashes
+└── 03_Kinetic_Hypervisor_&_WASI/                    
+    ├── wasmtime_sandbox.rs             # Instantiates the secure Runtime Engine and allocates linear memory
+    ├── instruction_fuel_meter.rs       # Structurally monitors opcode limits; panics and terminates if fuel == 0
+    └── host_abi_bindings.rs            # The Foreign Function Interface (FFI). Dictates EXACTLY what the running code is allowed to ask the host OS to do.
 ```
 
 ------
 
-#### 10. Scope of Application (The Hardware/Network Jurisdiction)
+#### 10. Scope of Application (The Memory / Compilation Jurisdiction)
 
-***[MANDATORY PROMPT]:*** *Define the absolute mathematical and hardware limits of this Substrate. Where does it operate? Where does it refuse to operate?*
+***[MANDATORY PROMPT]:*** *Define the absolute mathematical and hardware limits of this Compiler Substrate. What languages does it refuse to compile? What syscalls does it categorically block?*
 
-- *(e.g., "This memory-allocator protocol only operates within the `L2 Cache` of the `Kinetic Sentinel`. It strictly drops network packets exceeding 4KB. It never touches disk I/O, routing all persistent storage requests directly to the `[Epigenetic Core]`.")*
+- *(e.g., "This compiler only accepts PULE Abstract Syntax Trees representing pure logic. It refuses to compile anything containing asynchronous I/O requests. It runs exclusively in a Firecracker microVM with a maximum of 10MB of RAM. Networking is physically disabled at the virtualization layer.")*
 
 ------
 
 #### 11. Tags (Symbiotic Valency & Network Discovery Hooks)
 
-***[MANDATORY PROMPT]:*** *Provide the specific API/Gossip tags this Substrate broadcasts on the LibP2P network to advertise its physical services/physics to the rest of the decentralized Matrix.*
+***[MANDATORY PROMPT]:*** *Provide the specific API/Gossip tags this Substrate broadcasts on the LibP2P network to advertise its physical compilation services to the rest of the decentralized Matrix.*
 
-- *(e.g., `#Wasm-Execution-Provider`, `#DAG-State-Resolver`, `#Zero-Knowledge-Verifier`, `#Escrow-Smart-Contract`, `#AST-Morphology-Engine`)*
+- *(e.g., `#PULE-to-AST-Parser`, `#Wasm-JIT-Compiler`, `#Zero-Trust-Execution-Sandbox`, `#Instruction-Metering-Hypervisor`, `#AST-Graph-Optimizer`)*
 
 ------
 
-#### 12. Operational Genesis Scenario (Bootstrapping the Swarm)
+#### 12. Operational Genesis Scenario (Bootstrapping the Compiler)
 
-*Provide a concrete scenario of how this protocol initializes from a dead state and reaches a thriving, self-sustaining network execution.*
+*Provide a concrete scenario of how this compiler initializes from a dead state and successfully executes its first dynamic code block.*
 
-- **T=0 (Genesis Block):** *(Describe the strict initialization of the SQLite DB and the generation of the first cryptographic identity keys).*
-- **T+1 (Node Discovery):** *(Describe how the node connects to a bootstrap peer via LibP2P and securely downloads the current DAG state).*
-- **T+2 (First Execution):** *(Describe the first external payload hitting the mesh, the escrow locking procedure, and the Wasm sandbox compilation).*
-- **T+3 (Sedimentation):** *(Describe the successful topological consensus, the Joules transfer via smart contract, and the final SQLite WAL write).*
+- **T=0 (Genesis State):** *(Describe the initialization of the Wasmtime Engine and pre-allocating the global memory pools).*
+- **T+1 (Ingestion):** *(Describe an Agent or Node submitting a raw PULE string; the Lexer tokenizes it without panicking).*
+- **T+2 (Morphology):** *(Describe the successful generation of the AST, the pruning of empty nodes, and the emission of the Wasm binary).*
+- **T+3 (Kinetic Execution):** *(Describe the Escrow lock, the host invoking the exported `_start()` function, instruction metering tracking the execution, and the safe memory return via the ABI).*
 
 ------
 
 #### 13. 3-Layer Praxial Genesis Canon Application
 
-- **Layer 1: The Metaphysical Layer:** *(How does this protocol embody the overarching philosophy? e.g., "Truth is not derived from a central authority; truth is cryptographic consensus born of physical friction and energy spent.")*
-- **Layer 2: The Formalism Layer:** *(What are the core mathematical or programmatic logic rules? e.g., "SHA-256 Merkle proofs," "CRDTs (Conflict-free Replicated Data Types)," "Abstract Syntax Tree morphing geometry.")*
-- **Layer 3: The Phenomenological Layer:** *(How is this physically experienced by the hardware? e.g., "The visceral spiking of RAM, the exact consumption limit of Wasm instructions, the local SSD grinding the SQLite block into persistent disk.")*
+- **Layer 1: The Metaphysical Layer:** *(How does this compiler embody Praxial philosophy? e.g., "Logic does not exist until it is topologically enforced by physics; code is not thought, code is spatial geometry cutting through time.")*
+- **Layer 2: The Formalism Layer:** *(What are the core mathematical or programmatic logic rules? e.g., "Context-Free Grammars (CFG)," "Static Single Assignment (SSA) form," "WASM linear memory byte-arrays.")*
+- **Layer 3: The Phenomenological Layer:** *(How is this physically experienced by the hardware? e.g., "The CPU fan spinning up as the JIT compiler translates bytecode; the brutal RAM segmentation ensuring the OS remains fundamentally untouched by malicious logic.")*
 
 ------
 
@@ -186,15 +186,17 @@
 - Exports:
 
   ```
-  [What exact infrastructure capability does this protocol sell/provide to the rest of the Matrix?]
+  [What exact compilation or execution capabilities does this engine sell to the rest of the Matrix?]
   ```
 
-  - *Update:* The blueprint must define what "plumbing" it provides to the higher-level Agentic nodes. (e.g., `[Consensus-as-a-Service]`, `[Immutable-Logging-as-a-Service]`, `[Trustless-Escrow-as-a-Service]`, `[AST-Compilation-as-a-Service]`).
+  - *(e.g., `[AST-Parsing-as-a-Service]`, `[Secure-Wasm-Execution-as-a-Service]`, `[Code-Optimization-as-a-Service]`).*
 
-- **Value Proposition:** *(Why would a local Agent spend its hard-earned Joules to use this protocol rather than attempting to execute the logic locally and unsafely?)*
+- **ABI/FFI Barrier:** *(What is the exact data contract between the Caller and this Compiler? How is data safely passed in and out of the sandbox? e.g., "Shared memory pointer passing via Protobuf deserialization.")*
+
+- **Value Proposition:** *(Why would an Agent broadcast code to this specific node rather than compiling it natively? e.g., "Cheaper thermodynamic rates, specialized hardware acceleration, or required Sandboxing security.")*
 
 ------
 
-#### 15. Summarize: The Bare-Metal Reality
+#### 15. Summarize: The Bare-Metal Code Reality
 
-*Provide a concluding paragraph summarizing this structural protocol. Reiterate how it operates seamlessly in the background to enforce the uncompromising physics of the Fun Engine framework without any need for human oversight, and emphasize its critical role in maintaining the decentralized computing mesh.*
+*Provide a concluding paragraph summarizing this code execution substrate. Reiterate how it operates as the uncompromising physics engine that allows the Fun Engine framework to safely write, compile, and execute its own logic dynamically without risking catastrophic OS failure or infinite thermodynamic loops.*
