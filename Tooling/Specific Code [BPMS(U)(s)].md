@@ -24,3 +24,10 @@
 
 **Tags:** ***[MANDATORY PROMPT]:***Legacy-Digestion-Engine, Polyglot-AST-Transduce, Tree-Sitter-Matrix, Syntax-Composter, Entropy-Stripping, PULE-Normalization-Substrate
 
+**['Substrate Code'(-ing) BPMS]: ['Symbiotic UI-Weaving & State-Rendering Code'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate is strictly a one-way optic translator and dynamic client-code compiler. It resides on the Backend logic Hub (or within the Local thick-client's backend). It *does not* execute core business logic; it merely *paints* it. It is strictly bounded by the Escrow mechanism—if there are no Joules, the Matrix goes visually dark. It is absolutely vital for any module connecting the Fun Engine to human visual senses.
+
+**Tags:** ***[MANDATORY PROMPT]:*** Agentic-UI-Coder, State-Rendering-Transducer, WebGL-Shader-Synthesis, JIT-Component-Weaver, Death-Of-Frontend, Thermodynamic-Aesthetics

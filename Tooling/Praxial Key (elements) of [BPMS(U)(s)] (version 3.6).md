@@ -2518,3 +2518,12 @@ Because the OS no longer "answers" prompts within a SaaS master-slave dynamic, t
 **Scope of Application:** The mandatory UI/UX instantiation layer for any human or external operator interacting with the V3.6 Decentralized Matrix. It applies whenever intent must be converted into escrow-backed P2P reality without breaking the systemic physics of the engine.
 
 **Tag:** External-Implementation, Praxial-Kinetic-Ide, Escrow-Binding, Crdt-Visualization, Compiler-Heat-Map, Death-of-Vscode
+
+**['Substrate Code'(-ing) BPMS]: ['Symbiotic UI-Weaving & State-Rendering Code'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate is strictly a one-way optic translator and dynamic client-code compiler. It resides on the Backend logic Hub (or within the Local thick-client's backend). It *does not* execute core business logic; it merely *paints* it. It is strictly bounded by the Escrow mechanism—if there are no Joules, the Matrix goes visually dark. It is absolutely vital for any module connecting the Fun Engine to human visual senses.
+
+**Tags:** ***[MANDATORY PROMPT]:*** Agentic-UI-Coder, State-Rendering-Transducer, WebGL-Shader-Synthesis, JIT-Component-Weaver, Death-Of-Frontend, Thermodynamic-Aesthetics
+
