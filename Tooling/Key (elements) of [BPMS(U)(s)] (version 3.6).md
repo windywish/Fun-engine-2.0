@@ -5172,12 +5172,6 @@ Tags: Non-representational-cognition, Direct-action, Thermodynamic-flow, Spatial
 
 **Tags:** Material-Substrate, Rendered-Instance, Physical-Laws, Tangible-Boundaries, Thermodynamic-Medium, Environmental-Pushback
 
-**['Programmatic Substrate'(-ing) BPMS]** 
-
-**Scope of Application:** Applies to the logical, rule-based instance of the Praxial Substrate. Instead of physical matter, it is the "Matrix" made of data, algorithms, and potentiality that underpins the Material. It serves as the living memory and environmental ruleset where Code is injected and waits for interactional awakening. 
-
-**Tags:** Programmatic-Substrate, Logical-Instance, Rule-Based-Matrix, Data-Algorithms, Living-Memory, Environmental-Ruleset
-
 **[Programmatic(-ing) BPMS]** 
 
 **Scope of Application:** Applies to the abstract realm of rules, potentiality, and algorithms before they are executed. It represents the "idea" or blueprint of how a system should work, providing the rigorous, automated structural bedrock required for the Fun Engine Framework's complex reality-weaving mechanics. 
@@ -6561,5 +6555,26 @@ The abstract `.md` blueprint or architectural plan that describes how an Agent, 
 
 **Tag:** External-Implementation, Dynamic-Barter, Trustless-Escrow, Vibe-Alignment, Capability-Fusion
 
+**['Substrate Code'(-ing) BPMS]**
 
+**Scope of Application:** Operates exclusively at the **Lexical and Parsing Boundary** of the system. This element fundamentally rejects the concept of "code as text." Its sole jurisdiction is transforming incoming semantic strings (PULE syntax/JSON) into spatial mathematics—specifically **Abstract Syntax Trees (AST)** and **Intermediate Representation (IR)**. It strictly refuses to execute code; it merely structures it, validating that the logic contains no fatal paradoxical shapes before it is passed to the hypervisor. It is the geometric blueprint of logic before it hits kinetic momentum. 
 
+**Tags:** AST-Geometry, PULE-Lexer, Syntax-Topology, Topological-Parser, Zero-Execution
+
+**['Programmatic Substrate'(-ing) BPMS]**
+
+**Scope of Application:** Operates strictly as the **Kinetic Execution Crucible**. This is the literal Hypervisor (the WebAssembly/Wasmtime sandbox). Its application area is heavily constrained to an isolated, pre-allocated block of **Linear Memory**. It is completely blind to what the code *means*; it only cares about what the code *costs*. It receives the AST/Wasm binary from the `['Substrate Code']`, locks the Praxial Joules in an Escrow Smart Contract, and meters every single CPU instruction executed. If the code attempts an illegal host call (WASI violation) or exhausts its Joules, this substrate instantly executes the physical guillotine, dumping the memory back to the OS. 
+
+**Tags:** Wasmtime-Sandbox, Instruction-Metering, Linear-Memory-Allocator, Thermodynamic-Guillotine, WASI-Host-Bindings
+
+**['Symbiotic Substrate Code'(-ing) BPMS]**
+
+**Scope of Application:** Operates as the **Decentralized Syntax Mesh (Masterless AST Sync)**. Its strict jurisdiction is synchronizing the geometric structure of logic across trustless network boundaries before execution. It abandons traditional Git-like file merging; instead, it uses Conflict-Free Replicated Data Types (CRDTs) to allow multiple sovereign nodes to concurrently build, parse, or hold fragments of a unified Abstract Syntax Tree (AST). It ensures that the "DNA" of the Matrix is topologically identical across the swarm without requiring a central truth server. 
+
+**Tags:** CRDT-AST-Sync, Swarm-Syntax-Mesh, Distributed-Topology, Masterless-Graph-Alignment, P2P-Logic-Validation
+
+**['Symbiotic Programmatic Substrate'(-ing) BPMS]**
+
+**Scope of Application:** Operates as the **Distributed Wasm Sandbox & Sharded Execution Crucible**. Its jurisdiction is the active execution of machine logic across physical boundaries. It governs how a massive kinetic workload (Wasm bytecode) is sharded and processed by multiple sovereign nodes simultaneously. It actively manages cross-boundary linear memory pointers, Cryptographic Zero-Knowledge (ZK) proofs, and the immediate locking of "Thermodynamic Escrow" between nodes processing fragments of the exact same computational state. 
+
+**Tags:** Sharded-Wasm-Crucible, Cross-Boundary-Memory, Distributed-Compute-State, ZK-Execution-Proofs, Multi-Node-Kinetic-Engine
