@@ -2506,3 +2506,9 @@ Because the OS no longer "answers" prompts within a SaaS master-slave dynamic, t
  **Scope of Application:** Operates as the **Macro-Thermodynamic Thread Router (The Apex Execution Mesh)**. This is the ultimate physics engine of the decentralized swarm. It actively monitors the "Kinetic Weather" (CPU availability, Joule pricing, bandwidth density) of the entire network. Based on this telemetry, it autonomously migrates live, executing Wasm threads from high-friction, overloaded nodes to low-friction, idle nodes in real-time. It represents the absolute fusion of thermodynamic policing and P2P execution—a self-healing, market-driven global computer.
 
  **Tags:** Kinetic-Weather-Routing, Live-Thread-Migration, Swarm-Load-Balancing, Macro-Thermodynamic-Execution, Apex-Decentralization
+
+**['Substrate Code'(-ing) BPMS]: ['Polyglot Syntax-Composting Code'(-ing) BPMS]**
+
+**Scope of Application:** ***[MANDATORY PROMPT]:*** This Substrate is strictly a Lexical Mapper and Transducer. It is hardware-restricted to memory parsing limits (e.g., maximum 50MB file size per buffer arena). It is explicitly forbidden from generating executable WebAssembly, compiling machine code, or acting as an interpreter. It categorically refuses any payload attempting network socket compilation, disk I/O, or GPU acceleration. It reads text, graphs it, and outputs the graph. The boundary is absolute.
+
+**Tags:** ***[MANDATORY PROMPT]:***Legacy-Digestion-Engine, Polyglot-AST-Transduce, Tree-Sitter-Matrix, Syntax-Composter, Entropy-Stripping, PULE-Normalization-Substrate

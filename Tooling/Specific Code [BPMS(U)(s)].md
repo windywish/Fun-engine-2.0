@@ -16,4 +16,11 @@
 
 **Scope of Application (The Swarm Coordination Jurisdiction):** ***[MANDATORY PROMPT]:*** This Substrate is mathematically restricted to **Network Synchronization and Topological Mathematics (CRDTs)**. It categorically refuses to compile natively executable code (leaving that to the Programmatic Substrate). It refuses to lex raw human text strings (leaving that to the localized Substrate Code). Its absolute jurisdiction is moving, merging, and mathematically verifying geometric AST data structures across TCP/UDP wires between untrusted sovereign nodes without relying on a centralized database.
 
-**Tags (Symbiotic Valency & Network Discovery Hooks):** ***[MANDATORY PROMPT]:*** CRDT-AST-Sync, Swarm-Syntax-Mesh, Distributed-Topology, Masterless-Graph-Alignment, P2P-Logic-Validation, LibP2P-Gossip-Router`
+**Tags (Symbiotic Valency & Network Discovery Hooks):** ***[MANDATORY PROMPT]:*** CRDT-AST-Sync, Swarm-Syntax-Mesh, Distributed-Topology, Masterless-Graph-Alignment, P2P-Logic-Validation, LibP2P-Gossip-Router
+
+**['Substrate Code'(-ing) BPMS]: ['Polyglot Syntax-Composting Code'(-ing) BPMS]**
+
+**Scope of Application:** ***[MANDATORY PROMPT]:*** This Substrate is strictly a Lexical Mapper and Transducer. It is hardware-restricted to memory parsing limits (e.g., maximum 50MB file size per buffer arena). It is explicitly forbidden from generating executable WebAssembly, compiling machine code, or acting as an interpreter. It categorically refuses any payload attempting network socket compilation, disk I/O, or GPU acceleration. It reads text, graphs it, and outputs the graph. The boundary is absolute.
+
+**Tags:** ***[MANDATORY PROMPT]:***Legacy-Digestion-Engine, Polyglot-AST-Transduce, Tree-Sitter-Matrix, Syntax-Composter, Entropy-Stripping, PULE-Normalization-Substrate
+
