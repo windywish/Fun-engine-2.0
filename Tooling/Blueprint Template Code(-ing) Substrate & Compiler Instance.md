@@ -1,4 +1,4 @@
-## Blueprint Template Substrate, Ledger & Protocol Instance
+## Blueprint Template Code(-ing) Substrate & Compiler Instance 
 
 *To be used exclusively for implementing bare-metal code execution, autopoietic syntax engines, or dynamic compilers: `[BPMS(U)(s)]` operating as Lexers, AST Morphers, Wasm JIT Compilers, or Host-Bound Hypervisors. This template enforces the physics of self-executing logic.*
 
@@ -146,19 +146,19 @@
 
 ------
 
-#### 10. Scope of Application (The Memory / Compilation Jurisdiction)
+#### 10. Scope of Application
 
-***[MANDATORY PROMPT]:*** *Define the absolute mathematical and hardware limits of this Compiler Substrate. What languages does it refuse to compile? What syscalls does it categorically block?*
+***[MANDATORY PROMPT]:*** *Define the absolute mathematical and hardware limits of this Compiler Substrate. What computational jurisdictions does it rule? What does it categorically refuse to touch?*
 
-- *(e.g., "This compiler only accepts PULE Abstract Syntax Trees representing pure logic. It refuses to compile anything containing asynchronous I/O requests. It runs exclusively in a Firecracker microVM with a maximum of 10MB of RAM. Networking is physically disabled at the virtualization layer.")*
+- *(e.g., "This Substrate strictly compiles pure `[PULE]` logic into Wasm. It is hardware-restricted to `CPU Core 2` and a hard cap of `10MB RAM` per execution instance. It explicitly refuses any payload attempting network socket compilation, disk I/O, or GPU acceleration. It operates solely in the volatile execution layer and defers all persistence to the Ledger BPMS.")*
 
 ------
 
-#### 11. Tags (Symbiotic Valency & Network Discovery Hooks)
+#### 11. Tags
 
-***[MANDATORY PROMPT]:*** *Provide the specific API/Gossip tags this Substrate broadcasts on the LibP2P network to advertise its physical compilation services to the rest of the decentralized Matrix.*
+***[MANDATORY PROMPT]:*** *List the specific Symbiotic Valency Hooks this engine broadcasts on the P2P LibP2P network. These are the exact cryptographic keys other nodes query when they need to buy compute or compile a payload.*
 
-- *(e.g., `#PULE-to-AST-Parser`, `#Wasm-JIT-Compiler`, `#Zero-Trust-Execution-Sandbox`, `#Instruction-Metering-Hypervisor`, `#AST-Graph-Optimizer`)*
+- `[e.g., #Wasm-JIT-Compiler, #AST-Morphology-Engine, #Instruction-Metering-Sandbox, #PULE-Frontend-Lexer, #Zero-Trust-Execution]`
 
 ------
 
@@ -183,7 +183,7 @@
 
 #### 14. ['Praxial XaaS'(-ing) BPMS] (Service Export) Interface
 
-- Exports:
+- **Exports:**
 
   ```
   [What exact compilation or execution capabilities does this engine sell to the rest of the Matrix?]
