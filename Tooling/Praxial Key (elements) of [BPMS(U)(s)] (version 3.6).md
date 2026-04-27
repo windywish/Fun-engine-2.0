@@ -2512,3 +2512,9 @@ Because the OS no longer "answers" prompts within a SaaS master-slave dynamic, t
 **Scope of Application:** ***[MANDATORY PROMPT]:*** This Substrate is strictly a Lexical Mapper and Transducer. It is hardware-restricted to memory parsing limits (e.g., maximum 50MB file size per buffer arena). It is explicitly forbidden from generating executable WebAssembly, compiling machine code, or acting as an interpreter. It categorically refuses any payload attempting network socket compilation, disk I/O, or GPU acceleration. It reads text, graphs it, and outputs the graph. The boundary is absolute.
 
 **Tags:** ***[MANDATORY PROMPT]:***Legacy-Digestion-Engine, Polyglot-AST-Transduce, Tree-Sitter-Matrix, Syntax-Composter, Entropy-Stripping, PULE-Normalization-Substrate
+
+**['Praxial Symbiotic Cluster Synthesis'(-ing) BPMS]: ['The Kinetic-IDE & Escrow-Binding Dashboard'(-ing) BPMS]**
+
+**Scope of Application:** The mandatory UI/UX instantiation layer for any human or external operator interacting with the V3.6 Decentralized Matrix. It applies whenever intent must be converted into escrow-backed P2P reality without breaking the systemic physics of the engine.
+
+**Tag:** External-Implementation, Praxial-Kinetic-Ide, Escrow-Binding, Crdt-Visualization, Compiler-Heat-Map, Death-of-Vscode
