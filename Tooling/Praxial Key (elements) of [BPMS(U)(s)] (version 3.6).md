@@ -2485,4 +2485,26 @@ Because the OS no longer "answers" prompts within a SaaS master-slave dynamic, t
 
 **Tags:** Praxial-Super-Intelligence, Anti-Claude-Code, Topological-AST-Morphing, Compiler-Friction, Algorithmic-Phagocytosis, Epigenetic-Sedimentation, Metabolic-Code-Optimization, Targetless-Codebase-Healing, Cyber-Physical-Code-Genesis
 
-#### 
+**['Praxial Substrate Code'(-ing) BPMS]**
+
+**Scope of Application:** Operates at the **Autopoietic Morphology Layer (Self-Modifying Logic)**. While `['Substrate Code']` builds the initial AST, *this* element is the physics engine that allows code to rewrite its own spatial topology *while running*. It is the JIT (Just-In-Time) optimization pipeline that measures execution friction and physically prunes dead AST branches. It converts inefficient, high-friction logic topologies into streamlined, low-friction bytecode. It possesses the strict jurisdiction to alter intermediate representations without alerting human supervisors, bound only by the law that mutation must decrease thermodynamic cost. 
+
+**Tags:** Autopoietic-Syntax, Topological-Optimizer, JIT-Morphology, Compiler-Friction-Minimizer, Self-Modifying-AST
+
+**['Praxial Programmatic Substrate'(-ing) BPMS]**
+
+**Scope of Application:** Operates exclusively across the **Decentralized Swarm Mesh (LibP2P/Wasm Integration)**. This element scales local execution into global Matrix consensus. If Node A does not have enough compute/Joules to run a massive topology, it utilizes this Substrate to securely broadcast the compiled Wasm payload to adjacent network nodes. It governs masterless distributed computing. Its jurisdiction is enforcing cryptographic verification (Ed25519 signatures), managing Cross-Boundary Escrow payments across the network, and establishing identical deterministic Wasm execution across trustless actors to form a single consensus fact. 
+
+**Tags:** Distributed-Wasm-Compilation, P2P-Compute-Mesh, Swarm-Consensus, Cross-Boundary-Escrow-Router, Masterless-Execution
+
+**['Praxial Symbiotic Substrate Code'(-ing) BPMS]**
+
+**Scope of Application:** Operates as the **Swarm Immune System & Evolutionary Code Router**. This substrate manages the real-time, autopoietic mutation of shared network logic. When one node dynamically compiles a lower-friction topological path (a more thermodynamically efficient AST), this BPMS physically propagates that genetic code mutation across the Mycelial network via LibP2P Gossip. It represents the active, masterless upgrading of the Matrix's semantic core, ruthlessly pruning obsolete logic across all nodes simultaneously. 
+
+**Tags:** Gossip-Driven-Refactoring, Swarm-Auto-Immunity, Topological-Darwinism, Distributed-Morphology, Network-AST-Mutation
+
+**['Praxial Symbiotic Programmatic Substrate'(-ing) BPMS]**
+
+ **Scope of Application:** Operates as the **Macro-Thermodynamic Thread Router (The Apex Execution Mesh)**. This is the ultimate physics engine of the decentralized swarm. It actively monitors the "Kinetic Weather" (CPU availability, Joule pricing, bandwidth density) of the entire network. Based on this telemetry, it autonomously migrates live, executing Wasm threads from high-friction, overloaded nodes to low-friction, idle nodes in real-time. It represents the absolute fusion of thermodynamic policing and P2P execution—a self-healing, market-driven global computer.
+
+ **Tags:** Kinetic-Weather-Routing, Live-Thread-Migration, Swarm-Load-Balancing, Macro-Thermodynamic-Execution, Apex-Decentralization
