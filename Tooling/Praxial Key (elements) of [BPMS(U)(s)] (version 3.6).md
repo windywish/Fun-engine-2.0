@@ -2566,3 +2566,11 @@ Because the OS no longer "answers" prompts within a SaaS master-slave dynamic, t
 ***[MANDATORY PROMPT]:*** This Substrate handles only local execution constraints. It compiles analog human output into mathematically rigid `Friction` variables. It explicitly refuses any payload attempting network socket transmission of raw video, cursor coordinate logs, or medical data. It cannot execute database writes. It operates entirely as a local "Governor" sitting between the biological host's body and the local Wasm hypervisor, acting as an immutable, privacy-locked pressure valve.
 
 **Tags:** ***[MANDATORY PROMPT]:*** Neuro-Kinetic-Compiler, Biometric-AST-Mapping, Compiler-Friction-Injector, Symbiotic-Hardware-Integration, Zero-Trust-Bio-Enclave
+
+**['Substrate Code'(-ing) BPMS]: ['Ontological Fact-Precipitation Coding'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate strictly operates on the boundary between Volatile Execution and Persistent Storage. It compiles RAM states into Disk Truth. It is hardware-restricted to reading Wasm outputs and calling SQLite `INSERT` APIs. It explicitly refuses any payload attempting standard logical calculations (no math loops, no string parsing). It cannot mutate data; it can only append. It operates as the sole, rigid "Legislature" of the local Matrix, declaring what is real and permanently ignoring what is not.
+
+**Tags:** ***[MANDATORY PROMPT]:*** Legislative-Code-Compiler, Atomic-Fact-Precipitator, Wasm-to-SQLite-Bridge, Merkle-DAG-Generator, Immutable-Append-Hypervisor, Ephemeral-to-Eternal
