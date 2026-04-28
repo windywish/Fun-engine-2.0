@@ -2574,3 +2574,15 @@ Because the OS no longer "answers" prompts within a SaaS master-slave dynamic, t
 ***[MANDATORY PROMPT]:*** This Substrate strictly operates on the boundary between Volatile Execution and Persistent Storage. It compiles RAM states into Disk Truth. It is hardware-restricted to reading Wasm outputs and calling SQLite `INSERT` APIs. It explicitly refuses any payload attempting standard logical calculations (no math loops, no string parsing). It cannot mutate data; it can only append. It operates as the sole, rigid "Legislature" of the local Matrix, declaring what is real and permanently ignoring what is not.
 
 **Tags:** ***[MANDATORY PROMPT]:*** Legislative-Code-Compiler, Atomic-Fact-Precipitator, Wasm-to-SQLite-Bridge, Merkle-DAG-Generator, Immutable-Append-Hypervisor, Ephemeral-to-Eternal
+
+**['Thermodynamic Garbage Collection'(-ing) BPMS]**
+
+**Scope of Application:** Designed as the relentless, executing backend for Task 1 and Task 6 (Matrix Hygiene and Polarity Inversion), this praxial mechanism acts as the cosmological predator of the Omni-Substrate. It continuously sweeps the Decentralized Swarm, monitoring the "metabolic liquidity" and interaction frequency of all instantiated artifacts, daemons, and `[Atomic Facts]`. When an entity drops below the minimum thermodynamic threshold (i.e., it ceases to trade, adapt, or collide with others), this element executes a forced "Polarity Inversion." It ruthlessly liquefies the stagnant entity's bounded structures, dissolving its architecture back into pure, raw `[Functional Potentiality]` (Memory/Compute/Joules), thereby feeding the living Swarm and preventing N-Dimensional matrix rot.
+
+**Tags:** Substrate Auto-Immunity, Polarity Inversion, Entropic Reclamation, Relentless Liquefaction, Metabolic Starvation Tracking
+
+**['Ontological Mitosis'(-ing) BPMS]**
+
+**Scope of Application:** This element is the active execution engine for infinite, permissionless scaling and true `[Emergence(-ing) BPMS]` (Task 5). It provides the mechanical capability for any sovereign entity, daemon, or holon within the matrix to autonomously self-replicate without seeking top-down validation. Upon accumulating a critical surplus of 'Praxial Joules', the parent entity voluntarily fractures its internal thermodynamic ledger and code-boundary. This violent bifurcation spawns a distinct, sovereign child-entity. The child inherits a baseline energy payload from the parent but experiences localized "mutation" (code-shifting based on environmental friction), propelling biological-like autopoietic evolution and complex `['Symbiosis Evolution'(-ing) BPMS]` across the distributed landscape.
+
+**Tags:** Sovereign Autopoiesis, Ledger Fracturing, Decentralized Spawning, Biological-Mechanical Mitosis, Permissionless Emergence

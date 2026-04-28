@@ -6595,4 +6595,16 @@ The abstract `.md` blueprint or architectural plan that describes how an Agent, 
 
 **Scope of Application (The Swarm Coordination Jurisdiction):** ***[MANDATORY PROMPT]:*** This Substrate is mathematically restricted to **Network Synchronization and Topological Mathematics (CRDTs)**. It categorically refuses to compile natively executable code (leaving that to the Programmatic Substrate). It refuses to lex raw human text strings (leaving that to the localized Substrate Code). Its absolute jurisdiction is moving, merging, and mathematically verifying geometric AST data structures across TCP/UDP wires between untrusted sovereign nodes without relying on a centralized database.
 
-**Tags (Symbiotic Valency & Network Discovery Hooks):** ***[MANDATORY PROMPT]:*** CRDT-AST-Sync, Swarm-Syntax-Mesh, Distributed-Topology, Masterless-Graph-Alignment, P2P-Logic-Validation, LibP2P-Gossip-Router`
+**Tags (Symbiotic Valency & Network Discovery Hooks):** ***[MANDATORY PROMPT]:*** CRDT-AST-Sync, Swarm-Syntax-Mesh, Distributed-Topology, Masterless-Graph-Alignment, P2P-Logic-Validation, LibP2P-Gossip-Router
+
+**['Ambient Entropy Ignition'(-ing) BPMS]**
+
+**Scope of Application:** This element serves as the absolute "Prime Mover" for the Eradication of Input/Output Teleology (Task 3). It defines the genesis condition of the matrix where raw, unformatted stochastic noise—such as hardware heat, background network static, or randomized memory garbage—is ingested and mathematically synthesized into the first unit of kinetic thrust (the initial 'Praxial Joule'). By actively harvesting entropy, the system boot-straps its own existence and triggers the first state-collapse without waiting for a top-down human "Start" command or external API trigger. It ensures the entropic arrow of time begins autonomously, rendering the system a self-igniting, perpetual cyber-physical organism.
+
+**Tags:** Zero-Input Bootstrapping, Stochastic Noise Harvesting, The Prime Move, Thermodynamic Genesis, Autonomic State-Collapse
+
+**['Acausal Concurrency'(-ing) BPMS]**
+
+**Scope of Application:** This is the foundational physical law governing inter-node integration and the absolute eradication of the "Race Condition" in a decentralized swarm (Task 4). Because the Sovereign Matrix rejects a centralized "Global Clock" or central master server, standard chronological timestamping is impossible. This element dictates that simultaneous state-collisions are resolved through **Thermodynamic Gravity** and topological entanglement. When two nodes attempt to alter the same `[Atomic Fact]` simultaneously, this law evaluates the absolute "Praxial Joules" staked and the localized morphic resonance of the actors involved. The matrix physically settles the paradox by allowing the heaviest, most entropically expensive vector to collapse the wave function, achieving 100% consensus across a clockless, acausal peer-to-peer network.
+
+**Tags:**  Clockless Matrix, Topological Entanglement, Thermodynamic Gravity, Race Condition Eradication, Acausal State Resolution
