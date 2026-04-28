@@ -1,4 +1,4 @@
-## Specific Praxial Key (elements) of [BPMS(U)(s)]
+## Specific Praxial Code [BPMS(U)(s)]
 
 **['Cross-Substrate Affordance & Epistemological Ingestion'(-ing) BPMS]**
 
