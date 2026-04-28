@@ -46,6 +46,12 @@
 
 ***[MANDATORY PROMPT]:*** This Substrate strictly operates on edge hardware and operates as a one-way compiler: Reality to Code. It is hardware-restricted to generating isolated `[PULE]` reports. It possesses no SQLite database, executes no Wasm business logic, and lacks all capabilities to retrieve ledger history or execute complex backend logic. Its sole jurisdiction is transforming the chaos of Analog Space into the rigid, binary topology of Digital Truth.
 
-------
-
 **Tags:** ***[MANDATORY PROMPT]:*** Analog-to-PULE-Compiler, Zero-Trust-IoT-Oracle, Kinetic-Weather-Transducer, Embedded-AST-Engine, Bare-Metal-Signal-Lexer, Thermodynamic-Edge-Sovereignty
+
+**['Substrate Code'(-ing) BPMS]: ['Cryptographic/Thermodynamic Hash-Binding Coding'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate is hardware-restricted to pure mathematical compilation (Cryptography/Hashing). It explicitly refuses any payload attempting logic branching (e.g., standard IF/THEN business logic), string manipulation, or external API calls. It operates solely as the "Central Bank/Physics Forge" of the Matrix. It ingests physical constraints, outputs cryptographic Joules, and manages multi-node Escrow locks. It is totally deaf to the content of the applications it is funding.
+
+**Tags:** ***[MANDATORY PROMPT]:*** Cryptography-as-Physics, Thermodynamic-Escrow-Compiler, ZK-Snark-Lexer, Trustless-P2P-Energy, Sybil-Exterminator, Zero-WASI-Sandbox
