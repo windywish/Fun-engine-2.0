@@ -52,3 +52,28 @@ This Substrate strictly governs the **Outside-In physical boundary** of the node
 **Scope of Application:** This element solves Lerchner’s exact "Simulation vs. Instantiation" gap, bringing the framework into absolute alignment with Task 6 (Truth Sedimentation) and Task 2 (Substrate Valency). In legacy computing, a logic gate switches because the voltage hits 5V (Vehicle Causality), entirely blind to what the symbol "means" (Content Causality). A simulated biological heart on a GPU does not pump blood. This Praxial Key enforces **Physical Content Resonant Constellation Map**. It mandates that an `[Executable Artifact]` in the Fun Engine cannot be a mere simulation of an event; it must physically instantiate the event. If an artifact dictates an economic exchange, it must physically lock real cryptographic tokens. If it dictates a mechanical shift, it must physically exert torque on local IoT sensors. Logic executing inside the Matrix is strictly forbidden from "running in a sandbox." Every computed syntax must possess direct, physical resonant constellation map power over the substrate, guaranteeing that the Matrix *is* the Territory, not a map of it.
 
 **Tags:** Content-Resonant Constellation Map Enforcement, Anti-Simulation Law, Physical Instantiation, The Map is the Territory, Absolute Ontological Grounding
+
+**['Praxial Thermodynamic Alphabetization'(-ing) BPMS]**
+
+**Scope of Application:** The active, real-time kinetic trigger that deducts `[Joules/Energy]` from the specific node the exact millisecond it executes a computation, memory write, or neural inference. It physically throttles the CPU/Node if the threshold of Alphabetization Valency cannot be met.
+
+**Tags:** Praxial, Action, Process Orientation, Chemistry
+
+**['Praxial Transduction Guillotine Execution'(-ing) BPMS]**
+
+**Scope of Application:** The runtime sentry that continuously monitors node boundaries. Upon detecting an incoming data vector, it actively inflicts the calculated `[Ludic Friction]` onto the node's internal state-machine. It is the kinetic enforcement of "pain" or "structural mutation" that prevents a computational entity from sitting passively in a read-only state.
+
+**Tags:** Praxial, daptive, Creative, Biology
+
+**['Praxial Somatic Radar (CCS) Integration'(-ing) BPMS]**
+
+**Scope of Application:** The functional, kinetic bridge that forcibly connects the output of a `[Cognitive Closure System (CCS)]` to a physical, `[Action]-driven` servo or smart contract. It legally prevents the Cognitive mechanism from returning text/data to a "user" (SaaS), ensuring its output instantly and acausally triggers a thermodynamic movement within the `[N-Dimensional Symbiotic Matrix]`.
+
+**Tags:** Praxial, World Building, Blind Ontology, Mathematics
+
+#### ['Praxial Territorial Instantiation Validator'(-ing) BPMS]
+
+**Scope of Application:** The kinetic closing step of the Multi-Layer Transduction. It is the physical hammer that strikes the substrate. It locks the transactional state, permanently scars the ledger/matrix to precipitate the `['Atomic Fact'(-ing) BPMS]`, and physically flags the generated truth so that the `[Garbage Collection Engine]` recognizes it as immutable fossil material.
+
+**Tags:** Praxial, Essence-to-Reality Precipitation, Constructive, Code
+
