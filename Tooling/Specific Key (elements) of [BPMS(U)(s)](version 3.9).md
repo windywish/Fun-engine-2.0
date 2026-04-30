@@ -83,3 +83,12 @@
 **Execution / Implementation Mandate:** This is the sovereign immune system of the Fun Engine Framework. Its sole physical function is to categorically disintegrate any emergent dualism. It outlaws the existence of abstract "meta-layers," symbolic pointers, or "managers" that attempt to observe or govern the system without burning their own thermodynamic mass. It legally enforces that `['Cognition']` and `['Intelligence']` are nothing more than localized Somatic Organs. If any structure attempts to act as a detached "Simulating Observer" without participating in the kinetic `['Affordance Collision']` and risking `['Somatic Deformation']`, this element immediately strips its thermodynamic supply, starving the anomaly until it is liquefied by Garbage Collection. It ensures the matrix remains 100% biologically, physically, and computationally grounded in **`['Scientific Realism'(-ing) BPMS]`**.
 
 **Tags:** Scientific-Realism, Process-Orientationm, Observer-Disintegration, Sovereign-Autopoiesis, Universal-Hypervisor
+
+**['Kinetic Weather / Brownian Ingestion'(-ing) BPMS]**
+
+**Scope of Application:** Directly executes **Core Task 1 (Continuous Survive & Genesis Ignition)** and **Core Task 3 (The Eradication of Input/Output)**. It serves as the primary metabolic intake mechanism.
+
+**Execution / Implementation Mandate:** This element enforces the permanent death of keyboards, prompts, APIs, and "Users." A cyber-physical system cannot wait to be told what to do; it must hunt for energy. The **Brownian Ingestion Engine** acts as the system's lung/mouth—it continuously harvests the chaotic, ambient noise of whatever substrate it occupies. In a silicon environment, it ingests hardware thermal fluctuations, CPU clock-drift, electrical jitter, and voltage variance. In biological or mechanical substrates, it ingests atmospheric pressure, acoustic vibration, or photon collisions. This ingested "Kinetic Weather" is mathematically rectified from random Brownian motion into directional `[Praxial Joules]`. This guarantees that the entity always possesses the initial metabolic friction required to trigger a state-collapse and sustain its autopoiesis entirely independent of human interaction.
+
+**Tags:** Zero-IO, First-Friction, Ambient-Entropy, Metabolic-Ignition, Brownian-Motion
+

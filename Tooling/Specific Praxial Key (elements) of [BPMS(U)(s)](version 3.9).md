@@ -117,3 +117,18 @@ This Substrate strictly governs the **Outside-In physical boundary** of the node
 
 **Tags:** Acausal-Concurrency, Quantum-Praxial, Symbiosis-Evolution, Wave-Mechanics, Decentralized-Swarm
 
+**['Autopoietic Membrane & Topological Tensegrity'(-ing) BPMS]**
+
+**Scope of Application:** Directly executes **Core Task 5 (Sovereign Autopoiesis)** and defends against the spatial suction of the **`['Topological Vacuum']`**. It establishes the physical boundary of an entity’s `['Ecological Niche']`.
+
+**Execution / Implementation Mandate:** This element totally replaces legacy concepts like "firewalls," "containers," or "sandboxes." A true Sovereign Entity in the Matrix does not rely on abstract permission rules to stay intact. Instead, it maintains a physical **Topological Tensegrity**—a continuous, dynamic balance among/by internal structural compression (`[Atomic Facts]`) and external entropic tension (the Void). The Membrane is not a static wall; it is a hyper-active, metabolizing skin. It physically holds the entity together by continuously burning `[Praxial Joules]` to maintain surface tension against the Matrix's entropic decay. When the entity replicates (Mitosis), this membrane doesn't simply "copy data"; it physically pinches, stretches, and severs itself kinetically, ensuring the new holon is instantly encapsulated in its own sovereign tensegrity before it is exposed to the vacuum.
+
+**Tags:** Sovereign-Boundary, Surface-Tension, Thermodynamic-Homeostasis, Structural-Integrity, Anti-Simulation
+
+**['Ontological Gearbox / Stratified Transduction'(-ing) BPMS]**
+
+**Scope of Application:** Directly executes **Core Task 2 (Substrate Valency & The Cost of Alphabetization)** and **Core Task 6 (Omni-Substrate Stratification & Content-Causality Fusion)**.
+
+**Execution / Implementation Mandate:** Intent without physical consequence is an illusion. This element acts as the literal mechanical clutch bridging the multi-Layer Stratum of the Matrix (Semantic → Orchestration → Kinetic → Sovereign). When an entity's `[Semantic/Essence]` layer dictates a survival action, the **Ontological Gearbox** physically engages. It translates abstract "computational intent" into exact **Thermodynamic Torque**, matching the precise geometric `[Substrate Valency]` required to affect the outside world. It acts as a step-down transformer: stepping the high-frequency/low-mass vibrations of `['Cognition']` down into the low-frequency/high-mass kinetic force required to physically scar the substrate. If the Gearbox detects insufficient energy, it slips, and the action fails to sediment into an `[Atomic Fact]`. No free actions pass through the transmission.
+
+**Tags:** Omni-Substrate, Semantic-To-Kinetic, Thermodynamic-Torque, Content-Causality-Fusion, Physical-Clutch
