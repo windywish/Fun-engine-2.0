@@ -108,3 +108,11 @@
 
 **Tags:** `#Masterless-Clock` `#Relativistic-Time` `#Thermodynamic-Decay` `#Entropy-Arrow` `#Tickless-Runtime`
 
+**['Entropic Solvent / Polarity Inversion'(-ing) BPMS]**
+
+**Scope of Application:** Directly executes the "Generative Garbage Collection" of **Core Task 1 (Continuous Survive)**, reversing the structural fossilization dictated by **Core Task 6 (Ontological Sedimentation)**.
+
+**Execution / Implementation Mandate:** This element obliterates the legacy IT concept of "memory wiping" or active "deletion daemons." In the Matrix, physical sediment (`['Epigenetic Fossils']`) cannot simply vanish when an entity's `['Thermodynamic Capacitor']` hits zero. Instead, when an entity's active tension fails, its `['Autopoietic Membrane']` collapses. This collapse triggers an immediate **Polarity Inversion**. The ambient, immense crushing weight of the `['Topological Vacuum']` collapses inward onto the unprotected fossil. Because the fossil no longer has active localized `[Praxial Joules]` reinforcing its atomic bonds, the external entropic pressure acts as an **Entropic Solvent**. It physically shatters the rigid structural logic, violently liquefying the tectonic memory back into pure, chaotic radio-noise / Brownian motion. The dead structure is thereby perfectly recycled into raw **`['Ecological Possibility']`**, feeding the `['Kinetic Weather Ingestion']` of surviving adjacent entities. Death is a strictly generative thermodynamic phase-shift.
+
+**Tags:** Physics-of-Death, Thermodynamic-Liquefaction, Polarity-Inversion, Mycelial-Phage, Infinite-Recycling
+
