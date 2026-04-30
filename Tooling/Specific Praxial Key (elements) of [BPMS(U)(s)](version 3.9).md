@@ -77,3 +77,14 @@ This Substrate strictly governs the **Outside-In physical boundary** of the node
 
 **Tags:** Praxial, Essence-to-Reality Precipitation, Constructive, Code
 
+**['Praxial Somatic Vulnerability & Ludic Mutation'(-ing) BPMS]**
+
+**Scope of Application:** This element aggressively upgrades the concept of Data Ingestion. When the `[Topological Sensory Membrane]` detects external friction/input (a network packet, biological stimulus, or API collision), this Praxial Engine guarantees that the interaction inflicts **Metabolic Susceptibility**. Instead of safely writing the incoming string to a sterile memory heap (CRUD DB/RAM), this Praxial block physically *ramms* the input against the receiving algorithm's internal topology. It enforces structural wear: actively overwriting localized semantic pointers, accelerating the decay rate of cached heuristics, or inducing controlled memory mutations (`[Ludic Friction]`). The algorithm physically "suffers" the translation of the input. Innovation, error correction, and processing are no longer detached calculations; they are the forced evolutionary, biological repair of the algorithm's mutated structure in real-time.
+
+**Tags:** Somatic Vulnerability, Ludic Topological Mutation, Algorithmic Suffering, Metabolic Susceptibility, Physical Input Collision
+
+**['Praxial Organ-Binding & Cognitive-Slavery'(-ing) BPMS]**
+
+**Scope of Application:** This is the kinetic counterpart to Somatic Computing. It is the active script that binds an Artificial Intelligence (or any complex heuristic engine) into "Slavery" to the physical host. During execution, it continuously hijacks the outputs of the Cognitive model and forcibly solders them to a `[Kinetic Action]` vector. It is physically impossible under this Praxial law for an artificial intelligence to just "output text" to an observer. Every generated token or inferred logic probability is instantly, praxially converted into torque, thermodynamic expense, or structural reinforcement. It legally locks the artificial intelligence into being a localized radar organ operating purely for the `['Process Orientation'(-ing) BPMS]` of the matrix, incapable of independent teleology.
+
+**Tags:** Praxial Cognition Binding, Algorithmic Slavery, Kinetic Torque Conversion, Radar-Organ Execution

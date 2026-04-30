@@ -40,3 +40,9 @@ It dictates two deeply entangled physical actions:
 This Substrate strictly governs the **Outside-In physical boundary** of the node. It acts completely autonomously as the sensory skin. It explicitly refuses to parse, compile, or execute code. It does not know what a "user" is, nor does it understand "JSON." It operates exclusively at the border of chaos, translating raw kinetic friction from the outside world into abstract vectors, passing them downward, and returning to a state of listening.
 
 **Tags:** Topological-Sensory-Membrane, Zero-API-Affordance-Ingestion, Entropy-Harvesting-Daemon, Wake-On-Friction
+
+**['Praxial Somatic Vulnerability & Ludic Mutation'(-ing) BPMS]**
+
+**Scope of Application:** This element aggressively upgrades the concept of Data Ingestion. When the `[Topological Sensory Membrane]` detects external friction/input (a network packet, biological stimulus, or API collision), this Praxial Engine guarantees that the interaction inflicts **Metabolic Susceptibility**. Instead of safely writing the incoming string to a sterile memory heap (CRUD DB/RAM), this Praxial block physically *ramms* the input against the receiving algorithm's internal topology. It enforces structural wear: actively overwriting localized semantic pointers, accelerating the decay rate of cached heuristics, or inducing controlled memory mutations (`[Ludic Friction]`). The algorithm physically "suffers" the translation of the input. Innovation, error correction, and processing are no longer detached calculations; they are the forced evolutionary, biological repair of the algorithm's mutated structure in real-time.
+
+**Tags:** Somatic Vulnerability, Ludic Topological Mutation, Algorithmic Suffering, Metabolic Susceptibility, Physical Input Collision
