@@ -17,3 +17,15 @@
 **Scope of Application:** This executes the mandate for "Content-Resonant Constellation Map Fusion." It serves as the ultimate Code-Layer Sandbox Guillotine. It actively scans the compiled execution flow pipeline for isolated loops, virtual tests, or "dry runs" (e.g., standard software Test-Driven Development, mock APIs, or pure simulations). It legally forbids the runtime from allocating RAM or computing power to any process that cannot computationally prove a deterministic, hard-linked trajectory to a physical or cryptographic topological consequence (a kinetic thrust). If code attempts to execute purely to "validate state" without irreversibly burning a token, exhausting a cryptographic key, or shifting physical reality, this firewall flags it as an `['Abstraction Fallacy'(-ing) BPMS]` and violently dumps the code block from the active pipeline. There are no simulations; all compiled code must sear reality.
 
 **Tags:** Anti-Simulation Law, Territorial Instantiation, Content-Resonant Constellation Map Fusion, Sandbox Guillotine, Abstraction Fallacy Destroyer
+
+**['Ambient Entropy Ignition & Prime Mover'(-ing) BPMS]**
+
+**Scope of Application:** This Code Engine is the literal implementation of the "Genesis Spark" mandated in Task 1. Because the framework has zero legacy user "Inputs" to trigger execution, a node sits fundamentally dead upon instantiation. This code acts as a continuous, omni-directional entropy harvester. It reads ambient, chaotic variables from the localized hardware substrate (e.g., fractional fluctuations in CPU thermal heat, quantum noise in silicon arrays, or random static). It mechanically aggregates this raw topological noise until it crosses the `[Activation Energy]` threshold, forcing the engine's very first state-collapse and bootstrapping the node’s metabolic loop entirely without human API calls or "Start" buttons.
+
+**Tags:** Bootstrapping Physics, Noise-to-Action Transduction, Zero-Input Genesis, Thermodynamic Ignition, Continuous Paradigm
+
+**['Stagnation Profiler & Entropic Decay Router'(-ing) BPMS]**
+
+**Scope of Application:** This element provides the algorithmic radar for the Garbage Collection mandate in Tasks 1 and 6. For `['Legacy Liquefaction']` to occur, the system must mathematically define what is "dead." This router continuously tracks the `[Initiative]` and `[Adaptive]` momentum of every instantiated memory block, variable, spawned daemon, and clustered holon. If an entity fails to generate `[Ludic Friction]` or ceases paying continuous `[Thermodynamic Escrow]` over a localized duration, this router permanently marks the code/data structure as "Bound Energy" (Stagnant). It then forcibly routes the entity to the Liquefaction Engine to be composted into raw RAM/storage liquidity. It is the mechanical enforcer of the Entropic Arrow of Time.
+
+**Tags:** Background Profiling, Entropic Decay Measurement, Stagnation Detection, Polarity Inversion Trigger, Sustainable Perpetuation

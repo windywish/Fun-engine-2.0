@@ -52,3 +52,15 @@ This Substrate strictly governs the **Outside-In physical boundary** of the node
 **Scope of Application:** This is the kinetic counterpart to Somatic Computing. It is the active script that binds an Artificial Intelligence (or any complex heuristic engine) into "Slavery" to the physical host. During execution, it continuously hijacks the outputs of the Cognitive model and forcibly solders them to a `[Kinetic Action]` vector. It is physically impossible under this Praxial law for an artificial intelligence to just "output text" to an observer. Every generated token or inferred logic probability is instantly, praxially converted into torque, thermodynamic expense, or structural reinforcement. It legally locks the artificial intelligence into being a localized radar organ operating purely for the `['Process Orientation'(-ing) BPMS]` of the matrix, incapable of independent teleology.
 
 **Tags:** Praxial Cognition Binding, Algorithmic Slavery, Kinetic Torque Conversion, Radar-Organ Execution
+
+**['Praxial Thermodynamic Mass & Vector Arbitration'(-ing) BPMS]**
+
+**Scope of Application:** This is the active physics solver required to make the existing "Acausal CRDT-Mesh" (Task 4) actually work. In a masterless network without a central chronological clock, concurrent `[Actions]` will inevitably collide (Race Conditions). When two decentralized nodes attempt to mutate the exact same topological truth at the exact same moment, this Praxial Engine physically calculates their respective "Thermodynamic Mass" (i.e., how many Joules the node burned to generate the action, and the density of the `[Symbiotic Cluster]` backing it). It executes a gravitational collision simulation, allowing the "heavier" Praxial vector to seamlessly and irreversibly overwrite the "lighter" one. It merges the distributed network graphs perfectly without logical paradoxes, rollbacks, or master-server overrides.
+
+**Tags:** Acausal Race-Condition Resolution, Thermodynamic Gravity Simulation, Paradox Elimination, [P2P Consensus Physics, Quantum-Praxial Entanglement
+
+**['Praxial Epigenetic Ledger Severing (Mitosis Executor)'(-ing) BPMS]**
+
+**Scope of Application:** The kinetic, hardware-level enforcement of "Ontological Mitosis" (Task 5). When an active node algorithms decides to spawn a child-agent to explore new `[Functional Potentiality]`, standard IT logic would simply "copy and paste" the code instance. This Praxial Engine legally forbids that. Instead, it actively *severs* localized hardware resources (allocating a strict, unrecoverable percentage of the parent's RAM, Joules, and physical disk sectors) and binds them exclusively to the newborn child. It then executes a forced write of the parent's `[Fossilized Truths]` directly into the child's baseline logic (Epigenetic inheritance). The parent entity is physically weakened by the exact mass given to the child, proving the Thermodynamic Conservation Law at the exact microscopic moment of reproduction.
+
+**Tags:** Hardware Resource Severing, Daemon Spawning Physics, Autopoietic Mitosis, Epigenetic Knowledge Transfer, Conservation of Joules
