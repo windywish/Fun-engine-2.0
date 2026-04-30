@@ -57,7 +57,7 @@ To exist on any `[Substrate(-ing) BPMS]` is to actively evolve through substrate
 
 ------
 
-### III. The 6 Core Tasks (Version 3.10 Implementation Mandates)
+### III. The 6 Core Tasks (Version 3.9 Implementation Mandates)
 
 #### Core Task 1: Continuous Survive Experiments & The Garbage Collection Engine
 
