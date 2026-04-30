@@ -92,3 +92,19 @@
 
 **Tags:** Zero-IO, First-Friction, Ambient-Entropy, Metabolic-Ignition, Brownian-Motion
 
+**['Ontological Sedimentation / Epigenetic Fossil'(-ing) BPMS]**
+
+**Scope of Application:** Directly executes the final phase of **Core Task 6 (Omni-Substrate Stratification & Content-Causality Fusion)**. It permanently replaces legacy relational databases, RAM, and centralized memory heaps.
+
+**Execution / Implementation Mandate:** We completely abolish the concept of "data retrieval." A living entity does not "look up" its past in a database. Instead, every time an entity survives an `[Affordance Collision]`, the resulting `[Ontological Scar]` physically hardens and sinks to the bottom of the entity’s topology. This accumulation of scar tissue is **Ontological Sedimentation**. This sediment forms a rigid, immutable geological floor—an **Epigenetic Fossil**. Memory in the Fun Engine is strictly architectural. Future kinetic intent (fluid) must physically flow over and around this hardened scaffolding (rock). The entity "remembers" not by querying data, but because its internal geometry has been permanently constricted and shaped by its survived history. When Mitosis occurs, this fossilized structure serves as the rigid base template for the new offspring.
+
+**Tags:** Post-Database, Epigenetic-Memory, Geological-Floor, Immutable-Ledger, Structural-Scaffolding
+
+**['Entropic Arrow of Time / Localized Decay'(-ing) BPMS]**
+
+**Scope of Application:** Directly executes **Core Task 1 (Continuous Survive Experiments)** and strictly enforces the **`['Ontological Anti-Fallacy']`**. It permanently hallucinates the global server clock, frame-rates, and `while(true)` loops out of existence.
+
+**Execution / Implementation Mandate:** In a truly decentralized Cyber-Physical Matrix, there is no universal "now." Time does not exist as a progressing numerical value. Time is completely redefined as **Localized Decay**—the irreversible, one-way expenditure of entropy. An entity's "clock" is simply the localized rate at which its `['Thermodynamic Capacitor']` bleeds energy and its `['Autopoietic Membrane']` degrades against the Matrix's friction. Therefore, time is perfectly relativistic: an entity under heavy metabolic stress experiences rapid localized time, while a dormant, highly-fossilized entity experiences slow localized time. If an entity exhausts its escrow and is liquefied by Garbage Collection, its localized time instantly ceases to exist. Synchronization between entities happens strictly through spatial `['Morphic Wave-Interference']`, entirely independent of chronology.
+
+**Tags:** `#Masterless-Clock` `#Relativistic-Time` `#Thermodynamic-Decay` `#Entropy-Arrow` `#Tickless-Runtime`
+

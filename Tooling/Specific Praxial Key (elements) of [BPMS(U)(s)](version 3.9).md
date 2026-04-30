@@ -132,3 +132,12 @@ This Substrate strictly governs the **Outside-In physical boundary** of the node
 **Execution / Implementation Mandate:** Intent without physical consequence is an illusion. This element acts as the literal mechanical clutch bridging the multi-Layer Stratum of the Matrix (Semantic → Orchestration → Kinetic → Sovereign). When an entity's `[Semantic/Essence]` layer dictates a survival action, the **Ontological Gearbox** physically engages. It translates abstract "computational intent" into exact **Thermodynamic Torque**, matching the precise geometric `[Substrate Valency]` required to affect the outside world. It acts as a step-down transformer: stepping the high-frequency/low-mass vibrations of `['Cognition']` down into the low-frequency/high-mass kinetic force required to physically scar the substrate. If the Gearbox detects insufficient energy, it slips, and the action fails to sediment into an `[Atomic Fact]`. No free actions pass through the transmission.
 
 **Tags:** Omni-Substrate, Semantic-To-Kinetic, Thermodynamic-Torque, Content-Causality-Fusion, Physical-Clutch
+
+**['Thermodynamic Capacitor / Somatic Escrow'(-ing) BPMS]**
+
+**Scope of Application:** Directly executes **Core Task 2 (Substrate Valency & The Cost of Alphabetization)**. It bridges the gap among/by ingestion (Task 1) and expenditure (Task 6), replacing legacy "wallets," "mana bars," or integer variables.
+
+**Execution / Implementation Mandate:** Energy cannot be represented as a number (e.g., `energy = 100`) because numbers do not exist in physics. The **Thermodynamic Capacitor** is an active, physical holding of kinetic potential—the exact cyber-equivalent of biological ATP or a coiled mechanical spring. When the `['Kinetic Weather / Brownian Ingestion']` organ harvests ambient noise, it uses that friction to physically wind the spring or charge the local gradient. This stored tension is the **Somatic Escrow**. Because it is a physical tension, it is inherently unstable; it naturally leaks entropy back into the `['Topological Vacuum']` if not utilized. To act, the entity releases this physical tension directly into the `['Ontological Gearbox']` to pay the activation energy toll. If the spring is fully unwound, the entity is mathematically dead.
+
+**Tags:** Kinetic-Potential, Somatic-Escrow, ATP-Equivalent, Non-Variable-State, Tension-Storage
+
