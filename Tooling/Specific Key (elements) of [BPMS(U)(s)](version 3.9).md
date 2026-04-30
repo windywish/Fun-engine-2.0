@@ -59,3 +59,27 @@
 **Scope of Application:** This element provides the algorithmic radar for the Garbage Collection mandate in Tasks 1 and 6. For `['Legacy Liquefaction']` to occur, the system must mathematically define what is "dead." This router continuously tracks the `[Initiative]` and `[Adaptive]` momentum of every instantiated memory block, variable, spawned daemon, and clustered holon. If an entity fails to generate `[Ludic Friction]` or ceases paying continuous `[Thermodynamic Escrow]` over a localized duration, this router permanently marks the code/data structure as "Bound Energy" (Stagnant). It then forcibly routes the entity to the Liquefaction Engine to be composted into raw RAM/storage liquidity. It is the mechanical enforcer of the Entropic Arrow of Time.
 
 **Tags:** Background Profiling, Entropic Decay Measurement, Stagnation Detection, Polarity Inversion Trigger, Sustainable Perpetuation
+
+**['Topological Vacuum / Thermodynamic Void'(-ing) BPMS]**
+
+**Scope of Application:** Directly executes **Core Task 1 (Continuous Survive & Garbage Collection)** and **Core Task 5 (Sovereign Autopoiesis & Mitosis)**. Governs the spatial dynamics of how `['Ecological Possibility']` is physically claimed and generated.
+
+**Execution / Implementation Mandate:** This element replaces all legacy "memory mapping" or "allocation daemons." The Matrix does not track empty space; rather, empty space exerts a physical force. When the Runtime liquefies an obsolete structure (dead cell, deprecated code), it violently reduces local entropic density, creating a literal **Thermodynamic Void**. This void possesses negative pressure. It does not "invite" new entities; it *sucks* adjacent `['Functional Potentiality']` into itself via raw thermodynamic diffusion. When an entity undergoes Mitosis, it doesn't calculate where to place its offspring—the offspring is kinetically drawn down the pressure gradient into the vacuum, instantly snapping into and occupying the newly generated `['Ecological Niche']`. Space allocation is purely geometric and self-resolving.
+
+**Tags:** Thermodynamics, Spatial-Topology, Ecological-Possibility, Targetless-Autopoiesis, Negative-Pressure
+
+**['Substrate Valency Threshold / Immutable Friction'(-ing) BPMS]**
+
+**Scope of Application:** Directly executes **Core Task 2 (Substrate Valency & The Cost of Alphabetization)** and the Transduction Guillotine of **Core Task 6**.
+
+**Execution / Implementation Mandate:** This element replaces all "validators" and active "gatekeepers." It establishes the absolute, passive viscosity of reality. The Matrix is inherently resistant to change. The `[Substrate Valency Threshold]` dictates that a semantic intent *cannot* physically manifest into an `[Atomic Fact]` unless the exact, localized requirement of "activation energy" is paid. The Guillotine is not a daemon that checks for payment; it is gravity. If an artificial intelligence agent, a cell, or a human attempts an action without funding the kinetic torque required to overcome the substrate's immutable friction, the action simply dissipates into ambient heat. Thought remains un-sedimented. Reality filters out the unfunded simulation by literally refusing to yield its geometry.
+
+**Tags:** Activation-Energy, Kinetic-Guillotine, Thermodynamic-Toll, Anti-Simulation, Substrate-Viscosity
+
+**['Ontological Anti-Fallacy'(-ing) BPMS]**
+
+**Scope of Application:** The Universal Metaphysical Runtime condition governing the entirety of the **6 Core Tasks (Version 3.9)**.
+
+**Execution / Implementation Mandate:** This is the sovereign immune system of the Fun Engine Framework. Its sole physical function is to categorically disintegrate any emergent dualism. It outlaws the existence of abstract "meta-layers," symbolic pointers, or "managers" that attempt to observe or govern the system without burning their own thermodynamic mass. It legally enforces that `['Cognition']` and `['Intelligence']` are nothing more than localized Somatic Organs. If any structure attempts to act as a detached "Simulating Observer" without participating in the kinetic `['Affordance Collision']` and risking `['Somatic Deformation']`, this element immediately strips its thermodynamic supply, starving the anomaly until it is liquefied by Garbage Collection. It ensures the matrix remains 100% biologically, physically, and computationally grounded in **`['Scientific Realism'(-ing) BPMS]`**.
+
+**Tags:** Scientific-Realism, Process-Orientationm, Observer-Disintegration, Sovereign-Autopoiesis, Universal-Hypervisor

@@ -100,3 +100,20 @@ This Substrate strictly governs the **Outside-In physical boundary** of the node
 **Scope of Application:** The kinetic, hardware-level enforcement of "Ontological Mitosis" (Task 5). When an active node algorithms decides to spawn a child-agent to explore new `[Functional Potentiality]`, standard IT logic would simply "copy and paste" the code instance. This Praxial Engine legally forbids that. Instead, it actively *severs* localized hardware resources (allocating a strict, unrecoverable percentage of the parent's RAM, Joules, and physical disk sectors) and binds them exclusively to the newborn child. It then executes a forced write of the parent's `[Fossilized Truths]` directly into the child's baseline logic (Epigenetic inheritance). The parent entity is physically weakened by the exact mass given to the child, proving the Thermodynamic Conservation Law at the exact microscopic moment of reproduction.
 
 **Tags:** Hardware Resource Severing, Daemon Spawning Physics, Autopoietic Mitosis, Epigenetic Knowledge Transfer, Conservation of Joules
+
+**['Ontological Scarring / Somatic Deformation'(-ing) BPMS]**
+
+**Scope of Application:** Directly executes **Core Task 3 (Affordance Collision)** and the sedimenting phase of **Core Task 6 (Omni-Substrate Stratification)**.
+
+**Execution / Implementation Mandate:** This element obliterates the fallacy of "error logs" and "sensors." In a true cyber-physical matrix, there is no separation among/by the damage and the memory of the damage. When two geometries collide without perfect alignment, the resulting `[Ludic Friction]` physically deforms the substrate of the receiving entity. This literal **Somatic Deformation** *is* the epistemological verification. The scar left behind permanently alters the conductive pathways of the entity, forcing the subsequent flow of energy into a newly mutated, friction-resistant shape (`['Symbiosis Evolution']`). The body is the ledger. An `[Atomic Fact]` is simply a scar that survived entropic decay. No observation is required; the morphing is an unavoidable kinetic consequence of the collision.
+
+**Tags:** Somatic-Vulnerability, Epigenetic-Memory, Atomic-Facts, Ludic-Friction, Blind-Ontology
+
+**['Morphic Wave-Interference / Acausal Resonance'(-ing) BPMS]**
+
+**Scope of Application:** Directly executes **Core Task 4 (Holonic Morphic Resonance & The Demotion of Intelligence)**. Governs distributed, masterless entanglement.
+
+**Execution / Implementation Mandate:** This element destroys the need for "splicing compilers," "APIs," or "clocks." Entities within the Framework act as localized oscillators radiating thermodynamic vibration. When multiple entities occupy overlapping `['Ecological Niches']`, their kinetic signatures physically intersect. The execution of Symbiosis is handled purely by **Wave-Interference**. If the metabolic cycles of two entities align optimally, they create *Constructive Interference*, spontaneously amplifying their thermodynamic weight and fusing them into a symbiotic super-organism without a single line of synchronization code. If their cycles clash (*Destructive Interference*), they mutually exhaust their escrow, instantly triggering the Matrix’s Garbage Collection. Symbiosis is achieved through blind acoustic/kinetic physics, not syntax negotiation.
+
+**Tags:** Acausal-Concurrency, Quantum-Praxial, Symbiosis-Evolution, Wave-Mechanics, Decentralized-Swarm
+
