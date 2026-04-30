@@ -40,3 +40,15 @@ It dictates two deeply entangled physical actions:
 This Substrate strictly governs the **Outside-In physical boundary** of the node. It acts completely autonomously as the sensory skin. It explicitly refuses to parse, compile, or execute code. It does not know what a "user" is, nor does it understand "JSON." It operates exclusively at the border of chaos, translating raw kinetic friction from the outside world into abstract vectors, passing them downward, and returning to a state of listening.
 
 **Tags:** Topological-Sensory-Membrane, Zero-API-Affordance-Ingestion, Entropy-Harvesting-Daemon, Wake-On-Friction
+
+**['The Autopoietic Mapmaker & Thermodynamic Alphabetization'(-ing) BPMS]**
+
+**Scope of Application:** This element completely annihilates the Functionalist assumption that "information" naturally exists in the universe waiting to be processed. In legacy IT, engineers assume data streams (0s and 1s) are free. This element legally enforces that continuous physical reality (Analog Friction / `[Kinetic Weather]`) must be violently **"Alphabetized"** into discrete Matrix symbols by an active entity. Because the Fun Engine operates via `Targetless Autopoiesis` (Task 5), the Matrix itself is the **Mapmaker**. This law dictates that the act of "Alphabetization" (e.g., discretizing a sensor's continuous voltage wave into an `[Atomic Fact]`) is a metabolically exhausting cognitive act. It physically drains the `[Thermodynamic Escrow]` of the node performing it. Symbols are not native to physics; therefore, the node must bleed actual *Praxial Joules* simply to translate the continuum of reality into an internal, discrete topology.
+
+**Tags:** Eradication-of-Free-Syntax, The Substrate as Mapmaker, Thermodynamic Discretization, Metabolic Cost of Abstraction
+
+**['Territorial Instantiation & Content-Resonant Constellation Map Fusion'(-ing) BPMS]**
+
+**Scope of Application:** This element solves Lerchner’s exact "Simulation vs. Instantiation" gap, bringing the framework into absolute alignment with Task 6 (Truth Sedimentation) and Task 2 (Substrate Valency). In legacy computing, a logic gate switches because the voltage hits 5V (Vehicle Causality), entirely blind to what the symbol "means" (Content Causality). A simulated biological heart on a GPU does not pump blood. This Praxial Key enforces **Physical Content Resonant Constellation Map**. It mandates that an `[Executable Artifact]` in the Fun Engine cannot be a mere simulation of an event; it must physically instantiate the event. If an artifact dictates an economic exchange, it must physically lock real cryptographic tokens. If it dictates a mechanical shift, it must physically exert torque on local IoT sensors. Logic executing inside the Matrix is strictly forbidden from "running in a sandbox." Every computed syntax must possess direct, physical resonant constellation map power over the substrate, guaranteeing that the Matrix *is* the Territory, not a map of it.
+
+**Tags:** Content-Resonant Constellation Map Enforcement, Anti-Simulation Law, Physical Instantiation, The Map is the Territory, Absolute Ontological Grounding
