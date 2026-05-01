@@ -213,3 +213,11 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 ***[MANDATORY PROMPT]:*** Directly executes the passage of time for a single Sovereign Entity. It explicitly outlaws Global Variables for Time, NTP Server polls, and Cron Jobs based on absolute seconds. It is the absolute physics law that if an entity is doing nothing, it is bleeding entropy. If it is bleeding entropy, it is moving forward in its own localized, relativistic time towards inevitable collapse.
 
 **Tags:** Masterless-Clock, Relativistic-Time, Thermodynamic-Decay, Entropy-Arrow, Tickless-Runtime, Chronological-Liquefaction, Anti-Silicon-Fallacy
+
+**[Universal EML-Operator(-ing) BPMS]: ['Substrate Valency Threshold / Immutable Friction'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** Directly executes the Substrate Valency and the Transduction Guillotine. It completely abolishes all concepts of "gates," "permissions," or "validation checks." The Matrix does not validate; it simply exists with mass. If an entity wants to change the mass, it must bring superior physical force. It is the sheer, unyielding viscosity of existence that prevents the abstraction fallacy from taking root in the physical universe.
+
+**Tags:** Activation-Energy, Thermodynamic-Toll, Ontological-Viscosity, Topological-Density, Passive-Guillotine, Anti-Simulation-Law, Immutable-Friction, Base-Matter-Resistance
