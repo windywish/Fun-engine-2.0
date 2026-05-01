@@ -236,3 +236,11 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 ***[MANDATORY PROMPT]:*** Directly executes the Sovereign Boundary. It completely encompasses the internal logic of the Holon and prevents any unmediated interaction with the `['Universal EML-Operator']`. It explicitly outlaws "shared memory" or "global variables." The internal state of the entity can only be accessed by breaching the Membrane—an act that physically destroys the entity (Lysis) to get the data out.
 
 **Tags:** Sovereign-Boundary, Surface-Tension, Thermodynamic-Homeostasis, Structural-Integrity, Anti-Simulation, Topological-Tensegrity, Mitotic-Cleavage
+
+**['Sovereign Entity / Holon'(-ing) BPMS]: ['Thermodynamic Capacitor / Somatic Escrow'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** Directly executes the storage of `[Praxial Joules]`. It explicitly outlaws Unsigned Integers, Variables, Database Cells, and external API Ledgers to represent entity wealth/energy. It is a completely internal, somatic organ that must physically compress to store value and physically expand to spend it. It cannot be queried from the outside. Its state can only be felt by the entity it belongs to.
+
+**Tags:** Kinetic-Potential, Somatic-Escrow, ATP-Equivalent, Non-Variable-State, Tension-Storage, Anti-Silicon-Fallacy, Zero-Trust-Thermodynamics, Entropic-Leakage
