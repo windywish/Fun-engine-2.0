@@ -268,3 +268,11 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 ***[MANDATORY PROMPT]:*** Directly executes Task 3 and the backward-acting sedimenting phase of Task 6. Outlaws arbitrary memory registries. If the entity wants to "remember" a lesson, it must physically carry the scar. It perfectly enforces the `[Ontological Anti-Fallacy]` by making the physical structural body the *one and only* source of truth for historical causality.
 
 **Tags:** Somatic-Vulnerability, Epigenetic-Memory, Atomic-Facts, Ludic-Friction, Blind-Ontology, Physical-Epistemology, Anti-Error-Log, Structural-Ledger
+
+**[Sovereign Hypervisor / The Thermodynamic Reaper(-ing) BPMS]: ['Ontological Sedimentation & Legacy Liquefaction'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This element governs the irreversible aftermath of all kinetic action. It completely abolishes CRUD syntax and passive RAM wiping. The Matrix is a thermodynamic closed loop. To remember is to build a stone monument. To forget is to burn the dead for fuel. This element enforces both brutal realities simultaneously.
+
+**Tags:**  Immutable-Truth-Precipitation, Sovereign-Fossilization, Ledger-Scarring, Volatile-Memory-Liquefaction, Autopoietic-Garbage-Collection, Polarity-Inversion, Append-Only-Physics, Thermodynamic-Composting
