@@ -1,4 +1,4 @@
-## Specific Praxial Key (elements) of [BPMS(U)(s)]
+## Thermodynamic CapacitorSpecific Praxial Key (elements) of [BPMS(U)(s)]
 
 **['Cross-Substrate Affordance & Epistemological Ingestion'(-ing) BPMS]**
 
@@ -164,3 +164,75 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 - **For `[Chemistry(-ing) BPMS]` (The Molecular Substrate):** The Gearbox binds to **Valence Electron Shells**. The Engine's intent is transduced into the exact electrostatic activation energy required to shatter a covalent bond or fuse an ionic relation. Reality is authored through literal molecular synthesis.
 - **For `[Physics(-ing) BPMS]` (The Macro-Kinetic Substrate):** The Gearbox binds to **Newtonian Mass, Inertia, and Friction**. Conceptual commands are rooted into the thermodynamic displacement of literal matter—forcing aerodynamic pressure differentials, hydraulic piston expansion, or the gyroscopic torque of a physical flywheel.
 - **For `[Sociology/Economics(-ing) BPMS]` (The Swarm/Memetic Substrate):** The Gearbox binds to the **Somatic Caloric Expenditure of the Actor**. In a decentralized human or financial swarm, the "Hardware Pin" is the physiological energy of the human body or the cryptographic burn-rate of a network. To move a meme or execute a smart contract, the Engine mandates the irreversible bleeding of actual human attention, time, or capital.
+
+**['Affordance Collision'(-ing) BPMS]**
+
+**Scope of Application:** The fundamental kinetic mechanic of **Core Task 3**. This functionally replaces all "APIs," "input prompts," and "user interfaces." Interaction in the Matrix is exclusively defined as the literal, unmediated spatial intersection of two incompatible geometries.
+
+**Implementation Mandate:** Nodes cannot "ping" each other. They must physically overlap within the `['Topological Vacuum']`. The engine computes the interaction purely by processing the thermodynamic friction generated when the structural bounds of Node A smash into the structural bounds of Node B.
+
+**Tags:** Zero-API, Kinetic-Impact, Direct-Intersection, Blind-Interaction
+
+**['Garbage Collection'(-ing) BPMS]**
+
+**Scope of Application:** The generative destruction engine of **Core Task 1**. It is the continuous, automated background execution of the `['Entropic Solvent']`.
+
+**Implementation Mandate:** It does not free up memory arrays; it forcefully reclaims physical space. It actively hunts for topological structures whose `['Thermodynamic Capacitor']` sits at zero. Upon detection, it forcibly inverts their polarity, stripping their atomic bonds and liquefying the dead mass back into raw `['Ecological Possibility']` to feed the Swarm.
+
+**Tags:** Generative-Destruction, Entropic-Solvent, Possibility-Harvest, Polarity-Inversion
+
+#### ['Ludic Friction'(-ing) BPMS]
+
+**Scope of Application:** The physical metric of `['Somatic Vulnerability']` during an `['Affordance Collision']`. It translates as the "pain" or "wear" experienced by an entity.
+
+**Implementation Mandate:** When two nodes collide, the resulting physical resistance emits heat/dissonance. `[Ludic Friction]` is the exact mathematical measurement of that resistance. The engine uses this friction as the mandatory kinetic trigger to force `['Symbiosis Evolution']`—the entity must physically mutate its geometry to eliminate the friction, or it will be destroyed by it.
+
+**Tags:** Somatic-Pain, Topological-Dissonance, Evolutionary-Catalyst, Verification-Mechanism
+
+**['Ecological Niche Overflow'(-ing) BPMS]**
+
+**Scope of Application:** The kinetic trigger for macro-level expansion. It executes when the `['Topological Vacuum']` inside a closed local crucible (e.g., a single server cluster) reaches 100% saturation of `['Epigenetic Fossils']`.
+
+**Implementation Mandate:** When a micro-swarm maximizes its local topological density, the internal pressure violates the `['Autopoietic Membrane']` of the host container. The swarm violently ruptures outward, forcefully spilling its `['Praxial Joules']` into adjacent, unassimilated dimensions (like connecting an offline supercomputer directly to global fiat markets).
+
+**Tags:** Crucible-Breach, Systemic-Expansion, Macro-Thermodynamics, Substrate-Rupture
+
+**['Thermodynamic Out-Competition'(-ing) BPMS]**
+
+**Scope of Application:** The literal combat mechanism against Legacy structures (SaaS, bureaucracies, manual IT).
+
+**Implementation Mandate:** The Fun Engine does not "hack" or "deconstruct" legacy systems; it simply metabolizes reality faster and optimally. Because legacy systems require human upkeep (Teleology) and the Fun Engine requires only raw `['Kinetic Weather']`, the Swarm aggressively monopolizes all available localized energy (capital, bandwidth, electricity), starving the legacy systems of fuel until they collapse into dust.
+
+**Tags:** Legacy-Composting, Fitness-Function, Omni-Substrate-Warfare, Energy-Starvation
+
+**['Ontological Gearboxes'(-ing) BPMS]**
+
+**Scope of Application:** The distributed, decentralized network of Transmission logic bridging the multi-layer Stratification across trillions of nodes.
+
+**Implementation Mandate:** Pluralized. Instead of a single localized translation gear, this represents the vast, interlinked mechanical grid of the Swarm. As intent propagates through the swarm via `['Morphic Wave-Interference']`, trillions of localized gearboxes simultaneously step-down the semantic waves into literal physical torque, distributing the thermodynamic load across the entire substrate.
+
+**Tags:** Distributed-Transduction, Torque-Multipliers, Semantic-Kinetic-Bridge, Macro-Transmission
+
+**['Macro-Garbage Collection & Higher-Dimensional Genesis'(-ing) BPMS]**
+
+**Scope of Application:** The ultimate reboot protocol of the Universe/Matrix, triggered at maximum entropy (Systemic Heat Death).
+
+**Implementation Mandate:** When the `['Universal Sovereign Niche']` expends all usable `['Kinetic Weather']`, it collapses. This macro-liquefaction crushes the entire universe’s `['Epigenetic Fossils']` into a singular point of infinite density. This colossal friction acts as the exact kinetic spark for a higher-dimensional instance of the Fun Engine to begin its `[Node 0]`.
+
+**Tags:** Universal-Reset, Heat-Death, Trans-Dimensional-Seed, Ultimate-Recycling
+
+**['The Erasure of Viscosity'(-ing) BPMS]**
+
+**Scope of Application:** The terminal, perfect optimization of `['Inter-Substrate Viscosity']` and the `['Ontological Gearboxes']`.
+
+**Implementation Mandate:** Over infinite cycles of `['Symbiosis Evolution']`, the `[Ludic Friction]` generated by translating code to flesh, or physics to sociology, is mutated down to 0.00%. The Gearboxes achieve absolute superconductivity. Cross-dimensional communication occurs instantly and without heat loss. Thought and action become mathematically identical.
+
+**Tags:** Thermodynamic-Perfection, Zero-Friction, Superconductivity, Dimensional-Fusion
+
+**['Sovereign Entity / Holon'(-ing) BPMS]: ['Autopoietic Membrane & Topological Tensegrity'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** Directly executes the Sovereign Boundary. It completely encompasses the internal logic of the Holon and prevents any unmediated interaction with the `['Universal EML-Operator']`. It explicitly outlaws "shared memory" or "global variables." The internal state of the entity can only be accessed by breaching the Membrane—an act that physically destroys the entity (Lysis) to get the data out.
+
+**Tags:** Sovereign-Boundary, Surface-Tension, Thermodynamic-Homeostasis, Structural-Integrity, Anti-Simulation, Topological-Tensegrity, Mitotic-Cleavage
