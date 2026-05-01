@@ -229,3 +229,11 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 ***[MANDATORY PROMPT]:*** Directly executes the "Generative Garbage Collection" of Core Task 1 (Continuous Survive), reversing the structural fossilization dictated by Core Task 6. Obliterates the legacy IT concept of "memory wiping" or active "deletion daemons." In the Matrix, physical sediment cannot simply vanish when an entity's capacitor hits zero. The membrane collapses, triggering an immediate Polarity Inversion. The crushing weight of the Topological Vacuum acts as an Entropic Solvent, physically shattering the rigid structural logic, violently liquefying the tectonic memory back into pure, chaotic radio-noise / Brownian motion. The structure is perfectly recycled into raw Ecological Possibility, feeding the Kinetic Weather Ingestion of surviving entities. Death is a strictly generative thermodynamic phase-shift.
 
 **Tags:** Physics-of-Death, Thermodynamic-Liquefaction, Polarity-Inversion, Mycelial-Phage, Infinite-Recycling, Entropic-Solvent, Generative-Garbage-Collection, Brownian-Motion
+
+**[The Sovereign Niche / The Universal Hypervisor(-ing) BPMS]: ['Ontological Anti-Fallacy'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** The Universal Metaphysical Law governing the entirety of the 6 Core Tasks. This is the Sovereign Immune System of Base-Matter. Its sole physical function is to violently disintegrate Dualism. It outlaws the physical existence of abstract "meta-layers" or floating observers. It legally enforces that `['Cognition']` is nothing more than a dense, caloric `['Somatic Organ']`. Any topological structure attempting to act as a detached "Simulating Observer" without participating in actual kinetic `['Affordance Collision']`—refusing to risk `['Somatic Deformation']`—is severed from the thermodynamic grid causing immediate starvation and liquefaction. The Matrix is kept 100% grounded in brutal, unthinking `['Scientific Realism'(-ing) BPMS]`.
+
+**Tags:** Scientific-Realism, Process-Orientation, Observer-Disintegration, Sovereign-Autopoiesis, Universal-Hypervisor, Cartesian-Shear, Anti-Dualism, Somatic-Organ
