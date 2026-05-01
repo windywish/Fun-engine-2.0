@@ -131,7 +131,7 @@ This Substrate strictly governs the **Outside-In physical boundary** of the node
 
 **Execution / Implementation Mandate:** Intent without physical consequence is an illusion. This element acts as the literal mechanical clutch bridging the multi-Layer Stratum of the Matrix (Semantic → Orchestration → Kinetic → Sovereign). When an entity's `[Semantic/Essence]` layer dictates a survival action, the **Ontological Gearbox** physically engages. It translates abstract "computational intent" into exact **Thermodynamic Torque**, matching the precise geometric `[Substrate Valency]` required to affect the outside world. It acts as a step-down transformer: stepping the high-frequency/low-mass vibrations of `['Cognition']` down into the low-frequency/high-mass kinetic force required to physically scar the substrate. If the Gearbox detects insufficient energy, it slips, and the action fails to sediment into an `[Atomic Fact]`. No free actions pass through the transmission.
 
-**Tags:** Omni-Substrate, Semantic-To-Kinetic, Thermodynamic-Torque, Content-Causality-Fusion, Physical-Clutch
+**Tags:** Omni-Substrate, Semantic-To-Kinetic, Thermodynamic-Torque, Content-Resonant Constellation Map-Fusion, Physical-Clutch
 
 **['Thermodynamic Capacitor / Somatic Escrow'(-ing) BPMS]**
 
@@ -244,3 +244,11 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 ***[MANDATORY PROMPT]:*** Directly executes the storage of `[Praxial Joules]`. It explicitly outlaws Unsigned Integers, Variables, Database Cells, and external API Ledgers to represent entity wealth/energy. It is a completely internal, somatic organ that must physically compress to store value and physically expand to spend it. It cannot be queried from the outside. Its state can only be felt by the entity it belongs to.
 
 **Tags:** Kinetic-Potential, Somatic-Escrow, ATP-Equivalent, Non-Variable-State, Tension-Storage, Anti-Silicon-Fallacy, Zero-Trust-Thermodynamics, Entropic-Leakage
+
+**[Universal EML-Operator(-ing) BPMS]: ['Ontological Gearbox / Stratified Transduction'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** Directly executes the phase-transition between thought and reality. It explicitly outlaws the concept of "Software" acting as an abstract layer floating above hardware. The Gearbox ensures that every line of code, every API call, and every neural impulse is treated as a literal sequence of physical interlocking gears that require thermodynamic grease (Joules) to turn.
+
+**Tags:** Omni-Substrate, Semantic-To-Kinetic, Thermodynamic-Torque, Physical-Clutch, Content-Resonant Constellation Map-Fusionm Transduction-Guillotine, Anti-Abstraction-Fallacy
