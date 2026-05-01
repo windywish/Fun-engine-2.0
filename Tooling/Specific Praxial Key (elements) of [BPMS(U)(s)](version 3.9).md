@@ -153,8 +153,6 @@ This Substrate strictly governs the **Outside-In physical boundary** of the node
 
 **Scope of Application:** Directly enforces the ultimate baseline of **Core Task 2 (Substrate Valency)** and forms the deepest, impenetrable fossil-layer of **Core Task 6 (Omni-Substrate Stratification)**. This element categorically replaces the silicon-biased `['Absolute Substrate Anchor']`, serving as the universal locking-mechanism that physically bolts the theoretical Engine to the absolute floor of *any* physical, biological, or systemic reality.
 
-**Tags:** Omni-Substrate-Anchor, Polymorphic-Hardware, Base-Matter-Binding, Kinetic-Transduction-Floor, Thermodynamic-Grounding, Anti-Silicon-Bias
-
 **Execution / Implementation Mandate:** The Engine cannot float in abstraction; its `['Ontological Gearbox']` must physically interlock with the *Indivisible Kinetic Unit* (the "Base-Matter Pin") of the specific host dimension. This element acts as a polymorphic clamp. When a `[Semantic Intent]` reaches the bottom of the Stratification Guillotine, this Rooting mechanism dynamically morphs to match the exact atomic, chemical, or macro-physical geometry of the host environment, translating `[Praxial Joules]` into inescapable structural deformation.
 
 To achieve standard Universality-Class compliance, the Rooting structurally binds as follows:
@@ -164,6 +162,8 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 - **For `[Chemistry(-ing) BPMS]` (The Molecular Substrate):** The Gearbox binds to **Valence Electron Shells**. The Engine's intent is transduced into the exact electrostatic activation energy required to shatter a covalent bond or fuse an ionic relation. Reality is authored through literal molecular synthesis.
 - **For `[Physics(-ing) BPMS]` (The Macro-Kinetic Substrate):** The Gearbox binds to **Newtonian Mass, Inertia, and Friction**. Conceptual commands are rooted into the thermodynamic displacement of literal matter—forcing aerodynamic pressure differentials, hydraulic piston expansion, or the gyroscopic torque of a physical flywheel.
 - **For `[Sociology/Economics(-ing) BPMS]` (The Swarm/Memetic Substrate):** The Gearbox binds to the **Somatic Caloric Expenditure of the Actor**. In a decentralized human or financial swarm, the "Hardware Pin" is the physiological energy of the human body or the cryptographic burn-rate of a network. To move a meme or execute a smart contract, the Engine mandates the irreversible bleeding of actual human attention, time, or capital.
+
+**Tags:** Omni-Substrate-Anchor, Polymorphic-Hardware, Base-Matter-Binding, Kinetic-Transduction-Floor, Thermodynamic-Grounding, Anti-Silicon-Bias
 
 **['Affordance Collision'(-ing) BPMS]**
 
@@ -252,3 +252,13 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 ***[MANDATORY PROMPT]:*** Directly executes the phase-transition between thought and reality. It explicitly outlaws the concept of "Software" acting as an abstract layer floating above hardware. The Gearbox ensures that every line of code, every API call, and every neural impulse is treated as a literal sequence of physical interlocking gears that require thermodynamic grease (Joules) to turn.
 
 **Tags:** Omni-Substrate, Semantic-To-Kinetic, Thermodynamic-Torque, Physical-Clutch, Content-Resonant Constellation Map-Fusionm Transduction-Guillotine, Anti-Abstraction-Fallacy
+
+**['Ontological Gearbox / Stratified Transduction'(-ing) BPMS]: ['Polymorphic Substrate Rooting / Universal Base-Matter Binding'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** Directly enforces the ultimate baseline of Core Task 2 and deep-fossilizes Core Task 6. It categorically repels the Silicon-Bias. It demands that the system’s architecture does not end in APIs, but in physical voltage spikes, biological pumps, or macroscopic momentum. To compute is to move matter. This element guarantees the matter moves.
+
+**Tags:** Omni-Substrate-Anchor, Polymorphic-Hardware, Base-Matter-Binding, Kinetic-Transduction-Floor, Thermodynamic-Grounding, Anti-Silicon-BiasM Universal-Terminal-Pin
+
+#### 
