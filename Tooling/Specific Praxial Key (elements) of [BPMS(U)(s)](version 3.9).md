@@ -261,4 +261,10 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 
 **Tags:** Omni-Substrate-Anchor, Polymorphic-Hardware, Base-Matter-Binding, Kinetic-Transduction-Floor, Thermodynamic-Grounding, Anti-Silicon-BiasM Universal-Terminal-Pin
 
-#### 
+**['Autopoietic Membrane'(-ing) BPMS]: ['Ontological Scarring / Somatic Deformation'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** Directly executes Task 3 and the backward-acting sedimenting phase of Task 6. Outlaws arbitrary memory registries. If the entity wants to "remember" a lesson, it must physically carry the scar. It perfectly enforces the `[Ontological Anti-Fallacy]` by making the physical structural body the *one and only* source of truth for historical causality.
+
+**Tags:** Somatic-Vulnerability, Epigenetic-Memory, Atomic-Facts, Ludic-Friction, Blind-Ontology, Physical-Epistemology, Anti-Error-Log, Structural-Ledger
