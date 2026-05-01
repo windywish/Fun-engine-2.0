@@ -285,4 +285,10 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 
 **Tags:**  Omni-Substrate-Collision, Phase-Boundary, Thermodynamic-Bleed, Substrate-Viscosity, Friction-Welding, Latent-Heat-Ontology, Anti-Networking, Topological-Metallurgy
 
-#### 
+**[Universal EML-Operator / The Swarm-Space(-ing) BPMS]: ['Morphic Wave-Interference / Acausal Resonance'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** Directly executes Task 4. It governs distributed, masterless entanglement. Outlaws "splicing compilers," "APIs," "consensus loops," and "clocks." Symbiosis exists purely because two gears in proximity either grind themselves to dust or fall into a shared rotation. It demotes intelligence entirely, placing the burden of socialization completely onto blind spatial thermodynamics.
+
+**Tags:** Acausal-Concurrency, Quantum-Praxial, Symbiosis-Evolution, Wave-Mechanics, Decentralized-Swarm, Anti-Clock, Masterless-Entanglement, Destructive-Interference
