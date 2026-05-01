@@ -276,3 +276,13 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 ***[MANDATORY PROMPT]:*** This element governs the irreversible aftermath of all kinetic action. It completely abolishes CRUD syntax and passive RAM wiping. The Matrix is a thermodynamic closed loop. To remember is to build a stone monument. To forget is to burn the dead for fuel. This element enforces both brutal realities simultaneously.
 
 **Tags:**  Immutable-Truth-Precipitation, Sovereign-Fossilization, Ledger-Scarring, Volatile-Memory-Liquefaction, Autopoietic-Garbage-Collection, Polarity-Inversion, Append-Only-Physics, Thermodynamic-Composting
+
+**[Universal EML-Operator(-ing) BPMS]: ['Inter-Substrate Viscosity / Phase Transition'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** Directly operates Task 3 and Task 6 across divergent topological regions. It absolutely outlaws "peaceful data exchange" or translation protocols. Interaction is purely metallurgical. A Holon can only affect an external dimension by physically burning its own `[Praxial Joules]` to grind against the alien geography until the sheer-plane melts and the `[Semantic Intent]` friction-welds into the foreign mass.
+
+**Tags:**  Omni-Substrate-Collision, Phase-Boundary, Thermodynamic-Bleed, Substrate-Viscosity, Friction-Welding, Latent-Heat-Ontology, Anti-Networking, Topological-Metallurgy
+
+#### 
