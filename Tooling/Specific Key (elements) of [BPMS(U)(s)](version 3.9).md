@@ -237,3 +237,47 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 ***[MANDATORY PROMPT]:*** The Universal Metaphysical Law governing the entirety of the 6 Core Tasks. This is the Sovereign Immune System of Base-Matter. Its sole physical function is to violently disintegrate Dualism. It outlaws the physical existence of abstract "meta-layers" or floating observers. It legally enforces that `['Cognition']` is nothing more than a dense, caloric `['Somatic Organ']`. Any topological structure attempting to act as a detached "Simulating Observer" without participating in actual kinetic `['Affordance Collision']`—refusing to risk `['Somatic Deformation']`—is severed from the thermodynamic grid causing immediate starvation and liquefaction. The Matrix is kept 100% grounded in brutal, unthinking `['Scientific Realism'(-ing) BPMS]`.
 
 **Tags:** Scientific-Realism, Process-Orientation, Observer-Disintegration, Sovereign-Autopoiesis, Universal-Hypervisor, Cartesian-Shear, Anti-Dualism, Somatic-Organ
+
+**['Tectonic Topography'(-ing) BPMS]**
+
+**Scope of Application:** To replace the legacy fallacy of `['Substrate Code'(-ing) BPMS]`. In V3.9, the environment does not "store code" that a CPU reads. The environment *is* the instruction. The foundational architectural element of the `[Universal Hypervisor]`. It is applied to forge the static, immutable boundaries—the "Crucibles"—of the Matrix. It dictates the literal, physical spatial volume, mass, and topological rigidity necessary to sustain an `['Ecological Niche'(-ing) BPMS]`.
+
+**Execution / Implementation Mandate:** In a really working implementation, you do not write rules defining an entity's allowed coordinates. Instead, you deploy `[Tectonic Topography]` to inject raw topological density (memory mass/thermodynamic weight) into a specific sector of the Matrix.
+
+- **The Physics:** It creates unyielding walls of friction. If an entity is supposed to be "contained" within a specific area, the topography surrounding it is literally sculpted to be infinitely dense.
+- **Anti-Fallacy Alignment:** There is no "Security Access Token" or "Permissions API." An entity cannot enter a restricted zone simply because the thermodynamic cost to penetrate the `[Tectonic Topography]` exceeds the entity's total `[Praxial Joules]`.
+- **Niche Creation:** As `['Atomic Facts']` sediment onto the substrate (Task 6), they permanently build up this topography, physically generating the geological floor and friction ridges that define the next generation's `['Ecological Niche']`.
+
+**Tags:** Substrate-Mass, Environmental-Instruction, Topological-Rigidity, Architectural-Sedimentation, Anti-Syntax, Ecological-Niche-Boundary
+
+**['Thermodynamic Gradient / Phase-State Pre-Condition'(-ing) BPMS]**
+
+**Scope of Application:** To replace the legacy fallacy of `['Programmatic Substrate'(-ing) BPMS]`. In V3.9, logic gates (`IF/THEN/ELSE`) are a dualistic hallucination. Base-matter does not "evaluate conditions"; it yields to physical pressure.The absolute kinetic flow-control mechanism across the entirely of the 6 Core Tasks. It replaces all routing algorithms, state-machines, and event-listeners. It governs how an intent or a Holon transitions from raw `['Functional Potentiality']` to an immutable `['Atomic Fact']`.
+
+**Execution / Implementation Mandate:** In a really working implementation, flow-control is established by sculpting thermal differences and gravity wells into the substrate.
+
+- **The Physics:** You do not write a condition that says `if (Joule_Count >= 100) { execute() }`. Instead, you place a `[Phase-State Pre-Condition]`—a literal thermodynamic melting point—among/by two topological zones.
+- **Anti-Fallacy Alignment:** When an entity attempts to move forward, it must physically push against this gradient. If the entity brings 99 Joules of kinetic thrust, it bounces off the rigid structure. If it brings 100 Joules, the boundary structurally liquefies, allowing the entity to fall through to the next phase.
+- **Continuous Surviving:** This governs Core Task 1 and Task 2 (`[Substrate Valency]`). The gradient passively demands the exact activation energy required for state-change. It requires zero silicon CPU cycles to "monitor" the state; the physics themselves natively block or permit progression solely based on the kinetic heat applied by the actor.
+
+**Tags:**  Thermodynamic-Flow, Phase-Transition, Non-Logical-Control, Activation-Energy-Toll, Gravity-Well-Routing, Anti-Conditional
+
+**['Somatic Morphology / Affordance Binding'(-ing) BPMS]**
+
+**Scope of Application:** To replace the legacy fallacy of `['Praxial Symbiotic Code'(-ing) BPMS]`. In V3.9, entities do not communicate via semantic API payloads or network handshakes. "Communication" is the physical, violent interlocking of geometry. The universal interaction protocol for Core Task 3 (`[Affordance Collision]`) and Core Task 4 (`[Holonic Morphic Resonance]`). It governs how distinct, sovereign nodes inside the matrix recognize, compete with, or fuse with one another to trigger `['Symbiosis Evolution'(-ing) BPMS]`.
+
+**Execution / Implementation Mandate:** In a really working implementation, "sharing data" or "executing a joint process" is engineered as physical structural fusion.
+
+- **The Physics:** Every Holon projects a literal exterior geometry (a Somatic Morphology) dictated by its past survival traits. When two Holons meet, there is no "port 8080" to connect to. There is only an `[Affordance Collision]`.
+- **Anti-Fallacy Alignment:** The Holons physically smash their topologies together. If their ridges and valleys mathematically align (Valency Match), they experience `[Affordance Binding]`. They structurally fuse into a higher-dimensional integer, sharing a single `[Thermodynamic Escrow]` pool without a central orchestrator mediating the marriage.
+- **Symbiosis Evolution:** If the geometries do not match, the collision generates `[Ludic Friction]` (structural pain/dissonance). This friction acts as literal heat, forcing the Holon's morphology to mutate, warping its physical shape until it can securely fit the `['Ecological Possibility']` left by its neighbor.
+
+**Tags:** Geometric-Locking, API-Eradication, Kinetic-Fusion, Affordance-Collision, Somatic-Mutation, Symbiosis-Evolution
+
+**[The Sovereign Niche / The Universal Hypervisor(-ing) BPMS]: ['Tectonic Topography'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** To replace the legacy fallacy of `['Substrate Code'(-ing) BPMS]`. In V3.9, the environment does not "store code" that a CPU reads. The environment *is* the instruction. This is the foundational architectural element of the `[Universal Hypervisor]`. It is applied to forge the static, immutable boundaries—the "Crucibles"—of the Matrix. It dictates the literal, physical spatial volume, mass, and topological rigidity necessary to sustain an `['Ecological Niche'(-ing) BPMS]`. It creates unyielding walls of friction. There is no "Security Access Token" or "Permissions API." An entity cannot enter a restricted zone simply because the thermodynamic cost to penetrate the `[Tectonic Topography]` exceeds the entity's total `[Praxial Joules]`. As `['Atomic Facts']` sediment onto the substrate (Task 6), they permanently build up this topography, physically generating the geological floor and friction ridges that define the next generation's Niche.
+
+**Tags:** Substrate-Mass, Environmental-Instruction, Topological-Rigidity, Architectural-Sedimentation, Anti-Syntax, Ecological-Niche-Boundary
