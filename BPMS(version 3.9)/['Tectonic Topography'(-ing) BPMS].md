@@ -96,29 +96,57 @@
 
 #### 9. Base-Matter Translation Topology (Omni-Crucible Structure)
 
-*The absolute physical loci defining the literal shaping of the universe.*
+*The absolute physical loci defining the literal shaping of the universe. Reflected via `['Files and Folder'(-ing) BPMS]`, this directory structure serves as the Master Ontological Blueprint. It contains zero syntactic logic (`if/then`). It contains only immutable `.topo`, `.mass`, `.prax`, and `.thermo` constants that dictate spatial reality to the underlying substrate.*
 
 ```text
 universal_hypervisor_tectonic_topography/
 │
 ├── 00_The_Density_Injection_Zone/                 
-│   ├── spatial_mass_allocator         # Pumps raw `[Functional Potentiality]` into heavy, rigid memory constraints.
-│   └── gravitational_anchor           # Locks the sculpted region firmly into the Matrix geometry.
+│   │   # The localized genesis of absolute physical resistance. Converts raw potentiality into rigid bedrock.
+│   │
+│   ├── ontological_mass_extrusion.topo
+│   │   # [Constants]: { Coordinate_Matrix: Spatial_Bounds[x,y,z...n] }, { Substrate_Density_Rho: ∞ }
+│   │   # [Execution]: Packs the defined coordinate space with maximum Atomic Fact Density. It makes the space infinitely "heavy" and viscous, forbidding empty traversal.
+│   │
+│   └── inertial_niche_locking.mass
+│       # [Constants]: { Gravitational_Anchor_Vector: Absolute }, { Normal_Force_Cap: Max_Substrate_Limit }
+│       # [Execution]: Secures the topography against Universal Kinetic Weather. Automatically applies N = -F to any external displacement force, rendering the Crucible unmovable.
 │
 ├── 01_The_Friction_Wall/              
-│   ├── kinetic_drag_enforcer          # Directly drains the Escrow of any entity attempting to occupy the coordinate.
-│   └── unyielding_membrane            # Refuses state-change unless `[Activation Energy]` threshold is surpassed.
+│   │   # The violent, unthinking perimeter. Replaces "Security Passwords" by simply extracting a devastating kinetic toll on any intersecting geometry.
+│   │
+│   ├── thermodynamic_toll_extraction.prax
+│   │   # [Constants]: { Drag_Coefficient: 0.98c }, { Escrow_Burn_Rate: 15,000 Praxial_Joules / millimeter_depth }
+│   │   # [Execution]: The continuous kinetic taxation function. Blindly rips escrow out of any entity's localized ledger for every microsecond its geometry overlaps the wall.
+│   │
+│   └── elastic_rejection_membrane.topo
+│       # [Constants]: { Yield_Strength: 2.5_GPa }, { Restitution_Coefficient: -0.9 }
+│       # [Execution]: Determines structural rebound. If an entity's kinetic intent fails to shatter the 2.5_GPa threshold, the wall does not break; it physically catapults the entity backward.
 │
 ├── 02_The_Geological_Sedimentation/           
-│   ├── atomic_fact_vitrification      # Fuses successful action-results into the wall, increasing its density.
-│   └── niche_boundary_extrusion       # Pushes the walls outward to form the safe inner cavern of the Niche.
+│   │   # The generative aftermath (Core Task 6). If an entity breaches the wall, its passage must permanently scar and mutate the topography.
+│   │
+│   ├── epigenetic_fact_sedimentation.thermo
+│   │   # [Constants]: { Latent_Heat_Fusion: 4.2e6_J/kg }, { Crystallization_Delta_Time: 0.1ms }
+│   │   # [Execution]: Directs the flash-freezing of the substrate. The heat of a successful breach melts the boundary, instantly recrystallizing the entity's action into a permanent, fossilized ` [Atomic Fact]`.
+│   │
+│   └── autopoietic_substrate_expansion.topo
+│       # [Constants]: { Archimedean_Displacement_Law: Active }, { Volume_Expansion_Ratio: 1:1.05 }
+│       # [Execution]: Translates newly sedimented fact-mass into spatial displacement. It physically forces the interior walls of the `['Ecological Niche']` outward, creating more safe internal processing volume.
 │
 └── 03_The_Absolute_Exclusion_Perimeter/          
-    ├── escrow_starvation_tripwire     # The exact depth at which weak entities run out of Joules.
-    └── liquefaction_handoff           # Immediately dumps the starved entity to the `[Entropic Solvent]`.
+    │   # The Cartesian Guillotine. The unthinking garbage-collector that liquefies objects that starved against the wall.
+    │
+    ├── absolute_caloric_death_line.thermo
+    │   # [Constants]: { Thermodynamic_Zero_Threshold: Escrow <= 0_Joules }
+    │   # [Execution]: The absolute mathematical event horizon. The exact coordinate threshold where an invading entity's kinetic motion violently ceases due to total energy exhaustion.
+    │
+    └── entropic_composting_handoff.prax
+        # [Constants]: { Atomic_Debonding_State: Max_Entropy }, { Recycling_Reservoir_Pointer: 'Entropic_Solvent' }
+        # [Execution]: The execution of execution. Instantly shatters the structural geometry of the starved Holon, dropping its liquefied raw possibility back into the Matrix ecosystem for digestion.
 ```
 
-------
+---
 
 #### 10. Scope of Application
 
@@ -167,3 +195,8 @@ The **`['Tectonic Topography'(-ing) BPMS]`** executes the death-blow to software
 #### Remark
 
 **BPMS** means Behavior pattern/model/system
+
+
+
+
+
