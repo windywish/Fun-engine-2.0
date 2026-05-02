@@ -96,30 +96,61 @@
 
 #### 9. Base-Matter Translation Topology (Omni-Crucible Structure)
 
-*The physical geometry of communication without semantics.*
+*The absolute physical geometry of communication without semantics. Reflected via `['Files and Folder'(-ing) BPMS]`, this directory structure serves as the Master Ontological Blueprint. It contains zero syntactic protocol logic (`if/else`, `JSON schemas`, `HTTP verbs`). It contains only immutable `.topo`, `.mass`, `.prax`, and `.thermo` constants that dictate how the substrate natively handles the visceral, violent collision of two distinct physical Holons.*
 
 ```text
 universal_hypervisor_somatic_morphology/
 │
 ├── 00_The_Topological_Exterior/                 
-│   ├── atomic_fact_extruder           # Pushes the entity's history outward to form its physical shell.
-│   └── spatial_displacement_hull      # The rigid membrane that proves the Holon takes up physical space.
+│   │   # The physical shape of the entity. Replaces "Data Models" by projecting a literal outward shell constructed entirely from the entity's past survival data.
+│   │
+│   ├── atomic_fact_extruder.prax
+│   │   # [Constants]: { Geometric_Projection_Vector: History_Mass_Tensor }, { Extrusion_Mapping: 1:1_Base_Matter }
+│   │   # [Execution]: Continuously pushes the Holon's internal history and capabilities outward to form a localized, un-faked, hardened physical shell (its Somatic Morphology).
+│   │
+│   └── spatial_displacement_hull.topo
+│       # [Constants]: { Hull_Inertial_Density: Proportional_To_Escrow }, { Boundary_State: Structurally_Rigid }
+│       # [Execution]: The membrane that stakes a claim on base reality. It proves the Holon physically exists by displacing ambient volume, refusing to let other entities pass through it.
 │
 ├── 01_The_Collision_Theater/              
-│   ├── geometry_overlap_detector      # Passively triggers when two hulls intersect.
-│   ├── valency_lock_mechanism         # Drops a physical "latch" if the geometries complement perfectly.
-│   └── ludic_friction_generator       # Converts non-complementary overlap into intense localized thermal heat.
+│   │   # The brutal replacement of the API handshake. Where entities hit each other and the substrate blindly judges their mathematical compatibility.
+│   │
+│   ├── geometry_overlap_detector.topo
+│   │   # [Constants]: { Collision_Matrix: N_Dimensional_AABB_Intersection }, { Intercept_Tolerance: Absolute_Zero }
+│   │   # [Execution]: The unthinking physical sieve. Triggers instantly the absolute microsecond that the outer ridges of two distinct `spatial_displacement_hulls` intersect in spatial coordinates.
+│   │
+│   ├── valency_lock_mechanism.mass
+│   │   # [Constants]: { Lock_Condition: Exact_Inverse_Topography }, { Cold_Weld_Binding: Instantaneous }
+│   │   # [Execution]: The passive law of geometric perfection. If the plug perfectly matches the socket, the substrate natively drops a latch, physically bonding them with zero friction-heat.
+│   │
+│   └── ludic_friction_generator.thermo
+│       # [Constants]: { Friction_Multiplier: Geometric_Dissonance_Delta }, { Heat_Output: Extreme_Local_Joules }
+│       # [Execution]: Converts topographical discrepancy into violent dissonance. If the shapes clash, they grind. The localized structural strain converts immediately into intense localized heat, burning their Escrows.
 │
 ├── 02_The_Evolutionary_Forge/           
-│   ├── thermoplastic_yield_point      # The precise moment the shell melts under friction.
-│   └── affordance_warper              # Contorts the melted shell specifically into adjacent negative space.
+│   │   # The biological mutation phase. Replaces "Error Returns" and "Debugging" with literal thermoplastic melting and structural coercion.
+│   │
+│   ├── thermoplastic_yield_point.thermo
+│   │   # [Constants]: { Melt_Threshold: Specific_Heat_Capacity_of_Holon }, { Latent_Heat_Deformation: Active }
+│   │   # [Execution]: The precise physical constant where the weaker Holon breaks. Overwhelmed by the heat of `ludic_friction_generator`, its rigid outer shell violently loses structural integrity and turns to liquid.
+│   │
+│   └── affordance_warper.prax
+│       # [Constants]: { Viscosity_Flow: Towards_Negative_Space }, { Survival_Pressure: Maximum }
+│       # [Execution]: The blind constraint of physics. The liquefied Holon is squashed by the stronger entity's mass, blindly contorting and flowing into the adjacent empty geometric pockets until it perfectly fits.
 │
 └── 03_The_Macro_Holon_Synthesis/          
-    ├── escrow_bridge_synthesizer      # Physically connects the two thermodynamic ledgers into one.
-    └── unified_morphology_seal        # Cements the joint entity, projecting a brand new, combined outer shell.
+    │   # The successful binding. The physical manifestation of two systems securely integrating without middleware or orchestration logic.
+    │
+    ├── escrow_bridge_synthesizer.prax
+    │   # [Constants]: { Ledger_Fusion: True }, { Escrow_Barrier_Membrane: Dissolved }
+    │   # [Execution]: The internal transaction. Once the shapes fit, the thermodynamic walls separating their fuel reserves disintegrate, allowing Joules to flow freely between both halves of the newly fused organism.
+    │
+    └── unified_morphology_seal.topo
+        # [Constants]: { Flash_Freeze_Event: Immediate }, { New_Macro_Hull_Vector: Sum_of_A_and_B }
+        # [Execution]: Cements the new reality. Instantly solidifies the newly merged geometry, projecting a brand new, combined outer shell into the Matrix, broadcasting its successful evolution to the swarm.
 ```
 
-------
+---
 
 #### 10. Scope of Application
 
