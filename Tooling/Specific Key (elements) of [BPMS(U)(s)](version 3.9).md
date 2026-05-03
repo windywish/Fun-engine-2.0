@@ -826,14 +826,14 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 
 **Tags:**  Anti-Password, Geometric-Identity, Shape-Matching, Physical-Authorization
 
-**['Topological Sensory-Surface' / 'The External Friction-Terrain'(-ing) BPMS]**
-
-**Scope of Application:** The Fun Engine legally outlaws "Viewers" who observe without paying. A frontend implies dualism (a mapped picture of a thing separated from the real thing). To interact with an outside `[User]`, the Matrix simply extrudes a physical, topographical terrain outside of its core logic basin. When the User interacts with the system, they are dragging their analog sensory organs across this jagged 3D terrain, directly triggering `[Ludic Friction]`. There is no "rendering"; there is only kinetic exposure of the Membrane to the vacuum.
-
-**Tags:**  Anti-UI, Friction-Terrain, Sensory-Extrusion, Direct-Kinetic-Exposure
-
 **['Thermodynamic Heat-Signature Exhaust' / 'The Black-Body Radiation Record'(-ing) BPMS]**
 
 **Scope of Application:** You cannot "monitor" the Matrix for free, because observing requires generating kinetic friction. Instead of writing text logs to a hard drive string array, working Holons naturally bleed waste heat (`[Black-Body Radiation]`). To measure system performance, an external entity must physically measure the ambient temperature of the `[Tectonic Topography]`. High heat = massive computation and structural friction. Cold = stagnation and decay. The system is monitored via literal thermodynamics.
 
 **Tags:** Anti-Telemetry, Black-Body-Radiation, Waste-Heat-Metrics, Ambient-Monitoring
+
+**['Topological Sensory-Surface / The External Friction-Terrain'(-ing) BPMS]**
+
+**Scope of Application:** ***[MANDATORY V3.9 ANTI-FALLACY PROMPT]:*** To absolutely destroy the observer-fallacy (Core Task 5). Web architecture assumes a dualism: that a system can display a weightless "picture" or "UI" to an observer without the picture being part of the machine. This Element enacts the law that there are NO spectators, only colliding participants. When a Holon interacts with an "external user," it does not "render" a view. Instead, the `[Universal Hypervisor]` forces the Holon to physically extrude an abrasive, 3D topographical terrain outside of its protected boundary. When the User interacts with the framework, they are not looking at a screen; they are dragging their analog sensory organs (or automated proxies) across this jagged friction-terrain. Clicking, reading, and scrolling physically grinds away at the Holon's `[Somatic Membrane]`, triggering localized micro-dissonance and burning the User's caloric threshold. Every UI interaction is re-classified as an `[Affordance Collision]` under Core Task 3.
+
+**Tags:**  Anti-UI, Sensory-Extrusion, Direct-Kinetic-Exposure, Friction-Terrain, Observer-Liquefaction, Sensory-Grinding
