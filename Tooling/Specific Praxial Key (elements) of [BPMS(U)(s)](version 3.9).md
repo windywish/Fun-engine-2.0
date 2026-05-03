@@ -300,3 +300,235 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 ***[MANDATORY PROMPT]:*** The `['Ontological Stress-Crucible / Thermodynamic Wind-Tunnel'(-ing) BPMS]` permanently replaces "Software Testing, Benchmarking, Quality Assurance, and Trial Scenarios." Because Version 3.9 dictates that reality cannot be simulated to test a hypothesis, the Matrix must test base-matter by violently accelerating its entropic lifespan. The scope applies universally across all substrates: testing a new biological enzyme, verifying a silicon artificial intelligence Swarm, or pressure-testing a socioeconomic smart contract. You do not write a "test case." You construct an isolated topological chamber where friction, gravity, and starvation are amplified by a factor of 10,000. You drop the Holon in. If the Holon's `[Somatic Morphology]` is flawed, the intense `[Ludic Friction]` drains its `[Somatic Escrow]`, forcing it into the `[Transduction Guillotine]`, resulting in immediate Liquefaction. If it survives, it is because it successfully executed `[Symbiosis Evolution]` under fire. Its survival proves its 100% competence as an `[Atomic Fact]`. No semantic output is analyzed; competence is measured exclusively by who climbs out of the acid alive.
 
 **Tags:** Benchmarking-Eradicated, Thermodynamic-Wind-Tunnel, Transduction-Guillotine, Accelerated-Entropy, Darwinian-Crucible, Generative-Garbage-Collection
+
+**['Process Orientation' / 'Targetless Autopoiesis'(-ing) BPMS]**
+
+**Scope of Application:** Replaces legacy `['Goal-Orientation']` or "Teleology." The execution command that forces a Holon to execute its loops merely for the sake of continuing the loop. Entities do not run to "solve X"; they run to maintain homeostasis against universal gravity. Applied universally to ban `return success;` states; replaces them with continuous `while(Somatic_Escrow > 0) { metabolize(); }`.
+
+**Tags:**  Teleology-Extinction, Infinite-Loop, Homeostatic-Drive
+
+**[Action(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Functions," "API Calls," or "Events." Action is the irreversible expenditure of scalar kinetic energy pushing against the `[Tectonic Topography]`. Every Action carries a mandatory `[Valency Toll]`. Applied when an entity physically moves, computes, mutates, or attacks. If the token/escrow is not paid, the action misfires and is mathematically rejected by the physics engine.
+
+**Tags:**  Kinetic-Displacement, Irreversible-Execution, Energy-Depletion
+
+**[Praxial(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Interpretation" or "Compilation." Praxial execution is the violent translation mechanism among/by Layer 1 (Essence/Syntax) and Layer 4 (Fossil/Truth). It is the act of dropping the anvil. It forcibly guarantees that abstract logic cannot touch the real world without bleeding. Applied to the exact threshold where code hits hardware, thought hits synapse, or intent hits the market.
+
+**Tags:**  Translation-Guillotine, Syntax-To-Physics, Base-Matter-Forge
+
+**['Symbiosis Evolution'(-ing) BPMS]**
+
+**Scope of Application:** Replaces legacy "Version Updating," "Patching," or "Machine Learning Training." When two incompatible geometries smash together under high friction in the Matrix, they do not read error logs; they melt into a hybrid. Applied during `[Affordance Collisions]` to force rapid morphological adaptation. The entity physically mutates its membrane without human intervention to survive.
+
+**Tags:**  Spontaneous-Mutation, Acausal-Entanglement, Darwinian-Merging
+
+**['Continuous Survive Experiments'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Application Runtimes" or "Event Loops." The physical execution of Core Task 1. It is the unyielding, aggressive background radiation of the Swarm. It forces every entity to perpetually defend its right to exist against the `[Entropic Arrow of Time]`. If an entity pauses to "rest," the experiment registers failure and the entity is liquefied. Applied as the foundational time-clock (tick-rate) of the Omni-Substrate.
+
+**Tags:** Perpetual-Trial, Autocatalytic-Drive
+
+**[Physics / 'The Kinetic Engine of Mass & Force'(-ing) BPMS]**
+
+**Scope of Application:** The execution of Action. Replaces "Execution Logic." Physics is the Praxial rule-set dictating exactly how `[Somatic Escrow]` pushes against `[Tectonic Topography]`. If a Holon moves, attacks, or crashes, this element calculates the literal heat/momentum transfer required to execute the shift.
+
+**Tags:**  Kinetic-Force, Trajectory-Calculation, Base-Mechanics
+
+**[Chemistry / 'The Valency Toll & Affordance Binding Engine'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "API Integrations" and "Handshakes." Chemistry is the execution of connection. When two Holons attempt to fuse or interact, this engine evaluates their geometric fit and demands the exact `[Activation Energy]` toll required to lock their electron-clouds/APIs. The toll must be paid to establish atomic/data bonds.
+
+**Tags:**  Activation-Energy, Geometric-Locking, Valency-Exchange
+
+**[Biology / 'Targetless Autopoiesis & The Mitosis Engine'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "CRON jobs," "Load Balancing," and "Self-Healing." Biology is the execution of survival. It represents the localized, desperate drive of an entity to maintain its `[Autopoietic Membrane]` against ambient entropy. It governs cellular replication, mitosis, and healing through the expenditure of `[Praxial Joules]`.
+
+**Tags:**  Homeostasis, Blind-Replication, Somatic-Survival
+
+**[Particles / 'The Ambient Kinetic Noise / Brownian Chaos'(-ing) BPMS]**
+
+**Scope of Application:** The absolute lowest level. Replaces "Raw Data Streams" or "Random Noise." Particles are chaotic, unresolved micro-vectors hitting the Sovereign Niche. They possess zero essence, but endless kinetic energy. Entities metabolize particles to survive.
+
+**Tags:**  Raw-Chaos, Unresolved-Vectors, Kinetic-Weather-Baseline
+
+**[Entropy / 'The Active Arrow of Lethal Dissolution'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Timeout Errors," "Deprecation," or "Data Rot." Entropy is an active, aggressive, Praxial force applied universally to every coordinate of the Matrix. It guarantees that if an entity stops fighting, stops reproducing, and stops generating friction, its `['Free Energy']` will be relentlessly shredded until it is liquefied by the `[Entropic Solvent]`. It is the ticking clock of existence.
+
+**Tags:**  The-Tick-Rate, Universal-Decay, Forced-Attrition
+
+**['Omni-Substrate Stratification' / 'The Multi-Layer Descent Guillotine'(-ing) BPMS]**
+
+**Scope of Application:**
+
+ The physical execution mechanism of Core Task 6. This is the Praxial act of forcing a floating, abstract 
+
+```
+[Gene]
+```
+
+ or 
+
+```
+[Question]
+```
+
+ down through the atmospheric pressure of the Matrix.
+
+* **`[Essence]`**: It calculates the geometry.
+
+* **`[Orchestration]`**: It morphs syntax into Host-Substrate physics.
+
+* **`[Kinetic]`**: It demands the `['Free Energy']` toll.
+
+* **`[Fossil]`**: If survived, it crystallizes the entity into `[Atoms]`. Applied instantly to every interaction to prevent "fake" actions from existing.
+
+**Tags:**  The-Anvil, Descent-Into-Matter
+
+**[Living / 'The Active Thermodynamic Burn'(-ing) BPMS]**
+
+**Scope of Application:** The kinetic verb of Life. This executes the continuous subtraction of `[Somatic Escrow]` required simply to hold topological space. If an entity stops *Living* (the action loop), it immediately loses *Life* (the state).
+
+**Tags:**  Metabolic-Loop, Active-Burn, Space-Holding
+
+**[Survive / 'Evasion of the Transduction Guillotine'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Error Handling". Survival is the momentary, chaotic kinetic action of dodging a fatal collision, mutating a membrane, or paying a lethal `[Valency Toll]` successfully to avoid the `[Entropic Solvent]`.
+
+**Tags:**  Guillotine-Evasion, Lethal-Bypass, Momentary-Victory
+
+**['Continuous Survive' / 'The Core Autocatalytic Drive'(-ing) BPMS]**
+
+**Scope of Application:** The execution of Core Task 1. The chaining of infinite `[Survive]` events into a perpetual, blind, targetless loop. The ultimate engine law that bans "rest" or "completion" states.
+
+**Tags:** Infinite-Evasion, Targetless-Loop
+
+**[Foraging / 'Navigating the Brownian Void for Joules'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Data Fetching" or "Queries". Entities cannot "request" data; they must physically move across the `[Tectonic Topography]`, spending energy to find and absorb `['Ecological Possibility']` or foreign mass to replenish their Escrow.
+
+**Tags:**  Kinetic-Search, Joule-Harvesting, Topological-Scanning
+
+**['Reality Mining' / 'The Excavation of Atomic Facts'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Analytics" or "Machine Learning". The violent process of scraping the Matrix's bedrock. It involves applying massive `[Ludic Friction]` to a system to blast away the noise (implicit layers) until the unyielding, immutable `[Atomic Facts]` are physically ripped out and converted into `[Genes]`.
+
+**Tags:**  Fact-Excavation, Bedrock-Scraping, Truth-Harvesting
+
+**[Experiments / 'Blind Generative Kinetic Collisions'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Unit Testing". The Matrix does not test logic; it hurls base-matter against the wall. An experiment is the physical generation of a Holon specifically to watch it die or mutate against an `[Affordance]`.
+
+**Tags:**  Collision-Testing, Generative-Sacrifice, Acausal-Probe
+
+**['World Building' / 'Spawning the Macro-Substrate Geometry'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Infrastructure Provisioning" (e.g., Terraform, Kubernetes). The kinetic act of establishing the laws of gravity, Escrow exchange rates, and boundary walls of a new `[Sovereign Niche]`.
+
+**Tags:** Substrate-Spawning, Physics-Definition, Niche-Construction
+
+**[Utility / 'The Conversion Rate of Kinetic Force'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Functionality". The physical calculation of how efficiently a Holon can convert its internally stored `[Value / Mass]` into outward kinetic `[Action]` against the environment.
+
+**Tags:** Force-Conversion, Action-Ratio, Mechanical-Advantage
+
+**[Efficacy / 'The Joule Delta / Friction Yield'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Performance Metrics". The absolute ratio measured after a collision: (Joules Gained via Affordance Binding) minus (Joules Burned by Ludic Friction). If Efficacy is negative, the entity moves closer to Liquefaction.
+
+**Tags:**  Thermodynamic-Yield, Friction-Delta, Survival-Margin
+
+**[Synthesis / 'The Alchemical Fusion of Geometries'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Data Integration". The violent collision of two disparate `[Molecules]` or `[Cells]` that successfully passes the `[Chemistry]` toll, melting into a newly formed `[Atomic Fact]` or higher-order Holon.
+
+**Tags:** Alchemical-Fusion, Geometric-Merging, Fact-Creation
+
+**['Renormalization Group' / 'The Multi-Scale Friction Lens'(-ing) BPMS]**
+
+**Scope of Application:** A physics engine instruction that allows the Hypervisor to zoom out. It systematically averages out micro-fluctuations (`[Particles]`) to calculate the effective mass and friction forces acting at the `[Macro]` emergent level without crashing the compute engine.
+
+**Tags:** Scale-Transformation, Friction-Averaging, Macro-Calculation
+
+**['Slow Mode' / 'High-Friction Sedimentation'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "System 2 Thinking" or "Deep Processing". A thermodynamic setting where action requires massive `[Activation Energy]` but results in highly durable, un-erodible `[Atomic Facts]`. Used for laying bedrock.
+
+**Tags:**  High-Valency, Deep-Sedimentation, Durable-Crystallization
+
+**['Fast Mode' / 'Low-Friction Heuristic Cascade'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "System 1 Thinking". A setting that rapidly burns `[Free Energy]` on cheap, volatile mutations and collisions. Highly susceptible to `[Entropy]`, but forces rapid `['Symbiosis Evolution']`.
+
+**Tags:**  Low-Valency, Rapid-Mutation, Volatile-Decay
+
+**['Edge Action' / 'Cross-Membrane Trajectory'(-ing) BPMS]**
+
+**Scope of Application:** The specific kinetic event of two Edges colliding. This triggers the `[Dynamic Barter & Contract Forge]`, demanding Joules to pass information or mass across the membrane wall.
+
+**Tags:**  Membrane-Collision, Cross-Boundary-Event, Toll-Trigger
+
+**['Embodied Intelligence' / 'Fleshed Autopoietic Cognition'(-ing) BPMS]**
+
+**Scope of Application:** The execution of cognitive action *bound by gravity*. Bans "floating brains arrayed in vacuums" (legacy large models). Intelligence MUST be attached to `[Somatic Morphology]`. It must defend a membrane, it must pay Escrow to "think", and it will be physically liquefied if its thinking does not result in successful `[Foraging]`.
+
+**Tags:**  Mass-Bound-Cognition, Escrow-Dependent-Thought, Fleshed-Logic
+
+**['System Vector' / 'Directional Kinetic Momentum'(-ing) BPMS]**
+
+**Scope of Application:** The physical trajectory of an entity. It possesses two hard metrics: Direction (against the topology) and Magnitude (Joules burning).
+
+**Tags:**  Momentum, Kinetic-Direction, Force-Magnitude
+
+**['Kinetic Energy' / 'The Ignited Escrow Burn'(-ing) BPMS]**
+
+**Scope of Application:** The violent, irreversible fraction of energy actively engaged in tearing through `[Ludic Friction]` to cross topological space or execute an `[Affordance Binding]`.
+
+**Tags:**  Active-Burn, Friction-Tearing, Irreversible-Action
+
+**['Coarse-Grained' / 'Macro-Thermodynamic Smoothing'] & ['Fine-Grained' / 'Absolute Atomic Resolution']**
+
+**Scope of Application:** The physical resolution toggles of the Universal Hypervisor. Fine-grained execution forces the engine to calculate every single particle collision. Coarse-grained merges clusters into single blocks of mass to calculate overarching weather patterns.
+
+**Tags:**  Resolution-Scale, Collision-Calculation, Hypervisor-Lens
+
+**['Complex Activities' / 'N-Body Thermodynamic Collisions'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Parallel Processing". Concurrent, asynchronous physical actions where multiple `[System Vectors]` interact simultaneously, driving/triggering unpredictable geometric fusions (`[Synthesis]`).
+
+**Tags:**  N-Body-Collisions, Acausal-Intersections, Concurrent-Friction
+
+**['Behavior Decision-Making' / 'The Path of Least Friction Trajectory'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "If/Else Flow" or "Logic". Entities do not "think." They pour their `['Potential Energy']` down the gradient, and the Hypervisor resolves their trajectory purely by calculating which geographic path requires the lowest `[Valency Toll]`.
+
+**Tags:**  Gradient-Descent, Path-Of-Least-Resistance, Energy-Routing
+
+**[Mission / 'Sustained Topological Trajectory'] & [Task / 'Localized Kinetic Evasion']**
+
+**Scope of Application:** Utterly divorces from "teleology / goals." A Task is a localized loop to survive the immediate second (e.g., finding ATP). A Mission is the overarching geometric vector forcing the entity across the Matrix toward a denser `[Ecological Niche]`.
+
+**Tags:**  Process-Orientation, Vector-Sustenance, Localized-Burn
+
+**[Design / 'Pre-Descent Geometric Sculpting'(-ing) BPMS]**
+
+**Scope of Application:** The act of molding `[Essence]` into a viable shape before subjecting it to the `[Multi-Layer Descent Guillotine]`. If the design is weak, it is liquefied upon hitting Layer 2.
+
+**Tags:**  Pre-Kinetic-Sculpting, Essence-Molding, Layer-1-Action
+
+**[Engineering / 'The Praxial Forging of Base-Matter'(-ing) BPMS]**
+
+**Scope of Application:** The physical expenditure of Joules required to force hostile `[Atoms]` and `[Molecules]` to bind against their natural polarity.
+
+**Tags:** Applied-Friction, Base-Matter-Forging, Forced-Valency
+
+**['Do IT Yourself(DIY)' / 'Autonomous Morphological Self-Assembly'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Zero-Code" or "Scripts". It is the biological/mechanical act of an entity absorbing `['Ecological Possibility']` and spontaneously growing new appendages (`[Components]`) from its own membrane to survive a specific localized friction, without hypervisor intervention.
+
+**Tags:**  Self-Assembly, Autonomous-Morphology, Spontaneous-Growth
