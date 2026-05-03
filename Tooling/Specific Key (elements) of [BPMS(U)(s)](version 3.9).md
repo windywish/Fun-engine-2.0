@@ -837,3 +837,13 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 **Scope of Application:** ***[MANDATORY V3.9 ANTI-FALLACY PROMPT]:*** To absolutely destroy the observer-fallacy (Core Task 5). Web architecture assumes a dualism: that a system can display a weightless "picture" or "UI" to an observer without the picture being part of the machine. This Element enacts the law that there are NO spectators, only colliding participants. When a Holon interacts with an "external user," it does not "render" a view. Instead, the `[Universal Hypervisor]` forces the Holon to physically extrude an abrasive, 3D topographical terrain outside of its protected boundary. When the User interacts with the framework, they are not looking at a screen; they are dragging their analog sensory organs (or automated proxies) across this jagged friction-terrain. Clicking, reading, and scrolling physically grinds away at the Holon's `[Somatic Membrane]`, triggering localized micro-dissonance and burning the User's caloric threshold. Every UI interaction is re-classified as an `[Affordance Collision]` under Core Task 3.
 
 **Tags:**  Anti-UI, Sensory-Extrusion, Direct-Kinetic-Exposure, Friction-Terrain, Observer-Liquefaction, Sensory-Grinding
+
+**[Sovereign Entity / Holon(-ing) BPMS] : ['Autopoietic Membrane'(-ing) BPMS]: ['Topological Sensory-Surface / The External Friction-Terrain'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY V3.9 ANTI-FALLACY PROMPT]:*** To absolutely destroy the observer-fallacy (Core Task 5). Web architecture assumes a dualism: that a system can display a weightless "picture" or "UI" to an observer without the picture being part of the machine. This Element enacts the law that there are NO spectators, only colliding participants. When a Holon interacts with an "external user," it does not "render" a view. Instead, the `[Universal Hypervisor]` forces the Holon to physically extrude an abrasive, 3D topographical terrain outside of its protected boundary. When the User interacts with the framework, they are not looking at a screen; they are dragging their analog sensory organs (or automated proxies) across this jagged friction-terrain. Clicking, reading, and scrolling physically grinds away at the Holon's `[Somatic Membrane]`, triggering localized micro-dissonance and burning the User's caloric threshold. Every UI interaction is re-classified as an `[Affordance Collision]` under Core Task 3.
+
+**Tags:** Anti-UI, Sensory-Extrusion, Direct-Kinetic-Exposure, Friction-Terrain, Observer-Liquefaction, Sensory-Grinding
+
+#### 

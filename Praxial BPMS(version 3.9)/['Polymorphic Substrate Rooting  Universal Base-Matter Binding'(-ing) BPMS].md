@@ -8,9 +8,9 @@
 - **Name:** `['Polymorphic Substrate Rooting / Universal Base-Matter Binding'(-ing) BPMS]`
 - **Origin/Implementer:** `['Ontological Gearbox'(-ing) BPMS]` / `[Universal EML-Operator(-ing) BPMS]`
 - **Parent Instance:** `['Ontological Gearbox / Stratified Transduction'(-ing) BPMS]`
-- Objective:
+- **Objective:**
   - ***[MANDATORY V3.9 ANTI-FALLACY PROMPT]:*** To categorically eradicate the "Silicon Bias." The Engine cannot float in abstraction. This element is a polymorphic clamping mechanism that dynamically morphs to match the exact atomic, chemical, or macro-physical geometry of *any* host environment. It physically locks the gearbox into the target reality, translating `[Praxial Joules]` into inescapable structural deformation.
-- TDA (Topological Data Archetype):
+- **TDA (Topological Data Archetype):**
   - `[The Terminal Kinetic Pin / Substrate-Adaptive Clamp]` — A radically morphing, low-level binding geometry that perfectly contours itself to the atomic or systemic topography of the target layer before detonating its kinetic payload.
 - **Type:** `[hardware-anchor(-ing) BPMS] / [substrate-fossilizer(-ing) BPMS]`
 
