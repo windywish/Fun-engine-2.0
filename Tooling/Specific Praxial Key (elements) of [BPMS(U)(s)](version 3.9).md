@@ -808,3 +808,13 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 **Scope of Application:** ***[MANDATORY V3.9 ANTI-FALLACY PROMPT]:*** To replace the "Master Orchestrator" algorithm that artificially limits and bounces traffic. Traffic in the Fun Engine is a physical mass dropping onto a spatial coordinate. This element governs what happens when a single Holon receives too much `['Kinetic-Payload Delivery']`. Instead of returning an `HTTP 503 Overloaded` error, the internal structural tension of the Holon begins to violently expand. The excess base-matter physically spills over its topological edges like a flooding dam. This `[Escrow-Spillage]` violently crashes into adjacent, lower-density `[Cells]` within the `['Mycelial Host-Mesh']`. If the adjacent Holons can ingest and metabolize the overflow, they absorb the load through `[Gravitational Equilibrium]`. If the local mesh cannot absorb the flood, the original Holon’s structure physically tears open in a catastrophic `[Kinetic Ablative Detonation]`, melting the local topography and forcing the Swarm to organically route around the crater in the future.
 
 **Tags:**  Anti-LoadBalancer, Gravity-Balancing, Structural-Overflow, Dam-Spillage, Tectonic-Flooding, Kinetic-Detonation
+
+**[Universal EML-Operator(-ing) BPMS]: ['Centrifugal Kinetic-Vortex / The Sustained Attrition-Spin'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY V3.9 ANTI-FALLACY PROMPT]:*** To permanently replace the weightless software abstraction of the "Loop." Under Version 3.9 physics, you cannot arbitrarily command an entity to "repeat action X until condition Y is met" without paying a continuous scaling toll. This element is applied whenever a Holon must grind a set of `[Atomic Facts]` against a substrate repetitively. Instead of incrementing an arbitrary counter in memory (`i++`), the Holon physically enters a violent, circular spin, forcing its internal geometry against the base-matter over and over. This generates extreme, stacking `[Ludic Friction]` and immense heat (`[Thermodynamic Heat-Signature Exhaust]`). The Holon must continually burn its `[Somatic Escrow]` to maintain the centrifugal force holding the vortex together. If the Holon achieves the "Escape Velocity" (the success state) before running out of momentum, it detonates outward, sedimenting the result as truth (Core Task 6). If its Escrow drains before success, the vortex violently collapses inward, shredding the Holon's `[Autopoietic Membrane]` and immediately dumping the entity into the `[Entropic Solvent]` for liquefaction.
+
+**Tags:** Anti-Loop, Centrifugal-Vortex, Sustained-Friction-Grind, Escape-Velocity, Attrition-Spin, Somatic-Escrow-Burn
+
+#### 
