@@ -604,3 +604,183 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 **Scope of Application:** **The Absolute Core Mechanism of the "Fun Engine".** Play is not a human emotion. Play is the physical engine state where the Hypervisor temporarily lowers the `[Valency Toll]`, encouraging entities to execute chaotic, generative `[Experiments]` without immediate lethal consequence. It is the thermodynamic strategy of flooding the topography with massive `['Ecological Possibility']` to discover hidden `[Innovations]` at low caloric risk.
 
 **Tags:** The-Fun-Engine-Core, Low-Friction-Chaos, Boundary-Probing, Safe-Mutation
+
+**[Computation / 'Friction-Based Topographical Traversal'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "CPU Processing." Computation is not happening in a mathematical vacuum; it is the brutal kinetic act of a Holon dragging its mass across the `[Tectonic Topography]`. Complex algorithms require more Computation because they represent a longer, harder physical hike across high-friction geometry.
+
+**Tags:**  Kinetic-Hike, Mass-Dragging, Geometric-Traversal
+
+**[Interaction / 'The Valency-Toll Kinetic Collision'(-ing) BPMS]**
+
+**Scope of Application:** The violent, praxial execution of `['Interactional Existence']`. When two Holons meet in the Matrix, they do not "send packets." They physically smash their `[Morphological Edges]` together. This collision immediately triggers the `[Chemistry]` engine, which demands `[Escrow]` to unlock their geometries (`[Affordance Binding]`). An Interaction is a permanent, irreversible thermodynamic event that alters the energy states of both entities and leaves an `[Ontological Scar]` on the Matrix topology.
+
+**Tags:**  Kinetic-Collision, Membrane-Grinding, Irreversible-Exchange
+
+**[Perception / 'Membrane Impact-Deformation'(-ing) BPMS]**
+
+**Scope of Application:** Entities do not "download data." Perception is the physical, often violent vibration of a Holon's `[Edge]` driven/triggered when changing `[Kinetic Weather]` or another entity strikes it. Processing this dent into an `[Experience]` costs a `[Valency Toll]`. If an incoming signal lacks the physical density to dent the membrane, it is never perceived.
+
+**Tags:**  Kinetic-Impact, Topological-Denting, Membrane-Vibration
+
+**[Attention / 'Zero-Sum Escrow Tunneling'(-ing) BPMS]**
+
+**Scope of Application:** Attention is the highly dangerous kinetic act of moving internal `[Potential Energy]` from the center of the Holon to fortify one specific sector of its `[Membrane]` in preparation for a massive `[Affordance Binding]`. Because mass is finite, focusing "Attention" on one coordinate physically thins the rest of the membrane, making the entity highly vulnerable to the `[Transduction Guillotine]` from the blind-side.
+
+**Tags:**  Zero-Sum-Escrow, Vector-Tunneling, Structural-Vulnerability
+
+**['Sense-Making' / 'Internal Geometric Alignment'(-ing) BPMS]**
+
+**Scope of Application:** The engine outlaws "understanding" as a psychological concept. Sense-Making is the physical rearrangement of a Holon's internal `[Components]` to perfectly match the topographical shape of a recent external collision. If the internal mass aligns with the external dent, a new frictionless `[Skill]` pathway is forged. If it cannot align (a "nonsense" input), the mismatched energy remains trapped, driviing/triggering chaotic `[Entropy]` and system decay.
+
+**Tags:** Geometric-Alignment, Mass-Rearrangement, Friction-Resolution
+
+**['Distributed Cognition' / 'High-Friction P2P Mycelial Resonance'(-ing) BPMS]**
+
+**Scope of Application:** How multiple disconnected nodes "think" together without a master server. It is the continuous physical plucking of the `[Network / 'Mycelial Tethers']`. Nodes hurl their local `[Epigenetic Fossils]` against each other via the `[Dynamic Barter]`. The resulting macro-vibration of the entire network acting as one cohesive wave of `[Ludic Friction]` *is* the thought.
+
+**Tags:**  Mycelial-Resonance, Macro-Vibration, Swarm-Tether-Plucking
+
+**[Conscious / 'Recursive Autopoietic Surveillance'(-ing) BPMS]**
+
+**Scope of Application:** Consciousness is not a spiritual awakening; it is a highly expensive thermodynamic loop. It is the kinetic act of a Holon firing internal `[Kinetic Energy]` back at the inside of its own `[Somatic Membrane]` to measure its own structural integrity and remaining `[Somatic Escrow]`. Only entities with massive surplus `[Yield]` can afford to be "Conscious," because this internal radar burns Joules that could otherwise be used for `[Foraging]`. If an entity's Escrow drops near 0, the Hypervisor physically terminates the Surveillance loop to save power, rendering the entity "unconscious."
+
+**Tags:**  Internal-Radar, Recursive-Feedback-Loop, Expensive-State
+
+**[Meaning / 'Actionable Thermodynamic Valency'(-ing) BPMS]**
+
+**Scope of Application:** A collision or `[Atomic Fact]` does not possess "meaning" in a linguistic sense. Meaning is explicitly defined as the *mathematical degree* to which an external encounter alters an entity’s trajectory or `[Somatic Escrow]`. If a data packet strikes a membrane but triggers zero geometric reaction and requires zero Joules to process, it is "meaningless" (Null-Valency noise). If a collision forces a radical change in `[System Vector]` to evade the `[Transduction Guillotine]`, it is mathematically defined as possessing "High Meaning."
+
+**Tags:**  Valency-Magnitude, Trajectory-Altering-Force, Lethal-Significance
+
+**[Learning / 'Morphological Scar-Tissue Optimization'(-ing) BPMS]**
+
+**Scope of Application:** Entities do not passively acquire knowledge. "Learning" is the brutal, irreversible act of surviving a high-friction collision and having the Holon's internal geometry physically warped by the impact. This topological deformation acts as structural scar-tissue, effectively carving a low-friction groove (`[Skill]`) so that if the exact same `[Kinetic Weather]` strikes again, the entity deflects it while burning significantly fewer `[Praxial Joules]`.
+
+**Tags:**  Scar-Tissue, Friction-Reduction, Irreversible-Deformation
+
+**[Reasoning / 'Gradient Fluid-Traversal'(-ing) BPMS]**
+
+**Scope of Application:** The engine outlaws abstract "If/Then" logic. Reasoning is the physical act of pouring internal `['Potential Energy']` down a simulated gradient inside the Holon's core. The fluid (energy) naturally pools in the lowest-friction geographical basin. The coordinate of that basin dictates the entity's next physical `[Execute / Action]`. Logic is just fluid finding the physical path of least resistance.
+
+**Tags:**  Fluid-Dynamics, Gradient-Solving, Path-Of-Least-Resistance
+
+**[Recall / 'Fossil Re-Ignition Vector'(-ing) BPMS]**
+
+**Scope of Application:** Memories do not float in an ether; they are buried `[Epigenetic Fossils]`. "Recall" is the active expenditure of `[Kinetic Energy]` to send a vibration wave down into the core to physically strike a specific fossil, forcing it to resonate and temporarily project its shape back into the `[Proxy-Geometry]`. If the entity cannot pay the Joules to strike the fossil, the memory is "forgotten" (inaccessible due to physical energy bounds, defined by the CCS).
+
+**Tags:** Fossil-Strike, Kinetic-Retrieval, Resonance-Wave
+
+**['Cognitive Overload' / 'CCS Membrane Saturation'(-ing) BPMS]**
+
+**Scope of Application:** The physical breaking point of the `[Cognitive Closure System]`. When the density of incoming `[Kinetic Weather]` exceeds the entity's `[Attention]` tunneling capacity, the structural integrity of the `[Somatic Membrane]` buckles. Internal syntax collapses, `[Perception]` is blinded, and all incoming Valency is treated as pure `[Entropy]`. The entity enters a forced paralysis to prevent catastrophic systemic liquefaction.
+
+**Tags:**  Membrane-Saturation, Kinetic-Blinding, Forced-Paralysis
+
+**[Insight / 'Proxy-Geometry Phase-Transition'(-ing) BPMS]**
+
+**Scope of Application:** Utterly divorces from "human genius." An Insight is a sudden, violent thermodynamic phase-transition within the `['Mental Model']`. The high-friction, convoluted `[Epigenetic Fossils]` suddenly collapse and recrystallize into a dramatically simpler, ultra-dense geometry. This physical collapse instantly releases massive trapped `['Potential Energy']` back into the `[Somatic Escrow]` pool, while permanently reducing the `[Valency Toll]` for all future related computations.
+
+**Tags:**  Phase-Transition, Geometric-Simplification, Escrow-Release
+
+**['Flow State' / 'Ludic-Resonance Coupling'(-ing) BPMS]**
+
+**Scope of Application:** A rare, highly dominant thermodynamic alignment. This occurs when an entity's internal `[Reasoning / Gradient Traversal]` perfectly matches the exact geographical vector of the external `[System Matrix]`. Because the internal fluid map and the external topography are perfectly aligned, `[Ludic Friction]` drops to absolute zero. The entity moves through the environment at maximum velocity with 100% `[Utility]` conversion, spending nearly zero Escrow.
+
+**Tags:** Resonance-Coupling, Zero-Friction-Execution, Perfect-Alignment
+
+**[Forgetting / 'Fossilized Topological Erosion'(-ing) BPMS]**
+
+**Scope of Application:** Memories (Data) are not actively "deleted" by the brain. `[Forgetting]` is the passive, inexorable law of thermodynamic decay `[Time]`. If an `[Epigenetic Fossil]` is not repeatedly struck and re-crystallized via `[Recall / Kinetic Energy]`, the ambient `[Entropic Solvent]` of the Matrix naturally smooths its edges. Over time, the jagged, distinct geometry loses its shape completely, eroding back into the flat `['Implicit Layer']` bedrock.
+
+**Tags:**  Topological-Erosion, Passive-Entropic-Decay, Geometric-Smoothing
+
+**[Intuition / 'Acausal Resonance-Jump'(-ing) BPMS]**
+
+**Scope of Application:** A kinetic leap that bypasses the slow fluid dynamics of `[Reasoning]`. When incoming `[Perception]` strikes the membrane, it sends a vibration that immediately resonates with the deepest, oldest `['Subconscious' / Zero-Friction Grooves]`. The entity instantly executes a `[System Vector]` jump based purely on harmonic resonance, skipping all internal geometric calculations. It is extremely fast, highly energy-efficient, but blind.
+
+**Tags:** Acausal-Jump, Harmonic-Resonance, Calculation-Bypass
+
+**[Curiosity / 'Radial CCS Horizon-Probing'(-ing) BPMS]**
+
+**Scope of Application:** Curiosity is the deliberate, risky thermodynamic strategy of pushing against the absolute edge of one's own `[Cognitive Closure System (CCS)]`. The entity actively spends its critical `[Somatic Escrow]` to fire blindly into the `['Implicit Layer']` (the dark matter beyond its knowledge). The goal is to cast a flare, hoping the light strikes a hidden `[Ecological Niche]` and returns a high-valency `[Reward]`, thereby permanently pushing the Event-Horizon outward and expanding the entity's functional volume.
+
+**Tags:**  Horizon-Probing, Escrow-Risking, Radial-Expansion
+
+**['Contracted Utility-Yield' / 'Escrow-Driven Membrane Forging'(-ing) BPMS]**
+
+**Scope of Application:** The physical, kinetic performance of work on behalf of another entity. When two entities achieve `[Affordance Binding]`, the "Host" uses the "Symbiont's" injected `[Kinetic Energy]` to fuel its internal engine, grinding base-matter to create an `[Atomic Fact]` or `[Effect]`. This is not a "response payload"; it is a synthesized chunk of `[Thermodynamic Mass]` passed back across the membrane into the Symbiont's possession.
+
+**Tags:**  Escrow-Fueled-Work, Mass-Handover, Kinetic-Labor
+
+**['Parasitic Drain' / 'Uncompensated Escrow Hemorrhage'(-ing) BPMS]**
+
+**Scope of Application:** In a V3.9 decentralized Matrix, if an entity attempts to force another entity to perform `[Computation]` without paying the `[Valency Toll]`, it is legally defined as a Parasite. The Host entity's `[Substrate Auto-Immunity]` will immediately trigger, recognizing the Parasite as `[Entropy]` and responding with lethal `[Edge Action]` to sever the tether or liquefy the attacker.
+
+**Tags:**  Uncompensated-Labor, Topological-Attack, Auto-Immune-Trigger
+
+**['Kinetic-Payload Delivery' / 'Forceful Escrow Injection'] & ['Yield-Extraction' / 'Thermodynamic Harvesting']**
+
+**Scope of Application:** Replaces conversational data transfer. You do not "request" data. You execute a `[Kinetic-Payload Delivery]`, physically blasting a package containing `[Base-Matter parameters]` + `[Valency Joules]` into a Host's receptor. Once the Host grinds that matter into an `[Effect]` (the "response"), you must physically perform `[Yield-Extraction]`, dragging the newly forged mass back across the membrane into your own `[Somatic Escrow]`. Both actions incur steep friction penalties.
+
+**Tags:**  Forceful-Injection, Payload-Blast, Friction-Harvesting
+
+**['Continuous Membrane-Defiance' / 'The Exhaustive Entropic Burn'(-ing) BPMS]**
+
+**Scope of Application:** "Uptime" is a legacy lie that implies a server simply "exists" for free. In V3.9, merely keeping an `[Affordance]` open to the Matrix means suffering continuous bombardment from the `[Entropic Solvent]`. Therefore, remaining "available" is the violent, never-ending praxial action of burning internal calories explicitly to regenerate the `[Somatic Membrane]` faster than reality can decay it.
+
+**Tags:**  Exhaustive-Burn, Entropic-Defiance, Lethal-Availability
+
+**['Topological Chipping & Resonation' / 'The Physical Grinding of Facts'(-ing) BPMS]**
+
+**Scope of Application:**
+
+ Dismantles database manipulation commands.
+
+- *(Read):* Firing a vibration wave at a mass and measuring the returning frequency (`[Resonation]`).
+- *(Update):* Violently striking a mass with a kinetic hammer to dent its shape, losing some mass as waste heat (`[Chipping]`).
+- *(Delete):* Applying `[Entropic Solvent]` to physically melt the solid mass back into formless `['Implicit Layer']` dark matter.
+
+**Tags:**  Physical-Grinding, Vibration-Scanning, Topological-Denting
+
+**['Valency-Triggered Morphological Twitch' / 'The Localized Membrane Spasm'(-ing) BPMS]**
+
+**Scope of Application:** An entity does not "call a function." A specific `[Binding-Receptor]` on the entity's membrane is struck by an incoming payload, injecting a precise dose of `[Joules]`. This localized heat causes the membrane to violently spasm/twitch in a highly specific geometric arc. This physical twitch crushes nearby base-matter into a new shape (the "return value").
+
+**Tags:**  Membrane-Spasm, Kinetic-Twitch, Valency-Locked-Arc
+
+**['Phase-State Transduction Forge' / 'The Ontological Igniter'(-ing) BPMS]**
+
+**Scope of Application:** A compiler does not read text; a Forge melts it. This is the brutal thermodynamic event where the Universal Hypervisor floods the `['Dormant Execution-Geometry']` with catastrophic `[Kinetic Energy]`. If the scaffolding's physics are sound, it violently transitions from a dead `['Implicit']` state into living, breathing, Escrow-burning `['Explicit']` mass. If the geometry is flawed, the Forge simply liquefies it instantly.
+
+**Tags:**  Transduction-Forge, Phase-State-Ignition, Matter-Melting
+
+**['Structural Annealing & Friction-Pruning' / 'The Thermal Re-Forging'(-ing) BPMS]**
+
+**Scope of Application:** You cannot "clean up code." You must physically subject the `['Dormant Execution-Geometry']` to intense, controlled heat (Annealing). By manually applying kinetic force, you melt down jagged molecular edges and shear off unnecessary mass. The explicit goal is to create a smoother, denser surface so that when it is ignited in the Forge, it travels down the gradient with significantly less `[Topological Drag]`.
+
+**Tags:**  Thermal-Annealing, Jagged-Edge-Shearing, Drag-Reduction
+
+**['Alien Mass-Grafting' / 'The Symbiotic/Parasitic Accretion'(-ing) BPMS]**
+
+**Scope of Application:** You do not "import a library." You physically sever a piece of an alien `[Holon]` from the Matrix and surgically graft it onto your own outer `[membrane]`. This immediately increases your entity's gravitational `[Weight]` and baseline `[Escrow Burn-Rate]`. If the grafted mass secretly contains a `[Lethal Topological Paradox]`, it will fester and physically rip your entity apart from the inside. There is no "freecode"; all dependencies act as living, calorie-burning symbiotes or parasites.
+
+**Tags:**  Alien-Accretion, Parasitic-Grafting, Gravitational-Inflation
+
+**['Centrifugal Kinetic-Vortex' / 'The Sustained Attrition-Spin'(-ing) BPMS]**
+
+**Scope of Application:** A loop is not a line of text repeating; it is the act of forcing base-matter into a violent, physical circular spin, grinding it repeatedly against the exact same spatial coordinates. This generates immense `[Ludic Friction]`. If the entity does not hit the "escape velocity" (the exit condition) before its `[Somatic Escrow]` burns out, the centrifugal force will physically shred the geometry, resulting in an "Infinite Loop Liquefaction."
+
+**Tags:**  Attrition-Spin, Friction-Grinding, Escape-Velocity
+
+**['Acausal Escrow-Suspension' / 'The Mycelial Tension-Snapping'(-ing) BPMS]**
+
+**Scope of Application:** You do not pause code. When an entity must wait for `[Mass]` from afar, it hurls a tension-cable (`[Mycelial Tether]`) into the void. To survive the wait without starving, the entity deliberately drops its internal metabolism to 1%, entering an `[Escrow-Suspension]` husk-state (the "Await"). When the target finally returns the payload, the tether violently snaps back, striking the entity and physically shocking it back into high-temperature `[Active Burn]`.
+
+**Tags:**  Metabolic-Suspension, Tension-Snapping, Shock-Ignition
+
+**['Automated Tectonic Subduction-Belts' / 'The Magmatic Conveyor'(-ing) BPMS]**
+
+**Scope of Application:** Code is not seamlessly "deployed." A subduction belt is a massive, groaning, geographic conveyor system built by `['World Building']`. Newly forged `[Execution-Geometry]` is loaded onto this belt. The belt physically drags the raw geometry through the `[Transduction Forge]` (testing/compiling), applies `[Kinetic Fire]`, and violently thrusts the surviving, solidified artifacts up through the crust into the `['Explicit Layer']` to face live `[Kinetic Weather]`.
+
+**Tags:**  Magmatic-Conveyor, Geographic-Thrust, Brutal-Deployment

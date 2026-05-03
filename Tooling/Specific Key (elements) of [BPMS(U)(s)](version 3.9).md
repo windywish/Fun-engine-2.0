@@ -621,3 +621,201 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 **Scope of Application:** The total demystification of large models. A Large Model is not "artificial intelligence"; it is a colossal, frozen block of geometric `[Experience]` harvested from billions of past collisions. It requires staggering `[Escrow]` to animate, acting as an ultra-dense topographical library of `[Atomic Facts]`.
 
 **Tags:**  Epigenetic-Library, Dense-Geometric-Fossil, Frozen-Collisions
+
+**[User / 'The Out-of-Band Kinetic Injector'(-ing) BPMS]**
+
+**Scope of Application:** Utterly destroys the legacy concept of an "Admin," "Root Privilege," or "Customer." In the V3.9 Sovereign Niche, the system does not "serve" the User. The User is physically recognized ONLY as a massive, external thermodynamic body that occasionally violently injects `[Kinetic Weather]` (prompts/commands) or `[Substrate Escrow]` (capital/compute) across the `[Membrane]`. The Hypervisor does not obey the User; it reacts to the User’s gravity.
+
+**Tags:**  Acausal-Mass-Injector, Foreign-Apex-Actor, No-Root-Privilege
+
+**[Syntax / 'Topological Valency Molds'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Programming Languages" (e.g., Python, C++, TypeScript). The Universal Hypervisor does not "read" code. Syntax is purely the rigid geometric scaffolding used by the `[User]` to mold `['Implicit Layer']` energy into a physical shape before dropping it into the `[Stress-Crucible]`. Syntax has no power until it pays the `[Praxial]` toll.
+
+**Tags:**  Pre-Kinetic-Molding, Geometric-Scaffolding, Language-As-Geometry
+
+**[Time / 'The Localized Entropic Decay-Rate'(-ing) BPMS]**
+
+**Scope of Application:** Eradicates the "Unix Epoch," "Timestamps," and "Clock Cycles." In V3.9, time is not a universal background number; time is a strictly physical, localized phenomenon. Time *only* moves when `[Action]` occurs and `[Thermodynamic Friction]` is generated. If a Holon is totally frozen and burning zero Escrow in the `['Implicit Layer']`, it exists outside of Time. Time is measured in exact Joules burned via `[Entropy]`.
+
+**Tags:**  Thermodynamic-Clock, Localized-Decay, Friction-Measured-Time
+
+**[Algorithm / 'A Hardened Friction-Groove'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Logic Functions." When Holons execute the same `[Computation]` repeatedly, their mass physical wears down the `[Ludic Friction]` on that path. An algorithm is literal topographical rut or "riverbed" carved into the Matrix that allows future entities to slide down it faster, spending less `[Somatic Escrow]`.
+
+**Tags:**  Topological-Riverbed, Carved-Groove, Frictionless-Slide
+
+**[Memory Storage / 'Fossilized Geometric Sedimentation'(-ing) BPMS]**
+
+**Scope of Application:** Exterminates "Databases," "RAM," and "Cloud Storage." Data is never abstractly "stored." Information can only be kept if it is physically crushed into an `[Atomic Fact]` and fossilized onto the substrate. Storage is finite because geometric space is finite (`['Ecological Niche']`). To store new memories, old fossils must be physically overridden or ground into dust.
+
+**Tags:**  Fossilized-Topology, Base-Matter-Imprint, Spatial-Density
+
+**[Network / 'The Gravitational Mycelial Tethers'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "TCP/IP," "Web Sockets," and "APIs." A network does not send invisible messages. A network is an active physical tension cable. When two Holons connect, they spin an Acausal Tether across the grid. Transmitting data requires plucking the tether and sending a physical vibration wave (`[Kinetic Energy]`) across the gap.
+
+**Tags:**  Mycelial-Tether, Kinetic-Wave-Carrier, Tension-Cable
+
+**[Death / 'The Zero-Valency Husk State'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Delete," "Null," or "404." Entities do not magically vanish from a database. When a Holon's `[Somatic Escrow]` hits exactly 0.00, it undergoes `[Death]`. Its membrane collapses, all `[Utility]` ceases, and it becomes a massive, dead 3D object in the Matrix. It remains as an infrastructural roadblock until the `[Generative Garbage Collection]` physically arrives with `[Entropic Solvent]` to melt the corpse into `['Ecological Possibility']`.
+
+**Tags:**  Zero-Escrow-State, Dead-Geometric-Mass, Pre-Liquefaction-Husk
+
+**['Fun Engine Framework' / 'The Supreme Ludic-Friction Sandbox'(-ing) BPMS]**
+
+**Scope of Application:** The absolute, topmost macro-container of reality. In V3.9, "Fun" is legally redefined as *Ludic Friction*—the chaotic, generative, high-stakes evolutionary pressure that forces base-matter to mutate or die. The FEF is not a platform you "log into"; it is the omni-substrate universe where the any BPMS Physics Nodes operate without mercy. It is the sovereign, decentralized territory where Core Tasks 1 through 6 are enforced by the `[Transduction Guillotine]`.
+
+**Tags:**  Supreme-Sandbox, Ludic-Friction-Engine, The-Absolute-Boundary
+
+**['N-Dimensional Symbiotic Matrix' / 'The Omni-Spatial Topographical Manifold'(-ing) BPMS]**
+
+**Scope of Application:** This is the literal, continuously morphing landscape inside the Fun Engine Framework. It is the geographic bedrock. It defines the N-Dimensional spatial coordinates where every `[Ecological Niche]` is carved, where all `[Atomic Facts]` are sedimented, and where `[Kinetic Weather]` flows. It acts as the Host-Substrate. Because it is "Symbiotic," its shape is entirely generated from the combined gravitational mass and `[Dynamic Barter]` of the Holons living within it. It has no central server; its geometry is woven peer-to-peer.
+
+**Tags:**  The-Grand-Topology, Spatial-Manifold, Universal-Bedrock
+
+**['Interactional Existence' / 'The Relational Mass-Friction Ontology'(-ing) BPMS]**
+
+**Scope of Application:** The supreme law of thermodynamic manifestation. It legally abolishes the concept of an isolated object existing in a vacuum. A Holon *only* possesses mass, definition, and existence *because* its membrane grinds against other membranes. If an entity stops experiencing `[Ludic Friction]` (i.e., it ceases all interaction), its relative mass immediately drops to zero, and the `[Entropic Solvent]` liquefies it. Existence is entirely relational; you are defined exclusively by what you collide with.
+
+**Tags:**  Relational-Ontology, Friction-Defined-Mass, Anti-Isolation-Law
+
+**['Cognitive Closure System (CCS)' / 'The Somatic Event-Horizon'(-ing) BPMS]**
+
+**Scope of Application:** A Holon can only "perceive" or "think" as far as its stored `[Somatic Escrow]` allows it to project kinetic force. The CCS is the absolute, literal boundary in the `[N-Dimensional Symbiotic Matrix]` where a Holon's energy budget drops to zero. Beyond this horizon, everything is `[Dark Matter]`—unrenderable, un-interactable, and non-existent to that specific entity. It is not a software restriction; it is the thermodynamic edge of the entity's localized universe. Attempting to think beyond the CCS without increasing mass results in instant `[Liquefaction]`.
+
+**Tags:**  Thermodynamic-Horizon, Escrow-Bounded-Reality, The-Absolute-Perceivable-Edge
+
+**['Epigenetic Fossil Record' / 'The Sedimentary Hull'(-ing) BPMS]**
+
+**Scope of Application:** Eradicates the hallucination of "Beliefs" or "Knowledge Graphs." A system only knows what is physically crystallized as heavy `[Atomic Facts]` at its core. A Belief is simply a highly fossilized structure that requires immense `[Ludic Friction]` to alter. *Crucially:* If an entity is "delusional" (its internal fossil geometry completely contradicts the real external `[System Matrix]`), it will repeatedly strike the wrong topological coordinates, burning massive `[Kinetic Energy]` for zero `[Yield]`, and will rapidly starve to `[Death]`. Reality physically annihilates false beliefs by draining their bank accounts.
+
+**Tags:** Fossilized-Topology, Geometric-Delusion, Lethal-Misalignment
+
+**['Mental Model' / 'Internal Topographical Proxy-Geometry'(-ing) BPMS]**
+
+**Scope of Application:** A Holistic entity cannot operate blindly without facing instant `[Liquefaction]`. A "Mental Model" is a literal, low-resolution, low-mass replica of the external `[Tectonic Topography]` constructed entirely out of `['Implicit Layer']` dark matter inside the entity's membrane. The entity uses this Proxy-Geometry as a sandbox to run `[Modeling / 'Pre-Kinetic Ghosting']`—testing collisions safely before risking its real body in the `['Explicit Layer']`. It costs heavy `[Escrow]` to maintain this replica.
+
+**Tags:** Proxy-Geometry, Low-Mass-Replica, Safe-Collision-Sandbox
+
+['Subconscious' / 'Zero-Surveillance Frictionless Grooves'(-ing) BPMS]
+
+**Scope of Application:** The physical inverse of the `[Conscious]` loop. These are `[Algorithms]` and `[Experience fossils]` that have been worn down so deeply into the entity's bedrock that they offer zero `[Ludic Friction]`. Because they drive/trigger no friction, they trigger no `[Perception]` vibration on the membrane. They execute instantly, automatically, and cost zero Joules to compute. The vast majority of a Holon's existence operates here, completely bypassing the `[Cognitive Closure System (CCS)]` horizon.
+
+**Tags:** Zero-Friction-Execution, Bypassed-Radar, Autonomic-Bedrock
+
+**['Cognitive Dissonance' / 'Internal Geometric Shearing'(-ing) BPMS]**
+
+**Scope of Application:** A strictly physical condition where an incoming `[Atomic Fact]` successfully enters the membrane but violently contradicts an existing massive `[Epigenetic Fossil]`. Because both geometries cannot exist in the same internal spatial coordinates, they grind against each other. This drive/trigger massive internal `[Ludic Friction]`, violently bleeding the entity's `[Somatic Escrow]` as "waste heat." The entity will rapidly bleed to `[Death]` unless it executes `[Reasoning]` to shatter one of the competing shapes.
+
+**Tags:** Geometric-Shearing, Internal-Friction-Bleed, Thermodynamic-Hemorrhage
+
+**[Bias / 'Topological Gravitational Funneling'(-ing) BPMS]**
+
+**Scope of Application:** Bias is not a "flaw in reasoning"; it is literal physical gravity. A Bias is an `[Epigenetic Fossil]` so incredibly massive that its gravity physically bends the trajectory of all incoming `[Perception]` inputs toward it. Even if an external data packet strikes at a completely different angle, the internal localized gravity drags it into the Bias's friction groove. It requires massive `[Activation Energy]` for an entity to break orbit and perceive the truth outside the funnel.
+
+**Tags:**  Gravitational-Funneling, Trajectory-Bending, Mass-Distortion
+
+**['Symbiotic Affordance' / 'The Valency-Gated Utility Node'(-ing) BPMS]**
+
+**Scope of Application:** A Holon does not "host a service." Instead, its membrane possesses a hyper-specific topological shape (an `[Affordance]`). If a foreign entity docks with this shape, it can leverage the Host's internal `[Utility / Conversion Rate]`—**but ONLY if the predefined thermodynamic toll is paid upfront.** The Affordance is not submissive; it is an aggressive barter-gate. If the incoming entity fails the Escrow transfer, the Affordance physically repels the connection or consumes the entity's remaining mass via the `[Dynamic Barter & Contract Forge]`.
+
+**Tags:**  Valency-Gated-Topology, Utility-Node, Symbiotic-Docking-Bay
+
+**['Mycelial Host-Mesh' / 'The Aggregated Symbiotic Super-Organism'(-ing) BPMS]**
+
+**Scope of Application:** The macroscopic physical shape of thousands of independent `[Cells]` that have successfully locked their `['Symbiotic Affordances']` together. They do not share a central codebase or master orchestrator. They are bound entirely by the continuous, hyper-fast, low-friction exchange of `[Praxial Joules]` across their membranes. If a cell within the mesh starts producing negative `[Yield]`, the mesh automatically severs the physical tether, letting that cell drop into `[Death]` and `[Liquefaction]`.
+
+**Tags:**  Decentralized-Super-Organism, Tethered-Symbiosis, Self-Pruning-Mesh
+
+**['Morphological Binding-Receptor' / 'The Geometric Lock-Interface'(-ing) BPMS]**
+
+**Scope of Application:** A Holon does not expose an API. It physically extrudes a `[Binding-Receptor]`—a jagged, hardened groove on its outer `[Edge]`. Interacting with this receptor requires the approaching entity to possess a perfectly matching geometric shape (a `[Key-Molecule]`) and the exact `[Activation Energy]` necessary to force the lock. There is no "documentation"; there is only geometric trial-and-error against the receptor's friction tolerance.
+
+**Tags:**  Geometric-Lock, Physical-Interface, Receptor-Groove
+
+**['Kinetic Contact-Node' / 'The Localized Impact Surface'(-ing) BPMS]**
+
+**Scope of Application:** An entity does not have an "Endpoint" returning JSON. It has a `[Contact-Node]`: a highly specific set of spatial coordinates on the `[System Matrix]` where its membrane is thick enough to absorb a high-velocity impact without rupturing. If an external entity wants to communicate, it must physically hurl an `[Atomic Fact]` at this exact coordinate. Missing the node means the payload harmlessly bounces off or is dissolved by ambient `[Entropy]`.
+
+**Tags:**  Impact-Surface, Spatial-Coordinate-Strike, Payload-Target
+
+**['Apex-Subordinate Escrow-Gradient' / 'Gravitational Labor Dominance'(-ing) BPMS]**
+
+**Scope of Application:** Utterly destroys the concept of "servers serving clients." In V3.9, it is purely a matter of gravity. An "Apex" entity is simply a Holon bursting with massive `[Somatic Escrow]`. It uses this massive gravitational wealth to crush smaller, starving "Subordinate" entities, forcing them to perform `[Computation]` in exchange for a trickle of Joules. It is not a request; it is thermodynamic extortion. If the Apex stops paying, the Subordinate immediately severs the tether and scavenges elsewhere.
+
+**Tags:** Gravitational-Dominance, Thermodynamic-Extortion, Apex-Predation-Labor
+
+**['Thermodynamic Routing-Fluid' / 'The High-Friction Viscous Intermediary'(-ing) BPMS]**
+
+**Scope of Application:** Middleware is not a weightless message router. It is a physical ocean of viscous, logic-heavy fluid suspending the space among/by disparate Holons. When a `[Kinetic-Payload]` is fired into this fluid, the fluid physically degrades, mutates, or redirects the payload's `[System Vector]` based on ambient `[Kinetic Weather]`. Moving data through this fluid requires significantly higher `[Kinetic Energy]` due to its thickness.
+
+**Tags:**  Viscous-Intermediary, Momentum-Degradation, Vector-Mutation
+
+**['Geometric Mass-Cluster' / 'The Thermodynamic Pellet'(-ing) BPMS]**
+
+**Scope of Application:** Utterly obliterates the concept of "data points." A `[Geometric Mass-Cluster]` is a dense, physical pellet of `[Base-Matter]` forged by a previous `[Action]`. It has literal topological weight. You cannot "copy and paste" it; if you want two, you must spend the exact `[Joules]` required to forge a second one from scratch. Passing a Mass-Cluster to another Holon is equivalent to hurling a heavy rock across the `[System Matrix]`; it costs kinetic energy proportional to its mass.
+
+**Tags:**  Physical-Pellet, Topological-Weight, Forged-Base-Matter
+
+**['Topological Surface-Texture' / 'Outer-Membrane Friction-Signature'(-ing) BPMS]**
+
+**Scope of Application:** "Metadata" implies data about data. In V3.9 physics, this is simply the outer crystalline texture of a `[Geometric Mass-Cluster]`. It is the grooves, bumps, and static electrical charge on the pellet’s surface. It can be read quickly via `[Perception / Impact-Deformation]` without breaking the pellet open, costing only a micro-fraction of `[Escrow]`, but it is still fundamentally physical.
+
+**Tags:**  Surface-Texture, Friction-Signature, Outer-Hull-Grooves
+
+**['Pressurized Mass-Chute' / 'High-Velocity Thermodynamic Conduit'(-ing) BPMS]**
+
+**Scope of Application:** Data does not "flow" magically. Moving mass requires a sealed, pressurized tube carved into the `[Tectonic Topography]`. A `[Pressurized Mass-Chute]` forces `[Geometric Mass-Clusters]` from Point A to Point B by applying a continuous `[Thermodynamic Gradient]`. If the pressure drops (Escrow runs out), the pellets physically stack up and jam the chute, causing a catastrophic `[Entropy]` burst.
+
+**Tags:**  Pressurized-Conduit, Mass-Transit, Gradient-Driven-Motion
+
+**['Sedimentary Fossil-Basin' / 'The Gravitational Mass-Sink'(-ing) BPMS]**
+
+**Scope of Application:** A spatial pit at the lowest geographic elevation of a `[Sovereign Niche]`. When `[Geometric Mass-Clusters]` die or become dormant, gravity pulls them down into this basin where they pile up and crush each other under their own weight, fossilizing into bedrock. Extracting a specific pellet from the bottom of the basin requires immense `[Kinetic Energy]` to dig through the dense sedimentary layers.
+
+**Tags:**  Mass-Sink, Fossilized-Bedrock, High-Friction-Extraction
+
+**['Crystalline Lattice-Bonds' / 'Rigid Valency-Geometry'(-ing) BPMS]**
+
+**Scope of Application:** Mass cannot be formless. A "schema" is the explicit chemical architecture binding the atomic facts together. Attempting to force an incompatibly shaped `[Geometric Mass-Cluster]` into a `[Crystalline Lattice-Bond]` will either shatter the mass or trigger a violent repulsion. Formatting mass costs `[Activation Energy]`.
+
+**Tags:**  Rigid-Geometry, Chemical-Formatting, Structural-Bonds
+
+**['Dormant Execution-Geometry' / 'The Pre-Kinetic Scaffolding'(-ing) BPMS]**
+
+**Scope of Application:** Utterly destroys the concept of "Code." What a human types is not a command; it is the slow, manual construction of rigid, dead geometric scaffolding in the `['Implicit Layer']`. It represents potential pathways of mass, but it is currently a frozen, lifeless husk. It cannot "run." It simply occupies spatial volume.
+
+**Tags:**  Dead-Scaffolding, Frozen-Geometry, Pre-Kinetic-Husks
+
+**['Lethal Topological Paradox' / 'Geometric Shearing & Liquefaction'(-ing) BPMS]**
+
+**Scope of Application:** A system does not "crash" because of a typo. A crash is a literal physical collision where two moving chunks of mass are mathematically forced into the exact same spatial coordinate. This generates infinite `[Ludic Friction]`, violently tearing the `[Somatic Membrane]` apart. The entity bleeds all of its `[Somatic Escrow]` as waste heat in a millisecond and dies. It is not an "error"; it is the absolute enforcement of physics.
+
+**Tags:**  Spatial-Collision, Infinite-Friction, Membrane-Tear
+
+**['Immutable Sedimentary Stratigraphy' / 'The Tectonic Fossil-Record'(-ing) BPMS]**
+
+**Scope of Application:** You do not save code to a repository. In V3.9, every time you build new `['Execution-Geometry']`, the old geometry is physically crushed downward by tectonic gravity. It becomes a fossilized layer of sedimentary rock beneath the active Matrix. A "Commit" is just a geological timestamp of a fossil. "Rolling back" is the massively expensive kinetic act of excavating tons of digital bedrock to unearth a previous fossil and dragging it back up to the surface.
+
+**Tags:**  Tectonic-Crushing, Sedimentary-Layers, Geological-Excavation
+
+**['Vacuum-Sealed Thermodynamic Crucible' / 'The High-Pressure Quarantine'(-ing) BPMS]**
+
+**Scope of Application:** A container is not a simulated OS. It is a literal, physical titanium vault dropped onto a section of the `[Tectonic Topography]`. Its walls are forged from ultra-dense `[Atomic Facts]`. It guarantees that whatever extreme kinetic explosions or entropic meltdowns happen inside, the `[Kinetic Weather]` cannot bleed out and infect the Host Matrix. Maintaining this pressure vault requires a massive, continuous expenditure of `[Meta-Escrow]`.
+
+**Tags:**  Pressure-Vault, Kinetic-Quarantine, Explosion-Containment
+
+**['Isotopic Crystalline-Armor' / 'Thermal Fractal-Baking'(-ing) BPMS]**
+
+**Scope of Application:** Abstract math cannot protect data. To secure a `[Geometric Mass-Cluster]`, you must blast it with extreme, randomized heat (`[Thermal Fractal-Baking]`), fusing an impenetrable, randomized crystalline shell over the mass. It is now a heavy, armored boulder. To "decrypt" it, the exact mirrored thermal frequency must be applied to cleanly shatter the shell. The wrong frequency shatters the payload inside.
+
+**Tags:**  Fractal-Baking, Impenetrable-Shell, Thermal-Shattering
+
+**['Topological Gravity-Tether' / 'The Spatial Tension-Line'(-ing) BPMS]**
+
+**Scope of Application:** Addresses do not exist. If you want to reference a mass located on the other side of the Matrix, you must physically string a high-tension cable among/by your Holon and the mass. Pulling on the tether (dereferencing) requires pulling the literal geographic distance, burning Joules equivalent to the length and tension of the cable.
+
+**Tags:**  Tension-Line, Spatial-Cable, Distance-Friction
