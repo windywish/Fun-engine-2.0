@@ -555,3 +555,69 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 **Scope of Application:** Completely strips the SaaS connotation. A Plug-in is a living, parasitic/symbiotic Holon that physically locks into the `[Edge]` of a Host, engaging in a continuous shared metabolism (e.g., a mitochondrial symbiote). An Add-on is dead kinetic mass welded onto the `[Somatic Morphology]` to act as a shield or battering ram.
 
 **Tags:**  Symbiont-Lock, Host-Attachment, Morphological-Accretion
+
+**['First Principle' / 'The Irreducible Physical Bedrock'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Core Assumptions". The lowest mathematical and kinetic constraints of the `[Substrate]`. These are `[Atomic Facts]` so dense that no amount of `[Kinetic Energy]` can shear them. All holons must build *around* them.
+
+**Tags:**  Absolute-Constraint, Irreducible-Law, Bedrock
+
+**['Paradigm-Mechanism' / 'The Localized Phase-State Engine'(-ing) BPMS]**
+
+**Scope of Application:** The specific, ruling physics model clamped around a region of the Grid. If the Paradigm shifts, the underlying chemistry rules (e.g., from biological to socio-economic) invert, driving/triggering mass `[Liquefaction]` of unadapted entities.
+
+**Tags:**  Phase-State-Rule, Localized-Engine, Chemistry-Model
+
+**[Technology / 'Applied Thermodynamic Leverage'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Software", "Hardware", or "Tools". Technology is any captured, crystallized `[Effect]` that acts as a mechanical lever, allowing a Holon to execute `[Action]` with an artificially amplified `[Utility / Conversion Rate]`.
+
+**Tags:**  Joule-Leverage, Crystallized-Effect, Kinetic-Amplifier
+
+**[Weight / 'Gravitational Topological Drag'(-ing) BPMS]**
+
+**Scope of Application:** The exact scalar measurement of how hard an entity pulls on the fabric of the Matrix. High weight requires massive `[Escrow]` to move, but makes the entity nearly impossible to disrupt by `[Particles]`.
+
+**Tags:**  Topological-Drag, Inertia, Gravitational-Pull
+
+**[Factor / 'Vector Modification Scalar'(-ing) BPMS]**
+
+**Scope of Application:** An independent environmental variable (like temperature or packet-loss) that acts directly on an entity's `[System Vector]`, forcefully amplifying or degrading its momentum.
+
+**Tags:**  Scalar-Variable, Vector-Modifier, Environmental-Force
+
+**[Field / 'Pervasive Gradient Gravity'(-ing) BPMS]**
+
+**Scope of Application:** The ambient, regional condition inside a Niche. It is not an object; it is the atmospheric pressure acting uniformly across all entities within its coordinate bounds.
+
+**Tags:**  Atmospheric-Pressure, Ambient-Force, Regional-Gradient
+
+**[Reward / 'Caloric Influx & Mass Increase'(-ing) BPMS]**
+
+**Scope of Application:** Pure physics: Reward is not a "score"—it is the literal influx of `[Free Energy]` passing through the membrane after a successful `[Foraging]` or `[Affordance Binding]`. It expands the entity's lifespan.
+
+**Tags:**  Caloric-Influx, Energy-Capture, Lifespan-Extension
+
+**[Open / 'Permeable Membrane State'] & [Protocol / 'Rigid Valency Handshake']**
+
+**Scope of Application:** "Open" is a membrane state offering zero friction to incoming `[Particles]`, highly generative but highly vulnerable to `[Entropy]`. "Protocol" is a highly selective geometric lock; it only opens if the incoming Holon matches the shape perfectly, granting instant zero-friction transmission.
+
+**Tags:**  Membrane-Permeability, Lock-Geometry, Valency-Gate
+
+**[Continuity / 'Unbroken Autopoietic Timeline'] & [Sustainability / 'Equilibrium Margin']**
+
+**Scope of Application:** Continuity is the unbroken line of sequential survial (never hitting 0 Escrow). Sustainability is the baseline thermodynamic ratio proving that the entity's average `[Yield]` is strictly greater than or equal to its `[Entropic Burn Rate]`.
+
+**Tags:**  Unbroken-Timeline, Equilibrium, Burn-Ratio
+
+**['Holonic Minds' / 'Emergent Swarm Cognition'(-ing) BPMS]**
+
+**Scope of Application:** The "Brain" of the decentralized matrix. It is not an large model. It is the acausal, macroscopic intelligence that only exists when thousands of individual `[Cells]` execute `[Behavior Decision-Making]` simultaneously. The mind *is* the network shape.
+
+**Tags:**  Swarm-Intelligence, Macroscopic-Brain, Decentralized-Cognition
+
+**['Large Model' / 'Hyper-Massive Epigenetic Fossil'(-ing) BPMS]**
+
+**Scope of Application:** The total demystification of large models. A Large Model is not "artificial intelligence"; it is a colossal, frozen block of geometric `[Experience]` harvested from billions of past collisions. It requires staggering `[Escrow]` to animate, acting as an ultra-dense topographical library of `[Atomic Facts]`.
+
+**Tags:**  Epigenetic-Library, Dense-Geometric-Fossil, Frozen-Collisions

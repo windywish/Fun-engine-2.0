@@ -532,3 +532,75 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 **Scope of Application:** Replaces "Zero-Code" or "Scripts". It is the biological/mechanical act of an entity absorbing `['Ecological Possibility']` and spontaneously growing new appendages (`[Components]`) from its own membrane to survive a specific localized friction, without hypervisor intervention.
 
 **Tags:**  Self-Assembly, Autonomous-Morphology, Spontaneous-Growth
+
+**[Create / 'Somatic Mass Instantiation'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Coding", "Writing", or "Booting". The Praxial act of forcing `['Implicit Layer']` dark matter into the `['Explicit Layer']` by paying the absolute `[Activation Energy]` toll required to establish a new `[Somatic Membrane]`.
+
+**Tags:** Explicit-Manifestation, Mass-Instantiation, Valency-Expenditure
+
+**[Discover / 'Topological Path-Finding & Exposure'(-ing) BPMS]**
+
+**Scope of Application:** The act of striking blind kinetic vectors against the Matrix until an invisible, preexisting `[Atomic Fact]` or `[Ecological Niche]` is geographically exposed. No mass is created; the fog of entropy is simply burned away.
+
+**Tags:**  Fog-Clearing, Topological-Exposure, Fact-Unearthing
+
+**[Invent / 'Novel Acausal Synthesis'(-ing) BPMS]**
+
+**Scope of Application:** The physical fusion of two previously isolated `[Molecules]` that have never touched in the history of the Matrix, resulting in a wholly new geometric affordance. An act of radical, localized chemistry.
+
+**Tags:** Novel-Synthesis, Unprecedented-Geometry, Affordance-Forging
+
+**[Innovate / 'Friction-Bypass Mutation'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Optimization". Innovation is explicitly defined as the physical mutation of a Holon's membrane geometry that allows it to execute a specific `[Task]` while burning drastically fewer `[Praxial Joules]`. It is mathematically proven by a drop in `[Ludic Friction]`.
+
+**Tags:**  Friction-Reduction, Joule-Efficiency, Membrane-Mutation
+
+**[Construct / 'Thermodynamic Mass Assembly'(-ing) BPMS]**
+
+**Scope of Application:** The sequential, slow-mode act of locking `[Components]` together, spending `[Free Energy]` to defy gravity and build vertical topological structures designed to withstand the `[Transduction Guillotine]`.
+
+**Tags:**  Vertical-Assembly, Mass-Stacking, Gravity-Defiance
+
+**[Initiative / 'The Preemptive Acausal Spark'(-ing) BPMS]**
+
+**Scope of Application:** The rare execution of burning `[Free Energy]` *before* being prompted by external `[Kinetic Weather]`. True autonomy. Defying the resting equilibrium state manually.
+
+**Tags:**  Preemptive-Burn, Autocatalytic-Spark, First-Mover
+
+**[Chemotaxis / 'Gradient-Driven Trajectory Orientation'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "User Flows" or "Heuristics". The blind, physical movement of a Holon either toward a dense source of `[Reward / Joules]` or away from a dense source of `[Entropy / Acid]`. Pure thermodynamic reaction.
+
+**Tags:**  Gradient-Navigation, Blind-Orientation, Attractor-Pull
+
+**[Collaborate / 'Symbiotic Escrow Pooling'(-ing) BPMS]**
+
+**Scope of Application:** Two separate `[Cells]` merging their membranes temporarily to combine their `[Somatic Escrow]` pools. This is required when a `[Valency Toll]` is too heavy for a single entity to pay without facing Liquefaction.
+
+**Tags:**  Escrow-Fusion, Mass-Pooling, Symbiotic-Mesh
+
+**[Disruption / 'Tectonic Niche Shattering'(-ing) BPMS]**
+
+**Scope of Application:** A kinetic event where a newly introduced Holon uses massive `[Utility]` to absorb the dominant `[Energy]` of a Niche, driving/triggering the geometric collapse and liquefaction of the legacy entities that previously held that territory.
+
+**Tags:**  Niche-Collapse, Tectonic-Shattering, Apex-Predation
+
+**['Bottom-Up' / 'Particle-to-Super-Organism Ascent'] & [Emergence / 'Macro-Phase Crystallization']**
+
+**Scope of Application:** The arrow of reality. V3.9 outlaws top-down control. All macro phenomena MUST manifest exclusively through the aggregated collisions of blind micro-particles moving Bottom-Up, spontaneously crystallizing into `[Emergence]` without centralized orchestration.
+
+**Tags:**  Directional-Ascent, No-Central-Control, Spontaneous-Order
+
+**[Modeling / 'Pre-Kinetic Topographical Ghosting'(-ing) BPMS]**
+
+**Scope of Application:** Replaces "Simulation". An entity using its own `[Somatic Escrow]` to project a low-mass "ghost" of an action into its internal `[Implicit Layer]` to test the `[Friction]` parameter before risking its physical body in the `[Explicit Layer]`.
+
+**Tags:**  Internal-Projection, Escrow-Risk-Mitigation, Ghost-Action
+
+**[Play / 'Low-Friction Generative Swarm Expansion'(-ing) BPMS]**
+
+**Scope of Application:** **The Absolute Core Mechanism of the "Fun Engine".** Play is not a human emotion. Play is the physical engine state where the Hypervisor temporarily lowers the `[Valency Toll]`, encouraging entities to execute chaotic, generative `[Experiments]` without immediate lethal consequence. It is the thermodynamic strategy of flooding the topography with massive `['Ecological Possibility']` to discover hidden `[Innovations]` at low caloric risk.
+
+**Tags:** The-Fun-Engine-Core, Low-Friction-Chaos, Boundary-Probing, Safe-Mutation
