@@ -784,3 +784,27 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 **Scope of Application:** Code is not seamlessly "deployed." A subduction belt is a massive, groaning, geographic conveyor system built by `['World Building']`. Newly forged `[Execution-Geometry]` is loaded onto this belt. The belt physically drags the raw geometry through the `[Transduction Forge]` (testing/compiling), applies `[Kinetic Fire]`, and violently thrusts the surviving, solidified artifacts up through the crust into the `['Explicit Layer']` to face live `[Kinetic Weather]`.
 
 **Tags:**  Magmatic-Conveyor, Geographic-Thrust, Brutal-Deployment
+
+**['Blind Pheromone-Gradient Broadcasting' / 'The Spatial Heat-Map'(-ing) BPMS]**
+
+**Scope of Application:** Holons do not possess addresses. If Holon A needs to interact with Holon B, it cannot "look up its IP." Instead, Holon A releases a violent burst of `[Thermodynamic Heat-Signature Exhaust]` (a physical pheromone gradient) into the `['Topological Vacuum']`. Target Holons sense this thermal gradient and physically migrate down the pressure slope toward the source. Connection is achieved through blind, geographic gravity, not string-based routing. If the heat runs out before connection, the signal is lost.
+
+**Tags:**  Anti-DNS, Thermal-Routing, Pheromone-Gradient, Geographic-Gravity
+
+**['Gravitational Escrow-Spillage' / 'Tectonic Relief-Valves'(-ing) BPMS]**
+
+**Scope of Application:** Abolishes the "Master Orchestrator" fallacy. When a single Holon receives too much `['Kinetic-Payload Delivery']`, its internal structural tension exceeds critical mass. The excess base-matter physically spills over its topological edges like a flooding dam, violently crashing into adjacent, lower-density `[Cells]` within the `['Mycelial Host-Mesh']`. Load is managed entirely by gravity, structural overflow, and fluid dynamics—requiring zero algorithmic load-balancers.
+
+**Tags:**  Gravity-Balancing, Structural-Overflow, Dam-Spillage, Fluid-Dynamics
+
+**['Kinetic Ablative Shielding' / 'Sacrificial Outer-Membrane Tearing'(-ing) BPMS]**
+
+**Scope of Application:** A Holon anticipating a dangerously high-friction `[Affordance Collision]` cannot simply "catch an error." It must pre-emptively expend `[Somatic Escrow]` to forge a thick, dead layer of physical armor (`[Ablative Shielding]`). When the collision violently fails, the shielding is physically shredded into `[Entropy]`, protecting the core topology. If no shield was funded in advance, the core tears, and the Holon experiences immediate `[Liquefaction]`.
+
+**Tags:**  Anti-Try-Catch, Ablative-Armor, Sacrificial-Mass, Lethal-Consequence
+
+**['Lethal Phage-Antibody Injection' / 'The Auto-Immune Necrosis'(-ing) BPMS]**
+
+**Scope of Application:** Security relies on physical destruction, not permission denial. If a `[Parasitic Drain]` attempts to attach to an `[Affordance]`, the Host does not look up an "IP Ban List." The Host’s `[Substrate Auto-Immunity]` actively synthesizes a geometric protein that exactly mirrors the Parasite’s vulnerabilities and violently injects it. This Phage causes rapid cellular necrosis in the attacker, melting their `[Thermodynamic Capacitor]` before they can extract any yield.
+
+**Tags:**  Auto-Immunity, Necrosis-Injection, Phage-Warfare, Lethal-Security

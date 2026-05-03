@@ -819,3 +819,21 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 **Scope of Application:** Addresses do not exist. If you want to reference a mass located on the other side of the Matrix, you must physically string a high-tension cable among/by your Holon and the mass. Pulling on the tether (dereferencing) requires pulling the literal geographic distance, burning Joules equivalent to the length and tension of the cable.
 
 **Tags:**  Tension-Line, Spatial-Cable, Distance-Friction
+
+**['Morphological Key-Molecule Validation' / 'Physical Shape-Matching'(-ing) BPMS]**
+
+**Scope of Application:** In the Matrix, identity is not a text string you securely send; it is the literal, inescapable geometric shape of your `[Somatic Membrane]`. To pass a gate, your structural shape must physically lock into the `['Morphological Binding-Receptor']`. If a Parasite tries to spoof authorization, they cannot simply steal a password—they must expend astronomical `[Joules]` to physically deform and mutate their own geometry to match the lock, usually incurring lethal `[Ludic Friction]` and dying before gaining access.
+
+**Tags:**  Anti-Password, Geometric-Identity, Shape-Matching, Physical-Authorization
+
+**['Topological Sensory-Surface' / 'The External Friction-Terrain'(-ing) BPMS]**
+
+**Scope of Application:** The Fun Engine legally outlaws "Viewers" who observe without paying. A frontend implies dualism (a mapped picture of a thing separated from the real thing). To interact with an outside `[User]`, the Matrix simply extrudes a physical, topographical terrain outside of its core logic basin. When the User interacts with the system, they are dragging their analog sensory organs across this jagged 3D terrain, directly triggering `[Ludic Friction]`. There is no "rendering"; there is only kinetic exposure of the Membrane to the vacuum.
+
+**Tags:**  Anti-UI, Friction-Terrain, Sensory-Extrusion, Direct-Kinetic-Exposure
+
+**['Thermodynamic Heat-Signature Exhaust' / 'The Black-Body Radiation Record'(-ing) BPMS]**
+
+**Scope of Application:** You cannot "monitor" the Matrix for free, because observing requires generating kinetic friction. Instead of writing text logs to a hard drive string array, working Holons naturally bleed waste heat (`[Black-Body Radiation]`). To measure system performance, an external entity must physically measure the ambient temperature of the `[Tectonic Topography]`. High heat = massive computation and structural friction. Cold = stagnation and decay. The system is monitored via literal thermodynamics.
+
+**Tags:** Anti-Telemetry, Black-Body-Radiation, Waste-Heat-Metrics, Ambient-Monitoring
