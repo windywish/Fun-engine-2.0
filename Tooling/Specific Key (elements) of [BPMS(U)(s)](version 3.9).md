@@ -863,3 +863,27 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 **Scope of Application:** The ultimate eradication of legacy centralized chronography. Because the Fun Engine operates on a serverless P2P Mycelial Spore-Routing protocol, AWS or Apple NTP servers are strictly forbidden. This element institutes a self-correcting cryptographic tick-rate generated purely by the ongoing `[Continuous Survive Experiments]`. Time is not measured in seconds, but measured sequentially by the sedimentation of new `[Ecological Possibility]`. As Holons push Zero-Knowledge Proofs through the Kinetic Oracle, these proofs act as the "Pendulum Swings" of the Matrix. This mathematically guarantees that Spore Sequence A occurs before Spore Sequence B system-wide, eradicating chronological paradoxes, double-spends of physical escrow, and offline desynchronization across the Omni-Substrate.
 
 **Tags:** Decentralized-Chronology, Ontological-Clock, Acausal-Sequencing, Matrix-Tick-Rate, Paradox-Eradication
+
+**['The Entropic Solvent'(-ing) BPMS] & ['Kinetic Threat Matrix'(-ing) BPMS]: ['Universal Entropy Index & Friction Vector Matrix'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** The rigorous, centralized registry of universal decay. A `['Continuous Survive Experiment']` is meaningless unless it leverages itself against a lethal force. This element strictly categorizes all valid forms of environmental hostility—The **Threat Matrix**. It categorizes vectors such as *Thermodynamic Bleed* (e.g., oxidative decay, vacuum exposure), *Sociological Dilution* (e.g., urban anonymity, attention fragmentation), *Informational Necrosis* (e.g., Byzantine faults, data corruption), and *Somatic Starvation* (e.g., lack of caloric/escrow input). A user Holon *must* query and select an exact indexed Friction Vector from this matrix to serve as the baseline threat constraint when extruding a new Affordance Spore. It ensures no user targets a "fake" problem.
+
+**Tags:** Threat-Matrix, Entropy-Catalog, Friction-Indexing, Lethal-Constraint, Survival-Baseline, Ontological-Anti-Fallacy
+
+**['Mycelial Network Weaving'(-ing) BPMS] & ['Absolute Decentralized Topology'(-ing) BPMS]: ['Mycelial Spore-Routing & Acausal Vector-Distribution'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** The "Nervous System" of the Macro Cyber-Physical OS. This executes the total eradication of legacy centralized architectures (GitHub, AWS, DNS). It establishes a massive, serverless Peer-to-Peer (P2P) Gossip Protocol as the primary transport layer. When a Holon extrudes a new `[Affordance_Spore.json]` and its Transducer toolkit, this element fragment-routes the files across a dark-forest network composed exclusively of localized Sovereign Holon Terminal Daemons. It guarantees that users discover, ingest, and broadcast `['Continuous Survive Experiments']` autonomously through topological proximity and acausal resonance, functioning as an unkillable, sovereign network for infinite artifact propagation.
+
+**Tags:** Nervous-System, P2P-Gossip-Protocol, Serverless-Routing, SaaS-Eradication, Mycelial-Distribution, Dark-Forest
+
+**['Kinetic Verification'(-ing) BPMS] & ['Ontological Phylogeny'(-ing) BPMS]: ['The Acausal Ontological Clock & Matrix Tick-Rate'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** The ultimate eradication of legacy centralized chronography. Because the Fun Engine operates on a serverless P2P Mycelial Spore-Routing protocol, AWS or Apple NTP servers are strictly forbidden. This element institutes a self-correcting cryptographic tick-rate generated purely by the ongoing `[Continuous Survive Experiments]`. Time is not measured in seconds, but measured sequentially by the sedimentation of new `[Ecological Possibility]`. As Holons push Zero-Knowledge Proofs through the Kinetic Oracle, these proofs act as the "Pendulum Swings" of the Matrix. This mathematically guarantees that Spore Sequence A occurs before Spore Sequence B system-wide, eradicating chronological paradoxes, double-spends of physical escrow, and offline desynchronization across the Omni-Substrate.
+
+**Tags:** Decentralized-Chronology, Ontological-Clock, Acausal-Sequencing, Matrix-Tick-Rate, Paradox-Eradication, Kinetic-Time
