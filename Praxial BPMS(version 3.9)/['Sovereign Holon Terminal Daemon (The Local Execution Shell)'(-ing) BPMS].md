@@ -8,12 +8,12 @@
 
 - **ID:** `[OMNI-HOLON-DAEMON-CRUCIBLE-V3.9]`
 - **Name:** `['Sovereign Holon Terminal Daemon (The Local Execution Shell)'(-ing) BPMS]`
-- **Origin / Implementer:** `[BPMS 03: Omni-Topology Syntax] ⊗ [BPMS 05: Rigid Spatial Differentiation]`
-- Parent Instance:
+- **Origin / Implementer:** `[BPMS 03: Omni-Topology Syntax] & [BPMS 05: Rigid Spatial Differentiation]`
+- **Parent Instance:**
   - ***[MANDATORY PROMPT]:*** The structural parent is the fusion of Universal Command Parsing (BPMS 03) and Absolute Offline Containment (BPMS 05). This Parent Instance ensures the Daemon is not merely a cloud-synced web-app, but an unapologetic, offline Sovereign Hypervisor. It is the command line of the universe.
-- Objective:
+- **Objective:**
   - ***[MANDATORY PROMPT]:*** The decentralized command-line parser, cryptographic vault, and kinetic sequencer running exclusively on bare-metal user hardware. It is the uncompromising eradication of the "Master Cloud Server." It listens for `[Semantic Intent]`, pulls `[Spores]` from the Void, audits physical hardware, and sequences the user through the `[Adaptive Coupling Metabolism]` phase-by-phase.
-- TDA (Topological Data Archetype):
+- **TDA (Topological Data Archetype):**
   - ***[MANDATORY PROMPT]:*** `[Hyper-Local State-Machine Gateway]` wrapped in an `[Impenetrable Cryptographic Air-Gap]`. It is the geometry of sovereignty.
 - **Type:** `[bare-metal-daemon(-ing) BPMS] / [local-hypervisor(-ing) BPMS]`
 
@@ -171,3 +171,6 @@ omni_local_hypervisor_daemon/
 
 The **`['Sovereign Holon Terminal Daemon (The Local Execution Shell)'(-ing) BPMS]`** is the indispensable localized brain of the Fun Engine Framework. It destroys the Web2 client-server paradigm by forcing all computational parsing, metabolic sequencing, and energetic custody onto the user's localized bare-metal hardware. By fulfilling the mandates of Core Task V3.9, this Daemon ensures that the OS is not something the user "logs into," but rather an impenetrable, sovereign hypervisor that the user "wields"—serving as the absolute interface between human intent and thermodynamic reality.
 
+#### Remark
+
+**BPMS** means Behavior pattern/model/system

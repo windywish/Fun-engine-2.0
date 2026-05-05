@@ -63,7 +63,7 @@ To exist on any `[Substrate(-ing) BPMS]` is to actively evolve through substrate
 
 *(The Runtime of `[Biology(-ing) BPMS]`, `[Ecology(-ing) BPMS]`, `[Physics(-ing) BPMS]`, `[Sustainable(-ing) BPMS]`, `[Adaptive(-ing) BPMS]`, `[Psychology(-ing) BPMS]`, `[Ocean(-ing) BPMS]`)*
 
-The Law:** Survival cannot be "solved," and time cannot be measured by an arbitrary, central clock. Time is the irreversible accumulation of physical entropy. The Matrix establishes chronology through the exhaustion of substrate energy.
+**The Law:** Survival cannot be "solved," and time cannot be measured by an arbitrary, central clock. Time is the irreversible accumulation of physical entropy. The Matrix establishes chronology through the exhaustion of substrate energy.
 
 - **The Competence Upgrade:** We eradicate the cryptographic "Global Ontological Clock" and integrate the **`['Entropic Arrow of Time'(-ing) BPMS]`**. It measures the rhythm of the `['Continuous Paradigm'(-ing) BPMS]` solely by the irreversible decay and transformation of the local medium.
 - **Implementation Mandate:** Time only moves forward when Action occurs. In Biology, it is cellular aging. In Chemistry, it is the transition to a lower energy state. In Sociology, it is the dissipation of cultural orthodoxies. Entities do not wait for a "server tick"; they survive by continuously metabolizing the tension of their native substrate, locked in infinite recursion.
@@ -101,7 +101,7 @@ The Law:** Survival cannot be "solved," and time cannot be measured by an arbitr
 
 *(The Runtime of `[Chemistry(-ing) BPMS]`, `[Economics(-ing) BPMS]`, `[Computing(-ing) BPMS]`, `[Robust(-ing) BPMS]`, `[Constructive(-ing) BPMS]`, `[Nutrition(-ing) BPMS]`)*
 
-The Law:** State cannot change without paying the toll. We abandon the legacy IT concepts of "Daemons" and "Escrow." The universal law is that an entity cannot enact a change in its environment unless the exact threshold of transitional energy is spent and irreversibly consumed.
+**The Law:** State cannot change without paying the toll. We abandon the legacy IT concepts of "Daemons" and "Escrow." The universal law is that an entity cannot enact a change in its environment unless the exact threshold of transitional energy is spent and irreversibly consumed.
 
 - **The Competence Upgrade:** We install **`['Substrate Valency & Activation Energy'(-ing) BPMS]`**. This is the universal physical gatekeeper.
 - **Implementation Mandate:** Nothing is free. In Chemistry, if ambient heat does not meet the activation threshold, the molecular bond will not break. In Silicon, if the Joules are not burned, the Wasm code will not run. In Sociology, if political friction is not expended, the societal structure does not morph. Intelligence, intent, and design must physically submit to the thermodynamic toll of their respective substrate.

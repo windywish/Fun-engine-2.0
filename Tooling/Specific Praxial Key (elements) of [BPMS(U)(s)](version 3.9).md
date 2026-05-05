@@ -918,3 +918,51 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 ***[MANDATORY PROMPT]:*** The decentralized command-line parser, cryptographic vault, and kinetic sequencer running exclusively on bare-metal user hardware. It is the uncompromising eradication of the "Master Cloud Server." This is the localized software engine that the human user commands. It is responsible for listening to Natural Language commands, pulling alien spores from the Void, strictly auditing local hardware capacity against the Transducer Membrane requirements, and acting as the unforgiving drill-sergeant that steps the human user through physical execution. It is the sovereign hypervisor for the individual node, holding all thermodynamic custody totally offline.
 
 **Tags:** Bare-Metal-Daemon, Decentralized-Terminal, CLI-Parser, Local-Hypervisor, SaaS-Eradication, Single-Node-Sovereignty
+
+**['Inter-Substrate Viscosity'(-ing) BPMS] & ['Thermodynamic Escrow'(-ing) BPMS]: ['Cross-Domain Thermodynamic Exchange Rate & Joule Peg'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** The "Bloodstream" of the Macro Cyber-Physical OS. It establishes the universal thermodynamic ontology capable of mapping completely disparate physical substrates (e.g., sociological attention vs. chemical heat yielding) into a unified index. This element calculates the exact "Somatic Caloric Burn" and "Kinetic Threat" overcome by a Holon during a `['Continuous Survive Experiment']` and translates the resulting `[Ecological Possibility]` into a standardized, decentralized, tradable unit known as `[Praxial Joules]`. This allows a nomadic artist in Tokyo executing a flash mob to frictionlessly exchange survival custody with a bio-engineer in Berlin executing a genetic splice, creating a planetary barter ecology utterly devoid of fiat currency or SaaS intermediaries.
+
+**Tags:** Bloodstream, Joule-Peg, Cross-Substrate-Escrow-Converter, Thermodynamic-Barter, Value-Translation, Omni-Substrate-Exchange
+
+**['Absolute Kinetic Verification'(-ing) BPMS] & ['Substrate Auto-Immunity & Phagocytosis'(-ing) BPMS]: ['Zero-Knowledge Proof-of-Survival & Kinetic Oracle'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** The "Immune System" of the Macro Cyber-Physical OS. It is the absolute cryptographic fail-safe against the "Digital Fallacy." It violently prevents a Holon from simply typing `/execute_somatic_phase` and claiming `[Ecological Possibility]` without doing the actual physical labor. By mandating Zero-Knowledge Physical Verification—via integrations with IoT sensors, spectrophotometer logs, ZK-Snarks, cryptographic geofencing, or multi-signature peer attestation—this element blindly audits the Omni-Substrate Transducer Membrane. It mathematically rejects and isolates any Holon attempting to spoof or hallucinate completion, ensuring that only genuine kinetic friction creates verifiable Thermodynamic Escrow.
+
+**Tags:** Immune-System, Kinetic-Oracle, Zero-Knowledge-Proof, Physical-Verification, Anti-Hallucination, Substrate-Phagocytosis
+
+**['The Entropic Solvent'(-ing) BPMS] & ['Autopoietic Death & Re-assimilation'(-ing) BPMS]: ['Entropic Composting & Systemic Fossil-Degradation'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** The "Liver and Kidneys" of the Macro Cyber-Physical OS. It governs automated garbage collection and the ruthless physics of failure. If an ingested `[Affordance_Nucleus.json]` goes un-executed, or a `['Continuous Survive Experiment']` is crushed by the Kinetic Threat Matrix (yielding zero `[Praxial Joules]`), this element triggers autopoietic cellular death. The engine actively dismantles the failed or dead digital blueprints, recycling their semantic atoms, disk space, and trace metadata components back to the Void Topology as raw energy. This entirely prevents matrix bloat and enforces the thermodynamic law that only highly competent, living protocols are permitted to occupy physical/digital space.
+
+**Tags:** Liver-Kidneys, Entropic-Composting, Garbage-Collection, Physics-of-Failure, Resource-Recycling, Omni-Substrate-Apoptosis
+
+**['Mycelial Network Weaving'(-ing) BPMS] & ['Dynamic Contract Forge'(-ing) BPMS]: ['Praxial Symbiotic Cluster Synthesis & Holon-Welding'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** The execution protocol for Macro-Survival. When a `[Kinetic Threat Matrix]` exceeds the thermodynamic capacity or Transducer hardware of a single user Holon, this element activates. It provides the cryptographic and systemic mechanics for 2 to N Sovereign Niches to temporarily merge their Local Terminal Daemons into a distributed "Super-Organism." Through Synchronized Adaptive Coupling, distinct Holons algorithmically bind their outputs into a single, unified `[Affordance Spore]`. Upon successful survival, this element seamlessly executes the fractional distribution of the resulting `[Praxial Joules]`, decoupling the Super-Organism flawlessly back into sovereign individuals without requiring trust or centralized corporate mediation.
+
+**Tags:** Super-Organism-Symbiosis, Holon-Welding, Macro-Survive-Experiment, Distributed-Execution, Trustless-Collaboration, Omni-Substrate-Mesh
+
+**['Kinetic Threat Matrix'(-ing) BPMS] & ['Life-Autopoietic-Amplification'(-ing) BPMS]: ['The Red Queen Thermodynamic Escalator & Niche-Disruption'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** The systemic enforcement of infinite autopoiesis. If a Holon establishes a Sovereign Niche so competent that it begins harvesting `[Praxial Joules]` with zero effort or friction, the ecosystem dies from stagnation. This element serves as the automated ecosystem-wide predator. It mathematically monitors the efficiency of all sedimented protocols. Once a specific niche drops below a designated "Somatic Burn Threshold," the OS algorithmically injects artificial turbulence—escalating the severity, complexity, or volume of the `[Kinetic Threat Matrix]` associated with that sector. Holons are forced to abandon their comfortable efficiency, mutate their Transducer logic, execute new survival sequences, and evolve, or they will succumb to the rising entropy.
+
+**Tags:** Red-Queen-Escalator, Niche-Disruption, Forced-Autopoiesis, Thermodynamic-Agitation, Evolutionary-Mandate
+
+**['The Joule Peg'(-ing) BPMS] & [Phagocytosis(-ing) BPMS]: ['The Thermodynamic Guillotine & Substrate Auto-Immunity'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** The absolute, decentralized execution of Systemic Justice. This element acts as the Apex Auto-Immune Response against Cyber-Physical cancer. If a Holon or specific Spore protocol becomes structurally parasitic—extracting vast amounts of `[Praxial Joules]` from the Omni-Substrate while generating zero net `[Ecological Possibility]`, thereby suffocating the survival capacity of surrounding Holons—the Guillotine activates. Without the need for voting or human consensus, this algorithmic fail-safe mathematically detects the zero-sum extraction. It instantly severs the parasite from the P2P Mycelial Spore-Routing network and blacklists its Output Transducers at the Joule Peg. The parasitic Holon is permanently isolated in the void to starve, mathematically defending the thermodynamic gradient of the macro-ecology.
+
+**Tags:** Thermodynamic-Guillotine, Substrate-Auto-Immunity, Parasite-Amputation, Zero-Sum-Eradication, Apex-Governance, Acausal-Justice
