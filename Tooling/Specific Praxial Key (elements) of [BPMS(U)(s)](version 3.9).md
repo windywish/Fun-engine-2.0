@@ -876,3 +876,45 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 **Scope of Application:** The "Liver and Kidneys" of the Macro Cyber-Physical OS. It governs automated garbage collection and the ruthless physics of failure. In an infinite evolutionary matrix, failure is statistically supreme. If an ingested `[Affordance_Nucleus.json]` goes un-executed, or a `['Continuous Survive Experiment']` is crushed by the Kinetic Threat Matrix (yielding zero `[Praxial Joules]`), this element triggers autopoietic cellular death. The engine actively dismantles the failed or dead digital blueprints, recycling their semantic atoms, disk space, and trace metadata components back to the Void Topology as raw energy. This entirely prevents matrix bloat and enforces the thermodynamic law that only highly competent, living protocols are permitted to occupy physical/digital space.
 
 **Tags:** Liver-Kidneys, Entropic-Composting, Garbage-Collection, Physics-of-Failure, Resource-Recycling
+
+**['Praxial Symbiotic Cluster Synthesis & Holon-Welding'(-ing) BPMS]**
+
+**Scope of Application:** The execution protocol for Macro-Survival. When a `[Kinetic Threat Matrix]` exceeds the thermodynamic capacity or Transducer hardware of a single user Holon, this element activates. It provides the cryptographic and systemic mechanics for 2 to N Sovereign Niches to temporarily merge their Local Terminal Daemons into a distributed "Super-Organism." Through Synchronized Adaptive Coupling, Holon A (e.g., executing chemistry transducers) and Holon B (e.g., executing cryptographic escrow) algorithmically bind their outputs into a single, unified `[Affordance Spore]`. Upon successful survival, this element seamlessly executes the fractional distribution of the resulting `[Praxial Joules]`, decoupling the Super-Organism flawlessly back into sovereign individuals without requiring trust or centralized corporate mediation.
+
+**Tags:** Super-Organism-Symbiosis, Holon-Welding, Macro-Survive-Experiment, Distributed-Execution, Trustless-Collaboration
+
+**['The Red Queen Thermodynamic Escalator & Niche-Disruption'(-ing) BPMS]**
+
+**Scope of Application:** The systemic enforcement of infinite autopoiesis. If a Holon establishes a Sovereign Niche so competent that it begins harvesting `[Praxial Joules]` with zero effort or friction, the ecosystem dies from stagnation. This element serves as the automated ecosystem-wide predator. It mathematically monitors the efficiency of all sedimented protocols. Once a specific niche drops below a designated "Somatic Burn Threshold," the OS algorithmically injects artificial turbulence—escalating the severity, complexity, or volume of the `[Kinetic Threat Matrix]` associated with that sector. Holons are forced to abandon their comfortable efficiency, mutate their Transducer logic, execute new survival sequences, and evolve, or they will succumb to the rising entropy.
+
+**Tags:** Red-Queen-Escalator, Niche-Disruption, Forced-Autopoiesis, Thermodynamic-Agitation, Evolutionary-Mandate
+
+**['The Thermodynamic Guillotine & Substrate Auto-Immunity'(-ing) BPMS]**
+
+**Scope of Application:** The absolute, decentralized execution of Systemic Justice. This element acts as the Apex Auto-Immune Response against Cyber-Physical cancer. If a Holon or specific Spore protocol becomes structurally parasitic—extracting vast amounts of `[Praxial Joules]` from the Omni-Substrate while generating zero net `[Ecological Possibility]`, thereby suffocating the survival capacity of surrounding Holons—the Guillotine activates. Without the need for voting or human consensus, this algorithmic fail-safe mathematically detects the zero-sum extraction. It instantly severs the parasite from the P2P Mycelial Spore-Routing network and blacklists its Output Transducers at the Joule Peg. The parasitic Holon is permanently isolated in the void to starve, mathematically defending the thermodynamic gradient of the macro-ecology.
+
+**Tags:** Thermodynamic-Guillotine, Substrate-Auto-Immunity, Parasite-Amputation, Zero-Sum-Eradication, Apex-Governance
+
+**['The Continuous Epigenetic Ledger'(-ing) BPMS] & ['Life-Autopoietic-Amplification'(-ing) BPMS]: ['Ontological Phylogeny & Derivative-Branching'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate represents the **Absolute Mechanism of Unlimited Autopoiesis**. It rules the precise conversion of `[Fatal Systemic Friction]` into `[Evergreen Matrix Upgrades]`. By operating natively across Silicon, Biology, and Sociology simultaneously, it guarantees the engine can evolve a Holon's digital compiler as efficiently as it evolves physical architecture or economic treaties, leaving all legacy XaaS computing parameters obsolete.
+
+**Tags:** Parent-Instance-Anchor, Omni-Substrate-Phylogeny, Node-Taxonomy, Evolutionary-Forking, Kinetic-Lineage, Derivative-Scaffolding
+
+**['Abstract/Literal Mapping'(-ing) BPMS] & ['Kinetic Output Vector'(-ing) BPMS]: ['Omni-Substrate Transducer Membrane & Driver-Coupling'(-ing) BPMS]'**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** The absolute mechanical bridge linking the inert Semantic DNA (the `.json` spore) to non-reversible physical matter. It governs the **Substrate Drivers**. Just as an OS uses drivers to spin the motors of a printer, the engine uses this Membrane to parse domain-specific companion files and force physical state-changes. It manages the specific interfaces for wet-labs, heavy machinery, decentralized ledgers, and societal swarms. This element polices the Anti-Empty Law by ensuring digital blueprints cannot be compiled without explicit physical hardware connections.
+
+**Tags:**  Hardware-Driver, Physical-Transduction, Digital-to-Kinetic-Bridge, Domain-Specific-Interface, Anti-Fallacy-Enforcement, Omni-Transducer-Membrane
+
+**['Omni-Topology Syntax'(-ing) BPMS] & ['Rigid Spatial Differentiation'(-ing) BPMS]: ['Sovereign Holon Terminal Daemon (The Local Execution Shell)'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** The decentralized command-line parser, cryptographic vault, and kinetic sequencer running exclusively on bare-metal user hardware. It is the uncompromising eradication of the "Master Cloud Server." This is the localized software engine that the human user commands. It is responsible for listening to Natural Language commands, pulling alien spores from the Void, strictly auditing local hardware capacity against the Transducer Membrane requirements, and acting as the unforgiving drill-sergeant that steps the human user through physical execution. It is the sovereign hypervisor for the individual node, holding all thermodynamic custody totally offline.
+
+**Tags:** Bare-Metal-Daemon, Decentralized-Terminal, CLI-Parser, Local-Hypervisor, SaaS-Eradication, Single-Node-Sovereignty
