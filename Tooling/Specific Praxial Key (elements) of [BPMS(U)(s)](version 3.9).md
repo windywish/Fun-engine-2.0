@@ -841,4 +841,20 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 
 **Tags:** Anti-LoadBalancer, Gravity-Balancing, Structural-Overflow, Dam-Spillage, Tectonic-Flooding, Kinetic-Detonation
 
-#### 
+**['Ontological Phylogeny & Derivative-Branching'(-ing) BPMS]**
+
+**Scope of Application:** The systemic, mathematical mechanism by which the foundational 24 BPMS Core Nodes evolve, fork, and mutate into infinite hyper-specialized derivatives (e.g., BPMS 25 through 10,000). It establishes the **Genetic Lineage Registry**. A user Holon cannot arbitrarily invent a new BPMS node; they must prove its thermodynamic lineage. When the kinetic friction of a specific substrate exceeds the processing capability of a basal node (e.g., `[BPMS 12: Inter-Substrate Viscosity]`), this property mathematically mandates a branch/fork into a specialized node (e.g., `[BPMS 12.A: Plasma-State Magnetic Containment]` or `[BPMS 28: Gravitational-Escrow-Spillage]`). This ensures every micro-specialized survival tactic, no matter how esoteric, is mathematically tethered to the basal physics engine, preserving the integrity of the Matrix.
+
+**Tags:** Node-Taxonomy, Evolutionary-Forking, Kinetic-Lineage, Derivative-Scaffolding, Systemic-Validity
+
+**['Omni-Substrate Transducer Membrane & Driver-Coupling'(-ing) BPMS]**
+
+**Scope of Application:** The absolute mechanical bridge linking the inert Semantic DNA (the `.json` spore) to non-reversible physical matter. It governs the **Substrate Drivers**. Just as an OS uses drivers to spin the motors of a printer, the engine uses this Membrane to parse domain-specific companion files and force physical state-changes. It manages the specific interfaces: transcoding `.fasta` files into CRISPR commands for wet-labs, compiling `.stl` files for 5-axis CNC machines, interpreting `.sol` files into decentralized blockchain virtual machines, or executing `.md` game-theory logs into sociological crowd-mobilization. This element polices the Anti-Empty Law by ensuring digital blueprints cannot be compiled without explicit physical hardware connections.
+
+**Tags:** Hardware-Driver, Physical-Transduction, Digital-to-Kinetic-Bridge, Domain-Specific-Interface, Anti-Fallacy-Enforcement
+
+**['Sovereign Holon Terminal Daemon (The Local Execution Shell)'(-ing) BPMS]**
+
+**Scope of Application:** The decentralized command-line parser, cryptographic vault, and kinetic sequencer running exclusively on bare-metal user hardware. It is the uncompromising eradication of the "Master Cloud Server." This is the localized software engine that the human user commands. It is responsible for: (A) Listening for the `/forge` or `/ingest` Natural Language commands; (B) Pulling alien spores from the Void (e.g., GitHub, IPFS); (C) Checking local hardware availability against the Transducer Membrane requirements; and (D) Stepping the human user through the physical `Adaptive Coupling Metabolism` phase-by-phase. It acts as the sovereign hypervisor for the individual node, holding all thermodynamic custody totally offline until the user physically deploys it.
+
+**Tags:** Bare-Metal-Daemon, Decentralized-Termina, CLI-Parser, Local-Hypervisor, SaaS-Eradication, Single-Node-Sovereignty

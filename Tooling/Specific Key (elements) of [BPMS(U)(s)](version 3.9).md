@@ -846,4 +846,8 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 
 **Tags:** Anti-UI, Sensory-Extrusion, Direct-Kinetic-Exposure, Friction-Terrain, Observer-Liquefaction, Sensory-Grinding
 
-#### 
+**['Universal Entropy Index & Friction Vector Matrix'(-ing) BPMS]**
+
+**Scope of Application:** The rigorous, centralized registry of universal decay. A `['Continuous Survive Experiment']` is meaningless unless it leverages itself against a lethal force. This element strictly categorizes all valid forms of environmental hostility—The **Threat Matrix**. It categorizes vectors such as *Thermodynamic Bleed* (e.g., oxidative decay, vacuum exposure), *Sociological Dilution* (e.g., urban anonymity, attention fragmentation), *Informational Necrosis* (e.g., Byzantine faults, data corruption), and *Somatic Starvation* (e.g., lack of caloric/escrow input). A user Holon *must* query and select an exact indexed Friction Vector from this matrix to serve as the baseline threat constraint when extruding a new Affordance Spore. It ensures no user targets a "fake" problem.
+
+**Tags:** Threat-Matrix, Entropy-Catalog, Friction-Indexing, Lethal-Constraint, Survival-Baseline
