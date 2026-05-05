@@ -858,3 +858,21 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 **Scope of Application:** The decentralized command-line parser, cryptographic vault, and kinetic sequencer running exclusively on bare-metal user hardware. It is the uncompromising eradication of the "Master Cloud Server." This is the localized software engine that the human user commands. It is responsible for: (A) Listening for the `/forge` or `/ingest` Natural Language commands; (B) Pulling alien spores from the Void (e.g., GitHub, IPFS); (C) Checking local hardware availability against the Transducer Membrane requirements; and (D) Stepping the human user through the physical `Adaptive Coupling Metabolism` phase-by-phase. It acts as the sovereign hypervisor for the individual node, holding all thermodynamic custody totally offline until the user physically deploys it.
 
 **Tags:** Bare-Metal-Daemon, Decentralized-Termina, CLI-Parser, Local-Hypervisor, SaaS-Eradication, Single-Node-Sovereignty
+
+**['Cross-Domain Thermodynamic Exchange Rate & Joule Peg'(-ing) BPMS]**
+
+**Scope of Application:** The "Bloodstream" of the Macro Cyber-Physical OS. It establishes the universal thermodynamic ontology capable of mapping completely disparate physical substrates (e.g., sociological attention vs. chemical heat yielding) into a unified index. This element calculates the exact "Somatic Caloric Burn" and "Kinetic Threat" overcome by a Holon during a `['Continuous Survive Experiment']` and translates the resulting `[Ecological Possibility]` into a standardized, decentralized, tradable unit known as `[Praxial Joules]`. This allows a nomadic artist in Tokyo (executing an urban flash mob) to frictionlessly exchange survival custody with a bio-engineer in Berlin (executing a genetic splice), creating a planetary barter ecology utterly devoid of fiat currency or SaaS intermediaries.
+
+**Tags:** Bloodstream, Joule-Peg, Cross-Substrate-Escrow-Converter, Thermodynamic-Barter, Value-Translation
+
+**['Zero-Knowledge Proof-of-Survival & Kinetic Oracle'(-ing) BPMS]**
+
+**Scope of Application:** The "Immune System" of the Macro Cyber-Physical OS. It is the absolute cryptographic fail-safe against the "Digital Fallacy." It violently prevents a Holon from simply typing `/execute_somatic_phase` and claiming `[Ecological Possibility]` without doing the actual physical labor. By mandating Zero-Knowledge Physical Verification—via integrations with IoT sensors, spectrophotometer logs, ZK-Snarks, cryptographic geofencing, or multi-signature peer attestation—this element blindly audits the Omni-Substrate Transducer Membrane. It mathematically rejects and isolates any Holon attempting to spoof or hallucinate completion, ensuring that only genuine kinetic friction creates verifiable Thermodynamic Escrow.
+
+**Tags:** Immune-System, Kinetic-Oracle, Zero-Knowledge-Proof, Physical-Verification, Anti-Hallucination
+
+**['Entropic Composting & Systemic Fossil-Degradation'(-ing) BPMS]**
+
+**Scope of Application:** The "Liver and Kidneys" of the Macro Cyber-Physical OS. It governs automated garbage collection and the ruthless physics of failure. In an infinite evolutionary matrix, failure is statistically supreme. If an ingested `[Affordance_Nucleus.json]` goes un-executed, or a `['Continuous Survive Experiment']` is crushed by the Kinetic Threat Matrix (yielding zero `[Praxial Joules]`), this element triggers autopoietic cellular death. The engine actively dismantles the failed or dead digital blueprints, recycling their semantic atoms, disk space, and trace metadata components back to the Void Topology as raw energy. This entirely prevents matrix bloat and enforces the thermodynamic law that only highly competent, living protocols are permitted to occupy physical/digital space.
+
+**Tags:** Liver-Kidneys, Entropic-Composting, Garbage-Collection, Physics-of-Failure, Resource-Recycling
