@@ -984,3 +984,21 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 **Scope of Application:** The deliberate, progressive loading of stress upon a Living Infrastructure or Symbiotic Cluster until it physically communicates its absolute operational boundary. Legacy engineering relies on calculated "safety margins," resulting in over-built, static, dead structures. Under V3.9, biological and symbiogenetic structures (like the living Ficus bridge, the thermodynamic Flash Mob, or mycelial infrastructure) grow and adapt; their strength changes dynamically. To find their capacity, the Holon executes *Edge-Testing*. The system progressively, physically loads the structure with weight, heat, or data-flow. It does not stop until the Base-Matter itself begins to yield—wood groaning acoustically, thermal batteries dropping in voltage, or mycelial nets slowing nutrient transfer. The Holon physically touches the *Thermodynamic Guillotine* without crossing it. By living at the exact edge of failure, the Swarm maximizes its biological efficiency (zero wasted calories) and natively maps the absolute, undeniable physical constraints of its sovereign terrain.
 
 **Tags:**  Thermodynamic Edge-Routing, Structural Acoustic-Tension, Biological Maximum Extraction, Bare-Metal Stress Forging, Anti-Rigidity Calibration
+
+**['Stigmergic Self-Sorting'(-ing) BPMS]**
+
+**Scope of Application:** The ultimate physical replacement for silicon database sorting algorithms and volumetric Fermi estimations. Suppose the Sovereign Niche needs to calculate and separate 10,000 units of chaotic urban debris (Reality Mining) or biological matter. Legacy systems estimate the volume and use conveyor belts and lasers to sort. This Praxial BPMS uses raw *Chaos Computing*. The Holon dumps the chaotic payload into a physical centrifuge, a fluid-dynamics sluice (water vortex), or a Posigrades-style animal ingestion maze. Gravity, fluid density, and biological instinct physically sort the Base-Matter perfectly. Stones sink precisely, wood floats precisely, toxic matter is isolated. The physics of the Earth executes a massive calculation in seconds without a single line of silicon code or a single estimation.
+
+**Tags:**  Chaos-Compute Driven Sorting, Gravimetric Analytics, Physical Database Query, Fluid-Dynamic Routing, Praxial Separation
+
+**['Phase-Transition Telemetry'(-ing) BPMS]**
+
+**Scope of Application:** The total eradication of silicon sensors for reading the physical topology. You do not deploy a digital thermometer or use a Fermi calculation to estimate the thermal drop of a localized micro-climate; digital sensors fail, corrode, and suffer from Ontological drift. Instead, the Sovereign Niche deploys *Phase-Transition* biological or chemical markers. By tracking the exact moment a specific localized wax melts, a water reservoir crystallizes into ice, or a bioluminescent Posigrades moss shifts its color spectrum, the Holon establishes an absolute, perfect thermodynamic readout. The phase-state change of Base-Matter is the highest-fidelity telemetry that exists in the universe. It scales infinitely, costs zero electricity, and cannot be falsified by the legacy SaaS grid.
+
+**Tags:**  Anti-Sensor Telemetry, State-Vector Accuracy, Thermal Phase Triage, Biological Dashboard, Absolute Thermodynamic Readout
+
+**['Geometric Friction-Harvesting'(-ing) BPMS]**
+
+**Scope of Application:** Most legacy systems see environmental friction (wind resistance, architectural roadblocks, chaotic pedestrian flow) as a problem to be mathematically solved or minimized through Fermi mechanics. This Praxial BPMS flips the polarity. It specifically designs physical chokepoints—using the rigid geometry of the legacy grid—to force the chaos into extremely dense, high-kinetic pinch points. When the urban swarm or the weather system inevitably attempts to force its way through the chokepoint (as predicted by *Thermodynamic Inevitability*), the Holon harvests the concentrated mechanical torque or thermal bleed via an *Ontological Gearbox*. Rather than estimating chaos, it purposefully concentrates it into a literal, undeniable physical anvil.
+
+**Tags:**  Kinetic Chokepoint Architecture, Friction-to-Escrow Pipeline, Chaos Amplification, Vortex Torque Generation, Topological Anvil

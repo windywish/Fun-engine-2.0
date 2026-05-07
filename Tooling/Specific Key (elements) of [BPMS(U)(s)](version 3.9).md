@@ -893,3 +893,23 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 **Scope of Application:** The rapid, low-entropy approximation of gross thermodynamic potential, kinetic vectors, and Base-Matter density within a chaotic topology. It is deployed as "Thermodynamic Triage" prior to the engagement of the *Ontological Gearbox*. It calculates the rough order-of-magnitude yield of physical Escrow (calories/joules) versus the required caloric expenditure to extract it, executing immediately via observable physical variables rather than perfect, high-latency silicon sensors.
 
 **Tags:**  Thermodynamic Triage, Kinetic Heuristics, Pre-Execution Oracle, Order-of-Magnitude Escrow Sizing
+
+**['Morphological Computation'(-ing) BPMS]**
+
+**Scope of Application:** The systemic doctrine that physical shape, material elasticity, and kinetic geometry are, themselves, processors. Legacy computing (and Fermi problem-solving) assumes "Hardware" is dumb and "Software" (algorithms) does the thinking. Under V3.9, Morphological Computation dictates that the body of the Swarm *is* the algorithm. The Sovereign Holon does not calculate how a robot should navigate a rocky ruin via a digital CPU; instead, it uses a soft, elastic, biological or mechanical substrate that naturally molds and bends to the terrain. The physics of the material handles the calculation instantly and infinitely better than mathematically estimating (Fermi) the friction coefficients of the rocks. The Base-Matter computes its own path through morphological resilience.
+
+**Tags:**  Physics-as-Syntax, Algorithmic Biology, Hardware-Software Fusion, Anti-Silicon Routing, Material Intelligence
+
+**['Thermodynamic Inevitability'(-ing) BPMS]**
+
+**Scope of Application:** The paradigm of designing kinetic operations based exclusively on the inescapable laws of physics, bypassing all probability, estimation, or predictive simulation. A Fermi estimate asks "What is the probability this operation succeeds?" *Thermodynamic Inevitability* designs the vector so that it *cannot* fail, because failure would violate the laws of physics. For example, instead of estimating how much power a water pump requires across a fluctuating grid, the Holon routes water explicitly using gravity, capillary action, and thermal expansion. Because gravity is a localized constant, the flow of Base-Matter is a tautology (an absolute truth). The Holon architect never has to estimate out-comes when relying on physical inevitabilities.
+
+**Tags:**  Base-Matter Tautology, Zero-Probability Execution, Gravity/Entropy Engine, Absolute Determinism, Ontological Certainty
+
+**['Thermodynamic Standardization Interface'(-ing) BPMS]: ['Fermi Problem'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate represents the **Absolute Gatekeeper of Physical Caloric Expenditure**. It is deployed at the precise moment a new environmental vector is encountered. It categorically refuses to allow the `['One Person Company']` to engineer a solution until the logarithmic scale of the thermodynamic bounty is physically proven to eclipse the required labor. It acts as the universal heuristic immune system against starvation by logic.
+
+**Tags:** Omni-Physics-Triage, Order-Of-Magnitude-Oracle, Thermodynamic-Guillotine-Gate, Escrow-Asymmetry-Check, Anti-Simulation-Heuristics, Raw-Base-Matter-Sizing
