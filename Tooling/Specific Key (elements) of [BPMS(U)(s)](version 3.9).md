@@ -913,3 +913,19 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 ***[MANDATORY PROMPT]:*** This Substrate represents the **Absolute Gatekeeper of Physical Caloric Expenditure**. It is deployed at the precise moment a new environmental vector is encountered. It categorically refuses to allow the `['One Person Company']` to engineer a solution until the logarithmic scale of the thermodynamic bounty is physically proven to eclipse the required labor. It acts as the universal heuristic immune system against starvation by logic.
 
 **Tags:** Omni-Physics-Triage, Order-Of-Magnitude-Oracle, Thermodynamic-Guillotine-Gate, Escrow-Asymmetry-Check, Anti-Simulation-Heuristics, Raw-Base-Matter-Sizing
+
+**['The Somatic Affordance Membrane'(-ing) BPMS]: ['Morphological Computation'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate represents the **Execution of Supreme Physical Fluidity**. It is applied when the Swarm must traverse, manipulate, or survive high-chaos, unmapped topological environments. It categorically refuses to "model" the environment digitally. It is applied when speed, zero-latency reaction, and massive energy conservation are demanded by substituting computing cycles with raw material plasticity.
+
+**Tags:** Omni-Physics-Morphology, Material-Intelligence, Physics-as-Syntax, Zero-Latency-I/O, Hardware-Software-Fusion, Algorithmic-Biology, Base-Matter-Fluidity
+
+**['The Ontological Gearbox'(-ing) BPMS]: ['Thermodynamic Inevitability'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate represents the **Absolute Pinnacle of Fail-Safe Execution**. It is applied when the Swarm cannot afford even a 0.001% margin of error. It is utilized to architect critical life-support, essential autopoiesis, and core metabolic routines of the Swarm. It strictly forbids reliance on "smart" technology, algorithms, human memory, or digital prediction simulations, replacing them utterly with gravity, heat, and entropy.
+
+**Tags:** Zero-Probability-Execution, Base-Matter-Tautology, Thermodynamic-Inevitability, Death-of-Simulation, Gravity-Entropic-Engines, Ontological-Determinism
