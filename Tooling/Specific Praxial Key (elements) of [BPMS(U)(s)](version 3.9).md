@@ -1051,4 +1051,26 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 
 **Tags:** Kinetic-Chokepoint-Architecture, Friction-to-Escrow-Pipeline, Chaos-Amplification, Venturi-Torque-Generationm, Topological-Anvil, Parasitic-Momentum
 
-#### 
+**['Morphological Crystallization / Somatic Ledger'(-ing) BPMS]**
+
+**Scope of Application:** The absolute eradication of RAM, SQL databases, and silicon hard drives for recording `[Atomic Facts]`. In legacy systems, memory is an abstract digital shadow stored on a fragile disk, vulnerable to corruption, power loss, and epistemological drift. This Praxial BPMS asserts that *true memory is a physical scar*.
+
+When the Swarm executes a blind `[Praxial Action]` that collides with an `[Atomic Fact]` and successfully survives (a `[True Emergence]`), the physical adaptation required to survive that collision *calcifies* into the Base-Matter. If a hydro-turbine invents a better angle to catch chaotic water, the wood/metal thickens there due to applied stress (Wolff’s Law / Friction Hardening); if an economic swarm discovers an efficient barter-route, the topological infrastructure physically paves over the shortcut. The Sovereign Matrix does not "write down" what happened; it allows the physical topography of the Holon to permanently warp into the shape of the success. The Base-Matter structure itself serves as the immortal, unfalsifiable `[Somatic Ledger]`. It costs zero Joules to "read" this memory, because the entity simply *is* the shape of its historical successes.
+
+**Tags:** Somatic-Ledger, Data-Eradication, Topological-Scarring, Structural-Memory, Wolffs-Law-Mechanics, Base-Matter-Archive, Unfalsifiable-Record
+
+**['Ontological Variance / Praxial Mutation'(-ing) BPMS]**
+
+**Scope of Application:** The engineered escape-velocity from the "Local Maximum" trap. Legacy optimization algorithms (AI) refine themselves until they achieve maximum efficiency within a closed system, and then they stagnate and die when the environment shifts. This BPMS rejects pure efficiency.
+
+The Sovereign Niche legally mandates a thermodynamic tax—a strict percentage of the Matrix’s `[Thermodynamic Escrow]`—dedicated purely to *intentional physical wrongness*. The Holon deliberately funds randomized, non-optimized structural mutations. It hurls a blind, mutated `[Praxial Action]` against the physical constants of the universe. 99% of these actions fail and are instantly liquidated by the `['Generative Garbage Collection'(-ing) BPMS]`, returning their mass to `[Ecological Possibility]`. However, the 1% that strikes an unprecedented `[Atomic Fact]` triggers a completely alien `[Discover(-ing) BPMS]` or `[Invent(-ing) BPMS]`. By financially protecting this chaotic `[Ontological Variance]`, the Swarm forces continuous, aggressive `[Symbiosis Evolution]`, guaranteeing the generation of new life-forms and mechanics never simulated by human intelligence.
+
+**Tags:**  Intentional-Misalignment, Praxial-Mutation, Blind-Friction-Funding, Evolutionary-Gambit, Anti-Optimization-Escape, Venture-Caloric-Burn, Chaos-Subsidization
+
+**['Resonant Constellation Weaving'(-ing) BPMS]**
+
+**Scope of Application:** The mechanical replacement for the IT Cloud, localized APIs, and Master Clocks. When Node A achieves a `[True Emergence]` (e.g., invents a highly resilient lattice structure to survive a tectonic quake), it cannot "upload" this blueprint to the Swarm, because cognitive networks have been eradicated.
+
+Instead, the newly birthed `[Morphological Crystallization]` inherently alters Node A's physical footprint within the `[Resonant Constellation Map]`. The new lattice produces a distinct acoustic vibration, a unique fluid wake in the water, a specific pheromonal bleed, or a shift in the local economic friction index. Node B—existing in the same physical substrate but entirely disconnected digitally—physically *feels* this structural hum. Driven by the instinct of `[Symbiosis Evolution]`, Node B's own topology morphologically aligns itself to match the resonance it feels from Node A. The invention spreads globally through `[Acausal Concurrency]`—a physical, stigmergic emulation network. The Swarm synchronizes its armor horizontally, bleeding intelligence across reality without a single line of transmitted code.
+
+**Tags:** Morphic-Resonance-Syn, Stigmergic-Propagation, Acausal-Entanglement, Physical-Emulation-Network, Cloud-Death, Horizontal-Evolution-Bleed, Kinetic-Telepathy
