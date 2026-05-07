@@ -1002,3 +1002,53 @@ To achieve standard Universality-Class compliance, the Rooting structurally bind
 **Scope of Application:** Most legacy systems see environmental friction (wind resistance, architectural roadblocks, chaotic pedestrian flow) as a problem to be mathematically solved or minimized through Fermi mechanics. This Praxial BPMS flips the polarity. It specifically designs physical chokepoints—using the rigid geometry of the legacy grid—to force the chaos into extremely dense, high-kinetic pinch points. When the urban swarm or the weather system inevitably attempts to force its way through the chokepoint (as predicted by *Thermodynamic Inevitability*), the Holon harvests the concentrated mechanical torque or thermal bleed via an *Ontological Gearbox*. Rather than estimating chaos, it purposefully concentrates it into a literal, undeniable physical anvil.
 
 **Tags:**  Kinetic Chokepoint Architecture, Friction-to-Escrow Pipeline, Chaos Amplification, Vortex Torque Generation, Topological Anvil
+
+**['The End of "Input/Output" & Reality Mining'(-ing) BPMS]: ['Sacrificial Kinetic-Calibration'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate represents the **Pre-Eminent Safety Protocol for Chaos Traversal**. It is utilized whenever the Swarm encounters an unknown, hostile, or totally unmapped topological architecture. It categorically forbids the use of predictive simulation or mathematical estimation for survival-critical maneuvers, instead paying a tiny fraction of its Base-Matter volume to let reality expose its own traps through physical destruction.
+
+**Tags:** Sacrificial-Kinetic-Calibration, Anti-Simulation-Oracle, Thermodynamic-Lethality-Check, Pre-Kinetic-Vanguard, Base-Matter-Sacrifice, Absolute-Friction-Mapping
+
+**['The End of "Input/Output" & Reality Mining'(-ing) BPMS]: ['Brownian Perturbation & Recoil'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate represents the **Active Probing of Living Logic**. It is utilized exclusively when the Substrate is attempting to parasitize, merge with, or navigate highly complex, living, non-linear environments (Cities, Economics, Biological systems). Because these structures are too complex to estimate via `Fermi`, and too valuable to destroy via `Sacrificial Calibration`, they must be *Perturbed*. It forces the living ecosystem to reveal its secret processing power.
+
+**Tags:** Swarm-Elasticity-Measurement, Stigmergic-Recoil-Mapping, Chaos-Computing-Engine, Algorithmic-Biology, Active-Sonar-Ethics, Dynamic-Vector-Feedback
+
+**['The Thermodynamic Guillotine & Metabolism'(-ing) BPMS]: ['Autopoietic Edge-Testing'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate represents the **Calibration of Sovereign Infrastructure**. It is utilized on internal Swarm architecture, symbiotic biological bridges, self-healing matrices, and closed-loop economic networks. It is deployed to squeeze the absolute maximum thermodynamic utility out of existing Base-Matter. It forces living systems to evolve and harden by introducing them to their own mortality, halting just before the blade falls.
+
+**Tags:** Thermodynamic-Edge-Routing, Structural-Acoustic-Tension, Biological-Maximum-Extraction, Bare-Metal-Stress-Forging, Anti-Rigidity-Calibration, Wolffs-Law-Mechanics
+
+**['The End of "Input/Output" & Reality Mining'(-ing) BPMS]: ['Stigmergic Self-Sorting'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate represents the **Base-Matter Resolution of Maximum Entropy**. It is utilized exclusively when the matrix confronts chaotic, mixed, unformatted reality (mixed debris, chemical soups, chaotic human crowds). It is strictly deployed to avoid algorithmic analysis of mass. If an engineer suggests scanning a pile to sort it, the Swarm rejects the blueprint and demands the pile be drowned, spun, or dropped.
+
+**Tags:**  Chaos-Compute-Sorting, Gravimetric-Analytics, Physical-Database-Query, Fluid-Dynamic-Routing, Praxial-Separation, Algorithmic-Buoyancy
+
+**['Blind Ontology (The Death of the UI)'(-ing) BPMS]: ['Phase-Transition Telemetry'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate represents the **Absolute Baseline of Environmental Sensation**. It is deployed anywhere the Matrix requires permanent, un-hackable, zero-maintenance telemetry. It is utilized to rid the Holon of dependency on silicon supply chains and fragile electrical grids. If an operator wants to know a metric, they must engineer a physical material that *reacts* natively to that metric.
+
+**Tags:** Anti-Sensor-Telemetry, State-Vector-Accuracy, Thermal-Phase-Triage, Biological-Dashboard, Absolute-Thermodynamic-Readout, Zero-Compute-Sensation
+
+**['The Thermodynamic Escrow & Metabolism'(-ing) BPMS]: ['Geometric Friction-Harvesting'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate represents the **Predatory Monetization of Friction**. It is deployed into highly volatile, high-kinetic-weather environments (city centers, rapid fluid streams, highly volatile economic markets). The Swarm utilizes this when it needs to replenish its Thermodynamic Escrow completely independently of the traditional power grid or legacy supply chains. It does not fight the storm; it builds a funnel and drinks it.
+
+**Tags:** Kinetic-Chokepoint-Architecture, Friction-to-Escrow-Pipeline, Chaos-Amplification, Venturi-Torque-Generationm, Topological-Anvil, Parasitic-Momentum
+
+#### 
