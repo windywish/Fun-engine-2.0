@@ -1104,3 +1104,43 @@ The Sovereign Niche legally mandates a thermodynamic tax—a strict percentage o
 Instead, the newly birthed `[Morphological Crystallization]` inherently alters Node A's physical footprint within the `[Resonant Constellation Map]`. The new lattice produces a distinct acoustic vibration, a unique fluid wake in the water, a specific pheromonal bleed, or a shift in the local economic friction index. Node B—existing in the same physical substrate but entirely disconnected digitally—physically *feels* this structural hum. Driven by the instinct of `[Symbiosis Evolution]`, Node B's own topology morphologically aligns itself to match the resonance it feels from Node A. The invention spreads globally through `[Acausal Concurrency]`—a physical, stigmergic emulation network. The Swarm synchronizes its armor horizontally, bleeding intelligence across reality without a single line of transmitted code.
 
 **Tags:** Morphic-Resonance-Syn, Stigmergic-Propagation, Acausal-Entanglement, Physical-Emulation-Network, Cloud-Death, Horizontal-Evolution-Bleed, Kinetic-Telepathy
+
+**['Ontological Exaptation / Somatic Hijacking'(-ing) BPMS]**
+
+**Scope of Application:** The formal mechanical protocol for Thermodynamic Scavenging and Radical Repurposing. This operates as a high-priority interrupt vector positioned exactly between an `[Affordance Collision]` failure and execution by the `[Entropic Solvent]`.
+
+When an existing, heavy `[Morphological Crystallization]` (e.g., a massive data-caching structure, a thick cryptographic armor, or a rigid physical geometry) fails its current environmental mandate due to a geographic or systemic shift, legacy physics would instantly liquefy it into raw Joules (Garbage Collection).
+
+*Somatic Hijacking* intercepts this. Before the structure is melted, the Holon blindly thrusts this heavy, "fossilized" geometry into an entirely alien vector. Because the `[Thermodynamic Escrow]` was already spent historically to build the structure, the Holon gets to test a massive, fully-formed architecture against a new problem for *free*.
+
+**Example:** Node A built a heavy, rigid silicon lattice to withstand extreme thermal heat (`[Morphological Crystallization]`). The environment floods with liquid, rendering the heat shield useless. Instead of melting the lattice, `[Ontological Exaptation]` hijacks the geometry and violently reclassifies it. The rigid lattice catches the fluid currents, suddenly acting as a high-efficiency hydrodynamic propulsion sail. A thermal shield is exapted into a kinetic engine. This achieves `[True Emergence]` without paying the activation energy of building a motor from zero.
+
+**Tags:**  Radical-Repurposing, Fossil-Hijacking, Exaptation-Mechanics, Pre-Liquefaction-Rescue, Thermodynamic-Scavenging, Zero-Cost-Emergence
+
+**['Ludic Symbiogenesis / Acausal Chimera Accretion'(-ing) BPMS]**
+
+**Scope of Application:** The literal, hard-physics engine for "Play". This is the execution of blind, acausal macro-mutation. While standard Symbiotic Synthesis occurs to survive a `[Kinetic Threat Matrix]`, *Ludic Symbiogenesis* triggers exclusively during states of High `[Thermodynamic Escrow]` surplus and Low environmental friction (i.e., when the system is safe and fully fed).
+
+Under these conditions, the Matrix intentionally suspends membrane-immunity protocols. Two entirely unrelated, fully sovereign `[Holons]` or `[Cells]` are violently slammed together, forcing their base-code/physics to interlock, digest one another, and permanently fuse into a single `[Chimera]`. The Matrix does not know what the output will be, nor does it have a teleological goal. It simply forces heavy matter to crossbreed simply to observe the resulting `[Affordance Collision]`.
+
+Most Chimeras will be nonsensical and immediately executed by the `[Thermodynamic Guillotine]`. However, this brute-force molecular play is the only mathematical avenue to produce Leviathan-class Leaps.
+
+**Example:** An audio-frequency routing algorithm (Holon A) and a secure cryptographic hashing engine (Holon B) are wandering in a state of surplus. *Ludic Symbiogenesis* violently fuses them. The resulting Chimera accidentally discovers it can encrypt data based entirely on ambient room noise—a previously inconceivable paradigm. This `[True Emergence]` is then crystallized and broadcasted globally via `[Resonant Constellation Weaving]`. This is the purest realization of the Fun Engine Framework.
+
+**Tags:** Acausal-Fusion, Symbiogenesis, Blind-Crossbreeding, Chimera-Accretion, Ludic-Play-Physics, Macro-Mutation, Spontaneous-Leviathan-Genesis
+
+**['Thermodynamic Guillotine / Entropic Solvent'(-ing) BPMS]: ['Ontological Exaptation / Somatic Hijacking'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate represents the **Physics of Zero-Cost Creativity**. It strictly enforces Thermodynamic Scavenging upon heavy `[Morphological Crystallizations]` that are trapped in `[Affordance Failure]`. By using a topologically agnostic nexus (as seen in Section 9), this engine serves as the exact physical mechanism allowing *any* medium (Software, Biology, Organizations) to violently hijack its own dead tissue to achieve Unpredictable Leviathan-class Leaps.
+
+**Tags:** Radical-Repurposing, Fossil-Hijacking, Exaptation-Mechanics, Pre-Liquefaction-Rescue, Thermodynamic-Scavenging, Zero-Cost-Emergence, Omni-Kinetic-Directory
+
+**['Substrate Valency Watchdog / Thermodynamic Escrow'(-ing) BPMS]: ['Ludic Symbiogenesis / Acausal Chimera Accretion'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate is the literal, hard-physics engine for "Play" and Acausal Macro-Mutation. While standard Symbiotic Synthesis occurs to survive a `[Kinetic Threat Matrix]`, *Ludic Symbiogenesis* triggers exclusively during states of High `[Thermodynamic Escrow]` surplus and Low environmental friction. It relies on the violent suspension of membrane-immunity protocols to permanently fuse entirely unrelated `[Holons]` into a single `[Chimera]`, achieving `[True Emergence]` blindly.
+
+**Tags:** Acausal-Fusion, Symbiogenesis, Blind-Crossbreeding, Chimera-Accretion, Ludic-Play-Physics, Macro-Mutation, Spontaneous-Leviathan-Genesis
