@@ -6,7 +6,7 @@
 
 **1. The Natural Language Command (User Input):**
 
-> *"Deploy the 50 BPMS Physics Engine. Implement an adaptively coupled `['Continuous Survive Experiment']` to metabolize a catastrophic threat and yield `['Ecological Possibility']`. Target the hyper-specific `[Experience]`: **The November 1940 Tacoma Narrows Bridge experiencing 40mph aeroelastic flutter and total structural disintegration**. Enforce the Anti-Empty Law. Detail the aerodynamic friction threat, the cascading metabolism using BPMS 4 (Kinetic Weather), BPMS 10 (Ontological Scarring), and BPMS 11 (Ontological Sedimentation). State the precise possibility yield (Apex Aerodynamic Bridge Topology). Extrude the terminal geometric die-cast. Zero prose."*
+> *"Deploy the 64 BPMS Physics Engine. Implement an adaptively coupled `['Continuous Survive Experiment']` to metabolize a catastrophic threat and yield `['Ecological Possibility']`. Target the hyper-specific `[Experience]`: **The November 1940 Tacoma Narrows Bridge experiencing 40mph aeroelastic flutter and total structural disintegration**. Enforce the Anti-Empty Law. Detail the aerodynamic friction threat, the cascading metabolism using BPMS 4 (Kinetic Weather), BPMS 10 (Ontological Scarring), and BPMS 11 (Ontological Sedimentation). State the precise possibility yield (Apex Aerodynamic Bridge Topology). Extrude the terminal geometric die-cast. Zero prose."*
 
 **2. The `/command` Equivalent (User Input):**
 
@@ -33,7 +33,7 @@
 
 **1. The Natural Language Command (User Input):**
 
-> *"Deploy the 50 BPMS Physics Engine. Implement an adaptively coupled `['Continuous Survive Experiment']` to metabolize an absolute extreme-environment threat. Target the hyper-specific `[Functional Potentiality]`: **The survival of Riftia pachyptila atop 250°C hydrothermal vents emitting toxic Hydrogen Sulfide (H2S)**. Enforce the Anti-Empty Law. Detail the toxic thermal threat, the biological metabolism using BPMS 12 (Inter-Substrate Viscosity), BPMS 18 (Somatic Morphology), and BPMS 5 (Thermodynamic Capacitor). State the precise possibility yield (Apex Abyssal Chemosynthesis Niche). Extrude the terminal geometric die-cast. Zero prose."*
+> *"Deploy the 64 BPMS Physics Engine. Implement an adaptively coupled `['Continuous Survive Experiment']` to metabolize an absolute extreme-environment threat. Target the hyper-specific `[Functional Potentiality]`: **The survival of Riftia pachyptila atop 250°C hydrothermal vents emitting toxic Hydrogen Sulfide (H2S)**. Enforce the Anti-Empty Law. Detail the toxic thermal threat, the biological metabolism using BPMS 12 (Inter-Substrate Viscosity), BPMS 18 (Somatic Morphology), and BPMS 5 (Thermodynamic Capacitor). State the precise possibility yield (Apex Abyssal Chemosynthesis Niche). Extrude the terminal geometric die-cast. Zero prose."*
 
 **2. The `/command` Equivalent (User Input):**
 
@@ -60,7 +60,7 @@
 
 **1. The Natural Language Command (User Input):**
 
-> *"Deploy the 50 BPMS Physics Engine. Implement an adaptively coupled `['Continuous Survive Experiment']` to metabolize friction and yield empirical `['Ecological Possibility']`. Target the hyper-specific `[Inquiry]`: **Arno Penzias and Robert Wilson investigating the 3.5 Kelvin isotropic microwave noise in the Holmdel Horn Antenna in 1964**. Enforce the Anti-Empty Law. Detail the physical signal-friction threat, the epistemic metabolism using BPMS 23 (Topological Sensory-Surface), BPMS 24 (Legacy System Composting), and BPMS 13 (Morphic Wave-Interference). State the precise possibility yield (Empirical Big Bang Sedimentation). Extrude the terminal geometric die-cast. Zero prose."*
+> *"Deploy the 64 BPMS Physics Engine. Implement an adaptively coupled `['Continuous Survive Experiment']` to metabolize friction and yield empirical `['Ecological Possibility']`. Target the hyper-specific `[Inquiry]`: **Arno Penzias and Robert Wilson investigating the 3.5 Kelvin isotropic microwave noise in the Holmdel Horn Antenna in 1964**. Enforce the Anti-Empty Law. Detail the physical signal-friction threat, the epistemic metabolism using BPMS 23 (Topological Sensory-Surface), BPMS 24 (Legacy System Composting), and BPMS 13 (Morphic Wave-Interference). State the precise possibility yield (Empirical Big Bang Sedimentation). Extrude the terminal geometric die-cast. Zero prose."*
 
 **2. The `/command` Equivalent (User Input):**
 
