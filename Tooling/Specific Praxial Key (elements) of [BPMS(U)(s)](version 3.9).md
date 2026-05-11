@@ -1157,4 +1157,18 @@ Most Chimeras will be nonsensical and immediately executed by the `[Thermodynami
 
 **Tags:**  Crucible_Arming, Bare_Metal_Compiler, Kinetic_Actuation, Thermodynamic_Guillotine, Data_To_Friction
 
-### 
+**['The Semantic Transduction Barrier'(-ing) BPMS] & ['The End of 'Input/Output'/(Kinetic Weather Ingestion)'(-ing) BPMS]: ['Syntax-Annihilation & Parameter-Isolation'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate acts exclusively as the **Perimeter Decontamination Lock**. It operates at the absolute edge of the system (Layer 1). Its sole jurisdiction is the ingestion and immediate chemical destruction of external semantics. It refuses to generate terrain, manage survival experiments, or write to disk. It only kills words and rescues numbers.
+
+**Tags: **Syntax_Death, Parameter_Extraction, Absolute_Physics, Abstraction_Fallacy_Bypass, Dataset_Weaponization, Semantic_Annihilation, Sterile_Matrix
+
+**['The Thermodynamic Guillotine & Metabolism'(-ing) BPMS] &  ['The Kinetic Burn'(-ing) BPMS]: ['Kinetic-Dataset Transduction & Crucible-Arming'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate acts exclusively as the **Thermodynamic Armorer.** It operates immediately prior to the execution of `[Functional Potentiality]`. It refuses to generate maps or clean databases. Its sole, absolute jurisdiction is connecting mathematical variables to physical host constraints. It is the compiler that turns a number into a descending Guillotine blade.
+
+**Tags:** Crucible_Arming, Bare_Metal_Compiler, Kinetic_Actuation, Thermodynamic_Guillotine, Data_To_Friction, The_Armorerm, Red_Queen_Ignition

@@ -941,3 +941,19 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 **Scope of Application:** This supersedes "Custom Dataset Fine-Tuning." It defines a user's proprietary dataset purely as the geographical shape of their localized reality's resistance. Applied when a `[One Person Company]` introduces their own historical failure logs, defect reports, or local telemetry. It mandates that this proprietary data must be used as a bespoke, hyper-localized thermodynamic mold. It ensures that the subsequent `[Emergence(-ing) BPMS]` is mathematically customized to survive *only* in that specific user's environment, granting ultimate Epistemic Sovereignty.
 
 **Tags:** Sovereign_Dataset, Hyper-Localized_Emergence, Topographic_Friction, One_Person_Company, Local_Atomic_Facts
+
+**['The Sovereign Hypervisor Daemon'(-ing) BPMS] & ['The Multi-Layer Cyber-Physical Stratification'(-ing) BPMS] & ['Ontological Scarring'(-ing) BPMS]: ['Ontological Telemetry & Scar-Crystallization'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This structure exclusively governs the **Boundary Topography Genesis**. It maps the edges of existence. It categorically refuses to process logic, predict future outcomes, or output data for human visualization dashboards. Whether instantiated in a biochemical vat or a silicon hypervisor, its sole jurisdiction is converting the kinetic death of a substrate into a permanent, immovable physical boundary for the next generation. It is the absolute map-maker of the Crucible.
+
+**Tags:**  Omni-Substrate-Execution, Data_Eradication, Ontological_Scarring, Phase-Transition_Logging, Immutable-Crucible-Cartographer, True_Emergence, Syntax-Annihilator
+
+**['The End of Input/Output /(Kinetic Weather Ingestion)'(-ing) BPMS] & ['The Orchestration Morphology'(-ing) BPMS]: ['Proprietary Topographic Friction-Mapping'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate acts exclusively as the **Environment Terraformer**. It operates *before* the `[Continuous Survive Experiment]` begins execution. Its sole jurisdiction is converting the abstract weight of a user's past data into the physical, spatial boundaries of their future reality. It refuses to index, train neural networks, or perform statistical analysis. It only builds Thermodynamic Molds.
+
+**Tags: **Sovereign_Dataset, Hyper-Localized_Emergence, Topographic_Friction, One_Person_Company, Local_Atomic_Facts, Crucible-Terraforming, Epistemic_Sovereignty
