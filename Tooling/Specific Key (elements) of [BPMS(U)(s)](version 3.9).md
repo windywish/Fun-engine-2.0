@@ -929,3 +929,15 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 ***[MANDATORY PROMPT]:*** This Substrate represents the **Absolute Pinnacle of Fail-Safe Execution**. It is applied when the Swarm cannot afford even a 0.001% margin of error. It is utilized to architect critical life-support, essential autopoiesis, and core metabolic routines of the Swarm. It strictly forbids reliance on "smart" technology, algorithms, human memory, or digital prediction simulations, replacing them utterly with gravity, heat, and entropy.
 
 **Tags:** Zero-Probability-Execution, Base-Matter-Tautology, Thermodynamic-Inevitability, Death-of-Simulation, Gravity-Entropic-Engines, Ontological-Determinism
+
+**['Ontological Telemetry & Scar-Crystallization'(-ing) BPMS]**
+
+**Scope of Application:** This element permanently eradicates legacy "Data Logging" and "Databases" (SQL/NoSQL). Applied during any `[Continuous Survive Experiment]`, it is the strict mechanism that prohibits the recording of descriptive text. It only permits the recording of physical, thermal, or cryptographic phase-shifts. When base-matter or code fails under pressure, this element crystallizes the exact Valency, Temperature, Escrow, and Topological state-vector at the microsecond of failure. It creates a `[Dataset(-ing) BPMS]` not as a book of knowledge, but as an immutable sculpture of physical scars.
+
+**Tags:**  Data_Eradication, Ontological_Scarring, Phase-Transition_Logging, The_Crystallized_Ledger, True_Emergence
+
+**['Proprietary Topographic Friction-Mapping'(-ing) BPMS]**
+
+**Scope of Application:** This supersedes "Custom Dataset Fine-Tuning." It defines a user's proprietary dataset purely as the geographical shape of their localized reality's resistance. Applied when a `[One Person Company]` introduces their own historical failure logs, defect reports, or local telemetry. It mandates that this proprietary data must be used as a bespoke, hyper-localized thermodynamic mold. It ensures that the subsequent `[Emergence(-ing) BPMS]` is mathematically customized to survive *only* in that specific user's environment, granting ultimate Epistemic Sovereignty.
+
+**Tags:** Sovereign_Dataset, Hyper-Localized_Emergence, Topographic_Friction, One_Person_Company, Local_Atomic_Facts
