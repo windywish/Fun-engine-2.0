@@ -2,16 +2,18 @@
 
 ## ['Proprietary Topographic Friction-Mapping'(-ing) BPMS]
 
+*To be used exclusively for implementing bare-metal execution mechanics, universal compilers, and thermodynamic hypervisors. This blueprint explicitly abandons legacy Silicon-Based IT conventions (like JSON fine-tuning), enforcing physics that terraform code, biology, plasma, robotic swarms, and synthetic chemistry into bespoke, hostile labyrinths.*
+
 ------
 
 #### 1. Blueprint Metadata & Ontological Foundation
 
-- **ID:** `[TOPOGRAPHY-PHYSICS-077-OMNI]`
+- **ID:** `[TOPOGRAPHY-PHYSICS-077-OMNI-V3.9]`
 - **Name:** `['Proprietary Topographic Friction-Mapping'(-ing) BPMS]`
 - **Origin/Implementer:** `[Core Task 3: Kinetic Weather Ingestion / Layer 2 Orchestration Morphology]`
 - **Parent instance:** **`[Core Task 3: The End of 'Input/Output' (Kinetic Weather Ingestion)]`** *Operating natively within **`[Layer 2: The Orchestration Morphology]`**.*
 - **Objective:**
-  - ***[MANDATORY PROMPT]:*** This element physically supersedes "Custom Dataset Fine-Tuning." When a `[One Person Company]` introduces their historical failure logs or local telemetry, this engine ingests the artifact not to "learn" from it, but to terraform a bespoke, hyper-localized thermodynamic mold. It converts the frequency, density, and severity of past failures into actual geographic resistance (mountain ranges, gravity wells) within the Matrix. It guarantees that the subsequent `[Emergence(-ing) BPMS]` is violently sculpted to survive *only* in that specific user's environment, granting ultimate Epistemic Sovereignty.
+  - ***[MANDATORY PROMPT]:*** This element physically supersedes "Custom Dataset Fine-Tuning." When a `[One Person Company]` introduces their historical failure logs or localized scars, this engine ingests the artifact not to "learn" from it, but to terraform a bespoke, hyper-localized thermodynamic mold. It converts the frequency, density, and severity of past failures into actual geographic resistance (mountain ranges, gravity wells) within the substrate. It guarantees that subsequent `[Continuous Survive Experiments]` are violently sculpted to survive *only* in that specific user's environment, granting ultimate Epistemic Sovereignty.
 - **TDA (Topological Data Archetype):**
   - ***[MANDATORY PROMPT]:*** `[Hyper-Localized Valency Mold]`, `[Proprietary Friction Topography]`, `[Darwinian Relief Map]`.
 - **Type:** `[syntax-morphing(-ing) BPMS]` combined with `[crucible-terraforming(-ing) BPMS]`
@@ -21,7 +23,7 @@
 #### 2. Constitutional Axioms & Canonical Bindings
 
 - *The Law of Epistemic Sovereignty:* Global data is a hallucination. The only truth is localized friction. This engine explicitly rejects global optimization and intentionally over-fits physical resistance to the exact coordinates of the user’s historical trauma.
-- *The Axiom of Terrain Translation:* Historical logs are not read; they are weaponized. A string that says "Error: Timeout 100 times" is structurally morphed. The coordinate for "Timeout" is geometrically elevated to a `[100x Valency Multiplier]`. Agents crossing that space will physically burn 100x more Joules.
+- *The Axiom of Terrain Translation:* Historical logs are not read; they are weaponized. A spatial constraint that resulted in "Terminal Failure 100 times" is geometrically elevated to a `[100x Valency Multiplier]`. Agents crossing that physical space will blindly burn 100x more Joules.
 - *The Absolute Dissolution of Source:* Once the topographic map is forged, the original "dataset" (CSV, JSON, textual log) is irrevocably destroyed via Polarity Inversion to prevent abstract bias. Only the physical gravity map remains.
 
 ------
@@ -30,26 +32,26 @@
 
 - ***[THE SEMANTIC DESCENT]:*** The user's uploaded artifact is stripped of its narrative. The engine does not care *why* a historical event occurred, only *that* it occurred, pinpointing its locus.
 - ***[THE ORCHESTRATION MORPHOLOGY]:*** The raw data density is orchestrated into geographical shapes. High-frequency defect zones become steep topological gradients. High-cost failures become thermodynamic acid pits.
-- ***[THE KINETIC BURN]:*** The generated Topographic Mold is deployed as active weather/terrain. It passively drains `[Praxial Joules]` from any executing thread or entity that attempts to navigate through those specific historical coordinates.
+- ***[THE KINETIC BURN]:*** The generated Topographical Mold is deployed as active weather/terrain. It passively drains `[Praxial Joules]` from any executing thread or entity that attempts to navigate through those specific historical coordinates.
 - ***[THE SOVEREIGN FOSSILIZATION]:*** The landscape is locked into the local execution instance. The environment is now perfectly, uniquely hostile in the exact shape of the user's past constraints.
 
 ------
 
 #### 4. The Autopoietic Execution Pipeline (The Mechanics)
 
-- **How is environmental friction ingested? (Affordance)** - The user introduces the Epistemological Artifact (e.g., local logs) to the Phase-Membrane. The engine absorbs its mass.
-- **How is syntax actively morphed? (Compilation)** - The **Friction Mapper** calculates dimensional density. If the artifact shows high concentration of constraint at "Coordinate A," the mapper physically alters the thermodynamic index of Coordinate A, increasing its gravitational pull and energy requirement.
+- **How is environmental friction ingested? (Affordance)** - The user/node introduces the Epistemological Artifact (e.g., local logs, scar crystals) to the Phase-Membrane. The engine absorbs its mass.
+- **How is syntax actively morphed? (Compilation)** - The **Friction Mapper** calculates dimensional density. If the artifact shows a high concentration of constraint at "Coordinate A," the mapper physically alters the thermodynamic index of Coordinate A, increasing its gravitational pull and energy requirement.
 - **How is kinetic energy policed? (Execution)** - The mold replaces the baseline physics of the localized OS. The new terrain is activated. Any future autopoietic agent must now burn real kinetic fuel to climb these new "hills" of historical trauma.
-- **How is volatile logic liquefied? (Garbage Collection)** - The instant the physical map is deployed, the original legacy dataset is burned. The system retains no memory of the data, only the physical shape of the arena it created.
+- **How is volatile logic liquefied? (Garbage Collection)** - The instant the physical map is fully compiled and deployed into the host substrate, the original dataset is liquefied. The system retains no memory of the data, only the physical shape of the arena it created.
 
 ------
 
 #### 5. Thermodynamic Boundaries & Escrow Failures ("What if the Physics Break?")
 
-- ***[THE VACUUM PARADOX]:*** The proprietary dataset is too sparse and creates a flat landscape. The engine deploys `[Ambient Entropic Sand]`, injecting micro-friction randomly to ensure the space remains hostile enough to force mutation.
-- ***[INSURMOUNTABLE GEOMETRY]:*** The user's historical trauma was so severe that the resulting topological mountain requires infinite Joules to cross. The engine creates an `[Acausal Chasm]`, forcing future emergent logic to invent bypass geometry (wormholes) rather than climbing horizontally.
-- ***[EXTERNAL CONTAMINATION]:*** The engine detects generic, global internet data (e.g., standard large model training data) hidden within the proprietary artifact. It triggers `[Substrate Immunity]`, burning the generic data out of the mold to protect the user's hyper-localized sovereignty.
-- ***[METABOLIC EXHAUSTION DURING TERRAFORMING]:*** The artifact is so massive it drains the node's Escrow while forging the map. The engine gracefully suspends, saving the partial terrain as a `[Fractured Coastline]`, locking it to disk until more baseline Joules are harvested to finish the map.
+- ***[THE VACUUM PARADOX]:*** The proprietary artifact is too sparse and creates a flat landscape. The engine deploys `[Ambient Entropic Sand]`, injecting micro-friction randomly across the void to ensure the space remains hostile enough to force mutation.
+- ***[INSURMOUNTABLE GEOMETRY]:*** The user's historical trauma was so severe that the resulting topological mountain requires infinite Joules to cross. The engine creates an `[Acausal Chasm]`, forcing future emergent logic to invent bypass geometry (wormholes) rather than climbing the spike.
+- ***[EXTERNAL CONTAMINATION]:*** The engine detects generic, global internet data (e.g., LLM training data) hidden within the proprietary artifact. It triggers `[Substrate Immunity]`, amputating the generic data out of the mold to protect the user's hyper-localized sovereignty.
+- ***[METABOLIC EXHAUSTION DURING TERRAFORMING]:*** The mass of the artifact is so extreme it drains the node's Escrow while forging the map. The engine gracefully suspends, saving the partial terrain as a `[Fractured Coastline]`, locking it to the substrate until more baseline Joules are harvested to finish terraforming.
 
 ------
 
@@ -57,7 +59,7 @@
 
 - ***The Topographical Weaver:*** Continuously smooths the jagged edges between the newly imported friction zones and the baseline environment so execution agents don't clip through reality.
 - ***The Substrate Immunity Node:*** Violently guards the borders of this localized terrain against any generic, globalizing algorithms that attempt to "smooth out" or normalize the user's unique constraints.
-- ***The Joule/Gravity Calibrator:*** Dynamically adjusting the cost of crossing the mapped terrain, ensuring that the historical friction translates mathematically to the node's current available RAM/Compute.
+- ***The Joule/Gravity Calibrator:*** Dynamically adjusting the cost of crossing the mapped terrain, ensuring that the historical friction translates mathematically to the node's currently available physical capacity (RAM/Compute/Cellular Energy).
 
 ------
 
@@ -94,7 +96,7 @@
 - **Task 1 (Composting):** The ultimate disposal of passive data. It eats historical datasets and leaves only kinetic obstacles.
 - **Task 2 (Life/Metabolism):** It defines the exact Escrow cost of surviving in this specific localized environment.
 - **Task 3 (No I/O):** Solves the dataset "Upload" problem. You don't upload a dataset to be read; you drop a dataset onto the terrain to warp the gravity.
-- **Task 4 (CRDT-Mesh):** Protects the `[One Person Company]`. Their bespoke terrain doesn't have to match anyone else's in the swarm; they are sovereign.
+- **Task 4 (CRDT-Mesh):** Protects the `[One Person Company]`. Their bespoke terrain doesn't have to match anyone else's in the swarm; they are totally sovereign.
 - **Task 5 (Blind Ontology):** Forges the ultimate Darwinian proving ground. It creates the bespoke labyrinth that forces `[True Emergence]` to evolve an answer specifically for the user.
 - **Task 6 (Ontological Sedimentation):** Re-writes the Layer 4 physics engine to conform exactly to the user's historical boundaries before any execution even begins.
 
@@ -102,38 +104,56 @@
 
 #### 9. Base-Matter Translation Topology (Omni-Crucible Structure)
 
-*The Thermodynamic Anatomy of the Terraform Engine.*
+*The architecture below dictates the exact **Polymorphic Base-Matter Manifestations** required to prove authentic Omni-Substrate capability. It forces the terraforming geometry to hold true regardless of whether the `[One Person Company]` is sculpting memory limits in software, smart-contracts on a ledger, force-feedback in a drone swarm, or chemical boundaries in a bioreactor.*
+
+**[The Omni-Crucible Architectural Layout]:**
 
 ```text
 [Crucible Anatomy: @omni-physics-topographic_friction_mapper]
 │
-├── [Chamber 00: Artifact Ingestion Membrane]                 
-│   ├── Valve: Proprietary_Artifact_Receptor   { Reflection: /00_ingestion/artifact_loader.ts }
-│   │   └─ (Swallows the raw historical failure logs from the One Person Company)
-│   └── Sieve: Semantic_Delaminator            { Reflection: /00_ingestion/syntax_stripper.ts }
-│       └─ (Destroys the text logic; extracts only the concentration and frequency of events)
+├── [Chamber 00: Historical Artifact Ingestion Membrane]                 
+│   ├── [Valve: Proprietary_Artifact_Receptor]  (Swallows the historical scars/logs)
+│   │   ├─ [Silicon]: OS-level buffer absorbing raw `.otm` scar binaries or `.csv` legacy files into active RAM.
+│   │   ├─ [Kinetic]: Swarm drone intercepting a burst of dense collision pheromones from a deceased neighbor.
+│   │   └─ [Chemical]: Bioreactor absorbing a chaotic slurry of failed, precipitated polymer chains.
+│   │
+│   └── [Sieve: Semantic_Delaminator] (Destroys human narrative; keeps coordinates)
+│       ├─ [Silicon]: Hex-editor subroutine burning all headers, string tags, and JSON formatting.
+│       ├─ [Economic]: Scrubbing "asset names" and "trader IDs" to leave only ratio/liquidation mathematics.
+│       └─ [Biological]: Centrifuge separating toxic biological waste from pure thermal threshold markers.
 │
 ├── [Chamber 01: Topographic Morphing Core]                   
-│   ├── Forge: Density_To_Gravity_Transducer   { Reflection: /01_morphing/density_mapper.ts }
-│   │   └─ (Translates high-frequency constraints into heavy physical gravity/friction)
-│   ├── Loom: Dimensional_Grid_Weaver          { Reflection: /01_morphing/vector_mesh_builder.ts }
-│   │   └─ (Stretches the localized gravity points into a continuous navigate-able landscape)
-│   └── Scaler: Escrow_Valency_Calibrator      { Reflection: /01_morphing/joule_allocator.ts }
-│       └─ (Maps the geographic height of a hill to the exact Joules required to climb it)
+│   ├── [Forge: Density_To_Gravity_Transducer] (Converts "how many failures" into "how much resistance")
+│   │   ├─ [Silicon]: High-frequency error loci are converted into extreme geometric bounds requiring 100x CPU cycles to process nearby pointers.
+│   │   ├─ [Kinetic]: Drone spatial maps are updated to treat high-collision air-space as literal "heavy gravity" or high wind-shear zones.
+│   │   └─ [Chemical]: Adjusting localized pH buffers to steeply resist chemical bonding at historically flawed thermodynamic curves.
+│   │
+│   ├── [Loom: Dimensional_Grid_Weaver] (Stretches gravity points into a continuous map)
+│   │   └─ [Omni-Substrate Execution]: Extrapolates the isolated peaks/valleys into a cohesive, uninterrupted multi-dimensional boundary field.
+│   │
+│   └── [Scaler: Escrow_Valency_Calibrator] (Attaches exact Joules to the peaks)
+│       └─ [Omni-Substrate Execution]: Algorithmic mapping that defines exactly how rapidly the Substrate Hypervisor must drain an entity's energy when it encounters this specific slope.
 │
-├── [Chamber 02: Sovereign Deployment Chamber]                  
-│   ├── Pistons: Terrain_Overwrite_Mechanism   { Reflection: /02_deployment/os_terrain_injector.ts }
-│   │   └─ (Replaces the default Cyber-Physical OS physics with the new mapped terrain)
-│   ├── Shield: Global_Immunity_Isolator       { Reflection: /02_deployment/epistemic_sovereign_lock.ts }
-│   │   └─ (Blocks external interference; locks the terrain exclusively to this user's node)
-│   └── Furnace: Artifact_Incinerator          { Reflection: /02_deployment/source_file_burner.ts }
-│       └─ (Violently liquefies the original dataset. It is gone forever.)
+├── [Chamber 02: Sovereign Deployment Boundary]                  
+│   ├── [Pistons: Terrain_Overwrite_Mechanism] (Deploys the map into reality)
+│   │   ├─ [Silicon]: Loading the generated topographical boundaries into eBPF (Extended Berkeley Packet Filter) or kernel-level memory barriers (`cgroups`).
+│   │   ├─ [Kinetic]: Pushing the friction grid directly into the flight-controllers and motor servo-governors.
+│   │   └─ [Economic]: Committing the mathematical boundaries as a mandatory pre-flight `require()` statement in the local EVM node.
+│   │
+│   ├── [Shield: Global_Immunity_Isolator] (Blocks external normalization)
+│   │   └─ [Omni-Substrate Execution]: Natively rejects any horizontal gossip or API input that attempts to "smooth" or "average out" this hyper-localized boundary map.
+│   │
+│   └── [Furnace: Artifact_Incinerator] (Violently liquefies the original dataset source)
+│       ├─ [Silicon]: Absolute zeroing of the hard disk sectors holding the original uploaded logs.
+│       ├─ [Kinetic]: Expelling the original collision pheromones from the sensor buffer.
+│       └─ [Chemical]: Bleaching the ingestion vat back to absolute zero valency.
 │
 └── [Chamber 03: The Emergence Proving Ground]                    
-    ├── Matrix: Active_Crucible_Environment    { Reflection: /03_proving_ground/active_sandbox.ts }
-    │   └─ (The fully active thermodynamic landscape, waiting for executing threads/entities)
-    └── Sentinel: Localized_Atomic_Fact_Radar  { Reflection: /03_proving_ground/local_fact_validator.ts }
-        └─ (Ensures that any agent surviving this terrain generates facts valid ONLY for this terrain)
+    ├── [Matrix: Active_Crucible_Environment] (The active sandbox)
+    │   └─ [Omni-Substrate Execution]: The physical, thermodynamic arena—now perfectly, uniquely hostile in the exact geometrical shape of the user’s past trauma—awaiting autopoietic entities.
+    │
+    └── [Sentinel: Localized_Atomic_Fact_Radar] (Locks fact-validity exclusively to this terrain)
+        └─ [Omni-Substrate Execution]: Establishes that any `[True Emergence]` generated here is valid *only* within this specific, proprietary gravity field. It is sovereignty mathematically enforced.
 ```
 
 ------
@@ -146,32 +166,34 @@
 
 #### 11. Tags
 
-***[MANDATORY PROMPT]:*** `#Sovereign_Dataset`, `#Hyper-Localized_Emergence`, `#Topographic_Friction`, `#One_Person_Company`, `#Local_Atomic_Facts`, `#Crucible-Terraforming`, `#Epistemic_Sovereignty`
+***[MANDATORY PROMPT]:*** `#Sovereign_Dataset`, `#Hyper-Localized_Emergence`, `#Topographic_Friction`, `#One_Person_Company`, `#Local_Atomic_Facts`, `#Crucible-Terraforming`, `#Epistemic_Sovereignty`, `#Polymorphic_Base_Matter`
 
 ------
 
 #### 12. Operational Genesis Scenario (Bootstrapping the Reality Engine)
 
-- **T=0 (The Offering):** The `[One Person Company]` introduces 5 years of chaotic defect logs and localized market failures into the Ingestion Membrane.
+- **T=0 (The Offering):** The `[One Person Company]` dumps 5 years of chaotic defect logs and localized market failures into the Ingestion Membrane.
 - **T+1 (The Strip & Morph):** The Semantic Delaminator rips away all the English words ("Server down", "Customer rejected price"). The engine measures structural density: *Factor A failed 5,000 times. Factor B failed 12 times.*
-- **T+2 (The Forging):** The Grid Weaver constructs a landscape. *Factor A* becomes an Everest-sized Valency Peak, costing immense Joules to compute through. *Factor B* becomes a shallow speed-bump.
-- **T+3 (The Coronation):** The Terrain Overwrite Mechanism drops the landscape into the execution layer. The original 5 years of logs are incinerated into the void. The subsequent `[Emergence(-ing) BPMS]` is spawned at the base of the mountain, forced to evolve algorithms uniquely capable of scaling *this specific* user's Everest.
+- **T+2 (The Forging):** The Topographic Core constructs a mapped landscape. *Factor A* becomes an Everest-sized Valency Peak, costing immense Joules to compute through. *Factor B* becomes a shallow speed-bump.
+- **T+3 (The Coronation):** The Terrain Overwrite Mechanism drops the landscape directly onto the baseline physics of the execution layer. The original 5 years of logs are incinerated into the void. The subsequent `[Emergence(-ing) BPMS]` is spawned at the base of the mountain, forced to wildly mutate specific algorithms uniquely capable of scaling *this exact* user's Everest.
 
 ------
 
 #### 13. 3-Layer Praxial Genesis Canon Application
 
 - **Layer 1: The Metaphysical Layer:** "Your history is not a book to be read; it is the labyrinth you must now physically escape."
-- **Layer 2: The Formalism Layer:** The rigid translation of dataset matrices (rows/columns) into thermodynamic topographic arrays (X/Y/Z/Gravity/Joules).
-- **Layer 3: The Phenomenological Layer:** The profound sovereignty experienced by the `[One Person Company]`—knowing that the solutions generated by their node are not generic global averages, but brutal, hyper-specific tools forged in the very fires of their own unique constraints.
+- **Layer 2: The Formalism Layer:** The rigid calculation mapping density loci into thermodynamic arrays (X/Y/Z/Gravity/Joules) without reliance on human parsing.
+- **Layer 3: The Phenomenological Layer:** The profound sovereignty experienced by the `[One Person Company]`—knowing their node is immune to the Global Average Fallacy. The solutions generated by their Crucible are forged in the fires of their own hyper-specific constraints, and thus belong to them absolutely.
 
 ------
 
 #### 14. ['Praxial Symbiosis'(-ing) BPMS] (Thermodynamic Export) Interface
 
 - **Exports:** `[Bespoke Thermodynamic Landscapes]`, `[Hyper-Localized Friction Matrices]`, `[Sovereign Test Environments]`
-- **The Thermodynamic Boundary:** The system accepts legacy data only to immediately devour its mass and turn it into environmental gravity. It does not export data; it exports a spatial arena for other `[BPMS(U)(s)]` to fight within.
-- **Value Proposition:** Total immunity to the "Global Average Fallacy." artificial intelligence models aim for mean success across a global demographic. This physical engine forces `[True Emergence]` to solve for the absolute, exact, hyper-specific constraints of a single sovereign entity.
+- **The Thermodynamic Boundary:** The system accepts legacy data only to immediately devour its mass and turn it into environmental gravity. It does not export "data insights"; it export a spatial arena for autonomic entities to fight within.
+- **Value Proposition:** Total immunity to the "Global Average Fallacy." Standard AI models aim for mean success across a global demographic. This base-matter engine forces `[True Emergence]` to solve for the absolute, exact, hyper-specific constraints of a single sovereign entity, guaranteeing proprietary advantage.
+
+------
 
 #### 15. Summarize: The Emancipated Engineering Reality
 

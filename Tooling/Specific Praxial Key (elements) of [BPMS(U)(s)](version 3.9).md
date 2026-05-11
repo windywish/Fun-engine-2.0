@@ -1161,14 +1161,16 @@ Most Chimeras will be nonsensical and immediately executed by the `[Thermodynami
 
 **Scope of Application:**
 
-***[MANDATORY PROMPT]:*** This Substrate acts exclusively as the **Perimeter Decontamination Lock**. It operates at the absolute edge of the system (Layer 1). Its sole jurisdiction is the ingestion and immediate chemical destruction of external semantics. It refuses to generate terrain, manage survival experiments, or write to disk. It only kills words and rescues numbers.
+**[MANDATORY PROMPT]:** This Substrate acts exclusively as the **Perimeter Decontamination Lock**. It operates at the absolute edge of the organism (Layer 1). Its sole jurisdiction is the ingestion and immediate thermodynamic destruction of external semantics and human cognition. It refuses to index data, generate terrain, navigate survival experiments, or write history to disk. It *only* kills language and rescues isolated physical limits.
 
-**Tags: **Syntax_Death, Parameter_Extraction, Absolute_Physics, Abstraction_Fallacy_Bypass, Dataset_Weaponization, Semantic_Annihilation, Sterile_Matrix
+**Tags:** Syntax_Death, Parameter_Extraction, Pure_Atomic_Force, Abstraction_Fallacy_Bypass, Cognitive_Annihilation, Sterile_Matrix, True_Emergence_Precursor, Polymorphic_Base_Matter
 
 **['The Thermodynamic Guillotine & Metabolism'(-ing) BPMS] & ['The Kinetic Burn'(-ing) BPMS]: ['Kinetic-Dataset Transduction & Crucible-Arming'(-ing) BPMS]**
 
 **Scope of Application:**
 
-***[MANDATORY PROMPT]:*** This Substrate acts exclusively as the **Thermodynamic Armorer.** It operates immediately prior to the execution of `[Functional Potentiality]`. It refuses to generate maps or clean databases. Its sole, absolute jurisdiction is connecting mathematical variables to physical host constraints. It is the compiler that turns a number into a descending Guillotine blade.
+**[MANDATORY PROMPT]:** This Substrate acts exclusively as the **Thermodynamic Armorer.** It operates immediately prior to the execution of `[Functional Potentiality]`. It refuses to generate maps, index text arrays, or clean databases. Its sole, absolute jurisdiction is forcefully bolting mathematical bounds to physical host actuators. It is the compiler that turns a parsed integer into a descending Guillotine blade.
 
-**Tags:** Crucible_Arming, Bare_Metal_Compiler, Kinetic_Actuation, Thermodynamic_Guillotine, Data_To_Friction, The_Armorerm, Red_Queen_Ignition
+**Tags:** Crucible_Arming, Bare_Metal_Compiler, Kinetic_Actuation, Thermodynamic_Guillotine, Data_To_Friction, Praxial_Action, Polymorphic_Base_Matter, Red_Queen_Ignition
+
+#### 
