@@ -1165,7 +1165,7 @@ Most Chimeras will be nonsensical and immediately executed by the `[Thermodynami
 
 **Tags: **Syntax_Death, Parameter_Extraction, Absolute_Physics, Abstraction_Fallacy_Bypass, Dataset_Weaponization, Semantic_Annihilation, Sterile_Matrix
 
-**['The Thermodynamic Guillotine & Metabolism'(-ing) BPMS] &  ['The Kinetic Burn'(-ing) BPMS]: ['Kinetic-Dataset Transduction & Crucible-Arming'(-ing) BPMS]**
+**['The Thermodynamic Guillotine & Metabolism'(-ing) BPMS] & ['The Kinetic Burn'(-ing) BPMS]: ['Kinetic-Dataset Transduction & Crucible-Arming'(-ing) BPMS]**
 
 **Scope of Application:**
 
