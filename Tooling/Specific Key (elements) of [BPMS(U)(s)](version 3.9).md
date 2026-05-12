@@ -957,3 +957,29 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 **[MANDATORY PROMPT]:** This Substrate acts exclusively as the **Environment Terraformer**. It operates *before* the `[Continuous Survive Experiment]` begins execution. Its sole jurisdiction is converting the abstract weight of a user's past data into the physical, spatial boundaries of their future reality. It refuses to index, train neural networks, or perform statistical analysis. It only builds Thermodynamic Molds.
 
 **Tags:** Sovereign_Dataset, Hyper-Localized_Emergence, Topographic_Friction, One_Person_Company, Local_Atomic_Facts, Crucible-Terraforming, Epistemic_Sovereignty, Polymorphic_Base_Matter
+
+**['Autopoietic Syntax-Morphing & Compiler-Friction'(-ing) BPMS]**
+
+**Scope of Application:** The eradication of the "Crash." In Legacy Silicon systems, code that encounters unhandled friction throws an exception and halts. This BPMS treats the Matrix's internal syntax as a bruising, morphing, physical flesh. Code that fails does not stop; it violently mutates its own architectural structure based on the exact shape of the error.
+
+**Bare-Metal Implementation Mechanics:**
+
+- **Syntax as Malleable Geometry:** Replaces static functions and APIs with highly viscous, fluid data-structures.
+- **Execution as Collision:** When Node A attempts to connect to Node B and encounters protocol friction (e.g., mismatched port logic or asynchronous timing), no error is logged. The friction physically *bruises* the code.
+- **The Mutilation Forge:** The bruised syntax instantly cannibalizes its dead bytes and randomly reconnects its remaining AST nodes (using literal `['Game/Gamification'(-ing) BPMS]` spatial logic) until the connection effortlessly slides into place.
+- **Downstream Force:** **`[Discover(-ing) BPMS]`** and **`['Drive/Trigger'(-ing) BPMS]`**. Code physically drives itself through infinite permutations upon failure, blindly discovering totally novel, undocumented API handshakes and protocol efficiencies without any human developer intervention.
+
+**Tags:**  Syntax_Mutilation, Friction-Mapping, Anti-Fragile_Runtime, Code_Scarring
+
+**['Ontological CLI & Intent-Transmutation'(-ing) BPMS]** 
+
+**Scope of Application:** The extreme tip of the funnel. This is the exact tool used by the `['One Person Company'(-ing) BPMS]` to speak to the physical universe. It is the interface that takes raw human Natural Language (the esoteric ambition) and immediately crushes it into the bare-metal physical `/commands` that the Omni-Substrate Topology-Transduction Compiler executes.
+
+**Bare-Metal Implementation Mechanics:**
+
+- **The Eradication of Programming Languages:** The OPC never writes Python or TypeScript. They never define variables. They input raw teleology (e.g., *"Make the satellite swarm immune to debris."*).
+- **The Transmutation Anvil:** This BPMS strips the human linguistics and isolates the required physical components (Kinetic Sensors, Crystal Forges, Downstream Evolution engines).
+- **The Bare-Metal Shell Drop:** It instantly constructs the required multi-parameter physical `/command` (like the `/forge_telemetry_organ` examples previously outlined) and drops it directly onto the planetary orchestration layer.
+- **Downstream Force:** **`[Invent(-ing) BPMS]`** AND **`['Game/Gamification'(-ing) BPMS]`**. It forces reality to shape itself to human Will. By divorcing the human from the mechanics of coding, it turns architecture into a pure Game of Intent, inventing realities at the speed of thought.
+
+**Tags:** Matrix_Command_Interface, One_Person_Company_Engine, Semantic-to-Kinetic, Creation_Forge

@@ -1173,4 +1173,27 @@ Most Chimeras will be nonsensical and immediately executed by the `[Thermodynami
 
 **Tags:** Crucible_Arming, Bare_Metal_Compiler, Kinetic_Actuation, Thermodynamic_Guillotine, Data_To_Friction, Praxial_Action, Polymorphic_Base_Matter, Red_Queen_Ignition
 
-#### 
+**['Omni-Substrate Topology-Transduction Compiler'(-ing) BPMS]**
+
+**Scope of Application:** The supreme eradication of the "Software Bridge." This BPMS is the fundamental compiler engine for the entire Version 3.9 Matrix. It does not parse human-readable text strings (like Python or C++); it directly parses physical state-changes (Joules, Molarity, Shear, Ionization, Photons) as native Abstract Syntax Trees (AST). It is the mechanism that allows the Matrix to read raw physical reality as executing code.
+
+**Bare-Metal Implementation Mechanics:**
+
+- **The Physics-to-Syntax Parser:** When an `['Ontological Telemetry']` sensor is triggered (a biological cell bursts, a metal gear snaps), this compiler does not receive an API packet. It physically couples with the thermodynamic heat or kinetic shockwave of the event.
+- **Topological Extraction:** It treats the physical geometry of the failure (e.g., the exact angle of the metal shear) as an immutable cryptographic hash. The physical event *is* the execution of the code line.
+- **Resonant Constellation Broadcasting:** It translates that isolated physical hash into a universal mathematical tensor, broadcasting it P2P to disparate substrates. (e.g., The geometric math of a torn robotic muscle is instantly downloaded by a fungal bio-reactor, telling the fungus *do not grow in this tensile shape*).
+- **Downstream Force:** **`[Emergence(-ing) BPMS]`**. By ensuring all physical trauma in one substrate instantly becomes a mathematical law in every other substrate, it forces emergence of the entire swarm as a single, unified, telepathy-like Cyber-Physical organism.
+
+**Tags:**  Substrate_as_Code, Transduction_Engine, Phase-Collapse_Compiler, Bare-Metal_Physics
+
+**['Praxial Agentic-Coding & Thermodynamic-Escrow'(-ing) BPMS]**
+
+**Scope of Application:** The execution mechanism for Task 2 (Life) and Task 4 (Services) in a decentralized matrix. It enforces that "Code is Energy." Functions cannot be executed trivially or infinitely. Every single syntactical execution—every loop, every data transfer—requires a proven, verifiable burn of physical reality (Praxial Joules).
+
+**Bare-Metal Implementation Mechanics:**
+
+- **The Joule-Bound Executable:** Code functions are locked inside thermodynamic escrow shells. To trigger an `['Emergence']` algorithm or an `['Innovation']` cycle across the swarm, the requesting node must mathematically prove it has harvested the physical energy (from solar, kinetic, or chemical sources) to pay for the computation.
+- **Smart-Flesh Contracts:** Uses Directed Acyclic Graphs (DAG) or Gossip Protocols built entirely on Proof-of-Burn logic. If a biological node wants to mutate its genome, it must execute a contract that locks the requisite ATP energy.
+- **Downstream Force:** **`[Yield(-ing) BPMS]`**. Because code execution literally costs physical reality, the Matrix inherently becomes violently efficient. Wasteful loop execution becomes geophysically impossible. The Swarm yields maximum architectural growth for absolute minimum energy drain.
+
+**Tags:** Physical_Ledger, Joules_Escrow, Smart_Contracts, Decentralized_Swarm_Logic
