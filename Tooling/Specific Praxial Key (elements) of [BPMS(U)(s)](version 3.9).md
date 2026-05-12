@@ -1197,3 +1197,21 @@ Most Chimeras will be nonsensical and immediately executed by the `[Thermodynami
 - **Downstream Force:** **`[Yield(-ing) BPMS]`**. Because code execution literally costs physical reality, the Matrix inherently becomes violently efficient. Wasteful loop execution becomes geophysically impossible. The Swarm yields maximum architectural growth for absolute minimum energy drain.
 
 **Tags:** Physical_Ledger, Joules_Escrow, Smart_Contracts, Decentralized_Swarm_Logic
+
+**['Ontological Telemetry & Scar-Crystallization'(-ing) BPMS] & ['Thermodynamic Gradient Phase-State Pre-Condition'(-ing) BPMS]: ['Omni-Substrate Topology-Transduction Compiler'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate completely governs **Physical-to-Logical Translation.** It is the absolute bridge between raw material reality and the Cyber-Physical mathematics of the Swarm. `[CATEGORICAL REFUSAL]`: It explicitly refuses to interact with pre-written software environments. It cannot be pinged via REST. It cannot read text scripts. It operates *only* upon the detonation of physical laws—friction, gravity, thermodynamics, and mass. It exists solely to read the violence of the real world and compile it into Matrix evolution.
+
+**Tags:** Substrate_as_Code, Transduction_Engine, Phase-Collapse_Compiler, Bare-Metal_Physics, Swarm-Telepathy, Emergence-Forcer
+
+**['Dynamic Barter & Contract Forge'(-ing) BPMS] & ['Mycelial Network Weaving'(-ing) BPMS]: ['Praxial Agentic-Coding & Thermodynamic-Escrow'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate entirely governs **The Cost of Computation and Decentralized Trust.** It has absolute jurisdiction over whether a piece of logic is allowed to physically orchestrate change in the Cyber-Physical world. `[CATEGORICAL REFUSAL]`: It explicitly refuses to execute any logic on "credit." It rejects fiat authorization, administrator SUDO overrides, and centralized cloud computing environments. It operates completely blind to the "meaning" of the code; it only asks, *"Have you sacrificed the physical entropy required to move this mass?"*
+
+**Tags:** Physical_Ledger, Joules_Escrow, Smart_Flesh_Contracts, Decentralized_Swarm_Logic, Proof-of-Burn_Physics, Yield-Forcing-Execution
+
+#### 

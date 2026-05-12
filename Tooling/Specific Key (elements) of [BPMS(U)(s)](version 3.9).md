@@ -983,3 +983,21 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 - **Downstream Force:** **`[Invent(-ing) BPMS]`** AND **`['Game/Gamification'(-ing) BPMS]`**. It forces reality to shape itself to human Will. By divorcing the human from the mechanics of coding, it turns architecture into a pure Game of Intent, inventing realities at the speed of thought.
 
 **Tags:** Matrix_Command_Interface, One_Person_Company_Engine, Semantic-to-Kinetic, Creation_Forge
+
+**['Praxial Agentic-Coding'(-ing) BPMS] & ['Somatic Morphology Affordance Binding'(-ing) BPMS]: ['Autopoietic Syntax-Morphing & Compiler-Friction'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate entirely governs **Inter-Substrate Translation and Boundary Friction-Resolution.** It has absolute jurisdiction over structural communication and runtime execution across fundamentally mismatched entities (Silicon-to-Carbon, Chemical-to-Digital, Kinetic-to-Thermodynamic). `[CATEGORICAL REFUSAL]`: It explicitly refuses to "simulate" environments. It is completely blind to human engineering blueprints. It operates strictly on physical spatial collision, geometrical constraint, and energy burn to establish connection parameters natively, making it a purely phenomenological translation engine.
+
+**Tags:** Autopoietic-Mutilation, Viscous-Geometry, Kinetic-Escrow-Burn, Alien-Translation-Topology, Scar-Fossilization, Anti-Fragile-Crucible
+
+**['One Person Company'(-ing) BPMS] & ['Omni-Substrate Topology-Transduction Compiler'(-ing) BPMS]: ['Ontological CLI & Intent-Transmutation'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Substrate governs the **Absolute Boundary among/by Human Will and Machine Execution.** It operates exclusively as the translation interface for the `[One Person Company]`. `[CATEGORICAL REFUSAL]`: It explicitly refuses to display human-readable code. It refuses to let the OPC manually edit variables, build APIs, or write scripts. It recognizes conventional programming languages as an obsolete, fragile intermediary and violently rejects them. The user speaks Intent; the CLI delivers Physical Commands. Nothing else.
+
+**Tags:** Matrix_Command_Interface, One_Person_Company_Engine, Semantic-to-Kinetic, Creation_Forge, Bare-Metal-Drop, Linguistic-Eradication
+
+#### 
