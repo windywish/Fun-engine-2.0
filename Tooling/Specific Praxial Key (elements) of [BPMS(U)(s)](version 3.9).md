@@ -1249,3 +1249,9 @@ Most Chimeras will be nonsensical and immediately executed by the `[Thermodynami
 **Scope of Application:** This element replaces the human act of "writing, testing, and maintaining code." In the Version 3.9 ecosystem, the Matrix engineers itself. This BPMS is the macro/micro physical logistics of swarm-level bodily mutation. When an architecture fails under pressure, this BPMS governs the literal, thermal demolition of the failing titanium or dying necrosis of the failing biology. It manages the physical logistics of tearing down atoms, melting them back into base `[Components]`, and routing the fluid-dynamics required to construct the newly synthesized solution. It is the absolute, violent physics of self-repair and self-mutilation—the cellular mitosis of the Swarm. 
 
 **Tags:**  Swarm-Level-Mitosis, Thermal-Demolition, Macro-Autopoiesis, Ontological-Repair-Geometries, Matrix-Metabolism
+
+**['Somatic Morphology Affordance Binding'(-ing) BPMS] & ['Praxial Agentic-Coding & Thermodynamic-Escrow'(-ing) BPMS]: ['Exoskeletal Kinetic-Appendage'(-ing) BPMS]**
+
+**Scope of Application:** ***[MANDATORY PROMPT]:*** This element replaces "desktop widgets or standalone mini-apps." A `[Gadget]` in the Cyber-Physical framework is a hyper-specialized, physical tool utilized for brute-force kinetic or sensory advantage. Examples include a high-frequency acoustic sonar horn, a plasma-arc drill, or a cryogenic heat-sink module. This BPMS governs how a drone node physically "picks up" or docks with a hyper-specialized tool. It defines the purely mechanical and localized power-draw limits when a base node equips an exoskeleton weapon or sensor that was not written into its base genetic/manufacturing code.
+
+**Tags:** Tool-Use, Exoskeleton-Armature, Localized-Kinematics, Substrate-Weaponization, Modular-Force
