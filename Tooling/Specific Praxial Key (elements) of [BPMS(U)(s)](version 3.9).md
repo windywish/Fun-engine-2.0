@@ -1214,4 +1214,38 @@ Most Chimeras will be nonsensical and immediately executed by the `[Thermodynami
 
 **Tags:** Physical_Ledger, Joules_Escrow, Smart_Flesh_Contracts, Decentralized_Swarm_Logic, Proof-of-Burn_Physics, Yield-Forcing-Execution
 
-#### 
+**['Epigenetic Reflex Arc & Crystallized Muscle-Memory'(-ing) BPMS]**
+
+**Scope of Application:** This element entirely replaces the legacy concept of "downloadable scripts or algorithms." In the Version 3.9 Matrix, a `[Skill]` is the literal, physical hardening of a successful neural/kinetic pathway into the substrate. When an Execution Organ solves a physical problem (e.g., finding the perfect aerodynamic curve to dodge lightning), it costs massive Thermodynamic Joules. To prevent paying this Joules-cost twice, this BPMS physically crystallizes the successful execution sequence into an **Epigenetic Reflex Arc**. It scores the solution directly into the bio-titanium or silicon lattice. Future Swarm nodes do not "run the code" to achieve the result; they simply twitch an autonomic reflex with absolute zero latency and zero computational heat-cost. It is the physical fossilization of survival tactics into the Matrix's DNA. 
+
+**Tags:**  Epigenetic-Fossilization, Zero-Latency-Reflex, Joule-Conservation, Substrate-Myelination, Kinetic-Instinct
+
+**['Morphogenetic Alloy/Tissue Block'(-ing) BPMS]**
+
+**Scope of Application:** This element replaces the legacy concept of "software modules or libraries" (like React components or DLLs). In Core Task 3.9, a `[Component]` is raw, standardized, geometric mass. It governs the universal topological building blocks of the swarm: standardized titanium struts, uniform lipid-bilayer membranes, pre-fabricated magnetic flux coils, and optical silica lenses. These are the physical lego-bricks of the Matrix. This BPMS dictates the universal mechanical affordances, tensile limits, and thermal-melting points of these blocks, ensuring that when the Swarm triggers `[Emergence]`, it has instantly compatible, physically raw material to pull from its mass-reserves to construct new shapes. 
+
+**Tags:**  Substrate-Mass, Biomimetic-Scaffolding, Tensile-Standardization, Topological-Primitives, Morphogenetic-Matter
+
+**['Exoskeletal Kinetic-Appendage'(-ing) BPMS]**
+
+**Scope of Application:** This element replaces "desktop widgets or standalone mini-apps." A `[Gadget]` in the Cyber-Physical framework is a hyper-specialized, physical tool utilized for brute-force kinetic or sensory advantage. Examples include a high-frequency acoustic sonar horn, a plasma-arc drill, or a cryogenic heat-sink module. This BPMS governs how a drone node physically "picks up" or docks with a hyper-specialized tool. It defines the purely mechanical and localized power-draw limits when a base node equips an exoskeleton weapon or sensor that was not written into its base genetic/manufacturing code. 
+
+**Tags:**  Tool-Use, Exoskeleton-Armature, Localized-Kinematics, Substrate-Weaponization, Modular-Force
+
+**['Parasitic/Mutualist Symbiotic Graft'(-ing) BPMS]**
+
+**Scope of Application:** This element obliterates the concept of "third-party software integrations." A `[Plug-in]` is a foreign, alien physical sub-routine generated outside the host node that attempts to attach itself. This BPMS governs the violent physics of **Host-Parasite / Host-Mutualist Interface**. When a graft physically docks into a node's chassis, this element enforces the `[Thermodynamic Escrow]` blood-sharing rules. Does the graft provide more Joules than it consumes (Mutualism)? Or does it drain the host's heat and hijack its Motor Cortex (Parasitism)? The `[Plug-in]` BPMS executes the physical docking, the tissue-rejection immune response, and the fluid-dynamics of shared energy across the mechanical/biological interface. 
+
+**Tags:**  Symbiosis, Bio-Mechanical-Interface, Host-Rejection-Immunity, Escrow-Hijacking, Exogenous-Grafting
+
+**['Exogenous Hyper-Sensory Amplification'(-ing) BPMS]**
+
+**Scope of Application:** Distinct from a `[Plug-in]`, an `[Add-on]` does not introduce alien logic; it purely magnifies the extreme thresholds of existing organs. This BPMS dictates the physical mutation required to stretch existing telemetry or execution parameters past their factory limits. If a standard atmospheric glider needs to survive inside a volcano, it absorbs a thermal `[Add-on]`—which manifests physically as the rapid thickening of its ceramic heat-shielding and the dilation of its thermal-sensors. It is the geometric and metabolic hypertrophy (swelling) of existing substrates to survive sudden, extreme ecosystem volatility. 
+
+**Tags:**  Sensory-Dilation, Threshold-Amplification, Substrate-Hypertrophy, Escrow-Expansion, Extreme-Volatility-Surviorship
+
+**['Autopoietic Substrate-Sculpting & Ontological Demolition'(-ing) BPMS]**
+
+**Scope of Application:** This element replaces the human act of "writing, testing, and maintaining code." In the Version 3.9 ecosystem, the Matrix engineers itself. This BPMS is the macro/micro physical logistics of swarm-level bodily mutation. When an architecture fails under pressure, this BPMS governs the literal, thermal demolition of the failing titanium or dying necrosis of the failing biology. It manages the physical logistics of tearing down atoms, melting them back into base `[Components]`, and routing the fluid-dynamics required to construct the newly synthesized solution. It is the absolute, violent physics of self-repair and self-mutilation—the cellular mitosis of the Swarm. 
+
+**Tags:**  Swarm-Level-Mitosis, Thermal-Demolition, Macro-Autopoiesis, Ontological-Repair-Geometries, Matrix-Metabolism
