@@ -1,4 +1,4 @@
-## Blueprint Template for One Person Company
+## Examples Template Instance ['One Person Company'(-ing) BPMS]
 
 ### IMPLEMENTATION 1: The "Kinetic Axiom Proving" Sequence (Initiative / Constructive Phase)
 
