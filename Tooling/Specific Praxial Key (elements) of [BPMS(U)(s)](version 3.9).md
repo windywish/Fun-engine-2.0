@@ -1309,3 +1309,27 @@ Most Chimeras will be nonsensical and immediately executed by the `[Thermodynami
 - **The Endless Sandbox Engine:** It is the core algorithm running inside the `['Continuous Survive Experiment']`, endlessly feeding dummy triggers into the Void-Echolocator to pre-compile blueprints for apocalypses that haven't happened yet.
 
 **Tags:** Meta-Compiler, Prompt-Algorithmic Transmutation, Multi-Parameter Crucible, Omni-Substrate Translation, True Emergence Logic
+
+**['Asymmetrical Chrono-Dissonance Probe'(-ing) BPMS]**
+
+**Methodological Binding:** An Inquiry designed specifically to break blueprints out of human/legacy time-scales. A Legacy Silicon system assumes all software runs at the same basic clock-speed. This Praxial Key interrogates the generated blueprint by violently stretching and compressing its execution timeline. It asks the matrix: **"If target substrate A executes its reality in 3 milliseconds (e.g., algorithmic trading), and substrate B executes its reality in 3 decades (e.g., brand reputation/arbor-growth), how does this architecture survive the temporal shearing force?"**
+
+**Scope of Application:**
+
+- **The Tectonic vs. Hyper-Kinetic Test:** Applied forcefully via the `['Continuous Survive Experiment']`. Before a blueprint is deployed, this probe asks: "What happens to this data-pipeline if the external API stops updating daily and updates once a year? Does it starve?"
+- **Temporal Shielding:** It is used by the compiler to generate "Thermodynamic Escrow Buffers"—capacitors that hold energy so a fast system doesn't shatter a slow system when they are forced to integrate.
+- **Omni-Substrate Lifespan Alignment:** Essential for non-Silicon applications (like legal contracts or farming), forcing the user to calculate the physical decay of the substrate over deep time.
+
+**Tags:** Inquiry Methodology, Temporal Asymmetry, Deep-Time Physics, Relativistic Clock-Speed, Thermodynamic Buffering
+
+**['Ontological Half-Life Echolocation'(-ing) BPMS]**
+
+**Methodological Binding:** Legacy Silicon systems build software/concepts under the delusion that they will exist forever (leading to massive technical/corporate debt). This Praxial Key is the active interrogation of a system's inevitable death. For every module, script, strategy, or Holon generated, this Inquiry violently forces the question: **"What is the exact mathematical half-life of this entity? Under what precise thermodynamic conditions must this blueprint be intentionally executed (killed) and composted?"**
+
+**Scope of Application:**
+
+- **The Pre-Coded Guillotine Trigger:** Instead of waiting for the system to bleed out (which relies on Friction-Ignition), this Inquiry forces the Guillotine to have a pre-set expiration date mapped to reality-decay.
+- **Legacy System Composting Prep:** It is applied to ensure that no "files," "packages," or "processes" ever become permanent roadblocks. It interrogates the OS to locate where energy will become trapped once the blueprint’s utility decays.
+- **Thermodynamic Reincarnation:** It allows the user to design the architecture for how the dead system’s remaining `[Praxial Joules]` and data will be harvested to fuel the next cycle.
+
+**Tags:** Inquiry Methodology, Thermodynamic Death-Mapping, Entropic Half-Life, Pre-Destined Composting, Absolute Lifecycle Computation

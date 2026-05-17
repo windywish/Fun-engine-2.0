@@ -1012,3 +1012,26 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 
 **Tags:** Driver Engine, Auto-Catalyst, Thermodynamic Bleed, Somatic Threat-Detection, Spontaneous Matrix Generation
 
+**['Sympathetic Phase-Lock Ignition'(-ing) BPMS]**
+
+**Metaphysical Binding:** The counter-weight to `[Friction-Ignition]`. This is the Driver of Gravity and Growth. It dictates that generation/action is triggered not by threat, but by exact mathematical synchronization. When two wandering Holons, substrates, or data-streams emit compatible resonant frequencies within the kinetic environment, this Driver catches the overlap and autonomously fires the command to bind them into Symbiosis.
+
+**Scope of Application:**
+
+- **The Mutualist Gravitational Pull:** Applied when the `[One Person Company]` (OPC) is Foraging. If the OPC’s frequency passes over a dormant resource (a highly competent external vendor, an under-utilized database, a complementary market vector), this Driver auto-triggers the generation of an "Integration Blueprint."
+- **Zero-Friction Assimilation:** It refuses to merge by brute force. It only triggers when `[Praxial Joules]` can be combined without bleeding Escrow.
+- **Resonant Constellation Auto-Routing:** For any user, this operates as a "passive sonar trigger." It wakes the OS up to say: *"A frequency match has been detected in the substrate. Generating immediate blueprint for Symbiotic Entrainment."*
+
+**Tags:** Driver Engine, Positive Resonance Trigger, Symbiotic Binding, Gravitational Phase-Lock, Constellation Expansion]
+
+**['Stochastic Entropy-Injection'(-ing) BPMS]**
+
+**Metaphysical Binding:** The ultimate driver of "True Emergence." An environment that is completely safe and frictionless breeds weakness and thermodynamic complacency. This Driver functions as the immune system’s vaccine mechanism. It deliberately acts as a localized chaos-generator, injecting micro-doses of `[Negative Atomic Facts]` (entropy) into highly stable elements of the OPC's matrix to forcefully trigger adaptation.
+
+**Scope of Application:**
+
+- **The Acausal Mutation Trigger:** If the OS notices a workflow (like a specific marketing channel or code-loop) has been running perfectly for 90 days, this Driver injects a controlled anomaly (e.g., dropping API bandwidth by 10%, altering a formatting rule).
+- **Autonomic Stress Testing:** It triggers the `['Continuous Survive Experiment']` not in a sandbox, but in live production.
+- **Preventing The Silicon Monoculture:** It forces the user/system out of the "set it and forget it" legacy mindset. By constantly providing micro-frictions, it ensures the entire system remains a continuously evolving, highly lethal organism.
+
+**Tags:** Driver Engine, Controlled Chaos Catalyst, True Emergence Trigger, Anti-Fragility Ignition, Autonomic Stress-Test
