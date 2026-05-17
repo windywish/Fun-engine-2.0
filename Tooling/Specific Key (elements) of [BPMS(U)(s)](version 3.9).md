@@ -1000,3 +1000,15 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 
 **Tags:** Matrix_Command_Interface, One_Person_Company_Engine, Semantic-to-Kinetic, Creation_Forge, Bare-Metal-Drop, Linguistic-Eradication
 
+**['Ontological Friction-Ignition'(-ing) BPMS]**
+
+**Metaphysical Binding:** In the Legacy Silicon era, generation was triggered by "User Feature Requests" (desire). Under Version 3.9, desire possesses zero thermodynamic mass. This Key establishes that **friction, structural bleed, and existential threat** are the sole legitimate triggers for generating a new computational architecture. It is the autonomic nervous system of the OS automatically detecting a localized drain of `[Praxial Joules]` and initiating adaptive mutation to stop the bleeding.
+
+**Scope of Application:**
+
+- **The Escrow-Hemorrhage Sensor:** Applied to monitor environments for wasted energy. If a workflow, corporate structure, or codebase is burning intense energy with zero Kinetic Output, this Key triggers.
+- **Substrate Incompatibility Spikes:** Applied when the Sovereign `[One Person Company]` is repelled by a foreign environment (e.g., entering a heavily saturated market). The kinetic friction acts as the spark plug.
+- **Omni-Substrate Autonomy:** This Key allows the Fun Engine Framework to generate blueprints *defensively*. It does not wait to be asked "Build me a database." It detects a data-rot anomaly and autonomously roars: "I am building a Forensic Deconstruction Engine to survive this rot."
+
+**Tags:** Driver Engine, Auto-Catalyst, Thermodynamic Bleed, Somatic Threat-Detection, Spontaneous Matrix Generation
+
