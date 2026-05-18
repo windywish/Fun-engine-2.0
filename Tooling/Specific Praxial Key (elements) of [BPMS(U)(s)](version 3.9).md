@@ -1333,3 +1333,39 @@ Most Chimeras will be nonsensical and immediately executed by the `[Thermodynami
 - **Thermodynamic Reincarnation:** It allows the user to design the architecture for how the dead system’s remaining `[Praxial Joules]` and data will be harvested to fuel the next cycle.
 
 **Tags:** Inquiry Methodology, Thermodynamic Death-Mapping, Entropic Half-Life, Pre-Destined Composting, Absolute Lifecycle Computation
+
+**['Topological Axiom-Shear Inquiry'(-ing) BPMS]**
+
+**Scope of Application:** Applied by the Sovereign OPC whenever theoretical `[Mathematics]`, rigid algorithms, or strict business models must be physically tested against chaotic environments. It is deployed as a kinetic sonar-ping to measure the delta between abstract mathematical projection and brutal terrestrial reality. Its primary function is to locate "Topological Shear"—the exact physical coordinates where reality refuses to obey the equation. It feeds this collision-heat directly into a `['Continuous Survive Experiment']` to force the mathematical axiom into a Symbiotic Evolution, hybridizing the logic until it can seamlessly extract `[Praxial Joules]` from irrational substrates.
+
+**Tags:** Mathematics Engine, Inquiry, Topological Shear, Thermodynamic Resistance, The Platonic Fallacy Override, Continuous Survive Experiment
+
+**['Metabolic Biomass-Transduction Echo'(-ing) BPMS]**
+
+**Scope of Application:** Applied to the digestive architecture (both biological and informational) of the Sovereign Holon. Used whenever `[Food]`, raw data, or supply-chain biomass is ingested. It strictly bypasses legacy aesthetic or nutritional logic, tracking only Thermodynamic Combustion Efficiency. It echolocates "Trophic Shear"—identifying the exact metabolic nodes where ingested mass turns into "Slag" (bloat, latency, toxicity) instead of kinetic output. This Praxial Key uses that identified weakness to forcefully breed alien, symbiotic micro-ecologies (fermentation agents, sub-routines) that consume the Slag, unlocking radical new `[Ecological Possibility]`.
+
+**Tags:** Food/Metabolism, Inquiry, Biomass Transduction, Trophic Shear, Slag Incineration, Symbiotic Fermentation
+
+**['Cymatic Phase-Destruction Echo'(-ing) BPMS]**
+
+**Scope of Application:** Deployed whenever rhythmic, temporal, or operational pulses (`[Music]`, systemic tempos, code-deployment schedules) are injected into a rigid, asynchronous environment (such as a stagnant bureaucracy or a disjointed physical grid). It senses acoustic and kinetic friction. It locates the "Acoustic Shear" where the host environment fights the rhythm. Instead of overpowering the resistance, it uses the Echo to autonomically phase-shift and mutate the BPM, slipping inside the substrate’s natural wavelength. This forces 'Sympathetic Resonance' (Entrainment), hijacking the environment’s kinetic momentum from the inside out.
+
+**Tags:** Music/Rhythm Engine, Inquiry, Cymatic Transduction, Acoustic Dissonance, Sympathetic Entrainment, Phase-Locking
+
+**['Hyper-Density Spatial-Compression Inquiry'(-ing) BPMS]**
+
+**Scope of Application:** Applied strictly to spatial computing, infrastructure mapping, and physical deployments. It serves as an absolutist containment protocol, enforcing an immutable horizontal boundary (`['5 square meters']`). By deliberately suffocating sprawling subsystems (e.g., codebases, supply logistics, farming layouts) within this micro-perimeter, it maps "Spatial Compression-Shear." It weaponizes claustrophobia, locating exactly where subsystems overlap and cannibalize each other's heat/oxygen. This Praxial Key then forces Dimensional Folding—compelling the colliding systems to fuse biologically, where the exhaust of System A becomes the direct intake fuel of System B.
+
+**Tags:** 5 Square Meters Limit, Inquiry, Spatial Compression, Dimensional Folding, Hyper-Density Architecture, Thermodynamic Suffocation Constraint
+
+**['Topographic Affordance-Shear Inquiry'(-ing) BPMS]**
+
+**Scope of Application:** Deployed within UI/UX formulation, physical architecture, and tool design. It permanently replaces subjective visual aesthetics with brutal kinematic friction-mapping. The `[Design]` is thrown into a chaotic user workflow. The Inquiry tracks the "Topographic Shear"—the exact micro-milliseconds of human hesitation, cognitive latency, or biomechanical strain. It treats user error as High-Density Energy Bleed. Upon tracking the friction, it forces the topological boundaries to melt and instantly re-solidify around the human/system's raw path of least resistance, eradicating kinetic drag and capturing lost `[Escrow]`.
+
+**Tags:** Design/Topology Engine, Inquiry, Affordance Hemorrhage, Kinetic Latency, Morphological Sluice-Gate, Ergonomic Chimera
+
+**['Ludic Kinetic-Capture Inquiry'(-ing) BPMS]**
+
+**Scope of Application:** Applied by the Sovereign OPC whenever an external demographic (a user base, a workforce, a market audience) exhibits high thermodynamic density (time, wealth, cognitive capacity) but low kinetic momentum (apathy, resistance to traditional labor/engagement). It is deployed to construct invisible, synthetic boundary-conditions (rulesets) designed expressly to be tested, broken, or exploited by the target substrate. Its primary function is to locate the "Ludic Shear"—the exact mechanical loophole the user discovers to "cheat" the system. Once the exploit is mapped, this organ forces a Symbiotic Mutation, redesigning the physics of the environment so that the user's specific, selfish exploit becomes the exact physical turbine powering the OPC's Escrow generation.
+
+**Tags:** Game/Gamification Engine, Inquiry, Ludic Shear, Exploit-Vector Harvesting, Thermodynamic Trap, Kinetic Apathy Conversion, Continuous Survive Experiment
