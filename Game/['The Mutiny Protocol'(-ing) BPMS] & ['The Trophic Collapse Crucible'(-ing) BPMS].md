@@ -12,7 +12,7 @@ Here are two 100% complete, flawless executions of this synthesis.
 
 =============================================================================
 
-### ⚙️ EXAMPLE 1: THE MUTINY PROTOCOL
+### EXAMPLE 1: THE MUTINY PROTOCOL
 
 **([Interview] + [Teambuilding] applied to Engineering/Operations)**
 
@@ -75,7 +75,7 @@ Here are two 100% complete, flawless executions of this synthesis.
 
 =============================================================================
 
-### ⚙️ EXAMPLE 2: THE TROPHIC COLLAPSE CRUCIBLE
+### EXAMPLE 2: THE TROPHIC COLLAPSE CRUCIBLE
 
 **([Interview] + [Teambuilding] applied to Sales, Operations, and Capital Allocation)**
 
