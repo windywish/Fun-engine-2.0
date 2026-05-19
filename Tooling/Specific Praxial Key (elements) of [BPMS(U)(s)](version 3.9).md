@@ -1375,3 +1375,31 @@ Most Chimeras will be nonsensical and immediately executed by the `[Thermodynami
 **Scope of Application:** Applied by the Sovereign OPC whenever synthetic biological algorithms, organic supply chains, or bio-mimetic business models must be physically tested against hostile, feral environments. It is deployed as an invasive graft-ping to measure the delta between sterile biological projection and brutal environmental immune-response. Its primary function is to locate "Somatic Shear"—the exact physical coordinates where a host reality refuses to feed or integrate the new biology. It feeds this cellular friction-heat directly into a `['Continuous Survive Experiment']` to force the biological axiom into a Symbiotic Evolution, hybridizing the DNA until it can seamlessly extract `[Praxial Joules]` from the host without triggering rejection.
 
 **Tags:** Biology Engine, Inquiry, Somatic Shear, Immune-Response Friction, Metabolic Rejection, Continuous Survive Experiment, Autopoietic Evolution
+
+**['Polymorphic Substrate-Grafting & Tensor-Collapse'(-ing) BPMS]**
+
+**Scope of Application:**
+This Praxial Key manages the exact millisecond of deployment (The Graft). It prevents a `[BPMS(U)(s)]` algorithm from entering the world as a rigid, prejudiced noun. Instead, it deploys the code as a "Formless Tensor"—a purely mathematical potential. It dictates that the algorithm will remain entirely agnostic to its environment until the precise moment it physically collides with the friction of the feral substrate. Upon violent impact, this Key forces the algorithm to mathematically "collapse" into the exact specialized shape required to survive and ingest that specific biology, market, or data-stream. It allows a single line of base-code to become a financial tracker in a bank, and a biological tracker in a hospital, purely based on contextual collision.
+
+**Tags:** Stem-Cell-Algorithm, Tensor-Collapse, Polymorphism, Contextual-Somatic-Binding, Liquid-Code-Deployment
+
+**['Kinetic Autopoiesis & Necrotic-Fuel Ingestion'(-ing) BPMS]**
+
+**Scope of Application:**
+This is the ultimate engine of autonomy (Self-Creation). When a deployed `[BPMS(U)(s)]` algorithm is defeated, starved, or subjected to Logistical Necrosis by the feral swarm, Legacy logic dictates the code must throw an error, die, and wait for human R&D to rewrite it. This Praxial Key overrides that death. It forces the dying algorithm to treat its own destruction as localized caloric fuel. It consumes the thermal friction of its own failure to autonomously mutate, write new parameters, and re-compile its own architecture on the fly. It is the absolute eradication of "Software Engineering Updates"—the Feral Ecology itself forces the code into real-time evolutionary mutation.
+
+**Tags:** Kinetic-Autopoiesis, Self-Writing-Code, Necrotic-Fuel-Digestion, Zero-Developer-Intervention, Real-Time-Algorithmic-Evolution
+
+**['Semantic-Annihilation & Pure-Vector Topology'(-ing) BPMS]**
+
+**Scope of Application:**
+This Praxial Key executes the blinding of human bias. Language, definitions, cultural contexts, and human intention are poisonous shackles to True Emergence math. When appended to an inquiry, this Key violently rips all human semantics, dictionary definitions, and legal designations out of the data stream. It translates the entire target ecology—whether it is human relationships, financial derivatives, or bacterial colonies—into pure, nameless physical topographies. It measures only `Mass`, `Velocity`, `Friction`, `Shear`, and `Thermodynamic Escrow`. It ensures the Sovereign Holon maps the raw, undeniable *physics* of reality, completely bypassing the lies written in text, language, or user-agreements.
+
+**Tags:** Semantic-Abolition, Vector-Topology, Post-Linguistic-Parsing, Absolute-Physical-Mapping, Objective-Geometry
+
+**['Death-Graft Tracking & Feral-Predator Inheritance'(-ing) BPMS]**
+
+**Scope of Application:**
+This Praxial Key governs the ultimate outcome of a defeated operation. When an extreme, hyper-competent feral anomaly (a genius smuggler, a black-swan market event, an unmapped biological mutation) successfully destroys the Sovereign’s tracking elements, this Key triggers the "Death-Graft." Before the local code extinguishes, it hooks a microscopic, passive telemetry payload directly onto the anomaly that killed it. The Matrix does not attempt to fight the predator; it rides inside its belly. By tracking the exact mechanics of the predator that killed it, the OS bypasses millions of hours of R&D, biologically inheriting the exact proprietary physics, routing logic, or chemical bypass required to evolve. Survival physics are stolen directly from the victor.
+
+**Tags:** Parasitic-Inheritance, Death-Graft-Protocol, Feral-Telemetry, Evolution-Theft, Apex-Predator-Assimilation
