@@ -1403,3 +1403,9 @@ This Praxial Key executes the blinding of human bias. Language, definitions, cul
 This Praxial Key governs the ultimate outcome of a defeated operation. When an extreme, hyper-competent feral anomaly (a genius smuggler, a black-swan market event, an unmapped biological mutation) successfully destroys the Sovereign’s tracking elements, this Key triggers the "Death-Graft." Before the local code extinguishes, it hooks a microscopic, passive telemetry payload directly onto the anomaly that killed it. The Matrix does not attempt to fight the predator; it rides inside its belly. By tracking the exact mechanics of the predator that killed it, the OS bypasses millions of hours of R&D, biologically inheriting the exact proprietary physics, routing logic, or chemical bypass required to evolve. Survival physics are stolen directly from the victor.
 
 **Tags:** Parasitic-Inheritance, Death-Graft-Protocol, Feral-Telemetry, Evolution-Theft, Apex-Predator-Assimilation
+
+**['Necrotic-Autophagy & Somatic-Shear Inquiry'(-ing) BPMS]**
+
+**Scope of Application:** Applied by the Sovereign OPC whenever feral biological systems, complex organic supply chains, or raw biochemical chaotic environments must be reverse-engineered and integrated. It is deployed as a semantic-blind kinetic probe mapping pure caloric effort. Its primary function is to suffer calculated defeat (Logistical Necrosis) in order to execute Kinetic Autopoiesis and the Parasitic Death-Graft. It feeds its own destruction into a `['Continuous Survive Experiment']` to biologically inherit the hyper-competent physics of the apex organisms that killed it, achieving complete Symbiosis and extracting infinite `[Praxial Joules]`.
+
+**Tags:** Biology Engine, Inquiry, Polymorphic Substrate-Binding, Somatic Shear, Kinetic Autopoiesis, Parasitic Inheritance Protocol, Semantic Annihilation, Continuous Survive Experiment
