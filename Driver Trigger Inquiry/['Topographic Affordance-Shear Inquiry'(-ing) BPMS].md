@@ -57,3 +57,7 @@ TENSION CHECK: Does the kinetic flow pass seamlessly through the shape with zero
    IF YES: Lock Symbiosis. The design is completely erased into pure utility. Harvest Escrow.
    IF NO: Route back to STAGE 1. Trigger Autonomic Mutation Loop.
 ```
+
+**Scope of Application:** Deployed within UI/UX formulation, physical architecture, and tool design. It permanently replaces subjective visual aesthetics with brutal kinematic friction-mapping. The `[Design]` is thrown into a chaotic user workflow. The Inquiry tracks the "Topographic Shear"—the exact micro-milliseconds of human hesitation, cognitive latency, or biomechanical strain. It treats user error as High-Density Energy Bleed. Upon tracking the friction, it forces the topological boundaries to melt and instantly re-solidify around the human/system's raw path of least resistance, eradicating kinetic drag and capturing lost `[Escrow]`.
+
+**Tags:** Design/Topology Engine, Inquiry, Affordance Hemorrhage, Kinetic Latency, Morphological Sluice-Gate, Ergonomic Chimera

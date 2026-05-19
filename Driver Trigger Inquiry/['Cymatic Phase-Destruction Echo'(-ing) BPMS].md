@@ -61,3 +61,6 @@ TENSION CHECK: Does the structure move effortlessly on the new frequency, genera
    IF NO: The frequency is parasitic noise. Trigger [Thermodynamic Guillotine]. Silence the broadcast, incinerate the waveform via [Entropic Solvent], and restart STAGE 1 with a completely alien temporal baseline.
 ```
 
+**Scope of Application:** Deployed whenever rhythmic, temporal, or operational pulses (`[Music]`, systemic tempos, code-deployment schedules) are injected into a rigid, asynchronous environment (such as a stagnant bureaucracy or a disjointed physical grid). It senses acoustic and kinetic friction. It locates the "Acoustic Shear" where the host environment fights the rhythm. Instead of overpowering the resistance, it uses the Echo to autonomically phase-shift and mutate the BPM, slipping inside the substrate’s natural wavelength. This forces 'Sympathetic Resonance' (Entrainment), hijacking the environment’s kinetic momentum from the inside out.
+
+**Tags:** Music/Rhythm Engine, Inquiry, Cymatic Transduction, Acoustic Dissonance, Sympathetic Entrainment, Phase-Locking

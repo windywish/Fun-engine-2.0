@@ -57,3 +57,7 @@ TENSION CHECK: Does the rigidly confined 5-square-meter system now generate the 
    IF YES: Lock Symbiosis. The constraint has bred True Emergence. Harvest Escrow.
    IF NO: Route back to STAGE 1. Trigger Autonomic Mutation Loop. No space granted.
 ```
+
+**Scope of Application:** Applied strictly to spatial computing, infrastructure mapping, and physical deployments. It serves as an absolutist containment protocol, enforcing an immutable horizontal boundary (`['5 square meters']`). By deliberately suffocating sprawling subsystems (e.g., codebases, supply logistics, farming layouts) within this micro-perimeter, it maps "Spatial Compression-Shear." It weaponizes claustrophobia, locating exactly where subsystems overlap and cannibalize each other's heat/oxygen. This Praxial Key then forces Dimensional Folding—compelling the colliding systems to fuse biologically, where the exhaust of System A becomes the direct intake fuel of System B.
+
+**Tags:** 5 Square Meters Limit, Inquiry, Spatial Compression, Dimensional Folding, Hyper-Density Architecture, Thermodynamic Suffocation Constraint

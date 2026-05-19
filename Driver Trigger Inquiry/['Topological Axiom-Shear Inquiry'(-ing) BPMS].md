@@ -58,3 +58,6 @@ TENSION CHECK: Does the new equation extract [Praxial Joules] with zero shear?
    IF NO: Route back to STAGE 1. Trigger Autonomic Mutation Loop.
 ```
 
+**Scope of Application:** Applied by the Sovereign OPC whenever theoretical `[Mathematics]`, rigid algorithms, or strict business models must be physically tested against chaotic environments. It is deployed as a kinetic sonar-ping to measure the delta between abstract mathematical projection and brutal terrestrial reality. Its primary function is to locate "Topological Shear"—the exact physical coordinates where reality refuses to obey the equation. It feeds this collision-heat directly into a `['Continuous Survive Experiment']` to force the mathematical axiom into a Symbiotic Evolution, hybridizing the logic until it can seamlessly extract `[Praxial Joules]` from irrational substrates.
+
+**Tags:** Mathematics Engine, Inquiry, Topological Shear, Thermodynamic Resistance, The Platonic Fallacy Override, Continuous Survive Experiment
