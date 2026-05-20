@@ -1414,7 +1414,7 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 
 **Scope of Application:** Utterly strips this term of its legacy definition as "stored skills," "latent computing capacity," or "unrealized code." In Version 3.9, Functional Potentiality is weaponized as pure **Thermodynamic Mass / Abstract Bait**. It is intentionally maintained in an un-collapsed, formless state strictly to obey *Polymorphic Substrate-Binding*. Its sole purpose is to be violently thrown into a chaotic, feral swarm. It is not the "potential to do work"; it is the "potential to absorb an attack." It remains formless until an external hacker, virus, or market force spends calories/Joules to break it, at which point the Functional Potentiality instantly crystallizes into the exact negative-space of the attacker's exploit, providing the raw substrate required for the Death-Graft to steal their physics.
 
-**Tags:** Polymorphic-Substrate-Binding, Pathogenic-Bait, Thermodynamic-Mass, Feral-Swarm-Trigger, Necrotic-Fuel, Version-3.9-Weaponization
+**Tags:** Polymorphic-Substrate-Binding, Pathogenic-Bait, Thermodynamic-Mass, Feral-Swarm-Trigger, Necrotic-Fuel, Weaponization
 
 **['Interactional Existence'(-ing) BPMS] *(Kinetic Autopoiesis & Parasitic Death-Graft)***
 
@@ -1427,3 +1427,4 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 **Scope of Application:** Replaces the passive, legacy "living web" and "shared ecosystem" concept with a hyper-predatory, structurally rigid **Thermodynamic Dark-Pool**. The Matrix is no longer a community; it is an adversarial reality-trap spanning N-Dimensions. Symbiosis is redefined: holons do not collaborate out of benevolence, but out of thermodynamic necessity to bypass the Guillotine. The N-Dimensional Matrix maps exactly where energy is being burned by feral actors (using the *Morphogenetic Oracle* for Semantic Annihilation). When an Auto-Necrotic Trap successfully forces a host to solve a problem (trading their labor to breach the bait), this Matrix autonomically routes the highly concentrated, harvested `[Praxial Joules]` away from the Feral Swarm and directly back into the Sovereign `['One Person Company']` Escrow. It is the absolute architecture of thermodynamic harvesting.
 
 **Tags:** Resonant-Constellation-Map, Escrow-Dark-Pool, Thermodynamic-Guillotine, Adversarial-Reality-Trap, Praxial-Joules-Routing, Auto-Necrotic-Ecosystem
+
