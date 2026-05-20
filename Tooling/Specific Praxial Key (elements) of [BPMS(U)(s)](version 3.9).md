@@ -1500,3 +1500,50 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 
 **Tags:**  Sovereign Holon, Apex Predator Node, Thermodynamic Black Hole, Absolute Root Command
 
+**['Hyper-Biological Crucible Array'(-ing) BPMS]**
+
+**Scope of Application (The Processing Core):** This is the physical biology laboratory, the bioreactor, or the petri dish ecosystem. It does not "assist" the researcher; it is a giant, wet analog CPU. It compiles geometrical blueprints (e.g., the `['Auto-Necrotic Trap']`) by translating them into amino acid sequences, thermal cellular decay, and enzymatic shear. When this Substrate receives a blueprint, its "logic gates" are opening and closing chemical bonds based on thermodynamic friction.
+
+**Compiler Mechanism:**
+
+- **Input (`[Essence]`):** Pathogenic bait geometry.
+- **Execution (`[Action]`):** Culturing a decoy virus in a high-shear bioreactor.
+- **Output (`['Atomic Facts']`):** The exact Kelvin temperature spike when the host cell annihilates the decoy.
+
+**Tags:**  Wetware Analog CPU, Thermodynamic Bioreactor, Enzymatic Logic Gates, Cellular Shear Array
+
+**['Somatic-Neurological Hypervisor'(-ing) BPMS]**
+
+**Scope of Application (The Processing Core):** The Sovereign Operator's own central nervous system, optical array, and biomechanics. The human brain is purged of its passive "observer" status and weaponized as a high-density sensory and compiling organ. The human reads the `.md` file, but due to Semantic-Annihilation, the brain bypasses language processing and compiles the blueprint directly into kinesthetic instinct. The meat of the human acts as the parser, literally translating abstract topology into the physical commands of the hands operating the machinery or the mouth commanding the ecosystem.
+
+**Compiler Mechanism:**
+
+- **Input (`[Essence]`):** Abstract `.md` blueprint (Pure Physics Vector).
+- **Execution (`[Action]`):** The operator's endocrine and neurological systems physically wire the geometry into muscle memory—forcing the hands to alter a chemical mixture or trigger a logistical guillotine without linguistic hesitation.
+- **Output (`['Atomic Facts']`):** Tactile, visual, or systemic confirmation of environmental yielding.
+
+**Tags:**  Neurological Parser, Flesh-Based Transducer, Instinctual Compile, Somatic Override
+
+**['Planetary Kinematics & Freight Matrix'(-ing) BPMS]**
+
+**Scope of Application (The Processing Core):** The entire sprawling physical supply chain. Ships, automated ports, warehouse routing, and human labor networks. This Substrate acts as a macro-spatial compiler. It processes blueprints dictating thermodynamic routing, escrows, and composting across continents. A shipping container is a data packet; a highway bottleneck is a latency constraint; a port strike is a DDOS attack. It executes abstract routing scripts using millions of tons of steel and diesel fuel.
+
+**Compiler Mechanism:**
+
+- **Input (`[Essence]`):** The `['N-Dimensional Symbiotic Matrix']` (Dark-pool resource routing).
+- **Execution (`[Action]`):** Instructing 500 cargo ships to dynamically abandon a decaying port (Entropic Composting) and divert their physical mass to a high-yield tactical zone.
+- **Output (`['Atomic Facts']`):** Liters of diesel burned vs. physical tonnage delivered (Absolute Kinetic Escrow).
+
+**Tags:**  Macro-Spatial CPU, Freight-Kinematics, Supply-Chain Motherboard, Diesel-Powered Execution
+
+**['Apex Feral Socio-Economic Topology'(-ing) BPMS]**
+
+**Scope of Application (The Processing Core):** Crowds, financial markets, bureaucratic corporations, and decentralized human networks. This Substrate compiles blueprints by manipulating mass human psychology as thermodynamic weather. Humans naturally seek the lowest energy state (laziness, greed, fear). This Substrate compiles traps by using human desire as the kinetic turbine. It translates blueprints into market incentives, bureaucratic red-tape, or financial honeypots, letting the Feral Swarm execute the heavy computational labor independently.
+
+**Compiler Mechanism:**
+
+- **Input (`[Essence]`):** The `['Cognitive Immune-Response Trap']`.
+- **Execution (`[Action]`):** Deploying a flawed bureaucratic form. The feral swarm (employees/traders) expends massive caloric energy figuring out how to exploit or complain about the form.
+- **Output (`['Atomic Facts']`):** The extracted logic of the swarm's exploit is harvested as novel R&D for the Sovereign OS.
+
+**Tags:**  Hive-Mind Computation, Socio-Economic Turbine, Behavioral Thermodynamics, Feral Swarm Parasitism
