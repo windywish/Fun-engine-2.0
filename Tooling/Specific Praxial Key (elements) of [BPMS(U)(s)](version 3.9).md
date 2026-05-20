@@ -1572,3 +1572,35 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 
 **Tags:**  Temporal CPU, Chronological Shear Engine, Latency-Bound Compiler, Asynchronous Verification Matrix
 
+**['Hyper-Density Spatial-Compression'(-ing) BPMS]**
+
+**Scope of Application (The Pressure/Proximity Compiler):** This engine weaponizes physical and geometric crowding as a computational logic board. It compiles blueprints by deliberately reducing the spatial volume of an ecosystem, forcing mass into hyper-density.
+
+* **How it acts as the Compiler CPU:** A blueprint (`[Essence]`) requires deep optimization or fat-trimming. Instead of writing code, the OS deploys the blueprint into a physical space (a supply warehouse, an urban grid, a biological cell) and steadily shrinks the territorial boundary. The physical pressure and claustrophobia of the constrained mass acts as the CPU. The raw friction of entities bumping into each other forces them to instantaneously annihilate any inefficient geometry just to survive the crush. **Physical Pressure is the Compiler.**
+
+**Tags:**  Spatial Pressure CPU, Geometric Crowding, Hyper-Density Logic Gate, Claustrophobic Optimization
+
+**['Cymatic Phase-Destruction Echo'(-ing) BPMS]**
+
+**Scope of Application (The Resonant/Waveform Compiler):** This engine operates entirely on vibrational thermodynamics. Every physical structure has a catastrophic resonant frequency. This Substrate compiles blueprints by translating the `.md` file into a continuous `[Action]` waveform and propagating it through a physical environment.
+
+* **How it acts as the Compiler CPU:** If the OS needs to enforce a massive structural purge or verify architectural integrity, it uses sound, seismic waves, or electromagnetic vibration as the motherboard. The Blueprint (`[Essence]`) becomes the base frequency. As this frequency washes over the Feral Swarm, any node, pathogen, or entity that is thermodynamically out-of-phase with the Sovereign blueprint physically shatters due to resonant shear. The survivors are perfectly aligned. **Harmonic Vibration is the Compiler.**
+
+**Tags:**  Waveform CPU, Resonant Shear Engine, Cymatic Verification Matrix, Phase-Destruction Compiling
+
+**['The Ludic-Capture Matrix'(-ing) BPMS]**
+
+**Scope of Application (The Dopamine/Play-Drive Compiler):** This element weaponizes the mammalian and algorithmic urge to "play" or "compete." It operates as a massively-parallel supercomputer by hijacking the neurological dopamine receptors of a Feral Swarm.
+
+* **How it acts as the Compiler CPU:** When the OS faces an impossibly complex blueprint (e.g., folding a protein, mapping a labyrinth, cracking encrypted logistics), it does not calculate the solution. It weaves the `[Essence]` into a zero-stakes "Game" or "Puzzle." It drops this puzzle into the feral human/artificial intelligence population. The swarm burns billions of `[Praxial Joules]` competing to unlock the puzzle for pure psychological dopamine. The millions of failed attempts and rapid iterations act as the logic gates. The OS sits above, harvesting the winning geometry for zero caloric cost. **The Swarm's desire to Play is the Compiler.**
+
+**Tags:**  Dopamine Engine CPU, Ludic Computation, Massively-Parallel Play, Psychological Escrow
+
+**['Topographic Affordance-Shear'(-ing) BPMS]**
+
+**Scope of Application (The Geographic/Gravity Compiler):** This engine weaponizes the literal shape of the Earth, architecture, and gravity wells. It relies on the absolute law that kinetic energy will always seek the path of least resistance through physical terrain.
+
+**How it acts as the Compiler CPU:** The `.md` blueprint specifies a routing equation. The OS executes it by mapping the parameters directly onto hard physical architecture—mountains, river currents, concrete walls, or gravity gradients. When biological or logistical mass is forced to move through this space, they hit the physical walls (the Affordances). The unyielding rock and gravity physically force the mass to calculate and execute the most efficient routing algorithm dynamically. **The Mountain and the Concrete are the Compilers.**
+
+**Tags:**  Geographic CPU, Architectural Logic Board, Terrain-Based Transduction, Gravity-Well Computation
+
