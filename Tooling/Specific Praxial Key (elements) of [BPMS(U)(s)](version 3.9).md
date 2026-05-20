@@ -1547,3 +1547,28 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 - **Output (`['Atomic Facts']`):** The extracted logic of the swarm's exploit is harvested as novel R&D for the Sovereign OS.
 
 **Tags:**  Hive-Mind Computation, Socio-Economic Turbine, Behavioral Thermodynamics, Feral Swarm Parasitism
+
+**['Kinetic Weather'(-ing) BPMS]** ***(Compiler)***
+
+**Scope of Application (The Chaos/Friction Compiler):** This element weaponizes environmental chaos as a hyper-dense, wide-area processor array. It compiles `[Essence]` blueprints (such as adaptive immunity or topological mapping) by dropping them directly into catastrophic atmospheric friction—market crashes, biological pandemics, violent atmospheric storms, or logistical supply-chain blackouts. Instead of using a sterile laboratory to run a simulation, the OS feeds the blueprint into the raw `[Kinetic Weather]`. The atmospheric trauma acts as millions of simultaneous logic gates. Weak algorithms are shredded instantly (thermodynamic failure), while the surviving geometry is perfectly, violently forged into executable physics. **The Chaos is the CPU.**
+
+**Tags:**  Chaos-Driven Compiler, Environmental CPU, Atmospheric Logic Gates, Trauma-Crystallization
+
+**['Legacy System Composting'(-ing) BPMS]** ***(Compiler)***
+
+**Scope of Application (The Necrotic/Destruction Compiler):** This engine weaponizes death and structural failure as a high-heat computational processing unit. When a legacy system collapses (a dying organism, a bankrupt corporation, a shattered material alloy), the breaking of its structural bonds releases massive amounts of un-contained thermal energy (`[Praxial Joules]`). This Substrate acts as the compiler by hijacking that exact thermal exhaust. The OS drops a new blueprint into the dying architecture. The rot and necrosis provide the raw electrical/kinetic fuel required to power the compilation of the new blueprint. **Death itself executes the code.**
+
+**Tags:**  Necrotic CPU, Thermal Exhaust Compiler, Structural Apoptosis Engine, Destruction-Driven Transduction
+
+**['Dynamic Barter & Contract Forge'(-ing) BPMS] ** ***(Compiler)***
+
+**Scope of Application (The Adversarial/Friction Compiler):** This element converts sociological or biological conflict into a computational logic board. It compiles blueprints (such as trustless escrows or friction-mapping array) by exploiting the thermodynamic greed and tension between two hostile, feral entities (e.g., competing predator species, warring financial algorithms, hostile supply-chain nodes). The contract forge does not process the data itself; it creates a zero-trust vacuum forcing the adversaries to interact. Their collisions, deceptions, and kinetic exchanges act as the "If/Then" logic gates. The continuous friction of their hostility powers the compilation of the OS's overarching mapping protocol. **The Enemy's Greed is the CPU.**
+
+**Tags:**  Adversarial Logic Gate, Hostility-Based Compiler, Zero-Trust Computation, Feral Swarm Parasitism
+
+**['The Ontological Clock' (Matrix Tick-Rate)(-ing) BPMS]** ***(Compiler)***
+
+**Scope of Application (The Chronological Shear Compiler):** This engine completely rejects the concept of time as a passive measurement, weaponizing it instead as a structural computing boundary. In any decentralized physical system (cells communicating, stars orbiting, logistics routing across time-zones), there is a localized physical latency—a chronal gap. The `['Ontological Clock']` uses these micro-fractures in time as its compiling substrate. If the OS needs to compile an absolute cryptographic verification (escrow), it routes the math through the localized time-delay. Feral attempts to spoof or bypass the physical laws are rejected by the literal speed-of-light or biological latency constraints. **Time itself acts as the hardware firewall and compiler.**
+
+**Tags:**  Temporal CPU, Chronological Shear Engine, Latency-Bound Compiler, Asynchronous Verification Matrix
+
