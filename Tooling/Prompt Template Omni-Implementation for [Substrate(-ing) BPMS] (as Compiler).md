@@ -20,7 +20,7 @@ You must force the Substrate Compiler to process the Blueprint strictly through 
 
 **EXECUTION BLUEPRINT REQUIREMENT:** Your output must be 100% complete and competent. Use the rigid Microscopic Execution Blueprint format below:
 
-1. **The Target Substrate Definition:** Name the specific `[TARGET COMPILER (THE HARDWARE)]` Substrate Compiler. Expose exactly what physical, social, or biological phenomena acts as the CPU/Logic Gates.
+1. **The Target Substrate Definition:** Name the specific `[TARGET COMPILER (THE HARDWARE)]`. Expose exactly what physical, social, or biological phenomena acts as the CPU/Logic Gates.
 2. **The Polymorphic Compilation Loop:** Detail the exact millisecond of physical collision. How does the [TARGET COMPILER (THE HARDWARE)] provide the friction necessary to give the `[TARGET BLUEPRINT]` its final physical shape?
 3. **Semantic-Annihilation Routing:** How does the [TARGET COMPILER (THE HARDWARE)] strip the [TARGET BLUEPRINT] of human meaning and measure its success purely through Thermodynamic Mass, Velocity, and Escrow generation? Give the exact topological metric.
 4. **Autopoietic Error Handling:** Describe the systemic failure state. If the [TARGET COMPILER (THE HARDWARE)]'s compilation stalls, how does it harvest the necrotic heat of its own failure to trigger Kinetic Autopoiesis?
