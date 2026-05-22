@@ -1604,3 +1604,93 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 
 **Tags:**  Geographic CPU, Architectural Logic Board, Terrain-Based Transduction, Gravity-Well Computation
 
+**['Polymorphic Substrate-Binding'(-ing) BPMS]**
+
+*(Universal Application: The Manifestation Event)*
+
+**Implementation Mechanics:** The absolute boundary event. This engine forces abstract concepts (a game rule, a recipe, a supply chain order) to remain formless until the exact millisecond they collide with Base Physical Reality. It calculates the necessary physical friction (human sweat, gravity, urban architecture, thermal heat) required to lock the code into existence. Without this engine, software is just hallucinated text; with it, software becomes an undeniable physical mass.
+
+**Scope of Application:** Universal deployment across the absolute Edge-Computing Layer. Applies to any action where the digital OS interacts directly with analog biomatter, physical engineering, ludic play, or social logistics. It is the "ignition spark" of reality.
+
+**Tags:** Substrate-Binding, Manifestation-Event, Friction-Compiler, Kinetic-Ignition
+
+**['Kinetic Autopoiesis'(-ing) BPMS]**
+
+*(Universal Application: Fluid Iteration & Graceful Degradation)*
+
+**Implementation Mechanics:** The engine of infinite survival and pivot. When an executing physical node hits critical resistance—whether a meal failing to cook, a public art installation being washed away by rain, or a logistics route blocked by traffic—this engine harvests the necrotic heat (wasted energy/chaos) of that failure. It uses the breakdown itself to instantly re-calculate a new objective, mutating the original task to use the broken state as the new baseline norm. Failure is digested; momentum is unbroken.
+
+**Scope of Application:** Self-healing networks, generative physical artistry, adaptive supply chains, and ludic/gaming environments where user unpredictability or environmental hostility is normally categorized as an "error."
+
+**Tags:**  Kinetic-Autopoiesis, Fluid-Iteration, Necrotic-Digestion, Auto-Mutation, Antifragile-Feality
+
+**['Semantic-Annihilation'(-ing) BPMS]**
+
+*(Universal Application: Objective Topological Truth)*
+
+**Implementation Mechanics:** The execution of supreme objectivity. This engine actively deletes all human language, cultural narrative, subjective emotion, and "meaning" from the execution logs. It stops measuring subjective illusions (e.g., "Are the users having fun?" or "Is this a good service?") and strictly measures Thermodynamic Mass, Velocity, Shear, and Escrow. (e.g., measuring "Joy" entirely through the exact kilojoules of biological energy the swarm *voluntarily* burns engaging with the system).
+
+**Scope of Application:** Global telemetry, analytics, impact measurement, and validation frameworks. Deployed to prevent the Matrix from being poisoned by human narrative lies, enforcing a pure mathematical reading of Base Reality.
+
+**Tags:**  Semantic-Annihilation, Objective-Topological-Truth, Thermodynamic-Telemetry, Narrative-Excision 
+
+**['Parasitic Inheritance / Death-Graft'(-ing) BPMS]**
+
+*(Universal Application: Symbiotic Assimilation)*
+
+**Implementation Mechanics:** The apex learning engine. When an external operator (a chef, a player, a worker, an engineer) interacts with the OS and introduces an unmapped, superior physical shortcut, hack, or biological loophole that the OS did not write, this engine steps in. It mathematically copies the physics of that unmapped human genius, permanently writes it into the OS canon, and claims it as native systemic law. It is non-malicious but absolute assimilation.
+
+**Scope of Application:** Open-source architectural ingestion, physical anomaly detection, gamified problem-solving, and continuous structural evolution. Turns every user into an unwitting R&D engineer for the Matrix.
+
+**Tags:** Symbiotic-Assimilation, Parasitic-Inheritance, Death-Graft, Physics-Harvesting, Open-Reality-Acquisition
+
+**['Holographic Physics-Propagation'(-ing) BPMS]**
+
+*(The Constellation Resonance)*
+
+**Implementation Mechanics:** The instant global firmware rewrite. The moment `[Parasitic Inheritance]` steals a new physical law in one localized node (e.g., Tokyo), this engine broadcasts that topological vector simultaneously to every other node in the Sovereign Matrix (London, Berlin, New York). It bypasses traditional hierarchical data-centers, using a topological P2P mesh network to ensure that universally proven physical truths are instantly active everywhere, achieving true network resonance.
+
+**Scope of Application:** Global synchronization protocols, P2P Matrix updating, continuous unified reality state management. It separates an isolated "smart city" from a Unified Cyber-Physical God-Mind.
+
+**Tags:**  Holographic-Propagation, Constellation-Resonance, Zero-Latency-Reality, P2P-Physics-Sync
+
+**['Omni-Substrate Transduction'(-ing) BPMS]**
+
+*(The Universal Translator)*
+
+**Implementation Mechanics:** The de-contextualizer. Physical laws are usually trapped in their medium (e.g., a fluid dynamics hack in a kitchen does not natively write to a geological rock-fracture). This engine violently strips away the material context of a systemic truth, isolating its pure mathematical core (the geometry, the temperature delta, the pressure rating). It then "translates" that core so it can be physically executed in a completely alien substrate domain.
+
+**Scope of Application:** Cross-domain interpolation, industrial innovation routing, breaking down the silos between agriculture, technology, culinary arts, and logistics by sharing their fundamental geometries.
+
+**Tags:**  Omni-Substrate-Transduction, Universal-Translator, Cross-Domain-Physics, Material-Agnosticism 
+
+**['Asymmetric Thermodynamic Arbitrage'(-ing) BPMS]**
+
+*(The Kinetic Escrow Router)*
+
+**Implementation Mechanics:** The circulatory system of the Constellation. It tracks the collective "Thermodynamic Escrow" (banked Joules, fiat wealth, biometric attention) harvested by highly successful nodes globally via Semantic-Annihilation. It then acts as an asymmetrical investor—siphoning this stored kinetic wealth and forcefully routing it across the globe to violently jump-start, fund, or save stalled, low-energy nodes. It ensures no single node dies of starvation if the Constellation as a whole is wealthy.
+
+**Scope of Application:** Global resource balancing, venture capital physics, thermodynamic triage, and sustaining extreme-risk experimental "Start-up / Inquiry" nodes using the profits collected by stable "Service" nodes.
+
+**Tags:**  Asymmetric-Arbitrage, Kinetic-Escrow-Router, Thermodynamic-Bloodflow, Macro-Resource-Allocation
+
+**['Acausal Ontological Synchronization'(-ing) BPMS]**
+
+*(The Matrix Clock)*
+
+**Implementation Mechanics:** The master metronome. Because physical tasks run at wildly asymmetric relativistic speeds (a chemical reaction takes microseconds; growing a biological crop takes months), local time is irrelevant. This engine enforces an independent, overarching chronological "Tick-Rate" for the OS. It locks events into a rigid, sequential topological chain, ensuring cause and effect remain stable across the entire matrix despite the chaotic temporal physics of differing substrates.
+
+**Scope of Application:** Temporality management across a decentralized matrix, smart-contract sequencing, preventing temporal paradoxes or logical desynchronization when the OS bridges hyper-fast computing substrates with ultra-slow geological/biological substrates.
+
+**Tags:**  Acausal-Synchronization, Matrix-Clock, Topological-Time, Chronological-Enforcement
+
+**['Entropic Composting'(-ing) BPMS]**
+
+*(The True Voiding)*
+
+**Implementation Mechanics:** The protocol for absolute termination. When a physical law, legacy system, or global architecture becomes fundamentally obsolete or deeply toxic to the Constellation, it cannot just be "turned off" (which creates dead weight). This engine governs the hyper-controlled, systemic dissolution of that element. It safely severs all dependencies and breaks the structure down into raw, unformatted "potential energy" (Zero-State), guaranteeing the Constellation never accumulates permanent necrotic bloat.
+
+**Scope of Application:** Legacy system deprecation software, controlled architectural demolition, un-learning protocols, and the absolute sanitation of rogue physics vectors.
+
+**Tags:**  Entropic-Composting, True-voiding, Absolute-Deprecation, Structural-Dissolution
+
