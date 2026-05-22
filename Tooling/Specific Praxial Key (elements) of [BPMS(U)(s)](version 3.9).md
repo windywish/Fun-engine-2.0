@@ -1694,3 +1694,8 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 
 **Tags:**  Entropic-Composting, True-voiding, Absolute-Deprecation, Structural-Dissolution
 
+**['Hostile-Affordance & Morphological-Shear Inquiry'(-ing) BPMS]**
+
+**Scope of Matrix Application:** Applied by the Sovereign `['One Person Company']` whenever legacy static design, uninspired product architecture, or frictionless user interfaces must be completely inverted into highly profitable, thermodynamic gravity-wells. It is deployed as a hyper-fluid, sequence-free kinetic probe that maps pure caloric interaction. Its primary objective is to force visual and physical environments into a literal `[Continuous Survive Experiment]`—where buttons, shapes, and tools that fail to extract user energy immediately die and rot (`[Key Element: Zero-Click Necrosis]`). The system continuously feeds this dead geometry back into the unstructured Omni-Coupling loop to violently mutate the interface, achieving `[Symbiosis Evolution]` with the user's real-time habits and forcefully excavating entirely new `[Ecological Possibilities]` out of structural failure.
+
+**Tags:** Design Engine, Driver/Trigger Inquiry, Continuous Survive Experiment, Symbiosis Evolution, Ecological Possibility, Hostile Affordance, Morphological Shear, Fluid Omni-Coupling, Thermodynamic UX, Logistical Necrosis, Sovereign Holon.
