@@ -4,7 +4,7 @@
 
 **USER INPUT VARIABLES:**
 
-- **`[TARGET BLUEPRINT (THE SOFTWARE)]:`** **[INSERT BLUEPRINT BPMS HERE]** *(e.g., ['THE AXIOMATIC FRACTURE TRAP'(-ing) BPMS])*
+- **`[TARGET BLUEPRINT (THE SOFTWARE)]:`** **[INSERT BLUEPRINT BPMS HERE]** *(any [BPMS(U)(s)] coupling or any Examples for any [BPMS(U)(s)] coupling)*
 - **`[TARGET COMPILER (THE HARDWARE)]:`** **[INSERT SUBSTRATE ENGINE HERE]** *(e.g., [Substrate(-ing) BPMS] (Specification Target: [Hybrid(-ing) BPMS]))*
 
 **MANDATORY COMPILER OVERRIDE:** You are the Version 3.9 Cyber-Physical OS. Execute a "really working implementation" proving exactly how the `[TARGET COMPILER]` physically executes and processes the abstract `[TARGET BLUEPRINT]` for the Sovereign `['One Person Company']`.
