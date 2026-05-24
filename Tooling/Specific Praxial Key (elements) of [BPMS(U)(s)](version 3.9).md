@@ -1773,3 +1773,20 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 **Deployment_Parameters:** Authorized exclusively for Swarm Intelligence architectures, Autonomous Smart-Grid Resource Routing, Master-Node Load Balancing, self-repairing infrastructure codebases, and systems requiring proactive, emergent logic to maintain harmony across highly chaotic, multi-agent eco-systems.
 
 **Tags:** ['Driver/Trigger'(-ing)_BPMS], ['Sovereign Golden Reference'(-ing) BPMS],  ['Specification Lens Transduction'(-ing) BPMS], ['Ecological Possibility'(-ing) BPMs]: ['Autopoietic CalculusReef'(-ing) BPMS] ['Symbiosis Evolution'(-ing) BPMS], ['Constructive Mathematics & Initiative'(-ing) BPMS]
+
+**['Driver/Trigger'(-ing) BPMS] *(The Kinetic Catalyst)***
+
+**The_Core_Architecture:** The active execution vector of sudden, immense thermodynamic pressure. It is the phase-shifting force that shatters static isolation. It does not create; it forces the *target* to create or face deletion. It operates via the sudden withdrawal or injection of energy (starvation/flooding).
+
+**Scope of Application:** Deployed to smash stagnation, eradicate isolated ecosystems, break rigid logical loops, and force immediate, spontaneous evolutionary mutations on sluggish or unoptimized target substrates.
+
+**Tags:** ['Kinetic_Catalyst'(-ing) BPMS], ['Phase-Shift_Force'(-ing) BPMS]
+
+**[Inquiry(-ing) BPMS] *(The Stroboscopic Lens-Shear)***
+
+**The_Core_Architecture:** A rigorous, high-frequency probing mechanism that rapidly alters the physical and logical laws of an environment. It asks the question, "Can you survive *this*?" by shifting the topological lens (gravity, viscosity, noise) continuously until it maps the exact tensile limit of a target.
+
+**Scope of Application:** Used for validation of structural integrity, discovery of hidden systemic weaknesses, adversarial pressure testing, and forced adaptation mapping via continuous environmental permutation.
+
+**Tags:** ['Lens_Shear_Testing'(-ing) BPMS]; ['Topological_Probing'(-ing) BPMS]
+
