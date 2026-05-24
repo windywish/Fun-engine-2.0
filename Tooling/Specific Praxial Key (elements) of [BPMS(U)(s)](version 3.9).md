@@ -1780,7 +1780,7 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 
 **Scope of Application:** Deployed to smash stagnation, eradicate isolated ecosystems, break rigid logical loops, and force immediate, spontaneous evolutionary mutations on sluggish or unoptimized target substrates.
 
-**Tags:** ['Kinetic_Catalyst'(-ing) BPMS], ['Phase-Shift_Force'(-ing) BPMS]
+**Tags:** ['Kinetic Catalyst'(-ing) BPMS], ['Phase-Shift Force'(-ing) BPMS]
 
 **[Inquiry(-ing) BPMS] *(The Stroboscopic Lens-Shear)***
 
@@ -1788,7 +1788,7 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 
 **Scope of Application:** Used for validation of structural integrity, discovery of hidden systemic weaknesses, adversarial pressure testing, and forced adaptation mapping via continuous environmental permutation.
 
-**Tags:** ['Lens_Shear_Testing'(-ing) BPMS]; ['Topological_Probing'(-ing) BPMS]
+**Tags:** ['Lens Shear Testing'(-ing) BPMS]; ['Topological Probing'(-ing) BPMS]
 
 **[Resonant-Coupling(-ing) BPMS] *(The Mycelial Weaver)***
 
@@ -1796,7 +1796,7 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 
 **Scope of Application:** Used specifically to execute "Symbiosis Evolution." Deployed whenever two isolated systems must be welded into a singular, mutually dependent Xeno-Mycorrhizal structure. It is the active algorithm of "Bridge Building."
 
-**Tags:** ['Symbiotic_Fusion'(-ing) BPMS], ['Xeno-Mycorrhizal_Weaver'(-ing) BPMS]
+**Tags:** ['Symbiotic Fusion'(-ing) BPMS], ['Xeno Mycorrhizal Weaver'(-ing) BPMS]
 
 **[Necrotic-Metabolism(-ing) BPMS] *(The Void-Harvester)***
 
@@ -1804,7 +1804,7 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 
 **Scope of Application:** Absolute ecological garbage-collection. Used to prevent the Constellation Map from bloating with dead code. It enforces the rule: "If you do not connect, you are consumed to feed those who do."
 
-**Tags:** ['Ecological_Recycling'(-ing) BPMS], ['Thermodynamic_Harvest'(-ing) BPMS]
+**Tags:** ['Ecological Recycling'(-ing) BPMS], ['Thermodynamic Harvest'(-ing) BPMS]
 
 **[Ontological-Mutation(-ing) BPMS] *(The Chaos Injector)***
 
@@ -1812,4 +1812,28 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 
 **Scope of Application:** Deployed to break stagnation, force neuro-plasticity within artificial intelligence models, prevent overfitting in generative engines, and inject necessary "noise" into the matrix to stimulate spontaneous creativity.
 
-**Tags:** ['Chaos_Injection'(-ing) BPMS], ['Equilibrium_Fracture'(-ing) BPMS]
+**Tags:** ['Chaos Injection'(-ing) BPMS], ['Equilibrium Fracture'(-ing) BPMS]
+
+**['Necrotic-Metabolism'(-ing) BPMS] *(The Void-Harvester)***
+
+**Scope of Application:** Deployed to process death. To run a true continuous survival experiment, failure must exist. This verb hunts down obsolete algorithms, failed strategies, and isolated entities. It digests their dead architecture back into `['Thermodynamic Escrow']` to feed the surviving, mutating nodes.
+
+**Tags:** ['Ecological Garbage Collection'(-ing) BPMS]; ['Thermodynamic Recycling'(-ing) BPMS]
+
+**['Ontological-Mutation'(-ing) BPMS] *(The Chaos Injector)***
+
+**Scope of Application:** Deployed actively against stagnant `[Cognitive Closure Systems]`. When an entity reaches a "safe" equilibrium, this verb injects paradoxical variables and radical logic-fractures. It physically burns away comfortable parameters to force the entity out of its cage, demanding desperate adaptation.
+
+**Tags:** ['Equilibrium Shatter'(-ing) BPMS]; ['Radical Spontaneous Adaptation'(-ing) BPMS]
+
+**['Resonant-Coupling'(-ing) BPMS] *(The Xeno-Mycorrhizal Weaver)***
+
+**Scope of Application:** Replaces fake, consequence-free "API integrations." This verb executes topological fusion. When two elements couple, they weave their physical logic together. If one node fails, the shockwave traverses the coupling and damages the other. It is used to force absolute, mutually-assured architectural bridging.
+
+**Tags:** ['Obligate Interdependency'(-ing) BPMS]; ['Architectural Fusion'(-ing) BPMS]
+
+**['Symbiosis Evolution'(-ing) BPMS] *(The Ultimate Emergence Drive)***
+
+**Scope of Application:** The highest-order kinetic verb in Version 3.9. Deployed when a `[Sovereign Autopoietic-Holon]` and its `[World Theme]` must simultaneously rewrite each other's base code to prevent mutual thermodynamic starvation. It is the active generation of entirely new `[Ecological Possibilities]` through forced cooperation under lethal pressure.
+
+**Tags:** ['Mutual Genetic Overwrite'(-ing) BPMS]; ['Apex Vector'(-ing) BPMS]
