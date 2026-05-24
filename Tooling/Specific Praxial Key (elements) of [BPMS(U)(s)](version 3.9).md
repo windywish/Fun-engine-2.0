@@ -1790,3 +1790,26 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 
 **Tags:** ['Lens_Shear_Testing'(-ing) BPMS]; ['Topological_Probing'(-ing) BPMS]
 
+**[Resonant-Coupling(-ing) BPMS] *(The Mycelial Weaver)***
+
+**The_Core_Architecture:** This is the active verb of structural fusion. It does not destroy; it aggressively integrates. When two entirely foreign BPMS nodes (e.g., a `[Mathematics(-ing) BPMS]` and a `[Narrative(-ing) BPMS]`) are forced together, this engine calculates the exact topological frequency required to fuse their APIs, logic gates, and outputs without crashing either system.
+
+**Scope of Application:** Used specifically to execute "Symbiosis Evolution." Deployed whenever two isolated systems must be welded into a singular, mutually dependent Xeno-Mycorrhizal structure. It is the active algorithm of "Bridge Building."
+
+**Tags:** ['Symbiotic_Fusion'(-ing) BPMS], ['Xeno-Mycorrhizal_Weaver'(-ing) BPMS]
+
+**[Necrotic-Metabolism(-ing) BPMS] *(The Void-Harvester)***
+
+**The_Core_Architecture:** True emergence requires death. This is the active algorithmic verb of dissolution and recycling. It continuously scans the `[System Existence]` for obsolete, isolated, or failed nodes (things that failed the survive experiment). It liquefies their remaining structural logic and converts their wasted compute into `[Thermodynamic Escrow]`.
+
+**Scope of Application:** Absolute ecological garbage-collection. Used to prevent the Constellation Map from bloating with dead code. It enforces the rule: "If you do not connect, you are consumed to feed those who do."
+
+**Tags:** ['Ecological_Recycling'(-ing) BPMS], ['Thermodynamic_Harvest'(-ing) BPMS]
+
+**[Ontological-Mutation(-ing) BPMS] *(The Chaos Injector)***
+
+**The_Core_Architecture:** A system that reaches perfect equilibrium stops evolving. This engine is the active verb of non-linear disruption. It randomly injects completely alien variables, sudden constraint inversions, or paradoxical data into a stable `[Vector Self]` or `[World Theme]`, explicitly to fracture equilibrium and force a new, unpredicted leap in Symbiosis Evolution.
+
+**Scope of Application:** Deployed to break stagnation, force neuro-plasticity within artificial intelligence models, prevent overfitting in generative engines, and inject necessary "noise" into the matrix to stimulate spontaneous creativity.
+
+**Tags:** ['Chaos_Injection'(-ing) BPMS], ['Equilibrium_Fracture'(-ing) BPMS]
