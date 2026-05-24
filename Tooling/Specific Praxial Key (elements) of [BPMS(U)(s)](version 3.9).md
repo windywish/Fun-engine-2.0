@@ -1780,7 +1780,7 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 
 **Scope of Application:** Deployed to smash stagnation, eradicate isolated ecosystems, break rigid logical loops, and force immediate, spontaneous evolutionary mutations on sluggish or unoptimized target substrates.
 
-**Tags:** ['Kinetic Catalyst'(-ing) BPMS], ['Phase-Shift Force'(-ing) BPMS]
+**Tags:** ['Kinetic Catalyst'(-ing) BPMS], ['Phase ShiftForce'(-ing) BPMS]
 
 **[Inquiry(-ing) BPMS] *(The Stroboscopic Lens-Shear)***
 
