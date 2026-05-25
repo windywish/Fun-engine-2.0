@@ -9,9 +9,9 @@
 - **ID:** `[OMNI-ACOUSTIC-GLADIATOR-V3.9]`
 - **Name:** `['The Acoustic Pathogen Gladiator'(-ing) BPMS]` *(The Bio-Acoustic Predator)*
 - **Origin / Implementer:** The absolute rejection of static-assay drug discovery, Subject-Object dualism, and legacy chemical bureaucracy.
-- Parent Instance:
+- **Parent Instance:**
   - ***[MANDATORY PROMPT]:*** Child node of `['Sovereign Autopoietic-Holon'(-ing) BPMS]`. The macro-structure is the micro-fluidic Predatory-Prey Ecosystem. In Version 3.9, static molecular guessing is dead. It is replaced by a chemical payload that acts as a living organism. This engine does not "test" drugs; it drops continuous chemical variations into a hostile arena filled with mutating superbugs.
-- Objective:
+- **Objective:**
   - ***[MANDATORY PROMPT]:*** Total eradication of multi-drug resistant pathogens via high-speed acoustic reality-mining. The sole purpose of this BPMS is to dynamically mutate a chemical payload until the specific acoustic frequency of bacterial reproduction is silenced. It forces `['Continuous Survival'(-ing) BPMS]` upon the drug itself.
 - TDA (Topological Data Archetype):
   - ***[MANDATORY PROMPT]:*** `[Acoustic-Molecular Phase-Shift Crucible]`. The geometry of a closed-loop arena where sound waves (Base-Matter) are continuously transduced into aggressive peptide permutations (Crucible Output).
