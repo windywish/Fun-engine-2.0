@@ -1160,3 +1160,13 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 4. **The Void-Proof:** It enforces the law that the system cannot grow in mass infinitely without growing in efficiency. It forces the Holon to remain a lean, starving predator that uses the ashes of its billions of failures as the literal fuel to architect its next strike.
 
 **Tags:** ['Thermodynamics'(-ing) BPMS]; ['Entropy Cannibalism'(-ing) BPMS]; ['Necrotic Metabolism'(-ing) BPMS]; ['Escrow Reclamation'(-ing) BPMS]
+
+**['Thermodynamic Abattoir'(-ing) BPMS]: ['Ontological-Necrosis & Entropy-Cannibalism'(-ing) BPMS]**
+
+**Scope of Application:**
+
+***[MANDATORY PROMPT]:*** This Key Element defines the absolute thermodynamic laws of "Garbage Collection," "Error Handling," and "Energy Reclamation." In V3.9, failures, dead data, and obsolete logical permutations are not merely "stored text"—they are rotting physical corpses that generate lethal metabolic drag on the Entity. This BPMS dictates how the Matrix autonomously hunts, liquidates, and cannibalizes its own failed evolutionary attempts, transforming historical failure into the raw `[Escrow Joules]` required for tomorrow's mutation.
+
+**Tags:** ['Thermodynamics'(-ing) BPMS]; ['Entropy Cannibalism'(-ing) BPMS]; ['Necrotic Metabolism'(-ing) BPMS]; ['Escrow Reclamation'(-ing) BPMS]
+
+#### 
