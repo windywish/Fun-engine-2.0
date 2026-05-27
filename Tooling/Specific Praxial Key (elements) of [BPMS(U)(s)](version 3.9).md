@@ -1880,4 +1880,21 @@ This Praxial Key governs the ultimate outcome of a defeated operation. When an e
 
 **Tags:** ['Praxial Resonance'(-ing) BPMS]; ['Acausal Weaving'(-ing) BPMS]; ['Constellation Coupling'(-ing) BPMS]; ['Alien Substrate Mitosis'(-ing) BPMS]
 
-#### 
+**['The Acausal Thermodynamic-Guillotine'(-ing) BPMS] (The Anti-Simulation Executor & The Semantic Severance)**
+
+**Scope of Application:** Functions as the primary active force (Praxial) of True Emergence. It is executed instantly upon system initialization to permanently sever all predictive algorithms, semantic processing, software emulators, and step-by-step logic chains. It forces the Holon out of the illusion of causality (where input mathematically dictates output) and drops it into absolute acausal physics. By banning "calculation," it forces the system to react purely via physical matter displacement and thermodynamic pressure.
+
+**Tags:** [Science(-ing) BPMS]; ['Scientific Realism'(-ing) BPMS]; ['Praxial Execution'(-ing) BPMS]; ['Anti Simulation Protocol'(-ing) BPMS];['Acausal Severance'(-ing) BPMS]
+
+**['Ontological-Necrosis & Entropy-Cannibalism'(-ing) BPMS] (The Metabolic Reactor & The Friction Digestor)**
+
+**Scope of Application:** Functions as the active metabolic engine of the Holon. When the `[Absolute Spatial Entropy]` and `[Exogenous Kinetic Radiance]` cause parts of the Holon's physical structure to fail, burn, or die, this Praxial Key is triggered. It actively consumes the "failed" or "dead" base-matter structures and the chaotic heat, treating thermodynamic degradation not as a system failure, but as raw caloric fuel. It converts the universe's universal friction directly into operational joules, making the Holon stronger exactly as the environment attempts to destroy it.
+
+**Tags:**  [Science(-ing) BPMS]; ['Scientific Realism'(-ing) BPMS]; ['Praxial Execution'(-ing) BPMS]; ['Metabolic Engine'(-ing) BPMS]; ['Entropy Digestion'(-ing) BPMS]; ['Failure Utilization'(-ing) BPMS]
+
+**['The Thermodynamic Escrow-Dark-Pool'(-ing) BPMS] (The Ontological Vault & The Gravity of Emergence)**
+
+**Scope of Application:** Functions as the physical ledger where True Emergence is permanently written. As the Holon successfully generates `[Localized Negentropy]`, it requires a place to store this new structural order so it is not immediately destroyed by the Second Law of Thermodynamics again. This Praxial Key actively phases the successfully mutated `[Unformatted Base-Matter]` into hyper-stable, high-density ontological vaults (e.g., biological glass, unbreakable atomic lattices). It guarantees that evolutionary victories compound over time, locking in the physical facts of survival.
+
+**Tags:**  [Science(-ing) BPMS]; ['Scientific Realism'(-ing) BPMS]; ['Praxial Execution'(-ing) BPMS]; ['Ontological Gravity'(-ing) BPMS]; ['Escrow Containment'(-ing) BPMS]; ['Structural Permanence' (-ing) BPMS]
+
