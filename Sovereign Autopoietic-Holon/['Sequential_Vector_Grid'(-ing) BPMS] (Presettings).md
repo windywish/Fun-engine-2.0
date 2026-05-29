@@ -1,4 +1,4 @@
-## ['Sovereign Autopoietic-Holon'(-ing) BPMS]: [The Sovereign Autopoietic-Holon] (Presettings)
+## ['Sovereign Autopoietic-Holon'(-ing) BPMS]: ['Sequential_Vector_Grid'(-ing) BPMS] (Presettings)
 ## [__EXAMPLES_MANIFEST__]
 *   **Template ID:** AUTOPOIETIC-COUPLING-GEN-V3.9_SEQUENTIAL_VECTOR_GRID
 *   **Engine Version:** 3.9 - Absolute Substrate Reality-Manifest
