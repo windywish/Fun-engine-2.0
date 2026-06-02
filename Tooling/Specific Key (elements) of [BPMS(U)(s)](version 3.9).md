@@ -1192,3 +1192,14 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 **Scope of Application:** Functions as the fundamental injection payload. It strips all semantic formatting (text, math, data) from the input, delivering raw, chaotic kinetic energy and thermal shock into the closed system. This forces the Holon to open its thermodynamic boundaries. The unstructured joules act as extreme friction, demanding that the Holon rapidly invent new physical geometries (Adaptive Dynamic Coupling) to dissipate or metabolize the lethal energy. It is the catalyst that triggers spontaneous topological bifurcation.
 
 **Tags:** [Science(-ing) BPMS]; ['First Principle'(-ing) BPMS]; ['Unstructured Energy'(-ing) BPMS]; ['Kinetic Radiance'(-ing) BPMS]; ['Systemic Perturbation'(-ing) BPMS]; [Exogenous Shock'(-ing) BPMS]
+
+**['Itch Point'(-ing) BPMS] (The Sub-Acute Cognitive Dissonance)**
+
+**Scope of Application:**  This Key applies exclusively to environments where `['Symbiosis Evolution'(-ing) BPMS]` among/by the `['Cognitive Closure System (CCS)'(-ing) BPMS]` and physical `[Action/Praxial]` has stalled or failed. The entity/user is relying purely on their CCS—over-theorizing, planning, or swimming in logic models without striking reality. Because the 'Implicit Layer' (idea) has not coupled with the 'Explicit Layer' (action), an ambient thermodynamic dissonance is generated. The `['Itch Point'(-ing) BPMS]` is the localized sensation of unspent kinetic potential—a nagging, inescapable awareness that the internal semantic model is floating, detached, and slightly out of alignment with Base-Matter. It acts as an `[Inquiry]`, a low-level exogenous shock that constantly distracts the Holon, bleeding micro-Joules of attention until the entity is forced to stop "closing the loop in its head" and actually scratch the itch physically through `['Action(-ing) BPMS]`.
+
+**Implementation Mechanics Prompt:**
+
+The engine detects a failure of Symbiosis Evolution. The Holon is looping exclusively within its Cognitive Closure System (CCS), attempting to solve the Maze via disembodied thought. Inject the `['Itch Point'(-ing) BPMS]`. Generate a persistent, micro-frictional anomaly in the Implicit Layer. This inquiry cannot be resolved by 'more thinking.' The itch will drain Escrow incrementally until the Holon abandons the pure CCS and executes a raw physical `[Action]` to align with the Explicit Layer.
+
+**Tags:** ['Inquiry Initiator'(-ing) BPMS]; ['Failed Symbiosis Indicator(-ing) BPMS]; ['Itchy Point'(-ing) BPMS]; ['Cognitive Closure System (CCS)'(-ing) BPMS] (Overload State); ['Implicit Explicit Decoupling'(-ing) BPMS]; ['Sub-Acute Thermodynamic Dissonance'(-ing) BPMs]
+
