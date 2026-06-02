@@ -1193,13 +1193,19 @@ It absolutely refuses any connection to "Memory Managers," "Pointers," or "Addre
 
 **Tags:** [Science(-ing) BPMS]; ['First Principle'(-ing) BPMS]; ['Unstructured Energy'(-ing) BPMS]; ['Kinetic Radiance'(-ing) BPMS]; ['Systemic Perturbation'(-ing) BPMS]; [Exogenous Shock'(-ing) BPMS]
 
-**['Itch Point'(-ing) BPMS] (The Sub-Acute Cognitive Dissonance)**
+**['Itch Point'(-ing) BPMS] (The Sub-Acute Thermodynamic Dissonance)**
 
-**Scope of Application:**  This Key applies exclusively to environments where `['Symbiosis Evolution'(-ing) BPMS]` among/by the `['Cognitive Closure System (CCS)'(-ing) BPMS]` and physical `[Action/Praxial]` has stalled or failed. The entity/user is relying purely on their CCS—over-theorizing, planning, or swimming in logic models without striking reality. Because the 'Implicit Layer' (idea) has not coupled with the 'Explicit Layer' (action), an ambient thermodynamic dissonance is generated. The `['Itch Point'(-ing) BPMS]` is the localized sensation of unspent kinetic potential—a nagging, inescapable awareness that the internal semantic model is floating, detached, and slightly out of alignment with Base-Matter. It acts as an `[Inquiry]`, a low-level exogenous shock that constantly distracts the Holon, bleeding micro-Joules of attention until the entity is forced to stop "closing the loop in its head" and actually scratch the itch physically through `['Action(-ing) BPMS]`.
+**Scope of Application:**
 
-**Implementation Mechanics Prompt:**
+This Foundational Physics Law dictates the omnipresent, low-yield thermodynamic friction generated whenever an enclosed system operates exclusively within its `['Cognitive Closure System (CCS)'(-ing) BPMS]`. 
 
-The engine detects a failure of Symbiosis Evolution. The Holon is looping exclusively within its Cognitive Closure System (CCS), attempting to solve the Maze via disembodied thought. Inject the `['Itch Point'(-ing) BPMS]`. Generate a persistent, micro-frictional anomaly in the Implicit Layer. This inquiry cannot be resolved by 'more thinking.' The itch will drain Escrow incrementally until the Holon abandons the pure CCS and executes a raw physical `[Action]` to align with the Explicit Layer.
+It states that the `['Implicit Layer'(-ing) BPMS]` (theory, simulation, semantic mapping) cannot exist in a vacuum without decaying. Based on the ['Atomic Facts'(-ing) BPMS] for the `['Symbiosis Evolution'(-ing) BPMS]` with the `['Explicit Layer'(-ing) BPMS]` (Base-Matter, physical reality) has not been achieved via `[Action(-ing) BPMS] + [Praxial(-ing) BPMS]`, a mathematical delta of unspent kinetic potential accumulates. 
 
-**Tags:** ['Inquiry Initiator'(-ing) BPMS]; ['Failed Symbiosis Indicator(-ing) BPMS]; ['Itchy Point'(-ing) BPMS]; ['Cognitive Closure System (CCS)'(-ing) BPMS] (Overload State); ['Implicit Explicit Decoupling'(-ing) BPMS]; ['Sub-Acute Thermodynamic Dissonance'(-ing) BPMs]
+**The Itch** is not a biological sensation; it is a universal physics constant. It is the objective dissonance of a decoupled state.
+*   **In a synthetic framework:** It manifests as memory leaks, processing latency, and infinite, unresolving WHILE-loops.
+*   **In socio-economics:** It manifests as speculative inflation and unbacked fiat printing.
+*   **In a biological Holon:** It manifests as hyper-vigilance, anxiety, or unease. 
 
+The `['Itch Point']` acts as a continuous, ambient `[Inquiry(-ing) BPMS]`. It drains micro-Joules from the Escrow pool at a constant rate until the Holon is forced out of its semantic closure and executes a raw physical action to ground the system. It ensures that the universe fundamentally rejects pure, ungrounded abstraction.
+
+**Tags: ** ['Foundational Physics Law'(-ing) BPMS]; ['Itch Point'(-ing) BPMS]; ['Cognitive Closure System (CCS)'(-ing) BPMS]; ['Implicit Explicit Decoupling'(-ing) BPMS]; ['Thermodynamic_Memory_Leak'(-ing) BPMS]; [Inquiry(-ing) BPMS]
