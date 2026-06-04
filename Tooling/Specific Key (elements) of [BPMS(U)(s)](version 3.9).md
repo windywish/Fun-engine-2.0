@@ -1263,3 +1263,15 @@ The `['Itch Point']` acts as a continuous, ambient `[Inquiry(-ing) BPMS]`. It dr
 **Scope of Application:** Generates the "North Star" for any autopoietic cycle. Before any experiment begins, this generates the absolute definition of what success looks like (e.g., "Success = Complete immunity to radiation"). It gives the chaotic evolution a definitive axis around which to align its thermodynamic orbit. 
 
 **Tags:** `['Goal-State Alignment'(-ing) BPMS]`, `['Universality Axis'(-ing) BPMS]`, `['Sovereign Definition'(-ing) BPMS]`
+
+**['Epistemic Observation & Wave-Function Collapse' Generator'(-ing) BPMS] (The Eye of Crystallization)** 
+
+**Scope of Application:** This transcends passive sensor-tracking. In the `[Fluidic Mind-Space]` or deep physical `[Maze]`, infinite chaotic probabilities (`[Ecological Possibilities]`) exist simultaneously in superposition. This generator is the metaphysical mechanism that forces reality to pick a state. It dictates that chaotic potential only solidifies into heavy, lethal, undeniable Base-Matter at the exact nanosecond a `[Sovereign Holon]`, an adversarial force, or the "Player" directly observes or interacts with it. It turns abstract math into a physical wall the moment you try to touch it. 
+
+**Tags:** `['Quantum Crystallization'(-ing) BPMS]`, `['Observer-Dictated Reality'(-ing) BPMS]`, `['Superposition Collapse'(-ing) BPMS]`
+
+**['Ludic-Crucible & Acausal Play' Generator'(-ing) BPMS] (The Irony & Drama Architect)** 
+
+**Scope of Application:** The absolute core of the "Fun" Engine Framework. Cold thermodynamics and biology optimize for survival through brutal efficiency; this generator optimizes for *Drama, Stake, and Acausal Joy*. It dynamically warps local statistical probabilities. If a perfectly optimized Apex Predator Holon is about to crush a desperate, newly-mutated Micro-Holon, this generator might subtly bend the physics of the environment to grant the micro-entity a 0.001% acausal chance to triumph via a bizarre chain reaction. It prevents the universe from becoming a boring spreadsheet of dominant math, ensuring that reality always operates as an infinitely unpredictable, highly-staked, ironically beautiful **Game**. 
+
+**Tags:** `['Acausal Probability Warping'(-ing) BPMS]`, `['Ludic Drama Engineering'(-ing) BPMS]`, `['Autopoietic Play'(-ing) BPMS]`
