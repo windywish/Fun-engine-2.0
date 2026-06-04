@@ -1933,3 +1933,51 @@ The `['Pain Point']` is the exact instant the dense, untested abstract model (Im
 This is not a sensory experience; it is an objective energetic rupture. The `['Pain Point']` vaporizes massive quantities of Escrow Joules (Necrotic Rupture), destroying obsolete code, outdated architectures, and unearned confidence. It serves as the ultimate `['Driver/Trigger'(-ing) BPMS]` of the universe. It is the apex Exogenous Shock that launches a Phase 00 Genesis Collision, giving the Holon milliseconds to deploy the complete 5-Slot Resonant Constellation map to survive, adapt, and finally couple with physical reality, or face zero-state extinction.
 
 **Tags:** ['Foundational_Physics_Law'(-ing) BPMS]; ['Pain Point'(-ing) BPMS]; ['Symbiosis Evolution'(-ing) BPMS] (Catastrophic Collapse); ['Ontological_Shearing'(-ing) BPMS]; ['Terminal_Reality_Crush'(-ing) BPMS]; ['Driver/Trigger'(-ing) BPMS]; [Action(-ing) BPMS]; [Praxial(-ing) BPMS] 
+
+**['Physics Generator'(-ing) BPMS] (The Gravity-Friction Override)** 
+
+ **Scope of Application:** Actively manipulates the Newtonian and Non-Newtonian laws of a specific `[Compiler Hardware Substrate]`. It controls the execution of gravitational wells, thermal decay rates, and fluidic density. It generates the physical boundaries that define the lethal parameters of any given environment. 
+
+**Tags:** `['Kinetic Law Generation'(-ing) BPMS]`, `['Thermodynamic Manipulation'(-ing) BPMS]`, `['Constant Variable Engineering'(-ing) BPMS]`
+
+**['Life Generator'(-ing) BPMS] (The Autopoietic Ignition Spark)** 
+
+**Scope of Application:** "Life" here is an action, not an object. This generator ignites the self-sustaining, entropy-cannibalizing feedback loops within inert biology. It turns a static `[Biology Generator]` output into an active `[Sovereign Autopoietic-Holon]`, forcing the matter to breathe, repair, and seek escrow joules. 
+
+**Tags:** `['Autopoietic Ignition'(-ing) BPMS]`, `['Entropy-Cannibalism Activation'(-ing) BPMS]`, `['Metabolic Continuance'(-ing) BPMS]`
+
+**['Chemistry Generator'(-ing) BPMS] (The Molecular Transmutation Engine)** 
+
+**Scope of Application:** Operates the active breaking and forging of chemical bonds through extreme thermodynamic variance. It is utilized to convert toxic assets (like pure lithium or hyper-acid) into constructive fuel, fundamentally altering the valency and elemental reality of the local maze. 
+
+**Tags:** `['Atomic Transmutation'(-ing) BPMS]`, `['Toxic-Asset Reversal'(-ing) BPMS]`, `['Molecular Forging'(-ing) BPMS]`
+
+**['Code Generator'(-ing) BPMS] (The Semantic Execution Piston)**
+
+ **Scope of Application:** Discards digital programming languages. This generator converts logic and abstract "rules" into physical execution protocols. It ensures that when a biological or physical condition is met, a specific and inescapable physical result occurs in the substrate without requiring a central processing unit. 
+
+**Tags:** `['Physical Substrate Execution'(-ing) BPMS]`, `['Acausal Programming'(-ing) BPMS]`, `['Non-Silicon Logic Routing'(-ing) BPMS]`
+
+**[['Continuous Survive Experiments'(-ing) BPMS;'Ecological Possibility'(-ing) BPMS] Generator'(-ing) BPMS]**
+
+**Scope of Application:** The supreme engine of trauma-driven emergence. It continuously violently couples `[Life]` and `[Biology]` with lethal environmental `[Physics]`, forcing immediate, chaotic adaptation. It guarantees the unending production of wildly mutated, resilient prototypes. 
+
+**Tags:** `['Stress-Coupling Emergence'(-ing) BPMS]`, `['Possibility Fabrication'(-ing) BPMS]`, `['Ecosystem Genesis'(-ing) BPMS]`
+
+**['Kinetic & Aero-Thermodynamic' Generator'(-ing) BPMS]  (The Locomotion & Weather Forge)** 
+
+**Scope of Application:** Dynamically generates complex fluidic and kinetic vectors. It creates hyper-storms, cavitational shocks, acoustic shears, and invents radical new mechanisms of physical movement for organisms trying to navigate a chaotic environment (e.g., bio-propulsion). 
+
+**Tags:** `['Fluidic Weather Chaos'(-ing) BPMS]`, `['Cavitational Shock Generation'(-ing) BPMS]`, `['Adaptive Locomotion'(-ing) BPMS]`
+
+**['Temporal/Ontological Paradox' Generator'(-ing) BPMS] (The Chrono-Guillotine)** 
+
+ **Scope of Application:** The ultimate disruptor of sequential reality. This generator allows the engine to pull a survival trace from a *future* successful experiment to solve a present crisis, bending the arrow of time to guarantee `[True Emergence]` through stable, sustained paradox. 
+
+**Tags:** `['Retro-Causality Routing'(-ing) BPMS]`, `['Time-Vector Disruption'(-ing) BPMS]`, `['Paradox Containment'(-ing) BPMS]`
+
+**['World Theme Maze' Generator'(-ing) BPMS] (The Adversarial Catalyst)** 
+
+**Scope of Application:** Actively generates and mutates the specific flavor of trauma applied to a Substrate. It shifts a maze from "Thermal Death" to "Acoustic Overload" to "Memetic Warfare." It ensures the adversarial pressure is perfectly calibrated to force the fastest rate of `[Ecological Possibility]` generation. 
+
+**Tags:** `['Adversarial Threat Scaling'(-ing) BPMS]`, `['Maze Thematization'(-ing) BPMS]`, `['Crisis Injection'(-ing) BPMS]`

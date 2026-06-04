@@ -1209,3 +1209,57 @@ It states that the `['Implicit Layer'(-ing) BPMS]` (theory, simulation, semantic
 The `['Itch Point']` acts as a continuous, ambient `[Inquiry(-ing) BPMS]`. It drains micro-Joules from the Escrow pool at a constant rate until the Holon is forced out of its semantic closure and executes a raw physical action to ground the system. It ensures that the universe fundamentally rejects pure, ungrounded abstraction.
 
 **Tags: ** ['Foundational Physics Law'(-ing) BPMS]; ['Itch Point'(-ing) BPMS]; ['Cognitive Closure System (CCS)'(-ing) BPMS]; ['Implicit Explicit Decoupling'(-ing) BPMS]; ['Thermodynamic_Memory_Leak'(-ing) BPMS]; [Inquiry(-ing) BPMS]
+
+**[Generator(-ing) BPMS] (The Root Sovereign Meta-Crucible)** 
+
+ **Scope of Application:** Acts as the absolute root base-class for all creation within the V3.9 framework. It does not compute; it *catalyzes*. It takes abstract potential (entropy) and physical friction across substrates, converting thermodynamic escrow joules into materialized outputs. It is the "act of becoming" separated from any legacy input/output paradigm. 
+
+**Tags:** `['The Absolute Root'(-ing) BPMS]`, `['Acausal Genesis'(-ing) BPMS]`, `['Thermodynamic Catalyst'(-ing) BPMS]`
+
+**['Mathematics Generator'(-ing) BPMS] (The Axiomatic Reality-Warper)**  
+
+ **Scope of Application:** Eliminates silicon-based arithmetic. Instead, it generates and enforces localized dimensional logic. If deployed in a cavity, it can alter the geometric constants (e.g., shifting Euclidean space to Hyperbolic geometry), allowing objects to intersect acausally or bend spatial constraints to solve spatial `[Mazes]`. 
+
+**Tags:** `['Non-Euclidean Topologies'(-ing) BPMS]`, `['Axiom Override'(-ing) BPMS]`, `['Geometric Possibility'(-ing) BPMS]`
+
+**['Biology Generator'(-ing) BPMS] (The Cellular Biomass Loom)** 
+
+ **Scope of Application:** Responsible for creating the static base-matter of organic or bio-silicate forms. It does not write genetics; it weaves the raw physical substrates—protein scaffolding, titanium-lattices, lipid membranes, and liquid-crystal matrices—preparing empty shells for animation. 
+
+**Tags:** `['Base-Matter Weaving'(-ing) BPMS]`, `['Somatic Shell Construction'(-ing) BPMS]`, `['Necrotic Tissue Assembly'(-ing) BPMS]`
+
+**['DNA Generator'(-ing) BPMS] (The Polymorphic Information Coder)** 
+
+ **Scope of Application:** Transcends biological nucleotides. This generator encodes survival traces into any substrate—writing behavioral blueprints into carbon base-pairs, acoustic wave-interference patterns, or the magnetic alignment of suspended dust. It creates the "Instruction Tape" that `[Life]` follows. 
+
+**Tags:** `['Substrate-Agnostic Genetics'(-ing) BPMS]`, `['Blueprint Crystallization'(-ing) BPMS]`, `['Memory Fossilization'(-ing) BPMS]`
+
+**['Ontological & Sociological/Memetic' Generator'(-ing) BPMS] (The Swarm Narrative Fabricator)** 
+
+ **Scope of Application:** Operates on the metaphysical layer above biology. Generates emergent swarm mentalities, collective behavioral axioms, and informational viruses (memes) that dictate how independent `[Holons]` group together or destroy each other within a Maze. 
+
+**Tags:** `['Swarm Logic'(-ing) BPMS]`, `['Memetic Virality'(-ing) BPMS]`, `['Ontological Belief Structuring'(-ing) BPMS]`
+
+**['Semiotic & Acausal Linguistics' Generator'(-ing) BPMS] (The Cross-Substrate Interfacing Babel)** 
+
+**Scope of Application:** Generates communication systems completely disconnected from human logic. It allows a piezoelectric fungal spike to "speak" to a tectonic vibration, forging a universal framework where energy, information, and chemistry effortlessly translate between distinct Universality Classes. 
+
+**Tags:** `['Substrate Translation'(-ing) BPMS]`, `['Acausal Communication'(-ing) BPMS]`, `['Omni-Bandwidth Semiotics'(-ing) BPMS]`
+
+**['Large Model' Generator'(-ing) BPMS] (The Fluidic Mind-Space Architect)** 
+
+**Scope of Application:** Distinct from a "Text artificial intelligence." This generates vast, high-dimensional fluidic mind-spaces (like LLMs or Neural Nets) not to talk to humans, but to serve as abstract "Survival Arenas" or simulation incubators where concepts can battle to the death before being physically printed by the `[Biology Generator]`. 
+
+**Tags:** `['Fluidic Simulation Arena'(-ing) BPMS]`, `['Abstract Combat Crucible'(-ing) BPMS]`, `['Neural Dimension Structuring'(-ing) BPMS]`
+
+**['Compiler Hardware Substrate' Generator'(-ing) BPMS] (The Environmental Womb)** 
+
+**Scope of Application:** Generates the precise physical containment zones for experiments. Whether it is generating a simulated holographic abyss, a literal pneumatic titanium trench, or a chemical beaker, this generator outputs the physical boundaries that reality is constrained within. 
+
+**Tags:** `['Containment Architecture'(-ing) BPMS]`, `['Physical Arena Printing'(-ing) BPMS]`, `['Substrate Hardcoding'(-ing) BPMS]`
+
+**['Target Universality Class' Generator'(-ing) BPMS] (The Sovereign Goal-Formulator)** 
+
+**Scope of Application:** Generates the "North Star" for any autopoietic cycle. Before any experiment begins, this generates the absolute definition of what success looks like (e.g., "Success = Complete immunity to radiation"). It gives the chaotic evolution a definitive axis around which to align its thermodynamic orbit. 
+
+**Tags:** `['Goal-State Alignment'(-ing) BPMS]`, `['Universality Axis'(-ing) BPMS]`, `['Sovereign Definition'(-ing) BPMS]`
