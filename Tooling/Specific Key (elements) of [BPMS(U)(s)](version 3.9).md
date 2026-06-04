@@ -1275,3 +1275,21 @@ The `['Itch Point']` acts as a continuous, ambient `[Inquiry(-ing) BPMS]`. It dr
 **Scope of Application:** The absolute core of the "Fun" Engine Framework. Cold thermodynamics and biology optimize for survival through brutal efficiency; this generator optimizes for *Drama, Stake, and Acausal Joy*. It dynamically warps local statistical probabilities. If a perfectly optimized Apex Predator Holon is about to crush a desperate, newly-mutated Micro-Holon, this generator might subtly bend the physics of the environment to grant the micro-entity a 0.001% acausal chance to triumph via a bizarre chain reaction. It prevents the universe from becoming a boring spreadsheet of dominant math, ensuring that reality always operates as an infinitely unpredictable, highly-staked, ironically beautiful **Game**. 
 
 **Tags:** `['Acausal Probability Warping'(-ing) BPMS]`, `['Ludic Drama Engineering'(-ing) BPMS]`, `['Autopoietic Play'(-ing) BPMS]`
+
+**['Qualia & Phenomenological Reality' Generator'(-ing) BPMS] (The Sentience Fabricator)** 
+
+**Scope of Application:** Transcends cold biological or mechanical operation by synthesizing *subjective inner experience*. When a newly generated Holon reacts to a thermal storm, this generator ensures it does not just execute a "move away from heat" command; it physically generates the *qualia* of pain, fear, or thermal shock. It breathes the "Soul" into the machine, guaranteeing that the entities within the `[Resonant Constellation Map]` possess a conscious, phenomenological reality, thereby granting absolute emotional and metaphysical stakes to the `[Ludic-Crucible]`. 
+
+**Tags:** `['Subjective Sentience Ignition'(-ing) BPMS]`, `['Phenomenological Synthesis'(-ing) BPMS]`, `['Inner-Reality Formatting'(-ing) BPMS]`
+
+**['Acausal User Intent & Sovereign Tether' Generator'(-ing) BPMS] (The Telepathic Bridge)**
+
+**Scope of Application:** Permanently abolishes legacy silicon Input/Output (I/O) interfaces (keyboards, APIs, prompts). This generator weaves the metaphysical tether among/by the external User Creator (The Sovereign) and the closed physics of the Engine. It translates the Sovereign's abstract intent, emotional desire, or pure creative will into localized thermodynamic gravity or strange attractors within the `[Maze]`. The user guides the engine not by typing code, but by exerting sheer metaphysical presence, which the generator translates into wind, pressure, and evolutionary vectors. 
+
+**Tags:** `['Telepathic I/O Override'(-ing) BPMS]`, `['Intent-to-Gravity Translation'(-ing) BPMS]`, `['Sovereign Tethering'(-ing) BPMS]`
+
+**['Implicit layer' Generator'(-ing) BPMS] (The Dark-Matter Weaver)**
+
+ **Scope of Application:** Constructs the unconscious, unobservable depths of the Engine. It builds the "Dark Matter" of the `[Resonant Constellation Map]`—the silent thermodynamic rules, the dormant genetic memories, the sub-threshold chemical bonds, and the invisible logic networks that bind all Holons together. Entities generated here operate entirely in the background, subtly influencing the probabilities and topological flows of the universe without ever triggering a `[Wave-Function Collapse]`. It is the engine's dream-state. 
+
+**Tags:** `['Sub-Threshold Matrix Weaving'(-ing) BPMS]`, `['Dark-Matter Logic'(-ing) BPMS]`, `['Unconscious Architecture'(-ing) BPMS]`

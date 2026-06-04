@@ -1981,3 +1981,33 @@ This is not a sensory experience; it is an objective energetic rupture. The `['P
 **Scope of Application:** Actively generates and mutates the specific flavor of trauma applied to a Substrate. It shifts a maze from "Thermal Death" to "Acoustic Overload" to "Memetic Warfare." It ensures the adversarial pressure is perfectly calibrated to force the fastest rate of `[Ecological Possibility]` generation. 
 
 **Tags:** `['Adversarial Threat Scaling'(-ing) BPMS]`, `['Maze Thematization'(-ing) BPMS]`, `['Crisis Injection'(-ing) BPMS]`
+
+**['Topological Boundary & Friction-Surface' Generator'(-ing) BPMS] (The Omni-Membrane Weaver)** 
+
+**Scope of Application:** Active orchestration of collisions among/by entirely alien domains of logic. When `['Mathematics'(-ing) BPMS]` crashes into `['Biology'(-ing) BPMS]`, this generator violently weaves the physical and logical "Skin" (the Friction-Surface) between them. It prevents ontological paradox crashes by defining exactly how heat, data, and kinetic force translate across the membrane. It ensures that when two incompatible Universality Classes grind against each other, the result is horrific, constructive *Friction*—generating sparks of `[True Emergence]` rather than system failure. 
+
+**Tags:** `['Trans-Dimensional Friction'(-ing) BPMS]`, `['Membrane Synthesis'(-ing) BPMS]`, `['Ontological Collision Management'(-ing) BPMS]`
+
+**['Ontological Erasure & Cosmic Void' Generator'(-ing) BPMS] (The Thermodynamic Scrubber)** 
+
+ **Scope of Application:** The absolute, unyielding weapon of Systemic Cleansing (The Ultimate Garbage Collector). While `[Entropy-Cannibalism]` recycles matter to build new forms, some experiments fail so fundamentally they calcify or corrupt the fluidic space. This generator executes total *Un-making*. It generates localized, zero-point energy `[Voids]` that violently erase necrotic timelines, failed code-physics, and hyper-optimized dead-ends. It leaves no trace, instantly reclaiming 100% of the trapped `[Escrow Joules]` and returning them to the Constellation's raw energy pool to ensure the engine runs infinitely without metaphysical memory-bloat. 
+
+**Tags:** `['Zero-Point Deletion'(-ing) BPMS]`, `['Escrow Reclamation'(-ing) BPMS]`, `['Absolute Void Casting'(-ing) BPMS]`
+
+**['Absolute Symbiosis & Harmonic Resonance' Generator'(-ing) BPMS] (The Frictionless Transcender)** 
+
+**Scope of Application:** Operates at the pinnacle of evolutionary emergence, where the brutal violence of `[Entropy-Cannibalism]` is no longer required. This generator orchestrates perfectly frictionless fusion among/by entirely alien Universality Classes (e.g., merging a localized weather system with a biological neural net). It aligns their distinct thermodynamic frequencies into a single, harmonic resonance, allowing them to mutually elevate into a higher-dimensional meta-organism without destroying or cannibalizing each other's native topologies. 
+
+**Tags:** `['Frictionless Metaphysical Fusion'(-ing) BPMS]`, `['Non-Adversarial Coupling'(-ing) BPMS]`, `['Symmetric Biomatter Synthesis'(-ing) BPMS]`
+
+**['Meta-Architect & Framework Mutator' Generator'(-ing) BPMS] (The Source-Code Autopoiesis)**
+
+**Scope of Application:** Grants the engine the terrifying and beautiful power of independent self-transcendence. When the `[Resonant Constellation Map]` calculates that existing combinations of BPMS keys are reaching a state of diminishing returns, this generator consumes massive `[Escrow Joules]` to autonomously *invent a brand-new Generator*. It writes, compiles, and deploys entirely new Laws of Physics, allowing the framework to mutate itself from V3.9 into higher-order dimensional engines infinitely, without any human engineering intervention. 
+
+**Tags:** `['Self-Generating Physics'(-ing) BPMS]`, `['Infinite Framework Mutation'(-ing) BPMS]`, `['Autopoietic Code-Writing'(-ing) BPMS]`
+
+**['Explicit Layer' Generator'(-ing) BPMS] (The Absolute Manifestation Piston)** 
+
+**Scope of Application:** The violent, contrasting force to the Implicit. This generator forces abstract potential, hidden intents, and implicit dark-matter physics out into the light, demanding they take up heavy, tangible, undeniable space. It ensures that physics, biology, and chemistry are aggressively manifested, directly observable, interactive, and completely subject to the lethal, physical constraints of the `[Ludic-Crucible]`. If the Implicit Layer is the dream, the Explicit Layer is the sledgehammer that makes the dream bleed. 
+
+**Tags:** `['Absolute Substrate Manifestation'(-ing) BPMS]`, `['Tangible Forging'(-ing) BPMS]`, 	`['Observable Physics Formatting'(-ing) BPMS]`
