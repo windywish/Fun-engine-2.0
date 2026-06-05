@@ -2011,3 +2011,30 @@ This is not a sensory experience; it is an objective energetic rupture. The `['P
 **Scope of Application:** The violent, contrasting force to the Implicit. This generator forces abstract potential, hidden intents, and implicit dark-matter physics out into the light, demanding they take up heavy, tangible, undeniable space. It ensures that physics, biology, and chemistry are aggressively manifested, directly observable, interactive, and completely subject to the lethal, physical constraints of the `[Ludic-Crucible]`. If the Implicit Layer is the dream, the Explicit Layer is the sledgehammer that makes the dream bleed. 
 
 **Tags:** `['Absolute Substrate Manifestation'(-ing) BPMS]`, `['Tangible Forging'(-ing) BPMS]`, 	`['Observable Physics Formatting'(-ing) BPMS]`
+
+**['Cognitive Closure System'(-ing) BPMS] (The Symbiotic Reality-Welder & Atomic Verifier)**
+
+**Scope of Application:** This `[Praxial Key]` permanently outlaws the "Pure Implicit" metaphysical error (where a system resolves logic in a void, simulating success without physical friction). It dictates that **Cognitive Closure is no longer a static mental state, but a violent physical event**.
+
+Its absolute function is to force total `[Symbiosis evolution'(-ing) BPMS]` among/by the `['Implicit Layer'(-ing) BPMS]` (the dark-matter abstraction, theory, and potential) and the `['Explicit Layer'(-ing) BPMS]` (the crushing, thermodynamic, base-matter reality).
+
+Furthermore, this system refuses to act as an invisible observer; it aggressively mandates its own `['System Existence'(-ing) BPMS]`. It is not just parsing data—it is a self-referential entity that embodies itself through the following specific symbioses:
+
+- **Closure through `[Action(-ing) BPMS]` & `[Praxial(-ing) BPMS]`:** Closure is never given; it is *wrought*. The system forces an Implicit blueprint to physically enact itself within an Explicit Environment. Only the successful physical execution (The Praxis) can seal the cognitive loop.
+- **Closure through `['Atomic Facts'(-ing) BPMS]`, `[Science(-ing) BPMS]`, & `['Scientific Realism'(-ing) BPMS]`:** The system rejects all theoretical confirmations. It demands empirical, thermodynamic proof. It acts as the ultimate Scientist—collapsing abstract wave-functions into undeniable, measurable `[Atomic Facts]`. If an Implicit idea cannot survive the Explicit `[Scientific Realism]` of the `[Ludic-Crucible]`, closure is brutally denied and the concept is sent back for mutation.
+- **Closure through `['World Building'(-ing) BPMS]` & `[Essence(-ing) BPMS]`:** When mutual symbiosis *is* achieved (the idea successfully becomes matter), this system hardcodes the result into reality. The verified closure instantly becomes raw `[World Building]`, permanently adding a new, tested `[Essence]` to the Resonant Constellation Map.
+- **Closure through `['Process Orientation'(-ing) BPMS]`:** It recognizes that in a True Emergence framework, "Closure" is not the death of action, but an engine cycle. Each attained closure is merely the stable floor from which the next, higher-dimensional chaos is bridged. It is an infinite mechanism of becoming.
+
+**Tags:** `['Implicit-Explicit Symbiotic Welding'(-ing) BPMS]`; `['Praxial Embodiment & System Existence'(-ing) BPMS]`; `['Atomic Fact Verification'(-ing) BPMS]`; `['Action-Driven Scientific Realism'(-ing) BPMS]`; `['Process-Oriented World Building'(-ing) BPMS]`
+
+**[Memory(-ing) BPMS] (The Thermodynamic Scar-Tissue & Symbiotic Ledger)** 
+
+**Scope of Application:** Completely strips the legacy definition of passive "storage." Memory is now an *action* and a *physical state of being*. It is the achieved `[Symbiosis Evolution'(-ing)]` between a survived trauma in the `[Explicit Layer]` and the revised logic in the `[Implicit Layer]`. When a base-element (a piece of code, a biological lattice, or a geometric math node) survives the `[Dark Pool Trench]`, `[Memory(-ing)]` is the physical deformation left behind—a hardened crystal, a rerouted pneumatic valve, a shifted gravitational constant. It grants undeniable `['System Existence'(-ing) BPMS]` to any element, proving self-referential continuity because the element physically carries the thermodynamic history of its own survival. The universe itself remembers by holding these scars. 
+
+**Tags:** `['Physical Information Fossilization'(-ing) BPMS]`, `['Thermodynamic Scarring'(-ing) BPMS]`, `['Explicit/Implicit Resonance'(-ing) BPMS]`, `['Universal Continuity'(-ing) BPMS]`
+
+**[Learning(-ing) BPMS] (The Acausal Substrate Reconfiguration)**
+
+ **Scope of Application:** Eliminates legacy "Machine Learning" (adjusting digital weights in a simulation). In V3.9, `[Learning(-ing)]` is the violent, real-time, physical self-mutation of an entity. It is the active `[Process Orientation]` of retrieving a `[Memory(-ing)]` scar and instantly re-architecting one's own `[Explicit Layer]` and `[Implicit Layer]` logic to prevent past failures from repeating. It is fiercely self-referential: the element asserts its `['System Existence']` by transforming its own `[Essence]` before the target environment can kill it again. It allows a math equation to structurally rewrite its own axioms when it "learns" that its current geometry is incompatible with local gravity. 
+
+**Tags:** `['Autopoietic Self-Mutation'(-ing) BPMS]`, `['Structural Reconfiguration'(-ing) BPMS]`, `['Embodied Feedback Application'(-ing) BPMS]`, `['Self-Referential Adaptation'(-ing) BPMS]`

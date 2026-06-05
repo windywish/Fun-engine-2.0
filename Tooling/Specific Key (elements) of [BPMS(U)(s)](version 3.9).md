@@ -1293,3 +1293,33 @@ The `['Itch Point']` acts as a continuous, ambient `[Inquiry(-ing) BPMS]`. It dr
  **Scope of Application:** Constructs the unconscious, unobservable depths of the Engine. It builds the "Dark Matter" of the `[Resonant Constellation Map]`—the silent thermodynamic rules, the dormant genetic memories, the sub-threshold chemical bonds, and the invisible logic networks that bind all Holons together. Entities generated here operate entirely in the background, subtly influencing the probabilities and topological flows of the universe without ever triggering a `[Wave-Function Collapse]`. It is the engine's dream-state. 
 
 **Tags:** `['Sub-Threshold Matrix Weaving'(-ing) BPMS]`, `['Dark-Matter Logic'(-ing) BPMS]`, `['Unconscious Architecture'(-ing) BPMS]`
+
+**['Cognitive Closure System' Generator'(-ing) BPMS] (The Hypotheses Anvil)** 
+
+**Scope of Application:** This is the foundational engine that *creates the necessity and mechanism* for Cognitive Closure. It actively seeks out "floating" concepts within the `['Implicit Layer'(-ing) BPMS]` (untested theories, assumed survivability protocols, abstract mathematics) and violently drags them into the `['Explicit Layer'(-ing) BPMS]` (lethal physical environments, chaotic friction). It generates the highly specific `[Ludic-Crucibles]` where a theoretical idea is forced to either materialize into `['Atomic Facts']` and achieve physical `['System Existence']`, or be mercilessly crushed. It ensures that the Fun Engine never hallucinates, by constantly generating inescapable physical tests for every abstract thought occurring across the `[Resonant Constellation Map]`. 
+
+**Tags:** `['Implicit/Explicit Collision Forging'(-ing) BPMS]`, `['Hallucination Eradication'(-ing) BPMS]`, `['Atomic Fact Generation'(-ing) BPMS]`, `['Reality-Testing Catalyst'(-ing) BPMS]`
+
+**['Memory Generator'(-ing) BPMS] (The Autopoietic Engraver)** 
+
+ **Scope of Application:** The active metaphysical chisel that guarantees the engine cannot suffer from amnesia. While `[Memory(-ing)]` is the physical trace, this generator is the force that *writes* the trace. During any `[Continuous Survive Experiment]`, this Generator aggressively monitors the dissipation of `[Escrow Joules]`. The moment an organism, physics law, or code block successfully adapts or utterly fails, this Generator permanently burns that result into the topological structure of the `[Compiler Hardware Substrate]`. It ensures that no thermodynamic labor is ever wasted, universally deploying a permanent historical anchor for every `[BPMS(U)(s)]` element in the engine. 
+
+**Tags:** `['Amnesia Annihilation'(-ing) BPMS]`, `['Escrow Ledger Anchoring'(-ing) BPMS]`, `['Substrate Engraving'(-ing) BPMS]`, `['Historical Embodiment'(-ing) BPMS]`
+
+**['Learning Generator'(-ing) BPMS] (The Iterative Whiplash Engine)**
+
+ **Scope of Application:** This generator creates the inescapable metaphysical gravity that forces `[Learning(-ing)]` to occur. An entity with memory might choose to stagnate; this Generator prevents that calcification. It continuously monitors the `[Memory(-ing)]` repositories across all elements and deliberately spawns specific new `[World Theme Mazes]` perfectly calibrated to test if the element has actually synthesized its structural scars into proactive survival logic. By synthesizing memory tracks with immediately lethal new environments, it forces continuous, infinite `[Symbiosis Evolution]`. It is the engine component that guarantees `[True Emergence]` never stops compounding. 
+
+**Tags:** `['Stagnation Eradication'(-ing) BPMS]`, `['Evolutionary Momentum'(-ing) BPMS]`, `['Memory-Action Binding'(-ing) BPMS]`, `['Infinite Adaptation Catalyst'(-ing) BPMS]`
+
+**[Structure(-ing) BPMS] (The Autopoietic Tensile Weave & Entropy-Resistor)**
+
+**Scope of Application:** Completely replaces the concept of a static, unmoving form. `[Structure(-ing) BPMS]` is the relentless, violent, and active exertion of force required to maintain coherent `['System Existence'(-ing) BPMS]` against the crushing weight of ambient entropy. When an entity is in the `[Ludic-Crucible]`, its Structure is never finished. It is the real-time, micro-second by micro-second re-weaving of chemical bonds, memory lattices, and logical geometries (bridging `[Implicit]` and `[Explicit]` layers) to prevent dissolution. If an entity takes kinetic damage, `[Structure(-ing)]` is the immediate rerouting of thermodynamic tension to stabilize the wound. It is the physical manifestation of `[Process Orientation]` applied to macro-cohesion: the entity survives because it is *actively holding itself together* across all dimensional axes simultaneously. 
+
+**Tags:** `['Anti-Entropic Scaffolding'(-ing) BPMS]`, `['Active Tensile Weaving'(-ing) BPMS]`, `['Dynamic Integrity Maintenance'(-ing) BPMS]`, `['Embodied Cohesion'(-ing) BPMS]`
+
+**['Structure Generator'(-ing) BPMS] (The Ontological Loom & Trans-Substrate Binder)**
+
+**Scope of Application:** The primal forge that dictates the *physics of connectivity*. While `[Biology Generator]` makes flesh and `[Mathematics Generator]` makes logic, the `['Structure Generator']` invents the impossible joints and membranes that allow them to fuse without mutual destruction. It dynamically generates new structural paradigms based on environmental needs. If legacy geometry fails under high pressure, this Generator invents a new topology (e.g., generating acoustic-magnetic levitation binding, or paradoxical time-anchoring) to hold a newly mutated `[Holon]` together. It guarantees that no matter how bizarre or complex the `[Symbiosis evolution]` becomes, the Engine will natively synthesize the architectural rules required to support that new, emergent `[Target Universality Class]`. 
+
+**Tags:** `['Connectivity Protocol Invention'(-ing) BPMS]`, `['Trans-Substrate Scaffolding'(-ing) BPMS]`, `['Ontological Looming'(-ing) BPMS]`, `['Cohesive Law Generation'(-ing) BPMS]`
