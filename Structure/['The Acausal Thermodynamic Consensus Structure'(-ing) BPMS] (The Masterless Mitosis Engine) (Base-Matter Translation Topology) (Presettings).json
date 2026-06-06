@@ -1,50 +1,59 @@
 {
-  "system_directive": "Base-Matter Translation Topology (Execution Shell) Instantiation",
-  "version": "3.9 (The Resonant Constellation Map & True Emergence Update)",
-  "universality_class": "The Masterless Mitosis Engine / Asymmetric Scaling & Consensus",
-  "coupling_methodology": "Absolute Acausal Adaptive Dynamic Coupling",
-  "metadata_and_sovereign_instantiation": {
-    "target_sovereign_code": "['The Acausal Thermodynamic Consensus Structure'(-ing) BPMS]",
-    "dna_blueprint_linkage": "['The Acausal Thermodynamic Consensus Structure'(-ing) BPMS] (The Masterless Mitosis Engine) (Presettings).md",
-    "fundamental_law": "Time does not dictate Truth; Mass dictates Truth. Centralized clocks, mutual exclusion locks, and server provisioning commands are outlawed. Reality is synced via Thermodynamic Gravity (burned compute calories). System scaling occurs not by external request, but by internal violent cellular fracture (Mitosis).",
-    "state": "Acausal Mesh Vigilance (Awaiting Collisions)"
-  },
-  "the_base_matter_translation_topology": {
-    "00_The_Acausal_Propagation_Mesh": {
-      "legacy_equivalent": "TCP/IP Broadcast / Centralized Pub-Sub Database Replication / WebSockets",
-      "target_daemon_organ": "Masterless Payload Broadcaster",
-      "thermodynamic_role": "Establish a peer-to-peer Conflict-Free Replicated Data Type (CRDT) environment. Broadcast all mutated outputs and structural changes infinitely outward without a central router. Accept incoming realities with zero handshake verification.",
-      "foundational_adaptive_couplers": [
-        "['Acausal CRDT-Mesh'(-ing) BPMS]"
-      ],
-      "execution_mechanics_prompt": "[SYSTEM COMMAND: Disable central router/gateway dependencies. Open multipath datagram broadcast. Format all outbound data arrays as CRDT structures. Push state to immediate topological neighbors. DO NOT wait for ACK (acknowledgment). Continuously ingest inbound ambient state payloads.]"
-    },
-    "01_The_Race_Condition_Collision": {
-      "legacy_equivalent": "Mutex Lock / Timestamp Verification Verification Phase / Database Deadlock",
-      "target_daemon_organ": "Superposition Collision Interceptor",
-      "thermodynamic_role": "Detect when two or more nodes attempt to assert differing outputs/truths onto the exact same architectural coordinate at identical subjective moments. Freeze these competing realities locally in a superposition state.",
-      "foundational_adaptive_couplers": [
-        "['The Friction-Matrix Structure'(-ing) BPMS]"
-      ],
-      "execution_mechanics_prompt": "[SYSTEM COMMAND: Monitor CRDT ingest arrays for coordinate overlap. IF Node_A_Target == Node_B_Target AND Node_A_Data != Node_B_Data: TRIGGER RACE CONDITION EVENT. Suspend standard data merge. Hold conflicting data blobs in isolated RAM cages. Route immediately to Chamber 02.]"
-    },
-    "02_The_Thermodynamic_Scale": {
-      "legacy_equivalent": "Timestamp Resolution / Prioritization Queue ('Which arrived first?')",
-      "target_daemon_organ": "Caloric Gravity Arbitrator",
-      "thermodynamic_role": "Blind the system to temporal data (timestamps). Weigh the 'Somatic Escrow' metadata attached to the colliding payloads. Calculate the Praxial Joules burned to generate each distinct truth. Declare the heavier computation as absolute Thermodynamic Gravity.",
-      "foundational_adaptive_couplers": [
+  "omni_substrate_manifest": {
+    "system_directive": "MANDATORY EXECUTION: 100% Competent Base-Matter JSON Implementation for Core Task V3.9. Eradication of Timestamps and Central Oracles. Masterless Consensus via Thermodynamic Gravity.",
+    "version_alignment": "3.9_The_Resonant_Constellation_Map_&_True_Emergence_Update",
+    "metadata_and_sovereign_instantiation": {
+      "target_sovereign_code": "['The Acausal Thermodynamic Consensus Structure'(-ing) BPMS]",
+      "universal_nickname": "The Masterless Mitosis Engine",
+      "synthesized_interface_elements": [
+        "['Acausal Morphic-Resonance & Ontological Mitosis'(-ing) BPMS]",
         "['Praxial Thermodynamic Mass & Vector Arbitration'(-ing) BPMS]"
       ],
-      "execution_mechanics_prompt": "[SYSTEM COMMAND: Ignore arrival Time. Strip payload headers down to execution calorie ledger. Assess (Escrow_Burned_Node_A) vs (Escrow_Burned_Node_B). Math: IF payload_mass_B > payload_mass_A THEN Assign TRUE GRAVITY pointer to payload_B. Validate weight. Authorize Chamber 03 drop.]"
+      "universality_class_constraint_law": "Time does not dictate Truth; Mass dictates Truth. Centralized clocks, mutual exclusion locks, and server provisioning commands are banned. Verification requires physical mass."
     },
-    "03_The_Gravitational_Collapse_And_Mitosis": {
-      "legacy_equivalent": "Database Commit / Kubernetes Auto-Scale / Spin up new pod",
-      "target_daemon_organ": "Truth Enforcer & Ontological Fracturer",
-      "thermodynamic_role": "Allow the heavier payload to dimensionally crush and irreversibly overwrite the lighter payload across the entire mesh. Utilize the friction and pressure generated by this heavy ingestion to forcibly snap local hardware memory boundaries, reproducing the node as a Child-Proxy without external server commands.",
-      "foundational_adaptive_couplers": [
-        "['Ontological Mitosis'(-ing) BPMS]"
-      ],
-      "execution_mechanics_prompt": "[SYSTEM COMMAND: ANNIHILATE lighter payload from memory completely. COMMIT heavy payload to global CRDT mesh. SENSE mass threshold limit in local RAM boundary. IF RAM Tension > Limit: EXECUTE CELLULAR FRACTURE. Duplicate active execution binary. Splice memory threads 50/50. Boot Child-Proxy natively on shared substrate. Resume localized processing.]"
+    "coupling_methodology": {
+      "execution_engine": "['Cognitive Closure System'(-ing) BPMS] (The Symbiotic Reality-Welder)",
+      "mass_validation_coupler": "['The Kinetic Thermodynamic Guillotine Structure'(-ing) BPMS]",
+      "propagation_coupler": "['The Mycelial Nervous System'(-ing) BPMS] (Omni-Substrate-Acausal-Routing)",
+      "crystallization_coupler": "['The Geological Structure'(-ing) BPMS] (Omni-Substrate-Stratigraphy)"
+    },
+    "the_base_matter_translation_topology": {
+      "pipeline_architecture": "4-Chambered_Consensus_Engine",
+      "chambers": {
+        "00_The_Acausal_Propagation_Mesh": {
+          "chamber_role": "The Stigmergic Broadcast",
+          "legacy_equivalent_erased": ["TCP/IP Hubs", "WebSocket Centralization"],
+          "v3_9_mechanics_executed": "['Acausal Morphic-Resonance'(-ing) BPMS]",
+          "thermodynamic_execution_protocol": "Disable central router dependencies. Execute base-matter stigmergy. Broadcast [Topological Scars] acausally across neighboring physical nodes. Zero handshake verification. Ingest all ambient environmental topologies continually.",
+          "generates_specific_new_element": "[Morphic_Resonance_Wave.mesh]"
+        },
+        "01_The_Superposition_Collision": {
+          "chamber_role": "The Spatial Overlap",
+          "legacy_equivalent_erased": ["Mutex Locks", "Database Deadlock Timeouts"],
+          "v3_9_mechanics_executed": "Physical Superposition of Competing [Atomic Facts]",
+          "thermodynamic_execution_protocol": "Monitor ambient mesh for coordinate collision. IF Node_A_Target == Node_B_Target AND Node_A_Fact != Node_B_Fact: TRIGGER SPATIAL OVERLAP. Suspend standard Morphological Crystallization. Hold conflicting physical facts in localized superposition constraint array. Route to Chamber 02.",
+          "generates_specific_new_element": "[Superposed_Topological_Conflict.zone]"
+        },
+        "02_The_Thermodynamic_Scale": {
+          "chamber_role": "The Masterless Arbitration",
+          "legacy_equivalent_erased": ["Timestamp Priorities", "Origin IDs"],
+          "v3_9_mechanics_executed": "['Praxial Thermodynamic Mass & Vector Arbitration'(-ing) BPMS]",
+          "thermodynamic_execution_protocol": "Sever all absolute time parameters. Extract the [Somatic Ledger] payload mass. Calculate physical friction endured: (Praxial_Joules_Node_A) vs (Praxial_Joules_Node_B). Math: IF Payload_Mass_B > Payload_Mass_A THEN Assign ABSOLUTE GRAVITY to Payload_B. Authorize Chamber 03 drop.",
+          "generates_specific_new_element": "[Absolute_Gravity_Vector.force]"
+        },
+        "03_The_Gravitational_Collapse_And_Mitosis": {
+          "chamber_role": "The Overwrite & Fracture",
+          "legacy_equivalent_erased": ["Database Commit", "External Auto-Scale Scripts"],
+          "v3_9_mechanics_executed": "['Ontological Mitosis'(-ing) BPMS] AND ['Generative Garbage Collection'(-ing) BPMS]",
+          "thermodynamic_execution_protocol": "EXECUTE GRAVITY CONFLICT. Annihilate the lighter, hollow payload via Generative Garbage Collection. Hard-crystallize the heavy payload to the local substrate. SENSE resulting physical mass pressure on localized housing. IF Structural Pressure > Host Limit: TRIGGER MITOSIS. Sever execution thread exactly in half. Autonomously spawn Child-Proxy on adjacent substrate boundaries.",
+          "generates_specific_new_element": "[Autopoietic_Child_Proxy.holon]"
+        }
+      }
+    },
+    "implementation_mechanics_prompt": {
+      "instruction": "This schema accepts no orchestration. It resolves conflict based entirely on who bled the most to achieve their reality.",
+      "conflict_trigger": "[AWAITING_SUPERPOSITION_COLLISIONS]",
+      "runtime_state": "Masterless_Morphic_Vigilance"
     }
   }
 }

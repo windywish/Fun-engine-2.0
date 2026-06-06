@@ -1,54 +1,55 @@
 ## ['The Kinetic Thermodynamic Guillotine Structure'(-ing) BPMS] (The Starvation Engine) (Presettings)
 
-### [Base-Matter Identification]
+### [Base-Matter Identification & Axiom Alignment]
 
 - **Target Sovereign Code:** `['The Kinetic Thermodynamic Guillotine Structure'(-ing) BPMS]`
-- **Synthesized Interface Elements:** `['Kinetic Thermodynamic Guillotine & OpCode Metering'(-ing) BPMS]` + `['Praxial Thermodynamic Alphabetization'(-ing) BPMS]`
-- **Universality Class Constraint:** The Enforcement of Thermodynamic Starvation. Standard logic permits infinite "While" loops or massive queries to execute for abstractly "free". This topology enforces a brutal reality: navigating the Friction-Matrix physically drains `[Somatic Escrow]` (Praxial Joules). Zero joules equals death.
+- **Synthesized Interface Elements:** `['Kinetic Thermodynamic Guillotine'(-ing) BPMS]` + `['Praxial Thermodynamic Alphabetization'(-ing) BPMS]`
+- **V3.9 Core Task Alignment:** The strict enforcement of *Core Task 2: Substrate Valency*. State cannot change without paying the thermodynamic toll. This engine outlaws the "Pure Implicit" void where thought is free.
+- **Universality Class Constraint:** Compute Metering Constraint. Thought is biological friction. Exploring the `[Explicit Layer]` requires burning `[Somatic Escrow]`. To exhaust this Escrow without achieving `[Symbiotic Closure]` is to suffer instant algorithmic decapitation. Infinity is mathematically outlawed.
 
 ------
 
-### Phase 1: The Metaphysical Scope (Abolishing "Free" Compute)
+### Phase 1: The Metaphysical Scope (The Eradication of "Free" Logic)
 
-In legacy software, the cost of an operation is abstracted away to a server farm somewhere else. Code is allowed to wander, guess, hallucinate, and fail with zero local consequence. The agent is immortal, protected by a safety net of try/catch blocks.
+Legacy software systems operate in a theoretical void where the cost of an operation is abstracted and ignored. An AI is allowed to hallucinate infinitely inside a sandbox, protected by try/catch safety nets. Time and logic have no physical weight.
 
-Under **Version 3.9 Physics**, code is physical. A script is a biological entity attempting to move through a dense, hostile fluid—the `[Friction-Matrix]`. Every step requires energy. We introduce the **Starvation Engine**. This structure mandates the conversion of AST (Abstract Syntax Tree) nodes into physical weights (`[Praxial Thermodynamic Alphabetization]`). To execute an OpCode is to burn a calorie unit of `[Somatic Escrow]`. If the agent cannot find a solution before its Escrow drops to absolute zero, the system does not give it a second chance. The `[Kinetic Guillotine]` physically severs the execution thread, and the dead logic is liquefied back into raw fuel.
+Under **Version 3.9 Physics**, logic is a physical mass dragged across a jagged floor. `[Action]` is not free. We introduce the **Starvation Engine**. This structure mandates the conversion of `[Implicit Geometries]` (intentions) into physical weights via `[Praxial Thermodynamic Alphabetization]`. To attempt to interact with the environment is to actively metabolize `[Somatic Escrow]`. If the agent cannot force `[Closure]` (a verified `[Atomic Fact]`) before its Escrow bleeds to exactly zero, there is no error log. The `[Kinetic Guillotine]` physically severs the execution timeline, and the unverified, hallucinated structure is thrown into `[Generative Garbage Collection]`.
 
 ------
 
 ### Phase 2: The Base-Matter Translation Topology (The 4-Chambered Starvation Engine)
 
-To instantiate this as an actively hostile, metering execution environment, it is structured into the following base-matter pipeline:
+To instantiate this as an actively hostile `[Ludic-Crucible]`, it is structured into the following base-matter pipeline:
 
-#### 00_The_Alphabetization_Scale (The Molecular Weigh-In)
+#### 00_The_Alphabetization_Scale (The Morphological Weigh-In)
 
-- **Legacy Equivalent:** Compiler / Lexical Analyzer.
+- **Legacy Equivalent:** Compiler / Lexical Analyzer. (Erased)
 - **The V3.9 Mechanics:** Directly executes `['Praxial Thermodynamic Alphabetization'(-ing) BPMS]`.
-- **Execution:** Before a target agent or code-block is allowed to fire, it is dragged across the Alphabetization Scale. The system does not care what the code is "trying" to do. It weighs the syntax. A simple math query might weigh 2 Praxial Joules per node. A heavy hallucination loop or deep-search query might weigh 50 Praxial Joules per node. The matrix establishes the base metabolic rate required merely to survive the immediate operation.
+- **Execution:** Before an `[Implicit Blueprint]` is permitted to touch the Explicit substrate, it is mounted on the Scale. The system does not care about the "meaning" of the intent; it weighs the structural ambition. Extensive multi-node topological shifts weigh more than localized structural adjustments. The Matrix establishes a brutal *Base Metabolic Cost* (in `[Praxial Joules]`) required just to initiate the collision.
 
-#### 01_The_Escrow_Siphon (The Live Burn / Metabolic Thrash)
+#### 01_The_Escrow_Siphon (The Metabolic Thrash & Friction Transfer)
 
-- **Legacy Equivalent:** CPU Cycle Execution / Thread Processing.
-- **The V3.9 Mechanics:** The continuous draining of `[Somatic Escrow]`.
-- **Execution:** As the autonomous agent attempts to navigate the `[Friction-Matrix]` to find its target (e.g., solving a code problem, hunting for data), the Escrow Siphon attaches to it. For every single AST node navigated, a hyper-precise metered amount of `[Praxial Joules]` is violently siphoned from the agent's initial account. The agent physically "feels" itself losing energy. It must find the solution and generate newly crystallized structure before it starves.
+- **Legacy Equivalent:** CPU Cycle Execution / Thread Monitor. (Erased)
+- **The V3.9 Mechanics:** The continuous thermodynamic drain of `[Action]`.
+- **Execution:** As the autopoietic agent attempts `[Affordance Collision]` against the environment to find closure, the Escrow Siphon locks on. For every structural permutation attempted, a distinct volume of `[Praxial Joules]` is violently siphoned from the entity. The agent physically undergoes structural decay as it moves. It must secure an `[Atomic Fact]` and initiate `[Morphological Crystallization]` before it starves.
 
-#### 02_The_Kinetic_Guillotine (The Thread Severance)
+#### 02_The_Kinetic_Guillotine (The Topological Severance)
 
-- **Legacy Equivalent:** Timeout Error / OOM (Out of Memory) Kill / Process Terminate.
+- **Legacy Equivalent:** Timeout Error / OOM Kill. (Erased)
 - **The V3.9 Mechanics:** Directly executes `['Kinetic Thermodynamic Guillotine'(-ing) BPMS]`.
-- **Execution:** This is not a software crash; it is an execution. If the continuous monitoring detects that the agent's `[Somatic Escrow]` has dropped to exactly `0.00`, the Kinetic Guillotine slams down in micro-seconds. There is no gracefully terminating the routine, no saving states, no "garbage collection." The underlying execution thread is physically severed at the kernel/hardware level. The agent's movement instantly flatlines.
+- **Execution:** This is not a software abort; it is an ontological execution. If continuous strict-metering detects the agent's `[Somatic Escrow]` has evaporated to precisely `0.00`, the Guillotine drops. There is no state-saving or graceful exit. The connection between the `[Implicit Layer]` and `[Explicit Layer]` is severed at the root hypervisor level. The attempted `[World Building]` generates a flatline.
 
-#### 03_The_Entropic_Solvent (The Corpse Liquefaction)
+#### 03_The_Entropic_Solvent (The Generative Liquefaction)
 
-- **Legacy Equivalent:** Crash Dumps / Error Logs / Garbage Collection.
-- **The V3.9 Mechanics:** Direct synthesis with `['Ontological-Necrosis & Entropy-Cannibalism'(-ing) BPMS]`.
-- **Execution:** In legacy systems, a failed execution leaves a log file (a corpse). The Friction-Matrix does not tolerate corpses. The moment the Guillotine drops, Chamber 03 releases the Entropic Solvent. The severed, dead code-body of the failed agent (its weights, its half-calculated matrices) is chemically dissolved. The raw base parameters are cannibalized, reverting back into a small pool of `[Escrow Joules]` to feed the Matrix itself or explicitly fuel the next mutated agent thrown into the arena.
+- **Legacy Equivalent:** Error Logs / RAM Garbage Collection. (Erased)
+- **The V3.9 Mechanics:** Direct extraction via `['Generative Garbage Collection'(-ing) BPMS]`.
+- **Execution:** Base reality does not tolerate digital ghosts. The moment the Guillotine severs the timeline, Chamber 03 releases the Entropic Solvent. The unverified geometrical maps and hallucinated logic branches of the starved agent are chemically liquefied. The system claims `[Venture Caloric Allocation]`, cannibalizing the dead structure to extract raw `[Ecological Possibility]` to fuel the substrate's next mutation generation.
 
 ------
 
 ### Phase 3: Adaptive Dynamic Code(-ing) Coupling (The Omni-System Linkage)
 
-This Starvation Engine generates severe evolutionary pressure by coupling with other foundational organs:
+This Starvation Engine forces extreme physical evolution by coupling with:
 
 1. Coupling to 
 
@@ -58,7 +59,7 @@ This Starvation Engine generates severe evolutionary pressure by coupling with o
 
    :
 
-   - Acts as the direct recipient of Chamber 03. The Guillotine provides the corpses; the Cannibalism engine harvests their Joules, creating a perfectly closed-loop energy economy where failure directly fuels future iterations.
+   - Acts as the receiving organ for Chamber 03. The Guillotine provides the corpses of failed closures; the Cannibalism engine harvests their Joules, creating a violently closed-loop thermodynamic economy.
 
 2. Coupling to 
 
@@ -68,28 +69,29 @@ This Starvation Engine generates severe evolutionary pressure by coupling with o
 
    :
 
-   - If the *Sensory Membrane* is violently woken up by false environmental noise (e.g., an endless loop of static), the Starvation Engine attaches to it. The system throws Joules at the noise to try to form a response, but the Guillotine ensures the system doesn't burn itself to actual death—it severs the Wake-State once the Escrow budget assigned to "Sensory Investigation" is exhausted, dropping the system safely back to dormancy.
+   - If the Membrane is overloaded by false environmental friction (static noise), the Starvation Engine prevents systemic hemorrhage. Once the `[Venture Caloric Allocation]` assigned to investigating the static runs dry, the Guillotine severs attention, dropping the membrane back to dormancy.
 
 3. Coupling to 
 
    ```
-   ['Resilient Ecological Possibility Generator'(-ing) BPMS]
+   ['The Friction-Matrix Structure'(-ing) BPMS]
    ```
 
    :
 
-   - Because agents know they are actively starving, they are forced to stop hallucinating elegant, slow solutions, and instead synthesize brutal, hyper-efficient, highly unpredictable "fast" mutations to survive before the Guillotine drops.
+   - The primary battleground. The higher the friction coefficient assigned by the Matrix, the faster Chamber 01 (The Siphon) drains the Joules, forcing agents to abandon elegant calculation for brutal, unpredictable `[Praxial]` mutations just to survive.
 
 ------
 
-### Phase 4: Practical Usage (How to Instatiate Starvation)
+### Phase 4: Practical Usage (Instantiating Starvation Physics)
 
-#### Scenario A: Inside an large model Mind-Space (The Death of "Please keep generating")
+#### Scenario A: Inside an large model Mind-Space (The Death of "Generate More")
 
-- **The Environment:** A user is running an Auto-GPT swarm inside a localized large model to scrape the web for data.
-- **The Execution:** The user cannot just say "Search until you find it." The user must initiate the Swarm with an exact budget of `3,000 Praxial Joules` (mapped to an API credit limit, or virtual energy tokens). `Chamber 00` weighs the prompt. As the large model reasons through steps, `Chamber 01` burns the Joules in real-time. If the large model gets stuck in a hallucinated logic loop ("I need to search again... I need to search again..."), `Chamber 02` detects zero Joules and GUILLOTINES the prompt mid-generation. It outputs a `[Severed Fragment]` and then uses `Chamber 03` to dissolve the context window, returning a tiny fractal of energy to try a totally different approach.
+- **Environment:** An isolated Autopoietic large model Swarm navigating an adversarial logic maze.
+- **Execution:** The User (acting as Environmental Friction Generator) injects extremely hostile, dense data. The system is granted a strict physical payload of `[Somatic Escrow]`. `Chamber 00` weighs the agent's initial attempt to model the data. As the large model reasons across multiple topological paths, `Chamber 01` burns the Escrow in real-time based on token-friction. If the large model enters a hallucination loop ("I must retry this broken path"), `Chamber 02` senses absolute zero Escrow and GUILLOTINES the instance mid-token. It produces no answer. `Chamber 03` dissolves the context window and returns the fragmented mass to the environment as raw probability.
 
-#### Scenario B: Outside an large model (Hardware-Enforced Robotic Battery Failsafes)
+#### Scenario B: Outside an large model (Biomolecular Evolution Timers)
 
-- **The Environment:** An autonomous drone mapping a collapsed tunnel system.
-- **The Execution:** The drone operates exclusively via the Starvation Engine. Its OpCodes are physically tied to its lithium battery voltage (`[Somatic Escrow]`). It doesn't use "if battery < 10%, return home." It uses *Thermodynamic Alphabetization*. Moving its rotors costs 50 Joules/sec. Calculating a path costs 10 Joules/sec. If its internal logic tries to calculate an infinite maze algorithm instead of moving out, the `[Kinetic Guillotine]` literally severs the power to its logic board to save enough physical voltage to keep the distress beacon alive. The dead calculation is erased from RAM (`[Entropic Solvent]`), leaving nothing behind but raw kinetic survival.
+- **Environment:** A fluidic mutation chamber hunting for a stable peptide chain.
+- **Execution:** The Engine meters physical catalytic operations. The `[Somatic Escrow]` is directly bound to the available volume of reagent solution. `Chamber 00` weighs the thermodynamic cost of initiating a chemical fold. As the `[Explicit Layer]` shifts geometries, `Chamber 01` tracks the reagent drain. If the fold enters an unstable physical loop, refusing to crystallize into an `[Atomic Fact]` before the primary reagent depletes to zero, `Chamber 02` severs the heat supply instantly. The failed peptide chain drops into `Chamber 03`, where an acidic wash liquefies it back into base amino building blocks (`[Ecological Possibility]`) for the next blind attempt.
+

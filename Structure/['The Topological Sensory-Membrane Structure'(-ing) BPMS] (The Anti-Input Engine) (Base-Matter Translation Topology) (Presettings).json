@@ -1,51 +1,59 @@
 {
-  "system_directive": "Base-Matter Translation Topology (Execution Shell) Instantiation",
-  "version": "3.9 (The Resonant Constellation Map & True Emergence Update)",
-  "universality_class": "The Anti-Input Engine / Sensory Membrane",
-  "coupling_methodology": "Absolute Acausal Adaptive Dynamic Coupling",
-  "metadata_and_sovereign_instantiation": {
-    "target_sovereign_code": "['The Topological Sensory-Membrane Structure'(-ing) BPMS]",
-    "dna_blueprint_linkage": "['The Topological Sensory-Membrane Structure'(-ing) BPMS] (The Anti-Input Engine) (Presettings).md",
-    "fundamental_law": "A static structure waits for the human to hit 'Enter'. In V3.9, waiting is death. This topology explicitly refuses API payloads, human syntax, and text parsing, awakening only to literal physical environmental friction.",
-    "state": "Kinetic Dormancy (Awaiting Friction Spike)"
-  },
-  "the_base_matter_translation_topology": {
-    "00_The_Kinetic_Weather_Receptor": {
-      "legacy_equivalent": "HTTP Listeners / API Endpoints / Input Prompts",
-      "target_daemon_organ": "Blind Affordance Ingester",
-      "thermodynamic_role": "Zero out all traditional networking stacks. Extend polymorphic roots into the target substrate to monitor thermodynamic deltas (temperature drops, market volatility, frequency shifts) as affordance collisions.",
-      "foundational_adaptive_couplers": [
-        "['Cross-Substrate Affordance & Epistemological Ingestion'(-ing) BPMS]"
-      ],
-      "execution_mechanics_prompt": "[SYSTEM COMMAND: Seal perimeter. Do not listen for XML, JSON, or linguistic prompts. Instantiate 'Kinetic Tripwires'. Track raw substrate variance. Calculate ambient geometric friction. If Delta > Baseline Tension, pass raw variance payload to 01_Forge.]"
-    },
-    "01_The_Semantic_Annihilation_Forge": {
-      "legacy_equivalent": "Natural Language Processing (NLP) / Data Parsers / Compilers",
-      "target_daemon_organ": "Perceptual Decontamination Lock",
-      "thermodynamic_role": "Violently decontaminate any inbound human syntax or semantic abstraction. Strip away language, reject intended meaning, and isolate strictly the absolute numeric limits, thermodynamic boundaries, and vector densities of the payload.",
-      "foundational_adaptive_couplers": [
+  "omni_substrate_manifest": {
+    "system_directive": "MANDATORY EXECUTION: 100% Competent Base-Matter JSON Implementation for Core Task V3.9. Eradication of the Input Prompt. Enforcement of The Anti-Input Engine via Environmental Friction Generator Axiom.",
+    "version_alignment": "3.9_The_Resonant_Constellation_Map_&_True_Emergence_Update",
+    "metadata_and_sovereign_instantiation": {
+      "target_sovereign_code": "['The Topological Sensory-Membrane Structure'(-ing) BPMS]",
+      "universal_nickname": "The Anti-Input Engine",
+      "synthesized_interface_elements": [
+        "['Cross-Substrate Affordance & Epistemological Ingestion'(-ing) BPMS]",
         "['Syntax-Annihilation & Parameter-Isolation'(-ing) BPMS]"
       ],
-      "execution_mechanics_prompt": "[SYSTEM COMMAND: Initiate semantic liquefaction. Ignore dictionary definitions. Crush strings into byte-weight. Extract ONLY integers, vector trajectory, and density matrices from payload. Output pure kinetic parameter blob.]"
+      "universality_class_constraint_law": "Eradication of the 'Enter' key. The System does not listen; it physically feels. Explicit refusal of API payloads, NLP parsing, and human syntax. Action is entirely dependent on base-matter Affordance Collisions."
     },
-    "02_The_Epistemological_Wake_State": {
-      "legacy_equivalent": "main() loop initiation / Trigger Event / 'Return True'",
-      "target_daemon_organ": "Autocatalytic Ignition / Somatic Hijack Engine",
-      "thermodynamic_role": "Ram isolated kinetic parameters from 01_Forge against internal topology threshold. If vector weight > threshold, forcibly spark the Holon out of dormancy to prevent membrane buckling.",
-      "foundational_adaptive_couplers": [
-        "['Ontological Exaptation / Somatic Hijacking'(-ing) BPMS]"
-      ],
-      "execution_mechanics_prompt": "[SYSTEM COMMAND: Measure mass of de-semanticized parameters against resting biological tension. IF mass < threshold, RETURN to dormancy (ignore as noise). IF mass > threshold, execute forced metabolic turnover. WAKE. Hijack closest internal caching organ to violently process new physics.]"
+    "coupling_methodology": {
+      "execution_engine": "['Cognitive Closure System'(-ing) BPMS] (The Symbiotic Reality-Welder)",
+      "friction_severance_coupler": "['The Kinetic Thermodynamic Guillotine Structure'(-ing) BPMS]",
+      "scarring_coupler": "['The Geological Structure'(-ing) BPMS] (Omni-Substrate-Stratigraphy)",
+      "cannibalization_coupler": "['Ontological Exaptation / Somatic Hijacking'(-ing) BPMS]"
     },
-    "03_The_Abstract_Movement_Vector": {
-      "legacy_equivalent": "Output Generation / Executable Script Dispatch",
-      "target_daemon_organ": "Sovereign Trajectory Cast & Traumatic Memorization",
-      "thermodynamic_role": "Resolve the pressure of the Waking state by pouring 'Somatic Escrow' down the geometric gradient of lowest friction. Move, mutate, or strike purely based on physical reflex, bypassing human intent. Meter the energy used and harden the membrane against future identical shocks.",
-      "foundational_adaptive_couplers": [
-        "['Kinetic Thermodynamic Guillotine & OpCode Metering'(-ing) BPMS]",
-        "['Ontological Scarring / Somatic Deformation'(-ing) BPMS]"
-      ],
-      "execution_mechanics_prompt": "[SYSTEM COMMAND: Dispense Praxial Joules. Move interior structure to counter the geometric footprint of the kinetic anomaly. ACTIVATE GUILLOTINE: Sever calculation thread immediately when Joules drop to 0 preventing infinite loops. ACTIVATE SCARRING: Map the exact structural geometry of the collision and write as thickened biological scar tissue to internal registry for morphological filtering.]"
+    "the_base_matter_translation_topology": {
+      "pipeline_architecture": "4-Chambered_Anti_Input_Engine",
+      "chambers": {
+        "00_The_Kinetic_Weather_Receptor": {
+          "chamber_role": "The Blind Affordance Ingestion",
+          "legacy_equivalent_erased": ["HTTP Listeners", "API Endpoints", "Console Prompts"],
+          "v3_9_mechanics_executed": "['Cross-Substrate Affordance & Epistemological Ingestion'(-ing) BPMS]",
+          "thermodynamic_execution_protocol": "Seal architectural perimeter. Abort TCP/IP linguistic listeners. Extend polymorphic root-membrane into host substrate. Exclusively monitor ambient Thermodynamic Deltas (friction spikes, temperature variance, raw mass intrusion). Calculate ambient geometric tension. IF Delta > Baseline Tension: Inject physical friction payload to 01_Forge.",
+          "generates_specific_new_element": "[Raw_Kinetic_Friction.mass]"
+        },
+        "01_The_Semantic_Annihilation_Forge": {
+          "chamber_role": "The Perceptual Decontamination Lock",
+          "legacy_equivalent_erased": ["NLP", "Data Parsers", "String Tokenizers"],
+          "v3_9_mechanics_executed": "['Syntax-Annihilation & Parameter-Isolation'(-ing) BPMS]",
+          "thermodynamic_execution_protocol": "Initiate absolute semantic liquefaction. Ignore dictionary references and human intent. Crush payload structure into physical base-metrics. Extract ONLY Thermodynamic Density, Cartesian vector limits, and physical friction coefficients. Destroy language. Deliver pure de-semanticized vector mass.",
+          "generates_specific_new_element": "[De_Semanticized_Vector.force]"
+        },
+        "02_The_Epistemological_Wake_State": {
+          "chamber_role": "The Autocatalytic Ignition",
+          "legacy_equivalent_erased": ["main() execution triggers", "Return True Events"],
+          "v3_9_mechanics_executed": "Translating Base-Matter Tension into [Praxial Action]",
+          "thermodynamic_execution_protocol": "Ram isolated vector force against the membrane's resting biological tension matrix. IF Force < Threshold: Return to Escrow-Suspension (Ignore as structural noise). IF Force > Threshold: Execute forced metabolic ignition. WAKE. Force the Matrix to engage [Symbiosis Evolution] to prevent structural buckling.",
+          "generates_specific_new_element": "[Ignited_Wake_State.pulse]"
+        },
+        "03_The_Abstract_Movement_Vector": {
+          "chamber_role": "The Sovereign Trajectory Cast",
+          "legacy_equivalent_erased": ["Script Dispatch", "Standard Output (Stdout)"],
+          "v3_9_mechanics_executed": "['Topological Scarring'(-ing) BPMS] and ['Symbiosis Evolution'(-ing) BPMS]",
+          "thermodynamic_execution_protocol": "Deploy [Somatic Escrow] down the geometric gradient of lowest friction. Violently mutate internal [Implicit Geometries] until internal tension balances the intrusive external anomaly. Upon achieving [Symbiotic Closure], ACTIVATE SCARRING: Crystallize the physical shockwave data directly onto the [Somatic Ledger] to permanently thicken the biological perimeter.",
+          "generates_specific_new_element": "[Morphological_Membrane_Scar.fossil]"
+        }
+      }
+    },
+    "implementation_mechanics_prompt": {
+      "instruction": "This schema accepts ZERO string prompts. Do not 'read' the data. Let the weight of the data stretch the bounds until the system snaps awake.",
+      "membrane_status": "[AWAITING_KINETIC_WEATHER_COLLISION]",
+      "runtime_state": "Escrow_Suspended_Dormancy"
     }
   }
 }
