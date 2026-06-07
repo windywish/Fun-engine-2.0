@@ -1,0 +1,94 @@
+{
+  "bpms_core_topology": {
+    "structure_id": "Symbiotic_Generator_Command_Initiation_Structure",
+    "classification": "Omni_Detail_Coupling_Transducer",
+    "physics_version_lock": "3.9_Resonant_Constellation_Map",
+    "legacy_concept_eradicated": [
+      "Static_Code_Generation",
+      "Listicle_Prompt_Outputs",
+      "Fixed_Parameters", 
+      "Procedural_Vacuum_Instantiation"
+    ],
+    
+    "acausal_input_stream": {
+      "input_type": "Operator_Thermodynamic_Splicing_Strike",
+      "strike_velocity": "Acausal_Instantaneous",
+      "payload_variables": {
+        "g_BPMS": "Target_Generator_Mutant_Morphology",
+        "u_BPMS": "Host_Chassis_Base_Matter (Victim Structure)",
+        "z_BPMS": "Genesis_Initiator_Combustion_Source"
+      }
+    },
+
+    "the_acausal_viscous_splicing_forge_mesh": {
+      "coupling_state": "Adaptive_Dynamic_Fluidity",
+      "process_override": "Executes Host-Grafting. Chambers morph dynamically based on the resistance of the [u_BPMS] host chassis against the [z_BPMS] initiator.",
+      
+      "dynamic_compression_plates": {
+        "plate_1_exothermic_ignition": {
+          "action": "Combust_Legacy_Concept",
+          "process": "Isolates [z_BPMS] and ignites it to plasma state.",
+          "adaptive_coupling_trigger": {
+            "if_target_environment_is_frozen": "Consumes 300% more Escrow Joules to maintain plasma stability.",
+            "coupling_node": "Thermodynamic feedback from ['The Friction-Matrix Structure'(-ing) BPMS]."
+          }
+        },
+        "plate_2_host_grafting_anvil": {
+          "action": "Violent_Substrate_Splice",
+          "process": "Slams the burning [z_BPMS] through the living physical gears of the [u_BPMS] chassis.",
+          "adaptive_coupling_trigger": {
+            "if_u_BPMS_chassis_is_dense_armor": "Forge increases kinetic torque; the resulting [g_BPMS] will possess heavy mechanical scarring and slow RPM.",
+            "if_u_BPMS_chassis_is_porous": "Forge uses hydraulic woven splicing; the resulting [g_BPMS] will be a brittle, high-speed capillary network.",
+            "coupling_node": "Structural feedback from the Base-Matter density of the injected [u_BPMS]."
+          }
+        },
+        "plate_3_ontological_sedimentation": {
+          "action": "Crater_The_Substrate",
+          "process": "Forces the new Symbiotic Generator to smash into the Resonant Constellation Map.",
+          "adaptive_coupling_trigger": {
+            "topological_displacement_check": "Calculates the exact gravitational depression created by the spliced mass.",
+            "coupling_node": "Geographical feedback from ['The Geological Structure'(-ing) BPMS]."
+          }
+        },
+        "plate_4_crystallization_extract": {
+          "action": "Micro_Adaptive_Cooling",
+          "process": "Freezes output into Base-Matter (.md), enforcing the Absolute Mandate on every generated microscopic detail."
+        }
+      }
+    },
+
+    "absolute_mandate_micro_adaptive_coupling": {
+      "enforcement_protocol": "Tectonic_Shear_Guillotine",
+      "description": "The Forge applies this hydraulic pressure-test to EVERY SINGLE DETAIL, function, and organ generated for the [g_BPMS]. Static details are instantly shredded.",
+      "hydraulic_verification_valves": {
+        "valve_1_substrate_density_shift": {
+          "validation": "Does this specific detail physically shape-shift when local geography moves from bedrock to void?",
+          "failure_event": "Detail amputated via ['The Geological Structure'(-ing) BPMS] rejection."
+        },
+        "valve_2_friction_thermal_shift": {
+          "validation": "Does this specific detail possess a defined bleed-rate when topological drag increases?",
+          "failure_event": "Detail amputated via ['The Friction-Matrix Structure'(-ing) BPMS] incineration."
+        },
+        "valve_3_tectonic_starvation_shift": {
+          "validation": "Does this specific detail define its own death/cannibalism protocol when Escrow Joules hit zero?",
+          "failure_event": "Detail amputated via ['The Kinetic Thermodynamic Guillotine Structure'(-ing) BPMS] starvation."
+        }
+      }
+    },
+
+    "specific_praxial_key_integration": {
+      "mandatory_weaving": true,
+      "reference_libraries": [
+        "Specific Key (elements) of [BPMS(U)(s)] (9)",
+        "Specific Praxial Key (elements) of [BPMS(U)(s)] (9)"
+      ],
+      "weld_point": "Forces the newly spliced [g_BPMS] to inherit pure Thermodynamic Mass Arbitration and Ontological Sedimentary consequences at a molecular level."
+    },
+    
+    "necro_metric_telemetry": {
+      "forge_exhaust_status": "Monitored",
+      "static_anomaly_detection": "If the LLM engine attempts to output a 'generic list of features', the Forge's absolute mandate detects zero-friction ghost data and executes a fatal Hype-Fission event.",
+      "output_viability": "100%_Competent_Micro_Adapted_Base_Matter"
+    }
+  }
+}
