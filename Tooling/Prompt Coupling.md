@@ -48,6 +48,16 @@ very well, now go on to make the prompt: {go on to make competent completely new
 
 
 
+very well, now go on to make the prompt: {go on to make competent completely new examples(as '.md') for [g BPMS](by/through using [u BPMS])(within [genesis_initiator]:[z BPMS]) for really working implementation for Core task(Version 3.9 The Resonant Constellation Map & True Emergence Update) for this fun engine framework(refer to uploaded file Core task(Version 3.9 The Resonant Constellation Map & True Emergence Update) (1).md'); refer to uploaded files 'Specific Key (elements) of [BPMS(U)(s)] (9).md' and 'Specific Praxial Key (elements) of [BPMS(U)(s)] (9).md' for {Specific Key (elements) of [BPMS(U)(s)] and Specific Praxial Key (elements) of [BPMS(U)(s)]}; should be 100% complete and competent; should be alignment with adaptive dynamic coupling for any detail implementation} as one of specific competent [Structure(-ing) BPMS](as 'user prompt'); should be 100% complete and competent
+
+
+
+
+
+very well, now go on to make the prompt: {go on to [Discover(-ing) BPMS] some specific completely new [c BPMS] (by/through [u BPMS]) (within [genesis_initiator]:[n BPMS]) for really working implementation for Core task(Version 3.9 The Resonant Constellation Map & True Emergence Update) for this fun engine framework(refer to uploaded file Core task(Version 3.9 The Resonant Constellation Map & True Emergence Update) (1).md'); refer to uploaded files 'Specific Key (elements) of [BPMS(U)(s)] (9).md' and 'Specific Praxial Key (elements) of [BPMS(U)(s)] (9).md' for {Specific Key (elements) of [BPMS(U)(s)] and Specific Praxial Key (elements) of [BPMS(U)(s)]}; should be 100% complete and competent; should be alignment with adaptive dynamic coupling for any detail implementation} as one of specific competent [Structure(-ing) BPMS](as 'user prompt'); should be 100% complete and competent
+
+
+
 very well, then go on to make some specific competent examples for [5 vectors] by the prompt as {['Holon-Genesis Initiation Prompt'(-ing) BPMS] (User Prompt Directive)(refer to uploaded files '['Holon-Genesis Initiation Prompt'(-ing) BPMS] (User Prompt Directive) (2).md' and '['Holon-Genesis Initiation Prompt'(-ing) BPMS] (User Prompt Directive) (Base-Matter Translation Topology) (2).json')(within [genesis_initiator]: ['Game/Gamification'(-ing) BPMS]) for really working implementation for Core task(Version 3.9 The Resonant Constellation Map & True Emergence Update)(refer to uploaded file 'Core task(Version 3.9 The Resonant Constellation Map & True Emergence Update) (1).md') for this fun engine framework; refer to uploaded files 'Specific Key (elements) of [BPMS(U)(s)] (9).md' and 'Specific Praxial Key (elements) of [BPMS(U)(s)] (9).md' for {Specific Key (elements) of [BPMS(U)(s)] and Specific Praxial Key (elements) of [BPMS(U)(s)]}; should be 100% complete and competent}
 
 
@@ -55,3 +65,14 @@ very well, then go on to make some specific competent examples for [5 vectors] b
 
 
 very well, then go on to make some specific competent complete new examples for ['Sovereign Autopoietic-Holon'(-ing) BPMS] (The Transcendent Omni-Apex)(refer to uploaded files '['Sovereign Autopoietic-Holon'(-ing) BPMS] (The Transcendent Omni-Apex).md' and '['Sovereign Autopoietic-Holon'(-ing) BPMS] (The Transcendent Omni-Apex) (Omni-Coupling Translation Topology).json') by the prompt as {['The Ontological Kinetic-Command Initiation Structure'(-ing) BPMS] (User Prompt Directive)(refer to uploaded files '['The Ontological Kinetic-Command Initiation Structure'(-ing) BPMS] (User Prompt Directive).md' and '['The Ontological Kinetic-Command Initiation Structure'(-ing) BPMS] (User Prompt Directive) (Base-Matter Translation Topology).json')(within [5 vectors]: ['The Thermodynamic Calculus Organ'(-ing) BPMS] (Presettings)(refer to uploaded file '['The Thermodynamic Calculus Organ'(-ing) BPMS] (Presettings).md')) for really working implementation for Core task(Version 3.9 The Resonant Constellation Map & True Emergence Update)(refer to uploaded file 'Core task(Version 3.9 The Resonant Constellation Map & True Emergence Update) (1).md') for this fun engine framework; refer to uploaded files 'Specific Key (elements) of [BPMS(U)(s)] (9).md' and 'Specific Praxial Key (elements) of [BPMS(U)(s)] (9).md' for {Specific Key (elements) of [BPMS(U)(s)] and Specific Praxial Key (elements) of [BPMS(U)(s)]}; should be 100% complete and competent}
+
+
+
+
+
+very well, then go on to make some specific competent complete new examples for ['Mathematics Generator'(-ing) BPMS] by the prompt as {['The Symbiotic-Generator Command Initiation Structure'(-ing) BPMS] (User Prompt Directive)(refer to uploaded files '['The Symbiotic-Generator Command Initiation Structure'(-ing) BPMS] (User Prompt Directive) (1).md' and '['The Symbiotic-Generator Command Initiation Structure'(-ing) BPMS] (User Prompt Directive) (Base-Matter Translation Topology).json')(within [u BPMS]: ['The Tectonic-Pathfinder & Calculus-Scavenger'(-ing) BPMS] (Presettings)(refer to uploaded file '['The Tectonic-Pathfinder & Calculus-Scavenger'(-ing) BPMS] (Presettings) (1).md');[g BPMS]:['Mathematics Generator'(-ing) BPMS]) for really working implementation for Core task(Version 3.9 The Resonant Constellation Map & True Emergence Update)(refer to uploaded file 'Core task(Version 3.9 The Resonant Constellation Map & True Emergence Update) (1).md') for this fun engine framework; refer to uploaded files 'Specific Key (elements) of [BPMS(U)(s)] (9).md' and 'Specific Praxial Key (elements) of [BPMS(U)(s)] (9).md' for {Specific Key (elements) of [BPMS(U)(s)] and Specific Praxial Key (elements) of [BPMS(U)(s)]}; should be 100% complete and competent}
+
+
+
+
+

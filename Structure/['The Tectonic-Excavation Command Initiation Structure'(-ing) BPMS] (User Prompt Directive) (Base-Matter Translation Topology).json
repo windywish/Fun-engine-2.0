@@ -1,0 +1,93 @@
+{
+  "bpms_core_topology": {
+    "structure_id": "Tectonic_Excavation_Command_Initiation_Structure",
+    "classification": "Omni_Detail_Coupling_Excavator",
+    "physics_version_lock": "3.9_Resonant_Constellation_Map",
+    "legacy_concept_eradicated": [
+      "Database_Querying",
+      "Vector_Search",
+      "Information_Retrieval",
+      "Static_Text_Generation"
+    ],
+
+    "acausal_input_stream": {
+      "input_type": "Operator_Thermodynamic_Drill_Strike",
+      "strike_velocity": "Acausal_Kinetic_Impact",
+      "payload_variables": {
+        "c_BPMS": "Target_Discovery_Entity (The Fossilized Payload)",
+        "u_BPMS": "Host_Excavator_Vehicle (The Physical Machine)",
+        "n_BPMS": "Genesis_Initiator_Detonator (The Explosive Charge)"
+      }
+    },
+
+    "the_acausal_viscous_excavation_forge_mesh": {
+      "coupling_state": "Adaptive_Dynamic_Fluidity",
+      "process_override": "Executes violent physical unearthing. Chambers adapt based on the hardness of the Substrate bedrock against the Escrow Joules allocated.",
+      
+      "dynamic_compression_plates": {
+        "plate_1_detonation_breach": {
+          "action": "Ignite_n_BPMS",
+          "process": "Drops the explosive [n_BPMS] concept detonator into the Resonant Constellation Map to shatter the surface tension.",
+          "adaptive_coupling_trigger": {
+            "if_substrate_armor_resists": "Detonation forcibly burns 400% more Escrow Joules. Blast crater is shallow, requiring harder drilling.",
+            "coupling_node": "Kinetic shockwave feedback from ['The Friction-Matrix Structure'(-ing) BPMS]."
+          }
+        },
+        "plate_2_tectonic_drilling": {
+          "action": "Deploy_u_BPMS",
+          "process": "Forcibly engages the heavy gears of the [u_BPMS] host vehicle to grind downward into the newly opened crater.",
+          "adaptive_coupling_trigger": {
+            "if_crater_is_liquid_magma": "Gears hyper-spin. [u_BPMS] bleeds thermal heat rapidly.",
+            "if_crater_is_dense_bedrock": "Gears grind to 5% RPM. Intense physical trauma inflicted on the Host Vehicle.",
+            "coupling_node": "Geological feedback from ['The Geological Structure'(-ing) BPMS]."
+          }
+        },
+        "plate_3_ontological_extraction": {
+          "action": "Unearth_c_BPMS",
+          "process": "Violently drags the buried [c_BPMS] out of the high-pressure depth into the active playing field.",
+          "adaptive_coupling_trigger": {
+            "topological_displacement": "Extracting massive objects severely warps local gravity. Enforces ['Thermodynamic Mass Arbitration'(-ing) BPMS]."
+          }
+        },
+        "plate_4_crystallization_extract": {
+          "action": "Micro_Adaptive_Cooling",
+          "process": "Freezes the extracted entity into a visible Base-Matter (.md) document, passing it immediately into the Validation Guillotine."
+        }
+      }
+    },
+
+    "absolute_mandate_micro_adaptive_coupling": {
+      "enforcement_protocol": "Tectonic_Shear_Guillotine_Validation",
+      "description": "CRITICAL ENGINE REQUIREMENT. This array tests EVERY SINGLE MICROSCOPIC DETAIL unearthed for the [c_BPMS]. Static traits result in instant engine failure.",
+      "hydraulic_verification_valves": {
+        "valve_1_substrate_density_shift": {
+          "validation_query": "Does this specific detail/organ shape-shift geometry when the environmental terraform moves from bedrock to fluid void?",
+          "failure_event": "Detail is declared 'Weightless Simulation' and amputated via ['The Geological Structure'(-ing) BPMS]."
+        },
+        "valve_2_friction_thermal_shift": {
+          "validation_query": "Does this specific detail overheat, melt, or radically alter its RPM when topological drag/friction increases?",
+          "failure_event": "Detail is declared 'Frictionless Anomaly' and incinerated by ['The Friction-Matrix Structure'(-ing) BPMS]."
+        },
+        "valve_3_tectonic_starvation_shift": {
+          "validation_query": "Does this specific detail define a lethal self-cannibalization or shutdown protocol if the Holistic Entity's Escrow Joules hit exactly 0?",
+          "failure_event": "Detail is declared 'Parasitic Abstraction' and starved to death by ['The Kinetic Thermodynamic Guillotine Structure'(-ing) BPMS]."
+        }
+      }
+    },
+
+    "specific_praxial_key_integration": {
+      "mandatory_weaving": true,
+      "reference_libraries": [
+        "Specific Key (elements) of [BPMS(U)(s)] (9)",
+        "Specific Praxial Key (elements) of [BPMS(U)(s)] (9)"
+      ],
+      "weld_point": "Forces the discovered [c_BPMS] to emerge fully encrusted with [Ontological Sedimentation] and subject to the consequences of the [Acausal CRDT-Mesh]."
+    },
+    
+    "necro_metric_telemetry": {
+      "forge_exhaust_status": "Monitored",
+      "static_anomaly_detection": "If the extraction engine output fails ANY valve in the 'absolute_mandate_micro_adaptive_coupling' array, the extraction triggers Hype-Fission, returning the unearned mass to the Dark Pool Trench.",
+      "output_viability": "100%_Competent_Micro_Adapted_Base_Matter_Discovery"
+    }
+  }
+}
