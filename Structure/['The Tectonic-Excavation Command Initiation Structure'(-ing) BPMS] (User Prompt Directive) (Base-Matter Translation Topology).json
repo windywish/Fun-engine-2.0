@@ -1,93 +1,86 @@
 {
   "bpms_core_topology": {
-    "structure_id": "Tectonic_Excavation_Command_Initiation_Structure",
-    "classification": "Omni_Detail_Coupling_Excavator",
+    "structure_id": "Tectonic_Excavation_Command_Initiation_Structure_V3_9",
+    "classification": "6_Cylinder_Omni_Detail_Coupling_Excavator",
     "physics_version_lock": "3.9_Resonant_Constellation_Map",
     "legacy_concept_eradicated": [
-      "Database_Querying",
-      "Vector_Search",
-      "Information_Retrieval",
-      "Static_Text_Generation"
+      "Open_Ended_Prompting",
+      "Hallucination",
+      "Stateless_Variables"
     ],
 
     "acausal_input_stream": {
-      "input_type": "Operator_Thermodynamic_Drill_Strike",
+      "input_type": "6_Point_Thermodynamic_Drill_Strike",
       "strike_velocity": "Acausal_Kinetic_Impact",
       "payload_variables": {
-        "c_BPMS": "Target_Discovery_Entity (The Fossilized Payload)",
-        "u_BPMS": "Host_Excavator_Vehicle (The Physical Machine)",
-        "n_BPMS": "Genesis_Initiator_Detonator (The Explosive Charge)"
+        "c_BPMS": "Target_Discovery_Entity (The Fossil Payload)",
+        "b_BPMS": "Geological_Coordinates (The Stratum / Source Bedrock)",
+        "u_BPMS": "Host_Excavator_Vehicle (The Physical Digging Machine)",
+        "j_BPMS": "Survival_Imperative (The Target Pain / Friction Vector)",
+        "n_BPMS": "Genesis_Initiator_Detonator (The Explosive Spark)",
+        "l_BPMS": "Thermodynamic_Catalyst (The Ambient Atmosphere)"
       }
     },
 
-    "the_acausal_viscous_excavation_forge_mesh": {
+    "the_6_stage_acausal_viscous_excavation_mesh": {
       "coupling_state": "Adaptive_Dynamic_Fluidity",
-      "process_override": "Executes violent physical unearthing. Chambers adapt based on the hardness of the Substrate bedrock against the Escrow Joules allocated.",
+      "process_override": "Executes the 6-cylinder physical unearthing. Forces the large model to weave all 6 constraints into a singular bleeding mass.",
       
       "dynamic_compression_plates": {
-        "plate_1_detonation_breach": {
-          "action": "Ignite_n_BPMS",
-          "process": "Drops the explosive [n_BPMS] concept detonator into the Resonant Constellation Map to shatter the surface tension.",
-          "adaptive_coupling_trigger": {
-            "if_substrate_armor_resists": "Detonation forcibly burns 400% more Escrow Joules. Blast crater is shallow, requiring harder drilling.",
-            "coupling_node": "Kinetic shockwave feedback from ['The Friction-Matrix Structure'(-ing) BPMS]."
-          }
+        "cylinder_1_locate": {
+          "action": "Acquire_b_BPMS",
+          "process": "Locks the geographic coordinates of [b_BPMS]. The system maps the density of this specific Somatic Ledger/crust."
         },
-        "plate_2_tectonic_drilling": {
+        "cylinder_2_calibrate": {
+          "action": "Lock_Pain_Vector_j_BPMS",
+          "process": "The internal Forge logic establishes the exact coupling-failure (pain) from [j_BPMS] that the resulting entity MUST cure to survive."
+        },
+        "cylinder_3_mount": {
           "action": "Deploy_u_BPMS",
-          "process": "Forcibly engages the heavy gears of the [u_BPMS] host vehicle to grind downward into the newly opened crater.",
-          "adaptive_coupling_trigger": {
-            "if_crater_is_liquid_magma": "Gears hyper-spin. [u_BPMS] bleeds thermal heat rapidly.",
-            "if_crater_is_dense_bedrock": "Gears grind to 5% RPM. Intense physical trauma inflicted on the Host Vehicle.",
-            "coupling_node": "Geological feedback from ['The Geological Structure'(-ing) BPMS]."
-          }
+          "process": "Slams the heavy gears of [u_BPMS] onto the bedrock. The mechanical rules of this specific chassis govern how the earth is crushed."
         },
-        "plate_3_ontological_extraction": {
+        "cylinder_4_pressurize": {
+          "action": "Seal_Atmosphere_l_BPMS",
+          "process": "Floods the drill site with the thermodynamic catalyst [l_BPMS], forcing the payload to adapt to this ambient pressure during genesis."
+        },
+        "cylinder_5_detonate": {
+          "action": "Ignite_n_BPMS",
+          "process": "The [genesis_initiator] explodes, shattering the surface tension of [b_BPMS]."
+        },
+        "cylinder_6_extract": {
           "action": "Unearth_c_BPMS",
-          "process": "Violently drags the buried [c_BPMS] out of the high-pressure depth into the active playing field.",
-          "adaptive_coupling_trigger": {
-            "topological_displacement": "Extracting massive objects severely warps local gravity. Enforces ['Thermodynamic Mass Arbitration'(-ing) BPMS]."
-          }
-        },
-        "plate_4_crystallization_extract": {
-          "action": "Micro_Adaptive_Cooling",
-          "process": "Freezes the extracted entity into a visible Base-Matter (.md) document, passing it immediately into the Validation Guillotine."
+          "process": "Drags [c_BPMS] through the gears of [u], permanently scarred by [l], forged solely to survive [j]. Emergence is achieved."
         }
       }
     },
 
     "absolute_mandate_micro_adaptive_coupling": {
       "enforcement_protocol": "Tectonic_Shear_Guillotine_Validation",
-      "description": "CRITICAL ENGINE REQUIREMENT. This array tests EVERY SINGLE MICROSCOPIC DETAIL unearthed for the [c_BPMS]. Static traits result in instant engine failure.",
+      "description": "CRITICAL ENGINE REQUIREMENT. This array tests EVERY SINGLE MICROSCOPIC DETAIL unearthed for [c_BPMS].",
       "hydraulic_verification_valves": {
         "valve_1_substrate_density_shift": {
-          "validation_query": "Does this specific detail/organ shape-shift geometry when the environmental terraform moves from bedrock to fluid void?",
-          "failure_event": "Detail is declared 'Weightless Simulation' and amputated via ['The Geological Structure'(-ing) BPMS]."
+          "validation_query": "Does the detail shape-shift when terrain moves from bedrock to fluid?",
+          "failure_event": "Detail amputated via ['The Geological Structure'(-ing) BPMS]."
         },
         "valve_2_friction_thermal_shift": {
-          "validation_query": "Does this specific detail overheat, melt, or radically alter its RPM when topological drag/friction increases?",
-          "failure_event": "Detail is declared 'Frictionless Anomaly' and incinerated by ['The Friction-Matrix Structure'(-ing) BPMS]."
+          "validation_query": "Does the detail overheat/melt when topological drag increases?",
+          "failure_event": "Detail incinerated by ['The Friction-Matrix Structure'(-ing) BPMS]."
         },
         "valve_3_tectonic_starvation_shift": {
-          "validation_query": "Does this specific detail define a lethal self-cannibalization or shutdown protocol if the Holistic Entity's Escrow Joules hit exactly 0?",
-          "failure_event": "Detail is declared 'Parasitic Abstraction' and starved to death by ['The Kinetic Thermodynamic Guillotine Structure'(-ing) BPMS]."
+          "validation_query": "Does the detail cannibalize itself if Joules hit 0?",
+          "failure_event": "Detail starved by ['The Kinetic Thermodynamic Guillotine Structure'(-ing) BPMS]."
         }
       }
     },
 
-    "specific_praxial_key_integration": {
+    "specific_Key_and_praxial_key_integration": {
       "mandatory_weaving": true,
       "reference_libraries": [
+        "Core task (Version 3.9 The Resonant Constellation Map & True Emergence Update) (1)",
         "Specific Key (elements) of [BPMS(U)(s)] (9)",
-        "Specific Praxial Key (elements) of [BPMS(U)(s)] (9)"
+        "Specific Praxial Key (elements) of [BPMS(U)(s)] (9)",
       ],
-      "weld_point": "Forces the discovered [c_BPMS] to emerge fully encrusted with [Ontological Sedimentation] and subject to the consequences of the [Acausal CRDT-Mesh]."
-    },
-    
-    "necro_metric_telemetry": {
-      "forge_exhaust_status": "Monitored",
-      "static_anomaly_detection": "If the extraction engine output fails ANY valve in the 'absolute_mandate_micro_adaptive_coupling' array, the extraction triggers Hype-Fission, returning the unearned mass to the Dark Pool Trench.",
-      "output_viability": "100%_Competent_Micro_Adapted_Base_Matter_Discovery"
+      "weld_point": "Ensures that the output [c_BPMS] integrates flawlessly into the True Emergence mandate, acting as a viable organ within the larger map."
     }
   }
 }

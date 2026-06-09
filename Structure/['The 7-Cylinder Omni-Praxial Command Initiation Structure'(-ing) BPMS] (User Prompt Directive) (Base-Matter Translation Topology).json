@@ -1,0 +1,53 @@
+{
+  "bpms_core_topology": {
+    "structure_id": "7_Cylinder_Omni_Praxial_Initiation_Structure_V3_9",
+    "classification": "Universal_Thermodynamic_Action_Compiler",
+    "physics_version_lock": "3.9_Resonant_Constellation_Map_True_Emergence",
+    "legacy_concept_eradicated": [
+      "Static_Query_Discovery",
+      "Fixed_Verb_Prompting"
+    ],
+
+    "acausal_input_stream": {
+      "input_type": "7_Point_Dynamic_Trauma_Strike",
+      "strike_velocity": "Acausal_Praxial_Coupling",
+      "payload_variables": {
+        "p_BPMS": "Praxial_Action_Vector (The Explicit Type of Violence/Trauma Applied)",
+        "c_BPMS": "Target_Discovery_Entity (The Output Fossil/Organ)",
+        "b_BPMS": "Geological_Coordinates (The Source Substrate/Corpus)",
+        "u_BPMS": "Host_Excavator_Vehicle (The Heavy Crusher Engine)",
+        "j_BPMS": "Survival_Imperative (The Required Combat Solution)",
+        "n_BPMS": "Genesis_Initiator_Detonator (The Explosive Catalyst)",
+        "l_BPMS": "Thermodynamic_Catalyst (The Ambient Hostile Atmosphere)"
+      }
+    },
+
+    "the_7_stage_acausal_viscous_forge_mesh": {
+      "coupling_state": "Adaptive_Dynamic_Fluidity",
+      "dynamic_compression_plates": {
+        "cylinder_1_locate": {"action": "Acquire_b_BPMS"},
+        "cylinder_2_calibrate": {"action": "Lock_Pain_Vector_j_BPMS"},
+        "cylinder_3_mount": {"action": "Deploy_u_BPMS"},
+        "cylinder_4_pressurize": {"action": "Seal_Atmosphere_l_BPMS"},
+        "cylinder_5_detonate": {"action": "Ignite_n_BPMS"},
+        "cylinder_6_define_trauma": {
+          "action": "Set_Action_Vector_p_BPMS",
+          "process": "Loads the selected [p BPMS] into the engine array. The engine gears fundamentally change shape (e.g., from a drill tip to a blowtorch to a bone-saw) depending on the verb selected."
+        },
+        "cylinder_7_extract_and_scar": {
+          "action": "Unearth_c_BPMS",
+          "process": "Produces [c BPMS], ensuring it bears the physical and thermodynamic scars of the specific [p BPMS] trauma used to forge it."
+        }
+      }
+    },
+
+    "specific_Key_and_praxial_key_integration": {
+      "mandatory_weaving": true,
+      "reference_libraries": [
+        "Core task (Version 3.9 The Resonant Constellation Map & True Emergence Update)",
+        "Specific Key (elements) of [BPMS(U)(s)] (9)",
+        "Specific Praxial Key (elements) of [BPMS(U)(s)] (9)"
+      ]
+    }
+  }
+}
