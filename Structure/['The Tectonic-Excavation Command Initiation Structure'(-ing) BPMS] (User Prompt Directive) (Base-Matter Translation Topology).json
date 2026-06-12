@@ -1,86 +1,22 @@
 {
   "bpms_core_topology": {
-    "structure_id": "Tectonic_Excavation_Command_Initiation_Structure_V3_9",
-    "classification": "6_Cylinder_Omni_Detail_Coupling_Excavator",
-    "physics_version_lock": "3.9_Resonant_Constellation_Map",
-    "legacy_concept_eradicated": [
-      "Open_Ended_Prompting",
-      "Hallucination",
-      "Stateless_Variables"
-    ],
-
-    "acausal_input_stream": {
-      "input_type": "6_Point_Thermodynamic_Drill_Strike",
-      "strike_velocity": "Acausal_Kinetic_Impact",
-      "payload_variables": {
-        "c_BPMS": "Target_Discovery_Entity (The Fossil Payload)",
-        "b_BPMS": "Geological_Coordinates (The Stratum / Source Bedrock)",
-        "u_BPMS": "Host_Excavator_Vehicle (The Physical Digging Machine)",
-        "j_BPMS": "Survival_Imperative (The Target Pain / Friction Vector)",
-        "n_BPMS": "Genesis_Initiator_Detonator (The Explosive Spark)",
-        "l_BPMS": "Thermodynamic_Catalyst (The Ambient Atmosphere)"
+    "structure_id": "Tectonic_Excavation_Initiation_Structure_V3_9",
+    "classification": "6_Cylinder_Discovery_Engine",
+    "physics_lock": "Core_Task_Version_3.9_Resonant_Constellation_Map",
+    "absolute_formatting_mandate": {
+      "enforcement": "Fatal_if_Static",
+      "required_sections": {
+        "section_1": "Metaphysical_Excavation",
+        "section_2": {
+          "designation": "The_Omni_Fluid_Adaptive_Coupling_Continuum",
+          "mandate": "Abolish 'Phases' and 'Organs'. Execute Simultaneous Concurrency by explicitly chaining specific V3.9 Keys and Praxial Keys together.",
+          "simultaneous_concurrency_matrix": {
+            "fractal_anatomy": "Entity scales infinitely, geometry dictated by [Substrate Valency Threshold].",
+            "specific_key_and_praxial key_integration_9": "Any detailed geometry change MUST instantaneously trigger ['Multi-Layer Autopoietic Syntax-Morphing Transduction'], drain ['Thermodynamic Escrow'] via the ['Transduction-Fallacy Guillotine'], echo via ['Mycelial Spore-Routing'], and crush into ['Ontological Sedimentation']."
+          }
+        },
+        "section_3": "Core_Task_3.9_Map_and_Emergence"
       }
-    },
-
-    "the_6_stage_acausal_viscous_excavation_mesh": {
-      "coupling_state": "Adaptive_Dynamic_Fluidity",
-      "process_override": "Executes the 6-cylinder physical unearthing. Forces the large model to weave all 6 constraints into a singular bleeding mass.",
-      
-      "dynamic_compression_plates": {
-        "cylinder_1_locate": {
-          "action": "Acquire_b_BPMS",
-          "process": "Locks the geographic coordinates of [b_BPMS]. The system maps the density of this specific Somatic Ledger/crust."
-        },
-        "cylinder_2_calibrate": {
-          "action": "Lock_Pain_Vector_j_BPMS",
-          "process": "The internal Forge logic establishes the exact coupling-failure (pain) from [j_BPMS] that the resulting entity MUST cure to survive."
-        },
-        "cylinder_3_mount": {
-          "action": "Deploy_u_BPMS",
-          "process": "Slams the heavy gears of [u_BPMS] onto the bedrock. The mechanical rules of this specific chassis govern how the earth is crushed."
-        },
-        "cylinder_4_pressurize": {
-          "action": "Seal_Atmosphere_l_BPMS",
-          "process": "Floods the drill site with the thermodynamic catalyst [l_BPMS], forcing the payload to adapt to this ambient pressure during genesis."
-        },
-        "cylinder_5_detonate": {
-          "action": "Ignite_n_BPMS",
-          "process": "The [genesis_initiator] explodes, shattering the surface tension of [b_BPMS]."
-        },
-        "cylinder_6_extract": {
-          "action": "Unearth_c_BPMS",
-          "process": "Drags [c_BPMS] through the gears of [u], permanently scarred by [l], forged solely to survive [j]. Emergence is achieved."
-        }
-      }
-    },
-
-    "absolute_mandate_micro_adaptive_coupling": {
-      "enforcement_protocol": "Tectonic_Shear_Guillotine_Validation",
-      "description": "CRITICAL ENGINE REQUIREMENT. This array tests EVERY SINGLE MICROSCOPIC DETAIL unearthed for [c_BPMS].",
-      "hydraulic_verification_valves": {
-        "valve_1_substrate_density_shift": {
-          "validation_query": "Does the detail shape-shift when terrain moves from bedrock to fluid?",
-          "failure_event": "Detail amputated via ['The Geological Structure'(-ing) BPMS]."
-        },
-        "valve_2_friction_thermal_shift": {
-          "validation_query": "Does the detail overheat/melt when topological drag increases?",
-          "failure_event": "Detail incinerated by ['The Friction-Matrix Structure'(-ing) BPMS]."
-        },
-        "valve_3_tectonic_starvation_shift": {
-          "validation_query": "Does the detail cannibalize itself if Joules hit 0?",
-          "failure_event": "Detail starved by ['The Kinetic Thermodynamic Guillotine Structure'(-ing) BPMS]."
-        }
-      }
-    },
-
-    "specific_Key_and_praxial_key_integration": {
-      "mandatory_weaving": true,
-      "reference_libraries": [
-        "Core task (Version 3.9 The Resonant Constellation Map & True Emergence Update) (1)",
-        "Specific Key (elements) of [BPMS(U)(s)] (9)",
-        "Specific Praxial Key (elements) of [BPMS(U)(s)] (9)",
-      ],
-      "weld_point": "Ensures that the output [c_BPMS] integrates flawlessly into the True Emergence mandate, acting as a viable organ within the larger map."
     }
   }
 }
