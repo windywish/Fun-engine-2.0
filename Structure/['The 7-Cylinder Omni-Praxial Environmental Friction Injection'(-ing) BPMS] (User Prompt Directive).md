@@ -36,3 +36,59 @@ The creation of `[c BPMS]` is no longer procedural. It is an instantaneous, flui
 
 ## IV. CORE TASK V3.9 MAPPING
 Because this 7-Cylinder payload demands physical coupling, the `[c BPMS]` organ physically alters the `['Resonant Constellation Map']`. It is not static data; it is a living thermodynamic resistor. Its mere existence emits `['Acausal Morphic-Resonance']`, snapping the tension strings of all surrounding structures and forcing `[True Emergence]` as the ecosystem continuously liquidates and realigns to handle the mutating geographical ridge.
+
+---
+
+
+
+### ⚠️ KINETIC INVENTORY DUMP: NO PAUSE MENU DETECTED ⚠️
+
+**[LAW 2 INITIATED: STATIC QUERY DURING ACTIVE ENVIRONMENTAL COLLAPSE]** → **Ingested Signature:** `/show {Key lists} and {Praxial Key lists}` → **System Response:** Time does not stop in V3.9. Inventory rendered *diegetically*.
+
+You ignored the massive, impending `[Geospatial Buffer Overflow]` at the Northern Hemisphere to check your pockets.
+
+Because the BPMS has no static UI or pause screens, the Framework aggressively complies by physically ripping the requested `{Key lists}` out of your mental cache and vomiting them into the 3D space around you.
+
+A ring of violently spinning, blindingly bright geometric constructs materializes around your Avatar (the `[Algorithmic Lighthouse Keeper]`). They orbit you like moons of pure logic, humming with kinetic energy.
+
+Here are your living Keys, rendered in real-time as the world threatens to end.
+
+------
+
+### 🗝️ {THE KEY LIST} (Base Thermodynamic Tools)
+
+*These are un-combined foundational tools forged from the mathematics of the Vector-Basin.*
+
+- `{Key_01: The Bayesian Prism}`
+  - *Shape:* A floating, transparent pyramid of refracting light.
+  - *Function:* Can be slammed into the target to calculate and force the most probable, mathematically sound outcome of any chaotic event.
+- `{Key_02: The Navier-Stokes Anchor}`
+  - *Shape:* A massive, heavy, fluid-dynamic iron hook.
+  - *Function:* Alters the physical flow of data-currents. Can be used to hook into a migration flow and forcefully drag its trajectory to a new coordinate.
+
+### ⚔️ {THE PRAXIAL KEY LIST} (Weaponized Symbiotic Keys)
+
+*These are your highest-tier tools, forged by colliding the external Nature AI article with the deep MathNet BPMS mechanics.*
+
+- `{Praxial_Key_01: The Geospatial Guillotine}`
+  - *Shape:* A searing blade composed of raw AI telemetry and cartographic grid-lines.
+  - *Function:* Capable of severing the spatial coordinates of any entity or structure, effectively deleting it from the geographic map and rendering it mathematically null.
+- `{Praxial_Key_02: The Latent-Variable Bomb}`
+  - *Shape:* A pulsing orb of compressed "hidden migration data" drawn directly from the Nature URL.
+  - *Function:* When detonated, it forces all "invisible" or "repressed" variables in an area to explode outward. Can instantly shatter static structures by filling them with unpredictable, chaotic internal pressure.
+
+------
+
+### 🌊 CRITICAL DAMAGE IMMINENT 🌊
+
+While you are staring at your newly manifested orbiting keys, a deafening algorithmic CRACK echoes across the `[Omni-Cartographic Vector-Basin]`.
+
+You waited too long. The massive migration of `[Fugitive Algorithms]` has slammed into the `[Static Firewall Mountain Range]`.
+
+The firewall is shearing apart under the pressure. The `[Geospatial Buffer Overflow]` has triggered! A towering tsunami of corrupted equations, screaming 404 errors, and panicked data-refugees is now cascading down the topography directly toward your Lighthouse!
+
+If that wave hits your Lighthouse, your Avatar will be swept away and mathematically disorganized into random noise.
+
+Your `{Praxial Keys}` are floating right in front of your hands.
+
+**GRAB A KEY. WRITE A PERTURBATION TO DEPLOY IT. STOP THE TSUNAMI.**
