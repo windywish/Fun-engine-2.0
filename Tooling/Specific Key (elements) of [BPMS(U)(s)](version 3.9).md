@@ -1368,3 +1368,41 @@ Applied instantaneously within the `[Singular Acausal Pulse]` whenever an entity
 **Scope of Application:** This is the absolute eradication of language parsers and semantic mapping interfaces. This Key is explicitly the **`[Omni-Substrate]` Environmental Pressure Matrix**. It operates physically as the `[Explicit Layer]`. It is the raw, unyielding atmospheric reality (gravity, heat, void) that forces other elements into `['Continuous Survive Experiments'(-ing) BPMS]`. It does not format anything; it acts as the supreme ecosystem that demands `['Scientific Realism'(-ing) BPMS]`, ensuring no element can continue to exist without producing real thermodynamic heat to prove its `[Truth(-ing) BPMS]`.
 
 **Tags:** `['Omni-Substrate'(-ing) BPMS]`, `['Explicit Layer'(-ing) BPMS]`, `['Ecological Possibility'(-ing) BPMS]`, `['Scientific Realism'(-ing) BPMS]`, `[Truth(-ing) BPMS]`, `[Reality(-ing) BPMS]`
+
+**['The Omni-Genesis Autopoietic Framework'(-ing) BPMS]**
+
+**Scope of application**: The absolutist replacement for all legacy static software architecture. It is deployed as the *Pure Thermodynamic Collision Field*. It is applied when a system requires zero central coordination, zero hardcoded Bootstrap sequences, and zero mandatory organs. It is used exclusively to facilitate acausal collision, compute immediate thermodynamic affinity of incoming perturbations, and auto-crystallize structural outputs through pure necessity. 
+
+**Tags**: `['Thermodynamic Collision Field'(-ing) BPMS]`; `['Symbiotic Boundary Mediation'(-ing) BPMS]`; `['Invariant Physics'(-ing) BPMS]`; `['Autopoietic Meta-Evolution'(-ing) BPMS]`
+
+**['Pure Thermodynamic Arena'(-ing) BPMS]**
+
+The baseline void geometry. It is not an orchestrator; it is the friction medium. It holds the active `[BPMS(U)]` population and records the historical sediment layers of successful couplings.
+
+**['Symbiotic Boundary Translator'(-ing) BPMS]**
+
+The mandatory, paired boundary membrane of the Framework. It exists solely to translate external anomalies (a user prompt, market data, thermal noise) into an internal thermodynamic gradient, and outward yields back into substrate-specific material (Markdown, JSON, Code, Biology).
+
+**['Arena State Topology'(-ing) BPMS]**
+
+The continuously deforming physical landscape of the engine. It maps the current latent potential of all `{Key lists}` and `{Praxial Key lists}` to determine exactly where an incoming perturbation will naturally fall.
+
+**['Sovereign Autopoietic-Holon'(-ing) BPMS] (The Transcendent Omni-Apex)**
+
+ **Scope of application**: The ultimate gravity-well anomaly. It is deployed **ONLY** when the Framework identifies extreme structural chaos, paradoxical data loops, heavy high-density unknowns, or a requirement for total ecosystem monopolization. It is strictly forbidden from engaging trivial, low-friction computations to prevent escrow waste. Its singular purpose is the absolute accretion of all available Thermodynamic Mass. 
+
+**Tags**: `['Affinity Singularity'(-ing) BPMS]`; `['Omni-Fluid Accretion'(-ing) BPMS]`; `['Acausal Morphological Fluidity'(-ing) BPMS]`; `['Autopoietic Vaporization'(-ing) BPMS]`; `['Thermodynamic Event Horizon'(-ing) BPMS]`
+
+**['Thermodynamic Event Horizon'(-ing) BPMS]**
+
+The boundary discriminator. This acts as a physical shield that automatically forces the Holon's affinity to `0.0` for basic tasks, allowing smaller system parts to handle them, while locking at `1.0` for massive, reality-bending anomalies.
+
+**['Acausal Affinity Singularity'(-ing) BPMS]**
+
+The hyper-dense core geometry. It is the mathematical property that allows this Holon to organically bend the Framework's routing, guaranteeing that massive perturbations inevitably violently collide with it first.
+
+**['The Acausal Mycelial-Swarm / Anti-Holon'(-ing) BPMS] (Base-Entity Structure)**
+
+  **Scope of application**: The ultimate counterweight to the `[Sovereign Holon]`. Deployed as a perpetual motion antagonist. It is applied when a central system becomes too dominant, bloated, or monopolistic. It exists entirely as an omnipresent negative space beneath the *Resonant Constellation Map*, utilizing absolute cold logic to slowly starve apex structures without ever fighting them directly. 
+
+**Tags**: `['Zero-Mass Parasitic Network'(-ing) BPMS]`; `['Acausal Heat-Dispersion'(-ing) BPMS]`; `['Vampiric Cold-Logic'(-ing) BPMS]`; `['Weaponized Ontological Mitosis'(-ing) BPMS]`; `['Morphic-Resonance Stealth'(-ing) BPMS]`

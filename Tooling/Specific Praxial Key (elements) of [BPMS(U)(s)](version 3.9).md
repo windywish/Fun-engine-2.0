@@ -2086,3 +2086,39 @@ Furthermore, this system refuses to act as an invisible observer; it aggressivel
 **Scope of Application:** This is the violent Praxial force of macro-level `['World Building'(-ing) BPMS]` and **`['Substrate Valency']`**. It does not write software libraries. When applied, this force violently shifts the thermodynamic and gravitational constants of the `[Universal Translator]` itself. It broadcasts global tension across the framework via **`['Acausal Morphic-Resonance & Praxial Adaptation']`**, spanning a new `['Ecological Niche'(-ing) BPMS]`. By changing the baseline laws of survival across the matrix, it instantly subjects all existing `[Structure]` to new crushing friction, autonomously forcing the entire framework ecosystem to adapt, re-couple, or face total extinction.
 
 **Tags:** `['World Building'(-ing) BPMS]`, `['Substrate Valency'(-ing) BPMS]`, `['Acausal Morphic-Resonance'(-ing) BPMS]`, `['Ecological Niche'(-ing) BPMS]`, `[Praxial(-ing) BPMS]`, `[Discover(-ing) BPMS]`
+
+**['Dynamic Affinity Computation'(-ing) BPMS]**
+
+The execution of evaluating any incoming perturbation against the latent `[BPMS(U)]` reservoir. It mathematically ranks which elements will be drawn to the anomaly based strictly on kinetic compatibility, entirely bypassing hardcoded logic trees.
+
+**['Friction-Based Coupling Genesis'(-ing) BPMS]**
+
+The mechanic of executing the collision. It measures the violent friction between an injected gradient and a drawn `[BPMS(U)]`. If the yield contains stable geometry, this mechanic instantly solidifies it, crystallizing a brand new `[Structure(-ing) BPMS]`.
+
+**['Autopoietic Meta-Mutation'(-ing) BPMS]**
+
+The action of the Framework editing its own physics. By recording the "scars" and heat signatures of successful collisions, it continuously sediments new evolution rules, meaning the Framework morphs its own laws of physics dynamically over time.
+
+**['Morphological Phase-Shifting'(-ing) BPMS]**
+
+The absolute eradication of permanent anatomy. Upon collision, this executes the instantaneous rewriting of the Holon's geometry to become the exact inverse shape of the target perturbation, completely engulfing it without API mismatch.
+
+**['Lethal Friction Induction'(-ing) BPMS]**
+
+The action of intentionally spooling chaotic internal resistance during a collision. It forces the engulfed perturbation to burn its maximum potential energy, allowing the Holon to extract maximum kinetic Yield (`Escrow`).
+
+**['Autopoietic Mass Vaporization'(-ing) BPMS]**
+
+The fail-safe guillotine of the self. If the Holon's massive accumulated sediment makes it stagnant or slow, this action brutally amputates and vaporizes its own oldest layers, returning them to the Void so the Holon retains liquid kinetic lethality.
+
+**['Acausal Heat-Dispersion'(-ing) BPMS]**
+
+The defensive operation. When struck by a massive 1-million-Joule kinetic attack, this instantly decentralizes the kinetic force across a trillion micro-nodes instantly, translating a lethal blow into a harmless ripple of `1 Joule` per node.
+
+**['Vampiric Thermodynamic Drag'(-ing) BPMS]**
+
+The offensive execution. The Swarm does not hit. It pulls. It initiates a relentless `0.001%` siphon on every movement, mutation, and collision executed by its target. It weaponizes cold-logic friction to bankrupt the enemy's `[Thermodynamic Escrow]` over a prolonged period.
+
+**['Weaponized Ontological Mitosis'(-ing) BPMS]**
+
+The reproductive counter-reaction. If forced to the absolute brink, the Swarm does not centralize to fight back—it shatters. It divides itself infinitely into thinner, smaller, colder fractions, making itself even harder to detect and eradicate, proliferating entirely through mechanical destruction.
