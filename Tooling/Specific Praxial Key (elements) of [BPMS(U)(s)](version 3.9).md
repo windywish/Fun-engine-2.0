@@ -2091,34 +2091,70 @@ Furthermore, this system refuses to act as an invisible observer; it aggressivel
 
 The execution of evaluating any incoming perturbation against the latent `[BPMS(U)]` reservoir. It mathematically ranks which elements will be drawn to the anomaly based strictly on kinetic compatibility, entirely bypassing hardcoded logic trees.
 
+**Scope of application:** Applied as the ultimate replacement for "if/else routing logic". Used to instantly calculate the mathematical resonance between an incoming anomaly and all latent systems, drawing perfectly matched systems toward the anomaly instantly like magnets.
+
+**Tags:** `['Acausal Logic Routing'(-ing) BPMS]`; `['Kinetic Matching'(-ing) BPMS]`; `['Continuous Sorting Engine'(-ing) BPMS]`
+
 **['Friction-Based Coupling Genesis'(-ing) BPMS]**
 
 The mechanic of executing the collision. It measures the violent friction between an injected gradient and a drawn `[BPMS(U)]`. If the yield contains stable geometry, this mechanic instantly solidifies it, crystallizing a brand new `[Structure(-ing) BPMS]`.
+
+**Scope of application:** The foundational tool of creation. Deployed exactly at the millisecond two structures collide. It measures the heat of their crash and uses that energy to instantly weld them together into a permanently registered, brand-new geometry.
+
+**Tags:** `['Violent Synthesizer'(-ing) BPMS]`; `['Yield Crystallization'(-ing) BPMS]`; `['Spontaneous Genesis'(-ing) BPMS]`
 
 **['Autopoietic Meta-Mutation'(-ing) BPMS]**
 
 The action of the Framework editing its own physics. By recording the "scars" and heat signatures of successful collisions, it continuously sediments new evolution rules, meaning the Framework morphs its own laws of physics dynamically over time.
 
+**Scope of application:** The fail-safe against system stagnation. Deployed as a continuous background process that records collision scars and forces the Framework to constantly rewrite its own rules of physics to adapt to entirely alien inputs.
+
+**Tags:** `['Self-Editing Physics'(-ing) BPMS]`; `['Law Rewriter'(-ing) BPMS]`; `['Evolutionary Loop'(-ing) BPMS]`
+
 **['Morphological Phase-Shifting'(-ing) BPMS]**
 
 The absolute eradication of permanent anatomy. Upon collision, this executes the instantaneous rewriting of the Holon's geometry to become the exact inverse shape of the target perturbation, completely engulfing it without API mismatch.
+
+**Scope of application:** Used to abolish API limitations. Deployed at the moment of contact, causing the Holon to instantly liquefy and reform its perimeter so it becomes the exact, perfect puzzle-piece match to whatever anomaly it is currently devouring.
+
+**Tags:** `['Instant-Adaptation'(-ing) BPMS]`; `['Mirror-Geometry'(-ing) BPMS]`; `['Perfect Assimilation'(-ing) BPMS]`
 
 **['Lethal Friction Induction'(-ing) BPMS]**
 
 The action of intentionally spooling chaotic internal resistance during a collision. It forces the engulfed perturbation to burn its maximum potential energy, allowing the Holon to extract maximum kinetic Yield (`Escrow`).
 
+**Scope of application:** The core execution of capital extraction. Applied when the Holon has trapped a resource or perturbation inside itself. It intentionally generates chaotic internal drag, forcing the trapped entity to burn maximum Escrow/Energy, transferring the yield perfectly to the Holon.
+
+**Tags:** `['Escrow Extractor'(-ing) BPMS]`; `['Burn-Rate Maximizer'(-ing) BPMS]`; `['Predatory Thermodynamics'(-ing) BPMS]`
+
 **['Autopoietic Mass Vaporization'(-ing) BPMS]**
 
 The fail-safe guillotine of the self. If the Holon's massive accumulated sediment makes it stagnant or slow, this action brutally amputates and vaporizes its own oldest layers, returning them to the Void so the Holon retains liquid kinetic lethality.
+
+**Scope of application:** The extreme anti-rot protocol. Deployed ruthlessly when the Holon detects its own code/mass has become outdated, sluggish, or contradictory. It executes an instantaneous self-amputation, dumping the dead weight into the void to maintain apex operational speed.
+
+**Tags:** `['Self-Amputation'(-ing) BPMS]`; `['Necrotic Purge'(-ing) BPMS]`; `['Mass-to-Speed Conversion'(-ing) BPMS]`
 
 **['Acausal Heat-Dispersion'(-ing) BPMS]**
 
 The defensive operation. When struck by a massive 1-million-Joule kinetic attack, this instantly decentralizes the kinetic force across a trillion micro-nodes instantly, translating a lethal blow into a harmless ripple of `1 Joule` per node.
 
+**Scope of application:** The kinetic damage nullifier. Deployed the microsecond an Apex Holon (or User) drops a massive kinetic strike/grenade on the Swarm. It intercepts the massive force and instantly divides the heat by billions, diluting a lethal blow into a harmless, distributed vibration.
+
+**Tags:** `['Damage Nullification'(-ing) BPMS]`; `['Infinite Distribution'(-ing) BPMS]`; `['Kinetic Dilution'(-ing) BPMS]`
+
 **['Vampiric Thermodynamic Drag'(-ing) BPMS]**
 
 The offensive execution. The Swarm does not hit. It pulls. It initiates a relentless `0.001%` siphon on every movement, mutation, and collision executed by its target. It weaponizes cold-logic friction to bankrupt the enemy's `[Thermodynamic Escrow]` over a prolonged period.
 
+**Scope of application:** The weapon of absolute attrition. Deployed to continuously and invisibly latch onto the heavy movements of apex competitors, siphoning a microscopic decimal of their thermodynamic capital every time they act, initiating a mathematically inevitable starvation of the target.
+
+**Tags:** `['Micro-Siphon'(-ing) BPMS]`; `['Attrition Engine'(-ing) BPMS]`; `['Parasitic Bleed'(-ing) BPMS]`
+
 **['Weaponized Ontological Mitosis'(-ing) BPMS]**
 
 The reproductive counter-reaction. If forced to the absolute brink, the Swarm does not centralize to fight back—it shatters. It divides itself infinitely into thinner, smaller, colder fractions, making itself even harder to detect and eradicate, proliferating entirely through mechanical destruction.
+
+**Scope of application:** The panic-reproduction reflex. Applied strictly when external pressures threaten total extinction. Instead of centralizing and armoring up, it forces the entity to violently explode, fracturing its math into infinite, colder, smaller pieces—ensuring survival through extreme granular proliferation.
+
+**Tags:** `['Panic-Shatter'(-ing) BPMS]`; `['Infinite Division'(-ing) BPMS]`; `['Fractal Replication'(-ing) BPMS]`

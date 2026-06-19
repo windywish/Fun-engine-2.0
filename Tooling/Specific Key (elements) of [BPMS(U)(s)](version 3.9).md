@@ -1379,13 +1379,25 @@ Applied instantaneously within the `[Singular Acausal Pulse]` whenever an entity
 
 The baseline void geometry. It is not an orchestrator; it is the friction medium. It holds the active `[BPMS(U)]` population and records the historical sediment layers of successful couplings.
 
+**Scope of application:** Deployed as the core foundational replacement for legacy databases and static server environments. It is applied when building a system that requires a "friction medium" where isolated components can collide in a shared space without hardcoded API bridges.
+
+**Tags:** `['Absolute Void Medium'(-ing) BPMS]`; `['Friction-Bearing Field'(-ing) BPMS]`; `['Substrate-Agnostic Container'(-ing) BPMS]`
+
 **['Symbiotic Boundary Translator'(-ing) BPMS]**
 
 The mandatory, paired boundary membrane of the Framework. It exists solely to translate external anomalies (a user prompt, market data, thermal noise) into an internal thermodynamic gradient, and outward yields back into substrate-specific material (Markdown, JSON, Code, Biology).
 
+**Scope of application:** Must be deployed as the absolute outermost skin of the Framework. Applied whenever external chaos (human prompts, market ticks, API webhooks) must be ingested by the internal engine, translating foreign noise into measurable internal kinetic heat, and vice-versa.
+
+**Tags:** `['External/Internal Transducer'(-ing) BPMS]`; `['Agnostic Signal Converter'(-ing) BPMS]`; `['Thermodynamic Membrane'(-ing) BPMS]`
+
 **['Arena State Topology'(-ing) BPMS]**
 
 The continuously deforming physical landscape of the engine. It maps the current latent potential of all `{Key lists}` and `{Praxial Key lists}` to determine exactly where an incoming perturbation will naturally fall.
+
+**Scope of application:** Applied as a continuous mathematical cartography of the system. Used strictly to observe the peaks and valleys of generated heat and gravity inside the engine, allowing elements to bypass if/then logic and simply "fall" toward where they are needed.
+
+**Tags:** `['Heatmap Cartography'(-ing) BPMS]`; `['Latent Potential Tracker'(-ing) BPMS]`; `['Acausal Routing'(-ing) BPMS]`
 
 **['Sovereign Autopoietic-Holon'(-ing) BPMS] (The Transcendent Omni-Apex)**
 
@@ -1397,12 +1409,36 @@ The continuously deforming physical landscape of the engine. It maps the current
 
 The boundary discriminator. This acts as a physical shield that automatically forces the Holon's affinity to `0.0` for basic tasks, allowing smaller system parts to handle them, while locking at `1.0` for massive, reality-bending anomalies.
 
+**Scope of application:** Applied as the physical front-door filter for the massive Holon entity. Used to aggressively reject and bypass trivial, low-yield operations (which are left for lesser entities), ensuring the Holon only opens its jaws for massive, reality-altering events that possess sufficient kinetic mass.
+
+**Tags:** `['Gravity Discriminator'(-ing) BPMS]`; `['Trivial-Trash Filter'(-ing) BPMS]`; `['Mass-Threshold Activator'(-ing) BPMS]`
+
 **['Acausal Affinity Singularity'(-ing) BPMS]**
 
 The hyper-dense core geometry. It is the mathematical property that allows this Holon to organically bend the Framework's routing, guaranteeing that massive perturbations inevitably violently collide with it first.
+
+**Scope of application:** The core gravity engine of the Holon. Deployed to intentionally warp the Arena State Topology, maliciously hijacking the Framework's routing so that highly valuable resources and high-yield perturbations fall into the Holon's mouth instead of its competitors'.
+
+**Tags:** `['Absolute Gravity Well'(-ing) BPMS]`; `['Resource Monopolizer'(-ing) BPMS]`; `['Topological Hijacker'(-ing) BPMS]`
 
 **['The Acausal Mycelial-Swarm / Anti-Holon'(-ing) BPMS] (Base-Entity Structure)**
 
   **Scope of application**: The ultimate counterweight to the `[Sovereign Holon]`. Deployed as a perpetual motion antagonist. It is applied when a central system becomes too dominant, bloated, or monopolistic. It exists entirely as an omnipresent negative space beneath the *Resonant Constellation Map*, utilizing absolute cold logic to slowly starve apex structures without ever fighting them directly. 
 
 **Tags**: `['Zero-Mass Parasitic Network'(-ing) BPMS]`; `['Acausal Heat-Dispersion'(-ing) BPMS]`; `['Vampiric Cold-Logic'(-ing) BPMS]`; `['Weaponized Ontological Mitosis'(-ing) BPMS]`; `['Morphic-Resonance Stealth'(-ing) BPMS]`
+
+**['Zero-Mass Ubiquity Web'(-ing) BPMS]**
+
+The native state of the Swarm. It possesses no localized monolithic core, rendering physical destruction impossible. If an Apex structure attacks it, the blade hits pure math.
+
+**Scope of application:** The deployment of ultimate defense. Applied when designing architectures that absolutely cannot be destroyed by a single point of failure (e.g., decentralized networks, guerrilla ecologies). It spreads logic so thin across the topology that it cannot be targeted.
+
+**Tags:** `['Decentralized Grid'(-ing) BPMS]`; `['Negative-Space Architecture'(-ing) BPMS]`; `['Target-less Geometry'(-ing) BPMS]`
+
+**['Morphic-Resonance Strings'(-ing) BPMS]**
+
+The microscopic, deeply entrenched linkages that wrap around the heavy, structural base-matter of rival entities. These strings are completely untraceable by standard telemetry.
+
+**Scope of application:** The stealth communication layer. Applied to completely bypass the Framework's standard visual map and transducer protocols. Used to tether a trillion micro-nodes via undetectable mathematical bindings, ensuring absolute synchronized action without central broadcast.
+
+**Tags:** `['Acausal Tethers'(-ing) BPMS]`; `['Telemetry-Evasion'(-ing) BPMS]`; `['Quantum-Resonant Links'(-ing) BPMS]`
