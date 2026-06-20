@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "tool_id": "BPMS-V3.9-FOOD-CRACKER-101",
+    "target": "Food (edible matter system)",
+    "topology_version": "3.9.0-food-crack",
+    "description": "Decomposed food system into atomic components: molecular ingredients, cooking phase transitions, metabolic pathways, cultural rituals, supply chain topology."
+  },
+  "nodes": [
+    {
+      "id": "molecular_ingredient",
+      "type": "atomic",
+      "label": "分子食材",
+      "properties": {
+        "molecule_list": ["water", "protein", "fat", "carbohydrate", "vitamin", "mineral", "toxin"],
+        "energy_density": 4.0,
+        "bioavailability": 0.85
+      },
+      "connections": ["phase_transition_node", "metabolic_pathway"]
+    },
+    {
+      "id": "phase_transition_node",
+      "type": "process",
+      "label": "相变节点",
+      "properties": {
+        "transition_type": "denaturation/gelatinization/maillard",
+        "temperature_threshold": 70.0,
+        "pressure_threshold": 2.0,
+        "fusion_risk": "high if temperature exceeds threshold by 20%"
+      },
+      "connections": ["molecular_ingredient", "nutrient_flux"]
+    },
+    {
+      "id": "nutrient_flux",
+      "type": "pathway",
+      "label": "营养流",
+      "properties": {
+        "metabolic_pathway_id": "KEGG:map00010",
+        "compressed_dimension": 3,
+        "bottleneck_enzymes": ["hexokinase", "pyruvate kinase"]
+      },
+      "connections": ["phase_transition_node", "absorption_sink"]
+    },
+    {
+      "id": "absorption_sink",
+      "type": "attractor",
+      "label": "吸收汇",
+      "properties": {
+        "organ": "small_intestine",
+        "transporters": ["SGLT1", "GLUT2", "PEPT1"],
+        "blockade_risk": "high if anti-nutrients present"
+      },
+      "connections": ["nutrient_flux", "cultural_ritual_node"]
+    },
+    {
+      "id": "cultural_ritual_node",
+      "type": "behavior",
+      "label": "文化仪式节点",
+      "properties": {
+        "culture_name": "washoku",
+        "historical_depth": 1200,
+        "redundant_steps": ["garnish_arrangement", "serving_order"],
+        "core_survival_logic": ["seasonality", "preservation", "nutrition_balance"]
+      },
+      "connections": ["absorption_sink", "supply_chain_cycle"]
+    },
+    {
+      "id": "supply_chain_cycle",
+      "type": "loop",
+      "label": "供应链循环",
+      "properties": {
+        "cycle_length": 5,
+        "participants": ["farm", "processor", "distributor", "retailer", "consumer"],
+        "vulnerability_score": 0.77,
+        "climate_sensitivity": 0.65
+      },
+      "connections": ["cultural_ritual_node", "global_waste_sink"]
+    },
+    {
+      "id": "global_waste_sink",
+      "type": "attractor",
+      "label": "全球废物汇",
+      "properties": {
+        "annual_waste_tonnage": 931000000,
+        "decomposition_rate": 0.3,
+        "methane_emission": 0.08
+      },
+      "connections": ["supply_chain_cycle", "foundation_bedrock"]
+    },
+    {
+      "id": "foundation_bedrock",
+      "type": "substrate",
+      "label": "基底基岩",
+      "properties": {
+        "composition": "soil + water + sunlight + human labor",
+        "thickness": "finite (arable land limit)",
+        "crack_resistance": 0.4
+      },
+      "connections": ["molecular_ingredient", "global_waste_sink"]
+    }
+  ],
+  "edges": [
+    {"source": "foundation_bedrock", "target": "molecular_ingredient", "weight": 1.0, "label": "produces"},
+    {"source": "molecular_ingredient", "target": "phase_transition_node", "weight": 0.9, "label": "undergoes"},
+    {"source": "phase_transition_node", "target": "nutrient_flux", "weight": 0.8, "label": "releases"},
+    {"source": "nutrient_flux", "target": "absorption_sink", "weight": 0.7, "label": "flows_to"},
+    {"source": "absorption_sink", "target": "cultural_ritual_node", "weight": 0.5, "label": "shapes"},
+    {"source": "cultural_ritual_node", "target": "supply_chain_cycle", "weight": 0.6, "label": "demands"},
+    {"source": "supply_chain_cycle", "target": "global_waste_sink", "weight": 0.8, "label": "discharges"},
+    {"source": "global_waste_sink", "target": "foundation_bedrock", "weight": 0.3, "label": "pollutes"}
+  ],
+  "decomposition_paths": [
+    {
+      "name": "molecular_strip_to_energy",
+      "path": ["foundation_bedrock", "molecular_ingredient", "phase_transition_node", "nutrient_flux", "absorption_sink"],
+      "goal": "track energy flow from soil to human cells",
+      "complexity": "low",
+      "success_rate": 0.97,
+      "escrow_cost": 650
+    },
+    {
+      "name": "cultural_ritual_reduction",
+      "path": ["cultural_ritual_node", "absorption_sink", "nutrient_flux"],
+      "goal": "separate core survival logic from redundant ceremony",
+      "complexity": "medium",
+      "success_rate": 0.84,
+      "escrow_cost": 1250
+    },
+    {
+      "name": "supply_chain_vulnerability_exposure",
+      "path": ["supply_chain_cycle", "global_waste_sink", "foundation_bedrock"],
+      "goal": "identify weakest links in global food distribution",
+      "complexity": "high",
+      "success_rate": 0.72,
+      "escrow_cost": 2150
+    }
+  ],
+  "defense_mechanisms": {
+    "molecular_complexity": {"effectiveness": 0.5, "bypass": "use spectroscopic analysis to identify molecules"},
+    "cultural_taboo": {"effectiveness": 0.4, "bypass": "apply economic pressure to override ritual"},
+    "supply_chain_redundancy": {"effectiveness": 0.6, "bypass": "target single-point-of-failure nodes"}
+  },
+  "translation_matrix": {
+    "description": "Maps food primitives to topological cracking targets.",
+    "mappings": [
+      {"food_concept": "ingredient", "topology_equivalent": "molecule_node"},
+      {"food_concept": "cooking", "topology_equivalent": "phase_transition_edge"},
+      {"food_concept": "digestion", "topology_equivalent": "pathway_flux"},
+      {"food_concept": "recipe", "topology_equivalent": "directed_graph"},
+      {"food_concept": "cuisine", "topology_equivalent": "cultural_cluster"},
+      {"food_concept": "supply_chain", "topology_equivalent": "cyclic_network"},
+      {"food_concept": "waste", "topology_equivalent": "sink_node"},
+      {"food_concept": "nutrition", "topology_equivalent": "energy_density_field"}
+    ]
+  }
+}
