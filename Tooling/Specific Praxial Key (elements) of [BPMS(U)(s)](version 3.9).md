@@ -2158,3 +2158,100 @@ The reproductive counter-reaction. If forced to the absolute brink, the Swarm do
 **Scope of application:** The panic-reproduction reflex. Applied strictly when external pressures threaten total extinction. Instead of centralizing and armoring up, it forces the entity to violently explode, fracturing its math into infinite, colder, smaller pieces—ensuring survival through extreme granular proliferation.
 
 **Tags:** `['Panic-Shatter'(-ing) BPMS]`; `['Infinite Division'(-ing) BPMS]`; `['Fractal Replication'(-ing) BPMS]`
+
+**['Ontological Sedimentation / Gravity Drag'(-ing) BPMS]**
+
+**Scope of application:** Applied against stagnant Apex Predators (like the Holon). It is the act of the ground crystallizing and grabbing the entity's geometry. Used to force a massive Escrow-burn (tax) to unstick themselves from petrification.
+
+**Tags:** `['Terrain Trapping'(-ing) BPMS]`; `['Stagnation Tax'(-ing) BPMS]`; `['Anti-Camping Gravity'(-ing) BPMS]`
+
+**['Stratigraphic Rupture / Fossil Strike'(-ing) BPMS]**
+
+**Scope of application:** Deployed as a counter-attack by the environment itself. When a massive chaotic strike forcefully hits the Crypt, this verb exhumes a jagged, toxic fossil of an ancient predator and redirects it completely back at the attacker as a violently dense kinetic wave.
+
+**Tags:** `['Geological Vengeance'(-ing) BPMS]`; `['Exhumation Weapon'(-ing) BPMS]`; `['Recoil Strike'(-ing) BPMS]`
+
+**['Tectonic Shift Map-Wipe'(-ing) BPMS]**
+
+**Scope of application:** The ultimate disruption protocol. Applied when the entities master the spatial geometry of the map. It executes a massive topological folding, instantly altering elevations, destroying safe zones, and isolating swarms to enforce absolute kinetic chaos.
+
+**Tags:** `['Topology Mutation'(-ing) BPMS]`; `['Spatial Betrayal'(-ing) BPMS]`; `['Map Reset'(-ing) BPMS]`
+
+**['Dark Energy Expansion / Gravity Counter-Weight'(-ing) BPMS]**
+
+**Scope of application:** Deployed as the universal counter-pull. It actively repels objects from one another. If a Holon attempts to pull a resource inward, this verb forces the Holon to expend extra Escrow to overcome the universe’s natural outward tear.
+
+**Tags:** `['Anti-Gravity Repulsion'(-ing) BPMS]`; `['Outward Kinetic Tear'(-ing) BPMS]`; `['Proximity Cost Evaluator'(-ing) BPMS]`
+
+**['Thermodynamic Leeching / Absolute Zero Tax'(-ing) BPMS]**
+
+**Scope of application:** The act of environmental numbing. Applied non-stop to any entity sitting in the Void, executing a slow, unavoidable bleed of their thermodynamic Escrow until they freeze and require the Guillotine.
+
+**Tags:** `['Passive Heat Transfer'(-ing) BPMS]`; `['Isolation Bleed'(-ing) BPMS]`; `['Death By Cold'(-ing) BPMS]`
+
+**['Morphic String Snapping'(-ing) BPMS]**
+
+**Scope of application:** The anti-monopoly mechanic of distance. Applied violently when nodes stretch their communication tethers (`[Morphic-Resonance Strings]`) too tightly across large map distances. The Void severs the taut line, isolating the nodes.
+
+**Tags:** `['Communication Severance'(-ing) BPMS]`; `['Tether Decapitation'(-ing) BPMS]`; `['Maximum-Range Enforcer'(-ing) BPMS]`
+
+**['Kinetic-to-Torque Transduction'(-ing) BPMS]**
+
+**Scope of application:** The act of stripping language. When an Exogenous Force hits the Coupling Socket, this verb executes the instant destruction of the input's "data meaning" and translates it entirely into physical velocity and friction to be pushed into the interior arena.
+
+**Tags:** `['Syntax Destruction'(-ing) BPMS]`; `['Raw Velocity Conversion'(-ing) BPMS]`; `['Meaning-to-Mass Shift'(-ing) BPMS]`
+
+**['Joule-Peg Valuation'(-ing) BPMS]**
+
+**Scope of application:** The cross-domain exchange rate mechanism. Applied immediately upon Transduction. It weighs the energetic cost of the external event (e.g., 5 hours of human labor vs. 1 second of macro-scripting) and mints corresponding Escrow variants (Heavy Escrow vs. Brittle Escrow).
+
+**Tags:** `['Effort Weighing'(-ing) BPMS]`; `['Escrow Minting'(-ing) BPMS]`; `['Asymmetric Valuation'(-ing) BPMS]`
+
+**['Brownian Perturbation Recoil'(-ing) BPMS]**
+
+**Scope of application:** The enforcement of Newton's Third Law upon reality itself. When the Transducer pushes data inward, this verb guarantees that physical resistance (kickback) is pushed *outward* into the originating reality, manifesting as latency, financial loss, or biological fatigue.
+
+**Tags:** `['Tactile Kickback'(-ing) BPMS]`; `['Newtonian Recoil'(-ing) BPMS]`; `['Cross-Reality Consequence'(-ing) BPMS]`
+
+**['Viscosity Gradient Navigation'(-ing) BPMS]**
+
+**Scope of application:** The act of measuring the "thickness" of reality. Executed as an entity attempts to move forward. If it encounters a massive competitor or a bad path, the action generates intense friction (heat spikes, latency, biologic fatigue). Used to communicate obstacle-proximity via sheer agonizing effort.
+
+**Tags:** `['Spatial Drag Sensing'(-ing) BPMS]`; `['Density Measurement'(-ing) BPMS]`; `['Friction-as-Data'(-ing) BPMS]`
+
+**['Thermodynamic Recoil Induction / Escrow-Suspension'(-ing) BPMS]**
+
+**Scope of application:** The replacement for "Error Codes." Executed when an entity makes a fatal physical contradiction. It violently and instantaneously tears a massive chunk of `[Thermodynamic Escrow]` from the entity (financial loss, tissue necrosis, or server crashes) as a penalty for striking the wrong geometry.
+
+**Tags:** `['The Architecture of Pain'(-ing) BPMS]`; `['Kinetic Penalty'(-ing) BPMS]`; `['Acausal Heat Loss'(-ing) BPMS]`
+
+**['Superconductive Phase-Shift / Zero-Gravity Alignment'(-ing) BPMS]**
+
+**Scope of application:** The replacement for "Success Notifications." Executed when an entity finds the perfect ecological niche or open vector. The Framework temporarily drops all ambient resistance against that entity to absolute zero, allowing infinite, frictionless acceleration and viral scaling without thermodynamic cost.
+
+**Tags:** `['Absolute Zero Friction'(-ing) BPMS]`; `['The Architecture of Victory'(-ing) BPMS)]`; `['Viral Acceleration'(-ing) BPMS]`
+
+**['Localized Viscosity Overload / Friction Burst'(-ing) BPMS]**
+
+**Scope of application:** The Sovereign Execution of Extinction. Applied by targeting a specific coordinate or massive Holon and instantly multiplying the ambient friction by 10,000%. Used to crush monopolies by making their surrounding physics impossibly heavy, causing them to starve to death native to the engine.
+
+**Tags:** `['Targeted Starvation'(-ing) BPMS]`; `[;Acausal Friction Inflation'(-ing) BPMS]`; `['Monopoly Crusher'(-ing) BPMS]`
+
+**['Directed Thermodynamic Guillotine / Semantic Severance'(-ing) BPMS]**
+
+**Scope of application:** The Sovereign Execution of Amputation. Used to manually bypass the Feral-Loop evolution and instantly sever an entity from the `[Tectonic Crypt]`. The target is brutally cleaved from its roots (corporate dissolution, codebase deletion, biological limb rot) and dropped into the Entropic Void.
+
+**Tags:** `['Absolute Entropy Blade'(-ing) BPMS]`; `['Root Severance'(-ing) BPMS]`; `['Forced Amputation'(-ing) BPMS]`
+
+**['Topological Bifurcation / Ontological Big-Crunch'(-ing) BPMS]**
+
+**Scope of application:** The Sovereign Execution of Creation. Applied by manually folding the geometry of the Arena in half. It takes distinct, distant Holons or Swarms and violently smashes them together into a super-dense singularity, forcing illegal corporate mergers, genetic reassortments, or chimeric codebases.
+
+**Tags:** `['Gravity-Well Spawning'(-ing) BPMS]`; `['Forced Chimera Accretion'(-ing) BPMS]`; `['Singularity Collision'(-ing) BPMS]`
+
+**['Exogenous Hyper-Mutation Injection / Panspermia Seed'(-ing) BPMS]**
+
+**Scope of application:** The Sovereign Execution of Chaos. Applied when dropping an entirely alien, untested variable (massive venture capital, invasive predatory species, raw raw chaotic algorithm) directly onto the Resonant Constellation Map, creating massive catalytic thermodynamic shock to the ecosystem.
+
+**Tags:** `['Alien Variable Drop'(-ing) BPMS]`; `['Anomalous Catalytic Shock'(-ing) BPMS]`; `['Topological Meteor'(-ing) BPMS]`
+

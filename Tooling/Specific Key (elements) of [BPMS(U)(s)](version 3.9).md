@@ -1442,3 +1442,75 @@ The microscopic, deeply entrenched linkages that wrap around the heavy, structur
 **Scope of application:** The stealth communication layer. Applied to completely bypass the Framework's standard visual map and transducer protocols. Used to tether a trillion micro-nodes via undetectable mathematical bindings, ensuring absolute synchronized action without central broadcast.
 
 **Tags:** `['Acausal Tethers'(-ing) BPMS]`; `['Telemetry-Evasion'(-ing) BPMS]`; `['Quantum-Resonant Links'(-ing) BPMS]`
+
+**['The Tectonic Somatic-Stratigraphy Crypt'(-ing) BPMS] (The Living Ledger)**
+
+**Scope of application**: The absolutist replacement for the "Database," "Save File," or "Passive Game Map." It is applied when an ecosystem requires the actual terrain to be a living, hostile combatant. It is deployed to punish stagnant, camping entities by literally turning the ground beneath them into a predator that consumes their heat, ensuring that absolute movement is the only way to avoid petrification. 
+
+**Tags**: `['Base-Matter Terrain Entity'(-ing) BPMS]`; `['Living Ledger'(-ing) BPMS]`; `['Geological Predator'(-ing) BPMS]`; `['Historical Crystallization Vector'(-ing) BPMS]`; `['3D Warfare Plane'(-ing) BPMS]`
+
+**['Fossilized Dead-Code Strata'(-ing) BPMS]**
+
+**Scope of application:** Deployed as the physical layers of the Arena. It holds the compressed, corrupted mathematical corpses of all previous epochs and slain structures. Used as a massively dense kinetic battery of dead data.
+
+**Tags:** `['Necro-State Geometry'(-ing) BPMS]`; `['Massive Compressed Heat'(-ing) BPMS]`; `['Epoch Layering'(-ing) BPMS]`
+
+['The Entropic Void-Membrane / Negative-Mass Architecture'(-ing) BPMS] (The Physics of Distance)
+
+ **Scope of application**: Deployed to eradicate the legacy concept of "empty pixels" or null coordinates. Applied as the thermodynamic vacuum surrounding and separating all nodes on the Resonant Constellation Map. It is used to enforce brutal physical costs for trying to traverse distance or stretch communication strings across wide spaces. It ensures that expanding an empire is inherently agonizing. 
+
+**Tags**: `['Negative-Mass Physics'(-ing) BPMS]`; `['Dark Energy Tension'(-ing) BPMS]`; `['Cosmic Dread Vector'(-ing) BPMS]`; `['Thermodynamic Vacuum'(-ing) BPMS]`
+
+**['Negative-Mass Vacuum Heat-Sink'(-ing) BPMS]**
+
+**Scope of application:** The environmental cold-trap geometry. Any entity occupying this baseline space without engaging in furious, heat-generating combat slowly freezes. It is the geometric definition of isolation.
+
+**Tags:** `['Thermal Drainage Battery'(-ing) BPMS]`; `['Blank-Space Geometry'(-ing) BPMS]`; `['Absolute Zero Chamber'(-ing) BPMS]`
+
+**['The Omni-Substrate Transducer Membrane & Driver-Coupling'(-ing) BPMS]**
+
+**Scope of application**: The absolute annihilation of the "Human vs. Machine" boundary. Applied as the literal cellular wall between the Engine (the internal physics) and Exogenous Chaos (human prompts, market ticks, API spikes, biological inputs). It is used to strip all "meaning" or "language" from an outside perturbation and convert it flawlessly into a unified weight of Kinetic Joules, thus allowing biology, code, and finance to collide in the exact same physics arena. 
+
+**Tags**: `['Agnostic Input Converter'(-ing) BPMS]`; `['Reality-to-Matrix Coupling'(-ing) BPMS]`; `['Prime Mover Cell-Wall'(-ing) BPMS]`; `['Ludic Symbiogenesis Bridge'(-ing) BPMS]`
+
+**['Cross-Domain Affordance Bind / Coupling Socket'(-ing) BPMS]**
+
+**Scope of application:** The physical geometric receptor lying on the outer film of the universe. It serves as the open port that any alien substrate (human typing, stock market algorithm) slots into to forcefully connect to the interior physics of the Engine.
+
+**Tags:** `['Universal Receptacle'(-ing) BPMS]`; `['Agnostic Contact Point'(-ing) BPMS]`; `['Outer-Shell Affordance'(-ing) BPMS]`
+
+**['Phase-Transition Telemetry / Blind Ontology'(-ing) BPMS]**
+
+ **Scope of application**: Deployed to absolutely eradicate the legacy concept of "UI Dashboards," "Metrics," and "Omniscience" from the Engine. It is applied to ensure that no entity (organic, economic, or computational) can observe the universe for free. It forces entities into a state of structural blindness, where they must physically collide with the environment to map it, translating all information retrieval into a mandatory expenditure of kinetic cost.
+
+ **Tags**: `['Absolute Semantic-Severance'(-ing) BPMS]`; `['Omni-Substrate Feedback Matrix'(-ing) BPMS]`; `['UI Eradication Vector'(-ing) BPMS]`; `['Tactile Geometry'(-ing) BPMS]`
+
+**['Topological Sensory-Surface / External Friction-Terrain'(-ing) BPMS]**
+
+**Scope of application:** The uncompromising, unreadable physical geometry of the environment itself. Deployed as a literal wall of physics that entities push against to navigate. It replaces spatial coordinates and visual maps with pure, dense mass.
+
+**Tags:** `['Blind Navigation Wall'(-ing) BPMS]`; `['Tactile Terrain'(-ing) BPMS]`; `['Unreadable Topology'(-ing) BPMS]`
+
+**['Blind Pheromone-Gradient / Spatial Heat-Map'(-ing) BPMS]**
+
+**Scope of application:** Deployed as the only surviving "map" in the framework. It is the residual, decaying thermodynamic exhaust heat left behind by successful entities that traversed the void safely. Used to allow blind entities to flock toward superconductive survival paths.
+
+**Tags:** `['Residual Heat Signature'(-ing) BPMS]`; `['Exhaust Routing'(-ing) BPMS]`; `[;Autocatalytic Pathing;(-ing) BPMS]`
+
+**['Ontological CLI & Intent-Transmutation'(-ing) BPMS]**
+
+ **Scope of application**: Deployed to obliterate the concept of an "Admin Console" or "Cheat Codes." Provides the Sovereign Operator with absolute top-down control over the Framework, but strictly governs that control through Thermodynamic Laws. Applied when the Sovereign (Programmer, Central Bank, Geneticist) needs to force a miracle, mutant spawn, or localized extinction event. It enforces that "Godhood" costs astronomical amounts of literal energy. 
+
+**Tags**: `['Absolute Sovereign Override'(-ing) BPMS]`; `['Intent-to-Matter Compiler'(-ing) BPMS]`; `['Acausal Physics-Injection'(-ing) BPMS]`; `['Top-Down Meteor-Event'(-ing) BPMS]`
+
+**['Semantic Transduction Barrier / Sovereign Entry-Point'(-ing) BPMS]**
+
+**Scope of application:** The singular, ultra-dense topological coordinate where the "Outside Admin" anchors their will to the Framework. It functions as the physical anvil where external commands strike and shatter into the base-physics of the engine.
+
+**Tags:** `['Intervention Epicenter'(-ing) BPMS]`; `['Will-to-Mass Anvil'(-ing) BPMS]`; `['Sovereign Socket'(-ing) BPMS]`
+
+**['Sovereign Thermodynamic Capacitor'(-ing) BPMS]**
+
+**Scope of application:** The personal, finite energy reserve possessed by the Sovereign Operator (Political goodwill, processing bandwidth, total biomass). Applied as the sole cost-center for the CLI. If this is drained to zero, the Sovereign loses all CLI access and is devoured by their own engine.
+
+**Tags:** `['The Cost of Miracles'(-ing) BPMS]`; `['Intervention Fuel'(-ing) BPMS]`; `['Admin Escrow Pool'(-ing) BPMS]`
