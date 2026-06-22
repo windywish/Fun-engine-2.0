@@ -1,5 +1,5 @@
 // ============================================================
-// FILE: ['Substrate Darwinism Compiler'(-ing) BPMS] (experiment) (Presettings).ts
+// FILE: types/experiment.ts
 // Types for the Continuous Survive Experiments Engine.
 // ============================================================
 
