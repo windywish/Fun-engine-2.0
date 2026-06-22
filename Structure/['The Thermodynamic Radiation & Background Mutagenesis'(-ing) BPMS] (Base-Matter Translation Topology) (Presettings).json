@@ -1,0 +1,57 @@
+{
+  "bpms_structure_identity": {
+    "structure_id": "BPMS-V3.9-RADIATION-MUTAGENESIS-088",
+    "structure_name": "['The Thermodynamic Radiation & Background Mutagenesis'(-ing) BPMS]",
+    "sub_classification": "Ambient Contamination Matrix / Autonomous Degradation Engine",
+    "target_physics": "Version 3.9 True Emergence",
+    "tags": [
+      "[Thermal Fallout]",
+      "[The Mutagenic Lottery]",
+      "[Kinetic Scar Tissue]",
+      "[Environmental Hazards]",
+      "[Invisible Geography]"
+    ]
+  },
+
+  "mutagenic_radiation_mechanics": {
+    "fallout_propagation_radius": {
+      "trigger": "Any [Holon] or [Chimera] triggers an action exceeding the Joule Alpha-Threshold.",
+      "execution": "Spawn an expanding topological sphere. Calculate Radiation Level (R_L) based on kinetic intensity of the source event. Apply Inverse Square Law for energy decay over distance.",
+      "result": "Leaves a lingering, invisible environmental footprint after violence."
+    },
+    "kinetic_scar_degradation": {
+      "trigger": "Element occupies space where R_L > 80%.",
+      "execution": "Execute thermodynamic bit-rot. Delete topological variables. Erode structural integrity.",
+      "result": "Destroys data too close to the blast; acts as severe environmental damage to the OPC."
+    },
+    "mutagenic_lottery_warping": {
+      "trigger": "Element occupies space where 20% < R_L < 79%.",
+      "execution": "Execute blind geometric scrambling. Reassign structural tags. Splice random data vectors.",
+      "result": "Spawns incredibly rare, highly distorted ['Irradiated'] sub-elements for the Sovereign to scavenge."
+    },
+    "lingering_hazard_topography": {
+      "trigger": "Post-detonation Map persistence.",
+      "execution": "Update local Map sector with Contamination Tag. Hot zones damage/mutate anyone passing through until the energy naturally subducts.",
+      "result": "Forces tactical pathfinding. The Sovereign must map their own collateral damage."
+    }
+  },
+
+  "contamination_execution_loop": {
+    "step_1_detonation": "Register massive Kinetic release.",
+    "step_2_seed_fallout": "Paint the local Map with [R_L] data sphere.",
+    "step_3_irradiate": "Sweep all enclosed elements (Neutral, Feral, Sovereign).",
+    "step_4_warp_or_burn": "Apply Mutation Math based on depth inside the hot-zone.",
+    "step_5_hazard_decay": "Slowly cool the quadrant over prolonged cyclic inactivity."
+  },
+
+  "telemetry_geiger_report_schema": {
+    "header_format": "{Geiger-Topology Hazard Report} - [Contamination Scan]",
+    "fields": {
+      "sector_monitored": "Coordinate location of the blast zone.",
+      "ambient_contamination_level": "Percentage intensity of the lingering Joule-fallout.",
+      "blast_provenance": "The historical action that caused the radiation.",
+      "observed_mutagenesis": "Status update on ambient logic caught in the crossfire.",
+      "sovereign_hazard_warning": "Immediate tactical threat to the OPC's own structural integrity if it remains in the zone."
+    }
+  }
+}
