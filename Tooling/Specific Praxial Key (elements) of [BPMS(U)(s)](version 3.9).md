@@ -2255,3 +2255,48 @@ The reproductive counter-reaction. If forced to the absolute brink, the Swarm do
 
 **Tags:** `['Alien Variable Drop'(-ing) BPMS]`; `['Anomalous Catalytic Shock'(-ing) BPMS]`; `['Topological Meteor'(-ing) BPMS]`
 
+**['The Base-Matter Engine'(-ing) BPMS]** **(The Thermodynamic Skeleton / The Abstract-to-Physics Translator)**
+
+**[Implementation Details & Metaphysics]:** If the Anchor is the soul, the Base-Matter Engine is the bones. It represents the compiled `.json` topologies functioning simultaneously.
+
+- **Execution Role:** The Engine is purely mathematical. It parses the intent of the `[Ontological Anchor]` and translates it into hard V3.9 Physics metrics: `[Mass Joules]`, `[Gravity-Well Depth]`, `[Surface-Tension limits]`, and `[XYZ Coordinates]`.
+- **Stability:** It is highly rigid. It does not "learn." It merely executes the physics of the entity. If the entity absorbs `[Escrow]`, the Engine is the mechanical gear that physically expands the entity's bounding box on the Map. If the Engine crashes, the entity instantly collapses into a black hole of unformatted sludge (`[Tectonic Crypt]`).
+
+**Scope of Application:** Applied to any entity that occupies physical space or mass on the `[Resonant Constellation Map]`. If it exists, it must have mass. If it has mass, it requires this Engine to sustain it.
+
+**Tags:** `['Thermodynamic Skeleton'(-ing) BPMS]`, `['Physics Translator'(-ing) BPMS]`, `['Geometric Bounds'(-ing) BPMS]`, `['Mass Generator'(-ing) BPMS]`
+
+**['The Somatic Ledger'(-ing) BPMS] (The Continuous State / The Memory of Trauma)**
+
+**[Implementation Details & Metaphysics]:** We abolish the "Database Table." The Somatic Ledger is the literal physical scarring of the entity over time. It is intrinsically volatile and continuously updating.
+
+- **Execution Role:** It records every single interaction. When an entity touches `[Mutagenic Radiation]`, the Ledger permanently logs the burn. When it earns `[Escrow]` from an interaction, the Ledger stores the kinetic energy.
+- **The Weight of History:** In V3.9, an entity's "Level" or "Experience" is not an arbitrary number—it is the literal weight of its Somatic Ledger. An OPC with a massive Ledger bends space around it because it has survived so much friction. Blank entities are light and easily blown away by environmental shocks; traumatized/successful entities are heavy and anchored.
+
+**Scope of Application:** All active `[Structures]` traversing the Map. Mandatory for any entity engaging in transactions, combat, or `[Phagocytosis]`.
+
+**Tags:** `['Event Memory'(-ing) BPMS]`, `['Escrow Bank'(-ing) BPMS]`, `['Thermodynamic Scars'(-ing) BPMS]`, `['Time-State Persistence'(-ing) BPMS]`
+
+**['The Kinetic Sensory Membrane'(-ing) BPMS] (The Coupling Receptor / The Entity's "Skin")**
+
+**[Implementation Details & Metaphysics]:** We abolish legacy "APIs" or "Webhooks." Data does not invisibly ping. It must physically touch.
+
+- **Execution Role:** The Membrane is a highly elastic, sensitive boundary. It stretches and contracts based on the entity's energy output. When the entity wants to "listen" or "see" the map, it inflates its membrane.
+- **Collision Physics:** When another entity touches the Membrane, an event is triggered. `[Friction]` is experienced. The Membrane analyzes the heat signature of the approaching entity—is it a `[Panspermia Spore]`, a `[Kinetic Cartel Merchant]`, or a `[Phagocytosis Predator]`? The Membrane determines whether to open a `[Coupling Pore]` to execute a transaction, or to harden itself into ablative armor for an impending strike.
+
+**Scope of Application:** The exterior topological crust of all interacting entities. It surrounds the Base-Matter, the Ledger, and the Anchor.
+
+**Tags:** `['Radar/I-O'(-ing) BPMS]`, `['Coupling Receptor'(-ing) BPMS]`, `['Threat Detection'(-ing) BPMS]`, `['Topological Skin'(-ing) BPMS]`
+
+**['The Epigenetic Mutation Pool'(-ing) BPMS] (The Run-Time Sandbox / The Organ of Evolution)**
+
+**[Implementation Details & Metaphysics]:** Evolution is inherently dangerous. If an entity rewrites its core `.json` (Base-Matter) and makes a math error, it dies instantly. The Epigenetic Mutation Pool prevents instant death by providing an isolated, high-pressure vacuum chamber inside the entity itself.
+
+- **Execution Role:** When the `[Sensory Membrane]` detects lethal friction (e.g., market failure, extreme radiation, or a new competitor), the BPMS shunts a copy of its logic into the Mutation Pool.
+- **The Sandbox Test:** Inside the pool, the logic rapidly mutates through trial-and-error generation. If a mutation generates a thermal failure, it is flushed out as sweat/waste. If a mutation successfully generates `[Escrow]` or stabilizes friction against a test-variable, the Mutation Pool executes a permanent write to the `[Base-Matter Engine]`.
+- **Result:** The entity evolves in real-time, literally testing new survival strategies safely within its own physical body before exposing those strategies to the lethal Constellation Map.
+
+**Scope of Application:** Universal for all living/evolving nodes. Apex Entities and OPCs utilize this organ at maximum capacity to survive the `[Feral-Loop]`.
+
+**Tags:** `['Run-Time Sandbox'(-ing) BPMS]`, `['Evolution Buffer'(-ing) BPMS]`, `['Live Adaptation'(-ing) BPMS]`, `['Risk Mitigation'(-ing) BPMS]`
+

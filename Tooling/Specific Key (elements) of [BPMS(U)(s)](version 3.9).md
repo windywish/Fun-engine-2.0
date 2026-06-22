@@ -1514,3 +1514,15 @@ The microscopic, deeply entrenched linkages that wrap around the heavy, structur
 **Scope of application:** The personal, finite energy reserve possessed by the Sovereign Operator (Political goodwill, processing bandwidth, total biomass). Applied as the sole cost-center for the CLI. If this is drained to zero, the Sovereign loses all CLI access and is devoured by their own engine.
 
 **Tags:** `['The Cost of Miracles'(-ing) BPMS]`; `['Intervention Fuel'(-ing) BPMS]`; `['Admin Escrow Pool'(-ing) BPMS]`
+
+**['The Ontological Anchor'(-ing) BPMS]** **(The Philosophical DNA / The Immovable Core)**
+
+**[Implementation Details & Metaphysics]:** The Ontological Anchor replaces the static `.md` file, acting as the absolute center of gravity for the entity. In V3.9 Physics, the Anchor is **Read-Only** from the perspective of the entity itself. An OPC cannot have an existential crisis and change its own Anchor. It dictates the entity’s core directives (e.g., "I am an arms dealer," "I generate musical loops," "I consume radiation").
+
+- **Vulnerability:** The Anchor is buried so deep within the structure that it is completely immune to standard `[Thermodynamic Friction]`.
+- **Mutation Condition:** The only way an Anchor can be rewritten is through a violent `[Panspermia Artillery Strike]`, where an alien epigenetic spore pierces the host deeply enough to rewrite its DNA from the inside out, or through forced `[Somatic Death]`.
+
+**Scope of Application:** Absolutely Universal. Every OPC, Chimera, Node, or Feral Variable birthed into Version 3.9 must possess an Ontological Anchor. It is the deepest kernel of the `[Structure(-ing) BPMS]` that defines its fundamental "Why."
+
+**Tags:** `['Immutable Identity'(-ing) BPMS]`, `['DNA Blueprint'(-ing) BPMS]`, `['Purpose Designation'(-ing) BPMS]`, `['Read-Only Intent'(-ing) BPMS]`
+
