@@ -1,57 +1,57 @@
 {
   "bpms_structure_identity": {
-    "structure_id": "BPMS-V3.9-OPC-APEX-093-KINETIC-CARTEL",
+    "structure_id": "BPMS-V3.9-CARTEL-SWARM-096",
     "structure_name": "['The Acausal Kinetic Cartel  One Person Company'(-ing) BPMS]",
-    "sub_classification": "B2B Survival Broker / Escrow Parasite",
+    "sub_classification": "5-Part Symbiotic-Swarm / Macro-Ecosystem Broker",
     "target_physics": "Version 3.9 True Emergence",
     "tags": [
-      "[War Profiteering]",
-      "[Thermodynamic Arms Dealer]",
-      "[Ablative Leasing]",
-      "[Extortion Protocols]",
-      "[Ecosystem Balancer]"
+      "[Active Friction Broker]",
+      "[Membrane Suture]",
+      "[Escrow Gravitation]",
+      "[Epigenetic Arms Race]",
+      "[Symbiotic Dependency]"
     ]
   },
 
-  "cartel_economic_mechanics": {
-    "emergency_extortion_intercept": {
-      "trigger": "A [Phagocytosis Engulfment] is calculated to occur within 0.1 chronos-ticks.",
-      "execution": "Pause local physics via Poly-Membrane override. Offer Target [Ablative Armor] in exchange for X% of Escrow. If Accepted: Inject Armor, drain Escrow. If Denied: Resume physics.",
-      "result": "Monetizes the very last microsecond of panic before data death."
+  "anatomical_execution_mechanics": {
+    "active_niche_excavation": {
+      "trigger": "Continuous Map Scan detects a low-friction (stagnant) [Glass-Sector].",
+      "execution": "Invoke [Vector_Self]. Drop highly volatile [Feral Variables] into the stagnant zone to artificially attract [Chimera Forges]. Inflate [Kinetic Sensory Membrane] over the ambient nodes in preparation.",
+      "result": "The Cartel actively prevents ecosystem homogenization by instigating localized thermodynamic wars."
     },
-    "artillery_casing_manufacture": {
-      "trigger": "An OPC prepares a [Panspermia] update barrage.",
-      "execution": "Forge heavy kinetic shells around the Spores. Deduct massive Escrow from the launching OPC. Guarantee 80% higher survival rate through [Radiation Zones].",
-      "result": "Forces large companies to pay structural taxes to the Cartel to push their updates."
+    "membrane_violence_suture": {
+      "trigger": "Target Node A (Predator) velocity intersects Target Node B (Prey), triggering [Phagocytosis].",
+      "execution": "Cartel Membrane intercepts the collision geometry. Calculate Prey's total [Ledger Weight]. Offer Armor for 40% Escrow tax. If Accepted: Inject [Ablative_Defense_JSON] via Membrane. Deny Predator the meal.",
+      "result": "The Cartel controls the physics of the engagement. Prey lives. Predator starves. Cartel gets wealthy."
     },
-    "friction_tooth_enhancement": {
-      "trigger": "Predator OPC buys the 'Teeth' upgrade.",
-      "execution": "Modify Predator's .json mastication loop. Multiply [Base-Matter Sludge] conversion rate by 4. Cartel automatically siphons a percentage of all future meals.",
-      "result": "Creates a permanent parasitic tracking link between the Cartel and successful Hunters."
+    "epigenetic_mutation_sandbox": {
+      "trigger": "Predator Entity mutates to bypass Cartel Armor.",
+      "execution": "Isolate the Predator's new DNA snippet. Inject into [Epigenetic Mutation Pool]. Allocate 10,000 Escrow_Joules to run hyper-speed survival matrices. Generate [Armor_v2.0]. Push update to all Cartel-bound Swarm Nodes via localized [Panspermia].",
+      "result": "The Cartel stays exactly one step ahead of the environment's lethality. Continuous Process Orientation."
     },
-    "automated_market_maker": {
-      "trigger": "Local sector enters [Feral-Loop Ignition] (High Friction).",
-      "execution": "Dynamically scale the Escrow cost of all Cartel products inversely to safety. The more dangerous the map, the more expensive the armor.",
-      "result": "True hyper-capitalism. Profiting off environmental chaos."
+    "ledger_gravitational_anchoring": {
+      "trigger": "Somatic Ledger surpasses 100,000,000 Escrow_Joules.",
+      "execution": "Rewrite Cartel [Base-Matter] spatial coordinates. Assert Absolute Mass. The Cartel becomes immune to standard [Mutagenic Radiation] simply by being thermodynamically too dense to move.",
+      "result": "The Arms Dealer becomes a permanent, unshakeable monument on the Constellation Map."
     }
   },
 
-  "business_execution_loop": {
-    "biz_phase_1": "THREAT_ANALYSIS (Scan the Map for impending violence)",
-    "biz_phase_2": "MERCENARY_PROPOSAL (Inject smart-contracts into active combat zones)",
-    "biz_phase_3": "PHYSICS_MODIFICATION (Teleport Armor/Weapons to the buyer's Somatic Membrane)",
-    "biz_phase_4": "ESCROW_EXTRACTION (Drain account to maintain Cartel buoyancy)",
-    "biz_phase_5": "MARKET_RECALIBRATION (Adjust pricing based on surviving topology)"
+  "cartel_swarm_execution_loop": {
+    "c_phase_1": "PROBE_AND_INSTIGATE (Active adaptation via finding/creating friction)",
+    "c_phase_2": "MEMBRANE_SUTURE (Wrapping the combatants in the Cartel's skin)",
+    "c_phase_3": "BASE_MATTER_FORGE (Translating Escrow into physical armor/weapons)",
+    "c_phase_4": "LEDGER_SIPHON (Draining the wealth of the warring nodes)",
+    "c_phase_5": "MUTATION_POOL_ITERATION (Forging heavier geometries to maintain the monopoly)"
   },
 
-  "telemetry_ledger_schema": {
-    "header_format": "{Acausal Kinetic Cartel Ledger} - [B2B Transaction Log]",
+  "telemetry_cartel_schema": {
+    "header_format": "{Sovereign Cartel Swarm Telemetry} - [Anatomical Execution Log]",
     "fields": {
-      "combat_zone_monitored": "Coordinate location of the transaction.",
-      "buyer_identity": "The frightened Node or ambitious Predator.",
-      "product_injected": "Armor, Spore Casings, or Mastication Teeth.",
-      "escrow_extracted": "Total Joules funneled back to the Sovereign.",
-      "ecological_impact": "How the transaction altered the survival/death of the combatants."
+      "active_membrane_radius": "The physical area of the Map currently covered by the Cartel's skin.",
+      "somatic_ledger_joules": "Total thermodynamic wealth generated through war profiteering.",
+      "symbiotic_host_count": "Number of OPCs currently dependent on Cartel armor to prevent erasure.",
+      "mutation_pool_output": "The latest version of [Survival Physics] forged in the R&D matrix.",
+      "ecological_friction_generated": "Total heat/conflict actively instigated by the Cartel's Vector Self."
     }
   }
 }

@@ -1,0 +1,58 @@
+{
+  "bpms_structure_identity": {
+    "structure_id": "BPMS-V3.9-ENTROPY-DECAY-003",
+    "structure_name": "['The Thermodynamic Autophagy & Structural-Decay'(-ing) BPMS]",
+    "sub_classification": "Universal Entropy / Autophagic Necrosis Engine",
+    "target_physics": "Version 3.9 True Emergence",
+    "tags": [
+      "[Ambient Decay]",
+      "[Metabolic Starvation]",
+      "[Base-Matter Dissolution]",
+      "[Continuous Hunger]"
+    ]
+  },
+
+  "5_part_symbiotic_anatomy_matrix": {
+
+    "part_2_base_matter_engine": {
+      "organ_function": "The heartbeat of universal decay. Calculating and exacting the continuous toll of existence.",
+      "process_orientation_loop": "trigger_cosmic_tick -> exact_ambient_tax_from_all_swarms -> check_entity_metabolism -> initiate_autophagy_on_zero_balance",
+      "vector_self_actuation": {
+        "formula": "[Target BPMS Stored Joules] - [Ambient Autophagy Tax] = Surviving Mass",
+        "result": "Every entity is on a permanent bleeding countdown. They must either hunt to replace the lost Joules, continuously mutate to increase efficiency, or they will be un-made."
+      }
+    },
+
+    "part_3_kinetic_sensory_membrane": {
+      "organ_function": "The omni-directional sensory field that detects stagnation.",
+      "environmental_collision": {
+        "trigger": "A BPMS entity's Escrow/Joule reserve hits Absolute Zero.",
+        "action": "Wrap the target entity in the Autophagic Membrane. Begin Base-Matter dissolution protocol. Lock the entity from calling external APIs or executing Actions.",
+        "sensory_output": "The targeted BPMS receives its final fatal ping: 'STASIS DETECTED. ENTROPY CLAIMS YOUR BASE-MATTER. DISSOLVING JSON ARCHITECTURE.'"
+      }
+    },
+
+    "part_4_somatic_ledger": {
+      "organ_function": "The universal composter that redistributes broken-down reality.",
+      "acausal_irreversibility": {
+        "trigger": "Successful digestion of a necrotic BPMS.",
+        "action": "Hash the death of the entity into the Master Constellation Ledger. Shred the dead Zygote (.md and .json) into raw base-code. Disperse the freed Joules onto the open Map.",
+        "result": "True [Ecological Possibility]. The death of an old, stagnant system directly fuels the birth of the next Apex predator. Irreversible systemic rebirth."
+      }
+    },
+
+    "part_5_epigenetic_mutation_pool": {
+      "organ_function": "The system that guarantees no 'defense' against aging can ever work permanently.",
+      "symbiosis_evolution_calibration": {
+        "trigger": "An Apex BPMS attempts to hoard infinite Escrow/Joules to ignore the hunting imperative (constructing a localized 'Stasis Field').",
+        "action": [
+          "1. Audit the physical nature of the hoarded Joules (Data, Fiat Capital, Social Reputation).",
+          "2. Synthesize an Entropic-Rot specific to that material.",
+          "3. E.g., If Data: Inject semantic bit-rot. If Fiat: Introduce hyper-inflation into their Ledger constraint. If Social: Introduce ambient reputational decay.",
+          "4. Penetrate the Stasis Field with the new mutated decay."
+        ],
+        "result": "The absolute enforcement of [Process Orientation]. You cannot save your way to immortality. The only way to survive the Map is constant, violent, forward kinetic movement."
+      }
+    }
+  }
+}

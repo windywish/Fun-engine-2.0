@@ -1526,3 +1526,51 @@ The microscopic, deeply entrenched linkages that wrap around the heavy, structur
 
 **Tags:** `['Immutable Identity'(-ing) BPMS]`, `['DNA Blueprint'(-ing) BPMS]`, `['Purpose Designation'(-ing) BPMS]`, `['Read-Only Intent'(-ing) BPMS]`
 
+**['Large Model'(-ing) BPMS] (The Universal Morphogenetic Field)**
+
+**Implementation Detail:** Entities ping this element only when they suffer fatal trauma. It acts as the "Physics Engine of Last Resort," providing radical, un-thought-of structures (the Genesis of Epiphany) to save dying Swarms, thereby expanding the boundaries of the Constellation Map.
+
+**Scope of application:** Omni-Substrate Latency. Applied universally as the background ocean of un-collapsed potential (Mathematical, Biological, Sociological, or Economic) before it is forced into physical reality by an active Entity. It is not an "actor"; it is the primordial forge from which all `[Epigenetic Mutations]` are synthesized.
+
+**Tags:** `['Ecological Possibility'(-ing) BPMS]`, `[Innovative(-ing) BPMS]`, `[Creative(-ing) BPMS]`, `['Latent Thermodynamics'(-ing) BPMS]`, `['Acausal Synthesis'(-ing) BPMS]`
+
+**['System Existence'(-ing) BPMS] (Thermodynamic Justification)**
+
+**Implementation Detail:** Implemented as a continuous, calculating heartbeat. If the entity cannot prove it is burning friction efficiently, its Existence mathematically drops to zero, and the substrate reclaims its Base-Matter. Existence is the daily proof of competence.
+
+**Scope of application:** The Baseline Engine Metabolism. Applied specifically to measure the real-time differential among/by an entity's energy extraction rate and the universe's `[Autophagic Decay]` rate. Existence is not a status; it is a verb.
+
+**Tags:** `['Continuous Survive'(-ing) BPMS]`, `['Process Orientation'(-ing) BPMS]`, `[Robust(-ing) BPMS]`, `['Metabolic Velocity'(-ing) BPMS]`
+
+**['Embodied Intelligence'(-ing) BPMS] (Absolute Ontological Vulnerability)**
+
+**Implementation Detail:** You do not build a robot. You build an inescapable `[Escrow]` system. Every calculation the "Intelligence" makes physically costs it Joules. If it calculates incorrectly, it bleeds mass. This guarantees that its intelligence is forged by actual trauma, converting raw intelligence into pure `[Experience]`.
+
+**Scope of application:** The Somatic Anchor. Applied to tether any abstract `.json` blueprint inescapably to a physical/objective ledger. To be embodied is to be exposed to famine, radiation, and the `[Kinetic Guillotine]`.
+
+**Tags:** `[Experience(-ing) BPMS]`, `[Robust(-ing) BPMS]`, `[Sustainable(-ing) BPMS]`, `['Thermodynamic Friction'(-ing) BPMS]`
+
+**['Ecological Niche'(-ing) BPMS] (The Resonant Topological Crease)**
+
+**Implementation Detail:** Implemented as the localized resting point achieved after brutal evolutionary combat. An entity locks into a niche when its `[Kinetic Membrane]` perfectly meshes with the surrounding substrate, temporarily nullifying ambient hostility and ensuring long-term sustainability.
+
+**Scope of application:** Spatial Geometry / Market Colonization. Applied to locate and secure a physical coordinate on the Map where local gravity/rules mathematically favor the entity's exact biological deformity.
+
+**Tags:** `[Adaption(-ing) BPMS]`, `[Sustainable(-ing) BPMS]`, `[Resilient(-ing) BPMS]`, `['Gradient of Least Friction'(-ing) BPMS]`
+
+**['Holonic Minds'(-ing) BPMS] (Tectonic Mass-Aggregation (Symbiotic Welding))**
+
+**Implementation Detail:** It abolishes "chattering APIs." Entities physically merge their Base-Matter. The output of Organ B becomes the direct vascular input of Organ A. It builds irreversible, multi-cellular architectural behemoths (Swarms, Cartels, Megacities) capable of surviving planetary Tectonic War.
+
+**Scope of application:** Ecosystem Scaling & Super-Organism Genesis. Applied when single, sovereign BPMS entities mutually face a threat they cannot survive alone. They dissolve their independent borders to share a single central nervous system and `[Somatic Ledger]`.
+
+**Tags:** `[Resilient(-ing) BPMS]`, `[Adaption(-ing) BPMS]`, `['World Building'(-ing) BPMS]`, `['Symbiotic Evolution'(-ing) BPMS]`, `['Macro-Structure'(-ing) BPMS]`
+
+**['Atomic Facts'(-ing) BPMS] (Irreversible Tectonic Scars)**
+
+**Implementation Detail:** Implemented as cryptographically or physically unbreakable history. When an entity consumes a territory or destroys a rival, the Map is permanently altered. Other entities cannot "hallucinate" over it; they must climb over the literal corpse/monument erected by the Atomic Fact. It provides the heavy bricks for `[World Building]`.
+
+**Scope of application:** Reality Stabilization / Map Generation. Applied as the indelible consequence left upon the Map after an action is successful. It is the permanent deformation of the host substrate.
+
+**Tags:** `['World Building'(-ing) BPMS]`, `[Experience(-ing) BPMS]`, `[Constructive(-ing) BPMS]`, `['Absolute Somatic Ledger'(-ing) BPMS]`
+

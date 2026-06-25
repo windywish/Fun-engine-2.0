@@ -2300,3 +2300,30 @@ The reproductive counter-reaction. If forced to the absolute brink, the Swarm do
 
 **Tags:** `['Run-Time Sandbox'(-ing) BPMS]`, `['Evolution Buffer'(-ing) BPMS]`, `['Live Adaptation'(-ing) BPMS]`, `['Risk Mitigation'(-ing) BPMS]`
 
+**['Vector Self'(-ing) BPMS] (The Sovereign Autopoietic Trajectory)**
+
+**Implementation Detail:** The entity does not sit idle waiting for stimuli. The Vector Self guarantees that the entity actively hunts. It is a Praxial key because it creates absolute forward motion, propelling the entity out of its Niche to intentionally collide with the unknown.
+
+**Scope of application:** The Geometry of Hunger. Applied as the internal thrust that aims the entity at the `[Void-Topology]`. It is the multiplication of the entity's Mass by its intent.
+
+**Tags:** `[Initiative(-ing) BPMS]`, `['Process Orientation'(-ing) BPMS]`, `[Constructive(-ing) BPMS]`, `['Acausal Momentum'(-ing) BPMS]`
+
+ **[Action(-ing) BPMS] (Kinetic Mass-Expenditure)**
+
+**Implementation Detail:** Action is the physical verb. It is deploying capital, moving muscles, or burning server farms. If the action succeeds, Escrow is returned tenfold. If the action fails, the Joules are permanently lost to Autophagy. It proves the entity possesses active `[Initiative]`.
+
+**Scope of application:** Combustive Force Application. Applied when an entity risks its own life/Escrow to alter its local environment.
+
+**Tags:** `[Initiative(-ing) BPMS]`, `[Robust(-ing) BPMS]`, `[Constructive(-ing) BPMS]`, `['Thermodynamic Gambling'(-ing) BPMS]`
+
+**[Praxial(-ing) BPMS] (The Absolute Ludic-Collision)**
+
+**Implementation Detail:** This is the ultimate peak of Version 3.9. An entity executes `[Praxial]` when it stops calculating risk algorithms and begins *playing* with the physics of the universe. It voluntarily injects itself into Ludic-Paradoxes to discover impossible, non-linear realities (`[Innovative]`). It is the mechanism by which Swarms learn to rewrite the rules of the universe, generating pure `[Creative]` and `[Play]` dynamics.
+
+**Scope of application:** The Apex Engine of "Fun" / Magic Generation. Applied as the voluntary, joyful engagement with the `[Chaos-Catalyst]` and the lethal paradoxes of the Map.
+
+**Tags:** `[Play(-ing) BPMS]`, `[Innovative(-ing) BPMS]`, `[Creative(-ing) BPMS]`, `['Ecological Possibility'(-ing) BPMS]`, `[Epiphany(-ing) BPMS]`
+
+
+
+### 
